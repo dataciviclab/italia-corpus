@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Nel Comitato di liquidazione per le pensioni di guerra, previsto dall'[art. 51 del regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni, e' incluso un membro avente la qualifica di mutilato od invalido per la lotta di liberazione o di partigiano combattente.
+Nel Comitato di liquidazione per le pensioni di guerra, previsto dall'[art. 51 del regio decreto 12 luglio 1923, n. 1491](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), e successive modificazioni, e' incluso un membro avente la qualifica di mutilato od invalido per la lotta di liberazione o di partigiano combattente.
 
 ## Art. 2.
 

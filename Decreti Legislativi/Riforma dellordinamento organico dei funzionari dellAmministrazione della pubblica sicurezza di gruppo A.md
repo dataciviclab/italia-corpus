@@ -38,7 +38,7 @@ Il ruolo organico dei funzionari di pubblica sicurezza (gruppo A) dell'Amministr
  aggiunti.........................................505))
 
  
- L'organico sopra stabilito assorbe gli aumenti temporanei dei posti di questore e di commissario capo autorizzati con l'[art. 19 della legge 26 gennaio 1942, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-26;39#art_19), ed e' comprensivo delle variazioni in aumento del ruolo dell'Amministrazione di pubblica sicurezza previste dall'[art. 3 del decreto legislativo luogotenenziale 15 febbraio 1945, n. 43](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Corpo%20di%20polizia%20dellAfrica%20italiana.%20045U0043.md), a seguito dell'inquadramento in soprannumero degli uffici i provenienti dal soppresso Corpo della polizia dell'Africa italiana.
+ L'organico sopra stabilito assorbe gli aumenti temporanei dei posti di questore e di commissario capo autorizzati con l'[art. 19 della legge 26 gennaio 1942, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-26;39#art_19), ed e' comprensivo delle variazioni in aumento del ruolo dell'Amministrazione di pubblica sicurezza previste dall'[art. 3 del decreto legislativo luogotenenziale 15 febbraio 1945, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Soppressione%20del%20Corpo%20di%20polizia%20dellAfrica%20italiana.%20045U0043.md), a seguito dell'inquadramento in soprannumero degli uffici i provenienti dal soppresso Corpo della polizia dell'Africa italiana.
 
 ## Art. 2.
 
@@ -58,7 +58,7 @@ Agli ispettori generali capi spetta alle condizioni previste dalle disposizioni 
 ## Art. 5.
 
 Le promozioni a questore sono conferite per merito comparativo, su designazione del Consiglio di amministrazione del personale di pubblica sicurezza, ai vice questori che abbiano compiuto almeno tre anni di anzianita' nel grado. ((2))
- Il [regio decreto 18 marzo 1923, n. 762](../Regi%20decreti/Che%20autorizza%20a%20conferire%20temporaneamente%20e%20fino%20a%20nuova%20disposizione%20le%20funzioni%20di%20questore%20a%20persone%20estranee%20allAmministrazione%20della%20pubblica%20sicurezza.%20023U0762.md), sul conferimento delle funzioni di questore ad estranei all'Amministrazione della pubblica sicurezza, e' abrogato.
+ Il [regio decreto 18 marzo 1923, n. 762](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20autorizza%20a%20conferire%20temporaneamente%20e%20fino%20a%20nuova%20disposizione%20le%20funzioni%20di%20questore%20a%20persone%20estranee%20allAmministrazione%20della%20pubblica%20sicurezza.%20023U0762.md), sul conferimento delle funzioni di questore ad estranei all'Amministrazione della pubblica sicurezza, e' abrogato.
 
 ---------------
 

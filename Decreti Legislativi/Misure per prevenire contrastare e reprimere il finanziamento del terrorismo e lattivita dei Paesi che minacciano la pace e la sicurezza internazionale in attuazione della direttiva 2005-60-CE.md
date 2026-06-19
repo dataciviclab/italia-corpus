@@ -83,7 +83,7 @@ Il [D.Lgs. 21 novembre 2007, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md), ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md), ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 2. — (( (Finalita' e ambito di applicazione).))
 
@@ -101,7 +101,7 @@ Il presente decreto detta misure per prevenire l'uso del sistema finanziario a s
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md), ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md), ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 3. — (Comitato di sicurezza finanziaria)
 
@@ -165,7 +165,7 @@ Ai componenti del Comitato non e' corrisposto alcun emolumento, indennita', o ri
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md), ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md), ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 4. — (( (Misure per dare diretta attuazione alle risoluzioni adottate dal Consiglio di sicurezza delle Nazioni Unite per il contrasto del finanziamento del terrorismo e del finanziamento dei programmi di proliferazione delle armi di distruzione di massa e nei confronti dell'attivita' di Paesi che minacciano la pace e la sicurezza internazionale). ))
 
@@ -183,7 +183,7 @@ Al fine di dare esecuzione alle misure di congelamento di fondi e risorse econom
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md), ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md), ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 4-bis. — (Misure di congelamento nazionali)
 
@@ -208,7 +208,7 @@ Il decreto di cui al comma 1, avente efficacia fin dalla data della sua adozione
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md), ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md), ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 4-ter. — (( (Proposte di designazione di individui o entita' alle Nazioni Unite e all'Unione europea). ))
 
@@ -234,7 +234,7 @@ Il Comitato trasmette la proposta motivata di inserimento dei soggetti nelle lis
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md), ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md), ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 4-quater. — (( (Procedimento di designazione). ))
 
@@ -290,7 +290,7 @@ Alla proposta di cui al comma 2 sono allegati copia degli eventuali provvediment
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md), ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md), ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 4-quinquies. — (( (Notifica di avvenuta iscrizione nelle liste e aggiornamenti). ))
 
@@ -330,7 +330,7 @@ L'UIF cura la diffusione dell'inserimento nelle liste dei soggetti sia presso gl
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md), ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md), ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 4-sexies. — (( (Procedura di cancellazione dalle liste). ))
 
@@ -364,7 +364,7 @@ Il Comitato, avvalendosi del Nucleo speciale di polizia valutaria della Guardia 
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md), ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md), ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 4-septies. — (( (Procedure di esenzione dal congelamento dei fondi e delle risorse economiche). ))
 
@@ -390,7 +390,7 @@ In caso di esenzione, il Comitato si avvale del Nucleo speciale di polizia valut
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md), ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md), ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 5. — (( (Effetti del congelamento di fondi e di risorse economiche). ))
 
@@ -432,7 +432,7 @@ Il congelamento non pregiudica gli effetti di eventuali provvedimenti di sequest
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 6. — (( (Adempimenti a carico delle Amministrazioni che curano la tenuta dei pubblici registri) ))
 
@@ -450,7 +450,7 @@ In relazione a quanto stabilito dal comma 1, il Comitato stabilisce intese con l
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 7. — (( (Obblighi di comunicazione). ))
 
@@ -478,7 +478,7 @@ Il [D.Lgs. 21 novembre 2007, n.231](https://www.normattiva.it/uri-res/N2Ls?urn:n
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 8.
 
@@ -504,7 +504,7 @@ Le attribuzioni della UIF, previste dalle disposizioni vigenti per la prevenzion
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 11. — (( (Nucleo speciale di polizia valutaria). ))
 
@@ -534,18 +534,18 @@ Fatte salve le disposizioni del [codice di procedura penale](https://www.normatt
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 12. — (Compiti dell'Agenzia del Demanio)
 
 1.
 
 Ferme restando le disposizioni di cui ai [decreti legislativi 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), recante il testo unico delle leggi in materia bancaria e creditizia, e 24 febbraio 1998, n. 58, recante il testo unico delle disposizioni in materia di intermediazione finanziaria, l'Agenzia del demanio provvede alla custodia, all'amministrazione ed alla gestione delle risorse economiche oggetto di congelamento, effettuando gli interventi minimi e indifferibili che si rendono necessari per evitare danni alle stesse nel limite delle risorse disponibili allo scopo. Se, nell'ambito di procedimenti penali o amministrativi, sono adottati provvedimenti di sequestro o confisca, aventi ad oggetto le medesime risorse economiche, alla gestione provvede l'autorita' che ha disposto il sequestro o la confisca.
-Resta salva la competenza dell'Agenzia del demanio nei casi in cui la confisca, disposta ai sensi del [decreto legislativo 6 settembre 2011, n. 159](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20delle%20leggi%20antimafia%20e%20delle%20misure%20di%20prevenzione%20nonche%20nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%2013%20agosto%202010%20n.%20136.%2011G0201.md), ovvero ai sensi dell'[articolo 12-sexies del decreto-legge 8 giugno 1992, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-06-08;306#art_12sexies), convertito, con modificazioni, dalla [legge 7 agosto 1992, n. 356](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20giugno%201992%20n.%20306%20recante%20modifiche%20urgenti%20al%20nuovo%20codice%20di%20procedura%20penale%20e%20provvedimenti%20di%20contrasto%20alla%20criminalita%20mafiosa.md), diviene definitiva. Resta altresi' salva la competenza dell'Agenzia del demanio nei casi in cui, in costanza di congelamento, gli atti di sequestro o confisca siano revocati.
+Resta salva la competenza dell'Agenzia del demanio nei casi in cui la confisca, disposta ai sensi del [decreto legislativo 6 settembre 2011, n. 159](../Codici/Codice%20delle%20leggi%20antimafia%20e%20delle%20misure%20di%20prevenzione%20nonche%20nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%2013%20agosto%202010%20n.%20136.%2011G0201.md), ovvero ai sensi dell'[articolo 12-sexies del decreto-legge 8 giugno 1992, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-06-08;306#art_12sexies), convertito, con modificazioni, dalla [legge 7 agosto 1992, n. 356](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20giugno%201992%20n.%20306%20recante%20modifiche%20urgenti%20al%20nuovo%20codice%20di%20procedura%20penale%20e%20provvedimenti%20di%20contrasto%20alla%20criminalita%20mafiosa.md), diviene definitiva. Resta altresi' salva la competenza dell'Agenzia del demanio nei casi in cui, in costanza di congelamento, gli atti di sequestro o confisca siano revocati.
 
 2.
 
-L'Agenzia del demanio, sulla base degli elementi di fatto e di diritto risultanti dalla relazione trasmessa dal Nucleo speciale di polizia valutaria della Guardia di finanza e sulla base di ogni altra informazione disponibile, provvede in via diretta, ovvero mediante la nomina di un custode o di un amministratore, allo svolgimento delle attivita' di cui al comma 1. A tale fine puo' compiere, direttamente ovvero tramite l'amministratore, tutti gli atti di ordinaria amministrazione. Per gli atti di straordinaria amministrazione e' necessario il parere favorevole del Comitato. Laddove sussistano motivi di indifferibilita' ed urgenza, al fine di compiere gli atti gestionali di cui al comma 1, fermi restando i vincoli derivanti dall'applicazione della [direttiva 2014/24/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;24), l'Agenzia del demanio puo' procedere all'affidamento di contratti di lavori, forniture e servizi anche in deroga alle disposizioni del codice di cui al [decreto legislativo 18 aprile 2016, n. 50](Codice%20dei%20contratti%20pubblici.%2016G00062.md).
+L'Agenzia del demanio, sulla base degli elementi di fatto e di diritto risultanti dalla relazione trasmessa dal Nucleo speciale di polizia valutaria della Guardia di finanza e sulla base di ogni altra informazione disponibile, provvede in via diretta, ovvero mediante la nomina di un custode o di un amministratore, allo svolgimento delle attivita' di cui al comma 1. A tale fine puo' compiere, direttamente ovvero tramite l'amministratore, tutti gli atti di ordinaria amministrazione. Per gli atti di straordinaria amministrazione e' necessario il parere favorevole del Comitato. Laddove sussistano motivi di indifferibilita' ed urgenza, al fine di compiere gli atti gestionali di cui al comma 1, fermi restando i vincoli derivanti dall'applicazione della [direttiva 2014/24/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;24), l'Agenzia del demanio puo' procedere all'affidamento di contratti di lavori, forniture e servizi anche in deroga alle disposizioni del codice di cui al [decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md).
 
 3.
 
@@ -571,7 +571,7 @@ Nel caso di congelamento di aziende che comportino l'esercizio di attivita' di i
 
 7-bis.
 
-Nel caso in cui per le attivita' di custodia di cui ai commi da 1 a 6 si renda necessario attribuire la bandiera nazionale a navi o ad aeromobili, come definiti dagli [articoli 136](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [743 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), nonche' a imbarcazioni o a navi da diporto, come definite dall'[articolo 3 del codice della nautica da diporto](Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md), di cui al [decreto legislativo 18 luglio 2005, n. 171](Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md), i predetti beni che, per effetto di misure di congelamento adottate ai sensi del presente decreto, non risultano piu' iscritti presso alcun registro pubblico, neanche straniero, possono essere temporaneamente iscritti a nome dell'erario dello Stato, rispettivamente, nelle matricole o nei registri di cui agli [articoli 146](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [756 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) o nell'Archivio telematico centrale delle unita' da diporto previsto dall'articolo 15 del codice di cui al [decreto legislativo 18 luglio 2005, n. 171](Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md). Ai fini della predetta iscrizione, non e' richiesta alcuna documentazione tecnica ed e' sufficiente, in luogo del titolo di proprieta', la presentazione del provvedimento che dispone la misura di congelamento e, fino alla restituzione all'avente diritto con conseguente cancellazione dalle matricole, dai registri o dall'Archivio nazionali, i predetti beni sono esenti da qualsiasi tassa, diritto o tariffa connessi all'iscrizione. Per tutta la durata della misura di congelamento e' sospeso il termine per l'appuramento di cui all'articolo 217 del regolamento delegato (UE) 2015/2446 della Commissione, del 28 luglio 2015. Per la custodia dei beni di cui al presente comma ci si avvale, con titolo di priorita', delle strutture portuali e aeroportuali statali, civili e militari, che devono essere messe a disposizione a titolo gratuito. I contratti concernenti il mantenimento dell'operativita' e della sicurezza di bordo dei beni di cui al presente comma, compresi quelli relativi alla gestione amministrativa, contabile e previdenziale necessari all'armamento del mezzo, sono sottoposti alla stessa disciplina normativa, anche fiscale, applicata al momento dell'adozione della misura di congelamento. Le decisioni riguardanti l'attivita' di custodia, manutenzione e gestione dei beni di cui al presente comma sono adottate dall'Agenzia del demanio, d'intesa con le strutture territoriali del Ministero delle infrastrutture e della mobilita' sostenibili, compreso l'Ente nazionale per l'aviazione civile, in ragione delle competenze istituzionali esercitate e in funzione della tipologia dei beni oggetto di congelamento.
+Nel caso in cui per le attivita' di custodia di cui ai commi da 1 a 6 si renda necessario attribuire la bandiera nazionale a navi o ad aeromobili, come definiti dagli [articoli 136](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [743 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), nonche' a imbarcazioni o a navi da diporto, come definite dall'[articolo 3 del codice della nautica da diporto](Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md), di cui al [decreto legislativo 18 luglio 2005, n. 171](Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md), i predetti beni che, per effetto di misure di congelamento adottate ai sensi del presente decreto, non risultano piu' iscritti presso alcun registro pubblico, neanche straniero, possono essere temporaneamente iscritti a nome dell'erario dello Stato, rispettivamente, nelle matricole o nei registri di cui agli [articoli 146](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [756 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) o nell'Archivio telematico centrale delle unita' da diporto previsto dall'articolo 15 del codice di cui al [decreto legislativo 18 luglio 2005, n. 171](Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md). Ai fini della predetta iscrizione, non e' richiesta alcuna documentazione tecnica ed e' sufficiente, in luogo del titolo di proprieta', la presentazione del provvedimento che dispone la misura di congelamento e, fino alla restituzione all'avente diritto con conseguente cancellazione dalle matricole, dai registri o dall'Archivio nazionali, i predetti beni sono esenti da qualsiasi tassa, diritto o tariffa connessi all'iscrizione. Per tutta la durata della misura di congelamento e' sospeso il termine per l'appuramento di cui all'articolo 217 del regolamento delegato (UE) 2015/2446 della Commissione, del 28 luglio 2015. Per la custodia dei beni di cui al presente comma ci si avvale, con titolo di priorita', delle strutture portuali e aeroportuali statali, civili e militari, che devono essere messe a disposizione a titolo gratuito. I contratti concernenti il mantenimento dell'operativita' e della sicurezza di bordo dei beni di cui al presente comma, compresi quelli relativi alla gestione amministrativa, contabile e previdenziale necessari all'armamento del mezzo, sono sottoposti alla stessa disciplina normativa, anche fiscale, applicata al momento dell'adozione della misura di congelamento. Le decisioni riguardanti l'attivita' di custodia, manutenzione e gestione dei beni di cui al presente comma sono adottate dall'Agenzia del demanio, d'intesa con le strutture territoriali del Ministero delle infrastrutture e della mobilita' sostenibili, compreso l'Ente nazionale per l'aviazione civile, in ragione delle competenze istituzionali esercitate e in funzione della tipologia dei beni oggetto di congelamento.
 
 7-ter. Durante la vigenza della misura e fino alla restituzione delle risorse economiche congelate all'avente diritto, e' sospeso il versamento di imposte, tasse e tributi dovuti, il cui presupposto impositivo consista nella titolarita' del diritto di proprieta' o nel possesso delle stesse. In caso di cessazione della misura di congelamento, contestualmente alla restituzione delle risorse economiche all'avente diritto, l'Agenzia del demanio o l'amministratore ne da' comunicazione all'Agenzia delle entrate e agli altri enti competenti, che provvedono alla liquidazione delle imposte, tasse e tributi dovuti dal titolare del bene per il periodo di durata della predetta misura e fino alla restituzione all'avente diritto))
 
@@ -609,11 +609,11 @@ Dalla cessazione delle misure di congelamento comunicata ai sensi del comma 12, 
 
 14.
 
-Se nei centottanta giorni successivi alla comunicazione di cui al comma 12 l'avente diritto non si presenta a ricevere la consegna delle risorse economiche di cui e' stata disposta la restituzione, l'Agenzia del demanio provvede alla vendita delle stesse. Per i beni mobili e mobili registrati si osservano le norme di cui al [decreto del Presidente della Repubblica 13 febbraio 2001, n. 189](../DPR/Regolamento%20di%20semplificazione%20del%20procedimento%20relativo%20allalienazione%20di%20beni%20mobili%20dello%20Stato%20n.%2034%20allegato%201%20legge%208%20marzo%201999%20n.%2050.md). I beni mobili registrati sottoposti alla disciplina del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) per i quali e' accertata l'oggettiva impossibilita' di vendita, documentata attraverso tre appositi tentativi di vendita anche a trattativa privata, sono acquisiti al patrimonio dello Stato e assegnati in gestione al Ministero delle infrastrutture e della mobilita' sostenibili per usi funzionali alle attivita' istituzionali di competenza ovvero al Ministero dell'economia e delle finanze per usi funzionali alle attivita' istituzionali del Corpo della guardia di finanza.
+Se nei centottanta giorni successivi alla comunicazione di cui al comma 12 l'avente diritto non si presenta a ricevere la consegna delle risorse economiche di cui e' stata disposta la restituzione, l'Agenzia del demanio provvede alla vendita delle stesse. Per i beni mobili e mobili registrati si osservano le norme di cui al [decreto del Presidente della Repubblica 13 febbraio 2001, n. 189](../DPR/Regolamento%20di%20semplificazione%20del%20procedimento%20relativo%20allalienazione%20di%20beni%20mobili%20dello%20Stato%20n.%2034%20allegato%201%20legge%208%20marzo%201999%20n.%2050.md). I beni mobili registrati sottoposti alla disciplina del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) per i quali e' accertata l'oggettiva impossibilita' di vendita, documentata attraverso tre appositi tentativi di vendita anche a trattativa privata, sono acquisiti al patrimonio dello Stato e assegnati in gestione al Ministero delle infrastrutture e della mobilita' sostenibili per usi funzionali alle attivita' istituzionali di competenza ovvero al Ministero dell'economia e delle finanze per usi funzionali alle attivita' istituzionali del Corpo della guardia di finanza.
 
 15.
 
-I beni immobili e i beni costituiti in azienda ovvero in societa', decorso il suddetto termine di centottanta giorni dalla comunicazione di cui al comma 12, sono acquisiti al patrimonio dello Stato e gestiti, prioritariamente per finalita' sociali, secondo le disposizioni di cui al [decreto legislativo 6 settembre 2011, n. 159](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20delle%20leggi%20antimafia%20e%20delle%20misure%20di%20prevenzione%20nonche%20nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%2013%20agosto%202010%20n.%20136.%2011G0201.md).
+I beni immobili e i beni costituiti in azienda ovvero in societa', decorso il suddetto termine di centottanta giorni dalla comunicazione di cui al comma 12, sono acquisiti al patrimonio dello Stato e gestiti, prioritariamente per finalita' sociali, secondo le disposizioni di cui al [decreto legislativo 6 settembre 2011, n. 159](../Codici/Codice%20delle%20leggi%20antimafia%20e%20delle%20misure%20di%20prevenzione%20nonche%20nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%2013%20agosto%202010%20n.%20136.%2011G0201.md).
 
 16.
 
@@ -637,7 +637,7 @@ Alla copertura degli oneri derivanti dal presente articolo si provvede secondo q
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 12-bis. — (( (Gestione dei beni non finanziari oggetto di congelamento). ))
 
@@ -648,7 +648,7 @@ Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 13. — (( (Disposizioni sanzionatorie). ))
 
@@ -670,7 +670,7 @@ La violazione delle disposizioni di cui all'articolo 7 e' punita con una sanzion
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 13-bis. — (( (Misure ulteriori). ))
 
@@ -688,7 +688,7 @@ Nei casi di violazioni gravi o ripetute o sistematiche ovvero plurime delle disp
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 13-ter. — (( (Criteri per l'applicazione delle sanzioni). ))
 
@@ -730,7 +730,7 @@ Nei casi di violazioni gravi o ripetute o sistematiche ovvero plurime delle disp
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 13-quater. — (Procedimento sanzionatorio)
 
@@ -796,7 +796,7 @@ Ai procedimenti sanzionatori di cui al presente articolo si applicano, salvo che
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 14. — (( (Strumenti di tutela). ))
 
@@ -816,7 +816,7 @@ Decorso il predetto termine, l'Autorita' giurisdizionale decide allo stato degli
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 15.
 
@@ -835,7 +835,7 @@ L'attuazione delle restanti disposizioni del presente decreto non deve comportar
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 ## Art. 16. — (( (Disposizioni transitorie e finali) ))
 
@@ -853,7 +853,7 @@ Fino all'emanazione del decreto di nomina di cui all'articolo 3, comma 3, e comu
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 25 maggio 2017, n. 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
+Il [D.Lgs. 25 maggio 2017, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-849%20relativa%20alla%20prevenzione%20delluso%20del%20sistema%20finanziario%20a%20scopo%20di%20riciclaggio%20dei%20proventi%20di%20attivita%20criminose%20e%20di%20finanziamento%20del%20terrorism_9248bafa5a5e.md) ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

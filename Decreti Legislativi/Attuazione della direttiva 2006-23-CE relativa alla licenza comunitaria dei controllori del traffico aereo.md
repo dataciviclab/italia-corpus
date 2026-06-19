@@ -160,7 +160,7 @@ Nota all'art. 4:
 
 1.
 
-L'ENAC, ai sensi all'[articolo 734 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), provvede con proprio regolamento a definire i requisiti e le modalita' per il rilascio, il mantenimento, la sospensione e la revoca della licenza di studente o di controllore del traffico aereo.
+L'ENAC, ai sensi all'[articolo 734 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), provvede con proprio regolamento a definire i requisiti e le modalita' per il rilascio, il mantenimento, la sospensione e la revoca della licenza di studente o di controllore del traffico aereo.
 
 2.
 
@@ -344,7 +344,7 @@ Le specializzazioni di istruttore operativo, esaminatore e valutatore sono valid
 
 1.
 
-La certificazione medica e' rilasciata da un organo sanitario o da medici esaminatori riconosciuti dall'ENAC, in conformita' a quanto previsto all'[articolo 734 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+La certificazione medica e' rilasciata da un organo sanitario o da medici esaminatori riconosciuti dall'ENAC, in conformita' a quanto previsto all'[articolo 734 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 2.
 
@@ -371,7 +371,7 @@ I fornitori di servizi del traffico aereo istituiscono procedure affinche' i con
 Il titolare di una licenza si sottopone agli accertamenti sanitari per verificare l'assenza di assunzione di sostanze stupefacenti secondo le modalita' previste dalla normativa vigente.
 
 Note all'art. 11:
- - Per il testo dell'[art. 734 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) si veda la nota all'art. 5.
+ - Per il testo dell'[art. 734 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) si veda la nota all'art. 5.
  - Il [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) recante «[Codice in materia di protezione dei dati personali](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)» e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 29 luglio 2003, n. 174.
 
 ## Art. 12. — Certificazione delle organizzazioni di formazione
@@ -456,7 +456,7 @@ L'ENAC e' l'organismo responsabile dell'accertamento e dell'irrogazione delle sa
 
 8.
 
-Le previsioni di cui al presente articolo non si applicano all'Aeronautica militare, quale fornitore di servizio di controllo del traffico aereo, ai sensi dell'[articolo 21, comma 1 del codice dell'ordinamento militare](Codice%20dellordinamento%20militare.%2010G0089.md), nonche' al personale militare, che sono soggetti alle norme proprie dell'ordinamento militare.
+Le previsioni di cui al presente articolo non si applicano all'Aeronautica militare, quale fornitore di servizio di controllo del traffico aereo, ai sensi dell'[articolo 21, comma 1 del codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), nonche' al personale militare, che sono soggetti alle norme proprie dell'ordinamento militare.
 
 ))
 

@@ -68,13 +68,13 @@ Sono presentati all'ufficio distaccato per il controllo preventivo e la registra
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. Presidenziale 27 giugno 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;37) ha disposto (con l'art. 21, comma 1) che "Fino al 30 giugno 1947, sono decuplicati i limiti di spesa stabiliti nell'art. 3, 1° comma, del [decreto legislativo luogotenenziale 14 giugno 1945, n. 355](Istituzione%20di%20uffici%20distaccati%20della%20Corte%20dei%20conti%20presso%20i%20Provveditorati%20regionali%20alle%20opere%20pubbliche.%20045U0355.md)".
+Il [D.Lgs. Presidenziale 27 giugno 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;37) ha disposto (con l'art. 21, comma 1) che "Fino al 30 giugno 1947, sono decuplicati i limiti di spesa stabiliti nell'art. 3, 1° comma, del [decreto legislativo luogotenenziale 14 giugno 1945, n. 355](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20uffici%20distaccati%20della%20Corte%20dei%20conti%20presso%20i%20Provveditorati%20regionali%20alle%20opere%20pubbliche.%20045U0355.md)".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 17 aprile 1948, n. 777](../Decreti%20Legislativi/Modificazioni%20alle%20disposizioni%20sulla%20esecuzione%20di%20opere%20pubbliche%20e%20alle%20norme%20sulla%20costituzione%20ed%20il%20funzionamento%20dei%20Provveditorati%20alle%20opere%20pubbliche.md) ha disposto (con l'art. 10, comma 1) che "Con effetto dal 1 luglio 1947, e sino al 31 dicembre 1947, sono decuplicati i limiti di spesa stabiliti nell'[art. 3, primo comma, del decreto legislativo luogotenenziale 14 giugno 1945, n. 355](Istituzione%20di%20uffici%20distaccati%20della%20Corte%20dei%20conti%20presso%20i%20Provveditorati%20regionali%20alle%20opere%20pubbliche.%20045U0355.md)".
+Il [D.Lgs. 17 aprile 1948, n. 777](../Decreti%20Legislativi/Modificazioni%20alle%20disposizioni%20sulla%20esecuzione%20di%20opere%20pubbliche%20e%20alle%20norme%20sulla%20costituzione%20ed%20il%20funzionamento%20dei%20Provveditorati%20alle%20opere%20pubbliche.md) ha disposto (con l'art. 10, comma 1) che "Con effetto dal 1 luglio 1947, e sino al 31 dicembre 1947, sono decuplicati i limiti di spesa stabiliti nell'[art. 3, primo comma, del decreto legislativo luogotenenziale 14 giugno 1945, n. 355](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20uffici%20distaccati%20della%20Corte%20dei%20conti%20presso%20i%20Provveditorati%20regionali%20alle%20opere%20pubbliche.%20045U0355.md)".
 
 ## Art. 4.
 

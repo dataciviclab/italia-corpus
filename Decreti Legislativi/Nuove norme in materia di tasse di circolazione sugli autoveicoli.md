@@ -26,7 +26,7 @@ Le tariffe A, B, C e D, allegate al [decreto legislativo del Capo provvisorio de
 
 ## Art. 2.
 
-L'[art. 3 del decreto legislativo luogotenenziale 1 marzo 1945, n. 88](../Decreti%20legislativi%20luogotenenziali/Modificazione%20alle%20leggi%20sulle%20tasse%20automobilistiche.%20045U0088.md), quale risulta dalle modifiche apportatevi dall'[art. 21 del decreto legislativo del Capo provvisorio dello Stato 29 marzo 1947, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-29;177#art_21), e' sostituito dal seguente:
+L'[art. 3 del decreto legislativo luogotenenziale 1 marzo 1945, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20alle%20leggi%20sulle%20tasse%20automobilistiche.%20045U0088.md), quale risulta dalle modifiche apportatevi dall'[art. 21 del decreto legislativo del Capo provvisorio dello Stato 29 marzo 1947, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-29;177#art_21), e' sostituito dal seguente:
  (("Sono soggetti alla tassa di circolazione, in ragione di lire 500 per ogni cavallo di potenza del motore, i seguenti autoveicoli adibiti ad uso speciale e non atti comunque al trasporto di cose:
  1) trattrici stradali;
  2) avantreni distaccabili di autocarri snodati a tre assi;
@@ -71,13 +71,13 @@ Sono abrogati, con effetto dalla data di pubblicazione del presente decreto nell
 
 ## Art. 6.
 
-La riduzione del 60% sulla tassa di circolazione di prova accordata dall'[art. 19 del regio decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e successive modificazioni, alle fabbriche nazionali di autoveicoli e di autoscafi e relative carrozzerie, nonche' ai rappresentanti delle fabbriche stesse, e' estesa anche a favore dei concessionari per la vendita di autoveicoli ed autoscafi a condizione che i detti concessionari provino mediante idonei documenti, legalizzati, che la concessione di vendita sia stata loro conferita dalla casa fabbricante con mandato espresso:
+La riduzione del 60% sulla tassa di circolazione di prova accordata dall'[art. 19 del regio decreto 30 dicembre 1923, n. 3283](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), e successive modificazioni, alle fabbriche nazionali di autoveicoli e di autoscafi e relative carrozzerie, nonche' ai rappresentanti delle fabbriche stesse, e' estesa anche a favore dei concessionari per la vendita di autoveicoli ed autoscafi a condizione che i detti concessionari provino mediante idonei documenti, legalizzati, che la concessione di vendita sia stata loro conferita dalla casa fabbricante con mandato espresso:
  di avere una propria officina di riparazione;
  di essere iscritti nei ruoli dell'imposta di ricchezza mobile non solo per il reddito relativo al contratto di concessione, ma anche per quello derivante dall'esercizio della propria officina di riparazione.
 
 ## Art. 7.
 
-L'[art. 7 del decreto legislativo luogotenenziale 1 marzo 1945, n. 88](../Decreti%20legislativi%20luogotenenziali/Modificazione%20alle%20leggi%20sulle%20tasse%20automobilistiche.%20045U0088.md), e' sostituito dal seguente:
+L'[art. 7 del decreto legislativo luogotenenziale 1 marzo 1945, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20alle%20leggi%20sulle%20tasse%20automobilistiche.%20045U0088.md), e' sostituito dal seguente:
  "La misura della tassa di circolazione sugli autoveicoli ed autoscafi adibiti al trasporto di persone e la tassa unica di circolazione sugli autoveicoli, rimorchi ed autoscafi destinati al trasporto di cose e' stabilita in ragione di anno solare.
  Dette tasse debbono essere corrisposte esclusivamente in una delle seguenti forme:
  a) per l'intero anno solare, nel qual caso e' concessa la riduzione di un ventesimo sull'ammontare della tassa annua;
@@ -108,7 +108,7 @@ Gli autoveicoli appositamente carrozzati per il trasporto promiscuo di persone e
 
 ## Art. 11.
 
-Con effetto dal 1 gennaio 1949 sono abrogate le disposizioni contenute negli [articoli 5](../Decreti%20legislativi%20luogotenenziali/Modificazione%20alle%20leggi%20sulle%20tasse%20automobilistiche.%20045U0088.md) e [6 del decreto legislativo luogotenenziale 1 marzo 1945, n. 88](../Decreti%20legislativi%20luogotenenziali/Modificazione%20alle%20leggi%20sulle%20tasse%20automobilistiche.%20045U0088.md), riguardanti la concessione dell'abbuono del 30 per cento sulla tassa di circolazione per determinati trasporti.
+Con effetto dal 1 gennaio 1949 sono abrogate le disposizioni contenute negli [articoli 5](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20alle%20leggi%20sulle%20tasse%20automobilistiche.%20045U0088.md) e [6 del decreto legislativo luogotenenziale 1 marzo 1945, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20alle%20leggi%20sulle%20tasse%20automobilistiche.%20045U0088.md), riguardanti la concessione dell'abbuono del 30 per cento sulla tassa di circolazione per determinati trasporti.
 
 ## Art. 12.
 
@@ -123,7 +123,7 @@ Il Ministero delle finanze e' autorizzato ad istituire nuovi bollettari per la r
 ## Art. 14.
 
 L'[art. 20 del decreto legislativo del Capo provvisorio dello Stato 29 marzo 1947, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-29;177#art_20), e' modificato come segue:
- "A decorrere dal 1 maggio 1947 le tariffe A, B, C e D allegate al [decreto legislativo luogotenenziale 1 marzo 1945, n. 88](../Decreti%20legislativi%20luogotenenziali/Modificazione%20alle%20leggi%20sulle%20tasse%20automobilistiche.%20045U0088.md), e relative alle tasse automobilistiche, sono sostituite rispettivamente dalle tariffe A, B, C e D allegate al presente decreto e vistate dal Ministro per le finanze".
+ "A decorrere dal 1 maggio 1947 le tariffe A, B, C e D allegate al [decreto legislativo luogotenenziale 1 marzo 1945, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20alle%20leggi%20sulle%20tasse%20automobilistiche.%20045U0088.md), e relative alle tasse automobilistiche, sono sostituite rispettivamente dalle tariffe A, B, C e D allegate al presente decreto e vistate dal Ministro per le finanze".
 
 ## Art. 15.
 

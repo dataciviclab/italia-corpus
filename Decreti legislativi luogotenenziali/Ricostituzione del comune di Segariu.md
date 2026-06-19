@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 16 settembre 1927, n. 1854](../Regi%20decreti/Unione%20dei%20comuni%20di%20Furtei%20e%20Segariu%20in%20un%20unico%20Comune%20con%20capoluogo%20Furtei.%20027U1854.md);
+Visto il [R. decreto 16 settembre 1927, n. 1854](../Atti%20normativi%20abrogati%20%28in%20originale%29/Unione%20dei%20comuni%20di%20Furtei%20e%20Segariu%20in%20un%20unico%20Comune%20con%20capoluogo%20Furtei.%20027U1854.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944 n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Abb
 
 ## Art. 1.
 
-Il comune di Segariu aggregato con [R. Decreto 16 settembre 1927, n. 1854](../Regi%20decreti/Unione%20dei%20comuni%20di%20Furtei%20e%20Segariu%20in%20un%20unico%20Comune%20con%20capoluogo%20Furtei.%20027U1854.md), al comune di Furtei, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
+Il comune di Segariu aggregato con [R. Decreto 16 settembre 1927, n. 1854](../Atti%20normativi%20abrogati%20%28in%20originale%29/Unione%20dei%20comuni%20di%20Furtei%20e%20Segariu%20in%20un%20unico%20Comune%20con%20capoluogo%20Furtei.%20027U1854.md), al comune di Furtei, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Cagliari, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i comuni di Furtei e Segariu.
 
 ## Art. 2.

@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il comune di San Pietro Pula, aggregato a quello di Pula con [regio decreto 5 agosto 1927, n. 1523](../Regi%20decreti/Aggregazione%20del%20comune%20di%20San%20Pietro%20Pula%20a%20quello%20di%20Pula.%20027U1523.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
+Il comune di San Pietro Pula, aggregato a quello di Pula con [regio decreto 5 agosto 1927, n. 1523](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20del%20comune%20di%20San%20Pietro%20Pula%20a%20quello%20di%20Pula.%20027U1523.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Cagliari, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni interessati.
 
 ## Art. 2.

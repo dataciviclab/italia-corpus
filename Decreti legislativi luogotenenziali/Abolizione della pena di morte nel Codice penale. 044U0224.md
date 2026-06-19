@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita', a Noi delegata;
 
-Visto il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [R. decreto 19 ottobre 1930, n. 1898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1898);
+Visto il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [R. decreto 19 ottobre 1930, n. 1898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1898);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -26,7 +26,7 @@ Sulla proposta del Guardasigilli Ministro Segretario di Stato per la grazia e gi
 
 ## Art. 1.
 
-Per i delitti preveduti nel [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' soppressa la pena di morte. ((1)) 
+Per i delitti preveduti nel [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' soppressa la pena di morte. ((1)) 
  
  Quando nelle disposizioni del detto Codice e' comminata la pena di morte, in luogo di questa si applica la pena dell'ergastolo. ((1))
                             ((COMMA ABROGATO DAL D.LGS. 22 GENNAIO 1948, N. 21)). 

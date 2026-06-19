@@ -220,7 +220,7 @@ Le indagini ed i procedimenti penali a carico della persona protetta per fatti c
 
 7.
 
-Per gli atti soggetti ad iscrizione nel casellario giudiziale, emessi per fatti successivi alla data del decreto di cambiamento delle generalita', si osservano le disposizioni del [regio decreto 18 giugno 1931, n. 778](../Regi%20decreti/Disposizioni%20regolamentari%20per%20il%20servizio%20del%20casellario%20giudiziale.%20031U0778.md).
+Per gli atti soggetti ad iscrizione nel casellario giudiziale, emessi per fatti successivi alla data del decreto di cambiamento delle generalita', si osservano le disposizioni del [regio decreto 18 giugno 1931, n. 778](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20regolamentari%20per%20il%20servizio%20del%20casellario%20giudiziale.%20031U0778.md).
 
 8.
 

@@ -60,7 +60,7 @@ Con l'istanza di riconoscimento, da inoltrare entro il 31 marzo dell'anno scolas
                         b)
                             l'impegno ad adottare un bilancio della scuola conforme alle regole della pubblicita' vigenti per la specifica gestione e comunque accessibile a chiunque nella scuola vi abbia un interesse qualificato;
                         c)
-                            l'impegno ad istituire nella scuola organi collegiali improntati alla partecipazione democratica per il processo di attuazione e sviluppo del piano dell'offerta formativa e per la regolamentazione dei diritti e dei doveri delle studentesse e degli studenti nel rispetto dei principi sanciti dal [decreto del Presidente della Repubblica 24 giugno 1998, n. 249](../DPR/Regolamento%20recante%20lo%20statuto%20delle%20studentesse%20e%20degli%20studenti%20della%20scuola%20secondaria.md);
+                            l'impegno ad istituire nella scuola organi collegiali improntati alla partecipazione democratica per il processo di attuazione e sviluppo del piano dell'offerta formativa e per la regolamentazione dei diritti e dei doveri delle studentesse e degli studenti nel rispetto dei principi sanciti dal [decreto del Presidente della Repubblica 24 giugno 1998, n. 249](../Regolamenti%20governativi/Regolamento%20recante%20lo%20statuto%20delle%20studentesse%20e%20degli%20studenti%20della%20scuola%20secondaria.md);
                         d)
                             l'impegno ad applicare le norme vigenti in materia di inserimento di studenti con handicap o in condizioni di svantaggio;
                         e)
@@ -130,7 +130,7 @@ Avvertenza:
  3. E' fatta salva l'applicazione della normativa comunitaria sulla equiparazione ai cittadini ed enti italiani, per quanto concerne l'apertura e la gestione di istituzioni scolastiche, dei cittadini ed enti degli Stati membri dell'Unione europea.
  4. Non sono considerati stranieri agli effetti di quanto previsto dall'art. 366 e sono quindi sottoposti all'esclusiva vigilanza del Ministero della pubblica istruzione, in conformita' a quanto previsto nel presente titolo, le scuole, i corsi e gli organismi culturali mantenuti da enti religiosi stranieri dipendenti dalla Santa Sede che abbiano ottenuto la personalita' giuridica in Italia.
  5. Fatto salvo quanto previsto nei commi 3 e 4 l'apertura e il funzionamento di scuole e corsi gestiti da cittadini ed enti stranieri sono disciplinati dall'art. 366.».
- - Il [decreto del Presidente della Repubblica 24 giugno 1998, n. 249](../DPR/Regolamento%20recante%20lo%20statuto%20delle%20studentesse%20e%20degli%20studenti%20della%20scuola%20secondaria.md), concernente il regolamento recante lo statuto delle studentesse e degli studenti della scuola secondaria, e' stato pubblicato nella Gazzetta Ufficiale 29 luglio 1998, n. 175.
+ - Il [decreto del Presidente della Repubblica 24 giugno 1998, n. 249](../Regolamenti%20governativi/Regolamento%20recante%20lo%20statuto%20delle%20studentesse%20e%20degli%20studenti%20della%20scuola%20secondaria.md), concernente il regolamento recante lo statuto delle studentesse e degli studenti della scuola secondaria, e' stato pubblicato nella Gazzetta Ufficiale 29 luglio 1998, n. 175.
 
 ## Art. 2. — Riconoscimento della parita'
 

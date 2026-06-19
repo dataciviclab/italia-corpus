@@ -307,7 +307,7 @@ i) "societa' controllata da una impresa capogruppo di un paese terzo": la societ
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 4 settembre 2024, n. 128](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202021-2101%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20che%20modifica%20la%20direttiva%202013-34-UE%20per%20quanto%20riguarda%20la%20comunicazione%20delle%20informa_c23e3cc79fbe.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
+Il [D.Lgs. 4 settembre 2024, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202021-2101%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20che%20modifica%20la%20direttiva%202013-34-UE%20per%20quanto%20riguarda%20la%20comunicazione%20delle%20informa_c23e3cc79fbe.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
 
 ### Art. 5-ter. — (( (Ambito di applicazione). ))
 
@@ -351,7 +351,7 @@ Le succursali aperte da un'impresa capogruppo di un paese terzo, da una societa'
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 4 settembre 2024, n. 128](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202021-2101%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20che%20modifica%20la%20direttiva%202013-34-UE%20per%20quanto%20riguarda%20la%20comunicazione%20delle%20informa_c23e3cc79fbe.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
+Il [D.Lgs. 4 settembre 2024, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202021-2101%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20che%20modifica%20la%20direttiva%202013-34-UE%20per%20quanto%20riguarda%20la%20comunicazione%20delle%20informa_c23e3cc79fbe.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
 
 ### Art. 5-quater. — (( (Esenzioni ed equivalenza). ))
 
@@ -375,7 +375,7 @@ d) alle societa' controllate da una impresa capogruppo di un paese terzo se ques
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 4 settembre 2024, n. 128](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202021-2101%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20che%20modifica%20la%20direttiva%202013-34-UE%20per%20quanto%20riguarda%20la%20comunicazione%20delle%20informa_c23e3cc79fbe.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
+Il [D.Lgs. 4 settembre 2024, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202021-2101%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20che%20modifica%20la%20direttiva%202013-34-UE%20per%20quanto%20riguarda%20la%20comunicazione%20delle%20informa_c23e3cc79fbe.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
 
 ### Art. 5-quinquies. — (( (Contenuto della comunicazione sulle imposte sul reddito). ))
 
@@ -447,7 +447,7 @@ d) presentate a livello aggregato per le giurisdizioni diverse di quelle di cui 
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 4 settembre 2024, n. 128](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202021-2101%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20che%20modifica%20la%20direttiva%202013-34-UE%20per%20quanto%20riguarda%20la%20comunicazione%20delle%20informa_c23e3cc79fbe.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
+Il [D.Lgs. 4 settembre 2024, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202021-2101%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20che%20modifica%20la%20direttiva%202013-34-UE%20per%20quanto%20riguarda%20la%20comunicazione%20delle%20informa_c23e3cc79fbe.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
 
 ### Art. 5-sexies. — (( (Pubblicazione e accessibilita'). ))
 
@@ -460,7 +460,7 @@ Il [D.Lgs. 4 settembre 2024, n. 128](../Leggi%20delega%20e%20relativi%20provvedi
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 4 settembre 2024, n. 128](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202021-2101%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20che%20modifica%20la%20direttiva%202013-34-UE%20per%20quanto%20riguarda%20la%20comunicazione%20delle%20informa_c23e3cc79fbe.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
+Il [D.Lgs. 4 settembre 2024, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202021-2101%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20che%20modifica%20la%20direttiva%202013-34-UE%20per%20quanto%20riguarda%20la%20comunicazione%20delle%20informa_c23e3cc79fbe.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
 
 ### Art. 5-septies. — (( (Responsabilita' in materia di redazione, pubblicazione e messa a disposizione della comunicazione delle informazioni sull'imposta sul reddito). ))
 
@@ -471,7 +471,7 @@ Il [D.Lgs. 4 settembre 2024, n. 128](../Leggi%20delega%20e%20relativi%20provvedi
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 4 settembre 2024, n. 128](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202021-2101%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20che%20modifica%20la%20direttiva%202013-34-UE%20per%20quanto%20riguarda%20la%20comunicazione%20delle%20informa_c23e3cc79fbe.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
+Il [D.Lgs. 4 settembre 2024, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202021-2101%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20che%20modifica%20la%20direttiva%202013-34-UE%20per%20quanto%20riguarda%20la%20comunicazione%20delle%20informa_c23e3cc79fbe.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
 
 ### Art. 5-octies. — (Dichiarazione del revisore legale)
 
@@ -496,7 +496,7 @@ Il soggetto incaricato di effettuare la revisione legale di cui al comma 1 ripor
 ----------------
  
 AGGIORNAMENTO (1) 
- Il [D.Lgs. 4 settembre 2024, n. 128](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202021-2101%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20che%20modifica%20la%20direttiva%202013-34-UE%20per%20quanto%20riguarda%20la%20comunicazione%20delle%20informa_c23e3cc79fbe.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
+ Il [D.Lgs. 4 settembre 2024, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202021-2101%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20che%20modifica%20la%20direttiva%202013-34-UE%20per%20quanto%20riguarda%20la%20comunicazione%20delle%20informa_c23e3cc79fbe.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
 
 ### Art. 5-novies. — (( (Sanzioni). ))
 
@@ -522,7 +522,7 @@ Salvo che il fatto costituisca reato, quando la comunicazione di cui al Capo 1-b
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 4 settembre 2024, n. 128](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202021-2101%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20che%20modifica%20la%20direttiva%202013-34-UE%20per%20quanto%20riguarda%20la%20comunicazione%20delle%20informa_c23e3cc79fbe.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
+Il [D.Lgs. 4 settembre 2024, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202021-2101%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20che%20modifica%20la%20direttiva%202013-34-UE%20per%20quanto%20riguarda%20la%20comunicazione%20delle%20informa_c23e3cc79fbe.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
 
 ## Disposizioni in materia di bilancio di esercizio  e consolidato
 

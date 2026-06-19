@@ -75,7 +75,7 @@ Ai fini del presente decreto s'intende per:
                                 UNHC: l'Alto Commissariato delle Nazioni Unite per i rifugiati;
                             i-bis)
                                 «EASO»: european asylum support office/ufficio europeo di sostegno per l'asilo, istituito dal regolamento (UE) n. 439/2010 del Parlamento europeo e del Consiglio, del 19 maggio 2010. 
- m) LETTERA SOPPRESSA DAL [D.LGS. 18 AGOSTO 2015, N. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md).
+ m) LETTERA SOPPRESSA DAL [D.LGS. 18 AGOSTO 2015, N. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md).
 
 ### Art. 2-bis. — (Paesi di origine sicuri)
 
@@ -116,11 +116,11 @@ Le autorita' competenti all'esame delle domande di protezione internazionale son
 
 2.
 
-L'ufficio di polizia di frontiera e la questura sono competenti a ricevere la domanda, secondo quanto previsto dall'articolo 26.
+((Sono competenti a ricevere le manifestazioni di volonta' di richiedere la protezione internazionale, ai sensi dell'articolo 26 del regolamento (UE) 2024/1348, le Commissioni territoriali per il riconoscimento della protezione internazionale, le questure e gli uffici di polizia di frontiera, esclusivamente secondo le modalita' previste dall'articolo 26. La registrazione della domanda e' effettuata dalla questura o dall'ufficio di polizia di frontiera competente secondo quanto previsto dall'articolo 26-bis. Il richiedente formalizza la domanda presso le Commissioni territoriali per il riconoscimento della protezione internazionale, dinanzi ai gestori dei centri di accoglienza e, per il richiedente destinatario della misura del trattenimento ovvero detenuto, dinanzi alle questure, esclusivamente secondo le modalita' di cui all'articolo 26-ter.))
 
 3.
 
-L'autorita' preposta alla determinazione dello Stato competente all'esame della domanda di protezione internazionale in applicazione del regolamento (UE) n. 604//2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013 e' l'Unita' Dublino, operante presso il Dipartimento per le liberta' civili e l'immigrazione del Ministero dell'interno e le sue articolazioni territoriali operanti presso le prefetture individuate, fino ad un numero massimo di tre, con decreto del Ministro dell'interno, che provvedono nel limite delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
+L'autorita' preposta alla determinazione dello Stato competente all'esame della domanda di protezione internazionale in applicazione ((della Parte III del regolamento (UE) 2024/1351 del Parlamento europeo e del Consiglio, del 14 maggio 2024, e' l'Unita' AMMR)), operante presso il Dipartimento per le liberta' civili e l'immigrazione del Ministero dell'interno e le sue articolazioni territoriali operanti presso le prefetture individuate, fino ad un numero massimo di tre, con decreto del Ministro dell'interno, che provvedono nel limite delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
 3-bis.
 
@@ -146,7 +146,7 @@ Il ricorrente puo' depositare una nota difensiva entro i dieci giorni successivi
 
 Il procedimento e' trattato in camera di consiglio.
 L'udienza per la comparizione delle parti e' fissata esclusivamente quando il giudice lo ritenga necessario ai fini della decisione. Il procedimento e' definito, con decreto non reclamabile, entro sessanta giorni dalla presentazione del ricorso. Il termine per proporre ricorso per cassazione e' di trenta giorni e decorre dalla comunicazione del decreto, da effettuare a cura della cancelleria anche nei confronti della parte non costituita. La procura alle liti per la proposizione del ricorso per cassazione deve essere conferita, a pena di inammissibilita' del ricorso, in data successiva alla comunicazione del decreto impugnato; a tal fine il difensore certifica la data di rilascio in suo favore della procura medesima.
-In caso di rigetto, la Corte di cassazione decide sull'impugnazione entro due mesi dal deposito del ricorso. (8) ((22))
+In caso di rigetto, la Corte di cassazione decide sull'impugnazione entro due mesi dal deposito del ricorso. (8) (22)
 
 3-octies.
 
@@ -192,12 +192,12 @@ Le Commissioni territoriali sono fissate nel numero massimo di venti. Con decret
 
 2-bis.
 
-Con decreto del Ministro dell'interno, presso ciascuna Commissione territoriale possono essere istituite, al verificarsi di un eccezionale incremento delle domande di asilo connesso all'andamento dei flussi migratori e per il tempo strettamente necessario da determinare nello stesso decreto, una o piu' sezioni fino a un numero massimo complessivo di trenta per l'intero territorio nazionale. Alle sezioni si applicano le disposizioni concernenti le Commissioni territoriali.
+Con decreto del Ministro dell'interno, presso ciascuna Commissione territoriale possono essere istituite, al verificarsi di un eccezionale incremento delle domande di asilo connesso all'andamento dei flussi migratori e per il tempo strettamente necessario da determinare nello stesso decreto, una o piu' sezioni fino a un numero massimo complessivo di trenta per l'intero territorio nazionale. Alle sezioni si applicano le disposizioni concernenti le Commissioni territoriali. 
+ 2- ter. ((Al fine di assicurare lo svolgimento delle procedure accelerate alla frontiera di cui al regolamento (UE) 2024/1348, in aggiunta a quanto stabilito dal comma 2-bis, possono essere istituite una o piu' sezioni, fino ad un massimo di ventiquattro.))
 
 3.
 
-Le Commissioni territoriali sono composte, nel rispetto del principio di equilibrio di genere, da un funzionario della carriera prefettizia, con funzioni di presidente, nominato con decreto del Ministro dell'interno, sentita la Commissione nazionale, da un esperto in materia di protezione internazionale e di tutela dei diritti umani designato dall'UNHCR e dai funzionari amministrativi con compiti istruttori assegnati alla medesima Commissione ai sensi del comma 1-bis, ((nonche', in via temporanea, da prestatori di lavoro con contratto di lavoro a tempo determinato in possesso di adeguata professionalita' e da personale dell'Agenzia dell'Unione europea per l'asilo, appositamente formati in materia di protezione internazionale a cura dell'Amministrazione dell'interno,)) nominati con provvedimento del Capo Dipartimento per le liberta' civili e l'immigrazione del Ministero dell'interno, sentita la Commissione nazionale. Il presidente della Commissione svolge l'incarico in via esclusiva. Il decreto di nomina puo' prevedere che la funzione di presidente delle sezioni o di alcune di esse sia svolta in via esclusiva. Il provvedimento di nomina dei componenti della Commissione territoriale e' adottato previa valutazione dell'insussistenza di motivi di incompatibilita' derivanti da situazioni di conflitto di interesse, diretto o indiretto, anche potenziale. Per ciascun componente con funzioni di presidente e per il componente designato dall'UNHCR sono nominati uno o piu' componenti supplenti. L'incarico ha durata triennale ed e' rinnovabile. ((Alle sedute della Commissione partecipano il funzionario prefettizio con funzioni di presidente, l'esperto designato dall'UNHCR e due dei componenti con compiti istruttori assegnati alla medesima Commissione ai sensi del comma 1-bis e del primo periodo del presente comma, tra cui il componente che ha svolto il colloquio ai sensi dell'articolo 12, comma 1-bis. Il presidente della Commissione fissa i criteri per l'assegnazione delle istanze ai componenti con compiti istruttori e per la loro partecipazione alle sedute della Commissione stessa)). Le Commissioni territoriali possono essere integrate, su richiesta del presidente della Commissione nazionale per il diritto di asilo, da un funzionario del Ministero degli affari esteri e della cooperazione internazionale come componente a tutti gli effetti, quando, in relazione a particolari afflussi di richiedenti protezione internazionale, sia necessario acquisire specifiche valutazioni di competenza del predetto Ministero in merito alla situazione dei Paesi di provenienza. Ove necessario, le Commissioni possono essere presiedute anche da funzionari della carriera prefettizia in posizione di collocamento a riposo ((...)). Al presidente ed ai componenti effettivi o supplenti e' corrisposto, per la partecipazione alle sedute della Commissione, un gettone giornaliero di presenza.
-L'ammontare del gettone di presenza e' determinato con decreto del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze.
+Le Commissioni territoriali sono composte, nel rispetto del principio di equilibrio di genere, da un funzionario della carriera prefettizia, con funzioni di presidente, nominato con decreto del Ministro dell'interno, sentita la Commissione nazionale, da un esperto in materia di protezione internazionale e di tutela dei diritti umani designato dall'UNHCR e dai funzionari amministrativi con compiti istruttori assegnati alla medesima Commissione ai sensi del comma 1-bis, nonche', in via temporanea, da prestatori di lavoro con contratto di lavoro a tempo determinato in possesso di adeguata professionalita' e da personale dell'Agenzia dell'Unione europea per l'asilo, appositamente formati in materia di protezione internazionale a cura dell'Amministrazione dell'interno, nominati con provvedimento del Capo Dipartimento per le liberta' civili e l'immigrazione del Ministero dell'interno, sentita la Commissione nazionale. Il presidente della Commissione svolge l'incarico in via esclusiva. Il decreto di nomina puo' prevedere che la funzione di presidente delle sezioni o di alcune di esse sia svolta in via esclusiva. Il provvedimento di nomina dei componenti della Commissione territoriale e' adottato previa valutazione dell'insussistenza di motivi di incompatibilita' derivanti da situazioni di conflitto di interesse, diretto o indiretto, anche potenziale. Per ciascun componente con funzioni di presidente e per il componente designato dall'UNHCR sono nominati uno o piu' componenti supplenti. L'incarico ha durata triennale ed e' rinnovabile. Alle sedute della Commissione partecipano il funzionario prefettizio con funzioni di presidente, l'esperto designato dall'UNHCR e due dei componenti con compiti istruttori assegnati alla medesima Commissione ai sensi del comma 1-bis e del primo periodo del presente comma, tra cui il componente che ha svolto il colloquio ai sensi dell'articolo 12, comma 1-bis. Il presidente della Commissione fissa i criteri per l'assegnazione delle istanze ai componenti con compiti istruttori e per la loro partecipazione alle sedute della Commissione stessa. Le Commissioni territoriali possono essere integrate, su richiesta del presidente della Commissione nazionale per il diritto di asilo, da un funzionario del Ministero degli affari esteri e della cooperazione internazionale come componente a tutti gli effetti, quando, in relazione a particolari afflussi di richiedenti protezione internazionale, sia necessario acquisire specifiche valutazioni di competenza del predetto Ministero in merito alla situazione dei Paesi di provenienza. Ove necessario, le Commissioni possono essere presiedute anche da funzionari della carriera prefettizia in posizione di collocamento a riposo. Al presidente ed ai componenti effettivi o supplenti e' corrisposto, per la partecipazione alle sedute della Commissione, un gettone giornaliero di presenza. L'ammontare del gettone di presenza e' determinato con decreto del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze.
 
 3-bis.
 
@@ -228,7 +228,7 @@ Le attivita' di supporto delle commissioni sono svolte dal personale in servizio
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 22 dicembre 2017, n. 220](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2018%20agosto%202015%20n.%20142%20di%20attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezio_ceb0f9978397.md), ha disposto (con l'art. 4, comma 1) che "Fino alla nomina dei componenti di cui al contingente di personale altamente qualificato per l'esercizio di funzioni di carattere specialistico di cui all'[articolo 12 del decreto-legge 17 febbraio 2017, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-02-17;13#art_12), convertito, con modificazioni, dalla [legge 13 aprile 2017, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20febbraio%202017%20n.%2013%20recante%20disposizioni%20urgenti%20per%20laccelerazione%20dei%20procedimenti%20in%20materia%20di%20protezione%20internazionale%20no_c487681bafc4.md), le Commissioni territoriali per il riconoscimento della protezione internazionale di cui all'[articolo 4 del decreto legislativo 28 gennaio 2008, n. 25](Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), continuano ad operare nella composizione e con le modalita' vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 22 dicembre 2017, n. 220](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2018%20agosto%202015%20n.%20142%20di%20attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezio_ceb0f9978397.md), ha disposto (con l'art. 4, comma 1) che "Fino alla nomina dei componenti di cui al contingente di personale altamente qualificato per l'esercizio di funzioni di carattere specialistico di cui all'[articolo 12 del decreto-legge 17 febbraio 2017, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-02-17;13#art_12), convertito, con modificazioni, dalla [legge 13 aprile 2017, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20febbraio%202017%20n.%2013%20recante%20disposizioni%20urgenti%20per%20laccelerazione%20dei%20procedimenti%20in%20materia%20di%20protezione%20internazionale%20no_c487681bafc4.md), le Commissioni territoriali per il riconoscimento della protezione internazionale di cui all'[articolo 4 del decreto legislativo 28 gennaio 2008, n. 25](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), continuano ad operare nella composizione e con le modalita' vigenti alla data di entrata in vigore del presente decreto".
 
 ### Art. 5. — Commissione nazionale per il diritto di asilo
 
@@ -267,7 +267,7 @@ Capo II
 
 1.
 
-La domanda di protezione internazionale e' presentata personalmente dal richiedente presso l'ufficio di polizia di frontiera all'atto dell'ingresso nel territorio nazionale o presso l'ufficio della questura competente in base al luogo di dimora del richiedente.
+((La domanda di protezione internazionale si considera fatta quando il richiedente manifesta personalmente la volonta' di richiedere la protezione internazionale alle autorita' competenti ai sensi dell'articolo 3, comma 2, secondo le modalita' previste dall'articolo 26.))
 
 2.
 
@@ -279,31 +279,13 @@ La domanda puo' essere presentata direttamente dal minore non accompagnato ai se
 
 3-bis.
 
-Nel caso in cui lo straniero non si ((presenti)) presso l'ufficio di polizia territorialmente competente per la verifica dell'identita' dal medesimo dichiarata e la formalizzazione della domanda di protezione internazionale, la manifestazione di volonta' precedentemente espressa non costituisce domanda secondo le procedure previste dal presente decreto e il procedimento non e' instaurato.
+Nel caso in cui lo straniero non si presenti presso l'ufficio di polizia territorialmente competente per la verifica dell'identita' dal medesimo dichiarata e la formalizzazione della domanda di protezione internazionale, la manifestazione di volonta' precedentemente espressa non costituisce domanda secondo le procedure previste dal presente decreto e il procedimento non e' instaurato.
 
-### Art. 7. — Diritto di rimanere nel territorio dello Stato durante l'esame della domanda
+### Art. 7. — (( (Diritto di rimanere nel territorio dello Stato durante l'esame della domanda).))
 
 1.
 
-Il richiedente e' autorizzato a rimanere nel territorio dello Stato fino alla decisione della Commissione territoriale ai sensi dell'articolo 32.
-
-((
-
-2.
-
-La previsione di cui al comma 1 non si applica a coloro che:
-                            a)
-                                debbono essere estradati verso un altro Stato in virtu' degli obblighi previsti da un mandato di arresto europeo;
-                            b)
-                                debbono essere consegnati ad una Corte o ad un Tribunale penale internazionale;
-                            c)
-                                debbano essere avviati verso un altro Stato dell'Unione competente per l'esame dell'istanza di protezione internazionale;
-                            d)
-                                hanno presentato una prima domanda reiterata al solo scopo di ritardare o impedire l'esecuzione di una decisione che ne comporterebbe l'imminente allontanamento dal territorio nazionale;
-                            e)
-                                manifestano la volonta' di presentare un'altra domanda reiterata a seguito di una decisione definitiva che considera inammissibile una prima domanda reiterata ai sensi dell'articolo 29, comma 1, o dopo una decisione definitiva che respinge la prima domanda reiterata ai sensi dell'articolo 32, comma 1, lettere b) e b-bis).
-
-))
+((Il richiedente ha diritto di rimanere nel territorio dello Stato fino alla decisione della Commissione territoriale adottata ai sensi dell'articolo 32 e, se ha presentato ricorso giurisdizionale, fino alla decisione di primo grado, fatta eccezione per i casi previsti dall'articolo 10, paragrafi 3 e 4, del regolamento (UE) 2024/1348 e fatto salvo quanto previsto dall'articolo 35-bis, commi 3 e 5, e dall'articolo 35-ter, commi 1, 4 e 6.))
 
 ### Art. 8. — Criteri applicabili all'esame delle domande
 
@@ -344,7 +326,8 @@ La decisione con cui viene respinta una domanda e' corredata da motivazione di f
 
 1.
 
-All'atto della presentazione della domanda 1'ufficio di polizia competente a riceverla informa il richiedente della procedura da seguire, dei suoi diritti e doveri durante il procedimento e dei tempi e mezzi a sua disposizione per corredare la domanda degli elementi utili all'esame; a tale fine consegna al richiedente l'opuscolo informativo di cui al comma 2. L'ufficio di polizia informa il richiedente che, ove proveniente da un Paese designato di origine sicuro ai sensi dell'articolo 2-bis, la domanda puo' essere rigettata ai sensi dell'articolo 9, comma 2-bis.
+((Prima possibile e comunque entro la data della registrazione)) della domanda ((l'ufficio di polizia competente alla registrazione)) informa il richiedente della procedura da seguire, dei suoi diritti e doveri durante il procedimento e dei tempi e mezzi a sua disposizione per corredare la domanda degli elementi utili all'esame; a tale fine consegna al richiedente l'opuscolo informativo di cui al comma 2.
+L'ufficio di polizia informa il richiedente che, ove proveniente da un Paese designato di origine sicuro ai sensi dell'articolo 2-bis, la domanda puo' essere rigettata ai sensi dell'articolo 9, comma 2-bis.
 
 1-bis.
 
@@ -356,7 +339,7 @@ La Commissione nazionale redige, secondo le modalita' definite nel regolamento d
                             a)
                                 le fasi della procedura per il riconoscimento della protezione internazionale, comprese le conseguenze dell'allontanamento ingiustificato dai centri;
                             b)
-                                i principali diritti e doveri del richiedente ((durante la procedura di esame della domanda di protezione internazionale));
+                                i principali diritti e doveri del richiedente durante la procedura di esame della domanda di protezione internazionale;
                             c)
                                 le prestazioni sanitarie e di accoglienza e le modalita' per riceverle;
                             d)
@@ -408,15 +391,15 @@ Il richiedente e' tenuto ad informare l'autorita' competente in ordine ad ogni s
 
 3.
 
-Le notificazioni degli atti e dei provvedimenti del procedimento per il riconoscimento della protezione internazionale sono validamente effettuate presso il centro o la struttura in cui il richiedente e' accolto o trattenuto ai sensi dell'[articolo 5, comma 2, del decreto legislativo 18 agosto 2015, n. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md). La notificazione avviene in forma di documento informatico sottoscritto con firma digitale o di copia informatica per immagine del documento cartaceo, mediante posta elettronica certificata all'indirizzo del responsabile del centro o della struttura, il quale ne cura la consegna al destinatario, facendone sottoscrivere ricevuta. Dell'avvenuta notificazione il responsabile del centro o della struttura da' immediata comunicazione alla Commissione territoriale mediante messaggio di posta elettronica certificata contenente la data e l'ora della notificazione medesima. Ove il richiedente rifiuti di ricevere l'atto o di sottoscrivere la ricevuta il responsabile del centro o della struttura ne da' immediata comunicazione alla Commissione territoriale mediante posta elettronica certificata. La notificazione si intende eseguita nel momento in cui il messaggio di posta elettronica certificata di cui al periodo precedente diviene disponibile nella casella di posta elettronica certificata della Commissione territoriale. (8)
+Le notificazioni degli atti e dei provvedimenti del procedimento per il riconoscimento della protezione internazionale sono validamente effettuate presso il centro o la struttura in cui il richiedente e' accolto o trattenuto ai sensi dell'[articolo 5, comma 2, del decreto legislativo 18 agosto 2015, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md). La notificazione avviene in forma di documento informatico sottoscritto con firma digitale o di copia informatica per immagine del documento cartaceo, mediante posta elettronica certificata all'indirizzo del responsabile del centro o della struttura, il quale ne cura la consegna al destinatario, facendone sottoscrivere ricevuta. Dell'avvenuta notificazione il responsabile del centro o della struttura da' immediata comunicazione alla Commissione territoriale mediante messaggio di posta elettronica certificata contenente la data e l'ora della notificazione medesima. Ove il richiedente rifiuti di ricevere l'atto o di sottoscrivere la ricevuta il responsabile del centro o della struttura ne da' immediata comunicazione alla Commissione territoriale mediante posta elettronica certificata. La notificazione si intende eseguita nel momento in cui il messaggio di posta elettronica certificata di cui al periodo precedente diviene disponibile nella casella di posta elettronica certificata della Commissione territoriale. (8)
 
 3-bis.
 
-Quando il richiedente non e' accolto o trattenuto presso i centri o le strutture di cui all'[articolo 5, comma 2, del decreto legislativo 18 agosto 2015, n. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md), le notificazioni degli atti e dei provvedimenti del procedimento per il riconoscimento della protezione internazionale sono effettuate presso l'ultimo domicilio comunicato dal richiedente ai sensi del [comma 2 e dell'articolo 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md), [comma 1, del decreto legislativo 18 agosto 2015, n. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md) ((,)) oppure mediante posta elettronica certificata, anche presso il legale rappresentante ove il richiedente ha eletto domicilio le notificazioni sono effettuate da parte della Commissione territoriale a mezzo del servizio postale secondo le disposizioni della [legge 20 novembre 1982, n. 890](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-20;890), e successive modificazioni ((,))oppure attraverso l'invio all'indirizzo di posta elettronica certificata dichiarato. (8)
+Quando il richiedente non e' accolto o trattenuto presso i centri o le strutture di cui all'[articolo 5, comma 2, del decreto legislativo 18 agosto 2015, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md), le notificazioni degli atti e dei provvedimenti del procedimento per il riconoscimento della protezione internazionale sono effettuate presso l'ultimo domicilio comunicato dal richiedente ai sensi del [comma 2 e dell'articolo 5](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md), [comma 1, del decreto legislativo 18 agosto 2015, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md) ((,)) oppure mediante posta elettronica certificata, anche presso il legale rappresentante ove il richiedente ha eletto domicilio. le notificazioni sono effettuate da parte della Commissione territoriale a mezzo del servizio postale secondo le disposizioni della [legge 20 novembre 1982, n. 890](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-20;890), e successive modificazioni ((,)) oppure attraverso l'invio all'indirizzo di posta elettronica certificata dichiarato. (8)
 
 3-ter.
 
-Nei casi in cui la consegna di copia dell'atto al richiedente da parte del responsabile del centro o della struttura di cui al comma 3 sia impossibile per irreperibilita' del richiedente e nei casi in cui alla Commissione territoriale pervenga l'avviso di ricevimento da cui risulta l'impossibilita' della notificazione effettuata ai sensi del comma 3-bis per inidoneita' del domicilio dichiarato o comunicato ai sensi dell'[articolo 5, comma 1, del decreto legislativo 18 agosto 2015, n. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md), l'atto e' reso disponibile al richiedente presso la questura del luogo in cui ha sede la Commissione territoriale. Decorsi venti giorni dalla trasmissione dell'atto alla questura da parte della Commissione territoriale, mediante messaggio di posta elettronica certificata, la notificazione si intende eseguita. (8)
+Nei casi in cui la consegna di copia dell'atto al richiedente da parte del responsabile del centro o della struttura di cui al comma 3 sia impossibile per irreperibilita' del richiedente e nei casi in cui alla Commissione territoriale pervenga l'avviso di ricevimento da cui risulta l'impossibilita' della notificazione effettuata ai sensi del comma 3-bis per inidoneita' del domicilio dichiarato o comunicato ai sensi dell'[articolo 5, comma 1, del decreto legislativo 18 agosto 2015, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md), l'atto e' reso disponibile al richiedente presso la questura del luogo in cui ha sede la Commissione territoriale. Decorsi venti giorni dalla trasmissione dell'atto alla questura da parte della Commissione territoriale, mediante messaggio di posta elettronica certificata, la notificazione si intende eseguita. (8)
 
 3-quater.
 
@@ -424,7 +407,7 @@ Quando la notificazione e' eseguita ai sensi del comma 3-ter, copia dell'atto no
 
 3-quinquies.
 
-Ai fini di cui al presente articolo, il richiedente e' informato, a cura della questura, al momento della dichiarazione di domicilio ai sensi dell'[articolo 5, comma 1, del decreto legislativo 18 agosto 2015, n. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md), che in caso di inidoneita' del domicilio dichiarato o comunicato le notificazioni saranno eseguite secondo quanto disposto dal presente articolo. Al momento dell'ingresso nei centri o nelle strutture di cui all'[articolo 5, comma 2, del decreto legislativo 18 agosto 2015, n. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md), il richiedente e' informato, a cura del responsabile del centro o della struttura, che le notificazioni saranno effettuate presso il centro o la struttura e che, in caso di allontanamento ingiustificato o di sottrazione alla misura del trattenimento, le notificazioni saranno eseguite secondo quanto disposto dal presente articolo. (8)
+Ai fini di cui al presente articolo, il richiedente e' informato, a cura della questura, al momento della dichiarazione di domicilio ai sensi dell'[articolo 5, comma 1, del decreto legislativo 18 agosto 2015, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md), che in caso di inidoneita' del domicilio dichiarato o comunicato le notificazioni saranno eseguite secondo quanto disposto dal presente articolo. Al momento dell'ingresso nei centri o nelle strutture di cui all'[articolo 5, comma 2, del decreto legislativo 18 agosto 2015, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md), il richiedente e' informato, a cura del responsabile del centro o della struttura, che le notificazioni saranno effettuate presso il centro o la struttura e che, in caso di allontanamento ingiustificato o di sottrazione alla misura del trattenimento, le notificazioni saranno eseguite secondo quanto disposto dal presente articolo. (8)
 
 3-sexies.
 
@@ -493,7 +476,7 @@ In presenza di un cittadino straniero portatore delle particolari esigenze ((di 
 
 3.
 
-Il colloquio del minore si svolge innanzi ad un componente della Commissione con specifica formazione, alla presenza del genitore che esercita la responsabilita' genitoriale o del tutore, nonche' del personale di cui al comma 2. In presenza di giustificati motivi, la Commissione territoriale puo' procedere nuovamente all'ascolto del minore anche senza la presenza del genitore o del tutore, fermo restando la presenza del personale di cui al comma 2, se lo ritiene necessario in relazione alla situazione personale del minore e al suo grado di maturita' e di sviluppo, nell'esclusivo interesse del minore. In ogni caso si applicano le disposizioni dell'[articolo 18, comma 2, del decreto legislativo 18 agosto 2015, n. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md).
+Il colloquio del minore si svolge innanzi ad un componente della Commissione con specifica formazione, alla presenza del genitore che esercita la responsabilita' genitoriale o del tutore, nonche' del personale di cui al comma 2. In presenza di giustificati motivi, la Commissione territoriale puo' procedere nuovamente all'ascolto del minore anche senza la presenza del genitore o del tutore, fermo restando la presenza del personale di cui al comma 2, se lo ritiene necessario in relazione alla situazione personale del minore e al suo grado di maturita' e di sviluppo, nell'esclusivo interesse del minore. In ogni caso si applicano le disposizioni dell'[articolo 18, comma 2, del decreto legislativo 18 agosto 2015, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md).
 
 4.
 
@@ -643,31 +626,19 @@ Il minore partecipa al colloquio personale secondo quanto previsto dall'articolo
 
 Nel caso in cui il richiedente decida di ritirare la domanda prima dell'audizione presso la competente Commissione territoriale, il ritiro e' formalizzato per iscritto e comunicato alla Commissione territoriale che dichiara l'estinzione del procedimento.
 
-### Art. 23-bis. — (Procedura in caso di ritiro implicito della domanda)
+### Art. 23-bis. — (( (Ritiro implicito della domanda).))
 
 1.
 
-La domanda si intende implicitamente ritirata nei casi in cui:
-                            a)
-                                il richiedente, fatto salvo quanto previsto dall'articolo 6, comma 3-bis, prima di essere convocato per il colloquio di cui all'articolo 12 si allontana senza giustificato motivo dalle strutture di accoglienza ovvero si sottrae alla misura del trattenimento nelle strutture di cui all'[articolo 10-ter del decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), ovvero nei centri di cui all'articolo 14 del medesimo decreto legislativo;
-                            b)
-                                il richiedente non si presenta al colloquio personale disposto dalla Commissione ((territoriale)) ai sensi dell'articolo 12 e la notificazione della convocazione e' effettuata ai sensi dell'articolo 11, commi 3 o 3-bis, ovvero si intende eseguita ai sensi del comma 3-ter del medesimo articolo.
+((Nei casi di cui all'articolo 41, paragrafo 1, del regolamento (UE) 2024/1348, la Commissione territoriale adotta una decisione con cui dichiara il ritiro implicito della domanda.))
 
 2.
 
-Nei casi di cui al comma 1, la Commissione territoriale rigetta la domanda se la ritiene infondata in base ad un adeguato esame del merito, ((ai sensi dell'articolo)) 3 del [decreto legislativo 19 novembre 2007, n. 251](Attuazione%20della%20direttiva%202004-83-CE%20recante%20norme%20minime%20sullattribuzione%20a%20cittadini%20di%20Paesi%20terzi%20o%20apolidi%20della%20qualifica%20del%20rifugiato%20o%20di%20persona%20altrimenti%20bisognosa%20di%20protezi_cf8ba63277ef.md), ovvero ne sospende l'esame quando dalla domanda non sono ricavabili elementi di valutazione della stessa.
+((Qualora al momento del ritiro implicito la Commissione territoriale abbia gia' appurato che non sussistono i requisiti per il riconoscimento della protezione internazionale, essa adotta una decisione di rigetto della domanda per infondatezza o manifesta infondatezza, ai sensi dell'articolo 41, paragrafo 5, del medesimo regolamento.))
 
 3.
 
-Il richiedente puo' chiedere per una sola volta la riapertura del procedimento sospeso ai sensi del comma 2, entro nove mesi dalla sospensione. Trascorso tale termine, il procedimento e' estinto.
-
-4.
-
-Quando la domanda e' esaminata nel contesto della procedura di cui all'articolo 28-bis, comma 2, lettere b-bis) e c), e comma 2-bis, e il richiedente proviene da un Paese di origine sicuro, fatta salva la possibilita' di decidere in base ad un adeguato esame del merito, ai sensi dell'[articolo 3 del decreto legislativo 19 novembre 2007, n. 251](Attuazione%20della%20direttiva%202004-83-CE%20recante%20norme%20minime%20sullattribuzione%20a%20cittadini%20di%20Paesi%20terzi%20o%20apolidi%20della%20qualifica%20del%20rifugiato%20o%20di%20persona%20altrimenti%20bisognosa%20di%20protezi_cf8ba63277ef.md), la ricorrenza delle ipotesi di cui al comma 1 determina il mancato assolvimento, da parte del richiedente, dell'onere di dimostrare la sussistenza di gravi motivi per ritenere il Paese non sicuro in relazione alla sua situazione particolare, di cui all'articolo 9, comma 2-bis, e si applica l'articolo 32, commi 4 e 4-bis.
-
-5.
-
-La domanda presentata dal richiedente successivamente alla decisione di rigetto adottata ai sensi del comma 2 e all'estinzione del procedimento ((di cui al comma 3 e')) sottoposta ad esame preliminare ai sensi dell'articolo 29, comma 1-bis. In sede di esame preliminare sono valutati i motivi addotti a sostegno dell'ammissibilita' della domanda, comprese le ragioni ((dell'allontanamento o della mancata presentazione al colloquio, di cui rispettivamente alle lettere a) e b) del comma 1 del presente articolo)).
+((Alle decisioni di cui ai commi 1 e 2 si applicano le disposizioni di cui all'articolo 32, commi 4 e 4-bis.))
 
 ### Art. 24.
 
@@ -695,41 +666,73 @@ Le Commissioni territoriali e la Commissione nazionale in nessun caso forniscono
 
 Capo III
 
-### Art. 26. — Istruttoria della domanda di protezione internazionale
+### Art. 26. — ((Presentazione della domanda di protezione internazionale))
 
 1.
 
-La domanda di asilo e' presentata all'ufficio di polizia di frontiera ovvero alla questura competente per il luogo di dimora. Nel caso di presentazione della domanda all'ufficio di frontiera e' disposto l'invio del richiedente presso la questura competente per territorio, per l'adozione dei provvedimenti di cui al comma 2. Nei casi in cui il richiedente e' una donna, alle operazioni partecipa personale femminile.
+((In attuazione dell'articolo 4, paragrafi 1 e 2, del regolamento (UE) 2024/1348 del Parlamento europeo e del Consiglio, del 14 maggio 2024, le Commissioni territoriali per il riconoscimento della protezione internazionale ricevono le manifestazioni di volonta' di ottenere la protezione internazionale, ai sensi dell'articolo 26 del medesimo regolamento, per il tramite di soggetti esterni convenzionati che, a tal fine, accedono al portale informatico messo a disposizione dal Dipartimento per le liberta' civili e l'immigrazione del Ministero dell'interno.))
 
 2.
 
-La questura, ricevuta la domanda di protezione internazionale, redige il verbale delle dichiarazioni del richiedente su appositi modelli predisposti dalla Commissione nazionale, a cui e' allegata la documentazione prevista dall'[articolo 3 del decreto legislativo 19 novembre 2007, n. 251](Attuazione%20della%20direttiva%202004-83-CE%20recante%20norme%20minime%20sullattribuzione%20a%20cittadini%20di%20Paesi%20terzi%20o%20apolidi%20della%20qualifica%20del%20rifugiato%20o%20di%20persona%20altrimenti%20bisognosa%20di%20protezi_cf8ba63277ef.md). Il verbale e' approvato e sottoscritto dal richiedente cui ne e' rilasciata copia, unitamente alla copia della documentazione allegata.
+((Le questure e gli uffici di polizia di frontiera ricevono le manifestazioni di volonta' di richiedere la protezione internazionale e le acquisiscono al sistema informativo dedicato del Dipartimento per le liberta' civili e l'immigrazione del Ministero dell'interno, se formulate:))
+                            a)
+                                ((dagli stranieri sottoposti agli accertamenti di cui agli articoli 5 e 7 del regolamento (UE) 2024/1356 del Parlamento europeo e del Consiglio, del 14 maggio 2024, durante gli accertamenti stessi;))
+                            b)
+                                ((dagli stranieri sottoposti alla misura del trattenimento;))
+                            c)
+                                ((dagli stranieri detenuti.))
 
 2-bis.
 
-Il verbale di cui al comma 2 e' redatto entro tre giorni lavorativi dalla manifestazione della volonta' di chiedere la protezione ovvero entro sei giorni lavorativi nel caso in cui la volonta' e' manifestata all'Ufficio di polizia di frontiera. I termini sono prorogati di dieci giorni lavorativi in presenza di un elevato numero di domande in conseguenza di arrivi consistenti e ravvicinati di richiedenti.
+((Il cittadino di un paese terzo che non e' soggetto agli accertamenti di cui al regolamento (UE) 2024/1356, ai sensi degli articoli 5, paragrafo 3, e 7, paragrafi 1 e 2, del medesimo Regolamento, o che e' stato gia' sottoposto agli accertamenti di cui al regolamento (UE) 2024/1356 e intenda manifestare la volonta' di ricevere protezione internazionale dopo il completamento degli stessi, puo' manifestare la volonta' di richiedere protezione internazionale con le modalita' di cui al comma 1. Nel caso in cui il cittadino di un paese terzo manifesti la volonta' dopo il completamento degli accertamenti di cui al regolamento (UE) 2024/1356, le informazioni fornite in sede di manifestazione della volonta' confluiscono nel portale informativo del Dipartimento per le liberta' civili e l'immigrazione del ministero dell'interno di seguito alla registrazione della domanda di cui all'articolo 26-bis.))
 
 3.
 
-Salvo quanto previsto dall'articolo 28, comma 3, nei casi soggetti alla procedura di cui al regolamento (UE) n. 604//2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013 la questura avvia le procedure per la determinazione dello Stato competente per l'esame della domanda, secondo quanto previsto dall'articolo 3, comma 3.
+Salvo quanto previsto dall'articolo 28, comma 3, nei casi soggetti alla procedura ((di cui alla Parte III del regolamento (UE) 2024/1351 del Parlamento europeo e del Consiglio, del 14 maggio 2024)) la questura avvia le procedure per la determinazione dello Stato competente per l'esame della domanda, secondo quanto previsto dall'articolo 3, comma 3.
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md).
+COMMA ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md).
 
 5.
 
-Quando la domanda e' presentata da un minore non accompagnato, l'autorita' che la riceve sospende il procedimento, da' immediata comunicazione al tribunale dei minorenni ((...)) per l'apertura della tutela e per la nomina del tutore a norma degli articoli 343, e seguenti, del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) ((, in quanto compatibili)). Il ((tribunale per i minorenni)) nelle quarantottore successive alla comunicazione della questura provvede alla nomina del tutore. Il tutore , ovvero il responsabile della struttura di accoglienza ai sensi dell'[articolo 3, comma 1, della legge 4 maggio 1983, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-04;184#art_3-com1), e successive modificazioni, prende immediato contatto con il minore per informarlo della propria nomina e con la questura per la conferma della domanda ai fini dell'ulteriore corso del procedimento di esame della domanda. presso il Ministero della solidarieta' sociale. Il giudice tutelare nelle quarantotto ore successive alla comunicazione del questore provvede alla nomina del tutore. Il tutore , ovvero il responsabile della struttura di accoglienza ai sensi dell'[articolo 3, comma 1, della legge 4 maggio 1983, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-04;184#art_3-com1), e successive modificazioni, prende immediato contatto con la questura per la conferma della domanda, ai fini dell'ulteriore corso del procedimento e l'adozione dei provvedimenti relativi all'accoglienza del minore. ((10))
+Quando la domanda e' presentata da un minore non accompagnato, l'autorita' che la riceve sospende il procedimento, da' immediata comunicazione al tribunale dei minorenni per l'apertura della tutela e per la nomina del tutore a norma degli articoli 343, e seguenti, del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), in quanto compatibili. Il tribunale per i minorenni nelle quarantottore successive alla comunicazione della questura provvede alla nomina del tutore. Il tutore , ovvero il responsabile della struttura di accoglienza ai sensi dell'[articolo 3, comma 1, della legge 4 maggio 1983, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-04;184#art_3-com1), e successive modificazioni, prende immediato contatto con il minore per informarlo della propria nomina e con la questura per la conferma della domanda ai fini dell'ulteriore corso del procedimento di esame della domanda. presso il Ministero della solidarieta' sociale. Il giudice tutelare nelle quarantotto ore successive alla comunicazione del questore provvede alla nomina del tutore. Il tutore , ovvero il responsabile della struttura di accoglienza ai sensi dell'[articolo 3, comma 1, della legge 4 maggio 1983, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-04;184#art_3-com1), e successive modificazioni, prende immediato contatto con la questura per la conferma della domanda, ai fini dell'ulteriore corso del procedimento e l'adozione dei provvedimenti relativi all'accoglienza del minore. (10)
 
 6.
 
-L'autorita' che riceve la domanda ai sensi del comma 5 informa immediatamente il Servizio centrale del sistema di protezione per richiedenti asilo e rifugiati di cui all'[articolo 1-sexies del decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_1sexies), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201989%20n.%20416%20recante%20norme%20urgenti%20in%20materia%20di%20asilo%20politico%20di%20ingresso%20e%20soggiorno%20dei%20cittadini%20extracomunitari%20e_466cfea5d540.md), per l'inserimento del minore in una delle strutture operanti nell'ambito del Sistema di protezione stesso e ne da' comunicazione al tribunale dei minori ((...)). Nel caso in cui non sia possibile l'immediato inserimento del minore in una di tali strutture, l'assistenza e l'accoglienza del minore sono temporaneamente assicurate dalla pubblica autorita' del comune dove si trova il minore. PERIODO SOPPRESSO DAL [D.LGS. 18 AGOSTO 2015, N. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md). ((10))
+L'autorita' che riceve la domanda ai sensi del comma 5 informa immediatamente il Servizio centrale del sistema di protezione per richiedenti asilo e rifugiati di cui all'[articolo 1-sexies del decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_1sexies), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201989%20n.%20416%20recante%20norme%20urgenti%20in%20materia%20di%20asilo%20politico%20di%20ingresso%20e%20soggiorno%20dei%20cittadini%20extracomunitari%20e_466cfea5d540.md), per l'inserimento del minore in una delle strutture operanti nell'ambito del Sistema di protezione stesso e ne da' comunicazione al tribunale dei minori. Nel caso in cui non sia possibile l'immediato inserimento del minore in una di tali strutture, l'assistenza e l'accoglienza del minore sono temporaneamente assicurate dalla pubblica autorita' del comune dove si trova il minore. PERIODO SOPPRESSO DAL [D.LGS. 18 AGOSTO 2015, N.
+142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md). (10)
 
 --------------
 
 AGGIORNAMENTO (10)
 
 Il [D.Lgs. 22 dicembre 2017, n. 220](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2018%20agosto%202015%20n.%20142%20di%20attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezio_ceb0f9978397.md), ha disposto (con l'art. 4, comma 2) che "Le disposizioni di cui all'articolo 2, comma 1, lettera b), e comma 2, si applicano in relazione alle comunicazioni effettuate dopo il trentesimo giorno dalla data di entrata in vigore del presente decreto; le disposizioni di cui all'articolo 2, comma 1, lettera c), numero 2), si applicano in relazione agli esami socio-sanitari disposti dopo la data di entrata in vigore del presente decreto".
+
+### Art. 26-bis. — (( (Registrazione della domanda di protezione internazionale).))
+
+1.
+
+((La domanda e' registrata, ai sensi dell'articolo 27 del regolamento (UE) 2024/1348, dalla questura oppure dall'ufficio di polizia di frontiera competenti, mediante il collegamento tra il sistema informativo automatizzato di cui all'articolo 12, comma 9-septies del decreto legislativo 25 luglio 1998, n. 286 e il sistema informativo dedicato di cui all'articolo 26, comma 2.))
+
+2.
+
+((La questura ovvero l'ufficio di polizia di frontiera, non oltre il momento della registrazione della domanda, fornisce al richiedente l'opuscolo informativo di cui all'articolo 10, comma 2.))
+
+3.
+
+((All'esito della procedura di registrazione, la questura rilascia il documento di cui all'articolo 4, comma 1, del decreto legislativo 18 agosto 2015, n. 142.))
+
+### Art. 26-ter. — (( (Formalizzazione della domanda di protezione internazionale).))
+
+1.
+
+((La domanda di protezione internazionale e' formalizzata dal richiedente presso le Commissioni territoriali per il riconoscimento della protezione internazionale per il tramite dei soggetti esterni convenzionati di cui all'articolo 26, comma 1, che, a tal fine, accedono al portale informatico messo a disposizione dal Dipartimento per le liberta' civili e l'immigrazione del Ministero dell'interno.
+Nel caso in cui sia accolto presso i centri di cui agli articoli 9 e 11 del decreto legislativo 18 agosto 2015, n. 142, il richiedente formalizza la domanda di protezione internazionale per il tramite dei gestori dei predetti centri che, a tal fine, accedono al portale informatico messo a disposizione dal Dipartimento per le liberta' civili e l'immigrazione del Ministero dell'interno. Il richiedente trattenuto o detenuto formalizza la domanda alla questura che, a tal fine, accede al sistema informativo dedicato del Dipartimento per le liberta' civili e l'immigrazione del Ministero dell'interno.))
+
+2.
+
+((Fatto salvo quanto previsto dall'articolo 29, paragrafo 5, del regolamento (UE) 2024/1348, a seguito della formalizzazione della domanda, al richiedente e' rilasciato il documento di cui all'articolo 4, comma 4, del decreto legislativo 18 agosto 2015, n. 142.))
 
 ### Art. 27. — Procedure di esame
 
@@ -761,74 +764,12 @@ Qualora la Commissione territoriale, per la sopravvenuta esigenza di acquisire n
 
 In casi eccezionali, debitamente motivati, il termine di nove mesi di cui al comma 3 puo' essere ulteriormente prorogato di tre mesi ove necessario per assicurare un esame adeguato e completo della domanda.
 
-### Art. 28. — (( (Esame prioritario). ))
-
-((
+### Art. 28. — (Esame prioritario)
 
 1.
 
-Il presidente della Commissione territoriale, previo esame preliminare delle domande, determina i casi di trattazione prioritaria, secondo i criteri enumerati al comma 2, e quelli per i quali applicare la procedura accelerata, ai sensi dell'articolo 28-bis. La Commissione territoriale informa tempestivamente il richiedente delle determinazioni procedurali assunte ai sensi del periodo precedente.
-
-2. La domanda e' esaminata in via prioritaria, conformemente ai principi fondamentali e alle garanzie di cui al capo II, quando:
-
-a) ad una prima valutazione, e' verosimilmente fondata;
-
-b) e' presentata da un richiedente appartenente a categorie di persone vulnerabili, in particolare da un minore non accompagnato, ovvero che necessita di garanzie procedurali particolari;
-
-c) e' esaminata ai sensi dell'articolo 12, comma 2-bis))
-
-((12))
-
---------------
-
-AGGIORNAMENTO (12)
-
-Il [D.L. 21 ottobre 2020, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-10-21;130), convertito con modificazioni dalla [L. 18 dicembre 2020, n. 173](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20ottobre%202020%20n.%20130%20recante%20disposizioni%20urgenti%20in%20materia%20di%20immigrazione%20protezione%20internazionale%20e%20complementare%20modifiche_b597c75041fc.md), ha disposto (con l'art. 15, comma 2) che "Le disposizioni di cui all'articolo 2, comma 1, lettere a), b, c), d) ed e) si applicano anche ai procedimenti pendenti alla data di entrata in vigore del presente decreto avanti alle commissioni territoriali".
-
-### Art. 28-bis. — (Procedure accelerate)
-
-1.
-
-La Questura provvede senza ritardo alla trasmissione della documentazione necessaria alla Commissione territoriale che adotta la decisione entro cinque giorni nei casi di:
-                            a)
-                                domanda reiterata ai sensi dell'articolo 29, comma 1, lettera b);
-                            b)
-                                domanda presentata da richiedente sottoposto a procedimento penale per uno dei reati di cui agli [articoli 12, comma 1, lettera c)](Attuazione%20della%20direttiva%202004-83-CE%20recante%20norme%20minime%20sullattribuzione%20a%20cittadini%20di%20Paesi%20terzi%20o%20apolidi%20della%20qualifica%20del%20rifugiato%20o%20di%20persona%20altrimenti%20bisognosa%20di%20protezi_cf8ba63277ef.md), e [16, comma 1, lettera d-bis), del decreto legislativo 19 novembre 2007, n. 251](Attuazione%20della%20direttiva%202004-83-CE%20recante%20norme%20minime%20sullattribuzione%20a%20cittadini%20di%20Paesi%20terzi%20o%20apolidi%20della%20qualifica%20del%20rifugiato%20o%20di%20persona%20altrimenti%20bisognosa%20di%20protezi_cf8ba63277ef.md), e quando ricorrono le condizioni di cui all'[articolo 6, comma 2, lettere a)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md), [b)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md) e [c), del decreto legislativo 18 agosto 2015, n. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md), o il richiedente e' stato condannato anche con sentenza non definitiva per uno dei predetti reati, previa audizione del richiedente. (12)
-
-2.
-
-La Questura provvede senza ritardo alla trasmissione della documentazione necessaria alla Commissione territoriale che, entro sette giorni dalla data di ricezione della documentazione, provvede all'audizione e decide entro i successivi due giorni, nei seguenti casi:
-                            a)
-                                richiedente per il quale e' stato disposto il trattenimento nelle strutture di cui all'[articolo 10-ter del decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), ovvero nei centri di cui all'[articolo 14 del decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), qualora non ricorrano le condizioni di cui al comma 1, lettera b);
-                            b)
-                                domanda di protezione internazionale presentata da un richiedente direttamente alla frontiera o nelle zone di transito di cui al comma 4, dopo essere stato fermato per avere eluso o tentato di eludere i relativi controlli. PERIODO SOPPRESSO DAL [D.L. 10 MARZO 2023, N. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-03-10;20), CONVERTITO CON MODIFICAZIONI DALLA [L. 5 MAGGIO 2023, N. 50](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20marzo%202023%20n.%2020%20recante%20disposizioni%20urgenti%20in%20materia%20di%20flussi%20di%20ingresso%20legale%20dei%20lavoratori%20stranieri%20e%20di%20prevenzione_f729a3e5e206.md);
-                            b-bis)
-                                domanda di protezione internazionale presentata direttamente alla frontiera o nelle zone di transito di cui al comma 4 da un richiedente proveniente da un Paese designato di origine sicuro ai sensi dell'articolo 2-bis;
-                            c)
-                                richiedente proveniente da un Paese designato di origine sicura, ai sensi dell'articolo 2-bis, fatto salvo quanto previsto alla lettera b-bis);
-                            d)
-                                domanda manifestamente infondata, ai sensi dell'articolo 28-ter;
-                            e)
-                                richiedente che presenti la domanda, dopo essere stato fermato in condizioni di soggiorno irregolare, al solo scopo di ritardare o impedire l'esecuzione di un provvedimento di espulsione o respingimento.
-                            e-bis)
-                                richiedente che e' entrato o si e' trattenuto irregolarmente in Italia e ha presentato domanda di protezione internazionale, senza giustificato motivo, oltre il termine di novanta giorni dal suo ingresso in Italia. 
- 2-bis.((Nei casi di cui ai commi 1 e 2)) la procedura puo' essere svolta direttamente alla frontiera o nelle zone di transito di cui al comma 4 ((, quando la domanda e' stata ivi presentata,)) e la Commissione territoriale decide nel termine di sette giorni dalla ricezione della domanda.
-
-3.
-
-Lo Stato italiano puo' dichiararsi competente all'esame delle domande di cui al comma 2, lettera a), ai sensi del regolamento (UE) n. 604/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013.
-
-4.
-
-Ai fini di cui al comma 2, lettera b), le zone di frontiera o di transito sono individuate con decreto del Ministro dell'interno. Con il medesimo decreto possono essere istituite fino a cinque ulteriori sezioni delle Commissioni territoriali di cui all'articolo 4, comma 2, per l'esame delle domande di cui al suddetto comma.
-
-5.
-
-I termini di cui al presente articolo possono essere superati ove necessario per assicurare un esame adeguato e completo della domanda, fatti salvi i termini massimi previsti dall'articolo 27, commi 3 e 3-bis. Nei casi di cui al comma 1, lettera b), e al comma 2, lettera a), i termini di cui all'articolo 27, commi 3 e 3-bis, sono ridotti ad un terzo.
-
-6.
-
-Le procedure di cui al presente articolo non si applicano ai minori non accompagnati e agli stranieri portatori di esigenze particolari ai sensi dell'[articolo 17 del decreto legislativo 18 agosto 2015, n. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md). (12) 
+Il presidente della Commissione territoriale, previo esame preliminare delle domande, determina i casi di trattazione prioritaria, ((ai sensi dell'articolo 34, paragrafo 5, del regolamento (UE) 2024/1348)), e quelli per i quali applicare la procedura accelerata, ((ai sensi dell'articolo 42, paragrafo 1, del regolamento (UE) 2024/1348)). La Commissione territoriale informa tempestivamente il richiedente delle determinazioni procedurali assunte ai sensi del periodo precedente. 
+ 2.((Ai sensi dell'articolo 53, paragrafo 2, lettere b), c) e d) del regolamento (UE) 2024/1348, e fatto salvo quanto previsto dal paragrafo 1 del medesimo articolo, le procedure di cui al presente articolo si applicano ai richiedenti con esigenze particolari ai sensi dell'articolo 17 del decreto legislativo 18 agosto 2015, n. 142, all'esito di una valutazione individuale effettuata secondo le linee guida elaborate dal Ministero dell'interno, in collaborazione con le altre amministrazioni competenti e con le organizzazioni interessate, ove sia possibile fornire ai menzionati richiedenti il necessario sostegno.)) 
  (12)
 
 --------------
@@ -837,29 +778,18 @@ AGGIORNAMENTO (12)
 
 Il [D.L. 21 ottobre 2020, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-10-21;130), convertito con modificazioni dalla [L. 18 dicembre 2020, n. 173](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20ottobre%202020%20n.%20130%20recante%20disposizioni%20urgenti%20in%20materia%20di%20immigrazione%20protezione%20internazionale%20e%20complementare%20modifiche_b597c75041fc.md), ha disposto (con l'art. 15, comma 2) che "Le disposizioni di cui all'articolo 2, comma 1, lettere a), b, c), d) ed e) si applicano anche ai procedimenti pendenti alla data di entrata in vigore del presente decreto avanti alle commissioni territoriali".
 
-### Art. 28-ter. — (Domanda manifestamente infondata)
+### Art. 28-bis. — (( (Trasferimento del richiedente sottoposto alla procedura di asilo alla frontiera). ))
+
+1. ((Nel rispetto dei termini stabiliti dagli articoli 51 e 73 del regolamento (UE) 2024/1348, qualora sia stata determinata l'applicazione della procedura accelerata in frontiera, la Commissione territoriale competente per l'esame adotta e comunica la decisione sulla domanda entro quattro settimane.))
+
+1. ((Il richiedente la cui domanda di protezione internazionale e' esaminata con procedura di asilo alla frontiera puo' essere trasferito, dal punto della frontiera esterna in cui e' stato sottoposto agli accertamenti di cui al regolamento (UE) 2024/1356 e ha fatto domanda, a uno specifico luogo sito alla frontiera esterna o in prossimita' della stessa o in altri luoghi designati sul territorio nazionale nei quali vi sono strutture dedicate alle procedure di frontiera.)) 
+ 2. ((Il trasferimento verso le strutture di cui al comma 1 e l'accoglienza nelle medesime non costituiscono autorizzazione all'ingresso nel territorio nazionale e non determinano la cessazione dell'obbligo del richiedente di restare a disposizione delle competenti autorita'.))
+
+### Art. 28-ter. — (( (Domanda manifestamente infondata).))
 
 1.
 
-La domanda e' considerata manifestamente infondata, ai sensi dell'articolo 32, comma 1, lettera b-bis), quando ricorra una delle seguenti ipotesi:
-                            a)
-                                il richiedente ha sollevato esclusivamente questioni che non hanno alcuna attinenza con i presupposti per il riconoscimento della protezione internazionale ai sensi del [decreto legislativo 19 novembre 2007, n. 251](Attuazione%20della%20direttiva%202004-83-CE%20recante%20norme%20minime%20sullattribuzione%20a%20cittadini%20di%20Paesi%20terzi%20o%20apolidi%20della%20qualifica%20del%20rifugiato%20o%20di%20persona%20altrimenti%20bisognosa%20di%20protezi_cf8ba63277ef.md);
-                            b)
-                                il richiedente proviene da un Paese designato di origine sicuro ai sensi dell'articolo 2-bis;
-                            c)
-                                il richiedente ha rilasciato dichiarazioni palesemente incoerenti e contraddittorie o palesemente false, che contraddicono informazioni verificate sul Paese di origine;
-                            d)
-                                il richiedente ha indotto in errore le autorita' presentando informazioni o documenti falsi o omettendo informazioni o documenti riguardanti la sua identita' o cittadinanza che avrebbero potuto influenzare la decisione negativamente, ovvero ha dolosamente distrutto o fatto sparire un documento di identita' o di viaggio che avrebbe permesso di accertarne l'identita' o la cittadinanza;
-                            e)
-                                il richiedente e' entrato illegalmente nel territorio nazionale, o vi ha prolungato illegalmente il soggiorno, e senza giustificato motivo non ha presentato la domanda tempestivamente rispetto alle circostanze del suo ingresso;
-                            f)
-                                il richiedente ha rifiutato di adempiere all'obbligo del rilievo dattiloscopico a norma del regolamento (UE) n. 603/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013;
-                            g)
-                                il richiedente si trova nelle condizioni di cui all'articolo 6, commi 2, lettere a), b) e c), e 3, del [decreto legislativo 18 agosto 2015, n. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md).
-
-1-bis.
-
-((COMMA ABROGATO DAL D.L. 5 OTTOBRE 2023, N. 133, CONVERTITO, CON MODIFICAZIONI, DALLA L. 1 DICEMBRE 2023, N. 176)).
+((La Commissione territoriale respinge la domanda per manifesta infondatezza, ai sensi dell'articolo 39 del regolamento (UE) 2024/1348 se, al momento della conclusione dell'esame, ricorre una delle fattispecie di cui all'articolo 42, paragrafo 1, lettere a), b), c), d), e), f), g), h), i) e j), e paragrafo 3, del suddetto regolamento.))
 
 ### Art. 29. — Casi di inammissibilita' della domanda
 
@@ -868,8 +798,13 @@ La domanda e' considerata manifestamente infondata, ai sensi dell'articolo 32, c
 La Commissione territoriale dichiara inammissibile la domanda e non procede all'esame, nei seguenti casi:
                             a)
                                 al richiedente e' stato riconosciuto lo status di rifugiato o lo status di protezione sussidiaria da uno Stato firmatario della Convenzione di Ginevra e lo stesso possa ancora avvalersi di tale protezione;
+                            b)
+                                ((si tratta di una domanda reiterata ai sensi dell'articolo 38, paragrafo 2, del regolamento (UE) 2024/1348;))
 
-((1-bis. Nei casi di cui al comma 1, la domanda e' sottoposta a esame preliminare da parte del presidente della Commissione territoriale, diretto ad accertare se emergono o sono stati addotti, da parte del richiedente, nuovi elementi o nuove prove rilevanti ai fini del riconoscimento della protezione internazionale e che il ritardo nella presentazione di tali nuovi elementi o prove non e' imputabile a colpa del ricorrente, su cui grava l'onere di allegazione specifica. Nell'ipotesi di cui al comma 1, lettera a), il presidente della Commissione procede anche all'audizione del richiedente sui motivi addotti a sostegno dell'ammissibilita' della domanda nel suo caso specifico))
+1-bis.
+
+Nei casi di cui al comma 1, la domanda e' sottoposta a esame preliminare da parte del presidente della Commissione territoriale, diretto ad accertare se emergono o sono stati addotti, da parte del richiedente, nuovi elementi o nuove prove rilevanti ai fini del riconoscimento della protezione internazionale e che il ritardo nella presentazione di tali nuovi elementi o prove non e' imputabile a colpa del ricorrente, su cui grava l'onere di allegazione specifica.
+Nell'ipotesi di cui al comma 1, lettera a), il presidente della Commissione procede anche all'audizione del richiedente sui motivi addotti a sostegno dell'ammissibilita' della domanda nel suo caso specifico.
 
 ### Art. 29-bis. — (Domanda reiterata in fase di esecuzione di un provvedimento di allontanamento)
 
@@ -900,7 +835,7 @@ Qualora sia stata determinata la competenza territoriale di altro Stato, ai sens
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 18 agosto 2015, n. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md) ha disposto (con l'art. 26, comma 1) che "Nel [decreto legislativo 28 gennaio 2008, n. 25](Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), le parole: "regolamento (CE) n. 343/2003, del Consiglio, del 18 febbraio 2003," ovunque presenti, sono sostituite dalle seguenti: "regolamento (UE) n. 604//2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013"."
+Il [D.Lgs. 18 agosto 2015, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md) ha disposto (con l'art. 26, comma 1) che "Nel [decreto legislativo 28 gennaio 2008, n. 25](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), le parole: "regolamento (CE) n. 343/2003, del Consiglio, del 18 febbraio 2003," ovunque presenti, sono sostituite dalle seguenti: "regolamento (UE) n. 604//2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013"."
 
 ### Art. 31. — Acquisizione di ulteriori dichiarazioni o di nuovi elementi
 
@@ -921,6 +856,8 @@ Fatto salvo quanto previsto dagli articoli 23, 29 e 30 la Commissione territoria
                                 rigetta la domanda per manifesta infondatezza nei casi di cui all'articolo 28-ter;
                             b-ter)
                                 rigetta la domanda se, in una parte del territorio del Paese di origine, il richiedente non ha fondati motivi di temere di essere perseguitato o non corre rischi effettivi di subire danni gravi o ha accesso alla protezione contro persecuzioni o danni gravi, puo' legalmente e senza pericolo recarvisi ed esservi ammesso e si puo' ragionevolmente supporre che vi si ristabilisca.
+                            b-quater)
+                                ((dichiara inammissibile la domanda e non procede all'esame quando accerta la sussistenza di una delle condizioni previste dall'articolo 38, paragrafo 1, lettere a), b) c) d) ed e) del regolamento (UE) 2024/1348.))
 
 1-bis.
 
@@ -928,7 +865,7 @@ COMMA ABROGATO DAL [D.L. 21 OTTOBRE 2020, N. 130](https://www.normattiva.it/uri-
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md).
+COMMA ABROGATO DAL [D.LGS. 18 AGOSTO 2015, N. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md).
 
 3.
 
@@ -938,13 +875,16 @@ Nei casi in cui non accolga la domanda di protezione internazionale e ricorrano 
 
 3-bis.
 
-La Commissione territoriale trasmette, altresi', gli atti al Questore per le valutazioni di competenza se nel corso dell'istruttoria sono emersi fondati motivi per ritenere che il richiedente e' stato vittima dei delitti di cui agli [articoli 600](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [601 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+La Commissione territoriale trasmette, altresi', gli atti al Questore per le valutazioni di competenza se nel corso dell'istruttoria sono emersi fondati motivi per ritenere che il richiedente e' stato vittima dei delitti di cui agli [articoli 600](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [601 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 4.
 
-La decisione di cui al comma 1, lettere b), b-bis) e b-ter), del presente articolo e il verificarsi delle ipotesi previste dagli articoli 23, 29 e 29-bis comportano, alla scadenza del termine per l'impugnazione, l'obbligo per il richiedente di lasciare il territorio nazionale, salvo che gli sia stato rilasciato un permesso di soggiorno ad altro titolo e salvo che la Commissione territoriale rilevi la sussistenza di una delle condizioni di cui ai commi 3.2 e 3-bis del presente articolo o di una delle cause impeditive di cui all'[articolo 19, commi 1-bis](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md) e [2, del decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md). Nei casi di cui al periodo precedente, la decisione reca anche l'attestazione dell'obbligo di rimpatrio e del divieto di reingresso di cui all'[articolo 13, commi 13](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md) e [14, del decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md). L'attestazione tiene luogo e produce gli effetti del provvedimento di espulsione amministrativa di cui all'[articolo 13 del decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e il questore procede ai sensi del medesimo articolo 13, commi 4 e 5, salvi gli effetti di cui all'articolo 35-bis, commi 3 e 4, del presente decreto. Il provvedimento recante l'attestazione dell'obbligo di rimpatrio in conformita' al presente comma e' impugnabile con ricorso unitario ai sensi dell'articolo 35, comma 1, del presente decreto.
+La decisione di cui al comma 1, lettere b), b-bis) ((...)) b-ter) ((e b-quater)), del presente articolo e il verificarsi delle ipotesi previste dagli articoli 23, ((23-bis,)) 29 e 29-bis comportano, alla scadenza del termine per l'impugnazione, l'obbligo per il richiedente di lasciare il territorio nazionale, salvo che gli sia stato rilasciato un permesso di soggiorno ad altro titolo e salvo che la Commissione territoriale rilevi la sussistenza di una delle condizioni di cui ai commi 3.2 e 3-bis del presente articolo o di una delle cause impeditive di cui all'[articolo 19, commi 1-bis](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md) e [2, del decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md). Nei casi di cui al periodo precedente, la decisione reca anche l'attestazione dell'obbligo di rimpatrio e del divieto di reingresso di cui all'[articolo 13, commi 13](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md) e [14, del decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md). L'attestazione tiene luogo e produce gli effetti del provvedimento di espulsione amministrativa di cui all'[articolo 13 del decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e il questore procede ai sensi del medesimo articolo 13, commi 4 e 5, salvi gli effetti di cui all'articolo 35-bis, commi 3 e 4, del presente decreto. Il provvedimento recante l'attestazione dell'obbligo di rimpatrio in conformita' al presente comma e' impugnabile con ricorso unitario ai sensi dell'articolo 35, comma 1, del presente decreto.
 
-((4-bis. Nei casi di cui al comma 4, primo periodo, qualora la procedura si svolga direttamente alla frontiera o nelle zone di transito, ai sensi dell'articolo 28-bis, comma 2-bis, la decisione reca l'attestazione dell'obbligo di rimpatrio e produce gli effetti del provvedimento di respingimento di cui all'[articolo 10, comma 2, lettera b-bis), del decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md). Si applica il comma 4, quarto periodo.))
+4-bis.
+
+Nei casi di cui al comma 4, primo periodo, qualora la procedura si svolga direttamente alla frontiera o nelle zone di transito, ai sensi dell'articolo 28-bis, comma 2-bis, la decisione reca l'attestazione dell'obbligo di rimpatrio e produce gli effetti del provvedimento di respingimento di cui all'[articolo 10, comma 2, lettera b-bis), del decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md). Si applica il comma 4, quarto periodo. 
+ 4-ter.((Con la decisione di cui al comma 4-bis, il richiedente, qualora in possesso di un passaporto o altro documento di viaggio valido, e' informato della facolta' di chiedere al questore la concessione di un periodo per la partenza volontaria, anche attraverso programmi di rimpatrio volontario e assistito, sempreche' non ricorrano le circostanze impeditive previste dall'articolo 4, paragrafo 5, del regolamento (UE) 2024/1349. Si applica l'articolo 10, comma 2-septies, del decreto legislativo 25 luglio 1998, n. 286.))
 
 ---------------
 
@@ -1006,15 +946,15 @@ Capo V
 
 1.
 
-Avverso i provvedimenti adottati dalla Commissione territoriale e avverso i provvedimenti adottati dalla Commissione nazionale di cui all'articolo 33 e' ammesso ricorso all'autorita' giudiziaria ordinaria. Il ricorso e' ammesso anche nel caso in cui l'interessato abbia richiesto il riconoscimento dello status di rifugiato e sia stata riconosciuta esclusivamente la protezione sussidiaria o la protezione speciale e nel caso di cui all'articolo 32, comma 3.1.
+Avverso i provvedimenti adottati dalla Commissione territoriale e avverso i provvedimenti adottati dalla Commissione nazionale ((...)) e' ammesso ricorso all'autorita' giudiziaria ordinaria. Il ricorso e' ammesso anche nel caso in cui l'interessato abbia richiesto il riconoscimento dello status di rifugiato e sia stata riconosciuta esclusivamente la protezione sussidiaria o la protezione speciale e nel caso di cui all'articolo 32, comma 3.1.
 
 2.
 
-Le controversie di cui al comma 1 sono disciplinate dall'articolo 35-bis. (3) (8)
+Le controversie di cui al comma 1 sono disciplinate ((dagli articoli 35-bis e 35-ter)). (3) (8)
 
 2-bis.
 
-I provvedimenti comunicati alla Commissione nazionale ovvero alle Commissioni territoriali ai sensi dell'articolo 35-bis, commi 4 e 13, sono tempestivamente trasmessi dalle medesime Commissioni territoriali o nazionali al questore del luogo di domicilio del ricorrente, risultante agli atti della Commissione, per gli adempimenti conseguenti. ((Il questore, eseguita l'espulsione nei casi di cui all'articolo 28-bis, ad esclusione del caso di cui al comma 1, lettera b), e di cui all'articolo 28-ter, ad esclusione del caso di cui al comma 1, lettera e), ne da' comunicazione alle Commissioni territoriali, che tempestivamente la trasmettono al giudice ai fini di cui all'articolo 35-bis, comma 17-bis, ultimo periodo)). (8)
+I provvedimenti comunicati alla Commissione nazionale ovvero alle Commissioni territoriali ai sensi dell'articolo 35-bis, commi 4 e 13, sono tempestivamente trasmessi dalle medesime Commissioni territoriali o nazionali al questore del luogo di domicilio del ricorrente, risultante agli atti della Commissione, per gli adempimenti conseguenti. ((PERIODO SOPPRESSO DAL D.L. 12 GIUGNO 2026,N . 100)). (8)
 
 3.
 
@@ -1081,46 +1021,40 @@ Il [D.L. 17 febbraio 2017, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 1.
 
-Le controversie aventi ad oggetto l'impugnazione dei provvedimenti previsti dall'articolo 35 anche per mancato riconoscimento dei presupposti per la protezione speciale a norma dell'articolo 32, comma 3, sono regolate dalle disposizioni di cui agli [articoli 737 e seguenti del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_737), ove non diversamente disposto dal presente articolo.
+Le controversie aventi ad oggetto l'impugnazione dei provvedimenti previsti dall'articolo 35 anche per mancato riconoscimento dei presupposti per la protezione speciale a norma dell'articolo 32, comma 3, sono regolate dalle disposizioni di cui agli [articoli 737 e seguenti del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_737), ove non diversamente disposto dal presente articolo ((e, quanto alle procedure di frontiera, dall'articolo 35-ter)).
 
 2.
 
-Salvo quanto previsto dai commi 2-bis e 2-ter, il ricorso e' proposto, a pena di inammissibilita', entro trenta giorni dalla notificazione del provvedimento, ovvero entro sessanta giorni se il ricorrente si trova in un Paese terzo al momento della proposizione del ricorso, e puo' essere depositato anche a mezzo del servizio postale ovvero per il tramite di una rappresentanza diplomatica o consolare italiana. In tal caso l'autenticazione della sottoscrizione e l'inoltro all'autorita' giudiziaria italiana sono effettuati dai funzionari della rappresentanza e le comunicazioni relative al procedimento sono effettuate presso la medesima rappresentanza. La procura speciale al difensore e' rilasciata altresi' dinanzi all'autorita' consolare. PERIODO SOPPRESSO DAL [D.L. 11 OTTOBRE 2024, N. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-10-11;145), CONVERTITO CON MODIFICAZIONI DALLA [L. 9 DICEMBRE 2024, N.
-187](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20ottobre%202024%20n.%20145%20recante%20disposizioni%20urgenti%20in%20materia%20di%20ingresso%20in%20Italia%20di%20lavoratori%20stranieri%20di%20tutela%20e%20assistenz_1a3952b0cd7f.md). 
- 2-bis.Nei casi di cui all'articolo 28-bis, commi 1 e 2, lettere a), d) ed e) , e nei casi in cui nei confronti del ricorrente e' stato adottato un provvedimento di trattenimento, i termini previsti dal comma 2 sono ridotti della meta', fatto salvo quanto previsto dal comma 2-ter. (20) 
- 2-ter. ((Nei casi di cui all'articolo 28-bis, comma 2-bis,)) del presente decreto, anche se il ricorrente si trova in stato di trattenimento ovvero e' sottoposto a misure alternative al trattenimento ai sensi dell'[articolo 6-bis del decreto legislativo 18 agosto 2015, n. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md), il termine per il deposito del ricorso e' di sette giorni, decorrenti dalla data di notificazione della decisione della Commissione territoriale. (20)
+Salvo quanto previsto ((dal comma 2-bis)), il ricorso e' proposto, a pena di inammissibilita', entro trenta giorni dalla notificazione del provvedimento, ovvero entro sessanta giorni se il ricorrente si trova in un Paese terzo al momento della proposizione del ricorso, e puo' essere depositato anche a mezzo del servizio postale ovvero per il tramite di una rappresentanza diplomatica o consolare italiana. In tal caso l'autenticazione della sottoscrizione e l'inoltro all'autorita' giudiziaria italiana sono effettuati dai funzionari della rappresentanza e le comunicazioni relative al procedimento sono effettuate presso la medesima rappresentanza. La procura speciale al difensore e' rilasciata altresi' dinanzi all'autorita' consolare. PERIODO SOPPRESSO DAL [D.L. 11 OTTOBRE 2024, N. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-10-11;145), CONVERTITO CON MODIFICAZIONI DALLA [L. 9 DICEMBRE 2024, N.
+187](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20ottobre%202024%20n.%20145%20recante%20disposizioni%20urgenti%20in%20materia%20di%20ingresso%20in%20Italia%20di%20lavoratori%20stranieri%20di%20tutela%20e%20assistenz_1a3952b0cd7f.md).
+
+2-bis.
+
+((Fermo quanto previsto dall'articolo 35-ter, comma 1, nei casi di cui all'articolo 67, paragrafo 7, lettera a), del regolamento (UE) 2024/1348, il ricorso e' proposto, a pena di inammissibilita', entro sette giorni dalla notificazione del provvedimento.))
+
+2-ter.
+
+((COMMA ABROGATO DAL D.L. 12 GIUGNO 2026, N. 100)).
 
 3.
 
-La proposizione del ricorso sospende l'efficacia esecutiva del provvedimento impugnato, tranne che nelle ipotesi in cui il ricorso viene proposto:
-                            a)
-                                da parte di un soggetto nei cui confronti e' stato adottato un provvedimento di trattenimento nelle strutture di cui all'[articolo 10-ter del decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), ovvero nei centri di cui all'articolo 14 del medesimo [decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md);
-                            b)
-                                avverso il provvedimento che dichiara inammissibile la domanda di riconoscimento della protezione internazionale;
-                            c)
-                                avverso il provvedimento di rigetto per manifesta infondatezza ai sensi dell'articolo 32, comma 1, lettera b-bis);
-                            d)
-                                avverso il provvedimento adottato nei confronti dei soggetti di cui all'articolo 28-bis, comma 2, lettere b), b-bis), c) ed e);
-                            d-bis)
-                                avverso il provvedimento relativo alla domanda di cui all'articolo 28-bis, comma 1, lettera b).
+((La proposizione del ricorso sospende l'efficacia esecutiva del provvedimento impugnato, ad eccezione dei casi previsti dall'articolo 68, paragrafo 3, del regolamento (UE) 2024/1348.))
 
 4.
 
-Nei casi previsti dal comma 3, l'efficacia esecutiva del provvedimento impugnato puo' essere sospesa, su istanza di parte, con decreto motivato, quando ricorrono gravi e circostanziate ragioni.
-L'istanza di sospensione deve essere proposta, a pena di inammissibilita', con il ricorso introduttivo. Il ricorso e' notificato, a cura della cancelleria, ai soggetti e con le modalita' di cui al comma 6. Il Ministero dell'interno puo' depositare note difensive entro tre giorni dalla notificazione. Se il Ministero dell'interno deposita note difensive la parte ricorrente puo' depositare note di replica entro i successivi tre giorni. Il giudice decide sull'istanza di sospensione entro i successivi cinque giorni.
-Se il Ministero dell'interno non si avvale della facolta' di depositare note difensive, prevista dal quarto periodo, il termine per la decisione decorre dalla scadenza del termine ivi stabilito per il loro deposito. Nei casi previsti dalle lettere b), c) e d) del comma 3, quando l'istanza di sospensione e' accolta, al ricorrente e' rilasciato un permesso di soggiorno per richiesta di asilo. (20)
+((Nei casi previsti dall'articolo 68, paragrafo 3, del regolamento (UE) 2024/1348, fermo quanto prevede l'articolo 35-ter, il ricorrente, con istanza da proporsi a pena di inammissibilita' con il ricorso introduttivo, puo' chiedere di essere autorizzato a rimanere, esponendo gli elementi di fatto e di diritto posti a fondamento della richiesta. Il ricorso e' notificato, a cura della cancelleria, ai soggetti e con le modalita' di cui al comma 6. Il Ministero dell'interno puo' depositare note difensive entro tre giorni dalla notificazione. Se il Ministero dell'interno deposita note difensive, la parte ricorrente puo' depositare note di replica entro i successivi tre giorni.))
 
 4-bis.
 
-Avverso il decreto di cui al comma 4 e' ammesso reclamo alla corte d'appello nel termine di cinque giorni, decorrente dalla comunicazione del decreto a cura della cancelleria, da effettuare anche nei confronti della parte non costituita. Si applicano gli [articoli 737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_737) e [738 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_738). Il reclamo e' comunicato, a cura della cancelleria, alla controparte. La proposizione del reclamo non sospende l'efficacia esecutiva del provvedimento reclamato. La corte d'appello, sentite le parti, decide con decreto immediatamente esecutivo, entro dieci giorni dalla presentazione del reclamo. Il decreto e' comunicato alle parti a cura della cancelleria. La sospensione dei termini processuali nel periodo feriale non opera nei procedimenti di cui al presente comma.(20)
+((Il giudice, esaminati gli elementi di fatto e di diritto, entro i successivi dieci giorni decide con decreto motivato se il ricorrente debba essere autorizzato a rimanere nelle more dell'esito del ricorso. Se il Ministero dell'interno non si avvale della facolta' di depositare note difensive, il termine per la decisione decorre dalla scadenza del termine stabilito dal comma 4 per il loro deposito. Quando l'istanza e' accolta, al ricorrente e' rilasciato il documento previsto dall'articolo 4, comma 4, del decreto legislativo n. 142 del 2015.))
 
 5.
 
-La proposizione del ricorso o dell'istanza cautelare ai sensi del comma 4 non sospende l'efficacia esecutiva del provvedimento che respinge o dichiara inammissibile un'altra domanda reiterata a seguito di una decisione definitiva che respinge o dichiara inammissibile una prima domanda reiterata, ovvero dichiara inammissibile la domanda di riconoscimento della protezione internazionale, ai sensi dell'articolo 29-bis.
+((Il richiedente non puo' essere allontanato dal momento della notifica della decisione della Commissione fino alla scadenza del termine per formulare l'istanza prevista dal comma 4 e, se con il ricorso e' proposta tale istanza, nelle more della decisione prevista dal comma 4-bis. La disposizione di cui al primo periodo non si applica quando ricorrono le condizioni previste dagli articoli 56 e 68, paragrafo 6, del regolamento (UE) 2024/1348)).
 
 6.
 
-Il ricorso e' notificato, a cura della cancelleria, al Ministero dell'interno, presso la commissione o la sezione che ha adottato l'atto impugnato, nonche', limitatamente ai casi di cessazione o revoca della protezione internazionale, alla Commissione nazionale per il diritto di asilo; il ricorso e' trasmesso al pubblico ministero, che, entro venti giorni, stende le sue conclusioni, a norma dell'[articolo 738, secondo comma, del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_738-com2), rilevando l'eventuale sussistenza di cause ostative al riconoscimento dello status di rifugiato e della protezione sussidiaria.
+Il ricorso e' notificato, a cura della cancelleria, al Ministero dell'interno, presso la commissione ((...)) che ha adottato l'atto impugnato, nonche', limitatamente ai casi di cessazione o revoca della protezione internazionale, alla Commissione nazionale per il diritto di asilo; il ricorso e' trasmesso al pubblico ministero, che, entro venti giorni, stende le sue conclusioni, a norma dell'[articolo 738, secondo comma, del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_738-com2), rilevando l'eventuale sussistenza di cause ostative al riconoscimento dello status di rifugiato e della protezione sussidiaria.
 
 7.
 
@@ -1160,13 +1094,13 @@ Il ricorrente puo' depositare una nota difensiva entro i venti giorni successivi
 
 13.
 
-Entro quattro mesi dalla presentazione del ricorso, il Tribunale decide, sulla base degli elementi esistenti al momento della decisione, con decreto che rigetta il ricorso ovvero riconosce al ricorrente lo status di rifugiato o di persona cui e' accordata la protezione sussidiaria. Il decreto non e' reclamabile. La sospensione degli effetti del provvedimento impugnato, di cui al comma 3, viene meno se con decreto, anche non definitivo, il ricorso e' rigettato.
-La disposizione di cui al periodo precedente si applica anche relativamente agli effetti del provvedimento cautelare pronunciato a norma del comma 4. Il termine per proporre ricorso per cassazione e' di giorni trenta e decorre dalla comunicazione del decreto a cura della cancelleria, da effettuarsi anche nei confronti della parte non costituita. La procura alle liti per la proposizione del ricorso per cassazione deve essere conferita, a pena di inammissibilita' del ricorso, in data successiva alla comunicazione del decreto impugnato; a tal fine il difensore certifica la data di rilascio in suo favore della procura medesima. In caso di rigetto, la Corte di cassazione decide sull'impugnazione entro sei mesi dal deposito del ricorso.
-Quando sussistono fondati motivi, il giudice che ha pronunciato il decreto impugnato puo' disporre la sospensione degli effetti del predetto decreto, con conseguente ripristino, in caso di sospensione di decreto di rigetto, della sospensione dell'efficacia esecutiva della decisione della Commissione. La sospensione di cui al periodo precedente e' disposta su istanza di parte da depositarsi entro cinque giorni dalla proposizione del ricorso per cassazione. La controparte puo' depositare una propria nota difensiva entro cinque giorni dalla comunicazione, a cura della cancelleria, dell'istanza di sospensione. Il giudice decide entro i successivi cinque giorni con decreto non impugnabile.
+((Entro otto mesi dalla presentazione del ricorso, il tribunale decide, sulla base degli elementi esistenti al momento della decisione, con decreto che rigetta il ricorso ovvero riconosce al ricorrente lo status di rifugiato o di persona cui e' accordata la protezione sussidiaria. Nei casi previsti dal comma 2-bis la decisione e' adottata entro quattro mesi dalla presentazione del ricorso. Il decreto non e' reclamabile. Il provvedimento adottato ai sensi del comma 4-bis perde efficacia se con decreto, anche non definitivo, il ricorso e' rigettato.)) Il termine per proporre ricorso per cassazione e' di giorni trenta e decorre dalla comunicazione del decreto a cura della cancelleria, da effettuarsi anche nei confronti della parte non costituita. La procura alle liti per la proposizione del ricorso per cassazione deve essere conferita, a pena di inammissibilita' del ricorso, in data successiva alla comunicazione del decreto impugnato; a tal fine il difensore certifica la data di rilascio in suo favore della procura medesima.
+In caso di rigetto, la Corte di cassazione decide sull'impugnazione entro sei mesi dal deposito del ricorso. Quando sussistono fondati motivi, il giudice che ha pronunciato il decreto impugnato puo' disporre la sospensione degli effetti del predetto decreto, con conseguente ripristino, in caso di sospensione di decreto di rigetto, della sospensione dell'efficacia esecutiva della decisione della Commissione. La sospensione di cui al periodo precedente e' disposta su istanza di parte da depositarsi entro cinque giorni dalla proposizione del ricorso per cassazione. La controparte puo' depositare una propria nota difensiva entro cinque giorni dalla comunicazione, a cura della cancelleria, dell'istanza di sospensione.
+Il giudice decide entro i successivi cinque giorni con decreto non impugnabile.
 
 14.
 
-La sospensione dei termini processuali nel periodo feriale non opera nei procedimenti di cui al presente articolo.
+La sospensione dei termini processuali nel periodo feriale non opera nei procedimenti di cui al presente articolo ((e all'articolo 35-ter)).
 
 15.
 
@@ -1178,11 +1112,11 @@ Le specifiche tecniche di cui al comma 8 sono stabilite d'intesa tra i Ministeri
 
 17.
 
-Quando il ricorrente e' ammesso al patrocinio a spese dello Stato e l'impugnazione ha ad oggetto una decisione adottata dalla Commissione territoriale ai sensi degli articoli 29, 29-bis e 32, comma 1, lettera b-bis), il giudice, quando rigetta integralmente il ricorso, procede in conformita' all'articolo 74 del testo unico di cui al [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md), e provvede alla revoca ai sensi dell'articolo 136, comma 2, del medesimo testo unico. Se non ritiene le pretese del ricorrente manifestamente infondate, ne indica le ragioni nel decreto di cui al comma 13, primo periodo, del presente articolo.
+Quando il ricorrente e' ammesso al patrocinio a spese dello Stato e l'impugnazione ha ad oggetto una decisione adottata ((ai sensi dell'articolo 67, paragrafo 7, lettera a), del regolamento (UE) 2024/1348)), il giudice, quando rigetta integralmente il ricorso, procede in conformita' all'articolo 74 del testo unico di cui al [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md), e provvede alla revoca ai sensi dell'articolo 136, comma 2, del medesimo testo unico. Se non ritiene le pretese del ricorrente manifestamente infondate, ne indica le ragioni nel decreto di cui al comma 13, primo ((e secondo)) periodo, del presente articolo.
 
 17-bis.
 
-Quando il ricorrente e' ammesso al patrocinio a spese dello Stato e il giudice rigetta l'istanza di sospensione dell'efficacia esecutiva della decisione adottata dalla Commissione territoriale ai sensi dell'articolo 28-bis, comma 2, lettera b-bis), dichiara contestualmente cessata l'ammissione al patrocinio a spese dello Stato. Nello stesso modo procede quando e' stata rigettata l'istanza di sospensione dell'efficacia esecutiva della decisione adottata dalla Commissione territoriale e perviene, prima dell'adozione del decreto decisorio di cui al comma 13, primo periodo, del presente articolo, la comunicazione dell'avvenuta espulsione, di cui all'articolo 35, comma 2-bis.
+((COMMA ABROGATO DAL D.L. 12 GIUGNO 2026, N. 100)).
 
 18.
 
@@ -1213,37 +1147,41 @@ Il [D.L. 11 ottobre 2024, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 ((ARTICOLO NON PIU' PREVISTO DAL D.L. 11 OTTOBRE 2024, N. 145, CONVERTITO CON MODIFICAZIONI DALLA L. 9 DICEMBRE 2024, N. 187))
 
-### Art. 35-ter. — (Sospensione della decisione in materia di riconoscimento della protezione internazionale nella procedura in frontiera)
+### Art. 35-ter.
+
+(( (Delle controversie in materia di riconoscimento della protezione internazionale nella procedura di frontiera).))
 
 1.
 
-((Nei casi di cui all'articolo 28-bis, comma 2-bis,)) del presente decreto, anche se il ricorrente si trova in stato di trattenimento ovvero e' sottoposto a misure alternative al trattenimento ai sensi dell'[articolo 6-bis del decreto legislativo 18 agosto 2015, n. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md), contro la decisione della Commissione territoriale e' ammesso ricorso nel termine indicato dall'articolo 35-bis, comma 2-ter, del presente decreto. La proposizione del ricorso o dell'istanza di sospensione non sospende l'efficacia esecutiva del provvedimento impugnato. L'istanza di sospensione dell'efficacia esecutiva del provvedimento impugnato e' proposta, a pena di inammissibilita', con il ricorso introduttivo. (20)
+((Contro la decisione della Commissione territoriale adottata nel caso previsto dall'articolo 68, paragrafo 3, lettera a), ii), del regolamento (UE) 2024/1348, e' ammesso ricorso entro cinque giorni decorrenti dalla notificazione. La proposizione del ricorso non sospende l'efficacia esecutiva della decisione impugnata, tranne nel caso in cui il ricorrente sia un minore straniero non accompagnato.))
 
 2.
 
-Il ricorso e' immediatamente notificato a cura della cancelleria al Ministero dell'interno presso la Commissione territoriale o la sezione che ha adottato l'atto impugnato e al pubblico ministero, che nei successivi due giorni possono depositare note difensive. Entro lo stesso termine, la Commissione che ha adottato l'atto impugnato e' tenuta a rendere disponibili il verbale di audizione o, ove possibile, il verbale di trascrizione della videoregistrazione, nonche' copia della domanda di protezione internazionale e di tutta la documentazione acquisita nel corso della procedura di esame. Alla scadenza del predetto termine il giudice in composizione monocratica provvede allo stato degli atti entro cinque giorni con decreto motivato. (20)
-
-2-bis.
-
-Avverso il decreto adottato ai sensi del comma 2 e' ammesso reclamo alla corte d'appello; si applicano le disposizioni dell'articolo 35-bis, comma 4-bis. (20)
+((Il ricorrente puo' chiedere di essere autorizzato a rimanere con istanza depositata, a pena di inammissibilita', unitamente al ricorso. L'istanza contiene gli elementi di fatto e di diritto sui quali si fonda. Si applica l'articolo 35-bis, comma 5, e il richiedente non puo' essere allontanato.))
 
 3.
 
-Dal momento della proposizione dell'istanza e fino all'adozione del provvedimento previsto dal comma 2, ultimo periodo, il ricorrente non puo' essere espulso o allontanato dal luogo nel quale e' trattenuto.
+((Il ricorso e' immediatamente notificato, a cura della cancelleria, al Ministero dell'interno presso la Commissione territoriale che ha adottato l'atto impugnato e al pubblico ministero i quali, nei successivi cinque giorni, possono depositare note difensive. La Commissione territoriale, nello stesso termine, rende disponibili il verbale di audizione nonche' la copia della domanda di protezione internazionale e di tutta la documentazione acquisita nel corso della procedura di esame, ivi comprese eventuali traduzioni.))
 
 4.
 
-Quando l'istanza di sospensione e' accolta il ricorrente e' ammesso nel territorio nazionale e gli e' rilasciato un permesso di soggiorno per richiesta di asilo. La sospensione degli effetti del provvedimento impugnato, disposta ai sensi del comma 3, perde efficacia se il ricorso e' rigettato, con decreto anche non definitivo.
+((Alla scadenza del termine previsto dal comma 3, il giudice, esaminati gli elementi di fatto e di diritto, decide entro i successivi dieci giorni, con decreto motivato, se il ricorrente debba essere autorizzato a rimanere nelle more dell'esito del ricorso. Se ritiene che il ricorso possa essere deciso nel merito adotta, nel predetto termine, il decreto previsto dal comma 6, omessa ogni formalita' non essenziale al contraddittorio.))
 
 5.
 
-Alla scadenza del termine di cui al comma 2, ultimo periodo, il giudice, in composizione collegiale, procede ai sensi dell'articolo 35-bis, commi 7 e seguenti, in quanto compatibili.
+((Quando l'istanza di cui al comma 2 e' accolta il ricorrente e' autorizzato a rimanere nei luoghi di cui all'articolo 54, paragrafo 3, del regolamento (UE) 2024/1348 fino all'adozione della decisione di cui al comma 6. Alla scadenza del termine di dodici settimane decorrenti dalla data di registrazione della domanda effettuata ai sensi dell'articolo 27 del regolamento (UE) 2024/1348, salvo che entro tale termine sia stata adottata la decisione prevista dal comma 6, il richiedente e' autorizzato a entrare nel territorio nazionale e gli e' rilasciato il documento previsto dall'articolo 4, comma 4, del decreto legislativo n. 142 del 2015.))
 
----------------
+6.
 
-AGGIORNAMENTO (20)
+((Il giudice, sentite le parti, omessa ogni formalita' non essenziale al contraddittorio, adotta il decreto previsto dall'articolo 35-bis, comma 13, entro dodici settimane decorrenti dalla data di registrazione della domanda. Il decreto non e' reclamabile. L'autorizzazione a rimanere ai sensi comma 4 perde efficacia se con decreto, anche non definitivo, il ricorso e' rigettato.))
 
-Il [D.L. 11 ottobre 2024, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-10-11;145), convertito con modificazioni dalla [L. 9 dicembre 2024, n. 187](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20ottobre%202024%20n.%20145%20recante%20disposizioni%20urgenti%20in%20materia%20di%20ingresso%20in%20Italia%20di%20lavoratori%20stranieri%20di%20tutela%20e%20assistenz_1a3952b0cd7f.md), ha disposto (con l'art. 19, comma 1) che "Le disposizioni del capo IV si applicano decorsi trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto".
+7.
+
+((Contro il provvedimento di cui al comma 6 e' ammesso ricorso per cassazione ai sensi dell'articolo 35-bis, comma 13.))
+
+8.
+
+((Il ricorrente non e' autorizzato e non ha diritto di rimanere quando e' rigettata l'istanza presentata ai sensi del comma 3 o quando e' rigettato il ricorso con il decreto previsto dal comma 6.))
 
 ### Art. 36.
 
@@ -1333,7 +1271,7 @@ Il Ministero dell'economia e delle finanze provvede al monitoraggio degli oneri 
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 18 agosto 2015, n. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md) ha disposto (con l'art. 28, comma 3) che "Il riferimento agli [articoli 20, commi 2](Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), [3](Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md) e [4](Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), nonche' agli [articoli 35](Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md) e [36, del decreto legislativo 28 gennaio 2008, n. 25](Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), contenuto nell'articolo 39, comma 5, del medesimo decreto legislativo, deve intendersi sostituito dal riferimento, rispettivamente, agli articoli 9 e 14, comma 4, del presente decreto".
+Il [D.Lgs. 18 agosto 2015, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md) ha disposto (con l'art. 28, comma 3) che "Il riferimento agli [articoli 20, commi 2](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), [3](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md) e [4](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), nonche' agli [articoli 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md) e [36, del decreto legislativo 28 gennaio 2008, n. 25](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), contenuto nell'articolo 39, comma 5, del medesimo decreto legislativo, deve intendersi sostituito dal riferimento, rispettivamente, agli articoli 9 e 14, comma 4, del presente decreto".
 
 ### Art. 40. — Abrogazioni
 

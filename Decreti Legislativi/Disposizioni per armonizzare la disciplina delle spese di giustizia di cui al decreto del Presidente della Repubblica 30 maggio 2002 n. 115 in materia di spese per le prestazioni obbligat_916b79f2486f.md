@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_14), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri;
 
-Vista la [legge 23 giugno 2017, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-23;103), recante modifiche al [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e all'ordinamento penitenziario e in particolare l'articolo1, comma 91;
+Vista la [legge 23 giugno 2017, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-23;103), recante modifiche al [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e all'ordinamento penitenziario e in particolare l'articolo1, comma 91;
 
 Visto il [testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md), di cui al [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md);
 

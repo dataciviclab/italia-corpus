@@ -355,9 +355,9 @@ L'[articolo 689 del codice di procedura penale](https://www.normattiva.it/uri-re
  "Art. 689 (Certificati richiesti dall'interessato). - 1. La persona alla quale le iscrizioni del casellario si riferiscono ha diritto di ottenere i relativi certificati senza motivare la domanda.
  2. I certificati rilasciati a norma del comma 1 sono:
  a) certificato generale, nel quale sono riportate tutte le iscrizioni esistenti ad eccezione:
- 1) delle condanne delle quali e' stato ordinato che non si faccia menzione nel certificato a norma dell'[articolo 175 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), purche' il beneficio non sia stato revocato;
- 2) delle condanne per contravvenzioni punibili con la sola ammenda e delle condanne per reati estinti a norma dell'[articolo 167 comma 1 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
- 3) delle condanne per reati per i quali si e' verificata la causa speciale di estinzione prevista dall'[articolo 556 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ 1) delle condanne delle quali e' stato ordinato che non si faccia menzione nel certificato a norma dell'[articolo 175 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), purche' il beneficio non sia stato revocato;
+ 2) delle condanne per contravvenzioni punibili con la sola ammenda e delle condanne per reati estinti a norma dell'[articolo 167 comma 1 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ 3) delle condanne per reati per i quali si e' verificata la causa speciale di estinzione prevista dall'[articolo 556 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
  4) delle condanne in relazione alle quali e' stata definitivamente applicata l'amnistia e di quelle per le quali e' stata dichiarata la riabilitazione, senza che questa sia stata in seguito revocata;
  5) delle sentenze previste dall'articolo 445 e delle sentenze che hanno dichiarato estinto il reato per applicazione di sanzioni sostitutive su richiesta dell'imputato;
  6) delle condanne per fatti che la legge ha cessato di considerare come reati, quando la relativa iscrizione non e' stata eliminata;

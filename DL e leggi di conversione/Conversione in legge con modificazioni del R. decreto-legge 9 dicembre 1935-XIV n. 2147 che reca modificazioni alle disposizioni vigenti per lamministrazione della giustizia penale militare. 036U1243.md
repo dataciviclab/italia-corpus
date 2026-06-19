@@ -30,7 +30,7 @@ VITTORIO EMANUELE III
  
  «E' fatta eccezione per i giudici appartenenti all'Arma aeronautica i quali cessano dalla carica quando siano trasferiti dal territorio della zona aerea territoriale o del comando d'aeronautica insulare nella cui giurisdizione ha sede il tribunale». 
  
- All'art. 1, n. 7, aggiungere come primo comma il seguente: «L'[art. 518 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e' soppresso». 
+ All'art. 1, n. 7, aggiungere come primo comma il seguente: «L'[art. 518 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per l'esercito e' soppresso». 
  
  All'art. 10, ultimo capoverso, dopo le parole: «Nei casi preveduti», aggiungere l'inciso: «dall'art. 7, nonche' ...». 
  

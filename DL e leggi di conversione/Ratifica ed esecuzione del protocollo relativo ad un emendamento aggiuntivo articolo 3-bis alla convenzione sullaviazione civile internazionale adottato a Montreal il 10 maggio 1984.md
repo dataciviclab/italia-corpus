@@ -29,25 +29,25 @@ Piena ed intera esecuzione e' data al protocollo di cui all'articolo precedente 
 
 ## Art. 3.
 
-Il numero 1) dell'[articolo 1201 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
+Il numero 1) dell'[articolo 1201 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' abrogato.
 
 ## Art. 4.
 
-Dopo l'[articolo 1201 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' inserito il seguente:
+Dopo l'[articolo 1201 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' inserito il seguente:
  "Art. 1201-bis. (Inosservanza dell'ordine di approdo). Il comandante di un aeromobile nazionale o straniero che, sorvolando il territorio dello Stato, non ottempera' all'ordine di approdo previsto nell'articolo 803, o, avendo sorvolato una zona vietata, omette di approdare nel piu' vicino aeroporto e' punito con l'arresto fino a un anno. Si applica la pena dell'arresto da sei mesi a due anni quando si tratti di aeromobile adibito al trasporto di persone.
  Con le stesse pene e' punito, a richiesta del Ministro di grazia e giustizia, il comandante di un aeromobile nazionale il quale, sorvolando il territorio di uno Stato estero, non ottempera' all'ordine di approdo impartito dalle competenti autorita' dello Stato il cui territorio e' sorvolato.
  Ai fini di cui al comma precedente sono equiparati agli aeromobili nazionali gli aeromobili immatricolati all'estero., quando sono utilizzati da persona che abbia la residenza permanente ovvero la sede principale degli affari nel territorio dello Stato".
 
 ## Art. 5.
 
-Il comandante di un aeromobile nazionale o straniero che, sorvolando il territorio dello Stato, non ottempera' ad un ordine, diverso da quello previsto nell'[articolo 1201-bis, primo comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), impartitogli dalla competente autorita' in conformitaalle norme che regolano le intercettazioni aeree, pubblicate ai sensi dell'articolo 3-bis, lettera b), della convenzione sull'aviazione civile internazionale, e per le ragioni indicate in detto articolo, e' punito (( con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni )). Si applica (( la sanzione amministrativa del pagamento di una somma da lire dieci milioni a lire sessanta milioni )) quando si tratta di aeromobile adibito al trasporto di persone.
+Il comandante di un aeromobile nazionale o straniero che, sorvolando il territorio dello Stato, non ottempera' ad un ordine, diverso da quello previsto nell'[articolo 1201-bis, primo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), impartitogli dalla competente autorita' in conformitaalle norme che regolano le intercettazioni aeree, pubblicate ai sensi dell'articolo 3-bis, lettera b), della convenzione sull'aviazione civile internazionale, e per le ragioni indicate in detto articolo, e' punito (( con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni )). Si applica (( la sanzione amministrativa del pagamento di una somma da lire dieci milioni a lire sessanta milioni )) quando si tratta di aeromobile adibito al trasporto di persone.
 (( Con le stesse sanzioni e' punito )) il comandante di un aeromobile nazionale che, sorvolando il territorio di uno Stato estero, non ottempera all'ordine dato, in conformita' a quanto previsto nel comma precedente, dalle competenti autorita' dello Stato il cui territorio e' sorvolato.
- Si applica il [terzo comma dell'articolo 1201-bis del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+ Si applica il [terzo comma dell'articolo 1201-bis del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 (( Nei casi previsti dai commi precedenti non e' ammesso il pagamento in misura ridotta ai sensi dell'articolo 16 della legge 24 novembre 1981, n. 689.))
 
 ## Art. 6.
 
-Nelle ipotesi previste dall'[articolo 1201-bis del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e dal precedente articolo 5, il Ministro dei trasporti puo' sospendere le licenze, gli attestati e le qualificazioni aeronautiche per un periodo massimo di un anno.
+Nelle ipotesi previste dall'[articolo 1201-bis del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e dal precedente articolo 5, il Ministro dei trasporti puo' sospendere le licenze, gli attestati e le qualificazioni aeronautiche per un periodo massimo di un anno.
 
 ## Art. 7.
 

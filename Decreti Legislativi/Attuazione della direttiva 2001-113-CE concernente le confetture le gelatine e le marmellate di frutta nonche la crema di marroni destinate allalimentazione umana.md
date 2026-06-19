@@ -90,7 +90,7 @@ In caso di mescolanza, i tenori minimi fissati nell'allegato I per le diverse sp
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 30 dicembre 2025, n. 207](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
+Il [D.Lgs. 30 dicembre 2025, n. 207](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
  Ha inoltre disposto (con l'art. 5, comma 2) che "I prodotti immessi sul mercato o etichettati anteriormente al 14 giugno 2026, in conformita' alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono essere commercializzati fino all'esaurimento delle scorte".
 
 ## Art. 3. — Denominazioni di vendita e altre indicazioni
@@ -132,7 +132,7 @@ La denominazione dei prodotti di cui all'allegato I, punto 1, preparati con le m
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 30 dicembre 2025, n. 207](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
+Il [D.Lgs. 30 dicembre 2025, n. 207](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
  Ha inoltre disposto (con l'art. 5, comma 2) che "I prodotti immessi sul mercato o etichettati anteriormente al 14 giugno 2026, in conformita' alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono essere commercializzati fino all'esaurimento delle scorte".
 
 ## Art. 4. — Abrogazione

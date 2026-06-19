@@ -16,7 +16,7 @@ Vista la [direttiva 2000/79/CE del Consiglio, del 27 novembre 2000](https://www.
 
 Vista la [legge 31 ottobre 2003, n. 306](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202003.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (Legge comunitaria 2003), ed in particolare l'allegato B che delega il Governo ad emanare uno o piu' decreti legislativi recanti le norme per l'attuazione della citata [direttiva 2000/79/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;79);
 
-Visto il [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), di cui al [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), come modificato dal [decreto legislativo 9 maggio 2005, n. 96](Revisione%20della%20parte%20aeronautica%20del%20Codice%20della%20navigazione%20a%20norma%20dellarticolo%202%20della%20legge%209%20novembre%202004%20n.%20265.md);
+Visto il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), di cui al [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), come modificato dal [decreto legislativo 9 maggio 2005, n. 96](Revisione%20della%20parte%20aeronautica%20del%20Codice%20della%20navigazione%20a%20norma%20dellarticolo%202%20della%20legge%209%20novembre%202004%20n.%20265.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 maggio 2005;
 
@@ -46,7 +46,7 @@ Per «Orario di lavoro» si intende qualsiasi periodo di tempo in cui il lavorat
 
 2.
 
-Per «Personale di volo dell'aviazione civile» si intende il personale di cui all'[articolo 732 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) impiegato da un'azienda con sede legale o base delle operazioni nello Stato italiano.
+Per «Personale di volo dell'aviazione civile» si intende il personale di cui all'[articolo 732 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) impiegato da un'azienda con sede legale o base delle operazioni nello Stato italiano.
 
 3.
 

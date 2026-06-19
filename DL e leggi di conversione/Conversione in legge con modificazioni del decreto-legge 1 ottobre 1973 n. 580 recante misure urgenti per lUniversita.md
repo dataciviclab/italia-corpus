@@ -120,7 +120,7 @@ con l'importo corrispondente, e' determinato con decreto del Ministro per la pub
  il quarto comma e' soppresso;
  il quinto comma e' sostituito con il seguente:
  "Nessuno puo' far parte contemporaneamente di piu' consigli di facolta' o di piu' comitati tecnici: chi vi abbia titolo, e' tenuto entro trenta giorni ad esercitare l'opzione. E' consentita la partecipazione ad un consiglio di facolta' e ad un comitato tecnico.
-Le limitazioni di cui al presente comma non si applicano nei casi previsti dall'articolo 15, commi terzo e quarto, del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592, e dall'articolo 4](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md) del [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](../DPR/Riordinamento%20degli%20studi%20delle%20Facolta%20di%20ingegneria.md).";
+Le limitazioni di cui al presente comma non si applicano nei casi previsti dall'articolo 15, commi terzo e quarto, del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592, e dall'articolo 4](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullistruzione%20superiore.%20033U1592.md) del [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20degli%20studi%20delle%20Facolta%20di%20ingegneria.md).";
  nel sesto comma, le parole: "primo e secondo comma", sono sostituite con le seguenti: "primo o terzo comma";
  dopo il sesto, sono inseriti i seguenti commi:
  "Il consiglio di amministrazione per le opere universitarie e' composto da:
@@ -129,7 +129,7 @@ Le limitazioni di cui al presente comma non si applicano nei casi previsti dall'
  c) un rappresentante dei professori incaricati stabilizzati;
  d) un rappresentante degli assistenti di ruolo che non siano titolari di un incarico stabilizzato;
  e) tre rappresentanti della regione in cui ha sede l'universita', di cui uno in rappresentanza della minoranza, che non abbiano con essa rapporti di lavoro, ne' contratti in corso, ne' liti pendenti;
- f) tre rappresentanti degli studenti che siano in corso di laurea o fuori corso da non piu' di un anno e che abbiano raggiunto la maggiore eta', eletti direttamente dagli studenti in deroga all'[articolo 3 del decreto legislativo 14 febbraio 1948, n. 168](../Decreti%20Legislativi/Tasse%20e%20contributi%20universitari.md).
+ f) tre rappresentanti degli studenti che siano in corso di laurea o fuori corso da non piu' di un anno e che abbiano raggiunto la maggiore eta', eletti direttamente dagli studenti in deroga all'[articolo 3 del decreto legislativo 14 febbraio 1948, n. 168](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tasse%20e%20contributi%20universitari.md).
  Il consiglio di amministrazione elegge nel suo seno il vicepresidente.";
  nel settimo comma, le parole: "presente legge", sono sostituite con le seguenti: "presente provvedimento";
  l'ottavo comma e' soppresso;

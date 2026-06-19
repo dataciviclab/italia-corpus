@@ -74,7 +74,7 @@ Il fabbricante che ometta o ritardi il pagamento del diritto di licenza oltre i 
 
 Agli effetti dell'applicazione dell'imposta di fabbricazione sul benzolo, saranno osservate, in quanto non contrastino con le norme del presente decreto, le disposizioni del [regio decreto-legge 28 febbraio 1939, n. 334](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20unimposta%20di%20fabbricazione%20sugli%20oli%20minerali%20e%20sui%20prodotti%20della%20loro%20lavorazione%20in%20sostituzione%20della%20preesistente%20tassa%20di%20vendita.%20039U0334.md).
  In particolare per la fabbricazione clandestina del benzolo o la sottrazione di esso, con qualsiasi mezzo, all'accertamento e al pagamento dell'imposta, nonche' per ogni altra violazione contemplata dal titolo VIII del sopraindicato [regio decreto-legge 28 febbraio 1939, n. 334](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20unimposta%20di%20fabbricazione%20sugli%20oli%20minerali%20e%20sui%20prodotti%20della%20loro%20lavorazione%20in%20sostituzione%20della%20preesistente%20tassa%20di%20vendita.%20039U0334.md), si applicano le sanzioni stabilite in detto titolo.
- Le pene surrichiamate si applicano senza pregiudizio di quelle sancite dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i casi di manomissioni o alterazioni di congegni, bolli e sigilli apposti dall'Amministrazione.
+ Le pene surrichiamate si applicano senza pregiudizio di quelle sancite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i casi di manomissioni o alterazioni di congegni, bolli e sigilli apposti dall'Amministrazione.
 
 ## Art. 11.
 

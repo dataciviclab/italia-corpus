@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il comune di Sonico, aggregato a quello di Edolo con [regio decreto 11 ottobre 1928, n. 2543](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Sonico%20e%20di%20Edolo%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Edolo.%20028U2543.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
+Il comune di Sonico, aggregato a quello di Edolo con [regio decreto 11 ottobre 1928, n. 2543](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Sonico%20e%20di%20Edolo%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Edolo.%20028U2543.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Brescia, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni interessati.
 
 ## Art. 2.

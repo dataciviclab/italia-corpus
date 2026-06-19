@@ -78,7 +78,7 @@ Quando la nave od il galleggiante sia stato ricuperato e reso sicuramente galleg
 
 ## Art. 4.
 
-I proprietari i quali, ((...)), intendano riacquistare la proprieta' dei relitti delle navi o galleggianti che, gia' requisiti per uso temporaneo, sono stati successivamente requisiti per acquisto, a termini dell'[art. 2 del R. decreto 22 dicembre 1941, n. 1601](../Regi%20decreti/Modificazioni%20alla%20legge%2013%20luglio%201939-XVII%20n.%201154%20recanti%20norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20041U1601.md); e dell'art. 1 del Regio, decreto 2 febbraio 1943, n. 127, dovranno corrispondere una somma pari al 15 per cento dell'ammontare dell'indennita' ad essi spettante a termini della [legge 13 luglio 1939, n. 1154](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20039U1154.md), e rimborsare le spese per ricupero e per riparazioni, eventualmente sostenute dall'Amministrazione che ha proceduto alla requisizione. 
+I proprietari i quali, ((...)), intendano riacquistare la proprieta' dei relitti delle navi o galleggianti che, gia' requisiti per uso temporaneo, sono stati successivamente requisiti per acquisto, a termini dell'[art. 2 del R. decreto 22 dicembre 1941, n. 1601](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alla%20legge%2013%20luglio%201939-XVII%20n.%201154%20recanti%20norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20041U1601.md); e dell'art. 1 del Regio, decreto 2 febbraio 1943, n. 127, dovranno corrispondere una somma pari al 15 per cento dell'ammontare dell'indennita' ad essi spettante a termini della [legge 13 luglio 1939, n. 1154](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20039U1154.md), e rimborsare le spese per ricupero e per riparazioni, eventualmente sostenute dall'Amministrazione che ha proceduto alla requisizione. 
  
  Nel caso di requisizione per uso temporaneo, l'indennita' di perdita o di averla a carico dell'Amministrazione, spettante ai proprietari delle navi o galleggianti, non potra' superare per qualsiasi titolo di spesa o perdite subite, l'85 per cento del valore della nave o del galleggiante alla data del sinistro, valore da determinarsi dal Ministero della marina, secondo le norme di cui alla [legge 13 luglio 1939, n. 1154](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20039U1154.md). 
  
@@ -105,7 +105,7 @@ Il Ministro per il tesoro e' autorizzato a concedere agli enti od istituti di di
 
 Salvo altre eventuali garanzie, il credito derivante dal finanziamento di cui al precedente art. 5 deve essere garantito da ipoteca a favore dell'ente o istituto finanziatore sulle navi o galleggianti al cui ricupero e rimessa in efficienza e' destinato il finanziamento stesso. 
  
- Alla pubblicita' dell'ipoteca si procede senza alcuna spesa, ai termini degli [articoli 565 e seguenti del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md). 
+ Alla pubblicita' dell'ipoteca si procede senza alcuna spesa, ai termini degli [articoli 565 e seguenti del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md). 
  
  Qualora la nave o galleggiante sia stato cancellato dalla matricola o registro d'iscrizione dovra' essere ripristinata la preesistente iscrizione. 
  

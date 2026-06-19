@@ -329,7 +329,7 @@ Nota all'art. 13:
 
 Con effetto dalla data di entrata in vigore del presente decreto legislativo sono o restano abrogati:
                             a)
-                                il [regio decreto 26 dicembre 1877, n. 4219](../Regi%20decreti/Col%20quale%20e%20istituito%20il%20Ministero%20del%20Tesoro.%20077U4219.md), ed il [regio decreto 31 dicembre 1922, n. 1700](../Regi%20decreti/Concernente%20la%20fusione%20del%20Ministero%20del%20tesoro%20con%20quello%20delle%20finanze.%20022U1700.md);
+                                il [regio decreto 26 dicembre 1877, n. 4219](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20e%20istituito%20il%20Ministero%20del%20Tesoro.%20077U4219.md), ed il [regio decreto 31 dicembre 1922, n. 1700](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20la%20fusione%20del%20Ministero%20del%20tesoro%20con%20quello%20delle%20finanze.%20022U1700.md);
                             b)
                                 il [decreto luogotenenziale 22 giugno 1944, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-06-22;154);
                             c)

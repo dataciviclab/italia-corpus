@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-I comuni di Cassina Valsassina e Moggio, aggregati a quello di Cremeno con [regio decreto 24 dicembre 1928, n. 3258](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Cassina%20Valsassina%20Cremeno%20e%20Moggio%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Cremeno.%20028U3258.md), sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
+I comuni di Cassina Valsassina e Moggio, aggregati a quello di Cremeno con [regio decreto 24 dicembre 1928, n. 3258](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Cassina%20Valsassina%20Cremeno%20e%20Moggio%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Cremeno.%20028U3258.md), sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
  Il Prefetto di Como, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni interessati.
 
 ## Art. 2.

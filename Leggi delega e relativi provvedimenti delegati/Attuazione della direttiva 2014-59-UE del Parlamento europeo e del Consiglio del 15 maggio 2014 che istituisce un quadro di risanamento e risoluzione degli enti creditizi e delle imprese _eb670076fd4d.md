@@ -3696,7 +3696,7 @@ Nel [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.
 
 2.
 
-La violazione dell'obbligo di segreto di cui all'articolo 5, commi 4 e 7, e' punita a norma dell'[articolo 622 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ma si procede d'ufficio.
+La violazione dell'obbligo di segreto di cui all'articolo 5, commi 4 e 7, e' punita a norma dell'[articolo 622 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ma si procede d'ufficio.
 
 ### Art. 102. — Contenuto dei piani di risoluzione
 

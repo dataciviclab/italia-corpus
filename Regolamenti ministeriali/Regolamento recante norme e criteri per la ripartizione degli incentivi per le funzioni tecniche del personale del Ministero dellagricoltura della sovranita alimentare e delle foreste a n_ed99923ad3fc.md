@@ -487,7 +487,7 @@ Note all'art. 14:
  3. Fermo restando quanto previsto dall'articolo 225, sono abrogati dal 1° luglio 2023: 
  a) il [regio decreto 3 maggio 1923, n. 1612](../Regi%20decreti/Regolamento%20per%20lordinamento%20interno%20del%20Consiglio%20superiore%20dei%20lavori%20pubblici.%20023U1612.md); 
  b) l'[articolo 11, comma 5, lettere d)](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md) e [f), della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md); 
- c) il [decreto del Presidente della Repubblica 27 aprile 2006, n. 204](../DPR/Regolamento%20di%20riordino%20del%20Consiglio%20superiore%20dei%20lavori%20pubblici.md); 
+ c) il [decreto del Presidente della Repubblica 27 aprile 2006, n. 204](../Regolamenti%20governativi/Regolamento%20di%20riordino%20del%20Consiglio%20superiore%20dei%20lavori%20pubblici.md); 
  d) l'[articolo 1, comma 32, della legge 6 novembre 2012, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-11-06;190#art_1-com32); 
  e) il [decreto del Ministro dello sviluppo economico 7 giugno 2017, n. 122](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20disposizioni%20in%20materia%20di%20servizi%20sostitutivi%20di%20mensa%20in%20attuazione%20dellarticolo%20144%20comma%205%20del%20decreto%20legislativo%2018%20aprile%202016%20n.%2050.%2017G00134.md); 
  f) il [decreto del Ministro dei beni e delle attivita' culturali e del turismo 22 agosto 2017, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.beni.attivita.culturali.turismo:decreto:2017-08-22;154); 

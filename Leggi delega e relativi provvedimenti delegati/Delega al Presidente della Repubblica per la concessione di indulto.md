@@ -23,7 +23,7 @@ la seguente legge:
  Il condono e' ridotto a due anni nei confronti di chi ha riportato o riporta condanna a pena detentiva, inferiore a cinque anni.
  Sono esclusi dal beneficio coloro che, alla data del 15 dicembre 1949, abbiano riportato una o piu' condanne per delitto non colposo ad una pena, detentiva superiore nel complesso ad anni tre.
  Tuttavia non si tiene conto, nel computo dei precedenti penali, delle condanne per reati estinti per precedenti amnistie o per decorso, alla data di cui sopra.
- Del termine della sospensione condizionale della pena ai sensi dell'[art. 167 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e di quelle per le quali sia intervenuta la riabilitazione.
+ Del termine della sospensione condizionale della pena ai sensi dell'[art. 167 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e di quelle per le quali sia intervenuta la riabilitazione.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

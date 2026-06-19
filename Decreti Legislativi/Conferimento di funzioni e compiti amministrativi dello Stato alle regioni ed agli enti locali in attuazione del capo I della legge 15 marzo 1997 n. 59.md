@@ -2590,7 +2590,7 @@ Sono conservate allo Stato le funzioni amministrative concernenti:
                             d)
                                 l'autorizzazione alla pubblicita' ed informazione scientifica di medicinali e presidi medicochirurgici, dei dispositivi medici in commercio e delle caratteristiche terapeutiche delle acque minerali.
                             e)
-                                l'autorizzazione alla fabbricazione per l'immissione in commercio degli additivi o dei prodotti di cui al capitolo I.1.a) dell'allegato I al [decreto legislativo 13 aprile 1999, n. 123](Attuazione%20della%20direttiva%2095-69-CE%20che%20fissa%20le%20condizioni%20e%20le%20modalita%20per%20il%20riconoscimento%20e%20la%20registrazione%20di%20taluni%20stabilimenti%20ed%20intermediari%20operanti%20nel%20settore%20dellalimenta_1c7852ad8f1d.md).
+                                l'autorizzazione alla fabbricazione per l'immissione in commercio degli additivi o dei prodotti di cui al capitolo I.1.a) dell'allegato I al [decreto legislativo 13 aprile 1999, n. 123](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2095-69-CE%20che%20fissa%20le%20condizioni%20e%20le%20modalita%20per%20il%20riconoscimento%20e%20la%20registrazione%20di%20taluni%20stabilimenti%20ed%20intermediari%20operanti%20nel%20settore%20dellalimenta_1c7852ad8f1d.md).
 
 2.
 

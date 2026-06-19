@@ -904,7 +904,7 @@ Sono abrogate le seguenti norme:
  Regolamento approvato con [regio decreto 12 febbraio 1911, n. 297](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20comunale%20e%20provinciale.%20011U0297.md);
                             b)
                                 gli articoli 96 e 147 del Testo Unico della legge comunale e 
- provinciale approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ provinciale approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
                             c)
                                 l'[articolo 1, comma 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1977-12-29;946#art_1-com4), e l'[articolo 12, comma 1, del decreto-  legge 29 dicembre 1977, n. 946](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1977-12-29;946#art_12-com1), convertito, con modificazioni, dalla [legge 27 febbraio 1978, n. 43](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20dicembre%201977%20n.%20946%20concernente%20provvedimenti%20urgenti%20per%20la%20finanza%20locale.md);
                             d)

@@ -154,7 +154,7 @@ Capo VI
 
 ### Art. 31.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) ))
+(( PROVVEDIMENTO ABROGATO DAL [D.LGS. 10 FEBBRAIO 2005, N. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) ))
 
 ### Art. 32.
 

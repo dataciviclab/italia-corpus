@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-I comuni di Veleso e di Zelbio, riuniti in unico comune denominato Valeso-Zelbio con [regio decreto 1 marzo 1928, n. 530](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Veleso%20e%20di%20Zelbio%20in%20un%20unico%20Comune%20denominato%20Zelbio-Veleso.%20028U0530.md), sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
+I comuni di Veleso e di Zelbio, riuniti in unico comune denominato Valeso-Zelbio con [regio decreto 1 marzo 1928, n. 530](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Veleso%20e%20di%20Zelbio%20in%20un%20unico%20Comune%20denominato%20Zelbio-Veleso.%20028U0530.md), sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Como, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni interessati.
 
 ## Art. 2.

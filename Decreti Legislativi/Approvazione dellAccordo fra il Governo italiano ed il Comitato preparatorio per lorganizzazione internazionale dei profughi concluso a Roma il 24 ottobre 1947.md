@@ -26,7 +26,7 @@ Piena ed intera esecuzione e' data all'Accordo fra il Governo italiano ed il Com
 
 ## Art. 2.
 
-All'attuazione di quanto previsto nella lettera a) dell'art. 3 dell'Accordo provvede l'Amministrazione per gli aiuti internazionali, la quale, a tal fine, puo' avvalersi, ove il Comitato misto previsto nell'art. 7 dell'Accordo ne riconosca la necessita', della speciale facolta' ad essa accordata dall'[art. 7 del decreto legislativo luogotenenziale 4 gennaio 1946, n. 5](../Decreti%20legislativi%20luogotenenziali/Norme%20di%20attuazione%20dellAccordo%20stipulato%20l8%20marzo%201945%20tra%20il%20Governo%20italiano%20e%20lU.N.R.R.A.%20ed%20approvato%20con%20il%20decreto%20legislativo%20Luogotenenziale%2019%20marzo%201945%20n.%2079.md).
+All'attuazione di quanto previsto nella lettera a) dell'art. 3 dell'Accordo provvede l'Amministrazione per gli aiuti internazionali, la quale, a tal fine, puo' avvalersi, ove il Comitato misto previsto nell'art. 7 dell'Accordo ne riconosca la necessita', della speciale facolta' ad essa accordata dall'[art. 7 del decreto legislativo luogotenenziale 4 gennaio 1946, n. 5](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20dellAccordo%20stipulato%20l8%20marzo%201945%20tra%20il%20Governo%20italiano%20e%20lU.N.R.R.A.%20ed%20approvato%20con%20il%20decreto%20legislativo%20Luogotenenziale%2019%20marzo%201945%20n.%2079.md).
 
 ## Art. 3.
 

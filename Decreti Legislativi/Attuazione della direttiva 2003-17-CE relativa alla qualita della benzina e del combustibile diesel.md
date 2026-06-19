@@ -46,7 +46,7 @@ Il presente decreto stabilisce, in aggiunta a quanto previsto al comma 1, i meto
 
 2.
 
-I combustibili utilizzati dalle imbarcazioni da diporto e dalle altre navi della navigazione interna, quando le stesse sono in mare, sono soggetti alle disposizioni del titolo III alla parte quinta del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e successive modificazioni, relative ai combustibili marittimi delle navi.
+I combustibili utilizzati dalle imbarcazioni da diporto e dalle altre navi della navigazione interna, quando le stesse sono in mare, sono soggetti alle disposizioni del titolo III alla parte quinta del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), e successive modificazioni, relative ai combustibili marittimi delle navi.
 
 ## Art. 2. — Definizioni
 
@@ -167,7 +167,7 @@ Il Decreto 31 dicembre 2015 (in G.U. 02/02/2016, n. 26) ha disposto (con l'art. 
 
 1.
 
-E' vietata la commercializzazione di combustibile diesel non conforme alle specifiche di cui all'Allegato II. E' fatto salvo quanto previsto dall'[articolo 8, comma 1, del decreto legislativo 30 maggio 2005, n. 128](Attuazione%20della%20direttiva%202003-30-CE%20relativa%20alla%20promozione%20delluso%20dei%20biocarburanti%20o%20di%20altri%20carburanti%20rinnovabili%20nei%20trasporti.md).
+E' vietata la commercializzazione di combustibile diesel non conforme alle specifiche di cui all'Allegato II. E' fatto salvo quanto previsto dall'[articolo 8, comma 1, del decreto legislativo 30 maggio 2005, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-30-CE%20relativa%20alla%20promozione%20delluso%20dei%20biocarburanti%20o%20di%20altri%20carburanti%20rinnovabili%20nei%20trasporti.md).
 
 2.
 
@@ -294,7 +294,7 @@ Salvo che il fatto costituisca reato, ai gestori degli impianti di distribuzione
 
 3.
 
-Salvo che il fatto costituisca reato, si applica una sanzione amministrativa da 10.000 a 30.000 euro ai soggetti tenuti ad assicurare ((o dall'articolo 4, comma 2,)) se le stesse non sono rispettate. Se gli elenchi previsti dall'articolo 3, comma 2, ((o dall'articolo 4, comma 3,)) non sono trasmessi nei termini prescritti si applica l'[articolo 650 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Salvo che il fatto costituisca reato, si applica una sanzione amministrativa da 10.000 a 30.000 euro ai soggetti tenuti ad assicurare ((o dall'articolo 4, comma 2,)) se le stesse non sono rispettate. Se gli elenchi previsti dall'articolo 3, comma 2, ((o dall'articolo 4, comma 3,)) non sono trasmessi nei termini prescritti si applica l'[articolo 650 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 4.
 
@@ -310,11 +310,11 @@ Salvo che il fatto costituisca reato, si applica una sanzione amministrativa da 
 
 7.
 
-In caso di violazione del divieto previsto dall'articolo 4, comma 5, si applica la sanzione prevista dall'[articolo 296, comma 5, del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e successive modificazioni, alla cui irrogazione provvedono le regioni o la diversa autorita' indicata dalla legge regionale ai sensi degli [articoli 17 e seguenti della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_17).
+In caso di violazione del divieto previsto dall'articolo 4, comma 5, si applica la sanzione prevista dall'[articolo 296, comma 5, del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), e successive modificazioni, alla cui irrogazione provvedono le regioni o la diversa autorita' indicata dalla legge regionale ai sensi degli [articoli 17 e seguenti della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_17).
 
 8.
 
-Nel caso in cui i gestori dei depositi fiscali non trasmettano nei termini i dati da inviare ai sensi dell'articolo 10, comma 2, il Ministro dell'ambiente e della tutela del territorio e del mare, anche ai fini di quanto previsto dall'[articolo 650 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ordina al gestore di provvedere.
+Nel caso in cui i gestori dei depositi fiscali non trasmettano nei termini i dati da inviare ai sensi dell'articolo 10, comma 2, il Ministro dell'ambiente e della tutela del territorio e del mare, anche ai fini di quanto previsto dall'[articolo 650 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ordina al gestore di provvedere.
 
 9.
 

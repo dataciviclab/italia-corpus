@@ -180,7 +180,7 @@ Nei casi in cui il diritto di accesso e' rifiutato in tutto o in parte, l'autori
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 13 agosto 2010, n. 155](Attuazione%20della%20direttiva%202008-50-CE%20relativa%20alla%20qualita%20dellaria%20ambiente%20e%20per%20unaria%20piu%20pulita%20in%20Europa.%2010G0177.md) ha disposto (con l'art. 5, comma 10) che "L'eccezione di cui all'[articolo 5, comma 2, lettera b), del decreto legislativo n. 195 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;195#art_5-com2-letb), non puo' essere comunque opposta in riferimento a dati ed informazioni che le vigenti normative di settore prescrivono di utilizzare per l'adozione di provvedimenti di autorizzazione o di pianificazione pubblici o di tariffe pubbliche"
+Il [D.Lgs. 13 agosto 2010, n. 155](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-50-CE%20relativa%20alla%20qualita%20dellaria%20ambiente%20e%20per%20unaria%20piu%20pulita%20in%20Europa.%2010G0177.md) ha disposto (con l'art. 5, comma 10) che "L'eccezione di cui all'[articolo 5, comma 2, lettera b), del decreto legislativo n. 195 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;195#art_5-com2-letb), non puo' essere comunque opposta in riferimento a dati ed informazioni che le vigenti normative di settore prescrivono di utilizzare per l'adozione di provvedimenti di autorizzazione o di pianificazione pubblici o di tariffe pubbliche"
 
 ## Art. 6. — T a r i f f e
 

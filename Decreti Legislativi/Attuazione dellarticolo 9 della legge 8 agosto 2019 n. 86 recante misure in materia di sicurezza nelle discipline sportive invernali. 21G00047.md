@@ -531,7 +531,7 @@ Durante la sosta presso rifugi o altre zone gli sciatori collocano la propria at
 
 1.
 
-Fuori dai casi previsti dal [secondo comma dell'articolo 593 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque nella pratica dello sci o di altro sport della neve, trovando una persona in difficolta' non presta l'assistenza occorrente, ovvero non comunica immediatamente al gestore, presso qualunque stazione di chiamata, l'avvenuto incidente, e' soggetto alla sanzione amministrativa del pagamento di una somma da 250 euro a 1.000 euro.
+Fuori dai casi previsti dal [secondo comma dell'articolo 593 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque nella pratica dello sci o di altro sport della neve, trovando una persona in difficolta' non presta l'assistenza occorrente, ovvero non comunica immediatamente al gestore, presso qualunque stazione di chiamata, l'avvenuto incidente, e' soggetto alla sanzione amministrativa del pagamento di una somma da 250 euro a 1.000 euro.
 
 ### Art. 24. — Transito e risalita
 

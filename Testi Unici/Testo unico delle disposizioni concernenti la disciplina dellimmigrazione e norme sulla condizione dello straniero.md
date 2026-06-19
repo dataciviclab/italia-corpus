@@ -872,7 +872,8 @@ TITOLO II
 1.
 
 La polizia di frontiera respinge gli stranieri che si presentano ai valichi di frontiera senza avere i requisiti richiesti dal codice frontiere Schengen di cui al regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio, del 9 marzo 2016, e dal presente testo unico per l'ingresso nel territorio dello Stato. 
- 1.1. L'ufficio di polizia di frontiera ovvero il Questore, laddove siano conferite alla Questura le attribuzioni di polizia di frontiera, cura le attivita' relative al trasferimento di persone rintracciate nelle zone di frontiera ((interne, ai sensi dell'articolo 23 bis)) del citato [regolamento (UE) 2016/399](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2016;399), e lo straniero e' trasferito immediatamente secondo la procedura di cui all'Allegato XII del medesimo regolamento.
+ 1.1. L'ufficio di polizia di frontiera ovvero il Questore, laddove siano conferite alla Questura le attribuzioni di polizia di frontiera, cura le attivita' relative al trasferimento di persone rintracciate nelle zone di frontiera interne, ai sensi dell'articolo 23 bis del citato [regolamento (UE) 2016/399](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2016;399), e lo straniero e' trasferito immediatamente secondo la procedura di cui all'Allegato XII del medesimo regolamento. 
+ 1.2 ((Nei casi di cui al comma 1.1, ovvero in caso di trasferimento in altro Stato membro in virtu' di accordi o intese bilaterali o nell'ambito del quadro della cooperazione bilaterale qualora non e' convenuto il ricorso alla procedura di cui all'articolo 23-bis del regolamento (UE) 2016/399, gli accertamenti di cui all'articolo 8, paragrafo 5, del regolamento (UE) 2024/1356 non hanno luogo in attuazione dell'articolo 7, paragrafo 2, del medesimo regolamento. Si applicano comunque le disposizioni di cui all'articolo 10-ter.))
 
 1-bis.
 
@@ -882,11 +883,11 @@ Contro i provvedimenti di respingimento alla frontiera di applicazione immediata
 
 Il respingimento con accompagnamento alla frontiera e' altresi' disposto dal questore nei confronti degli stranieri:
                             a)
-                                che entrando nel territorio dello Stato sottraendosi ai controlli di frontiera, sono fermati all'ingresso o subito dopo;
+                                che ((...)) sottraendosi ai controlli di frontiera, sono fermati all'ingresso o subito dopo;
                             b)
                                 che, nelle circostanze di cui al comma 1, sono stati temporaneamente ammessi nel territorio per necessita' di pubblico soccorso;
                             b-bis)
-                                che, rintracciati, anche a seguito di operazioni di ricerca o soccorso in mare, nel corso delle attivita' di sorveglianza delle frontiere esterne dell'Unione europea, svolte ai sensi del regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio, del 9 marzo 2016, sono condotti nelle zone di cui all'[articolo 28-bis, comma 4, del decreto legislativo 28 gennaio 2008, n. 25](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md).
+                                che, rintracciati, anche a seguito di operazioni di ricerca o soccorso in mare, nel corso delle attivita' di sorveglianza delle frontiere esterne dell'Unione europea, svolte ai sensi del regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio, del 9 marzo 2016, sono condotti nelle zone di cui ((all'articolo 54, paragrafo 3, del regolamento (UE) 2024/1348)).
 
 2-bis.
 
@@ -894,11 +895,11 @@ Al provvedimento di respingimento di cui al comma 2 si applicano le procedure di
 
 2-ter.
 
-Lo straniero destinatario del provvedimento di respingimento di cui al comma 2 non puo' rientrare nel territorio dello Stato senza una speciale autorizzazione del Ministro dell'interno. In caso di trasgressione lo straniero e' punito con la reclusione da uno a quattro anni ed e' espulso con accompagnamento immediato alla frontiera. Si applicano altresi' le disposizioni di cui all'articolo 13, comma 13, terzo periodo.
+Lo straniero destinatario del provvedimento di respingimento di cui al comma 2 non puo' ((entrare o rientrare)) nel territorio dello Stato senza una speciale autorizzazione del Ministro dell'interno. In caso di trasgressione lo straniero e' punito con la reclusione da uno a quattro anni ed e' espulso con accompagnamento immediato alla frontiera. Si applicano altresi' le disposizioni di cui all'articolo 13, comma 13, terzo periodo.
 
 2-quater.
 
-Allo straniero che, gia' denunciato per il reato di cui al comma 2-ter ed espulso, abbia fatto reingresso nel territorio dello Stato si applica la pena della reclusione da uno a cinque anni.
+Allo straniero che, gia' denunciato per il reato di cui al comma 2-ter ed espulso, abbia fatto reingresso nel territorio dello Stato si applica la pena della reclusione da uno a cinque anni. ((123))
 
 2-quinquies.
 
@@ -907,6 +908,10 @@ Per i reati previsti dai commi 2-ter e 2-quater e' obbligatorio l'arresto dell'a
 2-sexies.
 
 Il divieto di cui al comma 2-ter opera per un periodo non inferiore a tre anni e non superiore a cinque anni, la cui durata e' determinata tenendo conto di tutte le circostanze concernenti il singolo caso.
+
+2-septies.
+
+((Lo straniero destinatario della decisione di cui all'articolo 32, comma 4-bis, del decreto legislativo 28 gennaio 2008, n. 25, puo' chiedere al questore, ai fini dell'esecuzione del respingimento di cui al comma 2, la concessione di un termine per la partenza volontaria, anche attraverso programmi di rimpatrio volontario assistito, di cui all'articolo 14-ter, sempreche' sia in possesso di un passaporto o altro documento di viaggio valido. Il questore, valutato il singolo caso e qualora non ricorrano le circostanze impeditive previste dall'articolo 4, paragrafo 5 del regolamento (UE) 2024/1349, intima allo straniero di lasciare volontariamente il territorio nazionale, entro un termine massimo non superiore a quindici giorni. Fino alla partenza, il documento di viaggio e' posto a disposizione della questura ai sensi dell'articolo 4, paragrafo 5 del citato regolamento.))
 
 3.
 
@@ -922,11 +927,17 @@ Per lo straniero respinto e' prevista l'assistenza necessaria presso i valichi d
 
 6.
 
-I respingimenti di cui al presente articolo sono registrati dall'autorita' di pubblica sicurezza.
+I respingimenti di cui al presente articolo sono registrati ((presso il centro elaborazione dati di cui all'articolo 8 della legge 1° aprile 1981, n. 121, dall'ufficio di polizia di frontiera ovvero dalla questura che ha adottato i provvedimenti di cui ai commi 1.1 e 2.))
 
 6-bis.
 
 Il divieto di cui al comma 2-ter e' inserito, a cura dell'autorita' di pubblica sicurezza, nel sistema di informazione Schengen di cui al regolamento (CE) n. 1987/2006 del Parlamento europeo e del Consiglio, del 20 dicembre 2006, e comporta il divieto di ingresso e soggiorno nel territorio degli Stati membri dell'Unione europea, nonche' degli Stati non membri cui si applica l'acquis di Schengen.
+
+---------------
+
+AGGIORNAMENTO (123)
+
+Il [D.L. 12 giugno 2026, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-06-12;100), ha disposto (con l'art. 12, comma 2, lettera a)) che "al comma 2-quater, primo periodo, le parole: «ingresso», sono sostituite dalle parole: «ingresso o reingresso»".
 
 ### Art. 10-bis. — (Ingresso e soggiorno illegale nel territorio dello Stato).
 
@@ -954,42 +965,109 @@ Il giudice, acquisita la notizia dell'esecuzione dell'espulsione o del respingim
 
 Nel caso di presentazione di una domanda di protezione internazionale di cui al [decreto legislativo 19 novembre 2007, n. 251](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-83-CE%20recante%20norme%20minime%20sullattribuzione%20a%20cittadini%20di%20Paesi%20terzi%20o%20apolidi%20della%20qualifica%20del%20rifugiato%20o%20di%20persona%20altrimenti%20bisognosa%20di%20protezi_cf8ba63277ef.md), il procedimento e' sospeso. Acquisita la comunicazione del riconoscimento della protezione internazionale di cui al [decreto legislativo 19 novembre 2007, n. 251](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-83-CE%20recante%20norme%20minime%20sullattribuzione%20a%20cittadini%20di%20Paesi%20terzi%20o%20apolidi%20della%20qualifica%20del%20rifugiato%20o%20di%20persona%20altrimenti%20bisognosa%20di%20protezi_cf8ba63277ef.md), ovvero del rilascio del permesso di soggiorno nelle ipotesi di cui all'[articolo 32, comma 3, del decreto legislativo 28 gennaio 2008, n. 25](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), nonche' nelle ipotesi di cui agli articoli 18, 18-bis, ((18-ter,)) 20-bis ((e)) 42-bis del presente testo unico e nelle ipotesi di cui all'[articolo 10 della legge 7 aprile 2017, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-04-07;47#art_10), il giudice pronuncia sentenza di non luogo a procedere.
 
-### Art. 10-ter. — (Disposizioni per l'identificazione dei cittadini stranieri rintracciati in posizione di irregolarita' sul territorio nazionale o soccorsi nel corso di operazioni di salvataggio in mare)
+### Art. 10-ter. — ((Disposizioni per l'identificazione dei cittadini stranieri rintracciati in posizione di irregolarita' o soccorsi nel corso di operazioni di salvataggio in mare o che non soddisfano le condizioni di ingresso di cui all'articolo 6 del regolamento (UE) 2016/399))
 
 1.
 
-Lo straniero rintracciato in occasione dell'attraversamento irregolare della frontiera interna o esterna ovvero giunto nel territorio nazionale a seguito di operazioni di salvataggio in mare e' condotto per le esigenze di soccorso e di prima assistenza presso appositi punti di crisi allestiti nell'ambito delle strutture di cui al [decreto-legge 30 ottobre 1995, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-10-30;451), convertito, con modificazioni, dalla [legge 29 dicembre 1995, n. 563](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2030%20ottobre%201995%20n.%20451%20recante%20disposizioni%20urgenti%20per%20lulteriore%20impiego%20del%20personale%20delle%20Forze%20armate%20in%20attivita%20di%20controllo%20della%20frontiera_a2f762abc2d8.md), e delle strutture di cui all'[articolo 9 del decreto legislativo 18 agosto 2015, n. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md). Presso i medesimi punti di crisi sono altresi' effettuate le operazioni di rilevamento fotodattiloscopico e segnaletico, anche ai fini di cui agli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::2013-06-26;603#art_9) e 14 del regolamento UE n. 603/2013 del Parlamento europeo e del Consiglio del 26 giugno 2013 ed e' assicurata l'informazione sulla procedura di protezione internazionale, sul programma di ricollocazione in altri Stati membri dell'Unione europea e sulla possibilita' di ricorso al rimpatrio volontario assistito.
+((Lo straniero rintracciato in occasione dell'attraversamento irregolare della frontiera esterna o a seguito di operazioni di salvataggio in mare e' condotto per le esigenze di soccorso e di prima assistenza, nonche' per le valutazioni sullo stato di salute e sulle vulnerabilita' presso appositi punti di crisi allestiti, ai sensi dell'articolo 8, paragrafo 1, del regolamento (UE) 2024/1356, nell'ambito delle strutture di cui al decreto-legge 30 ottobre 1995, n. 451, convertito, con modificazioni, dalla legge 29 dicembre 1995, n. 563, e delle strutture di cui all'articolo 9 del decreto legislativo 18 agosto 2015, n. 142, ubicati nei luoghi individuati ai sensi dell'articolo 54, paragrafo 3, del regolamento (UE) 2024/1348.
+In attuazione dell'articolo 5, paragrafi 1 e 2, dello stesso regolamento, presso i medesimi punti di crisi sono altresi' effettuati gli accertamenti di cui agli articoli 14, 15 e 16 del medesimo regolamento, sulla base delle procedure operative elaborate dal Ministero dell'interno, nonche' le operazioni di rilevamento fotodattiloscopico e segnaletico di cui al successivo comma 2. Presso i medesimi punti di crisi e' assicurata l'informazione sugli obblighi di fornire i dati biometrici e il passaporto o altro documento, se disponibili, nonche' sull'obbligo di collaborazione ai fini dell'identificazione e sulle relative conseguenze previste al comma 2-ter. E' inoltre assicurata l'informazione sulla procedura di accertamento alla frontiera, sulla procedura di protezione internazionale, sul programma di ricollocazione in altri Stati membri dell'Unione europea e sulla possibilita' di ricorso al rimpatrio volontario assistito.)) 
+ 1.1. ((In attuazione dell'articolo 6 del regolamento (UE) 2024/1356, l'accesso ai luoghi individuati ai sensi dell'articolo 54, paragrafo 3, del regolamento (UE) 2024/1348 durante l'esecuzione degli accertamenti di cui al comma 1 non comporta il conferimento allo straniero di autorizzazione all'ingresso nel territorio dello Stato.))
 
 1-bis.
 
-Per l'ottimale svolgimento degli adempimenti di cui al presente articolo, gli stranieri ospitati presso i punti di crisi di cui al comma 1 possono essere trasferiti in strutture analoghe sul territorio nazionale, per l'espletamento delle attivita' di cui al medesimo comma. Al fine di assicurare la coordinata attuazione degli adempimenti di rispettiva competenza, l'individuazione delle strutture di cui al presente comma destinate alle procedure di frontiera con trattenimento e della loro capienza e' effettuata d'intesa con il Ministero della giustizia.
+Per l'ottimale svolgimento degli adempimenti di cui al presente articolo, gli stranieri ospitati presso i punti di crisi di cui al comma 1 possono essere trasferiti in strutture analoghe ((presenti nei luoghi individuati ai sensi dell'articolo 54, paragrafo 3, del regolamento (UE) 2024/1348 o)) sul territorio nazionale, per l'espletamento delle attivita' di cui al medesimo comma ((e si applicano comunque le disposizioni di cui al comma 1.1.)). Al fine di assicurare la coordinata attuazione degli adempimenti di rispettiva competenza, l'individuazione delle strutture di cui al presente comma destinate alle procedure di frontiera con trattenimento e della loro capienza e' effettuata d'intesa con il Ministero della giustizia.
 
 2.
 
-Le operazioni di rilevamento fotodattiloscopico e segnaletico sono eseguite, in adempimento degli obblighi di cui agli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::2013-06-26;603#art_9) e 14 del regolamento UE n. 603/2013 del Parlamento europeo e del Consiglio del 26 giugno 2013, anche nei confronti degli stranieri rintracciati in posizione di irregolarita' sul territorio nazionale.
+Le operazioni di rilevamento fotodattiloscopico e segnaletico sono eseguite, in adempimento degli obblighi di cui ((all'articolo 13 del regolamento (UE) 2024/1358 del Parlamento europeo e del Consiglio del 14 maggio 2024. L'interessato e' informato delle conseguenze previste dal comma 3, in caso di rifiuto reiterato di sottoporsi ai rilievi ed agli accertamenti di cui ai commi 1 e 2.)).
 
 2-bis.
 
-Nei casi di cui al comma 1, lo straniero ha l'obbligo di cooperare ai fini dell'accertamento dell'identita' e di esibire o produrre gli elementi in suo possesso relativi all'eta', all'identita' e alla cittadinanza, nonche' ai ((Paesi)) in cui ha soggiornato o e' transitato, consentendo, quando e' necessario per acquisire i predetti elementi, l'accesso ai dispositivi o supporti elettronici o digitali in suo possesso.
+Nei casi di cui al comma 1, lo straniero ha l'obbligo di cooperare ai fini dell'accertamento dell'identita' e di esibire o produrre gli elementi in suo possesso relativi all'eta', all'identita' e alla cittadinanza, nonche' ai Paesi in cui ha soggiornato o e' transitato, consentendo, quando e' necessario per acquisire i predetti elementi, l'accesso ai dispositivi o supporti elettronici o digitali in suo possesso.
 
 2-ter.
 
 Senza pregiudizio per le operazioni di perquisizione e ispezione condotte per ragioni di sicurezza, il questore, in caso di inosservanza dell'obbligo di cooperazione di cui al comma 2-bis, puo' disporre, al solo fine di acquisire gli elementi indicati nel medesimo comma 2-bis, che gli ufficiali o agenti di pubblica sicurezza procedano all'accesso immediato ai dati identificativi dei dispositivi elettronici e delle eventuali schede elettroniche (S.I.M.) o digitali (eS.I.M.) in possesso dello straniero, nonche' ai documenti, anche video o fotografici, contenuti nei medesimi dispositivi o supporti elettronici o digitali. E' in ogni caso vietato l'accesso alla corrispondenza e a qualunque altra forma di comunicazione. Prima che si proceda alle operazioni di accesso, l'interessato e' avvisato del diritto di assistere alle operazioni alla presenza di un mediatore culturale. Il verbale delle operazioni compiute, che da' atto anche delle disposizioni del questore, indica le finalita', i criteri e le modalita' dell'accesso, i dati controllati e l'esito delle operazioni, riporta le eventuali dichiarazioni rese dall'interessato e, unitamente alla eventuale documentazione fotografica allegata, e' trasmesso per la convalida, entro il termine di quarantotto ore dall'avvio delle operazioni, al giudice di pace territorialmente competente che, entro le successive quarantotto ore, decide sulla convalida con provvedimento motivato.
 Il provvedimento e' comunicato all'autorita' di pubblica sicurezza, che consegna allo straniero copia del medesimo provvedimento e del verbale delle operazioni compiute. In caso di non convalida o di convalida parziale, i dati illegittimamente controllati sono inutilizzabili e il giudice dispone la cancellazione della documentazione ad essi relativa.
 
+2-quater.
+
+((Fermo restando quanto previsto dal comma 2-bis, lo straniero ha l'obbligo di esibire e consegnare il passaporto o altro documento di viaggio equipollente, ovvero un documento di identita', se disponibili.))
+
+2-quinquies.
+
+((Gli accertamenti di cui agli articoli 14, 15 e 16 del regolamento (UE) 2024/1356, nonche' le operazioni di rilevamento fotodattiloscopico e segnaletico di cui ai commi 1 e 2, sono compiuti senza ritardo e avviati immediatamente, a decorrere dal momento in cui lo straniero e' posto a disposizione delle autorita' di pubblica sicurezza o di frontiera. Per le finalita' di cui al primo periodo sono raccolte le generalita' della persona ed elementi sintetici relativi al rintraccio. Per le medesime finalita' o per verificare che tali attivita' non siano state gia' avviate in un altro Stato membro, l'autorita' di pubblica sicurezza o l'autorita' di frontiera procede al fermo per compiere gli accertamenti necessari all'adempimento degli obblighi previsti dal regolamento (UE) 2024/1356 finalizzati all'esecuzione delle verifiche dell'identita' e al controllo di sicurezza, nonche' al rilevamento fotodattiloscopico e segnaletico e alla trasmissione al sistema Eurodac di cui al regolamento (UE) 2024/1358. L'autorita' che procede da' immediata comunicazione scritta del fermo al procuratore della Repubblica. La comunicazione contiene la sommaria indicazione delle motivazioni che rendono necessario il fermo per l'esecuzione degli adempimenti prescritti dai citati regolamenti, nonche' l'ora di inizio delle operazioni. Il procuratore della Repubblica puo' richiedere integrazioni documentali all'autorita' procedente e, se ritiene che non ricorrano le condizioni per disporre il fermo, ordina il rilascio della persona fermata. L'autorita' procedente comunica immediatamente al procuratore della Repubblica la data e l'ora di conclusione delle operazioni e del rilascio. La medesima autorita', entro quarantotto ore decorrenti dal momento di cui al primo periodo, chiede la convalida al giudice di pace ai sensi dell'articolo 10-quater, salvo che la persona fermata sia rilasciata prima del decorso del predetto termine. Le operazioni di accertamento di cui agli articoli 14, 15 e 16 del regolamento (UE) 2024/1356, nonche' quelle di rilevamento fotodattiloscopico e segnaletico di cui ai commi 1 e 2 e la conseguente trasmissione al sistema Eurodac si concludono comunque entro il termine massimo di settantadue ore decorrenti dal momento di cui al primo periodo. Ultimati gli accertamenti e comunque decorso il termine di cui al nono periodo, lo straniero e' rimesso in liberta', fermo quanto previsto dal comma 3.))
+
+2-sexies.
+
+((Le disposizioni di cui al comma 2-quinquies si applicano anche in caso di rintraccio dello straniero in posizione di irregolarita' sul territorio nazionale oppure quando lo straniero e' trasferito sul territorio nazionale a cura di un altro Stato membro.))
+
+2-septies.
+
+((Se gli accertamenti di cui ai commi 2-quinquies e 2-sexies riguardano minori, le comunicazioni previste dal comma 2-quinquies sono inviate alla procura della Repubblica presso il tribunale per i minorenni e le operazioni hanno luogo alla presenza di un familiare adulto oppure, se si tratta di minore straniero non accompagnato o se non e' reperibile un familiare adulto, alla presenza di un rappresentante o, se non designato, di una persona formata per salvaguardarne l'interesse superiore e il benessere generale. Nel caso previsto dal presente comma, il fermo non puo' eccedere le quarantotto ore, senza pregiudizio del completamento degli accertamenti di cui ai commi 2-quinquies e 2-sexies, da compiersi previa collocazione del minore in struttura idonea individuata ai sensi dell'articolo 19 del decreto legislativo 18 agosto 2015, n. 142.))
+
 3.
 
-Il rifiuto reiterato dello straniero di sottoporsi ai rilievi di cui ai commi 1 e 2 configura rischio di fuga ai fini del trattenimento nei centri di cui all'articolo 14. Il trattenimento e' disposto caso per caso, con provvedimento del questore, e conserva la sua efficacia per una durata massima di trenta giorni dalla sua adozione, salvo che non cessino prima le esigenze per le quali e' stato disposto. Si applicano le disposizioni di cui al medesimo articolo 14, commi 2, 3 e 4. Se il trattenimento e' disposto nei confronti di un richiedente protezione internazionale, come definita dall'[articolo 2, comma 1, lettera a), del decreto legislativo 19 novembre 2007, n. 251](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-83-CE%20recante%20norme%20minime%20sullattribuzione%20a%20cittadini%20di%20Paesi%20terzi%20o%20apolidi%20della%20qualifica%20del%20rifugiato%20o%20di%20persona%20altrimenti%20bisognosa%20di%20protezi_cf8ba63277ef.md), e' competente alla convalida ((la corte d'appello)). Lo straniero e' tempestivamente informato dei diritti e delle facolta' derivanti dal procedimento di convalida del decreto di trattenimento in una lingua da lui conosciuta, ovvero, ove non sia possibile, in lingua francese, inglese o spagnola. ((104))
+((Decorso il termine delle settantadue ore previsto dal comma 2-quinquies, il rifiuto reiterato di sottoporsi ai rilievi ed agli accertamenti di cui ai commi 1 e 2, configura il rischio di fuga e, in attuazione dell'articolo 13, paragrafo 3 del regolamento (UE) 2024/1358, non potendosi applicare efficacemente misure meno coercitive, lo straniero e' trattenuto in appositi locali presso i punti di crisi o le strutture analoghe di cui ai commi 1 e 1-bis ovvero nei centri di cui all'articolo 14. Il trattenimento e' disposto caso per caso, con provvedimento del questore e conserva la sua efficacia per una durata massima di ventotto giorni dalla sua adozione, salvo che non cessino prima le esigenze per le quali e' stato disposto. Si applicano le disposizioni di cui al medesimo articolo 14, commi 1, secondo periodo, 1.2, 2, 2-bis, 3, 4 e 4-bis.
+Se il trattenimento e' disposto nei confronti di un richiedente protezione internazionale, come definito dall'articolo 2, paragrafo 1, lettera a), del regolamento (UE) 2024/1358, e' competente per la convalida la sezione specializzata ai sensi dell'articolo 3, comma 1, lettera c-bis), del decreto-legge 17 febbraio 2017, n. 13, convertito, con modificazioni, dalla legge 13 aprile 2017, n. 46. Lo straniero e' tempestivamente informato dei diritti e delle facolta' derivanti dal procedimento di convalida del decreto di trattenimento in una lingua da lui conosciuta, ovvero, ove non sia possibile, in lingua francese, inglese o spagnola. Ai casi di trattenimento previsti dal presente comma si applica comunque la disposizione di cui al comma 1.1.))
 
 4.
 
-L'interessato e' informato delle conseguenze del rifiuto di sottoporsi ai rilievi di cui ai commi 1 e 2.
+((Salvo quanto previsto dall'articolo 10, comma 1.2, nei confronti dello straniero trasferito sul territorio nazionale a cura di un altro Stato membro o in posizione di irregolarita' sul territorio nazionale sono effettuati gli accertamenti di cui agli articoli 14, 15 e 16 del regolamento (UE) 2024/1356 ai sensi dell'articolo 7 del medesimo regolamento e si applicano le disposizioni di cui ai commi 1, secondo periodo, 2, 2-bis, 2-ter, 2-quater, 2-quinquies, 2-sexies, 2-septies e 3 del presente articolo.
+Allo straniero e' sempre assicurata l'informazione prevista dal comma 1, terzo e quarto periodo. In tal caso gli accertamenti di cui all'articolo 12 del regolamento (UE) 2024/1356 sono effettuati in luoghi adeguati, individuati in ciascuna provincia, secondo le linee guida elaborate dal Ministero dell'interno in collaborazione con le altre amministrazioni competenti e con le organizzazioni interessate.))
+
+4-bis.
+
+((Nei confronti dello straniero che, non soddisfacendo le condizioni di ingresso di cui all'articolo 6 del regolamento (UE) 2016/399, manifesta all'ufficio di polizia di frontiera la volonta' di chiedere la protezione internazionale sono effettuati, presso il medesimo ufficio di frontiera, in attuazione dell'articolo 5, paragrafo 2, del regolamento (UE) 2024/1356, gli accertamenti di cui agli articoli 14, 15 e 16, dello stesso regolamento, nonche' le operazioni di rilevamento fotodattiloscopico e segnaletico di cui al comma 2. Si applicano le disposizioni di cui ai commi 1, secondo periodo, 2, 2-bis, 2-ter, 2-quater, 2-quinquies, 2-sexies, 2-septies e 3 del presente articolo. Ai controlli preliminari dello stato di salute di cui all'articolo 12 del regolamento (UE) 2024/1356 provvede l'Ufficio di sanita' marittima, aerea e di frontiera del Ministero della salute, attivo presso il medesimo valico d'ingresso alla frontiera esterna.))
+
+4-ter.
+
+((Nel caso in cui, decorso il termine massimo di settantadue ore di cui al comma 2-quinquies, non sia stato possibile completare gli accertamenti di cui all'articolo 12 del regolamento (UE) 2024/1356, al fine di assicurare che lo straniero resti a disposizione delle competenti autorita', e' adottato il provvedimento di cui all'articolo 5-ter del decreto legislativo 18 agosto 2015, n. 142.))
+
+4-quater.
+
+((Quando lo straniero e' rintracciato nelle circostanze previste dall'articolo 5, paragrafi 1 e 2, o dall'articolo 7, paragrafo 1, del regolamento (UE) 2024/1356, gli accertamenti ai sensi dell'articolo 8, paragrafo 5, del medesimo regolamento non sono effettuati o sono interrotti in attuazione dell'articolo 5, paragrafo 3, secondo e terzo periodo, del regolamento medesimo. In attuazione dell'articolo 18, paragrafo 6, del regolamento (UE) 2024/1356, quando lo straniero e' sottoposto a procedimento penale o a procedimento di estradizione, gli accertamenti di cui al predetto regolamento non sono effettuati o sono interrotti, salvo che lo straniero risulti avere a carico un procedimento penale per uno o piu' reati previsti dagli articoli 10, 10-bis 13 e 14.))
 
 ---------------
 
 AGGIORNAMENTO (104)
 
 Il [D.L. 11 ottobre 2024, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-10-11;145), convertito con modificazioni dalla [L. 9 dicembre 2024, n. 187](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20ottobre%202024%20n.%20145%20recante%20disposizioni%20urgenti%20in%20materia%20di%20ingresso%20in%20Italia%20di%20lavoratori%20stranieri%20di%20tutela%20e%20assistenz_1a3952b0cd7f.md), ha disposto (con l'art. 19, comma 1) che "Le disposizioni del capo IV si applicano decorsi trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto".
+
+### Art. 10-quater. — (( (Convalida del fermo per accertamenti).))
+
+1.
+
+((La richiesta di convalida prevista dall'articolo 10-ter, comma 2-quinquies, ottavo periodo, e' immediatamente comunicata all'interessato con modalita' idonee allo scopo. L'autorita' procedente lo informa della facolta' di nominare un difensore di fiducia al quale sara' comunicato il decreto di fissazione dell'udienza di convalida. Se l'interessato non nomina un difensore di fiducia con dichiarazione contestuale resa all'autorita' procedente, quest'ultima lo avvisa che la comunicazione del decreto di fissazione dell'udienza sara' effettuata al difensore nominato di ufficio, nonche' allo stesso interessato nel luogo dove gli accertamenti sono compiuti.))
+
+2.
+
+((La richiesta di cui al comma 1 e' trasmessa al giudice del luogo indicato nel medesimo comma e contiene l'indicazione dell'eventuale nomina dell'avvocato di fiducia da parte della persona fermata.))
+
+3.
+
+((Il giudice fissa l'udienza di convalida e ne da' immediato avviso all'autorita' procedente e al difensore di fiducia o, in mancanza di quest'ultimo, al difensore individuato nell'ambito degli avvocati inseriti nella tabella di cui all'articolo 29 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, di cui al decreto legislativo 28 luglio 1989, n. 271.
+Contestualmente alla fissazione dell'udienza il giudice, ove necessario, nomina un interprete, che viene immediatamente avvisato a cura della cancelleria.))
+
+4.
+
+((Lo straniero e' ammesso al patrocinio a spese dello Stato.))
+
+5.
+
+((L'udienza si svolge in camera di consiglio con la partecipazione necessaria del difensore. L'autorita' che ha adottato il provvedimento puo' stare in giudizio personalmente anche avvalendosi di funzionari appositamente delegati. L'udienza puo' svolgersi mediante collegamento audiovisivo ai sensi dell'articolo 127-bis, comma primo, del codice di procedura civile. In questo caso il provvedimento di fissazione dell'udienza contiene le disposizioni necessarie. L'autorita' che ha adottato il provvedimento puo' collegarsi dal luogo in cui si trova. In deroga a quanto previsto dall'articolo 196-duodecies, comma quinto, delle disposizioni per l'attuazione del codice di procedura civile, di cui al Regio decreto 18 dicembre 1941, n. 1368, l'interessato, se intende partecipare all'udienza, puo' collegarsi esclusivamente dal luogo in cui si trova il difensore, il quale ne attesta l'identita'.))
+
+6.
+
+((Quando non e' disponibile un collegamento che assicura la reciproca visibilita' e udibilita' il giudice decide immediatamente sulle modalita' di svolgimento o prosecuzione dell'udienza, nel rispetto dei termini di cui al comma 7, con provvedimento comunicato senza indugio a cura della cancelleria, al difensore e all'autorita' procedente con qualsiasi mezzo idoneo allo scopo.))
+
+7.
+
+((Il giudice provvede con decreto motivato entro quarantotto ore dalla richiesta di cui al comma 1, verificata l'osservanza dei termini e la sussistenza dei presupposti per procedere agli accertamenti. Se non e' pronunciato in udienza, il provvedimento e' comunicato al difensore e all'autorita' procedente a cura della cancelleria. I termini per l'impugnazione decorrono dalla lettura del provvedimento in udienza oppure dalla sua comunicazione. Si applica l'articolo 14.1.))
+
+8.
+
+((La convalida comporta la permanenza nel luogo in cui gli accertamenti sono compiuti, per un periodo massimo di settantadue ore a decorrere dal momento in cui lo straniero e' posto a disposizione delle autorita' di pubblica sicurezza o di frontiera ai sensi dell'articolo 10-ter, comma 2-quinquies, primo periodo.))
 
 ### Art. 11. — Potenziamento e coordinamento dei controlli di frontiera 
  (Legge 6 marzo 1998, n. 40, art. 9)
@@ -1034,9 +1112,9 @@ Presso i valichi di frontiera sono previsti sevizi di accoglienza al fine di for
 
 Salvo che il fatto costituisca piu' grave reato, chiunque, in violazione delle disposizioni del presente testo unico, promuove, dirige, organizza, finanzia o effettua il trasporto di stranieri nel territorio dello Stato ovvero compie altri atti diretti a procurarne illegalmente l'ingresso nel territorio dello Stato, ovvero di altro Stato del quale la persona non e' cittadina o non ha titolo di residenza permanente, e' punito con la reclusione da due a sei anni e con la multa di 15.000 euro per ogni persona.
 
-1-bis
+1-bis.
 
-((Se i fatti di cui al comma 1 sono commessi in violazione di un divieto, di un obbligo o di una restrizione imposti da una misura restrittiva dell'Unione europea, ovvero da disposizioni di legge nazionale che attuano una misura restrittiva dell'Unione europea, consentendo o comunque agevolando l'ingresso nel territorio dello Stato di persone fisiche designate, la pena e' aumentata.))
+Se i fatti di cui al comma 1 sono commessi in violazione di un divieto, di un obbligo o di una restrizione imposti da una misura restrittiva dell'Unione europea, ovvero da disposizioni di legge nazionale che attuano una misura restrittiva dell'Unione europea, consentendo o comunque agevolando l'ingresso nel territorio dello Stato di persone fisiche designate, la pena e' aumentata.
 
 2.
 
@@ -1170,7 +1248,11 @@ Le disposizioni di cui ai commi 9-bis e 9-quater si applicano, in quanto compati
 
 9-septies.
 
-Il Dipartimento della pubblica sicurezza del Ministero dell'interno assicura, nell'ambito delle attivita' di contrasto dell'immigrazione irregolare, la gestione e il monitoraggio, con modalita' informatiche, dei procedimenti amministrativi riguardanti le posizioni di ingresso e soggiorno irregolare anche attraverso il Sistema Informativo Automatizzato. A tal fine sono predisposte le necessarie interconnessioni con il Centro elaborazione dati interforze di cui all'[articolo 8 della legge 1° aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_8), con il Sistema informativo Schengen di cui al [regolamento CE 1987/2006 del 20 dicembre 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2006-12-20;2006) nonche' con il Sistema Automatizzato di Identificazione delle Impronte ed e' assicurato il tempestivo scambio di informazioni con il Sistema gestione accoglienza del Dipartimento per le liberta' civili e l'immigrazione del medesimo Ministero dell'interno.
+Il Dipartimento della pubblica sicurezza del Ministero dell'interno assicura, nell'ambito delle attivita' di contrasto dell'immigrazione irregolare, la gestione e il monitoraggio, con modalita' informatiche, dei procedimenti amministrativi riguardanti le posizioni di ingresso e soggiorno irregolare anche attraverso il Sistema Informativo Automatizzato. A tal fine sono predisposte le necessarie interconnessioni con il Centro elaborazione dati interforze di cui all'[articolo 8 della legge 1° aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_8), con il Sistema informativo Schengen di cui al regolamento ((UE 2018/1862 del 28 novembre 2018)) nonche' con il Sistema Automatizzato di Identificazione delle Impronte ((e delle immagini facciali)) ed e' assicurato il tempestivo scambio di informazioni con ((i sistemi informativi)) del Dipartimento per le liberta' civili e l'immigrazione del medesimo Ministero dell'interno ((e del Ministero della giustizia.)).
+
+9-octies.
+
+((Il Sistema Informativo Automatizzato di cui al comma 9-septies supporta il Dipartimento della pubblica sicurezza del Ministero dell'interno nelle attivita' relative ai controlli di sicurezza di cui agli articoli 14, 15 e 16 del regolamento (UE) 2024/1356 e assicura che le informazioni contenute nel modulo di cui al paragrafo 1 dell'articolo 17 dello stesso regolamento siano gestite anche per le finalita' previste dal successivo paragrafo 3, nonche' per quelle previste dall'articolo 18, paragrafi da 1 a 4 e 6, del medesimo regolamento.))
 
 -------------
 
@@ -1251,7 +1333,7 @@ La procura al difensore puo' essere rilasciata innanzi all'autorita' consolare i
 
 3.
 
-L'espulsione e' disposta in ogni caso con decreto motivato immediatamente esecutivo, anche se sottoposto a gravame o impugnativa da parte dell'interessato. Quando lo straniero e' sottoposto a procedimento penale e non si trova in stato di custodia cautelare in carcere, il questore, prima di eseguire l'espulsione, richiede il nulla osta all'autorita' giudiziaria, che puo' negarlo solo in presenza di inderogabili esigenze processuali valutate in relazione all'accertamento della responsabilita' di eventuali concorrenti nel reato o imputati in procedimenti per reati connessi, e all'interesse della persona offesa. In tal caso l'esecuzione del provvedimento e' sospesa fino a quando l'autorita' giudiziaria comunica la cessazione delle esigenze processuali. Il questore, ottenuto il nulla osta, provvede all'espulsione con le modalita' di cui al comma 4. Il nulla osta si intende concesso qualora l'autorita' giudiziaria non provveda entro sette giorni dalla data di ricevimento della richiesta. In attesa della decisione sulla richiesta di nulla osta, il questore puo' adottare la misura del trattenimento presso un centro di permanenza temporanea, ai sensi dell'articolo 14. Salvo quanto previsto all'[articolo 235 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quando lo straniero e' sottoposto a una delle misure amministrative di sicurezza di cui al ((titolo VIII del libro primo del codice penale)), l'espulsione e' disposta ai sensi dell'articolo 200, quarto comma, dello stesso codice e del presente testo unico. Il questore, prima di eseguire l'espulsione, richiede il nulla osta al magistrato di sorveglianza che ha disposto la misura. Si applicano le disposizioni di cui al quinto e sesto periodo ((del presente comma)). (14a)
+L'espulsione e' disposta in ogni caso con decreto motivato immediatamente esecutivo, anche se sottoposto a gravame o impugnativa da parte dell'interessato. Quando lo straniero e' sottoposto a procedimento penale e non si trova in stato di custodia cautelare in carcere, il questore, prima di eseguire l'espulsione, richiede il nulla osta all'autorita' giudiziaria, che puo' negarlo solo in presenza di inderogabili esigenze processuali valutate in relazione all'accertamento della responsabilita' di eventuali concorrenti nel reato o imputati in procedimenti per reati connessi, e all'interesse della persona offesa. In tal caso l'esecuzione del provvedimento e' sospesa fino a quando l'autorita' giudiziaria comunica la cessazione delle esigenze processuali. Il questore, ottenuto il nulla osta, provvede all'espulsione con le modalita' di cui al comma 4. Il nulla osta si intende concesso qualora l'autorita' giudiziaria non provveda entro sette giorni dalla data di ricevimento della richiesta. In attesa della decisione sulla richiesta di nulla osta, il questore puo' adottare la misura del trattenimento presso un centro di permanenza temporanea, ai sensi dell'articolo 14. Salvo quanto previsto all'[articolo 235 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quando lo straniero e' sottoposto a una delle misure amministrative di sicurezza di cui al titolo VIII del libro primo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), l'espulsione e' disposta ai sensi dell'articolo 200, quarto comma, dello stesso codice e del presente testo unico. Il questore, prima di eseguire l'espulsione, richiede il nulla osta al magistrato di sorveglianza che ha disposto la misura. Si applicano le disposizioni di cui al quinto e sesto periodo del presente comma. (14a)
 
 3-bis.
 
@@ -1297,17 +1379,34 @@ L'espulsione e' eseguita dal questore con accompagnamento alla frontiera a mezzo
 
 4-bis.
 
-Si configura il rischio di fuga di cui al comma 4, lettera b), qualora ricorra almeno una delle seguenti circostanze da cui il prefetto accerti, caso per caso, il pericolo che lo straniero possa sottrarsi alla volontaria esecuzione del provvedimento di espulsione:
+Si configura il rischio di fuga di cui al comma 4, lettera b), qualora ricorra almeno una delle seguenti circostanze da cui ((...)), caso per caso, ((e' accertato)) il pericolo che lo straniero possa sottrarsi alla volontaria esecuzione del provvedimento di espulsione:
                             a)
                                 mancato possesso del passaporto o di altro documento equipollente, in corso di validita';
                             b)
-                                mancanza di idonea documentazione atta a dimostrare la disponibilita' di un alloggio ove possa essere agevolmente rintracciato;
+                                mancanza di idonea documentazione atta a dimostrare la disponibilita' di un alloggio ove possa essere agevolmente rintracciato ((ovvero di un indirizzo affidabile));
                             c)
-                                avere in precedenza dichiarato o attestato falsamente le proprie generalita';
+                                avere in precedenza dichiarato o attestato falsamente le proprie generalita' ((, anche al solo fine di evitare l'adozione o l'esecuzione di un provvedimento di espulsione o di respingimento));
                             d)
-                                non avere ottemperato ad uno dei provvedimenti emessi dalla competente autorita', in applicazione dei commi 5 e 13, nonche' dell'articolo 14;
+                                ((il non avere ottemperato ad uno dei provvedimenti emessi dalla competente autorita', in applicazione dei commi 2-ter, 5, 13 e 13-bis, nonche' degli articoli 10, 10-ter e 14 e di quelli previsti dall'articolo 32, commi 4 e 4-bis, del decreto legislativo 28 gennaio 2008, n. 25;))
                             e)
-                                avere violato anche una delle misure di cui al comma 5.2.
+                                avere violato anche una delle misure di cui al comma 5.2 ((...))
+                                        ((nonche' dell'articolo 14 e di quelle previste dall'articolo 6-quater del decreto legislativo 18 agosto 2015, n. 142;))
+                            e-bis)
+                                ((l'aver rifiutato di sottoporsi al rilevamento fotodattiloscopico e segnaletico di cui al comma 3 dell'articolo 10-ter;))
+                            e-ter)
+                                ((l'essere inottemperante all'obbligo di collaborazione ai fini dell'identificazione di cui ai commi 2-bis o 2-quater, dell'articolo 10-ter;))
+                            e-quater)
+                                ((la mancanza di collaborazione nell'ottenimento di un documento di identita' o di viaggio;))
+                            e-quinquies)
+                                ((l'avere in precedenza tentato di eludere i controlli di frontiera;))
+                            e-sexies)
+                                ((l'aver violato un divieto di ingresso o di reingresso;))
+                            e-septies)
+                                ((la volonta' di non restare a disposizione delle autorita' e di raggiungere i territori di altri Stati membri desumibile da comportamenti concretamente assunti;))
+                            e-octies)
+                                ((l'aver fornito nel corso degli accertamenti o in occasione della richiesta di protezione internazionale informazioni manifestamente tali da rallentare i controlli delle autorita' competenti;))
+                            e-novies)
+                                ((il rifiuto espresso di aderire a programmi di rimpatrio volontario assistito o di reintegrazione per i quali lo straniero ha ricevuto la pertinente informazione.))
 
 5.
 
@@ -1455,100 +1554,16 @@ Il [D.L. 13 giugno 2023, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
  Il [D.Lgs. 1 settembre 2011, n. 150](../Decreti%20Legislativi/Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md) ha disposto (con l'art. 36, comma 1) che "Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso." 
  Ha inoltre disposto (con l'art. 36, comma 2) che "Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
-### Art. 14. — Esecuzione dell'espulsione 
- (Legge 6 marzo 1998, n. 40, art. 12)
+### Art. 14. — (( (Ricorso per cassazione).))
 
-1.
-
-Quando non e' possibile eseguire con immediatezza l'espulsione mediante accompagnamento alla frontiera o il respingimento, a causa di situazioni transitorie che ostacolano la preparazione del rimpatrio o l'effettuazione dell'allontanamento, il questore dispone che lo straniero sia trattenuto per il tempo strettamente necessario presso il centro di permanenza per i rimpatri piu' vicino, tra quelli individuati o costituiti con decreto del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze. A tal fine effettua richiesta di assegnazione del posto alla Direzione centrale dell'immigrazione e della polizia delle frontiere del Dipartimento della pubblica sicurezza del Ministero dell'interno, di cui all'[articolo 35 della legge 30 luglio 2002, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-30;189#art_35), che puo' disporre anche il trasferimento dello straniero in altro centro. Tra le situazioni che legittimano il trattenimento rientrano, oltre a quelle indicate all'articolo 13, comma 4-bis, anche quelle riconducibili alla necessita' di prestare soccorso allo straniero o di effettuare accertamenti supplementari in ordine alla sua identita' o nazionalita' ovvero di acquisire i documenti per il viaggio o la disponibilita' di un mezzo di trasporto idoneo. 
- 1.1. Il trattenimento dello straniero di cui non e' possibile eseguire con immediatezza l'espulsione o il respingimento alla frontiera e' disposto con priorita' per coloro che siano considerati una minaccia per l'ordine e la sicurezza pubblica o che siano stati condannati, anche con sentenza non definitiva, per i reati di cui all'articolo 4, comma 3, terzo periodo, e all'articolo 5, comma 5-bis, nonche' per coloro che siano cittadini di Paesi terzi con i quali sono vigenti accordi di cooperazione o altre intese in materia di rimpatrio, o che provengano da essi. 
- 1.2. Lo straniero che e' trattenuto ha l'obbligo di cooperare ai fini dell'accertamento dell'identita' e di esibire o produrre gli elementi in suo possesso, relativi all'eta', all'identita' e alla cittadinanza, nonche' ai Paesi in cui ha soggiornato o e' transitato, consentendo, quando e' necessario per acquisire i predetti elementi, l'accesso ai dispositivi o supporti elettronici o digitali in suo possesso. Si applicano le disposizioni di cui all'articolo 10-ter, comma 2-ter.
-
-1-bis.
-
-Nei casi in cui lo straniero e' in possesso di passaporto o altro documento equipollente in corso di validita' e l'espulsione non e' stata disposta ai sensi dell'articolo 9, comma 10, e dell'articolo 13, commi 1 e 2, lettera c), del presente testo unico o ai sensi dell'[articolo 3, comma 1, del decreto-legge 27 luglio 2005, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-07-27;144#art_3-com1), convertito, con modificazioni, dalla [legge 31 luglio 2005, n. 155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20luglio%202005%20n.%20144%20recante%20misure%20urgenti%20per%20il%20contrasto%20del%20terrorismo%20internazionale.md), il questore, in luogo del trattenimento di cui al comma 1, puo' disporre una o piu' delle seguenti misure:
-                            a)
-                                consegna del passaporto o altro documento equipollente in corso di validita', da restituire al momento della partenza;
-                            b)
-                                obbligo di dimora in un luogo preventivamente individuato, dove possa essere agevolmente rintracciato;
-                            c)
-                                obbligo di presentazione, in giorni ed orari stabiliti, presso un ufficio della forza pubblica territorialmente competente. Le misure di cui al primo periodo sono adottate con provvedimento motivato, che ha effetto dalla notifica all'interessato, disposta ai sensi dell'articolo 3, commi 3 e 4 del regolamento, recante l'avviso che lo stesso ha facolta' di presentare personalmente o a mezzo di difensore memorie o deduzioni al giudice della convalida. Il provvedimento e' comunicato entro 48 ore dalla notifica al giudice di pace competente per territorio. Il giudice, se ne ricorrono i presupposti, dispone con decreto la convalida nelle successive 48 ore. Le misure, su istanza dell'interessato, sentito il questore, possono essere modificate o revocate dal giudice di pace.
-Il contravventore anche solo ad una delle predette misure e' punito con la multa da 3.000 a 18.000 euro. In tale ipotesi, ai fini dell'espulsione dello straniero non e' richiesto il rilascio del nulla osta di cui all'articolo 13, comma 3, da parte dell'autorita' giudiziaria competente all'accertamento del reato. Qualora non sia possibile l'accompagnamento immediato alla frontiera, con le modalita' di cui all'articolo 13, comma 3, il questore provvede ai sensi dei commi 1 o 5-bis del presente articolo.
-
-2.
-
-Lo straniero e' trattenuto nel centro, presso cui sono assicurati adeguati standard igienico-sanitari e abitativi, con modalita' tali da assicurare la necessaria informazione relativa al suo status, l'assistenza e il pieno rispetto della sua dignita', secondo quanto disposto dall'[articolo 21, comma 8, del decreto del Presidente della Repubblica 31 agosto 1999, n. 394](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20attuazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero%20a%20norma%20dellarticolo%201%20comma_d0732f58b7ad.md). Oltre a quanto previsto dall'articolo 2, comma 6, e' assicurata in ogni caso la liberta' di corrispondenza anche telefonica con l'esterno.
-
-2-bis.
-
-Lo straniero trattenuto puo' rivolgere istanze o reclami orali o scritti, anche in busta chiusa, al Garante nazionale e ai garanti regionali o locali dei diritti delle persone private della liberta' personale.
-
-3.
-
-Il questore del luogo in cui si trova il centro trasmette copia degli atti al giudice di pace territorialmente competente, per la convalida , senza ritardo e comunque entro le quarantotto ore dall'adozione del provvedimento.
-
-4.
-
-L'udienza per la convalida si svolge in camera di consiglio con la partecipazione necessaria di un difensore tempestivamente avvertito. L'interessato e' anch'esso tempestivamente informato e condotto nel luogo in cui il giudice tiene l'udienza. Lo straniero e' ammesso all'assistenza legale da parte di un difensore di fiducia munito di procura speciale. Lo straniero e' altresi' ammesso al gratuito patrocinio a spese dello Stato, e, qualora sia sprovvisto di un difensore, e' assistito da un difensore designato dal giudice nell'ambito dei soggetti iscritti nella tabella di cui all'articolo 29 delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), di cui al [decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), nonche', ove necessario, da un interprete. L'autorita' che ha adottato il provvedimento puo' stare in giudizio personalmente anche avvalendosi di funzionari appositamente delegati. Il giudice provvede alla convalida, con decreto motivato, entro le quarantotto ore successive, verificata l'osservanza dei termini, la sussistenza dei requisiti previsti dall'articolo 13 e dal presente articolo, escluso il requisito della vicinanza del centro di permanenza per i rimpatri di cui al comma 1, e sentito l'interessato, se comparso. Il provvedimento cessa di avere ogni effetto qualora non sia osservato il termine per la decisione. La convalida puo' essere disposta anche in occasione della convalida del decreto di accompagnamento alla frontiera, nonche' in sede di esame del ricorso avverso il provvedimento di espulsione. (37)
-
-4-bis.
-
-La partecipazione del destinatario del provvedimento all'udienza per la convalida avviene, ove possibile, a distanza mediante collegamento audiovisivo tra l'aula di udienza e il centro di cui al comma 1 nel quale lo straniero e' trattenuto, in conformita' alle specifiche tecniche stabilite con decreto direttoriale adottato ai sensi dell'[articolo 6, comma 5, del decreto legislativo 18 agosto 2015, n. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md), e nel rispetto dei periodi dal quinto al decimo del comma 5 del predetto articolo 6.
-
-5.
-
-La convalida comporta la permanenza nel centro per un periodo di complessivi tre mesi. E' fatta salva la facolta' di disporre, in ogni momento, il trasferimento dello straniero in altro centro, ai sensi del comma 1, secondo periodo. Il citato trasferimento non fa venire meno il titolo del trattenimento adottato e non e' richiesta una nuova convalida. Qualora l'accertamento dell'identita' e della nazionalita' ovvero l'acquisizione di documenti per il viaggio presenti gravi difficolta', il giudice, su richiesta del questore, puo' prorogare il termine di ulteriori tre mesi. Anche prima di tale termine, il questore esegue l'espulsione o il respingimento, dandone comunicazione senza ritardo al giudice. Il termine complessivo di sei mesi puo' essere prorogato dal giudice, su richiesta del questore, per ulteriori periodi di tre mesi e per una durata complessiva non superiore ad altri dodici mesi, nei casi in cui, nonostante sia stato compiuto ogni ragionevole sforzo, l'operazione di allontanamento sia durata piu' a lungo a causa della mancata cooperazione da parte dello straniero o dei ritardi nell'ottenimento della necessaria documentazione dai Paesi terzi. Lo straniero che sia gia' stato trattenuto presso le strutture carcerarie per un periodo pari a quello di sei mesi puo' essere trattenuto presso il centro alle condizioni e per la durata indicati nel periodo precedente. Nei confronti dello straniero a qualsiasi titolo detenuto, la direzione della struttura penitenziaria richiede al questore del luogo le informazioni sull'identita' e sulla nazionalita' dello stesso. Nei medesimi casi il questore avvia la procedura di identificazione interessando le competenti autorita' diplomatiche. Ai soli fini dell'identificazione, l'autorita' giudiziaria, su richiesta del questore, dispone la traduzione del detenuto presso il piu' vicino posto di polizia per il tempo strettamente necessario al compimento di tali operazioni. A tal fine il Ministro dell'interno e il Ministro della giustizia adottano i necessari strumenti di coordinamento.
-
-5-bis.
-
-Allo scopo di porre fine al soggiorno illegale dello straniero e di adottare le misure necessarie per eseguire immediatamente il provvedimento di espulsione o di respingimento, il questore ordina allo straniero di lasciare il territorio dello Stato entro il termine di sette giorni, qualora non sia stato possibile trattenerlo in un centro di permanenza per i rimpatri, ovvero la permanenza presso tale struttura non ne abbia consentito l'allontanamento dal territorio nazionale, ovvero dalle circostanze concrete non emerga piu' alcuna prospettiva ragionevole che l'allontanamento possa essere eseguito e che lo straniero possa essere riaccolto dallo Stato di origine o di provenienza. L'ordine e' dato con provvedimento scritto, recante l'indicazione, in caso di violazione, delle conseguenze sanzionatorie. L'ordine del questore puo' essere accompagnato dalla consegna all'interessato, anche su sua richiesta, della documentazione necessaria per raggiungere gli uffici della rappresentanza diplomatica del suo Paese in Italia, anche se onoraria, nonche' per rientrare nello Stato di appartenenza ovvero, quando cio' non sia possibile, nello Stato di provenienza, compreso il titolo di viaggio.
-
-5-ter.
-
-La violazione dell'ordine di cui al comma 5-bis e' punita, salvo che sussista il giustificato motivo, con la multa da 10.000 a 20.000 euro, in caso di respingimento o espulsione disposta ai sensi dell'articolo 13, comma 4, o se lo straniero, ammesso ai programmi di rimpatrio volontario ed assistito, di cui all'articolo 14-ter, vi si sia sottratto. Si applica la multa da 6.000 a 15.000 euro se l'espulsione e' stata disposta in base all'articolo 13, comma 5.
-Valutato il singolo caso e tenuto conto dell'articolo 13, commi 4 e 5, salvo che lo straniero si trovi in stato di detenzione in carcere, si procede all'adozione di un nuovo provvedimento di espulsione per violazione all'ordine di allontanamento adottato dal questore ai sensi del comma 5-bis del presente articolo. Qualora non sia possibile procedere all'accompagnamento alla frontiera, si applicano le disposizioni di cui ai commi 1 e 5-bis del presente articolo, nonche', ricorrendone i presupposti, quelle di cui all'articolo 13, comma 3.
-
-5-quater.
-
-La violazione dell'ordine disposto ai sensi del comma 5-ter, terzo periodo, e' punita, salvo giustificato motivo, con la multa da 15.000 a 30.000 euro. Salvo il caso in cui sopraggiungono situazioni personali diverse, non si procede all'adozione di un nuovo provvedimento di espulsione per violazione all'ordine di allontanamento adottato dal questore ai sensi del primo periodo e si applicano le disposizioni di cui al comma 5-ter, quarto periodo ((...)) 
- 5-quater.1. Nella valutazione della condotta tenuta dallo straniero destinatario dell'ordine del questore, di cui ai commi 5-ter e 5-quater, il giudice accerta anche l'eventuale consegna all'interessato della documentazione di cui al comma 5-bis, la cooperazione resa dallo stesso ai fini dell'esecuzione del provvedimento di allontanamento, in particolare attraverso l'esibizione d'idonea documentazione.
-
-5-quinquies.
-
-Al procedimento penale per i reati di cui agli articoli 5-ter e 5-quater si applicano le disposizioni di cui agli [articoli 20-bis](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md), [20-ter](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md) e [32-bis, del decreto legislativo 28 agosto 2000, n. 274](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md).
-
-5-sexies.
-
-Ai fini dell'esecuzione dell'espulsione dello straniero denunciato ai sensi dei commi 5-ter e 5-quater, non e' richiesto il rilascio del nulla osta di cui all'articolo 13, comma 3, da parte dell'autorita' giudiziaria competente all'accertamento del medesimo reato. Il questore comunica l'avvenuta esecuzione dell'espulsione all'autorita' giudiziaria competente all'accertamento del reato.
-
-5-septies.
-
-Il giudice, acquisita la notizia dell'esecuzione dell'espulsione, pronuncia sentenza di non luogo a procedere. Se lo straniero rientra illegalmente nel territorio dello Stato prima del termine previsto dall'articolo 13, comma 14, si applica l'[articolo 345 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_345).
-
-6.
-
-Contro i decreti di convalida e di proroga di cui al comma 5 e' proponibile ricorso per cassazione, entro cinque giorni dalla comunicazione, solo per i motivi di cui alle [lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_606-com1-leta), [b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_606-com1-letb) e [c) del comma 1 dell'articolo 606 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_606-com1-letc). Il relativo ricorso non sospende l'esecuzione della misura. Si osservano, in quanto compatibili, le disposizioni dell'articolo 22, comma 5-bis, secondo e quarto periodo, della [legge 22 aprile 2005, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-22;69). (104) (112)
-
-7.
-
-Il questore, avvalendosi della forza pubblica, adotta efficaci misure di vigilanza affinche' lo straniero non si allontani indebitamente dal centro e provvede , nel caso la misura sia violata, a ripristinare il trattenimento mediante l'adozione di un nuovo provvedimento di trattenimento. Il periodo di trattenimento disposto dal nuovo provvedimento e' computato nel termine massimo per il trattenimento indicato dal comma 5. 
- 7.1. Chiunque, durante il trattenimento in uno dei centri di cui al presente articolo o in una delle strutture di cui all'articolo 10-ter, partecipa ad una rivolta mediante atti di violenza o minaccia o di resistenza all'esecuzione degli ordini impartiti per il mantenimento dell'ordine e della sicurezza da pubblici ufficiali o incaricati di pubblico servizio, commessi da tre o piu' persone riunite, e' punito con la reclusione da uno a quattro anni. Ai fini del periodo precedente, costituiscono atti di resistenza anche le condotte di resistenza passiva che, avuto riguardo al numero delle persone coinvolte e al contesto in cui operano i pubblici ufficiali o gli incaricati di un pubblico servizio, impediscono il compimento degli atti dell'ufficio o del servizio necessari alla gestione dell'ordine e della sicurezza. Coloro che promuovono, organizzano o dirigono la rivolta sono puniti con la reclusione da un anno e sei mesi a cinque anni. Se il fatto e' commesso con l'uso di armi, la pena e' della reclusione da uno a cinque anni nei casi previsti dal primo periodo e da due a sette anni nei casi previsti dal terzo periodo. Se dal fatto deriva, quale conseguenza non voluta, una lesione personale grave o gravissima, la pena e' della reclusione da due a sei anni nei casi previsti dal primo periodo e da quattro a dodici anni nei casi previsti dal terzo periodo; se, quale conseguenza non voluta, ne deriva la morte, la pena e' della reclusione da sette a quindici anni nei casi previsti dal primo periodo e da dieci a diciotto anni nei casi previsti dal terzo periodo. Nel caso di lesioni gravi o gravissime o morte di piu' persone, si applica la pena che dovrebbe infliggersi per la violazione piu' grave, aumentata fino al triplo, ma la pena della reclusione non puo' superare gli anni venti.
-
-7-bis.
-
-Nei casi di delitti commessi con violenza alle persone o alle cose in occasione o a causa del trattenimento in uno dei centri di cui al presente articolo o durante la permanenza in una delle strutture di cui all'articolo 10-ter o in uno dei centri di cui agli [articoli 9](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md) e [11 del decreto legislativo 18 agosto 2015, n. 142](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md), ovvero in una delle strutture di cui all'[articolo 1-sexies del decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_1sexies), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201989%20n.%20416%20recante%20norme%20urgenti%20in%20materia%20di%20asilo%20politico%20di%20ingresso%20e%20soggiorno%20dei%20cittadini%20extracomunitari%20e_466cfea5d540.md), per i quali e' obbligatorio o facoltativo l'arresto ai sensi degli [articoli 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_380) e [381 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_381), quando non e' possibile procedere immediatamente all'arresto per ragioni di sicurezza o incolumita' pubblica, si considera in stato di flagranza ai sensi dell'[articolo 382 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_382) colui il quale, anche sulla base di documentazione video o fotografica, risulta essere autore del fatto e l'arresto e' consentito entro quarantotto ore dal fatto.
-
-7-ter.
-
-Per i delitti indicati nel comma 7-bis si procede sempre con giudizio direttissimo, salvo che siano necessarie speciali indagini.
-
-8.
-
-Ai fini dell'accompagnamento anche collettivo alla frontiera, possono essere stipulate convenzioni con soggetti che esercitano trasporti di linea o con organismi anche internazionali che svolgono attivita' di assistenza per stranieri.
-
-9.
-
-Oltre a quanto previsto dal regolamento di attuazione e dalle norme in materia di giurisdizione, il Ministro dell'interno adotta i provvedimenti occorrenti per l'esecuzione di quanto disposto dal presente articolo, anche mediante convenzioni con altre amministrazioni dello Stato, con gli enti locali, con i proprietari o concessionari di aree, strutture e altre installazioni, nonche' per la fornitura di beni e servizi. Eventuali deroghe alle disposizioni vigenti in materia finanziaria e di contabilita' sono adottate di concerto con il Ministro del tesoro del bilancio e della programmazione economica. Il Ministro dell'interno promuove inoltre le intese occorrenti per gli interventi di competenza di altri Ministri.
+1. ((Contro il decreto che decide sulla convalida, sulla proroga o sul riesame del trattenimento o delle misure alternative, e' proponibile ricorso per cassazione ai sensi dell'articolo 360 del codice di procedura civile, entro dieci giorni dalla pronuncia in udienza o dalla comunicazione.)) 
+ 2. ((Il ricorso e' depositato, a pena di improcedibilita', entro cinque giorni dalla notificazione. Si applica il secondo comma dell'articolo 369 del codice di procedura civile.)) 
+ 3. ((La parte contro la quale il ricorso e' diretto puo' depositare sintetica memoria difensiva nel termine di cinque giorni dal deposito del ricorso. La memoria difensiva puo' contenere anche motivi di ricorso incidentale.)) 
+ 4. ((La Corte decide in camera di consiglio entro trenta giorni dal deposito del ricorso. Della fissazione del ricorso in camera di consiglio e' data comunicazione agli avvocati delle parti e al pubblico ministero almeno quindici giorni prima dell'adunanza.)) 
+ 5. ((Il pubblico ministero puo' depositare conclusioni scritte non oltre dieci giorni prima dell'adunanza in camera di consiglio. Nello stesso termine le parti possono presentare i documenti previsti dall'articolo 372 del codice di procedura civile.)) 
+ 6. ((Le parti possono depositare sintetiche memorie illustrative non oltre cinque giorni prima dell'adunanza.)) 
+ 7. ((L'adunanza puo' svolgersi anche mediante collegamenti audiovisivi a distanza. L'ordinanza, sinteticamente motivata, e' depositata al termine della camera di consiglio, ma il collegio puo' depositare il solo dispositivo riservandosi il deposito della motivazione nei successivi quindici giorni.)) 
+ 8. ((Per quanto non previsto dal presente articolo si applicano, in quanto compatibili, le disposizioni del codice procedura civile.))
 
 -------------
 

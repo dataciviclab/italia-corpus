@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [legge 28 aprile 2014, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-28;67), recante «Deleghe al Governo in materia di pene detentive non carcerarie e di riforma del sistema sanzionatorio. Disposizioni in materia di sospensione del procedimento con messa alla prova e nei confronti degli irreperibili», e in particolare l'articolo 2, comma 3;
 
-Visto il [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), recante «Approvazione del testo definitivo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)»;
+Visto il [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), recante «Approvazione del testo definitivo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)»;
 
 Vista la [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), recante «Modifiche al sistema penale»;
 
@@ -38,7 +38,7 @@ Capo I
 
 1.
 
-Sono abrogati i seguenti articoli del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md):
+Sono abrogati i seguenti articoli del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md):
                             a)
                                 485;
                             b)
@@ -74,7 +74,7 @@ Avvertenza:
  In vigore dal 17 maggio 2014 
  1. - 2. (omissis) 
  3. La riforma della disciplina sanzionatoria nelle fattispecie di cui al presente comma e' ispirata ai seguenti principi e criteri direttivi: 
- a) abrogare i reati previsti dalle seguenti disposizioni del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
+ a) abrogare i reati previsti dalle seguenti disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
  1) delitti di cui al libro secondo, titolo VII, capo III, limitatamente alle condotte relative a scritture private, ad esclusione delle fattispecie previste all'articolo 491; 
  2) articolo 594; 
  3) articolo 627; 
@@ -89,7 +89,7 @@ Avvertenza:
  3) l'autorita' competente ad irrogarla; 
  e) prevedere che le sanzioni pecuniarie civili relative alle condotte di cui alla lettera a) siano proporzionate alla gravita' della violazione, alla reiterazione dell'illecito, all'arricchimento del soggetto responsabile, all'opera svolta dall'agente per l'eliminazione o attenuazione delle sue conseguenze, nonche' alla personalita' dello stesso e alle sue condizioni economiche. 
  4. - 5. (omissis)." 
- Il [regio decreto 19/10/1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), recante (Approvazione del testo definitivo del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)) e' 
+ Il [regio decreto 19/10/1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), recante (Approvazione del testo definitivo del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)) e' 
  pubblicato nella Gazz. Uff. 26 ottobre 1930, n. 251, Suppl. Straord. 
  La [legge 24/11/1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), recante (Modifiche al sistema penale) e' pubblicata nella Gazz. Uff. 30 novembre 1981, n. 329, S.O. 
  - Si riporta il testo dell'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_14) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri): 
@@ -99,8 +99,8 @@ Avvertenza:
  3. Se la delega legislativa si riferisce ad una pluralita' di oggetti distinti suscettibili di separata disciplina, il Governo puo' esercitarla mediante piu' atti successivi per uno o piu' degli oggetti predetti. In relazione al termine finale stabilito dalla legge di delegazione, il Governo informa periodicamente le Camere sui criteri che segue nell'organizzazione dell'esercizio della delega. 
  4. In ogni caso, qualora il termine previsto per l'esercizio della delega ecceda i due anni, il Governo e' tenuto a richiedere il parere delle Camere sugli schemi dei decreti delegati. Il parere e' espresso dalle Commissioni permanenti delle due Camere competenti per materia entro sessanta giorni, indicando specificamente le eventuali disposizioni non ritenute corrispondenti alle direttive della legge di delegazione. Il Governo, nei trenta giorni successivi, esaminato il parere, ritrasmette, con le sue osservazioni e con eventuali modificazioni, i testi alle Commissioni per il parere definitivo che deve essere espresso entro trenta giorni." 
  
- Note all'[art. 1](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
- Gli [articoli 485](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [486](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [594](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [627](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [647 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), abrogati dal presente decreto legislativo, recavano: 
+ Note all'[art. 1](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
+ Gli [articoli 485](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [486](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [594](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [627](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [647 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), abrogati dal presente decreto legislativo, recavano: 
  " art. 485. Falsita' in scrittura privata" 
  " art. 486. Falsita' in foglio firmato in bianco. Atto privato." 
  " art. 594. Ingiuria." 
@@ -111,7 +111,7 @@ Avvertenza:
 
 1.
 
-Al [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono apportate le seguenti modificazioni:
+Al [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sono apportate le seguenti modificazioni:
                             a)
                                 l'articolo 488 e' sostituito dal seguente: «488. Altre falsita' in foglio firmato in bianco. Applicabilita' delle disposizioni sulle falsita' materiali. - Ai casi di falsita' su un foglio firmato in bianco diversi da quelli preveduti dall'articolo 487 si applicano le disposizioni sulle falsita' materiali in atti pubblici.»;
                             b)
@@ -159,7 +159,7 @@ Danneggiamento. - Chiunque distrugge, disperde, deteriora o rende, in tutto o in
                                 l'articolo 635-quinquies, terzo comma, e' sostituito dal seguente: «Se il fatto e' commesso con violenza alla persona o con minaccia ovvero con abuso della qualita' di operatore del sistema, la pena e' aumentata.».
 
 Note all'art. 2: 
- - Si riporta il testo degli articoli 489, 490, 596, 597, 599, 635-bis, 635-ter, 635-quater e 635-quinquies del citato [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), cosi' come modificati dal presente decreto legislativo: 
+ - Si riporta il testo degli articoli 489, 490, 596, 597, 599, 635-bis, 635-ter, 635-quater e 635-quinquies del citato [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), cosi' come modificati dal presente decreto legislativo: 
  "Art. 489. Uso di atto falso. 
  Chiunque senza essere concorso nella falsita', fa uso di un atto falso soggiace alle pene stabilite negli articoli precedenti, ridotte di un terzo. " 
  "Art. 490. Soppressione, distruzione e occultamento di atti veri. 
@@ -228,7 +228,7 @@ Soggiace alla sanzione pecuniaria civile da euro cento a euro ottomila:
                             b)
                                 il comproprietario, socio o coerede che, per procurare a se' o ad altri un profitto, s'impossessa della cosa comune, sottraendola a chi la detiene, salvo che il fatto sia commesso su cose fungibili e il valore di esse non ecceda la quota spettante al suo autore;
                             c)
-                                chi distrugge, disperde, deteriora o rende, in tutto o in parte, inservibili cose mobili o immobili altrui, al di fuori dei casi di cui agli [articoli 635](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [635-bis](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [635-ter](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [635-quater](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [635-quinquies del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+                                chi distrugge, disperde, deteriora o rende, in tutto o in parte, inservibili cose mobili o immobili altrui, al di fuori dei casi di cui agli [articoli 635](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [635-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [635-ter](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [635-quater](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [635-quinquies del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                             d)
                                 chi, avendo trovato denaro o cose da altri smarrite, se ne appropria, senza osservare le prescrizioni della legge civile sull'acquisto della proprieta' di cose trovate;
                             e)
@@ -277,7 +277,7 @@ Nei casi di cui al comma 4, lettere b) e c) del presente articolo, si considera 
 Le disposizioni di cui ai commi 2 e 3 del presente articolo si applicano anche nel caso di cui al comma 4, lettera f), del medesimo articolo.
 
 Note all'art. 4: 
- - Per il testo degli [articoli 635-bis](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [635-ter](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [635-quater](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [635-quinquies del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si vedano le note all'articolo 2.
+ - Per il testo degli [articoli 635-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [635-ter](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [635-quater](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [635-quinquies del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si vedano le note all'articolo 2.
 
 ### Art. 5. — Criteri di commisurazione delle sanzioni pecuniarie
 

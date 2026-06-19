@@ -18,7 +18,7 @@ Promulga la seguente legge:
 
 1.
 
-Il [decreto-legge 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), recante disposizioni urgenti modificative del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) per incrementare i livelli di sicurezza nella circolazione, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 3 agosto 2007, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-08-03;117), recante disposizioni urgenti modificative del [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) per incrementare i livelli di sicurezza nella circolazione, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
 2.
 

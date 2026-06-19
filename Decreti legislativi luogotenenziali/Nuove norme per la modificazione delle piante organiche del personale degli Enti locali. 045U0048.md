@@ -20,7 +20,7 @@ Visto il [R. decreto-legge 16 agosto 1926, n. 1577](../Atti%20normativi%20abroga
 
 Visto il [R. decreto-legge 25 novembre 1926, n. 2108](../Atti%20normativi%20abrogati%20%28in%20originale%29/Parziale%20deroga%20al%20R.%20decreto-legge%2016%20agosto%201926%20n.%201577%20relativo%20alla%20sospensione%20delle%20modificazioni%20alle%20piante%20organiche%20degli%20impiegati%20degli%20enti%20locali.%20026U2108.md);
 
-Visto il testo unico della legge comunale e provinciale approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visto il testo unico della legge comunale e provinciale approvato con [R. decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Vista la [legge 10 giugno 1937, n. 1402](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20delle%20vigenti%20norme%20sul%20controllo%20governativo%20delle%20amministrazioni%20dei%20Comuni%20capoluoghi%20di%20provincia.%20037U1402.md);
 

@@ -120,9 +120,9 @@ Ai congiunti di coloro che, dovendo essere riammessi in servizio d'ufficio, ai s
 
 ## Art. 16.
 
-Non e' punibile chi, al solo scopo di evitare per se' o per altri le persecuzioni razziali, dopo l'8 settembre 1943, in territorio occupato o controllato dalle forze armate germaniche, abbia commesso alcuno dei fatti contemplati negli articoli 374, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 489, 490, 494, 495, 496 e 567, capoverso, del [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Non e' punibile chi, al solo scopo di evitare per se' o per altri le persecuzioni razziali, dopo l'8 settembre 1943, in territorio occupato o controllato dalle forze armate germaniche, abbia commesso alcuno dei fatti contemplati negli articoli 374, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 489, 490, 494, 495, 496 e 567, capoverso, del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
- Non e' punibile chi, nelle circostanze previste dal precedente comma, abbia commesso alcuno dei fatti contemplati dall'[art. 334 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), al solo scopo di favorire il proprietario della cosa sottoposta a pignoramento o a sequestro per persecuzione razziale del proprietario stesso.
+ Non e' punibile chi, nelle circostanze previste dal precedente comma, abbia commesso alcuno dei fatti contemplati dall'[art. 334 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), al solo scopo di favorire il proprietario della cosa sottoposta a pignoramento o a sequestro per persecuzione razziale del proprietario stesso.
 
 ## Art. 17.
 

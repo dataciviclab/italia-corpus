@@ -22,7 +22,7 @@ Il Presidente della Repubblica e' delegato a concedere indulto nella misura non 
 
 2.
 
-Il Presidente della Repubblica e' altresi' delegato a stabilire che non si applicano le esclusioni di cui all'ultimo comma dell'[articolo 151 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Il Presidente della Repubblica e' altresi' delegato a stabilire che non si applicano le esclusioni di cui all'ultimo comma dell'[articolo 151 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 AVVERTENZA:
  Non sono riportate in calce alla presente legge le relative note, in quanto nella Gazzetta Ufficiale - serie generale - del 24 dicembre 1990 si procedera' alla pubblicazione del testo del decreto del Presidente della Repubblica di concessione dell'indulto corredato delle relative note.
@@ -39,7 +39,7 @@ Il Presidente della Repubblica e' delegato a concedere indulto, per intero, per 
 
 Il Presidente della Repubblica e' delegato a stabilire che l'indulto non si applica alla pene:
                         a)
-                            per i delitti previsti dai seguenti articoli del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md):
+                            per i delitti previsti dai seguenti articoli del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md):
  1) 285 (devastazione, saccheggio e strage);
  2) 416-bis (associazione di tipo mafioso);
  3) 422 (strage);

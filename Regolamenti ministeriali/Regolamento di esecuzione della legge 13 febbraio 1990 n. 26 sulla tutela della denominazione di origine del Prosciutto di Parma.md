@@ -823,7 +823,7 @@ Note all'[art. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:19
 
 1.
 
-L'espletamnento dei compiti di vigilanza affidati al consorzio e' svolto da ispettori cui e' riconosciuta la qualifica di agente di polizia giudiziaria, ai sensi dell'[art. 57 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_57), dopo che sia stata loro attribuita dal prefetto di Parma la qualifica di guardia particolare, ai sensi degli [articoli 133](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [138 del regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e del relativo regolamento.
+L'espletamnento dei compiti di vigilanza affidati al consorzio e' svolto da ispettori cui e' riconosciuta la qualifica di agente di polizia giudiziaria, ai sensi dell'[art. 57 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_57), dopo che sia stata loro attribuita dal prefetto di Parma la qualifica di guardia particolare, ai sensi degli [articoli 133](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [138 del regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e del relativo regolamento.
 
 2.
 
@@ -847,7 +847,7 @@ Note all'art. 38:
  a) il personale della polizia di Stato al quale l'ordinamento dell'amministrazione della pubblica sicurezza riconosce tale qualita';
  b) i carabinieri, le guardie di finanza, gli agenti di custodia, le guardie forestali e, nell'ambito territoriale dell'ente di appartenenza, le guardie delle province e dei comuni quando sono in servizio.
  3. Sono altresi' ufficiali e agenti di polizia giudiziaria, nei limiti del servizio cui sono destinate e secondo le rispettive attribuzioni, le persone alle quali le leggi e i regolamenti attribuiscono le funzioni previste dall'art. 55".
- - Gli [articoli 133](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [138 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R.D. n. 773/1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;773), cosi' recitano:
+ - Gli [articoli 133](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [138 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R.D. n. 773/1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;773), cosi' recitano:
  "Art. 133. - Gli enti pubblici, gli altri enti collettivi e i privati possono destinare guardie particolari alla vigilanza o custodia delle loro proprieta' mobiliari od immobiliari.
  Possono anche, con l'autorizzazione del prefetto, associarsi per la nomina di tali guardie da destinare alla vigilanza o custodia in comune delle proprieta' stesse".
  "Art. 138. - Le guardie particolari devono possedere i requisiti seguenti:

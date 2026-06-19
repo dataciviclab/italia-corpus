@@ -161,7 +161,7 @@ Avvertenza
  1. Per gli effetti dell'art. 5, e' dato riconoscimento:
  a) all'estratto del casellario giudiziale o, in mancanza, ad un documento equipollente rilasciato dall'autorita' giudiziaria o amministrativa competente dello Stato dell'Unione Europea o dello Stato aderente all'accordo sullo Spazio Economico Europeo;
  b) alle attestazioni, rilasciate dall'autorita' di cui alla lettera a), inerenti a quegli elementi, rilevanti per la sussistenza del requisito dell'onorabilita', che non costituiscono oggetto dell'atto di cui alla lettera a) medesima.
- 2. Se non e' previsto il rilascio degli atti di cui al comma 1, si applica il disposto del [decreto del Presidente della Repubblica 20 ottobre 1998, n. 403](../DPR/Regolamento%20di%20attuazione%20degli%20articoli%201%202%20e%203%20della%20legge%2015%20maggio%201997%20n.%20127%20in%20materia%20di%20semplificazione%20delle%20certificazioni%20amministrative.md).
+ 2. Se non e' previsto il rilascio degli atti di cui al comma 1, si applica il disposto del [decreto del Presidente della Repubblica 20 ottobre 1998, n. 403](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20degli%20articoli%201%202%20e%203%20della%20legge%2015%20maggio%201997%20n.%20127%20in%20materia%20di%20semplificazione%20delle%20certificazioni%20amministrative.md).
  3. Gli atti di cui ai commi 1 e 2 sono riconosciuti se prodotti entro sei mesi dalla data di rilascio.
  15. Riconoscimento reciproco di atti in materia di capacita' finanziaria.
  1. Per gli effetti dell'art. 6 e' dato riconoscimento:

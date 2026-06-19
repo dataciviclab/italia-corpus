@@ -30,7 +30,7 @@ Vista la [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), e successive modificazioni, recante norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi;
 
-Vista la [legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), e successive modificazioni, recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 1994;
+Vista la [legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), e successive modificazioni, recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 1994;
 
 Vista la [legge 12 dicembre 2002, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-12;273), e successive modificazioni, recante misure per favorire l'iniziativa privata e lo sviluppo della concorrenza;
 
@@ -597,7 +597,7 @@ La vigilanza si attua attraverso ispezioni, analisi, prove, misurazioni, verific
                             b)
                                 esigere dalle parti interessate l'acquisizione delle informazioni e dei documenti necessari all'accertamento;
                             c)
-                                prelevare, con le modalita' di cui all'[articolo 47 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), e successive modificazioni, campioni di prodotti da costruzione da sottoporre a prove ed esami volti ad accertarne le prestazioni e la rispondenza ai requisiti tecnici applicabili;
+                                prelevare, con le modalita' di cui all'[articolo 47 della legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), e successive modificazioni, campioni di prodotti da costruzione da sottoporre a prove ed esami volti ad accertarne le prestazioni e la rispondenza ai requisiti tecnici applicabili;
                             d)
                                 ritirare o sospendere la commercializzazione di prodotti da costruzione che siano suscettibili di mettere in pericolo la sicurezza delle persone, a seguito degli accertamenti svolti;
                             e)
@@ -623,7 +623,7 @@ Per lo svolgimento, in ambito territoriale, delle attivita' di cui al presente a
 
 Note all'art. 17: 
  Per i riferimenti normativi del regolamento (UE) n. 305/2011 si veda nelle note alle premesse. 
- Il testo dell'[articolo 47 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), citata nelle note alle premesse, cosi' recita: 
+ Il testo dell'[articolo 47 della legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), citata nelle note alle premesse, cosi' recita: 
  "Art. 47. (Procedure di certificazione e/o attestazione finalizzate alla marcatura CE). - 1. Le spese relative alle procedure di certificazione e/o attestazione per l'apposizione della marcatura CE, previste dalla normativa comunitaria, nonche' quelle conseguenti alle procedure di riesame delle istanze presentate per le stesse finalita', sono a carico del fabbricante o del suo rappresentante stabilito nell'Unione europea. 
  2. Le spese relative alle procedure finalizzate all'autorizzazione degli organismi ad effettuare le procedure di cui al comma 1 sono a carico dei richiedenti.
  Le spese relative ai successivi controlli sugli organismi autorizzati sono a carico di tutti gli organismi autorizzati per la medesima tipologia dei prodotti. I controlli possono avvenire anche mediante l'esame a campione dei prodotti certificati. 

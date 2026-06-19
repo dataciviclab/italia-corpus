@@ -491,7 +491,7 @@ Nel rispetto dei principi di trasparenza e parita' di trattamento tra operatori 
 
 2.
 
-Il personale degli organismi di controllo, nello svolgimento dell'attivita' di controllo e certificazione, e' incaricato di pubblico servizio ai sensi dell'[articolo 358 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Il personale degli organismi di controllo, nello svolgimento dell'attivita' di controllo e certificazione, e' incaricato di pubblico servizio ai sensi dell'[articolo 358 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 3.
 
@@ -502,7 +502,7 @@ Gli organismi di controllo garantiscono che il proprio personale mantenga riserv
 Gli organismi di controllo rendono disponibili le informazioni acquisite all'autorita' delegante e assicurano un sistema di comunicazione tra di loro al fine di garantire la massima trasparenza delle attivita' svolte e prevenire possibili frodi.
 
 Note all'art. 7: 
- - Si riporta il testo dell'[articolo 358 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
+ - Si riporta il testo dell'[articolo 358 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
  «Art. 358 (Nozione della persona incaricata di un pubblico servizio). - Agli effetti della legge penale, sono incaricati di un pubblico servizio coloro i quali, a qualunque titolo, prestano un pubblico servizio. 
  Per pubblico servizio deve intendersi un'attivita' disciplinata nelle stesse forme della pubblica funzione, ma caratterizzata dalla mancanza dei poteri tipici di questa ultima, e con esclusione dello svolgimento di semplici mansioni di ordine e della prestazione di opera meramente materiale.».
 

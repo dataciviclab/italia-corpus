@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 26 agosto 1927, n. 1789](../Regi%20decreti/Aggregazione%20del%20comune%20di%20San%20Giovanni%20di%20Bieda%20a%20quello%20di%20Bieda.%20027U1789.md);
+Visto il [R. decreto 26 agosto 1927, n. 1789](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20del%20comune%20di%20San%20Giovanni%20di%20Bieda%20a%20quello%20di%20Bieda.%20027U1789.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per l'interno
 
 ## Art. 1.
 
-Il comune di San Giovanni di Bieda, aggregato con [R. decreto 26 agosto 1927, n. 1789](../Regi%20decreti/Aggregazione%20del%20comune%20di%20San%20Giovanni%20di%20Bieda%20a%20quello%20di%20Bieda.%20027U1789.md), al comune di Bieda, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
+Il comune di San Giovanni di Bieda, aggregato con [R. decreto 26 agosto 1927, n. 1789](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20del%20comune%20di%20San%20Giovanni%20di%20Bieda%20a%20quello%20di%20Bieda.%20027U1789.md), al comune di Bieda, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
  
  Il Prefetto di Viterbo, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i comuni di San Giovanni di Bieda.
 

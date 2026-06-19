@@ -31,7 +31,7 @@ Piena ed intera esecuzione e' data alla convenzione di cui all'articolo preceden
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 1 marzo 2018, n. 21](../Decreti%20Legislativi/Disposizioni%20di%20attuazione%20del%20principio%20di%20delega%20della%20riserva%20di%20codice%20nella%20materia%20penale%20a%20norma%20dellarticolo%201%20comma%2085%20lettera%20q%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00046.md) ha disposto (con l'art. 8, comma 1) che "Dalla data di entrata in vigore del presente decreto, i richiami alle disposizioni abrogate dall'articolo 7, ovunque presenti, si intendono riferiti alle corrispondenti disposizioni del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) come indicato dalla tabella A allegata al presente decreto".
+Il [D.Lgs. 1 marzo 2018, n. 21](../Decreti%20Legislativi/Disposizioni%20di%20attuazione%20del%20principio%20di%20delega%20della%20riserva%20di%20codice%20nella%20materia%20penale%20a%20norma%20dellarticolo%201%20comma%2085%20lettera%20q%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00046.md) ha disposto (con l'art. 8, comma 1) che "Dalla data di entrata in vigore del presente decreto, i richiami alle disposizioni abrogate dall'articolo 7, ovunque presenti, si intendono riferiti alle corrispondenti disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) come indicato dalla tabella A allegata al presente decreto".
 
 ## Art. 4.
 

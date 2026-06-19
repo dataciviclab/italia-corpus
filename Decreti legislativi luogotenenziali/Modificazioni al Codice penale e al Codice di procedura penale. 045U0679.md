@@ -26,7 +26,7 @@ Vista la deliberazione del Consiglio dei Ministri ; Sulla proposta del Guardasig
 
 ## Art. 1.
 
-Il testo dell'[art. 24 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente: 
+Il testo dell'[art. 24 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente: 
  « La pena della multa consiste nel pagamento allo Stato di una somma non inferiore a lire cento, ne' superiore a lire centomila. 
  
  Per i delitti determinati da motivi di lucro, se la legge stabilisce soltanto la pena della reclusione, il giudice puo' aggiungere quella della multa da lire cento a lire quarantamila. 
@@ -42,35 +42,35 @@ Il testo dell'art. 26 del Codice, penale e' sostituito dal seguente:
 
 ## Art. 3.
 
-Le pene pecuniarie comminate per i singoli reati dal [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dalle leggi penali speciali, nonche' le altre sanzioni pecuniarie comminate, per le singole infrazioni, dal [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), sono raddoppiate. 
+Le pene pecuniarie comminate per i singoli reati dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dalle leggi penali speciali, nonche' le altre sanzioni pecuniarie comminate, per le singole infrazioni, dal [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), sono raddoppiate. 
  
  La presente disposizione non si applica alle pene proporzionali.
 
 ## Art. 4.
 
-Il testo dell'[art. 66, n. 3, del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' modificano come segue: 
+Il testo dell'[art. 66, n. 3, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' modificano come segue: 
  « 3° e, rispettivamente, lire duecentomila o quarantamila, se si tratta della multa o dell'ammenda; ovvero, rispettivamente, lire seicentomila o centoventimila, se il giudice si vale della facolta' indicata nel secondo capoverso dell'art. 24 e nel capoverso dell'art. 26 ».
 
 ## Art. 5.
 
-Il testo dell'[art. 78, comma 1°, n. 3, del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' modificato come segue: 
+Il testo dell'[art. 78, comma 1°, n. 3, del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' modificato come segue: 
  « 3° lire trecentomila per la multa, e lire sessantamila per l'ammenda; ovvero lire ottocentomila per la multa e lire centosessantamila per l'ammenda se il giudice si vale della facolta' - indicata nel secondo capoverso dell'art. 24 e nel capoverso dell'art. 26 ».
 
 ## Art. 6.
 
-Il testo dell'[art. 135 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente: 
+Il testo dell'[art. 135 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente: 
  « Quando, per qualsiasi effetto giuridico, si deve eseguire un ragguaglio fra pene pecuniarie e pene detentive, il computo ha luogo calcolando cento lire, o frazione di cento lire, di pena pecuniaria, per un giorno di pena detentiva ».
 
 ## Art. 7.
 
-L'[art. 162 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente: 
+L'[art. 162 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente: 
  «Nelle contravvenzioni, per le quali la legge stabilisce la sola pena dell'ammenda, il contravventore e' ammesso a pagare, prima dell'apertura del dibattimento, ovvero prima del decreto di condanna, una somma corrispondente alla terza parte del massimo della pena stabilita dalla legge per la contravvenzione commessa, oltre le spese del procedimento. 
  
  Il pagamento estingue il reato ».
 
 ## Art. 8.
 
-Il [primo comma dell'art. 237 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente: 
+Il [primo comma dell'art. 237 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente: 
  La cauzione di buona condotta e' data mediante il deposito, presso la Cassa delle ammende, di una somma non inferiore a lire duemila, ne' superiore a lire cinquantamila ».
 
 ## Art. 9.

@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 25 febbraio 2008, n. 34](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202007.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 2007) ed, in particolare, l'articolo 3, comma 1, recante delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni comunitarie;
+Vista la [legge 25 febbraio 2008, n. 34](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202007.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 2007) ed, in particolare, l'articolo 3, comma 1, recante delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni comunitarie;
 
 Visto il regolamento (CE) n. 1107/2006 del Parlamento europeo e del Consiglio, del 5 luglio 2006, relativo ai diritti delle persone con disabilita' e delle persone a mobilita' ridotta nel trasporto aereo;
 
-Visto il [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) di cui al [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), come modificato dai [decreti legislativi 9 maggio 2005, n. 96, e 15 marzo 2006, n. 151](Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%209%20maggio%202005%20n.%2096%20recante%20la%20revisione%20della%20parte%20aeronautica%20del%20codice%20della%20navigazione.md);
+Visto il [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) di cui al [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), come modificato dai [decreti legislativi 9 maggio 2005, n. 96, e 15 marzo 2006, n. 151](Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%209%20maggio%202005%20n.%2096%20recante%20la%20revisione%20della%20parte%20aeronautica%20del%20codice%20della%20navigazione.md);
 
 Vista la [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), recante modifiche al sistema penale;
 
@@ -48,7 +48,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Fatto salvo quanto previsto all'[articolo 1174 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), il presente decreto detta la disciplina sanzionatoria per le violazioni del regolamento (CE) n. 1107/2006 del Parlamento europeo e del Consiglio, del 5 luglio 2006, relativo ai diritti delle persone con disabilita' e delle persone a mobilita' ridotta nel trasporto aereo, di seguito denominato: «Regolamento».
+Fatto salvo quanto previsto all'[articolo 1174 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), il presente decreto detta la disciplina sanzionatoria per le violazioni del regolamento (CE) n. 1107/2006 del Parlamento europeo e del Consiglio, del 5 luglio 2006, relativo ai diritti delle persone con disabilita' e delle persone a mobilita' ridotta nel trasporto aereo, di seguito denominato: «Regolamento».
 
 Avvertenza:
 
@@ -58,10 +58,10 @@ Avvertenza:
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- - Si riporta il testo dell'[art. 3, comma 1, della legge 25 febbraio 2008, n. 34](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202007.md), pubblicata nella Gazzetta Ufficiale 6 marzo 2008, n. 56, supplemento ordinario:
+ - Si riporta il testo dell'[art. 3, comma 1, della legge 25 febbraio 2008, n. 34](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202007.md), pubblicata nella Gazzetta Ufficiale 6 marzo 2008, n. 56, supplemento ordinario:
  «1. Al fine di assicurare la piena integrazione delle norme comunitarie nell'ordinamento nazionale, il Governo, fatte salve le norme penali vigenti, e' delegato ad adottare, entro due anni dalla data di entrata in vigore della presente legge, disposizioni recanti sanzioni penali o amministrative per le violazioni di direttive comunitarie attuate in via regolamentare o amministrativa, ai sensi delle leggi comunitarie vigenti, e di regolamenti comunitari vigenti alla data di entrata in vigore della presente legge, per i quali non siano gia' previste sanzioni penali o amministrative.».
  - Il regolamento (CE) n. 1107/2006 e' pubblicato nella G.U.U.E. 26 luglio 2006, n. L 204.
- - Il [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e' pubblicato nella Gazzetta Ufficiale del 18 aprile 1942, n. 93, edizione speciale, come modificato dai [decreti legislativi 9 maggio 2005, n. 96](Revisione%20della%20parte%20aeronautica%20del%20Codice%20della%20navigazione%20a%20norma%20dellarticolo%202%20della%20legge%209%20novembre%202004%20n.%20265.md), pubblicato nella Gazzetta Ufficiale 8 giugno 2005, n. 131, supplemento ordinario e 15 marzo 2006, n. 151, pubblicato nella Gazzetta Ufficiale 14 aprile 2006, n. 88.
+ - Il [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e' pubblicato nella Gazzetta Ufficiale del 18 aprile 1942, n. 93, edizione speciale, come modificato dai [decreti legislativi 9 maggio 2005, n. 96](Revisione%20della%20parte%20aeronautica%20del%20Codice%20della%20navigazione%20a%20norma%20dellarticolo%202%20della%20legge%209%20novembre%202004%20n.%20265.md), pubblicato nella Gazzetta Ufficiale 8 giugno 2005, n. 131, supplemento ordinario e 15 marzo 2006, n. 151, pubblicato nella Gazzetta Ufficiale 14 aprile 2006, n. 88.
  - La [legge 24 novembre1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), e' pubblicata nella Gazzetta Ufficiale 30 novembre 1981, n. 329, supplemento ordinario.
  - La [legge 5 febbraio 1992, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104), e' pubblicata nella Gazzetta Ufficiale 17 febbraio 1992, n. 39, supplemento ordinario.
  - Il [decreto legislativo del 25 luglio 1997, n. 250](Istituzione%20dellEnte%20nazionale%20per%20laviazione%20civile%20E.N.A.C.md), e' pubblicato nella Gazzetta Ufficiale 31 luglio 1997, n. 177.
@@ -77,7 +77,7 @@ Avvertenza:
  - Il regolamento (CE) n. 261/2004 e' pubblicato nella G.U.U.E. 17 febbraio 2004, n. L 46.
  - Il decreto del Ministro dei trasporti 24 luglio 2007, e' pubblicato nella Gazzetta Ufficiale n. 184 del 9 agosto 2007.
  Nota all'art. 1:
- - Si riporta il testo dell'[art. 1174 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
+ - Si riporta il testo dell'[art. 1174 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
  «Art. 1174 (Carattere patrimoniale della prestazione). - La prestazione che forma oggetto dell'obbligazione deve essere suscettibile di valutazione economica e deve corrispondere a un interesse [[codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) nn. 1255, 1256, 1288, 1321, 1322, 1324, 1379, 1384, 1411, 1421, 1457, 1464], anche non patrimoniale, del creditore.».
  - Per il regolamento (CE) n. 1107/2006, si veda nelle note alle premesse.
 

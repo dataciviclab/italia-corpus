@@ -113,7 +113,7 @@ L'eventuale richiesta motivata di circostanziati elementi istruttori avviene ent
 
 AGGIORNAMENTO (1)
 
-Il [D.L. 26 maggio 1984, n. 159](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20dai%20movimenti%20sismici%20del%2029%20aprile%201984%20in%20Umbria%20e%20del%207%20ed%2011%20maggio%201984%20in%20Abruzzo%20Molise%20Lazio%20e%20Campania.md), convertito con modificazioni dalla [L. 24 luglio 1984, n.363](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20maggio%201984%20n.%20159%20recante%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20dai%20movimenti%20sismici%20del%2029%20aprile%201984%20in%20U_4296779cf010.md), ha disposto che il termine indicato nel primo comma del presente articolo, e' prorogato di trenta giorni.
+Il [D.L. 26 maggio 1984, n. 159](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20dai%20movimenti%20sismici%20del%2029%20aprile%201984%20in%20Umbria%20e%20del%207%20ed%2011%20maggio%201984%20in%20Abruzzo%20Molise%20Lazio%20e%20Campania.md), convertito con modificazioni dalla [L. 24 luglio 1984, n.363](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20maggio%201984%20n.%20159%20recante%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20dai%20movimenti%20sismici%20del%2029%20aprile%201984%20in%20U_4296779cf010.md), ha disposto che il termine indicato nel primo comma del presente articolo, e' prorogato di trenta giorni.
 
 ----------------
 

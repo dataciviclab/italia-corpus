@@ -30,7 +30,7 @@ Vista la [legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bila
 
 Visto il [decreto del Presidente della Repubblica 18 aprile 1988, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-04-18;177), recante regolamento di esecuzione della [legge 26 febbraio 1987, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-26;49), recante «Nuova disciplina della cooperazione dell'Italia con i Paesi in via di sviluppo»;
 
-Visto il [decreto del Presidente della Repubblica 3 giugno 1998, n. 252](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20relativi%20al%20rilascio%20delle%20comunicazioni%20e%20delle%20informazioni%20antimafia.md), recante regolamento recante «Norme per la semplificazione dei procedimenti relativi al rilascio delle comunicazioni e delle informazioni antimafia»;
+Visto il [decreto del Presidente della Repubblica 3 giugno 1998, n. 252](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20relativi%20al%20rilascio%20delle%20comunicazioni%20e%20delle%20informazioni%20antimafia.md), recante regolamento recante «Norme per la semplificazione dei procedimenti relativi al rilascio delle comunicazioni e delle informazioni antimafia»;
 
 Udito il parere interlocutorio del Consiglio di Stato n. 2887/04, espresso dalla sezione consultiva per gli atti normativi nell'Adunanza del 22 marzo 2004;
 
@@ -82,7 +82,7 @@ Il rapporto finale e', inoltre, corredato da una dichiarazione del Ministero deg
 AGGIORNAMENTO (1)
 
 - La [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) ha disposto (con l'art. 31, comma 1, lettera e)) che "Dal primo giorno del sesto mese successivo alla data di entrata in vigore del regolamento di cui all'articolo 17, comma 13, sono abrogati: [...] 
- e) il regolamento di cui al [decreto del Ministro degli affari esteri 15 settembre 2004, n. 337](Regolamento%20di%20semplificazione%20delle%20procedure%20amministrative%20relative%20alle%20Organizzazioni%20Non%20Governative.md)". 
+ e) il regolamento di cui al [decreto del Ministro degli affari esteri 15 settembre 2004, n. 337](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20semplificazione%20delle%20procedure%20amministrative%20relative%20alle%20Organizzazioni%20Non%20Governative.md)". 
  - Il regolamento di cui all'art. 31, comma 1, alinea della [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) e' stato emanato con Decreto 22 luglio 2015, n. 113, pubblicato in G.U. 30/07/2015, n. 175.
 
 ## Art. 2. — Polizze fideiussorie
@@ -109,7 +109,7 @@ Trascorsi centottanta giorni dalla conclusione del procedimento di approvazione 
 AGGIORNAMENTO (1)
 
 - La [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) ha disposto (con l'art. 31, comma 1, lettera e)) che "Dal primo giorno del sesto mese successivo alla data di entrata in vigore del regolamento di cui all'articolo 17, comma 13, sono abrogati: [...] 
- e) il regolamento di cui al [decreto del Ministro degli affari esteri 15 settembre 2004, n. 337](Regolamento%20di%20semplificazione%20delle%20procedure%20amministrative%20relative%20alle%20Organizzazioni%20Non%20Governative.md)". 
+ e) il regolamento di cui al [decreto del Ministro degli affari esteri 15 settembre 2004, n. 337](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20semplificazione%20delle%20procedure%20amministrative%20relative%20alle%20Organizzazioni%20Non%20Governative.md)". 
  - Il regolamento di cui all'art. 31, comma 1, alinea della [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) e' stato emanato con Decreto 22 luglio 2015, n. 113, pubblicato in G.U. 30/07/2015, n. 175.
 
 ## Art. 3. — Certificazione antimafia
@@ -120,7 +120,7 @@ Il Ministero degli affari esteri procede all'acquisizione, presso le Prefetture 
 
 2.
 
-Nei casi di urgenza si applicano le disposizioni di cui all'[articolo 5, del decreto del Presidente della Repubblica 3 giugno 1998, n. 252](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20relativi%20al%20rilascio%20delle%20comunicazioni%20e%20delle%20informazioni%20antimafia.md). 
+Nei casi di urgenza si applicano le disposizioni di cui all'[articolo 5, del decreto del Presidente della Repubblica 3 giugno 1998, n. 252](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20relativi%20al%20rilascio%20delle%20comunicazioni%20e%20delle%20informazioni%20antimafia.md). 
  ((1))
 
 ------------
@@ -128,7 +128,7 @@ Nei casi di urgenza si applicano le disposizioni di cui all'[articolo 5, del dec
 AGGIORNAMENTO (1)
 
 - La [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) ha disposto (con l'art. 31, comma 1, lettera e)) che "Dal primo giorno del sesto mese successivo alla data di entrata in vigore del regolamento di cui all'articolo 17, comma 13, sono abrogati: [...] 
- e) il regolamento di cui al [decreto del Ministro degli affari esteri 15 settembre 2004, n. 337](Regolamento%20di%20semplificazione%20delle%20procedure%20amministrative%20relative%20alle%20Organizzazioni%20Non%20Governative.md)". 
+ e) il regolamento di cui al [decreto del Ministro degli affari esteri 15 settembre 2004, n. 337](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20semplificazione%20delle%20procedure%20amministrative%20relative%20alle%20Organizzazioni%20Non%20Governative.md)". 
  - Il regolamento di cui all'art. 31, comma 1, alinea della [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) e' stato emanato con Decreto 22 luglio 2015, n. 113, pubblicato in G.U. 30/07/2015, n. 175.
 
 ## Art. 4. — Esame e approvazione dei rapporti relativi ai progetti in corso
@@ -152,7 +152,7 @@ I rapporti relativi a progetti inerenti ad attivita' di cooperazione internazion
 AGGIORNAMENTO (1)
 
 - La [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) ha disposto (con l'art. 31, comma 1, lettera e)) che "Dal primo giorno del sesto mese successivo alla data di entrata in vigore del regolamento di cui all'articolo 17, comma 13, sono abrogati: [...] 
- e) il regolamento di cui al [decreto del Ministro degli affari esteri 15 settembre 2004, n. 337](Regolamento%20di%20semplificazione%20delle%20procedure%20amministrative%20relative%20alle%20Organizzazioni%20Non%20Governative.md)". 
+ e) il regolamento di cui al [decreto del Ministro degli affari esteri 15 settembre 2004, n. 337](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20semplificazione%20delle%20procedure%20amministrative%20relative%20alle%20Organizzazioni%20Non%20Governative.md)". 
  - Il regolamento di cui all'art. 31, comma 1, alinea della [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) e' stato emanato con Decreto 22 luglio 2015, n. 113, pubblicato in G.U. 30/07/2015, n. 175.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e farlo osservare.

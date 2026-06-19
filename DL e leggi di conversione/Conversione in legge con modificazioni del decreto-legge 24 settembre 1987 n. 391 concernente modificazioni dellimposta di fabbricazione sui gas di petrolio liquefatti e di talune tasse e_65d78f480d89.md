@@ -29,7 +29,7 @@ Il [decreto-legge 24 settembre 1987, n. 391](https://www.normattiva.it/uri-res/N
  All'articolo 5:
  dopo il comma 2, e' aggiunto il seguente:
  "2-bis. Se l'ammontare del versamento di cui al comma 2 risulta superiore a quello delle ritenute operate nel periodo di imposta cui l'acconto si riferisce, le aziende e gli istituti di credito hanno diritto, a loro scelta, di computare l'eccedenza in diminuzione dai versamenti di acconto del periodo di imposta successivo o di chiederne il rimborso in sede di dichiarazione del sostituto di imposta.
- La somma versata in eccedenza e' rimborsata ai sensi dell'[articolo 41 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e successive modificazioni, con gli interessi di cui all'articolo 44 dello stesso decreto".
+ La somma versata in eccedenza e' rimborsata ai sensi dell'[articolo 41 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e successive modificazioni, con gli interessi di cui all'articolo 44 dello stesso decreto".
 
 2.
 

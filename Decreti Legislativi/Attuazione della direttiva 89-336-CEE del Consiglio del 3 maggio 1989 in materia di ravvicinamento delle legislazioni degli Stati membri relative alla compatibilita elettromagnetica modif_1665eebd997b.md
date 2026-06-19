@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 70 della legge 19 febbraio 1992, n. 142](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), recante delega al Governo per l'attuazione della [direttiva 89/336/CEE del Consiglio del 3 maggio 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336), in materia di ravvicinamento delle legislazioni degli Stati membri relative alla compatibilita' elettromagnetica, modificata dalla [direttiva 92/31/CEE del Consiglio del 28 aprile 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;31);
+Visto l'[art. 70 della legge 19 febbraio 1992, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), recante delega al Governo per l'attuazione della [direttiva 89/336/CEE del Consiglio del 3 maggio 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336), in materia di ravvicinamento delle legislazioni degli Stati membri relative alla compatibilita' elettromagnetica, modificata dalla [direttiva 92/31/CEE del Consiglio del 28 aprile 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;31);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 4 dicembre 1992;
 

@@ -366,7 +366,7 @@ TITOLO VIII
 
 ### Art. 65.
 
-PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](Codice%20dellordinamento%20militare.%2010G0089.md) ((12))
+PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) ((12))
 
 ------------
 

@@ -476,10 +476,10 @@ La valutazione dell'imputabilita' della mancata o parziale realizzazione dei pro
 
 3.
 
-Per il recupero delle somme dovute dal beneficiario al fondo, nei casi di parziale o mancata realizzazione del programma, il soggetto gestore e' autorizzato ad avvalersi della procedura di cui al [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
+Per il recupero delle somme dovute dal beneficiario al fondo, nei casi di parziale o mancata realizzazione del programma, il soggetto gestore e' autorizzato ad avvalersi della procedura di cui al [regio decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 Nota all'[art. 16:
- - Il regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), recante "Approvazione del testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato" e' pubblicato nella Gazzetta Ufficiale 30 settembre 1910, n. 227.
+ - Il regio decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), recante "Approvazione del testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato" e' pubblicato nella Gazzetta Ufficiale 30 settembre 1910, n. 227.
 
 ## Art. 17. — Divieto di cumulabilita' dei benefici
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 70 della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), recante delega al Governo per l'attuazione delle [direttive 75/439/CEE del Consiglio del 16 giugno 1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;439) e [87/101/CEE del Consiglio del 22 dicembre 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1987;101), concernenti l'eliminazione degli olii usati;
+Visto l'[art. 70 della legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), recante delega al Governo per l'attuazione delle [direttive 75/439/CEE del Consiglio del 16 giugno 1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;439) e [87/101/CEE del Consiglio del 22 dicembre 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1987;101), concernenti l'eliminazione degli olii usati;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 15 novembre 1991;
 
@@ -103,7 +103,7 @@ E' fatto divieto ai consumatori di procedere alla diretta eliminazione degli oli
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 264, comma 1, lettera o)) che "Restano valide ai fini della gestione degli oli usati, fino al conseguimento o diniego di quelle richieste ai sensi del presente decreto e per un periodo comunque non superiore ad un triennio dalla data della sua entrata in vigore, tutte le autorizzazioni concesse, alla data di entrata in vigore della parte quarta del presente decreto, ai sensi della normativa vigente, ivi compresi [...], il [decreto legislativo 27 gennaio 1992, n. 95](Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md)".
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 264, comma 1, lettera o)) che "Restano valide ai fini della gestione degli oli usati, fino al conseguimento o diniego di quelle richieste ai sensi del presente decreto e per un periodo comunque non superiore ad un triennio dalla data della sua entrata in vigore, tutte le autorizzazioni concesse, alla data di entrata in vigore della parte quarta del presente decreto, ai sensi della normativa vigente, ivi compresi [...], il [decreto legislativo 27 gennaio 1992, n. 95](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md)".
 
 ## Art. 5.
 
@@ -114,7 +114,7 @@ Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 264, comma 1, lettera o)) che "Restano valide ai fini della gestione degli oli usati, fino al conseguimento o diniego di quelle richieste ai sensi del presente decreto e per un periodo comunque non superiore ad un triennio dalla data della sua entrata in vigore, tutte le autorizzazioni concesse, alla data di entrata in vigore della parte quarta del presente decreto, ai sensi della normativa vigente, ivi compresi [...], il [decreto legislativo 27 gennaio 1992, n. 95](Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md)".
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 264, comma 1, lettera o)) che "Restano valide ai fini della gestione degli oli usati, fino al conseguimento o diniego di quelle richieste ai sensi del presente decreto e per un periodo comunque non superiore ad un triennio dalla data della sua entrata in vigore, tutte le autorizzazioni concesse, alla data di entrata in vigore della parte quarta del presente decreto, ai sensi della normativa vigente, ivi compresi [...], il [decreto legislativo 27 gennaio 1992, n. 95](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md)".
 
 ## Art. 6. — Obblighi dei detentori
 
@@ -191,7 +191,7 @@ Le imprese autorizzate ad esercitare attivita' di eliminazione degli oli usati s
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 264, comma 1, lettera o)) che "Restano valide ai fini della gestione degli oli usati, fino al conseguimento o diniego di quelle richieste ai sensi del presente decreto e per un periodo comunque non superiore ad un triennio dalla data della sua entrata in vigore, tutte le autorizzazioni concesse, alla data di entrata in vigore della parte quarta del presente decreto, ai sensi della normativa vigente, ivi compresi [...], il [decreto legislativo 27 gennaio 1992, n. 95](Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md)".
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 264, comma 1, lettera o)) che "Restano valide ai fini della gestione degli oli usati, fino al conseguimento o diniego di quelle richieste ai sensi del presente decreto e per un periodo comunque non superiore ad un triennio dalla data della sua entrata in vigore, tutte le autorizzazioni concesse, alla data di entrata in vigore della parte quarta del presente decreto, ai sensi della normativa vigente, ivi compresi [...], il [decreto legislativo 27 gennaio 1992, n. 95](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md)".
 
 ## Art. 9. — Combustione
 
@@ -300,7 +300,7 @@ Il Consorzio obbligatorio degli oli usati puo' svolgere le proprie funzioni sia 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 264, comma 1, lettera o)) che "Restano valide ai fini della gestione degli oli usati, fino al conseguimento o diniego di quelle richieste ai sensi del presente decreto e per un periodo comunque non superiore ad un triennio dalla data della sua entrata in vigore, tutte le autorizzazioni concesse, alla data di entrata in vigore della parte quarta del presente decreto, ai sensi della normativa vigente, ivi compresi [...], il [decreto legislativo 27 gennaio 1992, n. 95](Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md)".
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 264, comma 1, lettera o)) che "Restano valide ai fini della gestione degli oli usati, fino al conseguimento o diniego di quelle richieste ai sensi del presente decreto e per un periodo comunque non superiore ad un triennio dalla data della sua entrata in vigore, tutte le autorizzazioni concesse, alla data di entrata in vigore della parte quarta del presente decreto, ai sensi della normativa vigente, ivi compresi [...], il [decreto legislativo 27 gennaio 1992, n. 95](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md)".
 
 ## Art. 13. — Obblighi di pubblicita'
 
@@ -317,7 +317,7 @@ Le imprese che immettono oli o basi lubrificanti al consumo sono tenute a riserv
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 264, comma 1, lettera o)) che "Restano valide ai fini della gestione degli oli usati, fino al conseguimento o diniego di quelle richieste ai sensi del presente decreto e per un periodo comunque non superiore ad un triennio dalla data della sua entrata in vigore, tutte le autorizzazioni concesse, alla data di entrata in vigore della parte quarta del presente decreto, ai sensi della normativa vigente, ivi compresi [...], il [decreto legislativo 27 gennaio 1992, n. 95](Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md)".
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 264, comma 1, lettera o)) che "Restano valide ai fini della gestione degli oli usati, fino al conseguimento o diniego di quelle richieste ai sensi del presente decreto e per un periodo comunque non superiore ad un triennio dalla data della sua entrata in vigore, tutte le autorizzazioni concesse, alla data di entrata in vigore della parte quarta del presente decreto, ai sensi della normativa vigente, ivi compresi [...], il [decreto legislativo 27 gennaio 1992, n. 95](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md)".
 
 ## Art. 15.
 
@@ -328,4 +328,4 @@ Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 264, comma 1, lettera o)) che "Restano valide ai fini della gestione degli oli usati, fino al conseguimento o diniego di quelle richieste ai sensi del presente decreto e per un periodo comunque non superiore ad un triennio dalla data della sua entrata in vigore, tutte le autorizzazioni concesse, alla data di entrata in vigore della parte quarta del presente decreto, ai sensi della normativa vigente, ivi compresi [...], il [decreto legislativo 27 gennaio 1992, n. 95](Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md)".
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 264, comma 1, lettera o)) che "Restano valide ai fini della gestione degli oli usati, fino al conseguimento o diniego di quelle richieste ai sensi del presente decreto e per un periodo comunque non superiore ad un triennio dalla data della sua entrata in vigore, tutte le autorizzazioni concesse, alla data di entrata in vigore della parte quarta del presente decreto, ai sensi della normativa vigente, ivi compresi [...], il [decreto legislativo 27 gennaio 1992, n. 95](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md)".

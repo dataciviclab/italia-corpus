@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 1.
 
-Il [decreto-legge 13 aprile 1993, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-04-13;109), recante modifiche al [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), concernente attuazione della [direttiva CEE n. 76/160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;160), relativa alla qualita' delle acque di balneazione, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 13 aprile 1993, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-04-13;109), recante modifiche al [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), concernente attuazione della [direttiva CEE n. 76/160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;160), relativa alla qualita' delle acque di balneazione, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
 AVVERTENZA:
  Il [decreto-legge 13 aprile 1993, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-04-13;109), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 87 del 15 aprile 1993.

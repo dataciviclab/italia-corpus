@@ -111,7 +111,7 @@ L'avvocato del migrante di cui all'articolo 1, paragrafo 1, lettera d), del Prot
 
 6.
 
-In deroga all'[articolo 10 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo che il reato sia commesso in danno di un cittadino albanese o dello Stato albanese, lo straniero sottoposto alle procedure di cui al comma 1 del presente articolo, che commette un delitto all'interno delle aree di cui all'articolo 1, paragrafo 1, lettera c), del Protocollo, e' punito secondo la legge italiana, se vi e' richiesta del Ministro della giustizia, fermo restando il regime di procedibilita' previsto per il delitto. La richiesta del Ministro non e' necessaria per i delitti puniti con la pena dell'ergastolo o della reclusione non inferiore nel minimo a tre anni.
+In deroga all'[articolo 10 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo che il reato sia commesso in danno di un cittadino albanese o dello Stato albanese, lo straniero sottoposto alle procedure di cui al comma 1 del presente articolo, che commette un delitto all'interno delle aree di cui all'articolo 1, paragrafo 1, lettera c), del Protocollo, e' punito secondo la legge italiana, se vi e' richiesta del Ministro della giustizia, fermo restando il regime di procedibilita' previsto per il delitto. La richiesta del Ministro non e' necessaria per i delitti puniti con la pena dell'ergastolo o della reclusione non inferiore nel minimo a tre anni.
 
 7.
 

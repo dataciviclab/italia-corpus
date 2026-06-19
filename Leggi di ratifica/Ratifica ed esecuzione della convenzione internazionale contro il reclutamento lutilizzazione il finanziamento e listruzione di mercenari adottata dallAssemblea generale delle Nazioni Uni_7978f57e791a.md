@@ -66,7 +66,7 @@ E' punito secondo la legge italiana:
 
 1.
 
-L'[articolo 244 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
+L'[articolo 244 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
                         a)
                             nel primo comma le parole: "cinque a dodici anni" sono sostituite dalle seguenti: "sei a diciotto anni";
                         b)
@@ -74,13 +74,13 @@ L'[articolo 244 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%
 
 2.
 
-Nel [primo comma dell'articolo 288 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole: "tre a sei anni" sono sostituite dalle seguenti: "quattro a quindici anni".
+Nel [primo comma dell'articolo 288 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole: "tre a sei anni" sono sostituite dalle seguenti: "quattro a quindici anni".
 
 Note all'art. 7:
- - Il testo dell'[art. 244 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dalla presente legge, e' il seguente:
+ - Il testo dell'[art. 244 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dalla presente legge, e' il seguente:
  "Art. 244 (Atti ostili verso uno Stato estero, che espongono lo Stato italiano al pericolo di guerra). - Chiunque, senza l'approvazione del Governo, fa arruolamenti o compie altri atti ostili contro uno Stato estero, in modo da esporre lo Stato italiano al pericolo di una guerra, e' punito con la reclusione da sei a diciotto anni; se la guerra avviene e' punito con l'ergastolo.
  Qualora gli atti ostili siano tali da turbare soltanto le relazioni con un Governo estero, ovvero da esporre lo Stato italiano o i suoi cittadini, ovunque residenti, al pericolo di rappresaglie o di ritorsioni, la pena e' della reclusione da tre a dodici anni. Se segue la rottura delle relazioni diplomatiche, o se avvengono le rappresaglie o le ritorsioni, la pena e' della reclusione da cinque a quindici anni".
- - Il testo dell'[art. 288 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dalla presente legge, e' il seguente:
+ - Il testo dell'[art. 288 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dalla presente legge, e' il seguente:
  "Art. 288 (Arruolamenti o armamenti non autorizzati a servizio di uno Stato estero). - Chiunque nel territorio dello Stato e senza approvazione del Governo arruola o arma cittadini, perche' militino al servizio o a favore dello straniero, e' punito con la reclusione da quattro a quindici anni.
  La pena e' aumentata sa fra gli arruolati sono militari in servizio o persone tuttora soggette agli abblighi del servizio militare".
 

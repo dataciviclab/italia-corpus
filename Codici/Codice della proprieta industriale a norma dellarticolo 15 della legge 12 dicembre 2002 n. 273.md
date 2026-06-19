@@ -1273,6 +1273,8 @@ I soggetti indicati al comma 1, nell'ambito della propria autonomia, disciplinan
 
 ### Art. 65-bis. — (( (Uffici di trasferimento tecnologico). ))
 
+((1. Le istituzioni universitarie e dell'alta formazione artistica, musicale e coreutica, gli enti pubblici di ricerca ovvero gli IRCCS possono dotarsi, nell'ambito delle risorse disponibili a legislazione vigente, anche in forma associativa nell'ambito della propria autonomia, di un ufficio di trasferimento tecnologico con la funzione di promuovere la valorizzazione dei titoli di proprieta' industriale, anche attraverso la promozione di collaborazioni con le imprese. Il personale addetto all'ufficio di cui al presente comma e' in possesso di qualificazione professionale adeguata allo svolgimento delle attivita' di promozione della proprieta' industriale del medesimo ufficio))
+
 ### Art. 66. — Diritto di brevetto
 
 1.
@@ -2761,13 +2763,11 @@ Se il giudizio di merito non e' iniziato nel termine perentorio di cui al comma 
 
 4.
 
-Le disposizioni di cui al comma 3 non si applicano ai provvedimenti di urgenza emessi ai sensi dell'[articolo 700 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_700) ed agli altri provvedimenti cautelari idonei ad anticipare gli effetti della sentenza di merito. In tali casi ciascuna parte puo' iniziare il giudizio di merito.
+((Per i provvedimenti di urgenza emessi ai sensi dell'articolo 700 del codice di procedura civile e per gli altri provvedimenti cautelari idonei ad anticipare gli effetti della sentenza di merito, fatta salva la facolta' delle parti di iniziare il giudizio di merito, quando detto giudizio non e' iniziato nel termine perentorio di cui al comma 2, oppure se successivamente al suo inizio si estingue, i provvedimenti sono dichiarati inefficaci se, entro il termine perentorio di trenta giorni decorrenti dalla scadenza del termine previsto dallo stesso comma 2 o dall'estinzione del giudizio di merito, la parte destinataria presenta istanza per la declaratoria di inefficacia.))
 
 5.
 
 In tutti i procedimenti cautelari il giudice, ai fini dell'ottenimento di sommarie indicazioni tecniche, puo' disporre una consulenza tecnica.
-
-((
 
 5-bis.
 
@@ -2780,8 +2780,6 @@ Nel provvedere sulle domande cautelari in materia di acquisizione, utilizzazione
 5-quater.
 
 Fermo quanto previsto dal comma 4, se le misure cautelari adottate a tutela dei segreti commerciali di cui all'articolo 98 divengono inefficaci, ai sensi del comma 3, per mancato inizio del giudizio di merito nel termine perentorio di cui al comma 2 ovvero perdono efficacia a causa di un'azione o di un'omissione del ricorrente, ovvero se viene successivamente accertato che l'acquisizione, l'utilizzo o la rivelazione illeciti dei predetti segreti commerciali non sussisteva, il ricorrente e' tenuto a risarcire il danno cagionato dalle misure adottate.
-
-))
 
 ### Art. 133. — Tutela cautelare dei nomi a dominio
 
@@ -4717,6 +4715,11 @@ L'istanza di decadenza o di nullita' e' altresi' improcedibile qualora sia stata
 
 ### Art. 184-ter. — (( (Legittimazione all'istanza di decadenza o nullita'). ))
 
+((1. Sono legittimati a presentare un'istanza di decadenza o di nullita': 
+ a) nei casi di cui ai commi 2 e 3, lettera a), dell'articolo 184-bis, qualunque interessato; 
+b) nel caso di cui al comma 3, lettera b), dell'articolo 184-bis, il titolare di un marchio d'impresa anteriore o la persona autorizzata dalla legge a esercitare i diritti conferiti da una denominazione di origine o un'indicazione geografica protetta; 
+ c) nel caso di cui al comma 3, lettera c), dell'articolo 184-bis, il titolare di marchio d'impresa interessato))
+
 ### Art. 184-quater. — (Esame della domanda di decadenza o di nullita' e decisioni)
 
 ((
@@ -4859,9 +4862,21 @@ Il provvedimento con il quale l'Ufficio italiano brevetti e marchi dichiara irri
 
 I titoli originali di proprieta' industriale devono essere firmati dal dirigente dell'ufficio competente o da un funzionario da lui delegato.
 
-((2. I titoli di proprieta' industriale sono contrassegnati, a seconda della tipologia, da un numero progressivo, secondo la data di concessione, e contengono:))
+2.
 
-((dell'inventore o))
+((I titoli di proprieta' industriale sono contrassegnati, a seconda della tipologia, da un numero progressivo, secondo la data di concessione, e contengono:))
+                            a)
+                                la data e il numero della domanda;
+                            b)
+                                il cognome, il nome, il domicilio del titolare e, nel caso delle varieta' vegetali, del costitutore, la ragione ovvero la denominazione sociale e la sede, se trattasi di persona giuridica;
+                            c)
+                                il cognome, il nome, il domicilio del mandatario, se vi sia;
+                            d)
+                                il cognome ed il nome ((dell'inventore o)) dell'autore;
+                            e)
+                                gli estremi della priorita' rivendicata;
+                            f)
+                                nel caso delle varieta' vegetali, il genere o la specie di appartenenza della nuova varieta' vegetale e la relativa denominazione.
 
 3.
 
@@ -5210,6 +5225,8 @@ Le dichiarazioni di rinuncia, anche parziale, ad un diritto di proprieta' indust
 Coloro che risiedono nel territorio dello Stato non possono, senza autorizzazione del Ministero delle attivita' produttive, depositare esclusivamente presso uffici di Stati esteri o l'Ufficio brevetti europeo o l'Ufficio internazionale dell'organizzazione mondiale della proprieta' intellettuale in qualita' di ufficio ricevente, le loro domande di concessione di brevetto per invenzione, modello di utilita' o di topografia, qualora dette domande riguardino oggetti che potrebbero essere utili per la difesa del Paese, ne' depositarle presso tali uffici prima che siano trascorsi ((sessanta)) giorni dalla data del deposito in Italia, o da quella di presentazione dell'istanza di autorizzazione. Il Ministero predetto provvede sulle istanze di autorizzazione, previo nulla osta del Ministero della difesa. Trascorso il termine di ((sessanta)) giorni senza che sia intervenuto un provvedimento di rifiuto, l'autorizzazione deve intendersi concessa. Le disposizioni previste dal presente comma non si applicano alle invenzioni realizzate a seguito di accordi internazionali ratificati con legge nazionale.
 
 ((1-bis. Le disposizioni del comma 1 si applicano anche quando:
+
+a) l'inventore presti la propria attivita' lavorativa presso filiali italiane di imprese multinazionali la cui capogruppo abbia sede legale all'estero;
 
 b) l'inventore abbia ceduto l'invenzione oggetto del brevetto precedentemente al deposito della domanda di brevetto))
 

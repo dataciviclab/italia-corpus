@@ -128,14 +128,14 @@ Ai fini dell'inserimento del profilo del DNA nella banca dati nazionale del DNA,
 
 Il prelievo di cui al comma 1 puo' essere effettuato esclusivamente se si procede nei confronti dei soggetti di cui al comma 1 per delitti, non colposi, per i quali e' consentito l'arresto facoltativo in flagranza. Il prelievo non puo' essere effettuato se si procede per i seguenti reati:
                             a)
-                                reati di cui al libro II, titolo III, capo I, tranne quelli di cui agli articoli 368, 371-bis, 371-ter, 372, 374 aggravato ai sensi dell'articolo 375, 378 e 379, e capo II, tranne quello di cui all'[articolo 390, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+                                reati di cui al libro II, titolo III, capo I, tranne quelli di cui agli articoli 368, 371-bis, 371-ter, 372, 374 aggravato ai sensi dell'articolo 375, 378 e 379, e capo II, tranne quello di cui all'[articolo 390, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                             b)
                                 reati di cui al libro II, titolo VII, capo
- I, tranne quelli di cui all'articolo 453, e capo II, del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ I, tranne quelli di cui all'articolo 453, e capo II, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                             c)
-                                reati di cui al libro II, titolo VIII, capo I, tranne quelli di cui all'articolo 499, e capo II, tranne quello di cui all'[articolo 513-bis, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+                                reati di cui al libro II, titolo VIII, capo I, tranne quelli di cui all'articolo 499, e capo II, tranne quello di cui all'[articolo 513-bis, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                             d)
-                                reati di cui al libro II, titolo XI, capo I, del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+                                reati di cui al libro II, titolo XI, capo I, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                             e)
                                 reati di cui al [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267);
                             f)
@@ -162,10 +162,10 @@ Le operazioni sono eseguite nel rispetto della dignita', del decoro e della rise
 Il campione prelevato e' immediatamente inviato, a cura del personale procedente, al laboratorio centrale di cui all'articolo 5, comma 2, per la tipizzazione del relativo profilo e la successiva trasmissione alla banca dati del DNA.
 
 Note all'art. 9:
- - Il libro secondo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) reca: «Dei delitti in particolare».
- - Il titolo III del libro II del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) reca: «Dei delitti contro l'amministrazione della giustizia».
+ - Il libro secondo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) reca: «Dei delitti in particolare».
+ - Il titolo III del libro II del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) reca: «Dei delitti contro l'amministrazione della giustizia».
  - Il capo I del titolo III del libro II del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) reca: «Dei delitti contro l'attivita' giudiziaria».
- - Il testo degli articoli 368; 371-bis; 371-ter, 372, 374, 375, 378 e 379 del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' il seguente:
+ - Il testo degli articoli 368; 371-bis; 371-ter, 372, 374, 375, 378 e 379 del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' il seguente:
  «Art. 368 (Calunnia). - Chiunque, con denunzia, querela, richiesta o istanza, anche se anonima o sotto falso nome, diretta all'autorita' giudiziaria o ad un'altra autorita' che a quella abbia obbligo di riferirne, incolpa di un reato taluno che egli sa innocente, ovvero simula a carico di lui le tracce di un reato, e' punito con la reclusione da due a sei anni.
  La pena e' aumentata se s'incolpa taluno di un reato pel quale la legge stabilisce la pena della reclusione superiore nel massimo a dieci anni, o un'altra pena piu' grave.
  La reclusione e' da quattro a dodici anni, se dal fatto deriva una condanna alla reclusione superiore a cinque anni; e' da sei a venti anni, se dal fatto deriva una condanna all'ergastolo; e si applica la pena dell'ergastolo, se dal fatto deriva una condanna alla pena di morte.».
@@ -184,31 +184,31 @@ Note all'art. 9:
  Le disposizioni di questo articolo si applicano anche quando la persona aiutata non e' imputabile o risulta che non ha commesso il delitto.».
  «Art. 379 (Favoreggiamento reale). - Chiunque fuori dei casi di concorso nel reato e dei casi previsti dagli articoli 648, 648-bis, 648-ter, aiuta taluno ad assicurare il prodotto o il profitto o il prezzo di un reato, e' punito con la reclusione fino a cinque anni se si tratta di delitto, e con la multa da euro 51 a euro 1.032 se si tratta di contravvenzione.
  Si applicano le disposizioni del primo e dell'ultimo capoverso dell'articolo precedente.».
- - Il capo II del libro II, titolo III del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) reca: «Dei delitti contro l'autorita' delle decisioni giudiziarie».
- - Il testo dell'[art. 390 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
+ - Il capo II del libro II, titolo III del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) reca: «Dei delitti contro l'autorita' delle decisioni giudiziarie».
+ - Il testo dell'[art. 390 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  «Art. 390 (Procurata inosservanza di pena). - Chiunque, fuori dei casi di concorso nel reato, aiuta taluno a sottrarsi all'esecuzione della pena e' punito con la reclusione da tre mesi a cinque anni se si tratta di condannato per delitto, e con la multa da euro 51 a euro 1.032 se si tratta di condannato per contravvenzione.
  Si applicano le disposizioni del terzo capoverso dell'art. 386.».
- - Il titolo VII del libro II del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) reca: «Dei delitti contro la fede pubblica».
- - Il capo I, del titolo VII, del libro II del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) reca: «Della falsita' in monete, in carte di pubblico credito e in valori di bollo».
- - Il testo dell'[art. 453 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
+ - Il titolo VII del libro II del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) reca: «Dei delitti contro la fede pubblica».
+ - Il capo I, del titolo VII, del libro II del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) reca: «Della falsita' in monete, in carte di pubblico credito e in valori di bollo».
+ - Il testo dell'[art. 453 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  «Art. 453 (Falsificazione di monete, spendita e introduzione nello Stato, previo concerto, di monete falsificate). - E' punito con la reclusione da tre a dodici anni e con la multa da euro 516 a euro 3.098:
  1. chiunque contraffa' monete nazionali o straniere, aventi corso legale nello Stato o fuori;
  2. chiunque altera in qualsiasi modo monete genuine, col dare ad esse l'apparenza di un valore superiore;
  3. chiunque, non essendo concorso nella contraffazione o nell'alterazione, ma di concerto con chi l'ha eseguita ovvero con un intermediario, introduce nel territorio dello Stato o detiene o spende o mette altrimenti in circolazione monete contraffatte o alterate;
  4. chiunque, al fine di metterle in circolazione, acquista o comunque riceve, da chi le ha falsificate, ovvero da un intermediario, monete contraffatte o alterate.».
- - Il capo II, del libro II, titolo VII del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) reca: «Della falsita' in sigilli o strumenti o segni di autenticazione, certificazione o riconoscimento».
- - Il titolo VIII del libro II del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) reca: «Dei delitti contro l'economia pubblica, l'industria e il commercio».
- - Il capo I, del titolo VIII, del libro II del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) reca: «Di delitti contro l'economia pubblica».
- - Il testo dell'[art. 499 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
+ - Il capo II, del libro II, titolo VII del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) reca: «Della falsita' in sigilli o strumenti o segni di autenticazione, certificazione o riconoscimento».
+ - Il titolo VIII del libro II del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) reca: «Dei delitti contro l'economia pubblica, l'industria e il commercio».
+ - Il capo I, del titolo VIII, del libro II del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) reca: «Di delitti contro l'economia pubblica».
+ - Il testo dell'[art. 499 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  «Art. 499 (Distruzione di materie prime o di prodotti agricoli o industriali, ovvero di mezzi di produzione). - Chiunque, distruggendo materie prime o prodotti agricoli o industriali ovvero mezzi di produzione, cagiona un grave nocumento alla produzione nazionale o fa venir meno in misura notevole merci di comune o largo consumo, e' punito con la reclusione da tre a dodici anni e con la multa non inferiore a euro 2.065.».
- - Il capo II, del libro II, titolo VIII, del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), reca: «Dei delitti contro l'industria e il commercio.».
- - Il testo dell'[art. 513-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
+ - Il capo II, del libro II, titolo VIII, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), reca: «Dei delitti contro l'industria e il commercio.».
+ - Il testo dell'[art. 513-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  «Art. 513-bis (Illecita concorrenza con minaccia o violenza). - Chiunque nell'esercizio di un'attivita' commerciale, industriale o comunque produttiva, compie atti di concorrenza con violenza o minaccia e' punito con la reclusione da due a sei anni.
  La pena e' aumentata se gli atti di concorrenza riguardano un'attivita' finanziata in tutto o in parte ed in qualsiasi modo dallo Stato o da altri enti pubblici.».
- - Il titolo XI, libro II, del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), reca: «Dei delitti contro la famiglia».
- - Il capo I del titolo XI del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), reca: «Dei delitti contro il matrimonio».
+ - Il titolo XI, libro II, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), reca: «Dei delitti contro la famiglia».
+ - Il capo I del titolo XI del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), reca: «Dei delitti contro il matrimonio».
  - Il [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267) (Disciplina del fallimento, del concordato preventivo, dell'amministrazione controllata e della liquidazione coatta amministrativa) e' pubblicato nella Gazzetta Ufficiale 6 aprile 1942, n. 81.
- - Il [regio decreto 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1998-02-24;58) (Testo unico delle disposizioni in materia di intermediazine finanziaria, ai sensi degli [articoli 8](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) e [21 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md)) e' pubblicato nella Gazzetta Ufficiale 26 marzo 1998, n. 71, supplemento ordinario.
+ - Il [regio decreto 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1998-02-24;58) (Testo unico delle disposizioni in materia di intermediazine finanziaria, ai sensi degli [articoli 8](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) e [21 della legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md)) e' pubblicato nella Gazzetta Ufficiale 26 marzo 1998, n. 71, supplemento ordinario.
 
 ### Art. 10. — (Profili del DNA tipizzati da reperti biologici acquisiti
  nel corso di procedimenti penali)
@@ -506,7 +506,7 @@ Note all'art. 28:
  e) al confronto tra persone che in altro incidente probatorio o al pubblico ministero hanno reso dichiarazioni discordanti, quando ricorre una delle circostanze previste dalle lettere a) e b);
  f) a una perizia o a un esperimento giudiziale, se la prova riguarda una persona, una cosa o un luogo il cui stato e' soggetto a modificazione non evitabile;
  g) a una ricognizione, quando particolari ragioni di urgenza non consentono di rinviare l'atto al dibattimento.
- 1-bis. Nei procedimenti per i delitti di cui agli articoli 572, 609-bis, 609-ter, 609-quater, 609-quinquies, 609-octies, 612-bis, 600, 600-bis, 600-ter, anche se relativo al materiale pornografico di cui all'articolo 600-quater.1, 600-quinquies, 601 e 602 del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) il pubblico ministero, anche su richiesta della persona offesa, o la persona sottoposta alle indagini possono chiedere che si proceda con incidente probatorio all'assunzione della testimonianza di persona minorenne ovvero della persona offesa maggiorenne, anche al di fuori delle ipotesi previste dal comma 1.
+ 1-bis. Nei procedimenti per i delitti di cui agli articoli 572, 609-bis, 609-ter, 609-quater, 609-quinquies, 609-octies, 612-bis, 600, 600-bis, 600-ter, anche se relativo al materiale pornografico di cui all'articolo 600-quater.1, 600-quinquies, 601 e 602 del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) il pubblico ministero, anche su richiesta della persona offesa, o la persona sottoposta alle indagini possono chiedere che si proceda con incidente probatorio all'assunzione della testimonianza di persona minorenne ovvero della persona offesa maggiorenne, anche al di fuori delle ipotesi previste dal comma 1.
  2. Il pubblico ministero e la persona sottoposta alle indagini possono altresi' chiedere una perizia che, se fosse disposta nel dibattimento, ne potrebbe determinare una sospensione superiore a sessanta giorni ovvero che comporti l'esecuzione di accertamenti o prelievi su persona vivente previste dall'art. 224-bis.».
 
 ### Art. 29. — (Introduzione degli articoli 72-bis, 72-ter e 72-quater

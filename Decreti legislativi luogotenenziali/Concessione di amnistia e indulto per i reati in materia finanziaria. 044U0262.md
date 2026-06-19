@@ -64,9 +64,9 @@ E' concessa amnistia per le violazioni punite ai termini degli articoli seguenti
 
 E' concessa amnistia per le violazioni previste dalle seguenti leggi e di quelle modificative ed integrative: 
  
- a) [R. decreto 30 dicembre 1923, n. 3277](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sulle%20carte%20da%20giuoco.%20023U3277.md), concernente tasse sulle carte da giuoco, limitatamente alle infrazioni punibili ai termini degli articoli 21 e 22; 
+ a) [R. decreto 30 dicembre 1923, n. 3277](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sulle%20carte%20da%20giuoco.%20023U3277.md), concernente tasse sulle carte da giuoco, limitatamente alle infrazioni punibili ai termini degli articoli 21 e 22; 
  
- b) [R. decreto 30 dicembre 1923, n. 3275](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20di%20bollo%20sul%20trasporti.%20023U3275.md), sulla tassa di bollo sui documenti di trasporto; 
+ b) [R. decreto 30 dicembre 1923, n. 3275](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20di%20bollo%20sul%20trasporti.%20023U3275.md), sulla tassa di bollo sui documenti di trasporto; 
  
  c) [R. decreto-legge 26 settembre 1935, n. 1781](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20integrative%20del%20R.%20decreto-legge%2026%20luglio%201935%20n.%201412%20concernente%20lobbligatorieta%20dellinvestimento%20in%20titoli%20dello%20Stato%20dei%20depositi%20a%20garanzia%20dei%20contratti%20daffitto%20dei%20fabbricati.%20035U1781.md), relativo alla presentazione annuale dei contratti di locazione dei fabbricati, convertito nella [legge 30 dicembre 1935, n. 2247](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2026%20settembre%201935-XIII%20n.%201781%20concernente%20norme%20integrative%20del%20R.%20decreto-legge%2026%20luglio%201935-XIII%20n.%201412%20riguardante%20depos_f2e51979c06b.md); 
  

@@ -58,7 +58,7 @@ Sono convertiti in legge i sottoindicati decreti-legge:
  
  29 ottobre 1920, n. 1623. - Modifica quello 2 ottobre 1919, n. 1790, relativo alla istituzione del Corpo della Regia guardia per la pubblica sicurezza. 
  
- 13 marzo 1921, n. 261. - Provvedimenti a favore del Corpo degli agenti di investigazione istituito col [R. decreto 14 agosto 1919, n. 1442](../Regi%20decreti/Che%20stabilisce%20lordinamento%20del%20personale%20di%20pubblica%20sicurezza%20e%20la%20istituzione%20di%20un%20corpo%20di%20agenti%20di%20investigazione.%20019U1442.md). 
+ 13 marzo 1921, n. 261. - Provvedimenti a favore del Corpo degli agenti di investigazione istituito col [R. decreto 14 agosto 1919, n. 1442](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20stabilisce%20lordinamento%20del%20personale%20di%20pubblica%20sicurezza%20e%20la%20istituzione%20di%20un%20corpo%20di%20agenti%20di%20investigazione.%20019U1442.md). 
  
  28 ottobre 1921, n. 1799. - Composizione dei Tribunali militari nei giudizi a carico di appartenenti al Corpo della Regia guardia per la pubblica sicurezza. 
  
@@ -75,7 +75,7 @@ Sono convertiti in legge i sottoindicati decreti-legge:
  
  28 agosto 1924, n. 1355. - Conferma del dottor Mario Lago nella carica di Governatore di Rodi e delle altre Isole enumerate nell'articolo 15 del trattato di pace di Losanna. 
  
- 24 ottobre 1924, n. 1847. - Modificazione al [R. decreto 15 luglio 1923, n. 1659](../Regi%20decreti/Riordinamento%20delle%20scuole%20medie%20allestero.%20023U1659.md), concernente il riordinamento delle scuole medie all'estero. 
+ 24 ottobre 1924, n. 1847. - Modificazione al [R. decreto 15 luglio 1923, n. 1659](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20delle%20scuole%20medie%20allestero.%20023U1659.md), concernente il riordinamento delle scuole medie all'estero. 
  
  MINISTERO DELLE COLONIE. 
  

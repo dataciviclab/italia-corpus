@@ -194,7 +194,7 @@ Note all'art. 2:
  16. A decorrere dall'anno 2012, il Ministro della giustizia presenta alle Camere, entro il mese di giugno, una relazione sullo stato delle spese di giustizia, che comprende anche un monitoraggio delle spese relative al semestre precedente. 
  17. Se dalla relazione emerge che siano in procinto di verificarsi scostamenti rispetto alle risorse stanziate annualmente dalla legge di bilancio per le spese di giustizia, con decreto del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, e' disposto l'incremento del contributo unificato di cui al [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md), in misura tale da garantire l'integrale copertura delle spese dell'anno di riferimento e in misura comunque non superiore al cinquanta per cento. 
  18. Al fine di ridurre la spese di giustizia sono apportate le seguenti modificazioni: 
- a) all'[art. 36 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono apportate le seguenti modificazioni: 
+ a) all'[art. 36 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono apportate le seguenti modificazioni: 
  1) al secondo comma le parole: «, per una sola volta, in uno o piu' giornali designati dal giudice e» sono soppresse; 
  2) al quarto comma le parole: «, salva la pubblicazione nei giornali, che e' fatta unicamente mediante indicazione degli estremi della sentenza e dell'indirizzo internet del sito del Ministero della giustizia» sono soppresse; 
  b) all'[art. 729, primo comma, del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_729-com1), le parole: «e in due giornali indicati nella sentenza stessa» sono sostituite dalle seguenti: «e pubblicata nel sito internet del Ministero della giustizia». 
@@ -482,7 +482,11 @@ Capo III
 
 1.
 
-Il presidente del tribunale coordina l'ufficio del giudice di pace che ha sede nel circondario e, in particolare, distribuisce il lavoro, mediante il ricorso a procedure automatiche, tra i giudici, vigila sulla loro attivita' e sorveglia l'andamento dei servizi di cancelleria ed ausiliari. Esercita ogni altra funzione di direzione che la legge attribuisce al dirigente dell'ufficio giudiziario.
+Il presidente del tribunale coordina l'ufficio del giudice di pace che ha sede nel circondario e, in particolare, distribuisce il lavoro, mediante il ricorso a procedure automatiche, tra i giudici, ((vigila sulla loro attivita', sorveglia l'andamento dei servizi di cancelleria ed ausiliari e adotta i provvedimenti necessari per assicurare il regolare funzionamento dell'ufficio)). Esercita ogni altra funzione di direzione che la legge attribuisce al dirigente dell'ufficio giudiziario.
+
+1-bis.
+
+((Il presidente del tribunale, sentito il dirigente amministrativo, adotta i provvedimenti di applicazione temporanea del personale amministrativo tra l'ufficio del tribunale e l'ufficio del giudice di pace avente sede nel medesimo circondario al fine di assicurarne il buon andamento e la funzionalita' e di garantire l'equilibrata distribuzione delle risorse umane nel rispetto delle dotazioni organiche.))
 
 2.
 
@@ -490,7 +494,7 @@ La proposta di organizzazione e' disposta con il procedimento di cui all'articol
 
 3.
 
-Nello svolgimento dei compiti di cui al comma 1, il presidente del tribunale puo' avvalersi dell'ausilio di uno o piu' giudici professionali ((e, in aggiunta, di uno o piu' giudici onorari di pace)).
+Nello svolgimento dei compiti di cui al comma 1, il presidente del tribunale puo' avvalersi dell'ausilio di uno o piu' giudici professionali e, in aggiunta, di uno o piu' giudici onorari di pace.
 
 4.
 
@@ -698,14 +702,14 @@ Note all'[art. 11:
  «Art. 550 (Casi di citazione diretta a giudizio). - 1.
  Il pubblico ministero esercita l'azione penale con la citazione diretta a giudizio quando si tratta di contravvenzioni ovvero di delitti puniti con la pena della reclusione non superiore nel massimo a quattro anni o con la multa, sola o congiunta alla predetta pena detentiva. Si applicano, in quanto compatibili, le disposizioni di cui all'art. 415-bis. Per la determinazione della pena si osservano le disposizioni dell'art. 4. 
  2. La disposizione del comma 1 si applica anche quando si procede per uno dei seguenti reati: 
- a) violenza o minaccia a un pubblico ufficiale prevista dall'[art. 336 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
- b) resistenza a un pubblico ufficiale prevista dall'[art. 337 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
- c) oltraggio a un magistrato in udienza aggravato a norma dell'[art. 343, secondo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
- d) violazione di sigilli aggravata a norma dell'[art. 349, secondo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
- e) rissa aggravata a norma dell'[art. 588, secondo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), con esclusione delle ipotesi in cui nella rissa taluno sia rimasto ucciso o abbia riportato lesioni gravi o gravissime; 
- e-bis) lesioni personali stradali, anche se aggravate, a norma dell'[art. 590-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
- f) furto aggravato a norma dell'[art. 625 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
- g) ricettazione prevista dall'[art. 648 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ a) violenza o minaccia a un pubblico ufficiale prevista dall'[art. 336 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ b) resistenza a un pubblico ufficiale prevista dall'[art. 337 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ c) oltraggio a un magistrato in udienza aggravato a norma dell'[art. 343, secondo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ d) violazione di sigilli aggravata a norma dell'[art. 349, secondo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ e) rissa aggravata a norma dell'[art. 588, secondo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), con esclusione delle ipotesi in cui nella rissa taluno sia rimasto ucciso o abbia riportato lesioni gravi o gravissime; 
+ e-bis) lesioni personali stradali, anche se aggravate, a norma dell'[art. 590-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ f) furto aggravato a norma dell'[art. 625 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ g) ricettazione prevista dall'[art. 648 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  3. Se il pubblico ministero ha esercitato l'azione penale con citazione diretta per un reato per il quale e' prevista l'udienza preliminare e la relativa eccezione e' proposta entro il termine indicato dall'art. 491, comma 1, il giudice dispone con ordinanza la trasmissione degli atti al pubblico ministero.». 
  «Art. 558 (Convalida dell'arresto e giudizio direttissimo). - 1. Gli ufficiali o gli agenti di polizia giudiziaria che hanno eseguito l'arresto in flagranza o che hanno avuto in consegna l'arrestato lo conducono direttamente davanti al giudice del dibattimento per la convalida dell'arresto e il contestuale giudizio, sulla base della imputazione formulata dal pubblico ministero. In tal caso citano anche oralmente la persona offesa e i testimoni e avvisano il difensore di fiducia o, in mancanza, quello designato di ufficio a norma dell'art. 97, comma 3. 
  2. Quando il giudice non tiene udienza, gli ufficiali o gli agenti di polizia giudiziaria che hanno eseguito l'arresto o che hanno avuto in consegna l'arrestato gliene danno immediata notizia e presentano l'arrestato all'udienza che il giudice fissa entro quarantotto ore dall'arresto. Non si applica la disposizione prevista dall'art. 386, comma 4. 
@@ -811,7 +815,7 @@ Nei casi indicati nel comma 1, la delega e' conferita in relazione ad una determ
 
 3.
 
-Nei procedimenti nei quali il tribunale giudica in composizione monocratica, ad esclusione di quelli relativi ai delitti di cui agli [articoli 589](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [590 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro nonche' di cui all'[articolo 590-sexies del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il vice procuratore onorario puo' svolgere, per delega del procuratore della Repubblica e secondo le direttive stabilite in via generale dal magistrato professionale che ne coordina le attivita', le funzioni di pubblico ministero:
+Nei procedimenti nei quali il tribunale giudica in composizione monocratica, ad esclusione di quelli relativi ai delitti di cui agli [articoli 589](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [590 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro nonche' di cui all'[articolo 590-sexies del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), il vice procuratore onorario puo' svolgere, per delega del procuratore della Repubblica e secondo le direttive stabilite in via generale dal magistrato professionale che ne coordina le attivita', le funzioni di pubblico ministero:
                             a)
                                 nell'udienza dibattimentale;
                             b)
@@ -866,7 +870,7 @@ Note all'art. 17:
  «Art. 655 (Funzioni del pubblico ministero). - 1. (Omissis). 
  2. Il pubblico ministero propone le sue richieste al giudice competente e interviene in tutti i procedimenti di esecuzione. 
  (Omissis).». 
- - Si riporta il testo degli [articoli 589](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [590](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [590-sexies del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
+ - Si riporta il testo degli [articoli 589](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [590](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [590-sexies del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
  «Art. 589 (Omicidio colposo). - Chiunque cagiona per colpa la morte di una persona e' punito con la reclusione da sei mesi a cinque anni. 
  Se il fatto e' commesso con violazione delle norme per la prevenzione degli infortuni sul lavoro la pena e' della reclusione da due a sette anni. 
  Nel caso di morte di piu' persone, ovvero di morte di una o piu' persone e di lesioni di una o piu' persone, si applica la pena che dovrebbe infliggersi per la piu' grave delle violazioni commesse aumentata fino al triplo, ma la pena non puo' superare gli anni quindici. 
@@ -1832,11 +1836,11 @@ Dell'organico dei giudici onorari di pace e dei vice procuratori onorari, determ
 
 3.
 
-Le disposizioni dell'articolo 27 entrano in vigore il ((31 ottobre 2026)).
+Le disposizioni dell'articolo 27 entrano in vigore il ((31 ottobre 2027)).
 
 4.
 
-((COMMA ABROGATO DAL D.L. 8 AGOSTO 2025, N. 117, CONVERTITO CON MODIFICAZIONI DALLA L. 3 OTTOBRE 2025, N. 148)).
+COMMA ABROGATO DAL [D.L. 8 AGOSTO 2025, N. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-08-08;117), CONVERTITO CON MODIFICAZIONI DALLA [L. 3 OTTOBRE 2025, N. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%202025%20n.%20117%20recante%20misure%20urgenti%20in%20materia%20di%20giustizia.%2025G00155.md).
 
 5.
 

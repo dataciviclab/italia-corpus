@@ -16,7 +16,7 @@ Vista la [legge 14 ottobre 1985, n. 623](../DL%20e%20leggi%20di%20conversione/Ra
 
 Visto il [decreto legislativo 26 marzo 2001, n. 146](Attuazione%20della%20direttiva%2098-58-CE%20relativa%20alla%20protezione%20degli%20animali%20negli%20allevamenti.md), recante attuazione della [direttiva 98/58/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;58) sulla protezione degli animali negli allevamenti, e successive modifiche;
 
-Vista la [legge 7 luglio 2009, n. 88](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), legge comunitaria 2008, ed in particolare l'allegato B;
+Vista la [legge 7 luglio 2009, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), legge comunitaria 2008, ed in particolare l'allegato B;
 
 Vista la [direttiva 2007/43/CE del Consiglio, del 28 giugno 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2007;43), che stabilisce norme minime per la protezione dei polli allevati per la produzione di carne;
 
@@ -76,7 +76,7 @@ NOTE
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
  - La [legge 14 ottobre 1985, n. 623](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20sulla%20protezione%20degli%20animali%20negli%20allevamenti%20e%20sulla%20protezione%20degli%20animali%20da%20macello%20adottate%20a%20Strasburgo%20rispettivamente%20il%2010%20marzo%20197_266dde09f045.md), e' pubblicata nella Gazzetta Ufficiale 12 novembre 1985, n. 266, S.O. 
  - Il [decreto legislativo 26 marzo 2001, n. 146](Attuazione%20della%20direttiva%2098-58-CE%20relativa%20alla%20protezione%20degli%20animali%20negli%20allevamenti.md), e' pubblicato nella Gazzetta Ufficiale 24 aprile 2001, n. 95. 
- - L'allegato B, della [legge 7 luglio 2009, n. 88](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), pubblicata nella Gazzetta Ufficiale 14 luglio 2009, n. 161, S.O., cosi' recita: 
+ - L'allegato B, della [legge 7 luglio 2009, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), pubblicata nella Gazzetta Ufficiale 14 luglio 2009, n. 161, S.O., cosi' recita: 
  «Allegato B 
  (Art. 1, commi 1 e 3) 
  2005/47/CE del Consiglio, del 18 luglio 2005, concernente l'accordo tra la Comunita' delle ferrovie europee (CER) e la Federazione europea dei lavoratori dei trasporti (ETF) su taluni aspetti delle condizioni di lavoro dei lavoratori mobili che effettuano servizi di interoperabilita' transfrontaliera nel settore ferroviario; 

@@ -18,7 +18,7 @@ Vista la [legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Dis
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), e successive modificazioni, recante nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi;
 
-Vista la [legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1994;
+Vista la [legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1994;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 ottobre 2006;
 
@@ -583,7 +583,7 @@ Ai fini di cui al comma 1, le funzioni di autorita' di vigilanza del mercato son
 
 1.
 
-Alle procedure relative all'attivita' di notifica degli organismi di cui all'articolo 9 ed a quelle di vigilanza sugli organismi stessi si applicano le disposizioni dell'[articolo 47 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1994.
+Alle procedure relative all'attivita' di notifica degli organismi di cui all'articolo 9 ed a quelle di vigilanza sugli organismi stessi si applicano le disposizioni dell'[articolo 47 della legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1994.
 
 ((2. Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'economia e delle finanze sono individuate le tariffe per le attivita' di valutazione della conformita', di cui all'articolo 9, comma 1, ad esclusione di quelle relative alle attivita' svolte dall'organismo unico nazionale di accreditamento, e le relative modalita' di versamento delle medesime tariffe. Tali tariffe sono aggiornate almeno ogni due anni))
 

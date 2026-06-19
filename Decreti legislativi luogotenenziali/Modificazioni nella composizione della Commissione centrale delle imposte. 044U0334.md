@@ -18,15 +18,15 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [testo unico 24 agosto 1877, n. 4021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1877-08-24;4021), serie II, sulla imposta di ricchezza mobile e il [regolamento 11 luglio 1907, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1907-07-11;560);
 
-Visto il [R. decreto 31 dicembre 1923; n. 2870](../Regi%20decreti/Riordinamento%20della%20Commissione%20centrale%20delle%20imposte%20dirette.%20023U2870.md);
+Visto il [R. decreto 31 dicembre 1923; n. 2870](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20della%20Commissione%20centrale%20delle%20imposte%20dirette.%20023U2870.md);
 
 Vista la [legge 15 dicembre 1927, n. 2319](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20settembre%201926%20n.%201672%20concernente%20il%20riordinamento%20della%20Commissione%20centrale%20delle%20imposte%20dirette.%20027U2319.md), che converte in legge il [R. decreto-legge 16 settembre 1926, n. 1672](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20della%20Commissione%20centrale%20delle%20imposte%20dirette.%20026U1672.md);
 
 Visto il [R. decreto-legge 7 agosto 1936, n. 1639](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), convertito nella [legge 7 giugno 1937, n. 1016](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%207%20agosto%201936-XIV%20n.%201639%20concernente%20riforma%20degli%20ordinamenti%20tributari.%20037U1016.md);
 
-Vieto il [R. decreto 8 luglio 1937, n. 1516](../Regi%20decreti/Norme%20relative%20alla%20costituzione%20ed%20al%20funzionamento%20delle%20Commissioni%20amministrative%20per%20le%20imposte%20dirette%20e%20per%20le%20imposte%20indirette%20sugli%20affari.%20037U1516.md);
+Vieto il [R. decreto 8 luglio 1937, n. 1516](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20relative%20alla%20costituzione%20ed%20al%20funzionamento%20delle%20Commissioni%20amministrative%20per%20le%20imposte%20dirette%20e%20per%20le%20imposte%20indirette%20sugli%20affari.%20037U1516.md);
 
-Visto il [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
+Visto il [R. decreto 14 settembre 1931, n. 1175](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
 
 Visto l'[art. 2 del R. decreto-legge 26 dicembre 1936, n. 2394](../Atti%20normativi%20abrogati%20%28in%20originale%29/Integrazione%20della%20procedura%20contenziosa%20in%20materia%20di%20tributi%20locali.%20036U2394.md), convertito nella [legge 7 giugno 1937, n. 1122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2026%20dicembre%201936-XV%20n.%202394%20concernente%20la%20integrazione%20della%20procedura%20contenziosa%20in%20materia%20di%20tributi%20locali.%20037U1122.md), riguardante la sezione speciale per la risoluzione ricorsi in materia di tributi locali;
 
@@ -68,7 +68,7 @@ All'[art. 1 della legge 20 novembre 1939, n. 1911](../Atti%20normativi%20abrogat
  
  Il Ministro per le finanze, di propria iniziativa o su proposta del presidente della Commissione, puo' disporre, quando ne riconosca la necessita', la costituzione di altre sezioni. 
  
- Ciascuna sezione e' composta di un vice presidente e di quattro membri e alla stessa sezione non possono appartenere, se non temporaneamente ai sensi dell'[articolo 15 del R. decreto 8 luglio 1937, n. 1516](../Regi%20decreti/Norme%20relative%20alla%20costituzione%20ed%20al%20funzionamento%20delle%20Commissioni%20amministrative%20per%20le%20imposte%20dirette%20e%20per%20le%20imposte%20indirette%20sugli%20affari.%20037U1516.md), piu' membri della stessa categoria. 
+ Ciascuna sezione e' composta di un vice presidente e di quattro membri e alla stessa sezione non possono appartenere, se non temporaneamente ai sensi dell'[articolo 15 del R. decreto 8 luglio 1937, n. 1516](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20relative%20alla%20costituzione%20ed%20al%20funzionamento%20delle%20Commissioni%20amministrative%20per%20le%20imposte%20dirette%20e%20per%20le%20imposte%20indirette%20sugli%20affari.%20037U1516.md), piu' membri della stessa categoria. 
  
  La Commissione centrale viene convocata a sezioni unite, per l'esame delle controversie per le quali le Commissioni provinciali, pronunciando in sede di rinvio, non siansi uniformate al principio di diritti affermato dalla Commissione centrale, nonche' per l'esame delle controversie che i presidenti delle sezioni ritengono necessario deferire al giudizio delle sezioni unite. 
  

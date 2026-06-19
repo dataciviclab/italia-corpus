@@ -203,7 +203,7 @@ La definizione delle tabelle di armamenti di sicurezza delle unita' di cui all'a
 
 Ai fini della verifica dell'idoneita' al lavoro, il lavoratore marittimo e' sottoposto alle seguenti visite presso le strutture sanitarie del Ministero della salute:
                         a)
-                            visita preventiva di imbarco, ai sensi di quanto previsto dall'[articolo 323 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+                            visita preventiva di imbarco, ai sensi di quanto previsto dall'[articolo 323 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
                         b)
                             visita periodica di idoneita', con frequenza biennale, ai sensi della [legge 28 ottobre 1962, n. 1602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-10-28;1602).
 
@@ -219,8 +219,8 @@ Contro le risultanze delle visite effettuate dalla Commissione medica permanente
 
 Il personale marittimo addetto ai turni di guardia che abbia problemi di salute aventi nesso riconosciuto con lo svolgimento del lavoro notturno, e' assegnato al corrispondente lavoro diurno per cui e' idoneo secondo quanto previsto dall'[articolo 15 del decreto legislativo 8 aprile 2003, n. 66](Attuazione%20delle%20direttive%2093-104-CE%20e%202000-34-CE%20concernenti%20taluni%20aspetti%20dellorganizzazione%20dellorario%20di%20lavoro.md).
 
-Note all'[art. 7](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
- - L'[art. 323 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' recita:
+Note all'[art. 7](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
+ - L'[art. 323 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' recita:
  «Art. 323 (Visita medica). - L'arruolamento degli iscritti nelle matricole della gente di mare, destinati a far parte dell'equipaggio, deve, nei casi e con le modalita' prescritte da leggi e regolamenti(2), essere preceduto da visita medica diretta ad accertare l'idoneita' della persona da arruolare in rapporto al servizio cui deve essere adibita.».
  - L'[art. 15 del decreto legislativo 8 aprile 2003, n. 66](Attuazione%20delle%20direttive%2093-104-CE%20e%202000-34-CE%20concernenti%20taluni%20aspetti%20dellorganizzazione%20dellorario%20di%20lavoro.md) (Attuazione della [direttiva 93/104/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;104) e della [direttiva 2000/34/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;34) concernenti taluni aspetti dell'organizzazione dell'orario di lavoro), cosi' recita:
  «Art. 15 (Trasferimento al lavoro diurno). - 1. Qualora sopraggiungano condizioni di salute che comportino l'inidoneita' alla prestazione di lavoro notturno, accertata dal medico competente o dalle strutture sanitarie pubbliche, il lavoratore verra' assegnato al lavoro diurno, in altre mansioni equivalenti, se esistenti e disponibili.
@@ -244,7 +244,7 @@ L'armatore della nave e' punito:
                         a)
                             con la sanzione amministrativa pecuniaria da 500 euro a 3000 euro per la violazione dell'articolo 4, commi 1, 3 e 5;
                         b)
-                            con la sanzione amministrativa pecuniaria di cui all'[articolo 1221, primo comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) per la violazione delle disposizioni di cui all'articolo 5, comma 1.
+                            con la sanzione amministrativa pecuniaria di cui all'[articolo 1221, primo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) per la violazione delle disposizioni di cui all'articolo 5, comma 1.
 
 2.
 
@@ -252,26 +252,26 @@ Il comandante della nave e' punito con l'arresto da due a quattro mesi o con l'a
 
 3.
 
-L'armatore o il comandante della nave, per la violazione delle disposizioni di cui all'articolo 1, comma 3, sono puniti con la sanzione amministrativa di cui all'[articolo 1178, primo comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), salvo che il fatto non costituisca reato.
+L'armatore o il comandante della nave, per la violazione delle disposizioni di cui all'articolo 1, comma 3, sono puniti con la sanzione amministrativa di cui all'[articolo 1178, primo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), salvo che il fatto non costituisca reato.
 
 4.
 
-L'armatore o il comandante della nave, per la violazione delle disposizioni di cui all'articolo 7, comma 1, sono puniti con la sanzione amministrativa di cui all'[articolo 1178, primo comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+L'armatore o il comandante della nave, per la violazione delle disposizioni di cui all'articolo 7, comma 1, sono puniti con la sanzione amministrativa di cui all'[articolo 1178, primo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 5.
 
 Qualora l'autorita' marittima, a seguito della verifica del registro di cui all'articolo 4 effettuata dagli organi di vigilanza, riscontri che a bordo della nave vi siano violazioni delle disposizioni relative all'orario di lavoro o ai periodi di riposo contenute nel presente decreto che comportino rischi per la sicurezza della nave e per la salute e sicurezza del lavoratore, provvede:
                         a)
-                            ai sensi dell'[articolo 181 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), non concedendo il rilascio delle spedizioni;
+                            ai sensi dell'[articolo 181 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), non concedendo il rilascio delle spedizioni;
                         b)
                             obbligando l'armatore alla revisione della tabella di armamento.
 
-Note all'[art. 9](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
- - L'[art. 1221, primo comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' recita:
+Note all'[art. 9](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
+ - L'[art. 1221, primo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' recita:
  «Art. 1221 (Inosservanza di norme sulla composizione e forza minima dell'equipaggio). - L'armatore o il comandante della nave, che non osserva le norme del regolamento e le disposizioni dell'autorita' competente sulla composizione e forza minima dell'equipaggio e' punito con l'ammenda da lire sessantamila a seicentomila.».
- - L'[art. 1178, primo comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' recita:
+ - L'[art. 1178, primo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' recita:
  «Art. 1178 (Irregolare assunzione di personale e omessa annotazione sul ruolo di equipaggio). - L'armatore o il comandante della nave o del galleggiante marittimi, che ammette a far parte dell'equipaggio una persona non appartenente alla gente di mare, ovvero arruola una persona senza regolare contratto o senza la preventiva visita medica, ovvero imbarca o sbarca un componente dell'equipaggio senza far eseguire la relativa annotazione sul ruolo di equipaggio o sulla licenza, e' punito con la sanzione amministrativa del pagamento di una somma da lire trecentomila a lire tre milioni.».
- - L'[art. 181, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' recita:
+ - L'[art. 181, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' recita:
  «Art. 181 (Rilascio delle spedizioni). - La nave non puo' partire se non ha ricevuto le spedizioni da parte del comandante del porto o dell'autorita' consolare.
  Il rilascio delle spedizioni si effettua mediante apposizione del visto - con indicazione dell'ora e della data - sulla dichiarazione integrativa di partenza che viene consegnata in copia, o trasmessa con mezzi elettronici, al comandante della nave, il quale e' tenuto a conservarla tra i documenti di bordo fino al successivo approdo.
  Le spedizioni non possono essere rilasciate qualora risulti che l'armatore o il comandante della nave non ha adempiuto agli obblighi imposti dalle norme di polizia, da quelle per la sicurezza della navigazione, nonche' agli obblighi relativi alle visite ed alle prescrizioni impartite dalle competenti autorita'. Del pari le spedizioni non possono essere rilasciate qualora risulti che l'armatore o il comandante della nave non ha compiuto gli adempimenti sanitari, fiscali e doganali ovvero non ha provveduto al pagamento dei diritti portuali o consolari, al versamento delle cauzioni eventualmente richieste a norma delle vigenti disposizioni di legge o regolamentari, nonche' in tutti gli altri casi previsti da disposizioni di legge.».

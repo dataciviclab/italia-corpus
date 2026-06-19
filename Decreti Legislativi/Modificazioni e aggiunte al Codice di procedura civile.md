@@ -20,7 +20,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Fino alla revisione generale del [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443), approvato con [regio decreto 28 ottobre 1940, n. 1443](../Regi%20decreti/Codice%20di%20procedura%20civile.%20040U1443.md) e coordinato col [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) con [regio decreto 20 aprile 1942, n. 504](../Regi%20decreti/Norme%20per%20il%20coordinamento%20del%20Codice%20di%20procedura%20civile%20con%20il%20Codice%20civile.%20042U0504.md), sono ad esso apportate le modificazioni e le aggiunte risultanti dagli articoli seguenti.
+Fino alla revisione generale del [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443), approvato con [regio decreto 28 ottobre 1940, n. 1443](../Codici/Codice%20di%20procedura%20civile.%20040U1443.md) e coordinato col [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) con [regio decreto 20 aprile 1942, n. 504](../Regi%20decreti/Norme%20per%20il%20coordinamento%20del%20Codice%20di%20procedura%20civile%20con%20il%20Codice%20civile.%20042U0504.md), sono ad esso apportate le modificazioni e le aggiunte risultanti dagli articoli seguenti.
 
 ## Art. 2. — (Termine per la proposizione del regolamento di competenza)
 
@@ -268,7 +268,7 @@ Dopo l'[art. 742 del codice di procedura civile](https://www.normattiva.it/uri-r
 
 ## Art. 37. — (Abrogazione di norme incompatibili)
 
-Oltre i casi di abrogazione espressamente dichiarata negli articoli precedenti sono abrogate altresi' le disposizioni del [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443) approvato con [regio decreto 28 ottobre 1940, n. 1443](../Regi%20decreti/Codice%20di%20procedura%20civile.%20040U1443.md) e delle relative norme di attuazione approvate con [regio decreto 18 dicembre 1941, n. 1368](../Codici/Disposizioni%20per%20lattuazione%20del%20Codice%20di%20procedura%20civile%20e%20disposizioni%20transitorie.%20041U1368.md), che siano incompatibili con quelle del presente decreto legislativo.
+Oltre i casi di abrogazione espressamente dichiarata negli articoli precedenti sono abrogate altresi' le disposizioni del [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443) approvato con [regio decreto 28 ottobre 1940, n. 1443](../Codici/Codice%20di%20procedura%20civile.%20040U1443.md) e delle relative norme di attuazione approvate con [regio decreto 18 dicembre 1941, n. 1368](../Codici/Disposizioni%20per%20lattuazione%20del%20Codice%20di%20procedura%20civile%20e%20disposizioni%20transitorie.%20041U1368.md), che siano incompatibili con quelle del presente decreto legislativo.
 
 ## Art. 38. — (Data di attuazione e delega al Governo per le norme complementari)
 

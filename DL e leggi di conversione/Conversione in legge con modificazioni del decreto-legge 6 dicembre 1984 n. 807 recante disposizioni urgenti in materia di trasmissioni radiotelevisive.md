@@ -33,7 +33,7 @@ Il [decreto-legge 6 dicembre 1984, n. 807](https://www.normattiva.it/uri-res/N2L
  al comma 1, le parole: "entro sessanta giorni" sono sostituite dalle seguenti: "entro novanta giorni" e dopo la lettera g), e' aggiunta la seguente:
  "g-bis) le ore di trasmissione dei programmi e loro variazioni";
  e' aggiunto, in fine, il seguente comma:
- "3-bis. La presentazione, nei termini, della comunicazione di cui al comma 1 rende non punibili le violazioni amministrative e penali, di cui all'articolo 195 del codice postale approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), commesse anteriormente alla data di entrata in vigore del presente decreto".
+ "3-bis. La presentazione, nei termini, della comunicazione di cui al comma 1 rende non punibili le violazioni amministrative e penali, di cui all'articolo 195 del codice postale approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), commesse anteriormente alla data di entrata in vigore del presente decreto".
  All'articolo 5:
  i commi 1 e 2 sono sostituiti dai seguenti:
  "1. Il presidente del consiglio di amministrazione della societa' concessionaria e' nominato dal consiglio tra i suoi componenti ed ha la stessa durata.

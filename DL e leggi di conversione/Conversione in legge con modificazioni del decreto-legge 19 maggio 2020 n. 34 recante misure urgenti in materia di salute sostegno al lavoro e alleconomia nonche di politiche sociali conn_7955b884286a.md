@@ -22,7 +22,7 @@ Il [decreto-legge 19 maggio 2020, n. 34](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-Il [decreto-legge 16 giugno 2020, n. 52](../DL%20proroghe/Ulteriori%20misure%20urgenti%20in%20materia%20di%20trattamento%20di%20integrazione%20salariale%20nonche%20proroga%20di%20termini%20in%20materia%20di%20reddito%20di%20emergenza%20e%20di%20emersione%20di%20rapporti%20di%20lavoro.%2020G00078.md), e' abrogato. Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del medesimo [decreto-legge 16 giugno 2020, n. 52](../DL%20proroghe/Ulteriori%20misure%20urgenti%20in%20materia%20di%20trattamento%20di%20integrazione%20salariale%20nonche%20proroga%20di%20termini%20in%20materia%20di%20reddito%20di%20emergenza%20e%20di%20emersione%20di%20rapporti%20di%20lavoro.%2020G00078.md).
+Il [decreto-legge 16 giugno 2020, n. 52](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ulteriori%20misure%20urgenti%20in%20materia%20di%20trattamento%20di%20integrazione%20salariale%20nonche%20proroga%20di%20termini%20in%20materia%20di%20reddito%20di%20emergenza%20e%20di%20emersione%20di%20rapporti%20di%20lavoro.%2020G00078.md), e' abrogato. Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del medesimo [decreto-legge 16 giugno 2020, n. 52](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ulteriori%20misure%20urgenti%20in%20materia%20di%20trattamento%20di%20integrazione%20salariale%20nonche%20proroga%20di%20termini%20in%20materia%20di%20reddito%20di%20emergenza%20e%20di%20emersione%20di%20rapporti%20di%20lavoro.%2020G00078.md).
 
 3.
 

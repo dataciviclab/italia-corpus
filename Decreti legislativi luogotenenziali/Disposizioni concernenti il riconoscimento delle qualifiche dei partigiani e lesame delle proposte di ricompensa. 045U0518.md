@@ -200,11 +200,11 @@ La [L. 2 ottobre 1948, n. 1247](../Atti%20normativi%20abrogati%20%28in%20origina
 
 ## Art. 14.
 
-Chiunque, avendo avuto un incarico di comando in formazioni partigiane, attesta falsamente in certificati, tesserini od altri documenti che taluno ha preso parte alla lotta di liberazione, e' punito ai sensi dell'[art. 480 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ma la pena e aumentata. 
+Chiunque, avendo avuto un incarico di comando in formazioni partigiane, attesta falsamente in certificati, tesserini od altri documenti che taluno ha preso parte alla lotta di liberazione, e' punito ai sensi dell'[art. 480 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ma la pena e aumentata. 
  
- Chiunque, fuori del caso precedente, attesta comunque falsamente che taluno ha preso parte alla lotta di liberazione, ai fini di fargli riconoscere una delle qualifiche di cui agli articoli 7, 8, 9, 10, e' punito ai sensi dell'[art. 483 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ma la pena e' aumentata. 
+ Chiunque, fuori del caso precedente, attesta comunque falsamente che taluno ha preso parte alla lotta di liberazione, ai fini di fargli riconoscere una delle qualifiche di cui agli articoli 7, 8, 9, 10, e' punito ai sensi dell'[art. 483 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ma la pena e' aumentata. 
  
- Chiunque, senza aver concorso nella falsita', fa uso di documenti attestanti falsamente che egli ha preso parte alla lotta di liberazione e' punito ai sensi dell'[art. 489 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ma la pena e' aumentata. 
+ Chiunque, senza aver concorso nella falsita', fa uso di documenti attestanti falsamente che egli ha preso parte alla lotta di liberazione e' punito ai sensi dell'[art. 489 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ma la pena e' aumentata. 
  
  La pena e' ulteriormente aumentata se i fatti di cui ai comma precedenti sono commessi a fine di lucro. 
  

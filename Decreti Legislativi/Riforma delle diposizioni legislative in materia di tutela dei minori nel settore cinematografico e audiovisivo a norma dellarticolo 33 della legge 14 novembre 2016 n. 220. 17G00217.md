@@ -193,7 +193,7 @@ E' vietato abbinare a opere alla cui proiezione possono assistere i minori opere
 
 1.
 
-Fermo restando quanto previsto dall'[articolo 668 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), in caso di inosservanza degli obblighi previsti dal presente decreto, si applicano le seguenti sanzioni amministrative pecuniarie:
+Fermo restando quanto previsto dall'[articolo 668 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), in caso di inosservanza degli obblighi previsti dal presente decreto, si applicano le seguenti sanzioni amministrative pecuniarie:
                         a)
                             da un minimo di 5.000 euro ad un massimo di 30.000 euro, nel caso di inosservanza di ciascuno degli obblighi di cui all'articolo 4, commi 1 e 2, primo periodo, all'articolo 5, all'articolo 6 e all'articolo 8;
                         b)
@@ -212,7 +212,7 @@ Alle sanzioni amministrative previste dal presente articolo si applicano le disp
 Il provvedimento di applicazione delle sanzioni previste dai commi 1 e 2 e' trasmesso senza ritardo dalla Prefettura alla DG Cinema, che ne cura la pubblicazione per estratto nel proprio sito internet. Nel caso in cui avverso il provvedimento di applicazione della sanzione sia adita l'autorita' giudiziaria, sono menzionati l'avvio dell'azione giudiziaria e l'esito della stessa a margine della pubblicazione. La DG Cinema, tenuto conto della natura della violazione e degli interessi coinvolti, puo' stabilire modalita' ulteriori per dare pubblicita' al provvedimento, ponendo le relative spese a carico dell'autore della violazione.
 
 Note all'art. 9: 
- - Si riporta il testo dell'[articolo 668 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
+ - Si riporta il testo dell'[articolo 668 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
  «Art. 668. (Rappresentazioni teatrali o cinematografiche abusive). - Chiunque recita in pubblico drammi o altre opere, ovvero da' in pubblico produzioni teatrali di qualunque genere, senza averli prima comunicati all'autorita' e' soggetto alla sanzione amministrativa pecuniaria da euro 5.000 a euro 15.000. 
  Alla stessa sanzione soggiace chi fa rappresentare in pubblico pellicole cinematografiche, non sottoposte prima alla revisione dell'autorita'. 
  Se il fatto e' commesso contro il divieto dell'autorita', si applica la sanzione amministrativa pecuniaria da euro 10.000 a euro 30.000. 
@@ -307,7 +307,7 @@ A decorrere dalla medesima data di cui al comma 1:
 
 3.
 
-Al [secondo comma dell'articolo 668 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), la parola: «pellicole» e' sostituita dalla seguente: «opere» e dopo le parole: «dell'autorita'» sono aggiunte le seguenti: «o non sottoposte a classificazione o senza rispettare la classificazione verificata dalla Commissione per la classificazione delle opere cinematografiche».
+Al [secondo comma dell'articolo 668 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), la parola: «pellicole» e' sostituita dalla seguente: «opere» e dopo le parole: «dell'autorita'» sono aggiunte le seguenti: «o non sottoposte a classificazione o senza rispettare la classificazione verificata dalla Commissione per la classificazione delle opere cinematografiche».
 
 Note all'[art. 13](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md): 
  - Per gli [articoli 77](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [78 del regio decreto 18 giugno 1931 n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), recante «Approvazione del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md)», si vedano le note alle premesse. 
@@ -335,7 +335,7 @@ Note all'[art. 13](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%2
  c) [legge 14 novembre 2016, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-11-14;220), recante «Disciplina del cinema e dell'audiovisivo; 
  d) decreto legislativo attuativo della delega di cui all'[articolo 33 della legge 14 novembre 2016, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-11-14;220#art_33), in materia di classificazione delle opere cinematografiche.» 
  - Per la [legge 14 novembre 2016, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-11-14;220), recante «Disciplina del cinema e dell'audiovisivo», si vedano le note alle premesse. 
- - Si riporta il testo dell'[articolo 668 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), pubblicato nella Gazzetta Ufficiale della Repubblica Italiana 26 ottobre 1930, n. 251, Suppl. straord., come modificato dal presente decreto legislativo, a decorrere dalla data di adozione del regolamento di funzionamento della Commissione: 
+ - Si riporta il testo dell'[articolo 668 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), pubblicato nella Gazzetta Ufficiale della Repubblica Italiana 26 ottobre 1930, n. 251, Suppl. straord., come modificato dal presente decreto legislativo, a decorrere dalla data di adozione del regolamento di funzionamento della Commissione: 
  «Art. 668. (Rappresentazioni teatrali o cinematografiche abusive). -Chiunque recita in pubblico drammi o altre opere, ovvero da' in pubblico produzioni teatrali di qualunque genere, senza averli prima comunicati all'autorita' e' soggetto alla sanzione amministrativa pecuniaria da euro 5.000 a euro 15.000. 
  Alla stessa sanzione soggiace chi fa rappresentare in pubblico opere cinematografiche, non sottoposte prima alla revisione dell'autorita' o non sottoposte a classificazione o senza rispettare la classificazione verificata dalla Commissione per la classificazione delle opere cinematografiche. 
  Se il fatto e' commesso contro il divieto dell'autorita', si applica la sanzione amministrativa pecuniaria da euro 10.000 a euro 30.000. 

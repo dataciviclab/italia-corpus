@@ -484,7 +484,7 @@ Ai funzionari della carriera prefettizia incaricati della provvisoria amministra
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 2 gennaio 2018, n. 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20della%20protezione%20civile.%2018G00011.md) ha disposto (con l'art. 47, comma 1, lettera q)) che "Tutti i riferimenti alla [legge 24 febbraio 1992, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;225) e ai relativi articoli, contenuti in altre disposizioni, si intendono riferiti al presente decreto e ai corrispondenti articoli.
+Il [D.Lgs. 2 gennaio 2018, n. 1](../Codici/Codice%20della%20protezione%20civile.%2018G00011.md) ha disposto (con l'art. 47, comma 1, lettera q)) che "Tutti i riferimenti alla [legge 24 febbraio 1992, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;225) e ai relativi articoli, contenuti in altre disposizioni, si intendono riferiti al presente decreto e ai corrispondenti articoli.
 In particolare: 
  [...] 
  q) l'[articolo 5 della legge n. 225 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;225#art_5), citato nell'[articolo 22, comma 2, del decreto legislativo 19 maggio 2000, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20della%20carriera%20prefettizia%20a%20norma%20dellarticolo%2010%20della%20legge%2028%20luglio%201999%20n.%20266.md), deve intendersi riferito agli articoli 25 e 26 del presente decreto".

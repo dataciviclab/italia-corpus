@@ -126,7 +126,7 @@ N O T E
  dd) tutti i dati a diretta conoscenza dell'interessato contenuti nei registri dello stato civile; 
  ee) di non trovarsi in stato di liquidazione o di fallimento e di non aver presentato domanda di concordato. 
  Art. 73 (Assenza di responsabilita' della pubblica amministrazione). - 1. Le pubbliche amministrazioni e i loro dipendenti, salvi i casi di dolo o colpa grave, sono esenti da ogni responsabilita' per gli atti emanati, quando l'emanazione sia conseguenza di false dichiarazioni o di documenti falsi o contenenti dati non piu' rispondenti a verita', prodotti dall'interessato o da terzi. 
- Art. 76 (Norme penali). - 1. Chiunque rilascia dichiarazioni mendaci, forma atti falsi o ne fa uso nei casi previsti dal presente testo unico e' punito ai sensi del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle leggi speciali in materia. 
+ Art. 76 (Norme penali). - 1. Chiunque rilascia dichiarazioni mendaci, forma atti falsi o ne fa uso nei casi previsti dal presente testo unico e' punito ai sensi del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e delle leggi speciali in materia. 
  2. L'esibizione di un atto contenente dati non piu' rispondenti a verita' equivale ad uso di atto falso. 
  3. Le dichiarazioni sostitutive rese ai sensi degli articoli 46 e 47 e le dichiarazioni rese per conto delle persone indicate nell'art. 4, comma 2, sono considerate come fatte a pubblico ufficiale. 
  4. Se i reati indicati nei commi 1, 2 e 3 sono commessi per ottenere la nomina ad un pubblico ufficio o l'autorizzazione all'esercizio di una professione o arte, il giudice, nei casi piu' gravi, puo' applicare l'interdizione temporanea dai pubblici uffici o dalla professione e arte.». 
@@ -952,19 +952,19 @@ Note all'[art. 11:
 
 1.
 
-L'[articolo 348 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente: 
+L'[articolo 348 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente: 
  «Art. 348 (Esercizio abusivo di una professione). - Chiunque abusivamente esercita una professione per la quale e' richiesta una speciale abilitazione dello Stato e' punito con la reclusione da sei mesi a tre anni e con la multa da euro 10.000 a euro 50.000. 
  La condanna comporta la pubblicazione della sentenza e la confisca delle cose che servirono o furono destinate a commettere il reato e, nel caso in cui il soggetto che ha commesso il reato eserciti regolarmente una professione o attivita', la trasmissione della sentenza medesima al competente Ordine, albo o registro ai fini dell'applicazione dell'interdizione da uno a tre anni dalla professione o attivita' regolarmente esercitata. 
  Si applica la pena della reclusione da uno a cinque anni e della multa da euro 15.000 a euro 75.000 nei confronti del professionista che ha determinato altri a commettere il reato di cui al primo comma ovvero ha diretto l'attivita' delle persone che sono concorse nel reato medesimo».
 
 2.
 
-All'[articolo 589 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo il secondo comma e' inserito il seguente: 
+All'[articolo 589 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo il secondo comma e' inserito il seguente: 
  «Se il fatto e' commesso nell'esercizio abusivo di una professione per la quale e' richiesta una speciale abilitazione dello Stato o di un'arte sanitaria, la pena e' della reclusione da tre a dieci anni».
 
 3.
 
-All'[articolo 590 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo il terzo comma e' inserito il seguente: 
+All'[articolo 590 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dopo il terzo comma e' inserito il seguente: 
  «Se i fatti di cui al secondo comma sono commessi nell'esercizio abusivo di una professione per la quale e' richiesta una speciale abilitazione dello Stato o di un'arte sanitaria, la pena per lesioni gravi e' della reclusione da sei mesi a due anni e la pena per lesioni gravissime e' della reclusione da un anno e sei mesi a quattro anni».
 
 4.
@@ -991,16 +991,16 @@ Alle norme di attuazione, di coordinamento e transitorie del [codice di procedur
 Al [comma 2 dell'articolo 1 della legge 14 gennaio 2013, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-01-14;4#art_1-com2), dopo le parole: «delle professioni sanitarie» sono inserite le seguenti: «e relative attivita' tipiche o riservate per legge».
 
 Note all'art. 12: 
- - Si riporta il testo dell'[art. 348 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come sostituito dalla presente legge. 
+ - Si riporta il testo dell'[art. 348 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come sostituito dalla presente legge. 
  «Art. 348 (Esercizio abusivo di una professione). - Chiunque abusivamente esercita una professione per la quale e' richiesta una speciale abilitazione dello Stato e' punito con la reclusione da sei mesi a tre anni e con la multa da euro 10.000 a euro 50.000. 
  La condanna comporta la pubblicazione della sentenza e la confisca delle cose che servirono o furono destinate a commettere il reato e, nel caso in cui il soggetto che ha commesso il reato eserciti regolarmente una professione o attivita', la trasmissione della sentenza medesima al competente ordine, albo o registro ai fini dell'applicazione dell'interdizione da uno a tre anni dalla professione o attivita' regolarmente esercitata. 
  Si applica la pena della reclusione da uno a cinque anni e della multa da euro 15.000 a euro 75.000 nei confronti del professionista che ha determinato altri a commettere il reato di cui al primo comma ovvero ha diretto l'attivita' delle persone che sono concorse nel reato medesimo.». 
- - Si riporta il testo dell'[art. 589 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dalla presente legge: 
+ - Si riporta il testo dell'[art. 589 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come modificato dalla presente legge: 
  « Art. 589 (Omicidio colposo). - Chiunque cagiona per colpa [c.p. 43] la morte di una persona e' punito con la reclusione da sei mesi a cinque anni. 
  Se il fatto e' commesso con violazione delle norme per la prevenzione degli infortuni sul lavoro la pena e' della reclusione da due a sette anni. 
  Se il fatto e' commesso nell'esercizio abusivo di una professione per la quale e' richiesta una speciale abilitazione dello Stato o di un'arte sanitaria, la pena e' della reclusione da tre a dieci anni. 
  Nel caso di morte di piu' persone, ovvero di morte di una o piu' persone e di lesioni di una o piu' persone, si applica la pena che dovrebbe infliggersi per la piu' grave delle violazioni commesse aumentata fino al triplo, ma la pena non puo' superare gli anni quindici.». 
- - Si riporta il testo dell'[art. 590 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) come modificato dalla presente legge: 
+ - Si riporta il testo dell'[art. 590 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) come modificato dalla presente legge: 
  «Art. 590 (Lesioni personali colpose). - Chiunque cagiona ad altri per colpa una lesione personale e' punito con la reclusione fino a tre mesi o con la multa fino a euro 309. 
  Se la lesione e' grave la pena e' della reclusione da uno a sei mesi o della multa da euro 123 a euro 619, se e' gravissima, della reclusione da tre mesi a due anni o della multa da euro 309 a euro 1.239. 
  Se i fatti di cui al secondo comma sono commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro la pena per le lesioni gravi e' della reclusione da tre mesi a un anno o della multa da euro 500 a euro 2.000 e la pena per le lesioni gravissime e' della reclusione da uno a tre anni. 
@@ -1020,7 +1020,7 @@ Note all'art. 12:
  Il prefetto, indipendentemente dal procedimento giudiziario per l'esercizio abusivo di un'arte ausiliaria delle professioni sanitarie, puo' ordinare la chiusura temporanea del locale, nel quale l'arte sia stata abusivamente esercitata e il sequestro del materiale destinato all'esercizio di essa. Il provvedimento del prefetto e' definitivo.». 
  - Si riporta il testo dell'[art. 8 della legge 3 febbraio 1989, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-03;39#art_8), recante «Modifiche ed integrazioni alla [legge 21 marzo 1958, n. 253](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20professione%20di%20mediatore.md), concernente la disciplina della professione di mediatore» come modificato dalla presente legge: 
  «Art. 8. - 1. Chiunque esercita l'attivita' di mediazione senza essere iscritto nel ruolo e' punito con la sanzione amministrativa del pagamento di una somma compresa fra euro 7.500 e euro 15.000 ed e' tenuto alla restituzione alle parti contraenti delle provvigioni percepite. Per l'accertamento dell'infrazione, per la contestazione della medesima e per la riscossione delle somme dovute si applicano le disposizioni di cui alla [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689). 
- 2. A coloro che siano gia' incorsi nella sanzione di cui al comma 1, anche se vi sia stato pagamento con effetto liberatorio, si applicano le pene previste dall'[art. 348 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nonche' l'[art. 2231 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2231). 
+ 2. A coloro che siano gia' incorsi nella sanzione di cui al comma 1, anche se vi sia stato pagamento con effetto liberatorio, si applicano le pene previste dall'[art. 348 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), nonche' l'[art. 2231 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2231). 
  3. La condanna importa la pubblicazione della sentenza nelle forme di legge.». 
  - Si riporta il testo dell'[art. 86-ter del decreto legislativo 28 luglio 1989, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-07-28;217#art_86ter), recante «Norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447)», inserito dalla presente legge: 
  «Art. 86-ter (Destinazione dei beni confiscati in quanto utilizzati per la commissione del reato di esercizio abusivo della professione sanitaria). - 1. Nel caso di condanna o di applicazione della pena su richiesta delle parti a norma dell'art. 444 del codice per l'esercizio abusivo di una professione sanitaria, i beni immobili confiscati sono trasferiti al patrimonio del comune ove l'immobile e' sito, per essere destinati a finalita' sociali e assistenziali». 
@@ -1056,11 +1056,11 @@ Note all'art. 13:
 
 1.
 
-All'[articolo 61 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' aggiunto, in fine, il seguente numero: 
+All'[articolo 61 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' aggiunto, in fine, il seguente numero: 
  «11-sexies) l'avere, nei delitti non colposi, commesso il fatto in danno di persone ricoverate presso strutture sanitarie o presso strutture sociosanitarie residenziali o semiresidenziali, pubbliche o private, ovvero presso strutture socio-educative».
 
 Note all'art. 14: 
- - Si riporta il testo dell'[art. 61 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come integrato dalla presente legge: 
+ - Si riporta il testo dell'[art. 61 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), come integrato dalla presente legge: 
  «Art. 61 (Circostanze aggravanti comuni). - Aggravano il reato quando non ne sono elementi costitutivi o circostanze aggravanti speciali [c.p. 68, 112, 628, 719], le circostanze seguenti: 
  1) l'avere agito per motivi abietti o futili; 
  2) l'aver commesso il reato per eseguirne od occultarne un altro, ovvero per conseguire o assicurare a se' o ad altri il prodotto o il profitto o il prezzo ovvero la impunita' di un altro reato [c.p. 70, n. 1]; 

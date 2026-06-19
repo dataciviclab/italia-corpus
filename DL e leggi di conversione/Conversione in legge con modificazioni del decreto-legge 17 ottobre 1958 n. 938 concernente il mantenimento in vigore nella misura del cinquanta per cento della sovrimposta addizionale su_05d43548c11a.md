@@ -47,7 +47,7 @@ E' convertito in legge il [decreto-legge 17 ottobre 1958, n. 938](https://www.no
  Art. 2-quinquies. 
  
  Chiunque presenta denuncia infedele decade dal beneficio del rimborso, ed e' punito con la multa dal doppio al decuplo della sovrimposta addizionale corrispondente alla differenza fra la giacenza denunciata e quella esistente, e comunque non inferiore a lire 200 mila, salvo che il fatto non costituisca piu' grave reato. 
- La disposizione di cui al comma precedente e' stabilita in deroga all'[art. 24 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ La disposizione di cui al comma precedente e' stabilita in deroga all'[art. 24 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  Art. 2-sexies. 
  

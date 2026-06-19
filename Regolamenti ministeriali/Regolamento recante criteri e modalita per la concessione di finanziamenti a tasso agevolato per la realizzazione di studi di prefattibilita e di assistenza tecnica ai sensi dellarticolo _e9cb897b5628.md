@@ -34,7 +34,7 @@ Visto l'articolo 2, comma 1, della convenzione stipulata tra il Ministro del com
 
 Visto l'[articolo 22, comma 6, del decreto legislativo 31 marzo 1998, n. 143](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20commercio%20con%20lestero%20a%20norma%20dellarticolo%204%20comma%204%20lettera%20c%20e%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), ai sensi del quale il decreto di attuazione degli interventi agevolativi previsti al comma 5 dello stesso articolo, e' adottato dal Ministro del commercio con l'estero di concerto con il Ministro del tesoro, del bilancio e della programmazione economica;
 
-Visto il [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md);
+Visto il [regio decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md);
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), recante "Disciplina dell'attivita' di governo e ordinamento della Presidenza del Consiglio dei Ministri";
 
@@ -105,7 +105,7 @@ Avvertenza:
  4. Nel corso delle prime riunioni il Comitato recepisce e, eventualmente, modifica le vigenti delibere generali e circolari operative che disciplinano le modalita' di concessione delle agevolazioni previste dalle leggi di cui alle premesse, che continuano ad avere vigore in via provvisoria".
  - Si riporta il testo dell'[art. 22, comma 6, del decreto legislativo 31 marzo 1998, n. 143](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20commercio%20con%20lestero%20a%20norma%20dellarticolo%204%20comma%204%20lettera%20c%20e%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md):
  "6. Con decreto del Ministro del commercio con l'estero, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, sono fissati modalita' e criteri di concessione e di restituzione del finanziamento di cui al comma 5".
- - Il [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), e' pubblicato nella Gazzetta Ufficiale 30 settembre 1910, n. 227.
+ - Il [regio decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), e' pubblicato nella Gazzetta Ufficiale 30 settembre 1910, n. 227.
  - Si riporta il testo dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3):
  "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
  I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione".
@@ -385,10 +385,10 @@ Il soggetto gestore, oltre all'attivita' istruttoria, provvede, sulla base delle
 
 2.
 
-Per il recupero delle somme dovute al Fondo, la Simest S.p.a. e' autorizzata ad avvalersi della procedura di cui al [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
+Per il recupero delle somme dovute al Fondo, la Simest S.p.a. e' autorizzata ad avvalersi della procedura di cui al [regio decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 Nota all'[art. 16:
- - Il regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), e' stato pubblicato nella Gazzetta Ufficiale n. 227 del 30 settembre 1910.
+ - Il regio decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), e' stato pubblicato nella Gazzetta Ufficiale n. 227 del 30 settembre 1910.
 
 ## Art. 17. — Norme finali
 

@@ -28,13 +28,13 @@ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Abb
 
 ## Art. 1.
 
-Il comune di Bauladu, aggregato con [R. decreto 29 marzo 1928, n. 819](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Milis%20Bauladu%20e%20Tramatza%20in%20un%20unico%20Comune%20denominato%20Milis.%20028U0819.md), al comune di Milis, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
+Il comune di Bauladu, aggregato con [R. decreto 29 marzo 1928, n. 819](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Milis%20Bauladu%20e%20Tramatza%20in%20un%20unico%20Comune%20denominato%20Milis.%20028U0819.md), al comune di Milis, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
  Il Prefetto di Cagliari, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i comuni di Bauladu e Milis.
 
 ## Art. 2.
 
 L'organico del ricostituito comune di Bauladu e quello del comune di Milis saranno stabiliti dal [Prefetto, sentita la Giunta provinciale amministrativa. 
- Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quello organicamente assegnato ai comuni di Bauladu e Milis anteriormente alla loro fusione disposta con [R. decreto 29 marzo 1928, n. 819](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Milis%20Bauladu%20e%20Tramatza%20in%20un%20unico%20Comune%20denominato%20Milis.%20028U0819.md). 
+ Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quello organicamente assegnato ai comuni di Bauladu e Milis anteriormente alla loro fusione disposta con [R. decreto 29 marzo 1928, n. 819](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Milis%20Bauladu%20e%20Tramatza%20in%20un%20unico%20Comune%20denominato%20Milis.%20028U0819.md). 
  Al personale gia' in servizio presso il comune di Milis che eventualmente sara' inquadrato nei predetti organici, non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
 ## Art. 3.

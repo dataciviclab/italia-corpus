@@ -294,7 +294,7 @@ L'armatore delle navi o unita' di cui all'articolo 2 in relazione alle caratteri
 
 2.
 
-La documentazione di cui al comma 1, redatta da personale tecnico delle costruzioni navali di cui all'[articolo 117 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e articolo 275 del relativo regolamento di attuazione, e' inviata, a cura dell'armatore, al Ministero ai fini dell'approvazione secondo le seguenti modalita':
+La documentazione di cui al comma 1, redatta da personale tecnico delle costruzioni navali di cui all'[articolo 117 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e articolo 275 del relativo regolamento di attuazione, e' inviata, a cura dell'armatore, al Ministero ai fini dell'approvazione secondo le seguenti modalita':
                         a)
                             per le navi o unita' nuove: almeno sei mesi prima dell'entrata in esercizio;
                         b)
@@ -351,12 +351,12 @@ L'armatore ed il comandante della nave, nell'ambito delle rispettive attribuzion
 L'armatore non puo' delegare gli adempimenti previsti dai commi 1, 2, 3, 4 e 5 lettera a).
 
 Note all'art. 6:
- - Il testo dell'[art. 117 dei codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e' il seguente:
+ - Il testo dell'[art. 117 dei codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e' il seguente:
  "Art. 117 (Personale tecnico delle costruzioni navali). - Il personale tecnico delle costruzioni navali comprende:
  1) gli ingegneri navali;
  2) i costruttori navali;
  3) i maestri d'ascia e i calafati".
- - Il testo dell'art. 275 del regolamento al [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e' il seguente:
+ - Il testo dell'art. 275 del regolamento al [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e' il seguente:
  "Art. 275 (Registro d'iscrizione). - Il personale tecnico delle costruzioni navali e' iscritto in registri conformi al modello approvato dal Ministro per la marina mercantile, tenuti dagli uffici di compartimento e di circondario.
  Ogni iscrizione nel registro prende un numero progressivo, riporta la data sotto la quale si effettua e indica:
  a) le generalita' dell'iscritto;
@@ -374,7 +374,7 @@ Note all'art. 6:
 
 1.
 
-Ferme restando le disposizioni previste dal [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e dal relativo regolamento di attuazione nonche' dalle norme vigenti in materia di sicurezza della navigazione, il comandante della nave deve:
+Ferme restando le disposizioni previste dal [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e dal relativo regolamento di attuazione nonche' dalle norme vigenti in materia di sicurezza della navigazione, il comandante della nave deve:
                         a)
                             emettere procedure ed istruzioni per l'equipaggio, relative all'igiene, salute e sicurezza del lavoro, in forma chiara e comprensibile;
                         b)
@@ -433,7 +433,7 @@ Il lavoratore marittimo imbarcato a bordo delle navi o unita' di cui all'articol
 
 1.
 
-Fermo restando quanto previsto dall'[articolo 6 del decreto legislativo 19 settembre 1994, n. 626](../Decreti%20Legislativi/Attuazione%20delle%20direttive%2089-391-CEE%2089-654-CEE%2089-655-CEE%2089-656-CEE%2090-269-CEE%2090-270-CEE%2090-394-CEE%2090-679-CEE%2093-88-CEE%2095-63-CE%2097-42-CE%2098-24-CE%2099-38-CE%2099-92-CE%202001-45-CE%202003-1_b3516797bb41.md) come modificato dal [decreto legislativo 19 marzo 1996, n. 242](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2019%20settembre%201994%20n.%20626%20recante%20attuazione%20di%20direttive%20comunitarie%20riguardanti%20il%20miglioramento%20della%20sicurezza%20e%20della%20salute%20dei%20lavor_a49057a27589.md), i progettisti ed i costruttori di navi mercantili e da pesca nazionali devono rispettare i principi generali di prevenzione in materia di tutela della salute e di sicurezza del lavoro a bordo, secondo le disposizioni del presente decreto e di quanto stabilito, rispettivamente, dall'[articolo 232 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e dall'articolo 275 del relativo regolamento di attuazione, integrato dalle disposizioni contenute all'[articolo 20 della legge 14 giugno 1989, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-06-14;234#art_20) e nel [decreto del Ministro della marina mercantile 18 febbraio 1992, n. 280](../Regolamenti%20ministeriali/Regolamento%20recante%20disposizioni%20applicative%20del%20titolo%20IV%20della%20legge%2014%20giugno%201989%20n.%20234%20in%20materia%20di%20albi%20speciali%20delle%20imprese%20navalmeccaniche.md).
+Fermo restando quanto previsto dall'[articolo 6 del decreto legislativo 19 settembre 1994, n. 626](../Decreti%20Legislativi/Attuazione%20delle%20direttive%2089-391-CEE%2089-654-CEE%2089-655-CEE%2089-656-CEE%2090-269-CEE%2090-270-CEE%2090-394-CEE%2090-679-CEE%2093-88-CEE%2095-63-CE%2097-42-CE%2098-24-CE%2099-38-CE%2099-92-CE%202001-45-CE%202003-1_b3516797bb41.md) come modificato dal [decreto legislativo 19 marzo 1996, n. 242](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2019%20settembre%201994%20n.%20626%20recante%20attuazione%20di%20direttive%20comunitarie%20riguardanti%20il%20miglioramento%20della%20sicurezza%20e%20della%20salute%20dei%20lavor_a49057a27589.md), i progettisti ed i costruttori di navi mercantili e da pesca nazionali devono rispettare i principi generali di prevenzione in materia di tutela della salute e di sicurezza del lavoro a bordo, secondo le disposizioni del presente decreto e di quanto stabilito, rispettivamente, dall'[articolo 232 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e dall'articolo 275 del relativo regolamento di attuazione, integrato dalle disposizioni contenute all'[articolo 20 della legge 14 giugno 1989, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-06-14;234#art_20) e nel [decreto del Ministro della marina mercantile 18 febbraio 1992, n. 280](../Regolamenti%20ministeriali/Regolamento%20recante%20disposizioni%20applicative%20del%20titolo%20IV%20della%20legge%2014%20giugno%201989%20n.%20234%20in%20materia%20di%20albi%20speciali%20delle%20imprese%20navalmeccaniche.md).
 
 Note all'art. 9:
  - Il testo dell'[art. 6 del decreto legislativo 19 settembre
@@ -461,7 +461,7 @@ Note all'art. 9:
  sicurezza e di igiene del lavoro, nonche' alle istruzioni
  fornite dai rispettivi fabbricanti dei macchinari e degli
  altri mezzi tecnici per la parte di loro competenza".
- - Il testo dell'[art. 232 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il
+ - Il testo dell'[art. 232 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il
  seguente:
  "Art. 232 (Cantieri e stabilimenti di costruzione). - La
  costruzione delle navi e dei galleggianti deve essere
@@ -473,7 +473,7 @@ Note all'art. 9:
  compartimentale, mediante inclusione in apposito elenco
  tenuto a norma del regolamento",
  - Per il testo dell'art. 275 del regolamento al [codice
- della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) vedi note all'art. 6.
+ della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) vedi note all'art. 6.
  - Il testo dell'[art. 20 della legge 14 giugno 1989, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-06-14;234#art_20)
  e' il seguente:
  "Art. 20. - 1. Ai fini dell'iscrizione negli albi speciali
@@ -534,7 +534,7 @@ Note all'art. 9:
 
 L'armatore, in caso di affidamento di lavori o di servizi a bordo della nave mercantile o da pesca nazionale, ad imprese appaltatrici od a lavoratori autonomi, deve:
                         a)
-                            verificare l'idoneita' tecnico-professionale delle imprese appaltatrici o dei lavoratori autonomi in relazione ai lavori da affidare in appalto o contratto d'opera, secondo quanto previsto dall'[articolo 68 del Codice della Navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+                            verificare l'idoneita' tecnico-professionale delle imprese appaltatrici o dei lavoratori autonomi in relazione ai lavori da affidare in appalto o contratto d'opera, secondo quanto previsto dall'[articolo 68 del Codice della Navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
                         b)
                             fornire agli stessi soggetti dettagliate informazioni sui rischi specifici esistenti a bordo delle navi e nei locali interessati alle attivita' appaltate e sulle relative misure di prevenzione e protezione dai rischi sul lavoro da adottare;
                         c)
@@ -553,7 +553,7 @@ Il titolare della impresa appaltatrice o il lavoratore autonomo e l'armatore dev
 L'armatore promuove la cooperazione ed il coordinamento di cui al comma 2. Tale obbligo non si estende ai rischi specifici propri dell'attivita' delle imprese appaltatrici o dei singoli lavoratori autonomi.
 
 Nota all'art. 10:
- - Il testo dell'[art. 68 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente:
+ - Il testo dell'[art. 68 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente:
  "Art. 68 (Vigilanza sull'esercizio di attivita' nei porti).
  Coloro che esercitano un'attivita' nell'interno dei porti ed in genere nell'ambito dei demanio marittimo sono soggetti, nell'esplicazione di tale attivita', alla vigilanza del comandante del porto.
  Il capo del compartimento, sentite le associazioni sindacali interessate puo' sottoporre all'iscrizione in appositi registri, eventualmente a numero chiuso, e ad altre speciali limitazioni coloro che esercitano le attivita' predette".
@@ -720,7 +720,7 @@ A conclusione della riunione e' redatto apposito verbale che e' conservato tra i
 
 1.
 
-Ferme restando le responsabilita' del comandante della nave previste dal [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e dell' ufficiale responsabile della sicurezza, ove previsto, stabilite dal regolamento di sicurezza, a bordo di tutte le navi o unita' di cui all'articolo 2, il responsabile del servizio di cui all'articolo 13, deve:
+Ferme restando le responsabilita' del comandante della nave previste dal [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e dell' ufficiale responsabile della sicurezza, ove previsto, stabilite dal regolamento di sicurezza, a bordo di tutte le navi o unita' di cui all'articolo 2, il responsabile del servizio di cui all'articolo 13, deve:
                         a)
                             sensibilizzare l'equipaggio all'applicazione delle direttive in materia di igiene e sicurezza del lavoro a bordo;
                         b)
@@ -1270,10 +1270,10 @@ Nota all'art. 39:
 
 1.
 
-Qualora l'Autorita' marittima riscontri che a bordo dell'unita' mercantile o da pesca nazionale vi siano difformita' rispetto al pi- ano di sicurezza approvato ed al relativo "Certificato di sicurezza dell'ambiente di lavoro" che comportino rischi per l'igiene e la sicurezza del lavoratore marittimo, provvede, ai sensi dell'[articolo 181 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), non concedendo il rilascio delle spedizioni.
+Qualora l'Autorita' marittima riscontri che a bordo dell'unita' mercantile o da pesca nazionale vi siano difformita' rispetto al pi- ano di sicurezza approvato ed al relativo "Certificato di sicurezza dell'ambiente di lavoro" che comportino rischi per l'igiene e la sicurezza del lavoratore marittimo, provvede, ai sensi dell'[articolo 181 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), non concedendo il rilascio delle spedizioni.
 
 Nota all'art. 40:
- - Il testo dell'[art. 181 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente:
+ - Il testo dell'[art. 181 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente:
  "Art. 181 (Rilascio delle spedizioni) - La nave non puo' partire se non ha ricevuto le spedizioni da parte del comandante del porto o dell'autorita' consolare.
  Il rilascio delle spedizioni si effettua mediante apposizione del visto - con indicazione dell'ora e della data - sulla dichiarazione integrativa di partenza che viene consegnata in copia, o trasmessa con mezzi elettronici, al comandante della nave, il quale e' tenuto a conservarla tra i documenti di bordo fino al successivo approdo.
  Le spedizioni non possono essere rilasciate qualora risulti che l'armatore o il comandante della nave non ha adempiuto agli obblighi imposti dalle norme di polizia, da quelle per la sicurezza della navigazione, nonche' agli obblighi relativi alle visite ed alle prescrizioni impartite dalle competenti autorita'. Del pari le spedizioni non possono essere rilasciate qualora risulti che l'armatore o il comandante della nave non ha compiuto gli adempimenti sanitari, fiscali e doganali ovvero non ha provveduto al pagamento dei diritti portuali o consolari, al versamento delle cauzioni eventualmente richieste a norma delle vigenti disposizioni di legge o regolamentari, nonche' in tutti gli altri casi previsti da disposizioni di legge".

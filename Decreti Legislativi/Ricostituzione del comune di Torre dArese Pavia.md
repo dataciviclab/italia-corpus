@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il comune di Torre d'Arese, aggregato con [regio decreto 8 febbraio 1937, n. 246](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Magherno%20e%20Torre%20dArese%20in%20provincia%20di%20Pavia.%20037U0246.md), al comune di Magherno, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
+Il comune di Torre d'Arese, aggregato con [regio decreto 8 febbraio 1937, n. 246](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Magherno%20e%20Torre%20dArese%20in%20provincia%20di%20Pavia.%20037U0246.md), al comune di Magherno, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Pavia, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni suddetti.
 
 ## Art. 2.

@@ -430,7 +430,7 @@ Note all'[art. 11:
 
 1.
 
-Le associazioni o enti che intendono essere individuati ai fini di affidamento di animali oggetto di provvedimento di sequestro o di confisca per i delitti previsti dagli [articoli 544-ter](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [544-quater](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [544-quinquies del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), devono disporre, in forma permanente di stabilimenti registrati o riconosciuti in BDN e devono inoltrare domanda alla competente direzione generale del Ministero della salute.
+Le associazioni o enti che intendono essere individuati ai fini di affidamento di animali oggetto di provvedimento di sequestro o di confisca per i delitti previsti dagli [articoli 544-ter](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [544-quater](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [544-quinquies del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), devono disporre, in forma permanente di stabilimenti registrati o riconosciuti in BDN e devono inoltrare domanda alla competente direzione generale del Ministero della salute.
 
 2.
 
@@ -482,8 +482,8 @@ La ripartizione di cui al comma 6, e' effettuata il 15 ottobre di ogni anno sull
 
 In sede di prima applicazione del presente decreto e limitatamente alla ripartizione delle entrate di cui al comma 6, continua a trovare applicazione il decreto del Ministro della salute adottato in attuazione degli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-07-20;189#art_3), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-07-20;189#art_7) e [8 della legge 20 luglio 2004, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-07-20;189#art_8).
 
-Note all'[art. 12](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
- - Gli [articoli 544-ter](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [544-quater](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [544- quinquies del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) recitano: 
+Note all'[art. 12](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
+ - Gli [articoli 544-ter](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [544-quater](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [544- quinquies del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) recitano: 
  «Art. 544-ter (Maltrattamento di animali). - Chiunque, per crudelta' o senza necessita', cagiona una lesione ad un animale ovvero lo sottopone a sevizie o a comportamenti o a fatiche o a lavori insopportabili per le sue caratteristiche etologiche e' punito con la reclusione da tre a diciotto mesi o con la multa da 5.000 a 30.000 euro. 
  La stessa pena si applica a chiunque somministra agli animali sostanze stupefacenti o vietate ovvero li sottopone a trattamenti che procurano un danno alla salute degli stessi. 
  La pena e' aumentata della meta' se dai fatti di cui al primo comma deriva la morte dell'animale.». 
@@ -561,15 +561,15 @@ Chiunque contravviene alle disposizioni di cui all'articolo 11, salvo che il fat
 
 1.
 
-All'[articolo 727-bis del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono apportate le seguenti modificazioni:
+All'[articolo 727-bis del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono apportate le seguenti modificazioni:
                         a)
                             alla rubrica, dopo la parola «detenzione» sono inserite le seguenti: «e commercio»;
                         b)
                             dopo il secondo comma e' aggiunto il seguente: 
  «Salvo che il fatto costituisca piu' grave reato, chiunque, fuori dai casi consentiti, viola i divieti di commercializzazione di cui all'[articolo 8, comma 2, del decreto del Presidente della Repubblica 8 settembre 1997, n. 357](../DPR/Regolamento%20recante%20attuazione%20della%20direttiva%2092-43-CEE%20relativa%20alla%20conservazione%20degli%20habitat%20natuali%20e%20seminaturali%20nonche%20della%20flora%20e%20della%20fauna%20selvatiche.md), e' punito con l'arresto da due a otto mesi e con l'ammenda fino a 10.000 euro.».
 
-Note all'[art. 15](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
- - L'[art. 727-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) cosi' recita: 
+Note all'[art. 15](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
+ - L'[art. 727-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) cosi' recita: 
  «727-bis (Uccisione, distruzione, cattura, prelievo, detenzione di esemplari di specie animali o vegetali selvatiche protette). --- Salvo che il fatto costituisca piu' grave reato, chiunque, fuori dai casi consentiti, uccide, cattura o detiene esemplari appartenenti ad una specie animale selvatica protetta e' punito con l'arresto da uno a sei mesi o con l'ammenda fino a 4.000 euro, salvo i casi in cui l'azione riguardi una quantita' trascurabile di tali esemplari e abbia un impatto trascurabile sullo stato di conservazione della specie. 
  Chiunque, fuori dai casi consentiti, distrugge, preleva o detiene esemplari appartenenti ad una specie vegetale selvatica protetta e' punito con l'ammenda fino a 4. 000 euro, salvo i casi in cui l'azione riguardi una quantita' trascurabile di tali esemplari e abbia un impatto trascurabile sullo stato di conservazione della specie.».
 

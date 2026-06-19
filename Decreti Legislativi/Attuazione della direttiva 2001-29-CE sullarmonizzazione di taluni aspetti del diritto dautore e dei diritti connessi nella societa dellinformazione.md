@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [direttiva 2001/29/CE del Parlamento europeo e del Consiglio del 22 maggio 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;29), relativa all'armonizzazione di taluni aspetti del diritto d'autore e dei diritti connessi nella societa' dell'informazione;
 
-Vista la [legge 1° marzo 2002, n. 39](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), ed in particolare gli articoli 1, 2, 30 e l'allegato B, che detta i criteri di delega al Governo per il recepimento della citata [direttiva 2001/29/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;29);
+Vista la [legge 1° marzo 2002, n. 39](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), ed in particolare gli articoli 1, 2, 30 e l'allegato B, che detta i criteri di delega al Governo per il recepimento della citata [direttiva 2001/29/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;29);
 
 Vista la [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633), recante protezione del diritto d'autore e di altri diritti connessi al suo esercizio;
 
@@ -61,7 +61,7 @@ Avvertenza:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
  - La [direttiva 2001/29/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;29) e' pubblicata in GUCE n. L167 del 22 giugno 2001. 
- - La [legge 1° marzo 2002, n. 39](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), reca: «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2001». 
+ - La [legge 1° marzo 2002, n. 39](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), reca: «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2001». 
  - Gli articoli 1, 2, 30 e l'allegato B, della citata legge, cosi' recitano: 
  «Art. 1 (Delega al Governo per l'attuazione di direttive comunitarie). - 1. Il Governo e' delegato ad emanare, entro il termine di un anno dalla data di entrata in vigore della presente legge, i decreti legislativi recanti le norme occorrenti per dare attuazione alle direttive comprese negli elenchi di cui agli allegati A e B. 
  2. I decreti legislativi sono adottati, nel rispetto dell'[art. 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_14), su proposta del Presidente del Consiglio dei Ministri o del Ministro per le politiche comunitarie e del Ministro con competenza istituzionale prevalente per la materia, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze e con gli altri Ministri interessati in relazione all'oggetto della direttiva. 
@@ -528,7 +528,7 @@ Nota all'art. 26:
  c) promuove o organizza le attivita' illecite di cui al comma 1. 
  3. La pena e' diminuita se il fatto e' di particolare tenuita'. 
  4. La condanna per uno dei reati previsti nel comma l comporta: 
- a) l'applicazione delle pene accessorie di cui agli [articoli 30](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [32-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ a) l'applicazione delle pene accessorie di cui agli [articoli 30](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [32-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  b) la pubblicazione della sentenza in uno o piu' quotidiani, di cui almeno uno a diffusione nazionale, e in uno o piu' periodici specializzati; 
  c) la sospensione per un periodo di un anno della concessione o autorizzazione di diffusione radiotelevisiva per l'esercizio dell'attivita' produttiva o commerciale. 
  5. Gli importi derivanti dall'applicazione delle sanzioni pecuniarie previste dai precedenti commi sono versati all'Ente nazionale di previdenza ed assistenza per i pittori e scultori, musicisti, scrittori ed autori drammatici.».

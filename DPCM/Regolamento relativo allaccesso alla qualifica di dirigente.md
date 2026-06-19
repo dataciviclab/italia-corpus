@@ -12,7 +12,7 @@ IL PRESIDENTE
 
 DEL CONSIGLIO DEI MINISTRI
 
-Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, concernente la razionalizzazione dell'organizzazione delle amministrazioni pubbliche e la revisione della disciplina in materia di pubblico impiego ed in particolare l'art. 28, che disciplina l'accesso alla qualifica di dirigente;
+Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, concernente la razionalizzazione dell'organizzazione delle amministrazioni pubbliche e la revisione della disciplina in materia di pubblico impiego ed in particolare l'art. 28, che disciplina l'accesso alla qualifica di dirigente;
 
 Considerata la necessita' di disciplinare le modalita' di accesso alla qualifica di dirigente nelle amministrazioni statali, anche ad ordinamento autonomo, comprese le istituzioni universitarie e negli enti pubblici non economici, ad eccezione del personale con qualifica di ricercatore e di tecnologo delle istituzioni e degli enti di ricerca e sperimentazione;
 
@@ -26,11 +26,11 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 24 f
 
 1.
 
-Il presente regolamento disciplina l'accesso alla qualifica di dirigente nelle amministrazioni dello Stato, anche ad ordinamento autonomo, comprese le universita' ed istituzioni equiparate e negli enti pubblici non economici, ad eccezione del personale con qualifica di ricercatore e di tecnologo delle istituzioni e degli enti di ricerca e sperimentazione. Resta fermo, per le universita' e le istituzioni equiparate, quanto previsto dall'[art. 3, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
+Il presente regolamento disciplina l'accesso alla qualifica di dirigente nelle amministrazioni dello Stato, anche ad ordinamento autonomo, comprese le universita' ed istituzioni equiparate e negli enti pubblici non economici, ad eccezione del personale con qualifica di ricercatore e di tecnologo delle istituzioni e degli enti di ricerca e sperimentazione. Resta fermo, per le universita' e le istituzioni equiparate, quanto previsto dall'[art. 3, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
 
 2.
 
-Restano ferme, ai sensi dell'[art. 28, comma 8, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, le vigenti disposizioni in materia di accesso alle qualifiche dirigenziali delle carriere diplomatiche e prefettizie, delle Forze di polizia e delle Forze armate e dei vigili del fuoco. ((1))
+Restano ferme, ai sensi dell'[art. 28, comma 8, del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, le vigenti disposizioni in materia di accesso alle qualifiche dirigenziali delle carriere diplomatiche e prefettizie, delle Forze di polizia e delle Forze armate e dei vigili del fuoco. ((1))
 
 ---------------
 
@@ -66,7 +66,7 @@ Non possono essere nominati componenti delle commissioni soggetti che siano comp
 
 3.
 
-Almeno un terzo dei posti di componente delle commissioni di concorso e' riservato, salva motivata impossibilita', alle donne purche' in possesso dei requisiti di cui all'[art. 8 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
+Almeno un terzo dei posti di componente delle commissioni di concorso e' riservato, salva motivata impossibilita', alle donne purche' in possesso dei requisiti di cui all'[art. 8 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
 
 4.
 
@@ -407,7 +407,7 @@ Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedim
 
 1.
 
-In sede di prima applicazione del presente regolamento le percentuali del settanta e del trenta per cento di cui agli articoli 2 e 5 vanno riferite alle disponibilita' in organico che risulteranno dopo che le amministrazioni avranno individuato gli uffici dirigenziali ai sensi dell'[art. 31 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
+In sede di prima applicazione del presente regolamento le percentuali del settanta e del trenta per cento di cui agli articoli 2 e 5 vanno riferite alle disponibilita' in organico che risulteranno dopo che le amministrazioni avranno individuato gli uffici dirigenziali ai sensi dell'[art. 31 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
 
 2.
 

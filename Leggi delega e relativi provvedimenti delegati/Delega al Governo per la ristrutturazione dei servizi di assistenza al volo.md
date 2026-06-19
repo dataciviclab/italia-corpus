@@ -64,7 +64,7 @@ Il [D.LGS. 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamen
 
 ## Art. 6.
 
-Il Presidente della Repubblica e' delegato a concedere amnistia per i reati previsti nei capi I, II, III e VII del titolo III del libro II del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace commessi da militari entro il 13 marzo 1980, a causa ed in occasione di iniziative intese a sollecitare la riforma dei servizi di assistenza al volo.
+Il Presidente della Repubblica e' delegato a concedere amnistia per i reati previsti nei capi I, II, III e VII del titolo III del libro II del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare di pace commessi da militari entro il 13 marzo 1980, a causa ed in occasione di iniziative intese a sollecitare la riforma dei servizi di assistenza al volo.
 
 ## Art. 7.
 

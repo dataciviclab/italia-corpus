@@ -22,7 +22,7 @@ Visto il [decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20re
 
 Visto il [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), recante «[Codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md)» e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 11 febbraio 2005, n. 68](../DPR/Regolamento%20recante%20disposizioni%20per%20lutilizzo%20della%20posta%20elettronica%20certificata%20a%20norma%20dellarticolo%2027%20della%20legge%2016%20gennaio%202003%20n.%203.md), recante «Regolamento recante disposizioni per l'utilizzo della posta elettronica certificata, a norma dell'[articolo 27 della legge 16 gennaio 2003, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-01-16;3#art_27)»;
+Visto il [decreto del Presidente della Repubblica 11 febbraio 2005, n. 68](../Regolamenti%20governativi/Regolamento%20recante%20disposizioni%20per%20lutilizzo%20della%20posta%20elettronica%20certificata%20a%20norma%20dellarticolo%2027%20della%20legge%2016%20gennaio%202003%20n.%203.md), recante «Regolamento recante disposizioni per l'utilizzo della posta elettronica certificata, a norma dell'[articolo 27 della legge 16 gennaio 2003, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-01-16;3#art_27)»;
 
 Visto il [decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179), recante «Ulteriori misure urgenti per la crescita del Paese», convertito con modificazioni dalla [legge 17 dicembre 2012, n. 22](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-17;22);
 

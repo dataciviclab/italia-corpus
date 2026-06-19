@@ -135,7 +135,7 @@ Ai fini del presente decreto si intende per:
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 15 marzo 2017, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-2376%20recante%20modifica%20della%20direttiva%202011-16-UE%20per%20quanto%20riguarda%20lo%20scambio%20automatico%20obbligatorio%20di%20informazioni%20nel%20settore%20fiscale.%2017G00046.md) ha disposto (con l'art. 4, comma 2) che le presenti modifiche hanno effetto a decorrere dal 1° gennaio 2017.
+Il [D.Lgs. 15 marzo 2017, n. 32](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-2376%20recante%20modifica%20della%20direttiva%202011-16-UE%20per%20quanto%20riguarda%20lo%20scambio%20automatico%20obbligatorio%20di%20informazioni%20nel%20settore%20fiscale.%2017G00046.md) ha disposto (con l'art. 4, comma 2) che le presenti modifiche hanno effetto a decorrere dal 1° gennaio 2017.
 
 ## Art. 3. — Organizzazione
 
@@ -183,7 +183,7 @@ L'ufficio centrale di collegamento e i servizi di collegamento indicati al comma
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 18 maggio 2018, n. 60](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202016-2258-UE%20del%20Consiglio%20del%206%20dicembre%202016%20recante%20modifica%20della%20direttiva%202011-16-UE%20del%20Consiglio%20del%2015%20febbraio%202011%20per%20quanto%20riguarda%20laccesso%20da%20pa_74ed73b49974.md) ha disposto (con l'art. 3, comma 2) che le presenti modifiche si applicano alle richieste di accesso alle informazioni formulate dalla Guardia di finanza e dall'Agenzia delle entrate a decorrere dal 1° gennaio 2018.
+Il [D.Lgs. 18 maggio 2018, n. 60](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202016-2258-UE%20del%20Consiglio%20del%206%20dicembre%202016%20recante%20modifica%20della%20direttiva%202011-16-UE%20del%20Consiglio%20del%2015%20febbraio%202011%20per%20quanto%20riguarda%20laccesso%20da%20pa_74ed73b49974.md) ha disposto (con l'art. 3, comma 2) che le presenti modifiche si applicano alle richieste di accesso alle informazioni formulate dalla Guardia di finanza e dall'Agenzia delle entrate a decorrere dal 1° gennaio 2018.
 
 ## Art. 4. — Scambio di informazioni su richiesta
 
@@ -261,13 +261,13 @@ Le informazioni che devono essere comunicate ai sensi del comma 1-bis sono trasm
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 15 marzo 2017, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-2376%20recante%20modifica%20della%20direttiva%202011-16-UE%20per%20quanto%20riguarda%20lo%20scambio%20automatico%20obbligatorio%20di%20informazioni%20nel%20settore%20fiscale.%2017G00046.md) ha disposto (con l'art. 4, comma 2) che le presenti modifiche hanno effetto a decorrere dal 1° gennaio 2017.
+Il [D.Lgs. 15 marzo 2017, n. 32](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-2376%20recante%20modifica%20della%20direttiva%202011-16-UE%20per%20quanto%20riguarda%20lo%20scambio%20automatico%20obbligatorio%20di%20informazioni%20nel%20settore%20fiscale.%2017G00046.md) ha disposto (con l'art. 4, comma 2) che le presenti modifiche hanno effetto a decorrere dal 1° gennaio 2017.
 
 ---------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 10 dicembre 2025, n. 194](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202023-2226-UE%20del%20Consiglio%20del%2017%20ottobre%202023%20recante%20modifica%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale.%2025G00201.md), ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
+Il [D.Lgs. 10 dicembre 2025, n. 194](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202023-2226-UE%20del%20Consiglio%20del%2017%20ottobre%202023%20recante%20modifica%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale.%2025G00201.md), ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
 
 ## Art. 5-bis. — ((Rilevazione e comunicazione del numero di identificazione fiscale rilasciato da uno Stato membro o giurisdizione estera))
 
@@ -292,7 +292,7 @@ Il [D.Lgs. 10 dicembre 2025, n. 194](../Leggi%20delega%20e%20relativi%20provvedi
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 10 dicembre 2025, n. 194](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202023-2226-UE%20del%20Consiglio%20del%2017%20ottobre%202023%20recante%20modifica%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale.%2025G00201.md), ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
+Il [D.Lgs. 10 dicembre 2025, n. 194](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202023-2226-UE%20del%20Consiglio%20del%2017%20ottobre%202023%20recante%20modifica%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale.%2025G00201.md), ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
 
 ## Art. 6. — Scambio spontaneo di informazioni
 

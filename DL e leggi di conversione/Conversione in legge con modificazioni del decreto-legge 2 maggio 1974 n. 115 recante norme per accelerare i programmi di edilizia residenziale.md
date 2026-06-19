@@ -91,11 +91,11 @@ alla fine del medesimo comma le parole: salvo approvazione da parte della stazio
  All'articolo 22, le parole: possono essere, sono sostituite dalla seguente: sono. 
  
  All'articolo 23 e' aggiunto, in fine, il seguente comma: 
- Il Ministro per i lavori pubblici in ordine ai trasferimenti del personale di cui all'[articolo 18 del decreto del Presidente della Repubblica 30 dicembre 1972, n. 1036](../DPR/Norme%20per%20la%20riorganizzazione%20delle%20amministrazioni%20e%20degli%20enti%20pubblici%20operanti%20nel%20settore%20della%20edilizia%20residenziale%20pubblica.md), istituisce presso il Ministero dei lavori pubblici apposita commissione consultiva in cui siano rappresentate le organizzazioni sindacali maggiormente rappresentative sul piano nazionale. 
+ Il Ministro per i lavori pubblici in ordine ai trasferimenti del personale di cui all'[articolo 18 del decreto del Presidente della Repubblica 30 dicembre 1972, n. 1036](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20riorganizzazione%20delle%20amministrazioni%20e%20degli%20enti%20pubblici%20operanti%20nel%20settore%20della%20edilizia%20residenziale%20pubblica.md), istituisce presso il Ministero dei lavori pubblici apposita commissione consultiva in cui siano rappresentate le organizzazioni sindacali maggiormente rappresentative sul piano nazionale. 
  
  Dopo l'articolo 24 e' inserito il seguente articolo 24-bis: 
  La Cassa depositi e prestiti accreditera' agli Istituti autonomi per le case popolari, secondo le istruzioni del Ministro per i lavori pubblici su conforme parere del Comitato per l'edilizia residenziale, i fondi necessari alla realizzazione degli interventi. 
- E' soppresso il [quarto comma dell'articolo 10 del decreto del Presidente della Repubblica 30 dicembre 1972, n. 1036](../DPR/Norme%20per%20la%20riorganizzazione%20delle%20amministrazioni%20e%20degli%20enti%20pubblici%20operanti%20nel%20settore%20della%20edilizia%20residenziale%20pubblica.md).
+ E' soppresso il [quarto comma dell'articolo 10 del decreto del Presidente della Repubblica 30 dicembre 1972, n. 1036](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20riorganizzazione%20delle%20amministrazioni%20e%20degli%20enti%20pubblici%20operanti%20nel%20settore%20della%20edilizia%20residenziale%20pubblica.md).
 
 --------------
 

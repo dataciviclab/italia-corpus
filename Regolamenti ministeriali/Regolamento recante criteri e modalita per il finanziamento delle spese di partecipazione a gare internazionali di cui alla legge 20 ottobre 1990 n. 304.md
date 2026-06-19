@@ -323,7 +323,7 @@ In caso di ritardo nel rimborso del finanziamento alle scadenze stabilite o di a
 
 10.
 
-Per il recupero delle somme dovute dalle imprese al fondo, il soggetto gestore e' autorizzato ad avvalersi della procedura di cui al [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
+Per il recupero delle somme dovute dalle imprese al fondo, il soggetto gestore e' autorizzato ad avvalersi della procedura di cui al [regio decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 Note all'[art. 10:
  - La legge 4 gennaio 1968, n. 15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), recante "Norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione di firme" e' pubblicata nella Gazzetta Ufficiale 27 gennaio 1968, n. 23. Si riporta il testo degli articoli 4 e 20:
@@ -334,7 +334,7 @@ Note all'[art. 10:
  Il pubblico ufficiale che autentica deve indicare le modalita' di identificazione, la data e il luogo della autenticazione, il proprio nome e cognome, la qualifica rivestita, nonche' apporre la propria firma per esteso ed il timbro dell'ufficio.
  Per l'autenticazione delle firme apposte sui margini dei fogli intermedi e' sufficiente che il pubblico ufficiale aggiunga la propria firma".
  - Il decreto del Ministro del tesoro 21 dicembre 1994 recante "Nuovi criteri per la determinazione dei tassi di riferimento da applicare alle operazioni di credito agevolato ai sensi di varie disposizioni legislative", e' pubblicato nella Gazzetta Ufficiale 30 dicembre 1994, n. 304.
- - Il [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), recante "Approvazione del testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato, e' pubblicato nella Gazzetta Ufficiale 30 settembre 1910, n. 227.
+ - Il [regio decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), recante "Approvazione del testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato, e' pubblicato nella Gazzetta Ufficiale 30 settembre 1910, n. 227.
 
 ## Art. 11. — Consuntivo
 

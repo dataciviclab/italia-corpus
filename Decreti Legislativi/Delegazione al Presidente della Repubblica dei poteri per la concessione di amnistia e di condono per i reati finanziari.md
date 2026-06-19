@@ -51,7 +51,7 @@ L'amnistia ed il condono previsti nei precedenti articoli si applicano ai fatti 
 
 Ai fini dell'applicazione dei benefici previsti negli articoli 1 e 2, non si tiene conto dei precedenti penali dell'imputato quando si tratta di reati punibili con la sola pena della multa o dell'ammenda.
  In ogni altro caso i benefici stessi non si applicano a coloro che, alla data del presente decreto, hanno riportato una o piu' condanne per delitto non colposo a pena detentiva superiore nel complesso a tre anni.
- Nell'esame dei precedenti penali non si tien conto delle condanne dichiarate estinte per precedente amnistia, ne' dei reati estinti alla data del presente decreto per il decorso dei termini della sospensione condizionale della pena a norma dell'[art. 167 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ne' delle condanne per le quali sia intervenuta la riabilitazione,
+ Nell'esame dei precedenti penali non si tien conto delle condanne dichiarate estinte per precedente amnistia, ne' dei reati estinti alla data del presente decreto per il decorso dei termini della sospensione condizionale della pena a norma dell'[art. 167 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ne' delle condanne per le quali sia intervenuta la riabilitazione,
 
 ## Art. 5.
 

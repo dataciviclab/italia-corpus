@@ -189,7 +189,7 @@ Note all'[art. 7:
 
 1.
 
-Restano ferme le procedure di informazione e di consultazione di cui alla [legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), e successive modificazioni, nonche' alla [legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223).
+Restano ferme le procedure di informazione e di consultazione di cui alla [legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), e successive modificazioni, nonche' alla [legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223).
 
 2.
 
@@ -200,7 +200,7 @@ Restano ferme le previsioni di cui al [decreto legislativo 2 aprile 2002, n. 74]
 Sono fatti salvi gli altri diritti riconosciuti dalla normativa vigente e dai contratti collettivi applicati in materia di informazione, consultazione e partecipazione.
 
 Note all'[art. 8:
- - La legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), reca: «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria per il 1990)».
+ - La legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), reca: «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria per il 1990)».
  - La [legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223), reca: «Norme in materia di cassa integrazione, mobilita', trattamenti di disoccupazione, attuazione di direttive della Comunita' europea, avviamento al lavoro ed altre disposizioni in materia di mercato del lavoro.».
  - Per il [decreto legislativo 2 aprile 2002, n. 74](Attuazione%20della%20direttiva%20del%20Consiglio%20del%2022%20settembre%201994%2094-45-CE%20relativa%20allistituzione%20di%20un%20comitato%20aziendale%20europeo%20o%20di%20una%20procedura%20per%20linformazione%20e%20la%20consultazione%20de_5a5c66ddbbf4.md), vedi note alle premesse.
 

@@ -59,9 +59,9 @@ Avvertenza:
  4. In ogni caso, qualora il termine previsto per l'esercizio della delega ecceda i due anni, il Governo e' tenuto a richiedere il parere delle Camere sugli schemi dei decreti delegati. Il parere e' espresso dalle Commissioni permanenti delle due Camere competenti per materia entro sessanta giorni, indicando specificamente le eventuali disposizioni non ritenute corrispondenti alle direttive della legge di delegazione. Il Governo, nei trenta giorni successivi, esaminato il parere, ritrasmette, con le sue osservazioni e con eventuali modificazioni, i testi alle Commissioni per il parere definitivo che deve essere espresso entro trenta giorni.".
  - Si riporta il testo degli [articoli 11](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Atti%20internazionali%20elaborati%20in%20base%20allarticolo%20K.%203%20del%20Trattato%20dellUnione%20europea%20Convenzione%20sulla%20tutela%20degli%20interessi%20finanziari%20delle%20Comuni_cf304d4a1900.md) e [14 della legge 29 settembre 2000, n. 300](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Atti%20internazionali%20elaborati%20in%20base%20allarticolo%20K.%203%20del%20Trattato%20dellUnione%20europea%20Convenzione%20sulla%20tutela%20degli%20interessi%20finanziari%20delle%20Comuni_cf304d4a1900.md) (Ratifica ed esecuzione dei seguenti Atti internazionali elaborati in base all'articolo K.3 del Trattato sull'Unione europea: Convenzione sulla tutela degli interessi finanziari delle Comunita' europee, fatta a Bruxelles il 26 luglio 1995, del suo primo Protocollo fatto a Dublino il 27 settembre 1996, del Protocollo concernente l'interpretazione in via pregiudiziale, da parte della Corte di Giustizia delle Comunita' europee, di detta Convenzione, con annessa dichiarazione, fatto a Bruxelles il 29 novembre 1996, nonche' della Convenzione relativa alla lotta contro la corruzione nella quale sono coinvolti funzionari delle Comunita' europee o degli Stati membri dell'Unione europea, fatta a Bruxelles il 26 maggio 1997 e della Convenzione OCSE sulla lotta alla corruzione di pubblici ufficiali stranieri nelle operazioni economiche internazionali, con annesso, fatta a Parigi il 17 dicembre 1997. Delega al Governo per la disciplina della responsabilita' amministrativa delle persone giuridiche e degli enti privi di personalita' giuridica):
  "Art. 11 (Delega al Governo per la disciplina della responsabilita' amministrativa delle persone giuridiche e degli enti privi di personalita' giuridica) . -1. Il Governo della Repubblica e' delegato ad emanare, entro otto mesi dalla data di entrata in vigore della presente legge, un decreto legislativo avente ad oggetto la disciplina della responsabilita' amministrativa delle persone giuridiche e delle societa' associazioni od enti privi di personalita' giuridica che non svolgono funzioni di rilievo costituzionale, con l'osservanza dei seguenti principi e criteri direttivi:
- a) prevedere la responsabilita' in relazione alla commissione dei reati di cui agli articoli 316-bis, 316-ter, 317, 318, 319, 319-bis, 319-ter, 320, 321, 322, 322-bis, 640, secondo comma, numero 1, 640-bis e 640-ter, secondo comma, con esclusione dell'ipotesi in cui il fatto e commesso con abuso della qualita' di operatore del sistema, del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
- b) prevedere la responsabilita' in relazione alla commissione dei reati relativi alla tutela dell'incolumita' pubblica previsti dal titolo sesto del libro secondo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
- c) prevedere la responsabilita' in relazione alla commissione dei reati previsti dagli [articoli 589](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [590 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) che siano stati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro o relative alla tutela dell'igiene e della salute sul lavoro;
+ a) prevedere la responsabilita' in relazione alla commissione dei reati di cui agli articoli 316-bis, 316-ter, 317, 318, 319, 319-bis, 319-ter, 320, 321, 322, 322-bis, 640, secondo comma, numero 1, 640-bis e 640-ter, secondo comma, con esclusione dell'ipotesi in cui il fatto e commesso con abuso della qualita' di operatore del sistema, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ b) prevedere la responsabilita' in relazione alla commissione dei reati relativi alla tutela dell'incolumita' pubblica previsti dal titolo sesto del libro secondo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ c) prevedere la responsabilita' in relazione alla commissione dei reati previsti dagli [articoli 589](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [590 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) che siano stati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro o relative alla tutela dell'igiene e della salute sul lavoro;
  d) prevedere la responsabilita' in relazione alla commissione dei reati in materia di tutela dell'ambiente e del territorio, che siano punibili con pena detentiva non inferiore nel massimo ad un anno anche se alternativa alla pena pecuniaria, previsti dalla [legge 31 dicembre 1962, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1860), dalla [legge 14 luglio 1965, n. 963](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20pesca%20marittima.md), dalla [legge 31 dicembre 1982, n. 979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-12-31;979), dalla [legge 28 febbraio 1985, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47), e successive modificazioni, dal [decreto-legge 27 giugno 1985, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-06-27;312) convertito, con modificazioni, dalla [legge 8 agosto 1985, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;431), dal [decreto del Presidente della Repubblica 24 maggio 1988, n. 203](../DPR/Attuazione%20delle%20direttive%20CEE%20numeri%2080-779%2082-884%2084-360%20e%2085-203%20concernenti%20norme%20in%20materia%20di%20qualita%20dellaria%20relativamente%20a%20specifici%20agenti%20inquinanti%20e%20di%20inquinamento%20prodotto_78c2a13bac87.md), dalla [legge 6 dicembre 1991, n. 394](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-06;394), dal [decreto legislativo 27 gennaio 1992, n. 95](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md), dal [decreto legislativo 27 gennaio 1992, n. 99](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2086-278-CEE%20concernente%20la%20protezione%20dellambiente%20in%20particolare%20del%20suolo%20nellutilizzazione%20dei%20fanghi%20di%20depurazione%20in%20agricoltura.md), dal [decreto legislativo 17 marzo 1995, n. 230](Attuazione%20delle%20direttive%2089-618-Euratom%2090-641-Euratom%2096-29-Euratom%202006-117-Euratom%20in%20materia%20di%20radiazioni%20ionizzanti%202009-71-Euratom%20in%20materia%20di%20sicurezza%20nucleare%20degli%20impianti_d604ed65f72e.md), dal [decreto legislativo 5 febbraio 1997, n. 22](../Decreti%20Legislativi/Attuazione%20delle%20direttive%2091-156-CEE%20sui%20rifiuti%2091-689-CEE%20sui%20rifiuti%20pericolosi%20e%2094-62-CE%20sugli%20imballaggi%20e%20sui%20rifiuti%20di%20imballaggio.md), e successive modificazioni, dal [decreto legislativo 11 maggio 1999, n. 152](../Decreti%20Legislativi/Disposizioni%20sulla%20tutela%20delle%20acque%20dallinquinamento%20e%20recepimento%20della%20direttiva%2091-271-CEE%20concernente%20il%20trattamento%20delle%20acque%20reflue%20urbane%20e%20della%20direttiva%2091-676-CEE%20relativa%20_2e8d984f823c.md), dal [decreto legislativo 17 agosto 1999, n. 334](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2096-82-CE%20relativa%20al%20controllo%20dei%20pericoli%20di%20incidenti%20rilevanti%20connessi%20con%20determinate%20sostanze%20pericolose.md), dal [decreto legislativo 4 agosto 1999, n. 372](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md), e dal testo unico delle disposizioni legislative in materia di beni culturali e ambientali, approvato con [decreto legislativo 29 ottobre 1999, n. 490](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md);
  e) prevedere che i soggetti di cui all'alinea del presente comma sono responsabili in relazione ai reati commessi, a loro vantaggio o nel loro interesse, da chi svolge funzioni di rappresentanza o di amministrazione o di direzione, ovvero da chi esercita, anche di fatto, poteri di gestione e di controllo ovvero ancora da chi e' sottoposto alla direzione o alla vigilanza delle persone fisiche menzionate, quando la commissione del reato e' stata resa possibile dall'inosservanza degli obblighi connessi a tali funzioni; prevedere l'esclusione della responsabilita' dei soggetti di cui all'alinea del presente comma nei casi in cui l'autore abbia commesso il reato nell'esclusivo interesse proprio o di terzi;
  f) prevedere sanzioni amministrative effettive, proporzionate e dissuasive nei confronti dei soggetti indicati nell'alinea del presente comma;
@@ -115,14 +115,14 @@ Le disposizioni dei commi 1 e 2 non si applicano se si tratta di leggi ecceziona
 
 1.
 
-Nei casi e alle condizioni previsti dagli [articoli 7](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [8](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [9](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [10 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), gli enti aventi nel territorio dello Stato la sede principale rispondono anche in relazione ai reati commessi all'estero, purche' nei loro confronti non proceda lo Stato del luogo in cui e' stato commesso il fatto.
+Nei casi e alle condizioni previsti dagli [articoli 7](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [8](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [9](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [10 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), gli enti aventi nel territorio dello Stato la sede principale rispondono anche in relazione ai reati commessi all'estero, purche' nei loro confronti non proceda lo Stato del luogo in cui e' stato commesso il fatto.
 
 2.
 
 Nei casi in cui la legge prevede che il colpevole sia punito a richiesta del Ministro della giustizia, si procede contro l'ente solo se la richiesta e' formulata anche nei confronti di quest'ultimo.
 
 Nota all'art. 4:
- - Si riporta il testo degli [articoli 7](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [8](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [9](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [10 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md):
+ - Si riporta il testo degli [articoli 7](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [8](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [9](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [10 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md):
  "Art. 7 (Reati commessi all'estero). - E' punito secondo la legge italiana il cittadino o lo straniero che commette in territorio estero taluno dei seguenti reati:
  1) delitti contro la personalita' dello Stato;
  2) delitti di contraffazione del sigillo dello Stato e di uso di tale sigillo contraffatto;
@@ -462,7 +462,7 @@ In ogni caso, le sanzioni interdittive non possono essere applicate quando pregi
 
 La pubblicazione della sentenza di condanna puo' essere disposta quando nei confronti dell'ente viene applicata una sanzione interdittiva.
 
-((2. La pubblicazione della sentenza avviene ai sensi dell'[articolo 36 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nonche' mediante affissione nel comune ove l'ente ha la sede principale))
+((2. La pubblicazione della sentenza avviene ai sensi dell'[articolo 36 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nonche' mediante affissione nel comune ove l'ente ha la sede principale))
 
 3.
 
@@ -544,7 +544,7 @@ SEZIONE III
 
 1.
 
-In relazione alla commissione dei delitti di cui agli articoli 316-bis, 316-ter, ((353, 353-bis,)) 356, 640, comma 2, n. 1, 640-bis e 640-ter se commesso in danno dello Stato o di altro ente pubblico o dell'Unione europea, del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria fino a cinquecento quote.
+In relazione alla commissione dei delitti di cui agli articoli 316-bis, 316-ter, ((353, 353-bis,)) 356, 640, comma 2, n. 1, 640-bis e 640-ter se commesso in danno dello Stato o di altro ente pubblico o dell'Unione europea, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria fino a cinquecento quote.
 
 2.
 
@@ -562,17 +562,17 @@ Nei casi previsti dai commi precedenti, si applicano le sanzioni interdittive pr
 
 1.
 
-In relazione alla commissione dei delitti di cui agli [articoli 615-ter](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [617-quater](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [617-quinquies](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [635-bis](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [635-ter](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [635-quater](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [635-quinquies del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria ((da duecento a settecento quote)).
+In relazione alla commissione dei delitti di cui agli [articoli 615-ter](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [617-quater](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [617-quinquies](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [635-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [635-ter](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [635-quater](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [635-quinquies del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria ((da duecento a settecento quote)).
 
-((1-bis. In relazione alla commissione del delitto di cui all'[articolo 629, terzo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria da trecento a ottocento quote))
+((1-bis. In relazione alla commissione del delitto di cui all'[articolo 629, terzo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria da trecento a ottocento quote))
 
 2.
 
-In relazione alla commissione dei delitti di cui agli articoli 615-quater e ((635-quater.1)) del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria ((sino a quattrocento quote)).
+In relazione alla commissione dei delitti di cui agli articoli 615-quater e ((635-quater.1)) del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria ((sino a quattrocento quote)).
 
 3.
 
-In relazione alla commissione dei delitti di cui agli [articoli 491-bis](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [640-quinquies del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo quanto previsto dall'articolo 24 del presente decreto per i casi di frode informatica in danno dello Stato o di altro ente pubblico, e dei delitti di cui all'[articolo 1, comma 11, del decreto-legge 21 settembre 2019, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-09-21;105#art_1-com11), si applica all'ente la sanzione pecuniaria sino a quattrocento quote.
+In relazione alla commissione dei delitti di cui agli [articoli 491-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [640-quinquies del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), salvo quanto previsto dall'articolo 24 del presente decreto per i casi di frode informatica in danno dello Stato o di altro ente pubblico, e dei delitti di cui all'[articolo 1, comma 11, del decreto-legge 21 settembre 2019, n. 105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-09-21;105#art_1-com11), si applica all'ente la sanzione pecuniaria sino a quattrocento quote.
 
 4.
 
@@ -585,11 +585,11 @@ Nei casi di condanna per uno dei delitti indicati nel comma 2 si applicano le sa
 
 1.
 
-In relazione alla commissione di taluno dei delitti di cui agli articoli 416, sesto comma, 416-bis, 416-ter e 630 del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ai delitti commessi avvalendosi delle condizioni previste dal predetto articolo 416-bis ovvero al fine di agevolare l'attivita' delle associazioni previste dallo stesso articolo, nonche' ai delitti previsti dall'articolo 74 del testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), si applica la sanzione pecuniaria da quattrocento a mille quote.
+In relazione alla commissione di taluno dei delitti di cui agli articoli 416, sesto comma, 416-bis, 416-ter e 630 del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ai delitti commessi avvalendosi delle condizioni previste dal predetto articolo 416-bis ovvero al fine di agevolare l'attivita' delle associazioni previste dallo stesso articolo, nonche' ai delitti previsti dall'articolo 74 del testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), si applica la sanzione pecuniaria da quattrocento a mille quote.
 
 2.
 
-In relazione alla commissione di taluno dei delitti di cui all'[articolo 416 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ad esclusione del [sesto comma, ovvero di cui all'articolo 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_407-com6), [comma 2, lettera a), numero 5), del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_com2-leta-num5), si applica la sanzione pecuniaria da trecento a ottocento quote.
+In relazione alla commissione di taluno dei delitti di cui all'[articolo 416 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ad esclusione del [sesto comma, ovvero di cui all'articolo 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_407-com6), [comma 2, lettera a), numero 5), del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_com2-leta-num5), si applica la sanzione pecuniaria da trecento a ottocento quote.
 
 3.
 
@@ -603,15 +603,15 @@ Peculato ((, indebita destinazione di denaro o cose mobili)), concussione, induz
 
 1.
 
-In relazione alla commissione dei delitti di cui agli articoli 318, 321, 322, commi primo e terzo, e 346-bis del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica la sanzione pecuniaria fino a duecento quote. La medesima sanzione si applica, quando il fatto offende gli interessi finanziari dell'Unione europea, in relazione alla commissione dei delitti di cui agli ((articoli 314, primo comma, 314-bis e 316)) del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+In relazione alla commissione dei delitti di cui agli articoli 318, 321, 322, commi primo e terzo, e 346-bis del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica la sanzione pecuniaria fino a duecento quote. La medesima sanzione si applica, quando il fatto offende gli interessi finanziari dell'Unione europea, in relazione alla commissione dei delitti di cui agli ((articoli 314, primo comma, 314-bis e 316)) del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 2.
 
-In relazione alla commissione dei delitti di cui agli [articoli 319](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [319-ter, comma 1](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [321](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [322](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [commi 2](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [4, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria da duecento a seicento quote.
+In relazione alla commissione dei delitti di cui agli [articoli 319](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [319-ter, comma 1](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [321](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [322](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [commi 2](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [4, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria da duecento a seicento quote.
 
 3.
 
-In relazione alla commissione dei delitti di cui agli articoli 317, 319, aggravato ai sensi dell'articolo 319-bis quando dal fatto l'ente ha conseguito un profitto di rilevante entita', 319-ter, [comma 2](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [319-quater](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [321 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria da trecento a ottocento quote.
+In relazione alla commissione dei delitti di cui agli articoli 317, 319, aggravato ai sensi dell'articolo 319-bis quando dal fatto l'ente ha conseguito un profitto di rilevante entita', 319-ter, [comma 2](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [319-quater](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [321 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria da trecento a ottocento quote.
 
 4.
 
@@ -629,7 +629,7 @@ Se prima della sentenza di primo grado l'ente si e' efficacemente adoperato per 
 
 1.
 
-In relazione alla commissione dei delitti previsti dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in materia di falsita' in monete, in carte di pubblico credito ((, in valori di bollo e in strumenti o segni di riconoscimento)), si applicano all'ente le seguenti sanzioni pecuniarie:
+In relazione alla commissione dei delitti previsti dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in materia di falsita' in monete, in carte di pubblico credito ((, in valori di bollo e in strumenti o segni di riconoscimento)), si applicano all'ente le seguenti sanzioni pecuniarie:
                             a)
                                 per il delitto di cui all'articolo 453 la sanzione pecuniaria da trecento a ottocento quote;
                             b)
@@ -645,13 +645,13 @@ In relazione alla commissione dei delitti previsti dal [codice penale](../Regi%2
 
 2.
 
-Nei casi di condanna per uno dei delitti di cui agli articoli 453, 454, 455, 459, 460 ((, 461, 473 e 474)) del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applicano all'ente le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non superiore ad un anno.
+Nei casi di condanna per uno dei delitti di cui agli articoli 453, 454, 455, 459, 460 ((, 461, 473 e 474)) del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applicano all'ente le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non superiore ad un anno.
 
 ### Art. 25-bis.1. — (Delitti contro l'industria e il commercio).
 
 1.
 
-In relazione alla commissione dei delitti contro l'industria e il commercio previsti dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applicano all'ente le seguenti sanzioni pecuniarie:
+In relazione alla commissione dei delitti contro l'industria e il commercio previsti dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applicano all'ente le seguenti sanzioni pecuniarie:
                             a)
                                 per i delitti di cui agli articoli 513, 515, 516, 517, 517-ter ((, 517-quater e 517-octies, quarto comma,)) la sanzione pecuniaria fino a cinquecento quote;
                             b)
@@ -717,7 +717,7 @@ La [L. 28 dicembre 2005, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 1.
 
-In relazione alla commissione dei delitti aventi finalita' di terrorismo o di eversione dell'ordine democratico, previsti dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dalle leggi speciali, si applicano all'ente le seguenti sanzioni pecuniarie:
+In relazione alla commissione dei delitti aventi finalita' di terrorismo o di eversione dell'ordine democratico, previsti dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dalle leggi speciali, si applicano all'ente le seguenti sanzioni pecuniarie:
                             a)
                                 se il delitto e' punito con la pena della reclusione inferiore a dieci anni, la sanzione pecuniaria da duecento a settecento quote;
                             b)
@@ -743,7 +743,7 @@ Le disposizioni dei commi 1, 2 e 3 si applicano altresi' in relazione alla commi
 
 1.
 
-In relazione alla commissione dei delitti di cui all'[articolo 583-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano all'ente, nella cui struttura e' commesso il delitto, la sanzione pecuniaria da 300 a 700 quote e le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non inferiore ad un anno. Nel caso in cui si tratti di un ente privato accreditato e' altresi' revocato l'accreditamento.
+In relazione alla commissione dei delitti di cui all'[articolo 583-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano all'ente, nella cui struttura e' commesso il delitto, la sanzione pecuniaria da 300 a 700 quote e le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non inferiore ad un anno. Nel caso in cui si tratti di un ente privato accreditato e' altresi' revocato l'accreditamento.
 
 2.
 
@@ -755,7 +755,7 @@ Se l'ente o una sua unita' organizzativa viene stabilmente utilizzato allo scopo
 
 1.
 
-In relazione alla commissione dei delitti previsti dalla sezione I del capo III del titolo XII del libro II del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano all'ente le seguenti sanzioni pecuniarie:
+In relazione alla commissione dei delitti previsti dalla sezione I del capo III del titolo XII del libro II del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano all'ente le seguenti sanzioni pecuniarie:
                             a)
                                 per i delitti di cui agli articoli 600, 601 ((, 602 e 603-bis,)) la sanzione pecuniaria da quattrocento a mille quote;
                             b)
@@ -789,15 +789,15 @@ In relazione ai reati di abuso di informazioni privilegiate e di manipolazione d
 
 1.
 
-In relazione al delitto di cui all'[articolo 589 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), commesso con violazione dell'articolo 55, comma 2, del decreto legislativo attuativo della delega di cui alla [legge 3 agosto 2007, n. 123](../Leggi%20contenenti%20deleghe/Misure%20in%20tema%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20sul%20lavoro%20e%20delega%20al%20Governo%20per%20il%20riassetto%20e%20la%20riforma%20della%20normativa%20in%20materia.md), in materia di salute e sicurezza sul lavoro, si applica una sanzione pecuniaria in misura pari a 1.000 quote. Nel caso di condanna per il delitto di cui al precedente periodo si applicano le sanzioni interdittive di cui all'articolo 9, comma 2, per una durata non inferiore a tre mesi e non superiore ad un anno.
+In relazione al delitto di cui all'[articolo 589 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), commesso con violazione dell'articolo 55, comma 2, del decreto legislativo attuativo della delega di cui alla [legge 3 agosto 2007, n. 123](../Leggi%20contenenti%20deleghe/Misure%20in%20tema%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20sul%20lavoro%20e%20delega%20al%20Governo%20per%20il%20riassetto%20e%20la%20riforma%20della%20normativa%20in%20materia.md), in materia di salute e sicurezza sul lavoro, si applica una sanzione pecuniaria in misura pari a 1.000 quote. Nel caso di condanna per il delitto di cui al precedente periodo si applicano le sanzioni interdittive di cui all'articolo 9, comma 2, per una durata non inferiore a tre mesi e non superiore ad un anno.
 
 2.
 
-Salvo quanto previsto dal comma 1, in relazione al delitto di cui all'[articolo 589 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), commesso con violazione delle norme sulla tutela della salute e sicurezza sul lavoro, si applica una sanzione pecuniaria in misura non inferiore a 250 quote e non superiore a 500 quote. Nel caso di condanna per il delitto di cui al precedente periodo si applicano le sanzioni interdittive di cui all'articolo 9, comma 2, per una durata non inferiore a tre mesi e non superiore ad un anno.
+Salvo quanto previsto dal comma 1, in relazione al delitto di cui all'[articolo 589 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), commesso con violazione delle norme sulla tutela della salute e sicurezza sul lavoro, si applica una sanzione pecuniaria in misura non inferiore a 250 quote e non superiore a 500 quote. Nel caso di condanna per il delitto di cui al precedente periodo si applicano le sanzioni interdittive di cui all'articolo 9, comma 2, per una durata non inferiore a tre mesi e non superiore ad un anno.
 
 3.
 
-In relazione al delitto di cui all'[articolo 590, terzo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), commesso con violazione delle norme sulla tutela della salute e sicurezza sul lavoro, si applica una sanzione pecuniaria in misura non superiore a 250 quote. Nel caso di condanna per il delitto di cui al precedente periodo si applicano le sanzioni interdittive di cui all'articolo 9, comma 2, per una durata non superiore a sei mesi.
+In relazione al delitto di cui all'[articolo 590, terzo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), commesso con violazione delle norme sulla tutela della salute e sicurezza sul lavoro, si applica una sanzione pecuniaria in misura non superiore a 250 quote. Nel caso di condanna per il delitto di cui al precedente periodo si applicano le sanzioni interdittive di cui all'articolo 9, comma 2, per una durata non superiore a sei mesi.
 
 ))
 
@@ -807,7 +807,7 @@ In relazione al delitto di cui all'[articolo 590, terzo comma, del codice penale
 
 1.
 
-In relazione ai reati di cui agli articoli 648, 648-bis ((, 648-ter e 648-ter.1)) del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria da 200 a 800 quote. Nel caso in cui il denaro, i beni o le altre utilita' provengono da delitto per il quale e' stabilita la pena della reclusione superiore nel massimo a cinque anni si applica la sanzione pecuniaria da 400 a 1000 quote.
+In relazione ai reati di cui agli articoli 648, 648-bis ((, 648-ter e 648-ter.1)) del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria da 200 a 800 quote. Nel caso in cui il denaro, i beni o le altre utilita' provengono da delitto per il quale e' stabilita la pena della reclusione superiore nel massimo a cinque anni si applica la sanzione pecuniaria da 400 a 1000 quote.
 
 2.
 
@@ -823,7 +823,7 @@ In relazione agli illeciti di cui ai commi 1 e 2, il Ministero della giustizia, 
 
 1.
 
-In relazione alla commissione dei delitti previsti dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in materia di strumenti di pagamento diversi dai contanti, si applicano all'ente le seguenti sanzioni pecuniarie:
+In relazione alla commissione dei delitti previsti dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) in materia di strumenti di pagamento diversi dai contanti, si applicano all'ente le seguenti sanzioni pecuniarie:
                             a)
                                 per il delitto di cui all'articolo 493-ter, la sanzione pecuniaria da 300 a 800 quote;
                             b)
@@ -831,13 +831,13 @@ In relazione alla commissione dei delitti previsti dal [codice penale](../Regi%2
 
 2.
 
-Salvo che il fatto integri altro illecito amministrativo sanzionato piu' gravemente, in relazione alla commissione di ogni altro delitto contro la fede pubblica, contro il patrimonio o che comunque offende il patrimonio previsto dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quando ha ad oggetto strumenti di pagamento diversi dai contanti, si applicano all'ente le seguenti sanzioni pecuniarie:
+Salvo che il fatto integri altro illecito amministrativo sanzionato piu' gravemente, in relazione alla commissione di ogni altro delitto contro la fede pubblica, contro il patrimonio o che comunque offende il patrimonio previsto dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), quando ha ad oggetto strumenti di pagamento diversi dai contanti, si applicano all'ente le seguenti sanzioni pecuniarie:
                             a)
                                 se il delitto e' punito con la pena della reclusione inferiore ai dieci anni, la sanzione pecuniaria sino a 500 quote;
                             b)
                                 se il delitto e' punito con la pena non inferiore ai dieci anni di reclusione, la sanzione pecuniaria da 300 a 800 quote.
 
-((2-bis. In relazione alla commissione del delitto di cui all'[articolo 512-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria da 250 a 600 quote))
+((2-bis. In relazione alla commissione del delitto di cui all'[articolo 512-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria da 250 a 600 quote))
 
 3.
 
@@ -875,7 +875,7 @@ Nei casi di condanna per uno dei delitti di cui ai ((commi 1, 2 e 2-bis)) si app
 AGGIORNAMENTO (17)
 
 La [L. 3 agosto 2009, n. 116](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20dellOrganizzazione%20delle%20Nazioni%20Unite%20contro%20la%20corruzione%20adottata%20dalla%20Assemblea%20generale%20dellONU%20il%2031%20ottobre%202003%20con%20risoluzione%20n.%2058-4%20f_62e9013b1d6b.md), ha disposto (con l'art. 4) che "Dopo l'[articolo 25-octies del decreto legislativo 8 giugno 2001, n. 231](../Decreti%20Legislativi/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md), e' inserito il seguente: 
- "Art. 25-novies (Induzione a non rendere dichiarazioni o a rendere dichiarazioni mendaci all'autorita' giudiziaria). - 1. In relazione alla commissione del delitto di cui all'[articolo 377-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria fino a cinquecento quote"."
+ "Art. 25-novies (Induzione a non rendere dichiarazioni o a rendere dichiarazioni mendaci all'autorita' giudiziaria). - 1. In relazione alla commissione del delitto di cui all'[articolo 377-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria fino a cinquecento quote"."
 
 -------------
 
@@ -892,7 +892,7 @@ La [L. 3 agosto 2009, n. 116](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed
 
 1.
 
-In relazione alla commissione dei reati previsti dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applicano all'ente le seguenti sanzioni pecuniarie:
+In relazione alla commissione dei reati previsti dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applicano all'ente le seguenti sanzioni pecuniarie:
                             a)
                                 per la violazione dell'articolo 452-bis, la sanzione pecuniaria da quattrocento a seicento quote;
                             b)
@@ -972,7 +972,7 @@ In relazione alla commissione dei reati previsti dalla [legge 7 febbraio 1992, n
                             b)
                                 per la violazione dell'articolo 1, comma 2, la sanzione pecuniaria da centocinquanta a duecentocinquanta quote;
                             c)
-                                per i reati del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) richiamati dall'articolo 3-bis, comma 1, della medesima [legge n. 150 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;150), rispettivamente: 
+                                per i reati del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) richiamati dall'articolo 3-bis, comma 1, della medesima [legge n. 150 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;150), rispettivamente: 
  1) la sanzione pecuniaria fino a duecentocinquanta quote, in caso di commissione di reati per cui e' prevista la pena non superiore nel massimo ad un anno di reclusione; 
  2) la sanzione pecuniaria da centocinquanta a duecentocinquanta quote, in caso di commissione di reati per cui e' prevista la pena non superiore nel massimo a due anni di reclusione; 
  3) la sanzione pecuniaria da duecento a trecento quote, in caso di commissione di reati per cui e' prevista la pena non superiore nel massimo a tre anni di reclusione; 
@@ -998,7 +998,7 @@ Le sanzioni previste dal comma 2, lettera b), sono ridotte della meta' nel caso 
 
 7.
 
-Nei casi di condanna per i reati indicati al comma 2, (( lettera a) )), numero 2), e al comma 5, lettere b) e c), si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non superiore a sei mesi. Nei casi di condanna per i reati indicati dal comma 2, lettere b), b-bis) ed e), si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non superiore a un anno. Se l'ente o una sua unita' organizzativa vengono stabilmente utilizzati allo scopo unico o prevalente di consentire o agevolare la commissione dei reati di cui agli [articoli 452-bis](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [452-quater](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [452-sexies](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [452-quaterdecies del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), agli [articoli 256](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), [256-bis](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md) e [259 del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), e all'[articolo 8 del decreto legislativo 6 novembre 2007, n. 202](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-35-CE%20relativa%20allinquinamento%20provocato%20dalle%20navi%20e%20conseguenti%20sanzioni.md), si applica la sanzione dell'interdizione definitiva dall'esercizio dell'attivita' ai sensi ((dell'articolo 16, comma 3, del presente decreto)).
+Nei casi di condanna per i reati indicati al comma 2, (( lettera a) )), numero 2), e al comma 5, lettere b) e c), si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non superiore a sei mesi. Nei casi di condanna per i reati indicati dal comma 2, lettere b), b-bis) ed e), si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non superiore a un anno. Se l'ente o una sua unita' organizzativa vengono stabilmente utilizzati allo scopo unico o prevalente di consentire o agevolare la commissione dei reati di cui agli [articoli 452-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [452-quater](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [452-sexies](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [452-quaterdecies del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), agli [articoli 256](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), [256-bis](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md) e [259 del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), e all'[articolo 8 del decreto legislativo 6 novembre 2007, n. 202](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-35-CE%20relativa%20allinquinamento%20provocato%20dalle%20navi%20e%20conseguenti%20sanzioni.md), si applica la sanzione dell'interdizione definitiva dall'esercizio dell'attivita' ai sensi ((dell'articolo 16, comma 3, del presente decreto)).
 
 8.
 
@@ -1116,19 +1116,19 @@ Nei casi previsti dai commi 1 e 2 si applicano all'ente le sanzioni interdittive
 
 1.
 
-In relazione alla commissione del delitto previsto dall'[articolo 518-novies del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria da cento a quattrocento quote.
+In relazione alla commissione del delitto previsto dall'[articolo 518-novies del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria da cento a quattrocento quote.
 
 2.
 
-In relazione alla commissione dei delitti previsti dagli [articoli 518-ter](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [518-decies](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [518-undecies del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria da duecento a cinquecento quote.
+In relazione alla commissione dei delitti previsti dagli [articoli 518-ter](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [518-decies](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [518-undecies del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria da duecento a cinquecento quote.
 
 3.
 
-In relazione alla commissione dei delitti previsti dagli [articoli 518-duodecies](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [518-quaterdecies del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria da trecento a settecento quote.
+In relazione alla commissione dei delitti previsti dagli [articoli 518-duodecies](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [518-quaterdecies del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria da trecento a settecento quote.
 
 4.
 
-In relazione alla commissione dei delitti previsti dagli [articoli 518-bis](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [518-quater](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [518-octies del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria da quattrocento a novecento quote.
+In relazione alla commissione dei delitti previsti dagli [articoli 518-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [518-quater](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [518-octies del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria da quattrocento a novecento quote.
 
 5.
 
@@ -1142,7 +1142,7 @@ Nel caso di condanna per i delitti di cui ai commi da 1 a 4, si applicano all'en
 
 1.
 
-In relazione alla commissione dei delitti previsti dagli [articoli 518-sexies](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [518-terdecies del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria da cinquecento a mille quote.
+In relazione alla commissione dei delitti previsti dagli [articoli 518-sexies](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [518-terdecies del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applica all'ente la sanzione pecuniaria da cinquecento a mille quote.
 
 2. Se l'ente o una sua unita' organizzativa viene stabilmente utilizzato allo scopo unico o prevalente di consentire o agevolare la commissione dei delitti indicati al comma 1, si applica la sanzione dell'interdizione definitiva dall'esercizio dell'attivita' ai sensi dell'articolo 16, comma 3))
 

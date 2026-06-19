@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-All'[art. 17 del decreto legislativo luogotenenziale 26 aprile 1946, n. 240](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20a%20favore%20dei%20reduci.md), dopo le parole "Azienda Rilievo Alienazione Residuati (A.R.A.R.)" sono aggiunte le seguenti: "e dalla Gestione Raggruppamenti Autocarri (G.R.A.), dipendente dal Ministero dei trasporti".
+All'[art. 17 del decreto legislativo luogotenenziale 26 aprile 1946, n. 240](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvidenze%20a%20favore%20dei%20reduci.md), dopo le parole "Azienda Rilievo Alienazione Residuati (A.R.A.R.)" sono aggiunte le seguenti: "e dalla Gestione Raggruppamenti Autocarri (G.R.A.), dipendente dal Ministero dei trasporti".
  Per gli acquisti effettuati presso la Gestione Raggruppamenti Autocarri il relativo importo sara' dal Ministero del lavoro e della previdenza sociale versato direttamente alla Tesoreria.
 
 ## Art. 2.

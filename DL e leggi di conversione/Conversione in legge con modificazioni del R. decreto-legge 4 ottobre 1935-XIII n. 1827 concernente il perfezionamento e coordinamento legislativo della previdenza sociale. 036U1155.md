@@ -42,7 +42,7 @@ VITTORIO EMANUELE III
  
  Il primo comma dell'art. 123 e' sostituito dal seguente: 
  
- «L'Istituto e' ammesso di diritto al gratuito patrocinio, quando concorra la condizione prevista dal n. 2 dell'art. 15 della legge approvata col [R. decreto 30 dicembre 1923, n. 3282](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sul%20gratuito%20patrocinio.%20023U3282.md)». 
+ «L'Istituto e' ammesso di diritto al gratuito patrocinio, quando concorra la condizione prevista dal n. 2 dell'art. 15 della legge approvata col [R. decreto 30 dicembre 1923, n. 3282](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20sul%20gratuito%20patrocinio.%20023U3282.md)». 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

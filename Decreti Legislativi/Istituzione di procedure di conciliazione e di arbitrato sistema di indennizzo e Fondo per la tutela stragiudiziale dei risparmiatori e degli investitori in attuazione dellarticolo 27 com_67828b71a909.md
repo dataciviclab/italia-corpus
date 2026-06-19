@@ -21,7 +21,7 @@ Capo I
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 3 agosto 2017, n. 129](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-65-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20e%20che%20modifica%20la%20direttiva%202002-92-CE%20e%20la%20_274601d923b9.md) ha disposto (con l'art. 10, comma 12) che il presente decreto continua ad essere applicato fino al 3 gennaio 2018.
+Il [D.Lgs. 3 agosto 2017, n. 129](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-65-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20e%20che%20modifica%20la%20direttiva%202002-92-CE%20e%20la%20_274601d923b9.md) ha disposto (con l'art. 10, comma 12) che il presente decreto continua ad essere applicato fino al 3 gennaio 2018.
 
 ### Art. 2.
 
@@ -32,7 +32,7 @@ Il [D.Lgs. 3 agosto 2017, n. 129](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 3 agosto 2017, n. 129](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-65-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20e%20che%20modifica%20la%20direttiva%202002-92-CE%20e%20la%20_274601d923b9.md) ha disposto (con l'art. 10, comma 12) che il presente decreto continua ad essere applicato fino al 3 gennaio 2018.
+Il [D.Lgs. 3 agosto 2017, n. 129](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-65-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20e%20che%20modifica%20la%20direttiva%202002-92-CE%20e%20la%20_274601d923b9.md) ha disposto (con l'art. 10, comma 12) che il presente decreto continua ad essere applicato fino al 3 gennaio 2018.
 
 ### Art. 3.
 
@@ -43,7 +43,7 @@ Il [D.Lgs. 3 agosto 2017, n. 129](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 3 agosto 2017, n. 129](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-65-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20e%20che%20modifica%20la%20direttiva%202002-92-CE%20e%20la%20_274601d923b9.md) ha disposto (con l'art. 10, comma 12) che il presente decreto continua ad essere applicato fino al 3 gennaio 2018.
+Il [D.Lgs. 3 agosto 2017, n. 129](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-65-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20e%20che%20modifica%20la%20direttiva%202002-92-CE%20e%20la%20_274601d923b9.md) ha disposto (con l'art. 10, comma 12) che il presente decreto continua ad essere applicato fino al 3 gennaio 2018.
 
 ### Art. 4.
 
@@ -54,7 +54,7 @@ Il [D.Lgs. 3 agosto 2017, n. 129](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 3 agosto 2017, n. 129](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-65-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20e%20che%20modifica%20la%20direttiva%202002-92-CE%20e%20la%20_274601d923b9.md) ha disposto (con l'art. 10, comma 12) che il presente decreto continua ad essere applicato fino al 3 gennaio 2018.
+Il [D.Lgs. 3 agosto 2017, n. 129](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-65-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20e%20che%20modifica%20la%20direttiva%202002-92-CE%20e%20la%20_274601d923b9.md) ha disposto (con l'art. 10, comma 12) che il presente decreto continua ad essere applicato fino al 3 gennaio 2018.
 
 ### Art. 5.
 
@@ -65,7 +65,7 @@ Il [D.Lgs. 3 agosto 2017, n. 129](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 3 agosto 2017, n. 129](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-65-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20e%20che%20modifica%20la%20direttiva%202002-92-CE%20e%20la%20_274601d923b9.md) ha disposto (con l'art. 10, comma 12) che il presente decreto continua ad essere applicato fino al 3 gennaio 2018.
+Il [D.Lgs. 3 agosto 2017, n. 129](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-65-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20e%20che%20modifica%20la%20direttiva%202002-92-CE%20e%20la%20_274601d923b9.md) ha disposto (con l'art. 10, comma 12) che il presente decreto continua ad essere applicato fino al 3 gennaio 2018.
 
 ### Art. 6.
 
@@ -76,7 +76,7 @@ Il [D.Lgs. 3 agosto 2017, n. 129](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 3 agosto 2017, n. 129](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-65-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20e%20che%20modifica%20la%20direttiva%202002-92-CE%20e%20la%20_274601d923b9.md) ha disposto (con l'art. 10, comma 12) che il presente decreto continua ad essere applicato fino al 3 gennaio 2018.
+Il [D.Lgs. 3 agosto 2017, n. 129](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-65-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20e%20che%20modifica%20la%20direttiva%202002-92-CE%20e%20la%20_274601d923b9.md) ha disposto (con l'art. 10, comma 12) che il presente decreto continua ad essere applicato fino al 3 gennaio 2018.
 
 ### Art. 7.
 
@@ -87,7 +87,7 @@ Il [D.Lgs. 3 agosto 2017, n. 129](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 3 agosto 2017, n. 129](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-65-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20e%20che%20modifica%20la%20direttiva%202002-92-CE%20e%20la%20_274601d923b9.md) ha disposto (con l'art. 10, comma 12) che il presente decreto continua ad essere applicato fino al 3 gennaio 2018.
+Il [D.Lgs. 3 agosto 2017, n. 129](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-65-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20e%20che%20modifica%20la%20direttiva%202002-92-CE%20e%20la%20_274601d923b9.md) ha disposto (con l'art. 10, comma 12) che il presente decreto continua ad essere applicato fino al 3 gennaio 2018.
 
 ## ((Fondo
 per la tutela stragiudiziale dei risparmiatori e degli investitori))
@@ -103,7 +103,7 @@ Capo II
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 3 agosto 2017, n. 129](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-65-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20e%20che%20modifica%20la%20direttiva%202002-92-CE%20e%20la%20_274601d923b9.md) ha disposto (con l'art. 10, comma 12) che il presente decreto continua ad essere applicato fino al 3 gennaio 2018.
+Il [D.Lgs. 3 agosto 2017, n. 129](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-65-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20e%20che%20modifica%20la%20direttiva%202002-92-CE%20e%20la%20_274601d923b9.md) ha disposto (con l'art. 10, comma 12) che il presente decreto continua ad essere applicato fino al 3 gennaio 2018.
 
 ### Art. 9.
 
@@ -114,4 +114,4 @@ Il [D.Lgs. 3 agosto 2017, n. 129](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 3 agosto 2017, n. 129](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-65-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20e%20che%20modifica%20la%20direttiva%202002-92-CE%20e%20la%20_274601d923b9.md) ha disposto (con l'art. 10, comma 12) che il presente decreto continua ad essere applicato fino al 3 gennaio 2018.
+Il [D.Lgs. 3 agosto 2017, n. 129](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-65-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20relativa%20ai%20mercati%20degli%20strumenti%20finanziari%20e%20che%20modifica%20la%20direttiva%202002-92-CE%20e%20la%20_274601d923b9.md) ha disposto (con l'art. 10, comma 12) che il presente decreto continua ad essere applicato fino al 3 gennaio 2018.

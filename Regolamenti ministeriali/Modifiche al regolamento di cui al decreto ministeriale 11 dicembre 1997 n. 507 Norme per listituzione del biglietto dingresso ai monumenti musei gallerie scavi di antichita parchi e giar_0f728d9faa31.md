@@ -18,7 +18,7 @@ Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.n
 
 Visto il [decreto legislativo 20 ottobre 1998, n. 368](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), che ha istituito il Ministero per i beni e le attivita' culturali, di seguito denominato «Ministero», e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 10 giugno 2004, n. 173](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali.md), recante il regolamento di organizzazione del Ministero per i beni e le attivita' culturali;
+Visto il [decreto del Presidente della Repubblica 10 giugno 2004, n. 173](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali.md), recante il regolamento di organizzazione del Ministero per i beni e le attivita' culturali;
 
 Visto l'[articolo 1, comma 1, della legge 25 marzo 1997, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-25;78#art_1-com1), concernente la soppressione della tassa di ingresso ai musei statali;
 
@@ -95,7 +95,7 @@ Avvertenza:
  4. (Omissis).
  4-bis. (Omissis).
  - Il [decreto legislativo 20 ottobre 1998, n. 368](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante «Istituzione del Ministero per i beni e le attivita' culturali», e' pubblicato nella Gazzetta Ufficiale del 26 ottobre 1998, n. 250.
- - Il [decreto del Presidente della Repubblica 10 giugno 2004, n. 173](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali.md), recante il «Regolamento di organizzazione del Ministero per i beni e le attivita' culturali», e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 17 luglio 2004, n. 166.
+ - Il [decreto del Presidente della Repubblica 10 giugno 2004, n. 173](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali.md), recante il «Regolamento di organizzazione del Ministero per i beni e le attivita' culturali», e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 17 luglio 2004, n. 166.
  - Il testo dell'[art. 1 della legge 25 marzo 1997, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-25;78#art_1), recante «Soppressione della tassa d'ingresso ai musei statali», pubblicata nella Gazzetta Ufficiale del 29 marzo 1997, n. 74, e' il seguente:
  «Art. 1. - 1. La tassa d'ingresso per l'accesso ai monumenti, musei, gallerie e scavi di antichita' dello Stato, prevista dal [regio decreto 11 novembre 1885, n. 3191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-11-11;3191), e successive modificazioni, e' soppressa».
  2. [abrogato].

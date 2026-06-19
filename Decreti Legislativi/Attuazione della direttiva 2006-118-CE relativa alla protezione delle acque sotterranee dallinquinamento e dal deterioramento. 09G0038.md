@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 25 febbraio 2008, n. 34](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202007.md), e in particolare l'Allegato B;
+Vista la [legge 25 febbraio 2008, n. 34](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202007.md), e in particolare l'Allegato B;
 
 Vista la [direttiva 2006/118/CE del Parlamento europeo e del Consiglio, del 12 dicembre 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;118), sulla protezione delle acque sotterranee dall'inquinamento e dal deterioramento;
 
@@ -60,7 +60,7 @@ Avvertenza:
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- - Si riporta il testo dell'allegato B, della [legge 25 febbraio 2008, n. 34](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202007.md), recante: «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. (Legge comunitaria 2007). Pubblicata nella Gazzetta Ufficiale 6 marzo 2008, n. 56, S.O.».
+ - Si riporta il testo dell'allegato B, della [legge 25 febbraio 2008, n. 34](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202007.md), recante: «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. (Legge comunitaria 2007). Pubblicata nella Gazzetta Ufficiale 6 marzo 2008, n. 56, S.O.».
  «Allegato B 
  2006/22/CE del Parlamento europeo e del Consiglio, del 15 marzo 2006, sulle norme minime per l'applicazione dei regolamenti n. 3820/85/CEE e n. 3821/85/CEE del Consiglio relativi a disposizioni in materia sociale nel settore dei trasporti su strada e che abroga la [direttiva 88/599/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;599).
  2006/43/CE del Parlamento europeo e del Consiglio, del 17 maggio 2006, relativa alle revisioni legali dei conti annuali e dei conti consolidati, che modifica le [direttive 78/660/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;660) e [83/349/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1983;349) e abroga la [direttiva 84/253/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1984;253).

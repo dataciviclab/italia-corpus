@@ -523,7 +523,7 @@ Ai sensi e per gli effetti del presente decreto legislativo, ogni riferimento al
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 45](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-70-EURATOM%20che%20istituisce%20un%20quadro%20comunitario%20per%20la%20gestione%20responsabile%20e%20sicura%20del%20combustibile%20nucleare%20esaurito%20e%20dei%20rifiuti%20radioattivi.%2014G00057.md).
+COMMA ABROGATO DAL [D.LGS. 4 MARZO 2014, N. 45](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-70-EURATOM%20che%20istituisce%20un%20quadro%20comunitario%20per%20la%20gestione%20responsabile%20e%20sicura%20del%20combustibile%20nucleare%20esaurito%20e%20dei%20rifiuti%20radioattivi.%2014G00057.md).
 
 3.
 

@@ -22,7 +22,7 @@ Visto il [decreto del Ministro per le comunicazioni 25 aprile 1925, n 2343](http
 
 Visto il [decreto del Ministro per le comunicazioni 19 agosto 1925, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.comunicazioni:decreto:1925-08-19;494), col quale venivano apportate varianti alle norme contabili per il funzionamento dei distributori viveri;
 
-Visto il [R. decreto 4 febbraio 1932, n. 125](../Regi%20decreti/Assegnazione%20della%20denominazione%20La%20Provvida%20alla%20Gestione%20speciale%20viveri%20istituita%20presso%20la%20Direzione%20generale%20delle%20ferrovie%20dello%20Stato.%20032U0125.md), concernente l'assegnazione della denominazione «La Provvida» alla gestione stessa;
+Visto il [R. decreto 4 febbraio 1932, n. 125](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assegnazione%20della%20denominazione%20La%20Provvida%20alla%20Gestione%20speciale%20viveri%20istituita%20presso%20la%20Direzione%20generale%20delle%20ferrovie%20dello%20Stato.%20032U0125.md), concernente l'assegnazione della denominazione «La Provvida» alla gestione stessa;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

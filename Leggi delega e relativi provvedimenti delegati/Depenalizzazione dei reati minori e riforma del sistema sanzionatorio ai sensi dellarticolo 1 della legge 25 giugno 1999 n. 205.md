@@ -32,7 +32,7 @@ Titolo I
 
 1.
 
-Sono trasformate in illeciti amministrativi, soggetti alle sanzioni stabilite dagli articoli 2 e 3, le violazioni previste come reato dalle leggi comprese nell'elenco allegato al presente decreto legislativo e da ogni altra disposizione in materia di produzione, commercio e igiene degli alimenti e delle bevande, nonche' di tutela della denominazione di origine dei medesimi, fatta eccezione per i reati previsti dal [codice penale e dagli articoli 5](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [6](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [12](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) della [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), e successive modificazioni ed integrazioni.
+Sono trasformate in illeciti amministrativi, soggetti alle sanzioni stabilite dagli articoli 2 e 3, le violazioni previste come reato dalle leggi comprese nell'elenco allegato al presente decreto legislativo e da ogni altra disposizione in materia di produzione, commercio e igiene degli alimenti e delle bevande, nonche' di tutela della denominazione di origine dei medesimi, fatta eccezione per i reati previsti dal [codice penale e dagli articoli 5](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [6](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [12](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) della [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), e successive modificazioni ed integrazioni.
 
 Avvertenza:
  In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 28 gennaio 2000 si procedera' alla ripubblicazione del testo del presente decreto legislativo corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
@@ -95,7 +95,7 @@ Titolo I
 
 1.
 
-Dopo l'[articolo 517 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' inserito il seguente:
+Dopo l'[articolo 517 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' inserito il seguente:
  "Art. 517-bis (Circostanza aggravante). - Le pene stabilite dagli articoli 515, 516 e 517 sono aumentate se i fatti da essi previsti hanno ad oggetto alimenti o bevande la cui denominazione di origine o geografica o le cui specificita' sono protette dalle norme vigenti.
  Negli stessi casi, il giudice, nel pronunciare condanna, puo' disporre, se il fatto e' di particolare gravita' o in caso di recidiva specifica, la chiusura dello stabilimento o dell'esercizio in cui il fatto e' stato commesso da un minimo di cinque giorni ad un massimo di tre mesi, ovvero la revoca della licenza, dell'autorizzazione o dell'analogo provvedimento amministrativo che consente lo svolgimento dell'attivita' commerciale nello stabilimento o nell'esercizio stesso.".
 
@@ -133,7 +133,7 @@ L'autorita' che ha emesso l'ordinanza-ingiunzione cura l'esecuzione dell'affissi
 
 4.
 
-La pubblicazione del provvedimento e' eseguita con le modalita' previste dall'[articolo 36 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), in quanto applicabile.
+La pubblicazione del provvedimento e' eseguita con le modalita' previste dall'[articolo 36 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), in quanto applicabile.
 
 ### Art. 8. — Chiusura dello stabilimento o dell'esercizio
  per mancanza dei requisiti igienico-sanitari
@@ -148,7 +148,7 @@ Il provvedimento e' immediatamente revocato se la situazione viene regolarizzata
 
 3.
 
-Restano ferme le disposizioni previste dall'articolo 3 del presente decreto, dall'[articolo 517-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dall'[articolo 12-bis e dal primo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283#art_12bis-com1) dell'[articolo 15 della legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283#art_15).
+Restano ferme le disposizioni previste dall'articolo 3 del presente decreto, dall'[articolo 517-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), dall'[articolo 12-bis e dal primo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283#art_12bis-com1) dell'[articolo 15 della legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283#art_15).
 
 ## MODIFICA DEL SISTEMA SANZIONATORIO IN MATERIA DI DISCIPLINA DELLA NAVIGAZIONE
 
@@ -158,27 +158,27 @@ Titolo II
 
 1.
 
-Dopo l'[articolo 1083 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono inseriti i seguenti:
+Dopo l'[articolo 1083 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) sono inseriti i seguenti:
  "Art. 1083-bis (Sanzioni amministrative accessorie). - Le sanzioni accessorie per le violazioni amministrative previste dal presente codice sono:
  1) la sospensione dai titoli professionali marittimi, della navigazione interna e aeronautici, se si tratta di illeciti commessi dalle persone indicate nell'articolo 1082, primo comma, n. 1, ovvero da comandanti, ufficiali e sottufficiali della navigazione interna;
  2) la sospensione dalla professione marittima o aeronautica o dalla professione della navigazione interna, se si tratta di illeciti commessi dalle persone indicate nell'articolo 1082, primo comma, n. 2, ovvero dagli appartenenti al personale della navigazione interna.
  Art. 1083-ter (Effetti e durata delle sanzioni amministrative accessorie). - La sospensione dai titoli professionali marittimi, della navigazione interna e aeronautici di cui all'articolo 1083-bis, primo comma, n. 1, priva il soggetto del diritto di esercitare qualsiasi funzione o servizio, per i quali sia richiesto uno dei titoli indicati negli articoli 123, 134 e 739, per un tempo non inferiore a quindici giorni e non superiore ad un anno.
  La sospensione dalla professione marittima o aeronautica o dalla professione della navigazione interna di cui all'articolo 1083-bis, primo comma, n. 2, priva il soggetto del diritto di esercitare la professione per un tempo non inferiore a quindici giorni e non superiore ad un anno.
- Alle sanzioni accessorie indicate dai precedenti commi si applicano, in quanto compatibili, le disposizioni del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) relative alla sospensione dall'esercizio di una professione.".
+ Alle sanzioni accessorie indicate dai precedenti commi si applicano, in quanto compatibili, le disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) relative alla sospensione dall'esercizio di una professione.".
 
 2.
 
-Nel [primo comma dell'articolo 1086 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "a titolo di pene pecuniarie per i reati previsti dal presente codice" sono sostituite dalle seguenti: "a titolo di pene o di sanzioni amministrative pecuniarie per le violazioni previste dal presente codice".
+Nel [primo comma dell'articolo 1086 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "a titolo di pene pecuniarie per i reati previsti dal presente codice" sono sostituite dalle seguenti: "a titolo di pene o di sanzioni amministrative pecuniarie per le violazioni previste dal presente codice".
 
 ### Art. 10. — Disposizioni sui beni pubblici destinati alla navigazione
 
 1.
 
-Nell'[articolo 1162 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "e' punito con l'arresto fino a due mesi ovvero con l'ammenda fino a lire duecentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire diciotto milioni".
+Nell'[articolo 1162 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "e' punito con l'arresto fino a due mesi ovvero con l'ammenda fino a lire duecentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire diciotto milioni".
 
 2.
 
-L'[articolo 1163 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
+L'[articolo 1163 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "e' punito con l'arresto fino a due mesi ovvero con l'ammenda fino a lire quattrocentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire diciotto milioni";
                             b)
@@ -186,30 +186,30 @@ L'[articolo 1163 del codice della navigazione](../Regi%20decreti/Approvazione%20
 
 3.
 
-Nell'[articolo 1164 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "se il fatto non costituisce un piu' grave reato, con l'arresto fino a tre mesi ovvero con l'ammenda fino a lire quattrocentomila" sono sostituite dalle seguenti: "se il fatto non costituisce reato, con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire sei milioni".
+Nell'[articolo 1164 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "se il fatto non costituisce un piu' grave reato, con l'arresto fino a tre mesi ovvero con l'ammenda fino a lire quattrocentomila" sono sostituite dalle seguenti: "se il fatto non costituisce reato, con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire sei milioni".
 
 ### Art. 11. — Disposizioni sull'ordinamento e sulla polizia
  dei porti e degli aerodromi
 
 1.
 
-Nell'[articolo 1169 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "con l'arresto fino a tre mesi ovvero con l'ammenda da lire quarantamila a lire quattrocentomila" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni.".
+Nell'[articolo 1169 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "con l'arresto fino a tre mesi ovvero con l'ammenda da lire quarantamila a lire quattrocentomila" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni.".
 
 2.
 
-Nell'[articolo 1170 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "con l'arresto fino a tre mesi ovvero con l'ammenda da lire centomila a un milione" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni".
+Nell'[articolo 1170 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "con l'arresto fino a tre mesi ovvero con l'ammenda da lire centomila a un milione" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni".
 
 3.
 
-Nell'[articolo 1171 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "con l'arresto fino a un anno ovvero con l'ammenda fino a lire due milioni" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire cinque milioni a lire trenta milioni".
+Nell'[articolo 1171 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "con l'arresto fino a un anno ovvero con l'ammenda fino a lire due milioni" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire cinque milioni a lire trenta milioni".
 
 4.
 
-Nell'[articolo 1174 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "e' punito, se il fatto non costituisce un piu' grave reato, con l'arresto fino a tre mesi ovvero con l'ammenda fino a lire quattrocentomila" sono sostituite dalle seguenti: "e' punito, se il fatto non costituisce reato, con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni".
+Nell'[articolo 1174 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "e' punito, se il fatto non costituisce un piu' grave reato, con l'arresto fino a tre mesi ovvero con l'ammenda fino a lire quattrocentomila" sono sostituite dalle seguenti: "e' punito, se il fatto non costituisce reato, con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni".
 
 5.
 
-L'[articolo 1175 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 1175 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  "Art. 1175 (Sanzioni amministrative accessorie). - La violazione degli articoli 1170, 1173 e 1174 importa l'applicazione della sanzione amministrativa accessoria della sospensione dai titoli o dalla professione.".
 
 ### Art. 12. — Disposizioni sull'assunzione della gente
@@ -217,7 +217,7 @@ L'[articolo 1175 del codice della navigazione](../Regi%20decreti/Approvazione%20
 
 1.
 
-L'[articolo 1178 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
+L'[articolo 1178 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "con l'ammenda fino a lire duecentomila" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire trecentomila a lire tre milioni";
                             b)
@@ -225,7 +225,7 @@ L'[articolo 1178 del codice della navigazione](../Regi%20decreti/Approvazione%20
 
 2.
 
-L'[articolo 1179 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
+L'[articolo 1179 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "con l'ammenda da lire centomila a lire un milione" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni";
                             b)
@@ -233,7 +233,7 @@ L'[articolo 1179 del codice della navigazione](../Regi%20decreti/Approvazione%20
 
 3.
 
-L'[articolo 1180 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
+L'[articolo 1180 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "con l'ammenda da lire sessantamila a duecentomila" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire cinquecentomila a lire tre milioni";
                             b)
@@ -243,7 +243,7 @@ L'[articolo 1180 del codice della navigazione](../Regi%20decreti/Approvazione%20
 
 1.
 
-L'[articolo 1184 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
+L'[articolo 1184 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "con l'arresto da due a sei mesi ovvero con l'ammenda da lire cento milioni a lire quattrocento milioni" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire trenta milioni a lire sessanta milioni. Non e' ammesso il pagamento in misura ridotta ai sensi dell'[articolo 16 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_16).";
                             b)
@@ -253,12 +253,12 @@ L'[articolo 1184 del codice della navigazione](../Regi%20decreti/Approvazione%20
 
 1.
 
-L'[articolo 1190 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 1190 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  "Art. 1190 (Inosservanza di norme sulle scuole di pilotaggio). - Chiunque ammette all'istruzione di pilotaggio aereo un allievo, che non ha conseguito il prescritto certificato di idoneita' psicofisica, ovvero un allievo di minore eta', senza il consenso di chi esercita la potesta' o la tutela, e' punito con la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire diciotto milioni.".
 
 2.
 
-L'[articolo 1193 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
+L'[articolo 1193 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "con l'arresto fino a sei mesi ovvero con l'ammenda fino a lire quattrocentomila" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire diciotto milioni";
                             b)
@@ -266,7 +266,7 @@ L'[articolo 1193 del codice della navigazione](../Regi%20decreti/Approvazione%20
 
 3.
 
-L'[articolo 1196 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
+L'[articolo 1196 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "qualora il fatto non costituisca un piu' grave reato, con l'arresto fino a tre mesi ovvero con l'ammenda fino a lire un milione" sono sostituite dalle seguenti: "se il fatto non costituisce reato, con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni";
                             b)
@@ -274,11 +274,11 @@ L'[articolo 1196 del codice della navigazione](../Regi%20decreti/Approvazione%20
 
 4.
 
-Nell'[articolo 1198 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "con l'arresto fino a tre mesi ovvero con l'ammenda fino a lire quattrocentomila" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni.".
+Nell'[articolo 1198 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "con l'arresto fino a tre mesi ovvero con l'ammenda fino a lire quattrocentomila" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni.".
 
 5.
 
-L'[articolo 1199 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
+L'[articolo 1199 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "e' punito con l'arresto fino a sei mesi e con l'ammenda da lire centomila a due milioni" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa del pagamento di una somma da lire dieci milioni a lire sessanta milioni";
                             b)
@@ -290,7 +290,7 @@ L'[articolo 1199 del codice della navigazione](../Regi%20decreti/Approvazione%20
 
 6.
 
-L'[articolo 1200 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
+L'[articolo 1200 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "con l'arresto fino a tre mesi ovvero con l'ammenda da lire sessantamila a un milione" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni";
                             b)
@@ -300,11 +300,11 @@ L'[articolo 1200 del codice della navigazione](../Regi%20decreti/Approvazione%20
 
 7.
 
-Nell'[articolo 1201 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "con l'arresto fino a tre mesi ovvero con l'ammenda da lire centomila a un milione" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni".
+Nell'[articolo 1201 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "con l'arresto fino a tre mesi ovvero con l'ammenda da lire centomila a un milione" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni".
 
 8.
 
-L'[articolo 1201-bis del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
+L'[articolo 1201-bis del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
                             a)
                                 nel primo periodo del primo comma le parole "con l'arresto fino a un anno" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni";
                             b)
@@ -317,7 +317,7 @@ L'[articolo 1201-bis del codice della navigazione](../Regi%20decreti/Approvazion
 
 9.
 
-L'[articolo 1204 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
+L'[articolo 1204 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "con l'arresto fino a un anno ovvero con l'ammenda fino a lire un milione" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire cinque milioni a lire trenta milioni";
                             b)
@@ -328,11 +328,11 @@ L'[articolo 1204 del codice della navigazione](../Regi%20decreti/Approvazione%20
 
 10.
 
-Nell'[articolo 1207 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "con l'arresto fino a sei mesi ovvero con l'ammenda fino a lire un milione" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire dodici milioni".
+Nell'[articolo 1207 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "con l'arresto fino a sei mesi ovvero con l'ammenda fino a lire un milione" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire dodici milioni".
 
 11.
 
-L'[articolo 1208 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
+L'[articolo 1208 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "con l'ammenda fino a lire duecentomila" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire cinquecentomila a lire tre milioni";
                             b)
@@ -340,19 +340,19 @@ L'[articolo 1208 del codice della navigazione](../Regi%20decreti/Approvazione%20
 
 12.
 
-Nell'[articolo 1209 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "con l'arresto fino a sei mesi ovvero con l'ammenda fino a lire un milione" sono sostituite dalle seguenti: "se il fatto non costituisce reato, con la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire diciotto milioni".
+Nell'[articolo 1209 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "con l'arresto fino a sei mesi ovvero con l'ammenda fino a lire un milione" sono sostituite dalle seguenti: "se il fatto non costituisce reato, con la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire diciotto milioni".
 
 13.
 
-Nell'[articolo 1211 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "con l'arresto fino a sei mesi ovvero con l'ammenda fino a lire un milione" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire diciotto milioni".
+Nell'[articolo 1211 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "con l'arresto fino a sei mesi ovvero con l'ammenda fino a lire un milione" sono sostituite dalle seguenti: "con la sanzione amministrativa del pagamento di una somma da lire tre milioni a lire diciotto milioni".
 
 14.
 
-Nell'[articolo 1213 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "se il fatto non costituisce un piu' grave reato, con l'arresto fino a tre mesi ovvero con l'ammenda fino a lire quattrocentomila" sono sostituite dalle seguenti: "se il fatto con costituisce reato, con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni".
+Nell'[articolo 1213 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le parole "se il fatto non costituisce un piu' grave reato, con l'arresto fino a tre mesi ovvero con l'ammenda fino a lire quattrocentomila" sono sostituite dalle seguenti: "se il fatto con costituisce reato, con la sanzione amministrativa del pagamento di una somma da lire due milioni a lire dodici milioni".
 
 15.
 
-L'[articolo 1214 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
+L'[articolo 1214 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente:
  "Art. 1214 (Sanzioni amministrative accessorie). - La violazione degli articoli 1193, 1198, 1199, 1204, secondo comma, 1207 e 1209 comporta l'applicazione della sanzione amministrativa accessoria della sospensione dai titoli o dalla professione.".
 
 ### Art. 15. — Modifiche all'articolo 5 della legge 29 gennaio 1986, n. 32
@@ -402,7 +402,7 @@ Dopo l'[articolo 1 del decreto legislativo 22 gennaio 1948, n. 66](../Decreti%20
 
 L'[articolo 26 della legge 6 giugno 1974, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-06;298#art_26) e' cosi' modificato:
                             a)
-                                nel primo comma le parole "e' punito a norma dell'[articolo 348 codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa del pagamento di una somma da lire quattro milioni a lire ventiquattro milioni. Si applica la sanzione amministrativa del pagamento di una somma da lire cinque milioni a lire trenta milioni se il soggetto, nei cinque anni precedenti, ha commesso un'altra violazione delle disposizioni del presente articolo o dell'articolo 46, accertata con provvedimento esecutivo.";
+                                nel primo comma le parole "e' punito a norma dell'[articolo 348 codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa del pagamento di una somma da lire quattro milioni a lire ventiquattro milioni. Si applica la sanzione amministrativa del pagamento di una somma da lire cinque milioni a lire trenta milioni se il soggetto, nei cinque anni precedenti, ha commesso un'altra violazione delle disposizioni del presente articolo o dell'articolo 46, accertata con provvedimento esecutivo.";
                             b)
                                 il secondo comma e' soppresso;
                             c)
@@ -591,7 +591,7 @@ Dopo l'articolo 295 del testo unico delle disposizioni legislative in materia do
  "Art. 295-bis (Sanzioni amministrative per le violazioni di lieve entita'). - Nei casi previsti dagli articoli 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292 e 294, se l'ammontare dei diritti di confine dovuti non supera lire sette milioni e non ricorrono le circostanze indicate dall'articolo 295, secondo comma, si applica, in luogo della pena stabilita dai medesimi articoli, la sanzione amministrativa pecuniaria non minore di due e non maggiore di dieci volte i diritti di confine dovuti. Nei casi previsti dall'articolo 294, la sanzione non puo' essere comunque inferiore a lire un milione.
  La sanzione puo' essere aumentata fino alla meta' se ricorre la circostanza indicata dall'articolo 295, primo comma.
  Le disposizioni degli articoli 301, 301-bis e 333 si osservano anche con riguardo alle violazioni previste dal presente articolo. I provvedimenti per i quali, in base alle medesime disposizioni, e' competente l'autorita' giudiziaria sono adottati dal capo della dogana nella cui circoscrizione la violazione e' stata accertata.
- Nei casi in cui le violazioni previste dagli articoli indicati nel primo comma conservano rilevanza penale sebbene l'ammontare dei diritti di confine dovuti non superi lire sette milioni, per la presenza delle circostanze aggravanti indicate dell'articolo 295, secondo comma, queste ultime restano soggette al giudizio di equivalenza o di prevalenza con eventuali circostanze attenuanti a norma dell'[articolo 69 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Nei casi in cui le violazioni previste dagli articoli indicati nel primo comma conservano rilevanza penale sebbene l'ammontare dei diritti di confine dovuti non superi lire sette milioni, per la presenza delle circostanze aggravanti indicate dell'articolo 295, secondo comma, queste ultime restano soggette al giudizio di equivalenza o di prevalenza con eventuali circostanze attenuanti a norma dell'[articolo 69 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Le disposizioni del presente articolo non si applicano ai fatti di contrabbando relativi a tabacchi lavorati esteri.".
 
 ### Art. 26. — Modifica della disciplina del contrabbando abituale
@@ -754,28 +754,28 @@ Titolo VI
 
 1.
 
-Nell'[articolo 345 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole "e' punito con la multa fino a lire un milione" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila".
+Nell'[articolo 345 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole "e' punito con la multa fino a lire un milione" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila".
 
 ### Art. 39. — Modifica dell'articolo 350 del codice penale, in tema
  di agevolazione colposa della violazione di sigilli
 
 1.
 
-Nell'[articolo 350 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole "e' punito con la multa da lire centomila a due milioni" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila".
+Nell'[articolo 350 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole "e' punito con la multa da lire centomila a due milioni" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila".
 
 ### Art. 40. — Modifica dell'articolo 352 del codice penale, in tema
  di vendita di stampati dei quali e' stato ordinato il sequestro
 
 1.
 
-Nell'[articolo 352 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole "e' punito con la multa fino a lire un milione" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila".
+Nell'[articolo 352 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole "e' punito con la multa fino a lire un milione" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila".
 
 ### Art. 41. — Modifica dell'articolo 465 del codice penale, in tema
  di uso di biglietti falsificati di pubbliche imprese di trasporto
 
 1.
 
-L'[articolo 465 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
+L'[articolo 465 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "e' punito con la reclusione fino a sei mesi o con la multa da lire ventimila a quattrocentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila";
                             b)
@@ -786,7 +786,7 @@ L'[articolo 465 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%
 
 1.
 
-L'[articolo 466 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
+L'[articolo 466 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "con la reclusione fino a sei mesi o con la multa da lire ventimila a quattrocentomila" sono sostituite dalle seguenti: "con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila";
                             b)
@@ -798,7 +798,7 @@ L'[articolo 466 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%
 
 1.
 
-L'[articolo 498 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
+L'[articolo 498 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "e' punito con la multa da lire duecentomila a due milioni" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila";
                             b)
@@ -812,21 +812,21 @@ L'[articolo 498 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%
 
 1.
 
-Nel [secondo comma dell'articolo 527 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole "la pena e' della multa da lire sessantamila a seicentomila" sono sostituite dalle seguenti: "si applica la sanzione amministrativa pecuniaria da lire centomila a seicentomila".
+Nel [secondo comma dell'articolo 527 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole "la pena e' della multa da lire sessantamila a seicentomila" sono sostituite dalle seguenti: "si applica la sanzione amministrativa pecuniaria da lire centomila a seicentomila".
 
 ### Art. 45. — Modifica dell'articolo 654 del codice penale, in tema
  di grida e manifestazioni sediziose
 
 1.
 
-Nell'[articolo 654 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole "e' punito, se il fatto non costituisce un piu' grave reato, con l'arresto fino a un anno" sono sostituite dalle seguenti: "e' punito, se il fatto non costituisce reato, con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila".
+Nell'[articolo 654 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole "e' punito, se il fatto non costituisce un piu' grave reato, con l'arresto fino a un anno" sono sostituite dalle seguenti: "e' punito, se il fatto non costituisce reato, con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila".
 
 ### Art. 46. — Modifica dell'articolo 663 del codice penale, in tema
  di vendita distribuzione o affissione abusiva di scritti o disegni
 
 1.
 
-L'[articolo 663 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
+L'[articolo 663 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "e' punito con l'arresto fino ad un mese e con l'ammenda fino a lire cinquantamila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire centomila a seicentomila";
                             b)
@@ -837,7 +837,7 @@ L'[articolo 663 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%
 
 1.
 
-L'[articolo 663-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente:
+L'[articolo 663-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' sostituito dal seguente:
  "Art. 663-bis (Divulgazione di stampa clandestina). - Salvo che il fatto costituisca reato, chiunque in qualsiasi modo divulga stampe o stampati pubblicati senza l'osservanza delle prescrizioni di legge sulla pubblicazione e diffusione della stampa periodica e non periodica, e' punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila.
  Per le violazioni di cui al presente articolo non e' ammesso il pagamento in misura ridotta previsto dall'[articolo 16 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_16).".
 
@@ -846,7 +846,7 @@ L'[articolo 663-bis del codice penale](../Regi%20decreti/Approvazione%20del%20te
 
 1.
 
-L'[articolo 664 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
+L'[articolo 664 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "e' punito con l'ammenda fino a lire seicentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire centocinquantamila a novecentomila";
                             b)
@@ -857,7 +857,7 @@ L'[articolo 664 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%
 
 1.
 
-L'[articolo 666 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
+L'[articolo 666 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "e' punito con l'ammenda da lire ventimila a un milione" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire cinquecentomila a tre milioni";
                             b)
@@ -872,21 +872,21 @@ L'[articolo 666 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%
 
 1.
 
-Nell'[articolo 675 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole "e' punito con l'ammenda fino a lire duecentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila".
+Nell'[articolo 675 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole "e' punito con l'ammenda fino a lire duecentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila".
 
 ### Art. 51. — Modifica dell'articolo 676 del codice penale, in tema
  di rovina di edifici o di altre costruzioni
 
 1.
 
-Nel [primo comma dell'articolo 676 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole "e' punito con l'ammenda non inferiore a lire duecentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila".
+Nel [primo comma dell'articolo 676 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole "e' punito con l'ammenda non inferiore a lire duecentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila".
 
 ### Art. 52. — Modifica dell'articolo 677 del codice penale, in tema
 di omissione di lavori in edifici o costruzioni che minacciano rovina
 
 1.
 
-L'[articolo 677 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
+L'[articolo 677 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "e' punito con l'ammenda non inferiore a lire duecentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila";
                             b)
@@ -897,7 +897,7 @@ L'[articolo 677 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%
 
 1.
 
-L'[articolo 686 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
+L'[articolo 686 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "e' punito con l'arresto fino ad un anno o con l'ammenda da lire centomila a un milione" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire ottocentomila a lire quattro milioni ottocentomila";
                             b)
@@ -912,21 +912,21 @@ L'[articolo 686 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%
 
 1.
 
-Nel [primo comma dell'articolo 688 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole "e' punito con l'arresto fino a sei mesi o con l'ammenda da lire ventimila a quattrocentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire centomila a lire seicentomila".
+Nel [primo comma dell'articolo 688 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole "e' punito con l'arresto fino a sei mesi o con l'ammenda da lire ventimila a quattrocentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire centomila a lire seicentomila".
 
 ### Art. 55. — Modifica dell'articolo 692 del codice penale, in tema
  di detenzione di misure e pesi illegali
 
 1.
 
-Nel [primo comma dell'articolo 692 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole "e' punito con l'ammenda da lire ventimila a lire quattrocentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila".
+Nel [primo comma dell'articolo 692 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole "e' punito con l'ammenda da lire ventimila a lire quattrocentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila".
 
 ### Art. 56. — Modifica dell'articolo 705 del codice penale, in tema
  di commercio non autorizzato di cose preziose
 
 1.
 
-L'[articolo 705 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
+L'[articolo 705 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "e' punito con l'arresto fino a tre mesi o con l'ammenda da lire centomila a due milioni" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire cinquecentomila a tre milioni";
                             b)
@@ -938,7 +938,7 @@ L'[articolo 705 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%
 
 1.
 
-L'[articolo 724 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
+L'[articolo 724 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' cosi' modificato:
                             a)
                                 nel primo comma le parole "e' punito con l'ammenda da lire ventimila a seicentomila" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire centomila a seicentomila";
                             b)
@@ -950,20 +950,20 @@ L'[articolo 724 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%
 
 1.
 
-Nell'[articolo 725 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole "e' punito con l'ammenda da lire ventimila a due milioni" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila".
+Nell'[articolo 725 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) le parole "e' punito con l'ammenda da lire ventimila a due milioni" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila".
 
 ### Art. 59. — Autorita' competenti ad applicare le sanzioni amministrative
 
 1.
 
-Dopo l'articolo 19 delle disposizioni coordinamento e transitorie del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvate con [regio decreto 28 maggio 1931, n. 601](../Regi%20decreti/Disposizioni%20di%20coordinamento%20e%20transitorie%20per%20il%20codice%20penale.%20031U0601.md), e' inserito il seguente:
- "19-bis. - L'autorita' competente a ricevere il rapporto e ad applicare le sanzioni per le violazioni amministrative previste dagli [articoli 350](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [352](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [498](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [527](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [654](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [663-bis](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [672](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [688](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [692](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [705](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [724](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [725 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il prefetto.
+Dopo l'articolo 19 delle disposizioni coordinamento e transitorie del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvate con [regio decreto 28 maggio 1931, n. 601](../Regi%20decreti/Disposizioni%20di%20coordinamento%20e%20transitorie%20per%20il%20codice%20penale.%20031U0601.md), e' inserito il seguente:
+ "19-bis. - L'autorita' competente a ricevere il rapporto e ad applicare le sanzioni per le violazioni amministrative previste dagli [articoli 350](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [352](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [498](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [527](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [654](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [663-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [672](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [688](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [692](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [705](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [724](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [725 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il prefetto.
  Le autorita' di seguito elencate sono competenti ad applicare le sanzioni amministrative previste dagli articoli indicati in relazione a ciascuna di esse:
- a) Ministero dei trasporti e della navigazione: articolo 465 e, limitatamente ai fatti concernenti biglietti di strade ferrate o di altre pubbliche imprese di trasporto, [articolo 466 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
- b) Ministero del lavoro e della previdenza sociale: [articolo 509 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
- c) Ministero delle finanze: articolo 686, nonche', limitatamente ai fatti concernenti valori di bollo, [articolo 466 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
- d) Ministero del tesoro, del bilancio e della programmazione economica: [articoli 693](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [694 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
- e) sindaco: [articoli 345](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [663](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [664](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [666](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [669](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [675](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [676](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [677](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [687 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).".
+ a) Ministero dei trasporti e della navigazione: articolo 465 e, limitatamente ai fatti concernenti biglietti di strade ferrate o di altre pubbliche imprese di trasporto, [articolo 466 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ b) Ministero del lavoro e della previdenza sociale: [articolo 509 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ c) Ministero delle finanze: articolo 686, nonche', limitatamente ai fatti concernenti valori di bollo, [articolo 466 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ d) Ministero del tesoro, del bilancio e della programmazione economica: [articoli 693](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [694 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ e) sindaco: [articoli 345](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [663](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [664](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [666](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [669](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [675](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [676](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [677](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [687 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).".
 
 ## TRASFORMAZIONE DI REATI IN ILLECITI AMMINISTRATIVI Capo II DEPENALIZZAZIONE DI REATI PREVISTI DA LEGGI SPECIALI
 
@@ -974,15 +974,15 @@ Titolo VI
 
 1.
 
-Il [regio decreto 14 luglio 1898, n. 404](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20repressione%20dellabigeato%20e%20del%20pascolo%20abusivo%20in%20Sardegna%20098U0404.md) e' cosi' modificato:
+Il [regio decreto 14 luglio 1898, n. 404](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20Regolamento%20per%20la%20repressione%20dellabigeato%20e%20del%20pascolo%20abusivo%20in%20Sardegna%20098U0404.md) e' cosi' modificato:
                             a)
-                                nell'articolo 15 le parole "saranno puniti ai sensi dell'[articolo 434 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)" sono sostituite dalle seguenti: "sono puniti con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila";
+                                nell'articolo 15 le parole "saranno puniti ai sensi dell'[articolo 434 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)" sono sostituite dalle seguenti: "sono puniti con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila";
                             b)
                                 l'articolo 23 e' sostituito dal seguente:
  "Art. 23. - Salvo che il fatto costituisca reato, chiunque contravviene alle disposizioni degli articoli 20 e 21, primo comma, e' punito con la sanzione amministrativa pecuniaria da lire trecentomila a un milione ottocentomila.
  Nel caso previsto nell'articolo 21, puo' essere disposta la confisca di tutto o di parte del bestiame.";
                             c)
-                                nell'articolo 24 le parole "e' punito con le pene stabilite nell'[articolo 434 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire centocinquantamila a novecentomila".
+                                nell'articolo 24 le parole "e' punito con le pene stabilite nell'[articolo 434 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)" sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire centocinquantamila a novecentomila".
 
 ### Art. 61. — Modifica dell'articolo 142 del regio decreto 8 maggio 1904, n. 368
  in tema di bonifica dei terreni paludosi
@@ -1061,7 +1061,7 @@ Nel [primo comma dell'articolo 11 del regio decreto-legge 14 novembre 1926, n. 1
 
 1.
 
-Nel [sesto comma dell'articolo 20 del regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md) le parole "sono punite con l'arresto fino a dieci giorni o con l'ammenda fino a lire centomila" sono sostituite dalle seguenti: "sono punite, salvo che il fatto costituisca reato, con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila".
+Nel [sesto comma dell'articolo 20 del regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md) le parole "sono punite con l'arresto fino a dieci giorni o con l'ammenda fino a lire centomila" sono sostituite dalle seguenti: "sono punite, salvo che il fatto costituisca reato, con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila".
 
 ### Art. 69. — Modifica dell'articolo 24 della legge 26 aprile 1934, n. 653,
  in tema di tutela del lavoro delle donne
@@ -1116,7 +1116,7 @@ L'[articolo 3 della legge 22 giugno 1939, n. 1239](../Atti%20normativi%20abrogat
 
 2.
 
-Resta abrogato l'[articolo 76 del regio decreto 5 giugno 1939, n. 1016](../Testi%20Unici/Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md).
+Resta abrogato l'[articolo 76 del regio decreto 5 giugno 1939, n. 1016](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md).
 
 ### Art. 74. — Modifiche alla legge 10 giugno 1940, n. 653, in tema di trattamento degli impiegati privati richiamati alle armi
 
@@ -1219,7 +1219,7 @@ Nel [primo comma dell'articolo 4 della legge 29 novembre 1961, n. 1325](https://
 
 1.
 
-Nel [primo comma dell'articolo 15 della legge 21 aprile 1962, n. 161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-21;161#art_15-com1) le parole da "e' punito" sino alla fine del comma sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire ottocentomila a quattro milioni ottocentomila. Nei casi di maggiore gravita' o nei casi reiterazione delle violazioni da parte di soggetto gia' condannato per il reato previsto dall'[articolo 668 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applica anche la sanzione accessoria della chiusura del locale di pubblico spettacolo per un periodo non superiore a sessanta giorni."
+Nel [primo comma dell'articolo 15 della legge 21 aprile 1962, n. 161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-21;161#art_15-com1) le parole da "e' punito" sino alla fine del comma sono sostituite dalle seguenti: "e' punito con la sanzione amministrativa pecuniaria da lire ottocentomila a quattro milioni ottocentomila. Nei casi di maggiore gravita' o nei casi reiterazione delle violazioni da parte di soggetto gia' condannato per il reato previsto dall'[articolo 668 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applica anche la sanzione accessoria della chiusura del locale di pubblico spettacolo per un periodo non superiore a sessanta giorni."
 
 ### Art. 85. — Modifica dell'articolo 26 della legge 9 gennaio 1963, n. 9,
  in tema di previdenza dei coltivatori diretti
@@ -1315,7 +1315,7 @@ Il [decreto legislativo 30 dicembre 1992, n. 541](../Decreti%20Legislativi/Attua
 
 Le autorita' competenti ad applicare le sanzioni amministrative per le violazioni depenalizzate a norma del presente capo sono le seguenti:
                             a)
-                                Ministero dell'interno: [articoli 15](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20repressione%20dellabigeato%20e%20del%20pascolo%20abusivo%20in%20Sardegna%20098U0404.md), [23](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20repressione%20dellabigeato%20e%20del%20pascolo%20abusivo%20in%20Sardegna%20098U0404.md) e [24 del regio decreto 14 luglio 1898, n. 404](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20repressione%20dellabigeato%20e%20del%20pascolo%20abusivo%20in%20Sardegna%20098U0404.md); [articolo 1 della legge 30 giugno 1912, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-30;740#art_1); [articolo 13 del decreto-legge luogotenenziale 18 gennaio 1917, n. 148](../Atti%20normativi%20abrogati%20%28in%20originale%29/Relativo%20alla%20prevenzione%20e%20repressione%20dellabigeato%20in%20Sicilia.%20017U0148.md); [articolo 4 della legge 19 aprile 1925, n. 475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-19;475#art_4); [articolo 20 del regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md); [articolo 5 della legge 20 febbraio 1958, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-20;75#art_5); [articolo 15 della legge 21 aprile 1962, n. 161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-21;161#art_15); [articoli 54](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md) e [55 del decreto del Presidente della Repubblica 20 marzo 1967, n. 223](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md); [articolo 11 della legge 2 febbraio 1973, n. 7](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lesercizio%20delle%20stazioni%20di%20riempimento%20e%20per%20la%20distribuzione%20di%20gas%20di%20petrolio%20liquefatti%20in%20bombole.md); [articolo 5 della legge 25 febbraio 1987, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-25;67#art_5);
+                                Ministero dell'interno: [articoli 15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20Regolamento%20per%20la%20repressione%20dellabigeato%20e%20del%20pascolo%20abusivo%20in%20Sardegna%20098U0404.md), [23](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20Regolamento%20per%20la%20repressione%20dellabigeato%20e%20del%20pascolo%20abusivo%20in%20Sardegna%20098U0404.md) e [24 del regio decreto 14 luglio 1898, n. 404](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20Regolamento%20per%20la%20repressione%20dellabigeato%20e%20del%20pascolo%20abusivo%20in%20Sardegna%20098U0404.md); [articolo 1 della legge 30 giugno 1912, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-30;740#art_1); [articolo 13 del decreto-legge luogotenenziale 18 gennaio 1917, n. 148](../Atti%20normativi%20abrogati%20%28in%20originale%29/Relativo%20alla%20prevenzione%20e%20repressione%20dellabigeato%20in%20Sicilia.%20017U0148.md); [articolo 4 della legge 19 aprile 1925, n. 475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-19;475#art_4); [articolo 20 del regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md); [articolo 5 della legge 20 febbraio 1958, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-20;75#art_5); [articolo 15 della legge 21 aprile 1962, n. 161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-21;161#art_15); [articoli 54](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md) e [55 del decreto del Presidente della Repubblica 20 marzo 1967, n. 223](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md); [articolo 11 della legge 2 febbraio 1973, n. 7](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lesercizio%20delle%20stazioni%20di%20riempimento%20e%20per%20la%20distribuzione%20di%20gas%20di%20petrolio%20liquefatti%20in%20bombole.md); [articolo 5 della legge 25 febbraio 1987, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-25;67#art_5);
                             b)
                                 Ministero del lavoro: [articolo 24 della legge 26 aprile 1934, n. 653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-04-26;653#art_24); [articolo 3 della legge 22 giugno 1939, n. 1239](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20tessera%20sanitaria%20per%20le%20persone%20addette%20ai%20lavori%20domestici.%20039U1239.md); [articolo 6 della legge 27 maggio 1949, n. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-05-27;260#art_6); [articoli 23](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20dellapprendistato.md) e [29 della legge 19 gennaio 1955, n. 25](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20dellapprendistato.md); [articolo 14 della legge 14 febbraio 1958, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-14;138#art_14); [articolo 4 della legge 29 novembre 1961, n. 1325](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-11-29;1325#art_4);
                             c)

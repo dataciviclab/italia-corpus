@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il comune di Dambel, aggregato con [regio decreto 27 settembre 1928, n. 2376](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Banco%20Casez%20Dambel%20e%20Sanzeno%20in%20un%20unico%20Comune%20con%20denominazione%20Sanzeno%20e%20capoluogo%20Casez.%20028U2376.md), insieme con quelli di Banco e di Casez, al comune di Sanzeno, e' ricostituito con la circoscrizione territoriale preesistente all'entrata in vigore del decreto suddetto.
+Il comune di Dambel, aggregato con [regio decreto 27 settembre 1928, n. 2376](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Banco%20Casez%20Dambel%20e%20Sanzeno%20in%20un%20unico%20Comune%20con%20denominazione%20Sanzeno%20e%20capoluogo%20Casez.%20028U2376.md), insieme con quelli di Banco e di Casez, al comune di Sanzeno, e' ricostituito con la circoscrizione territoriale preesistente all'entrata in vigore del decreto suddetto.
  Il Prefetto di Trento, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i comuni di Dambel e di Sanzeno in dipendenza dell'applicazione del presente decreto.
 
 ## Art. 2.

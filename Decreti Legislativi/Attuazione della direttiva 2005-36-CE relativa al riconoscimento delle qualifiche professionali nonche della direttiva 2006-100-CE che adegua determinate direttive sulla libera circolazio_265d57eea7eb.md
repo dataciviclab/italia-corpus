@@ -150,7 +150,7 @@ Ai fini del presente decreto si applicano le seguenti definizioni:
                             m)
                                 «Stato membro d'origine»: lo Stato membro in cui il cittadino dell'Unione europea ha acquisito le proprie qualifiche professionali;
                             n)
-                                LETTERA ABROGATA DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md);
+                                LETTERA ABROGATA DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md);
                             n-bis)
                                 «tirocinio professionale»: un periodo di pratica professionale effettuato sotto supervisione, purche' costituisca una condizione per l'accesso a una professione regolamentata e che puo' svolgersi in forma di tirocinio curriculare o in forma di tirocinio extracurriculare o, laddove previsto, anche in apprendistato;
                             n-ter)
@@ -170,7 +170,7 @@ Ai fini del riconoscimento di cui al titolo II e al titolo III, capi II e IV, so
                             a)
                                 la Presidenza del Consiglio dei ministri - Ufficio per lo sport, per tutte le attivita' che riguardano il settore sportivo e per quelle esercitate con la qualifica di professionista sportivo, ad accezione di quelle di cui alla lettera l-septies), nonche' per le professioni di cui alla [legge 2 gennaio 1989, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-01-02;6);
                             b)
-                                LETTERA ABROGATA DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md);
+                                LETTERA ABROGATA DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md);
                             c)
                                 il Ministero titolare della vigilanza per le professioni che necessitano, per il loro esercizio, dell'iscrizione in Ordini, Collegi, albi, registri o elenchi, fatto salvo quanto previsto alle lettere f) e l-sexies);
                             d)
@@ -180,7 +180,7 @@ Ai fini del riconoscimento di cui al titolo II e al titolo III, capi II e IV, so
                             f)
                                 il Ministero dell'istruzione, dell'universita' e della ricerca, per i docenti di scuole dell'infanzia, primaria, secondaria di primo grado e secondaria superiore e per il personale amministrativo, tecnico e ausiliario della scuola nonche' per il personale ricercatore e per le professioni di architetto, pianificatore territoriale, paesaggista, conservatore dei beni architettonici ed ambientali, architetto junior e pianificatore junior;
                             g)
-                                LETTERA ABROGATA DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md);
+                                LETTERA ABROGATA DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md);
                             h)
                                 il Ministero dell'istruzione, dell'universita' e della ricerca per ogni altro caso relativamente a professioni che possono essere esercitate solo da chi e' in possesso di qualifiche professionali di cui all'articolo 19, comma 1, lettere d) ed e), salvo quanto previsto alla lettera c);
                             i)
@@ -216,7 +216,7 @@ Fino all'individuazione di cui al comma 2, sulle domande di riconoscimento provv
                             a)
                                 la Presidenza del Consiglio dei Ministri - Ufficio per lo sport, per le attivita' di cui all'allegato IV, Lista III, punto 4), limitatamente alle attivita' afferenti al settore sportivo;
                             b)
-                                LETTERA ABROGATA DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md);
+                                LETTERA ABROGATA DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md);
                             c)
                                 il Ministero dello sviluppo economico per le attivita' di cui all'allegato IV, Lista I, Lista II e Lista III e non comprese nelle lettere d), e) ed f);
                             d)
@@ -447,7 +447,7 @@ Il centro di assistenza di cui al comma 1, lettera b), curando il raccordo delle
                             a)
                                 fornisce ai cittadini e ai centri di assistenza degli altri Stati membri l'assistenza necessaria in materia di riconoscimento delle qualifiche professionali interessate dal presente decreto, incluse le informazioni sulla legislazione nazionale che disciplina le professioni e il loro esercizio, compresa la legislazione sociale ed eventuali norme deontologiche;
                             b)
-                                assiste, se del caso, i cittadini per l'ottenimento dei diritti attribuiti loro dal presente decreto, eventualmente cooperando con il centro di assistenza dello Stato membro di origine nonche' con le autorita' competenti e con il punto di contatto unico di cui all'[articolo 25 del decreto legislativo 26 marzo 2010, n. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+                                assiste, se del caso, i cittadini per l'ottenimento dei diritti attribuiti loro dal presente decreto, eventualmente cooperando con il centro di assistenza dello Stato membro di origine nonche' con le autorita' competenti e con il punto di contatto unico di cui all'[articolo 25 del decreto legislativo 26 marzo 2010, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 Su richiesta della Commissione europea, il centro di assistenza assicura le informazioni sui risultati dell'assistenza prestata, entro due mesi dalla richiesta;
                             c)
                                 valuta le questioni di particolare rilevanza o complessita', congiuntamente con un rappresentante delle regioni e province autonome designato in sede di Conferenza Stato-regioni e province autonome di Trento e di Bolzano, nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
@@ -1015,7 +1015,7 @@ In deroga ai commi 1 e 2 del presente articolo e all'articolo 22, l'autorita' co
 
 Il riconoscimento di cui al presente capo puo' essere subordinato al compimento di un tirocinio di adattamento non superiore a tre anni o di una prova attitudinale, a scelta del richiedente, in uno dei seguenti casi:
                             a)
-                                LETTERA ABROGATA DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md);
+                                LETTERA ABROGATA DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md);
                             b)
                                 se la formazione ricevuta riguarda materie sostanzialmente diverse da quelle coperte dal titolo di formazione richiesto in Italia;
                             c)
@@ -1503,15 +1503,15 @@ Ai cittadini di cui all'articolo 2, comma 1, allo scopo di verificare che gli in
 
 2.
 
-COMMA SOPPRESSO DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md).
+COMMA SOPPRESSO DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md).
 
 3.
 
-COMMA SOPPRESSO DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md).
+COMMA SOPPRESSO DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md).
 
 4.
 
-COMMA SOPPRESSO DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md).
+COMMA SOPPRESSO DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md).
 
 ### Art. 40-bis. — (( (Diritti acquisiti specifici degli infermieri responsabili dell'assistenza generale che hanno completato la formazione in Romania). ))
 
@@ -1764,7 +1764,7 @@ Le condizioni di cui al comma 1 si applicano ai cittadini degli Stati membri i c
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md).
+COMMA ABROGATO DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md).
 
 4.
 
@@ -2092,7 +2092,7 @@ Nota all'art. 59:
 
 1.
 
-Le autorita' competenti di cui all'articolo 5 garantiscono che le seguenti informazioni siano disponibili online attraverso il punto di contatto unico, di cui all'[articolo 25 del decreto legislativo 26 marzo 2010, n. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md), e che siano regolarmente aggiornate:
+Le autorita' competenti di cui all'articolo 5 garantiscono che le seguenti informazioni siano disponibili online attraverso il punto di contatto unico, di cui all'[articolo 25 del decreto legislativo 26 marzo 2010, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md), e che siano regolarmente aggiornate:
                             a)
                                 l'elenco di tutte le professioni regolamentate, che reca gli estremi delle autorita' competenti per ciascuna professione regolamentata e dei centri di assistenza di cui all'articolo 6;
                             b)
@@ -2110,7 +2110,7 @@ Le autorita' competenti di cui all'articolo 5 garantiscono che le seguenti infor
 
 1-bis.
 
-Le autorita' competenti di cui all'articolo 5 provvedono affinche' le informazioni di cui al comma 1 del presente articolo siano fornite in modo chiaro e comprensibile agli utenti, siano facilmente accessibili mediante connessione remota e per via elettronica e siano costantemente aggiornate. Verificano altresi' che il punto di contatto unico di cui all'[articolo 25, comma 5, del decreto legislativo 26 marzo 2010, n. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md), risponda tempestivamente a qualsiasi richiesta di informazione, eventualmente cooperando con il Centro di assistenza di cui all'articolo 6 del presente decreto.
+Le autorita' competenti di cui all'articolo 5 provvedono affinche' le informazioni di cui al comma 1 del presente articolo siano fornite in modo chiaro e comprensibile agli utenti, siano facilmente accessibili mediante connessione remota e per via elettronica e siano costantemente aggiornate. Verificano altresi' che il punto di contatto unico di cui all'[articolo 25, comma 5, del decreto legislativo 26 marzo 2010, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md), risponda tempestivamente a qualsiasi richiesta di informazione, eventualmente cooperando con il Centro di assistenza di cui all'articolo 6 del presente decreto.
 
 1-ter. Il Coordinatore nazionale di cui all'articolo 6 adotta ogni misura idonea a consentire al punto di contatto unico di fornire le informazioni di cui al comma 1 del presente articolo in un'altra lingua ufficiale dell'Unione europea))
 

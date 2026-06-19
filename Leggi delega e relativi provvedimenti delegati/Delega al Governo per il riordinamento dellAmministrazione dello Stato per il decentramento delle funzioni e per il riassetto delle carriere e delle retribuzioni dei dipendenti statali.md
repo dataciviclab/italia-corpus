@@ -431,7 +431,7 @@ Sulle quote di pensioni liquidate o da liquidarsi a carico dello Stato ai titola
 
 ## Art. 42.
 
-Il supplemento di pensione di cui all'[articolo 2 del regio decreto 7 dicembre 1923, n. 2590](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md), e' liquidato, a decorrere dal 1 marzo 1968, in valore capitale da determinare moltiplicando per dieci l'importo annuo del supplemento stesso per gli aventi diritto nei casi di cessazione dal servizio anteriori alla suddetta data e per quindici nei casi di cessazione a partire dalla data medesima.
+Il supplemento di pensione di cui all'[articolo 2 del regio decreto 7 dicembre 1923, n. 2590](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md), e' liquidato, a decorrere dal 1 marzo 1968, in valore capitale da determinare moltiplicando per dieci l'importo annuo del supplemento stesso per gli aventi diritto nei casi di cessazione dal servizio anteriori alla suddetta data e per quindici nei casi di cessazione a partire dalla data medesima.
 
 ## Art. 43.
 

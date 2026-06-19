@@ -455,7 +455,7 @@ In ogni caso, le sanzioni di cui ai commi 1, 2 e 3-ter non possono essere superi
 AGGIORNAMENTO (2)
 
 La [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md) ha disposto (con l'art. 1, comma 445, lettera d)) che "gli importi delle seguenti sanzioni in materia di lavoro e legislazione sociale sono aumentati nella misura di seguito indicata: 
- 1) del 20 per cento per quanto riguarda gli importi dovuti per la violazione delle disposizioni di cui [...] all'[articolo 12 del decreto legislativo 17 luglio 2016, n. 136](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-67-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20lapplicazione%20della%20direttiva%2096-71-CE%20relativa%20al%20distacco%20dei%20lavoratori%20nell_eacb73182ba0.md)".
+ 1) del 20 per cento per quanto riguarda gli importi dovuti per la violazione delle disposizioni di cui [...] all'[articolo 12 del decreto legislativo 17 luglio 2016, n. 136](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-67-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20lapplicazione%20della%20direttiva%2096-71-CE%20relativa%20al%20distacco%20dei%20lavoratori%20nell_eacb73182ba0.md)".
 
 ## Disposizioni specifiche per le prestazioni transnazionali   di servizi di trasporto su strada))
 

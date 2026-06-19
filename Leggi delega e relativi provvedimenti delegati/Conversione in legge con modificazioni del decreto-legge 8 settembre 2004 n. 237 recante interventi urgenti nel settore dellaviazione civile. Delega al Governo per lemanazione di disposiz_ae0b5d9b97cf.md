@@ -40,7 +40,7 @@ Avvertenza:
 
 1.
 
-Al fine di migliorare il livello di tutela dei diritti del passeggero e di sicurezza del trasporto aereo, di razionalizzare e semplificare l'assetto normativo e regolamentare nel settore dell'aviazione civile e delle gestioni aeroportuali, il Governo e' delegato ad adottare, senza nuovi o maggiori oneri per la finanza pubblica e nel rispetto delle prerogative costituzionali delle regioni e delle province autonome di Trento e di Bolzano, entro sei mesi dalla data di entrata in vigore della presente legge, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro delle infrastrutture e dei trasporti, uno o piu' decreti legislativi per la revisione della parte aeronautica del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+Al fine di migliorare il livello di tutela dei diritti del passeggero e di sicurezza del trasporto aereo, di razionalizzare e semplificare l'assetto normativo e regolamentare nel settore dell'aviazione civile e delle gestioni aeroportuali, il Governo e' delegato ad adottare, senza nuovi o maggiori oneri per la finanza pubblica e nel rispetto delle prerogative costituzionali delle regioni e delle province autonome di Trento e di Bolzano, entro sei mesi dalla data di entrata in vigore della presente legge, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro delle infrastrutture e dei trasporti, uno o piu' decreti legislativi per la revisione della parte aeronautica del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 2.
 
@@ -73,7 +73,7 @@ La delega di cui al comma 1 e' esercitata nel rispetto dei seguenti principi e c
                         g)
                             semplificazione del regime amministrativo degli aeromobili e della pubblicita' degli atti ad essi relativi;
                         h)
-                            abrogazione esplicita di tutte le disposizioni incompatibili con le modifiche del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) adottate nell'esercizio della delega;
+                            abrogazione esplicita di tutte le disposizioni incompatibili con le modifiche del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) adottate nell'esercizio della delega;
                         i)
                             salvaguardia delle attribuzioni del Ministero della difesa in materia di difesa e sicurezza nazionale.
 

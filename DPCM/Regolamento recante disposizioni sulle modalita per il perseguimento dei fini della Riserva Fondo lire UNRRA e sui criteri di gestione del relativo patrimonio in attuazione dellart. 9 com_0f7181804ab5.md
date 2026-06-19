@@ -178,7 +178,7 @@ La prefettura che accerti, ai sensi del comma 2, la sussistenza di elementi idon
 
 1.
 
-Ai sensi di quanto previsto dall'[art. 14, comma 1, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, il Ministro dell'interno definisce periodicamente e, comunque, ogni anno entro sessanta giorni dall'approvazione del bilancio, gli obiettivi ed i programmi da attuare, indicando le priorita' ed emanando le conseguenti direttive.
+Ai sensi di quanto previsto dall'[art. 14, comma 1, del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, il Ministro dell'interno definisce periodicamente e, comunque, ogni anno entro sessanta giorni dall'approvazione del bilancio, gli obiettivi ed i programmi da attuare, indicando le priorita' ed emanando le conseguenti direttive.
 
 2.
 

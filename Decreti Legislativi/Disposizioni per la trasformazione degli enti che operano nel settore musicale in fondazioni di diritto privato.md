@@ -131,8 +131,8 @@ All'esperto designato dal presidente del tribunale si applicano le disposizioni 
 
 Nota all'art. 7:
  - Il testo dell'[art. 64 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_64) e' il seguente:
- "Art. 64 (Responsabilita' del consulente). - Si applicano al consulente tecnico le disposizioni del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) relative ai periti.
- In ogni caso, il consulente tecnico che incorre in colpa grave nell'esecuzione degli atti che gli sono richiesti, e' punito con l'arresto fino ad un anno o con l'ammenda fino a lire venti milioni. Si applica l'[art. 35 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). In ogni caso e' dovuto il risarcimento dei danni causati alle parti".
+ "Art. 64 (Responsabilita' del consulente). - Si applicano al consulente tecnico le disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) relative ai periti.
+ In ogni caso, il consulente tecnico che incorre in colpa grave nell'esecuzione degli atti che gli sono richiesti, e' punito con l'arresto fino ad un anno o con l'ammenda fino a lire venti milioni. Si applica l'[art. 35 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). In ogni caso e' dovuto il risarcimento dei danni causati alle parti".
 
 ### Art. 8. — Approvazione della deliberazione di trasformazione
 

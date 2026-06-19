@@ -51,7 +51,7 @@ b) per le assicurazioni contro i danni, escluse le assicurazioni grandine e tras
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. Luogotenenziale 26 aprile 1946, n. 461](Modificazione%20dellart.%203%20del%20decreto%20legislativo%20Luogotenenziale%2026%20aprile%201945%20n.%20216%20recante%20provvedimenti%20per%20lindustria%20assicurativa.md) ha disposto (con l'art. 2, comma 1) che la predetta modifica ha effetto dall'entrata in vigore del [decreto legislativo Luogotenenziale 26 aprile 1945, n. 216](Provvedimenti%20per%20lindustria%20assicurativa.%20045U0216.md).
+Il [D.Lgs. Luogotenenziale 26 aprile 1946, n. 461](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20dellart.%203%20del%20decreto%20legislativo%20Luogotenenziale%2026%20aprile%201945%20n.%20216%20recante%20provvedimenti%20per%20lindustria%20assicurativa.md) ha disposto (con l'art. 2, comma 1) che la predetta modifica ha effetto dall'entrata in vigore del [decreto legislativo Luogotenenziale 26 aprile 1945, n. 216](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20lindustria%20assicurativa.%20045U0216.md).
 
 ## Art. 4.
 

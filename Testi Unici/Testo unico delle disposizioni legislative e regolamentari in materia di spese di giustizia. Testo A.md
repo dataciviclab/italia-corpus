@@ -3356,21 +3356,45 @@ Nel processo penale il decreto e' titolo provvisoriamente esecutivo solo se suss
 
 ### Art. 168-bis.
 
-(Decreto di pagamento delle spese di cui all'[articolo 96 del decreto legislativo 1° agosto 2003, n. 259](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md), e di quelle funzionali all'utilizzo delle prestazioni medesime).
+(( Decreto di pagamento delle prestazioni di cui all'articolo 57 del decreto legislativo 1° agosto 2003, n. 259, e di quelle funzionali all'utilizzo delle medesime ))
+
+01.
+
+((Concluse le prestazioni di cui all'articolo 57 del decreto legislativo 1° agosto 2003, n. 259, e quelle funzionali all'utilizzo delle medesime, l'avente diritto presenta richiesta di pagamento al pubblico ministero.))
 
 1.
 
-La liquidazione delle spese relative alle prestazioni di cui all'[articolo 96 del decreto legislativo 1° agosto 2003, n. 259](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md), e di quelle funzionali all'utilizzo delle prestazioni medesime e' effettuata senza ritardo con decreto di pagamento del pubblico ministero che ha richiesto o eseguito l'autorizzazione a disporre le operazioni di intercettazione.
+La liquidazione delle spese relative alle prestazioni ((di cui al comma 01)) e' effettuata ((...)) con decreto di pagamento del pubblico ministero che ha richiesto o eseguito l'autorizzazione a disporre le operazioni di intercettazione.
+
+1-bis.
+
+((Ricevuta la richiesta di liquidazione delle spese di cui al comma 1 e verificata la rendicontazione delle prestazioni svolte, il pubblico ministero provvede entro trenta giorni.))
 
 2.
 
-Quando sussiste il segreto sugli atti di indagine o sulla iscrizione della notizia di reato, il decreto di pagamento e' titolo provvisoriamente esecutivo ed e' comunicato alle parti e al beneficiario in conformita' a quanto previsto dalla disposizione di cui all'articolo 168, comma 3.
+((Nel corso delle indagini preliminari il decreto di pagamento e' titolo provvisoriamente esecutivo ed e' comunicato al beneficiario. Dopo la conclusione delle indagini e' comunicato alle parti e nuovamente al beneficiario ai fini dell'opposizione.))
 
 3.
 
-Avverso il decreto di pagamento e' ammessa opposizione ai sensi dell'articolo 170.
+Avverso il decreto di pagamento e' ammessa opposizione ai sensi dell'articolo 170. 
+ 3.01. ((Il beneficiario emette fattura soltanto a seguito dell'esecutivita' del decreto del pubblico ministero. Il pagamento e' eseguito entro trenta giorni dalla ricezione della fattura.)) 
+ 3.02. ((Se il pagamento e' eseguito successivamente al termine di cui al comma 3.01, al creditore spetta, oltre agli interessi nella misura degli interessi legali di mora, un indennizzo a percentuale sulla somma dovuta calcolato per scaglioni commisurati al ritardo:))
+                            a)
+                                ((nel caso di ritardo fino a sei mesi: 1 per cento;))
+                            b)
+                                ((nel caso di ritardo superiore a sei mesi e inferiore a un anno: 1,5 per cento;))
+                            c)
+                                ((nel caso di ritardo superiore a un anno e inferiore a due anni: 2 per cento;))
+                            d)
+                                ((nel caso di ritardo superiore a due anni: 2,5 per cento.))
 
-((3-bis. L'importo delle spese relative alle operazioni di intercettazione e' specificamente annotato nel foglio delle notizie di cui all'articolo 280))
+3-bis.
+
+L'importo delle spese relative alle operazioni di intercettazione e' specificamente annotato nel foglio delle notizie di cui all'articolo 280.
+
+3-ter.
+
+((Si applica il decreto legislativo 9 ottobre 2002, n. 231, come modificato dal decreto legislativo 9 novembre 2012, n. 192, recante "Modifiche al decreto legislativo 9 ottobre 2002, n. 231, per l'integrale recepimento della direttiva 2011/7/UE relativa alla lotta contro i ritardi di pagamento nelle transazioni commerciali, a norma dell'articolo 10, comma 1, della legge 11 novembre 2011, n. 180", in quanto compatibile tenuto conto che la prestazione deriva da incarico conferito dall'autorita' giudiziaria.))
 
 ### Art. 169.
 

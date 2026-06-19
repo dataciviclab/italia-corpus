@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-I provvedimenti previsti dall'[art. 3](../Decreti%20legislativi%20luogotenenziali/Assetto%20della%20legislazione%20nei%20territori%20liberati.%20044U0249.md) e dall'[art. 4, secondo comma, del decreto legislativo luogotenenziale 5 ottobre 1944, n. 249](../Decreti%20legislativi%20luogotenenziali/Assetto%20della%20legislazione%20nei%20territori%20liberati.%20044U0249.md), concernenti, rispettivamente, la dichiarazione di convalida o di inefficacia degli atti o provvedimenti emanati sotto l'impero del sedicente governo della Repubblica sociale italiana, possono essere adottati fino al 30 settembre 1948.
+I provvedimenti previsti dall'[art. 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assetto%20della%20legislazione%20nei%20territori%20liberati.%20044U0249.md) e dall'[art. 4, secondo comma, del decreto legislativo luogotenenziale 5 ottobre 1944, n. 249](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assetto%20della%20legislazione%20nei%20territori%20liberati.%20044U0249.md), concernenti, rispettivamente, la dichiarazione di convalida o di inefficacia degli atti o provvedimenti emanati sotto l'impero del sedicente governo della Repubblica sociale italiana, possono essere adottati fino al 30 settembre 1948.
 
 ## Art. 2.
 

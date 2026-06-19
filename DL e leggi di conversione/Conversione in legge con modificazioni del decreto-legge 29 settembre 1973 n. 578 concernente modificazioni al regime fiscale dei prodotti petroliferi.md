@@ -43,12 +43,12 @@ E' convertito in legge il [decreto-legge 29 settembre 1973, n. 578](https://www.
 
  Art. 5-quater.
 
- "Il secondo comma dell'articolo 79 del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), e' sostituito dal seguente:
+ "Il secondo comma dell'articolo 79 del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), e' sostituito dal seguente:
  "L'agevolazione del pagamento differito comporta lo obbligo del pagamento degli interessi, con esclusione dei primi trenta giorni, ed e' accordata a condizione che a garanzia dei diritti doganali e dei relativi interessi sia prestata idonea cauzione. Il saggio dell'interesse e' stabilito annualmente con il decreto di cui al precedente comma su conforme parere del CIPE"".
 
  Art. 5-quinquies.
 
- "Resta salva, nei casi di ammissione al pagamento differito dell'imposta di fabbricazione e dei diritti doganali, la possibilita' di fruire dell'esonero dalla prestazione della cauzione, ai sensi, rispettivamente, dell'[articolo 19 della legge 15 dicembre 1971, n. 1161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-15;1161#art_19), e dell'articolo 90 del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)".
+ "Resta salva, nei casi di ammissione al pagamento differito dell'imposta di fabbricazione e dei diritti doganali, la possibilita' di fruire dell'esonero dalla prestazione della cauzione, ai sensi, rispettivamente, dell'[articolo 19 della legge 15 dicembre 1971, n. 1161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-15;1161#art_19), e dell'articolo 90 del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

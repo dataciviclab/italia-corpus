@@ -641,7 +641,7 @@ La [L. 23 dicembre 2021, n. 238](../Atti%20di%20recepimento%20direttive%20UE/Dis
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 6 settembre 2024, n. 125](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202022-2464-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202022%20recante%20modifica%20del%20regolamento%20537-2014-UE%20della%20direttiva%202004-109-CE%20della%20direttiv_7dec86bf6a49.md), ha disposto (con l'art. 17, comma 1, lettere a), b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano: 
+Il [D.Lgs. 6 settembre 2024, n. 125](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202022-2464-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202022%20recante%20modifica%20del%20regolamento%20537-2014-UE%20della%20direttiva%202004-109-CE%20della%20direttiv_7dec86bf6a49.md), ha disposto (con l'art. 17, comma 1, lettere a), b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano: 
  a) per gli esercizi aventi inizio il 1° gennaio 2024 o in data successiva: 
  1) alle imprese di grandi dimensioni che costituiscono enti di interesse pubblico che, alla data di chiusura del bilancio, superano il numero medio di 500 dipendenti occupati durante l'esercizio; 
  2) agli enti di interesse pubblico ai sensi dell'[articolo 16, comma 1, del decreto legislativo 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39#art_16-com1), che sono, altresi', societa' madri di un gruppo di grandi dimensioni e che, su base consolidata, alla data di chiusura del bilancio superano il criterio del numero medio di 500 dipendenti occupati durante l'esercizio; 
@@ -657,7 +657,7 @@ Il [D.Lgs. 6 settembre 2024, n. 125](../Leggi%20delega%20e%20relativi%20provvedi
 
 AGGIORNAMENTO (17)
 
-Il [D.Lgs. 6 settembre 2024, n. 125](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202022-2464-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202022%20recante%20modifica%20del%20regolamento%20537-2014-UE%20della%20direttiva%202004-109-CE%20della%20direttiv_7dec86bf6a49.md), come modificato dal [D.L. 30 giugno 2025, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-30;95), convertito con modificazioni dalla [L. 8 agosto 2025, n. 118](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%202025%20n.%20x200a95%20recante%20disposizioni%20urgenti%20per%20il%20finanziamento%20di%20attivita%20economiche%20e%20imprese%20nonche%20interventi%20di%20_5b9c67fc9dc3.md), ha disposto (con l'art. 17, comma 1, lettere b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano: 
+Il [D.Lgs. 6 settembre 2024, n. 125](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202022-2464-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202022%20recante%20modifica%20del%20regolamento%20537-2014-UE%20della%20direttiva%202004-109-CE%20della%20direttiv_7dec86bf6a49.md), come modificato dal [D.L. 30 giugno 2025, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-30;95), convertito con modificazioni dalla [L. 8 agosto 2025, n. 118](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%202025%20n.%20x200a95%20recante%20disposizioni%20urgenti%20per%20il%20finanziamento%20di%20attivita%20economiche%20e%20imprese%20nonche%20interventi%20di%20_5b9c67fc9dc3.md), ha disposto (con l'art. 17, comma 1, lettere b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano: 
  [...] 
  b) per gli esercizi aventi inizio il 1° gennaio 2027 o in data successiva: 
  1) alle imprese di grandi dimensioni diverse da quelle di cui al comma 1, lettera a), numero 1); 
@@ -670,7 +670,7 @@ Il [D.Lgs. 6 settembre 2024, n. 125](../Leggi%20delega%20e%20relativi%20provvedi
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 2 FEBBRAIO 2007, N. 32](Attuazione%20della%20direttiva%202003-51-CE%20che%20modifica%20le%20direttive%2078-660%2083-349%2086-635%20e%2091-674-CEE%20relative%20ai%20conti%20annuali%20e%20ai%20conti%20consolidati%20di%20taluni%20tipi%20di%20societa%20delle%20banche%20e_9e14ba9eb406.md).
+COMMA ABROGATO DAL [D.LGS. 2 FEBBRAIO 2007, N. 32](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-51-CE%20che%20modifica%20le%20direttive%2078-660%2083-349%2086-635%20e%2091-674-CEE%20relative%20ai%20conti%20annuali%20e%20ai%20conti%20consolidati%20di%20taluni%20tipi%20di%20societa%20delle%20banche%20e_9e14ba9eb406.md).
 
 2.
 
@@ -880,7 +880,7 @@ Quando l'entita' della partecipazione e' irrilevante ai fini indicati nel second
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 2 FEBBRAIO 2007, N. 32](Attuazione%20della%20direttiva%202003-51-CE%20che%20modifica%20le%20direttive%2078-660%2083-349%2086-635%20e%2091-674-CEE%20relative%20ai%20conti%20annuali%20e%20ai%20conti%20consolidati%20di%20taluni%20tipi%20di%20societa%20delle%20banche%20e_9e14ba9eb406.md). 
+COMMA ABROGATO DAL [D.LGS. 2 FEBBRAIO 2007, N. 32](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-51-CE%20che%20modifica%20le%20direttive%2078-660%2083-349%2086-635%20e%2091-674-CEE%20relative%20ai%20conti%20annuali%20e%20ai%20conti%20consolidati%20di%20taluni%20tipi%20di%20societa%20delle%20banche%20e_9e14ba9eb406.md). 
 (VII Direttiva, art. 33).
 
 -------------
@@ -1048,7 +1048,7 @@ Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedime
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 6 settembre 2024, n. 125](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202022-2464-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202022%20recante%20modifica%20del%20regolamento%20537-2014-UE%20della%20direttiva%202004-109-CE%20della%20direttiv_7dec86bf6a49.md), ha disposto (con l'art. 17, comma 1, lettere a), b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano: 
+Il [D.Lgs. 6 settembre 2024, n. 125](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202022-2464-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202022%20recante%20modifica%20del%20regolamento%20537-2014-UE%20della%20direttiva%202004-109-CE%20della%20direttiv_7dec86bf6a49.md), ha disposto (con l'art. 17, comma 1, lettere a), b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano: 
  a) per gli esercizi aventi inizio il 1° gennaio 2024 o in data successiva: 
  1) alle imprese di grandi dimensioni che costituiscono enti di interesse pubblico che, alla data di chiusura del bilancio, superano il numero medio di 500 dipendenti occupati durante l'esercizio; 
  2) agli enti di interesse pubblico ai sensi dell'[articolo 16, comma 1, del decreto legislativo 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39#art_16-com1), che sono, altresi', societa' madri di un gruppo di grandi dimensioni e che, su base consolidata, alla data di chiusura del bilancio superano il criterio del numero medio di 500 dipendenti occupati durante l'esercizio; 
@@ -1064,7 +1064,7 @@ Il [D.Lgs. 6 settembre 2024, n. 125](../Leggi%20delega%20e%20relativi%20provvedi
 
 AGGIORNAMENTO (17)
 
-Il [D.Lgs. 6 settembre 2024, n. 125](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202022-2464-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202022%20recante%20modifica%20del%20regolamento%20537-2014-UE%20della%20direttiva%202004-109-CE%20della%20direttiv_7dec86bf6a49.md), come modificato dal [D.L. 30 giugno 2025, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-30;95), convertito con modificazioni dalla [L. 8 agosto 2025, n. 118](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%202025%20n.%20x200a95%20recante%20disposizioni%20urgenti%20per%20il%20finanziamento%20di%20attivita%20economiche%20e%20imprese%20nonche%20interventi%20di%20_5b9c67fc9dc3.md), ha disposto (con l'art. 17, comma 1, lettere b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano: 
+Il [D.Lgs. 6 settembre 2024, n. 125](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202022-2464-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202022%20recante%20modifica%20del%20regolamento%20537-2014-UE%20della%20direttiva%202004-109-CE%20della%20direttiv_7dec86bf6a49.md), come modificato dal [D.L. 30 giugno 2025, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-30;95), convertito con modificazioni dalla [L. 8 agosto 2025, n. 118](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%202025%20n.%20x200a95%20recante%20disposizioni%20urgenti%20per%20il%20finanziamento%20di%20attivita%20economiche%20e%20imprese%20nonche%20interventi%20di%20_5b9c67fc9dc3.md), ha disposto (con l'art. 17, comma 1, lettere b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano: 
  [...] 
  b) per gli esercizi aventi inizio il 1° gennaio 2027 o in data successiva: 
  1) alle imprese di grandi dimensioni diverse da quelle di cui al comma 1, lettera a), numero 1); 

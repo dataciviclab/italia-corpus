@@ -30,7 +30,7 @@ Piena ed intera esecuzione e' data alla Convenzione di cui all'articolo 1, a dec
 
 1.
 
-Al [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono apportate le seguenti modificazioni:
+Al [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 600, il terzo comma e' abrogato;
                         b)

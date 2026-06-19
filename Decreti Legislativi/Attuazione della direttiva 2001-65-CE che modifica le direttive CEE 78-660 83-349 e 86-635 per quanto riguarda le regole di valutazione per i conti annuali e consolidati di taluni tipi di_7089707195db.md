@@ -16,7 +16,7 @@ Vista la [direttiva 2001/65/CE del Parlamento europeo e del Consiglio, del 27 se
 
 Visto il regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002, relativo all'applicazione dei principi contabili internazionali;
 
-Vista la [legge 1° marzo 2002, n. 39](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 2001), ed in particolare gli articoli 1, 2 e l'allegato B;
+Vista la [legge 1° marzo 2002, n. 39](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 2001), ed in particolare gli articoli 1, 2 e l'allegato B;
 
 Vista la [legge 3 febbraio 2003, n. 14](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202002.md), ed in particolare l'articolo 30, che dispone il differimento del termine per l'esercizio della delega per l'attuazione della [direttiva 2001/65/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;65);
 
@@ -89,7 +89,7 @@ Avvertenza:
  - La [direttiva 83/349/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1983;349) e' pubblicata in GUCE n. L 211 del 3 agosto 1983.
  - La [direttiva 86/635/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1986;635) e' pubblicata in GUCE n. L 316 del 23 novembre 1988.
  - Il regolamento (CE) n. 1606/2002 e' pubblicato in GUCE n. L 243 dell'11 settembre 2002.
- - La [legge 1° marzo 2002, n. 39](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), reca: <<Disposizioni
+ - La [legge 1° marzo 2002, n. 39](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), reca: <<Disposizioni
  per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 2001)>>. Gli articoli 1, 2 e l'allegato B della citata
  legge, cosi' recitano:
  <<Art. 1 (Delega al Governo per l'attuazione di

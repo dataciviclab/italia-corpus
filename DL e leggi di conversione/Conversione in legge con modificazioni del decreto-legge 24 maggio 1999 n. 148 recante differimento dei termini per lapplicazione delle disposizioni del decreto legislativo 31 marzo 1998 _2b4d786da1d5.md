@@ -18,7 +18,7 @@ Promulga la seguente legge:
 
 1.
 
-Il [decreto-legge 24 maggio 1999, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1999-05-24;148), recante differimento dei termini per l'applicazione delle disposizioni del [decreto legislativo 31 marzo 1998, n. 123](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20degli%20interventi%20di%20sostegno%20pubblico%20alle%20imprese%20a%20norma%20dellarticolo%204%20comma%204%20lettera%20c%20della%20legge%2015%20marzo%201997%20n.%2059.md), in materia di interventi di sostegno pubblico alle imprese, nonche' per la regolarizzazione contributiva in agricoltura, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 24 maggio 1999, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1999-05-24;148), recante differimento dei termini per l'applicazione delle disposizioni del [decreto legislativo 31 marzo 1998, n. 123](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20la%20razionalizzazione%20degli%20interventi%20di%20sostegno%20pubblico%20alle%20imprese%20a%20norma%20dellarticolo%204%20comma%204%20lettera%20c%20della%20legge%2015%20marzo%201997%20n.%2059.md), in materia di interventi di sostegno pubblico alle imprese, nonche' per la regolarizzazione contributiva in agricoltura, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
 2.
 

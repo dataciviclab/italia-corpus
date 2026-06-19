@@ -52,7 +52,7 @@ Chiunque, nel commettere uno dei fatti previsti dai commi 1 e 2, cagiona la mort
 
 5.
 
-Chiunque nel commettere uno dei fatti previsti dai commi 1 e 2, cagiona ad ciascuno lesioni personali e' punito ai sensi degli [articoli 582](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [583 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ma le pene sono aumentate.
+Chiunque nel commettere uno dei fatti previsti dai commi 1 e 2, cagiona ad ciascuno lesioni personali e' punito ai sensi degli [articoli 582](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [583 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) ma le pene sono aumentate.
 
 6.
 
@@ -63,7 +63,7 @@ Quando per le modalita' dell'azione e per la tenuita' del danno o il fatto e' li
 Le disposizioni del presente articolo non si applicano quando il fatto e' previsto come piu' grave reato da altra disposizione di legge.
 
 Nota all'art. 3 della legge:
- Il testo degli [articoli 582](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [583 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
+ Il testo degli [articoli 582](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [583 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  "Art. 582 (Lesione personale). - Chiunque cagiona ad alcuno una lesione personale dalla quale deriva una malattia nel corpo o nella mente, e' punito con la reclusione da tre mesi a tre anni.
  Se la malattia ha una durata non superiore ai venti giorni, e non concorre alcuna delle circostanze aggravanti previste negli articoli 583 e 585, ad eccezione di quelle indicate nel n. 1 e nell'ultima parte dell'articolo 577, il delitto e' punibile a querela della persona offesa.
  "Art. 583 (Circostanze aggravanti). - La lesione personale e' grave e si applica la reclusione da tre a sette anni:
@@ -77,7 +77,7 @@ Nota all'art. 3 della legge:
 
 ### Art. 4.
 
-1. Oltre che nei casi indicati negli [articoli da 6](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) [a 11 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito secondo la legge italiana, a richiesta del Ministro di grazia e giustizia:
+1. Oltre che nei casi indicati negli [articoli da 6](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) [a 11 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' punito secondo la legge italiana, a richiesta del Ministro di grazia e giustizia:
 a) il cittadino che commette all'estero uno dei reati previsti dall'articolo 3;
 b) lo straniero che commette all'estero uno dei reati previsti dall'articolo 3 ai danni o a bordo di una nave italiana, o di una installazione fissa che si trova sulla piattaforma continentale dello Stato;
 c) lo straniero che commette all'estero uno dei reati previsti dall'articolo 3 se nel commetterli minaccia un cittadino o lo priva della liberta' personale o lo uccide o gli cagiona lesioni personali;
@@ -86,7 +86,7 @@ e) lo straniero che commette all'estero uno dei reati previsti dall'articolo 3, 
 2. La disposizione del comma 1 si applica anche quando i fatti indicati nell'articolo 3 sono previsti come piu' grave reato da altre disposizioni di legge.
 
 Nota all'art. 4 della legge:
- Il testo degli [articoli da 6](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) [a 11 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
+ Il testo degli [articoli da 6](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) [a 11 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  "Art. 6 (Reati commessi nel territorio dello Stato). - Chiunque commette un reato nel territorio dello Stato e' punito secondo la legge italiana.
  Il reato si considera commesso nel territorio dello Stato, quando l'azione o l'omissione, che lo costituisce, e' ivi avvenuta in tutto o in parte, ovvero si e' ivi verificato l'evento che e' la conseguenza dell'azione od omissione.
  "Art. 7 (Reati commessi all'estero). - E' punito secondo la legge italiana il cittadino o lo straniero che commette in territorio estero taluno dei seguenti reati:

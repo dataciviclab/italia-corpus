@@ -20,7 +20,7 @@ Vista la [direttiva 2008/9/CE del Consiglio, del 12 febbraio 2008](https://www.n
 
 Vista la [direttiva 2008/117/CE del Consiglio, del 16 dicembre 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;117), recante modifica della [direttiva 2006/112/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;112) relativa al sistema comune d'imposta sul valore aggiunto per combattere la frode fiscale connessa alle operazioni intracomunitarie;
 
-Visto l'[articolo 1, comma 1, della legge 7 luglio 2009, n. 88](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2008, ed, in particolare, l'Allegato B;
+Visto l'[articolo 1, comma 1, della legge 7 luglio 2009, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2008, ed, in particolare, l'Allegato B;
 
 Visto il [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), recante istituzione e disciplina dell'imposta sul valore aggiunto;
 

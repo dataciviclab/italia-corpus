@@ -985,14 +985,14 @@ Il trasferimento delle quote di partecipazione al capitale della Banca d'Italia 
 
 3.
 
-Ulteriori condizioni e requisiti per l'ammissione delle fondazioni al capitale della Banca d'Italia e per il trasferimento delle quote possono essere previsti dallo statuto della Banca, approvato con [regio decreto 11 giugno 1936, n. 1067](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), e successive modifiche ed integrazioni, in particolare al fine di mantenere un equilibrato assetto della distribuzione delle quote e dei relativi diritti.
+Ulteriori condizioni e requisiti per l'ammissione delle fondazioni al capitale della Banca d'Italia e per il trasferimento delle quote possono essere previsti dallo statuto della Banca, approvato con [regio decreto 11 giugno 1936, n. 1067](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), e successive modifiche ed integrazioni, in particolare al fine di mantenere un equilibrato assetto della distribuzione delle quote e dei relativi diritti.
 
 4.
 
 Restano fermi i poteri che lo statuto della Banca d'Italia attribuisce agli organi deliberativi della stessa in materia di cessione delle quote di partecipazione al capitale della Banca.
 
 Nota all'[art. 27:
- - Il regio decreto 11 giugno 1936, n. 1067](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), reca: "Approvazione dello statuto della Banca d'Italia".
+ - Il regio decreto 11 giugno 1936, n. 1067](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), reca: "Approvazione dello statuto della Banca d'Italia".
 
 ### Art. 28. — Disposizioni transitorie
 

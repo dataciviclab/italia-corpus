@@ -395,7 +395,7 @@ Per l'attuazione degli interventi da effettuare sul territorio di Roma Capitale 
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 2 gennaio 2018, n. 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20della%20protezione%20civile.%2018G00011.md) ha disposto (con l'art. 47, comma 1, lettera e)) che "Tutti i riferimenti alla [legge 24 febbraio 1992, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;225) e ai relativi articoli, contenuti in altre disposizioni, si intendono riferiti al presente decreto e ai corrispondenti articoli.
+Il [D.Lgs. 2 gennaio 2018, n. 1](../Codici/Codice%20della%20protezione%20civile.%2018G00011.md) ha disposto (con l'art. 47, comma 1, lettera e)) che "Tutti i riferimenti alla [legge 24 febbraio 1992, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;225) e ai relativi articoli, contenuti in altre disposizioni, si intendono riferiti al presente decreto e ai corrispondenti articoli.
 In particolare: 
  [...] 
  e) gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;225#art_2) e [14 della legge n. 225 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;225#art_14), citati nell'[articolo 10, comma 1, del decreto legislativo 18 aprile 2012, n.61](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20recanti%20attuazione%20dellarticolo%2024%20della%20legge%205%20maggio%202009%20n.%2042%20in%20materia%20di%20ordinamento%20di%20Roma%20Capitale.%2012G0082.md), devono intendersi rispettivamente riferiti agli articoli 7 e 9 del presente decreto".

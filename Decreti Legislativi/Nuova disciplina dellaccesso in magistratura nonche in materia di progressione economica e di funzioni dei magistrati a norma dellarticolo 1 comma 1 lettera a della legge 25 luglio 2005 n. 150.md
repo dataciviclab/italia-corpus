@@ -137,14 +137,21 @@ Sono ammessi al concorso per esami i candidati che soddisfino le seguenti condiz
                             b-bis)
                                 essere di condotta incensurabile;
                             b-ter)
-                                non essere stati dichiarati per ((quattro volte)) non idonei 
- nel concorso per esami di cui all'articolo 1, comma 1, alla data di scadenza del termine per la presentazione della domanda;
+                                non essere stati dichiarati per ((quattro volte)) non idonei nel concorso per esami di cui all'articolo 1, comma 1, alla data di scadenza del termine per la presentazione della domanda;
                             c)
                                 possedere gli altri requisiti richiesti dalle leggi vigenti.
 
 3.
 
 COMMA ABROGATO DALLA [L. 30 LUGLIO 2007, N. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-07-30;111).
+
+4.
+
+Il Consiglio superiore della magistratura non ammette al concorso i candidati che, per le informazioni raccolte, non risultano di condotta incensurabile. Qualora non si provveda alla ammissione con riserva, il provvedimento di esclusione e' comunicato agli interessati almeno trenta giorni prima dello svolgimento della prova scritta.
+
+5.
+
+Ai concorsi per l'accesso in magistratura indetti fino al quinto anno successivo alla data di acquisto di efficacia del primo dei decreti legislativi emanati nell'esercizio della delega di cui all'[articolo 1, comma 1, lettera a), della legge 25 luglio 2005, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20dellordinamento%20giudiziario%20di%20cui%20al%20regio%20decreto%2030%20gennaio%201941%20n.%2012%20per%20il%20decentramento%20del%20Ministero%20della%20giustizia%20per%20la%20modifica%20della%20discipl_dc4dbf127a4e.md), sono ammessi, oltre a coloro che sono in possesso dei requisiti per l'ammissione al concorso di cui al presente articolo, anche coloro che hanno conseguito la laurea in giurisprudenza a seguito di corso universitario di durata non inferiore a quattro anni, essendosi iscritti al relativo corso di laurea anteriormente all'anno accademico 1998-1999. L'accesso al concorso avviene con le modalita' di cui al presente articolo.
 
 ---------------
 
@@ -836,20 +843,15 @@ Capo V
 
 1.
 
-Salvo quanto previsto dagli articoli 45 e 46, i magistrati che esercitano funzioni di primo e secondo grado possono rimanere in servizio presso lo stesso ufficio svolgendo le medesime funzioni o, comunque, (( nella stessa posizione tabellare o nel medesimo gruppo di lavoro )) nell'ambito delle stesse funzioni, per (( per un periodo stabilito dal Consiglio superiore della magistratura con proprio regolamento tra un minimo di cinque e un massimo di dieci anni a seconda delle differenti funzioni ))
-                                (( ; il Consiglio superiore puo' disporre la proroga dello svolgimento delle medesime funzioni limitatamente alle udienze preliminari gia' iniziate e per i procedimenti penali per i quali sia stato gia' dichiarato aperto il dibattimento, e per un periodo non superiore a due anni. ))
+Salvo quanto previsto dagli articoli 45 e 46, i magistrati che esercitano funzioni di primo e secondo grado possono rimanere in servizio presso lo stesso ufficio svolgendo le medesime funzioni o, comunque, nella stessa posizione tabellare o nel medesimo gruppo di lavoro nell'ambito delle stesse funzioni, per per un periodo stabilito dal Consiglio superiore della magistratura con proprio regolamento tra un minimo di cinque e un massimo di dieci anni a seconda delle differenti funzioni; il Consiglio superiore puo' disporre la proroga dello svolgimento delle medesime funzioni limitatamente alle udienze preliminari gia' iniziate e per i procedimenti penali per i quali sia stato gia' dichiarato aperto il dibattimento, e per un periodo non superiore a due anni. ((Quando per effetto del superamento del termine massimo di permanenza di cui al primo periodo, il numero dei magistrati che devono essere assegnati ad altra posizione tabellare o ad altro gruppo di lavoro ai sensi del comma 2-bis risulta superiore a un terzo dei componenti della sezione o del gruppo di lavoro di cui essi fanno parte, le assegnazioni eccedenti tale limite possono essere differite di dodici mesi. Il differimento opera per i magistrati con minore anzianita' nelle funzioni svolte, nella posizione tabellare o nel gruppo di lavoro.))
 
 2.
 
-Nei due anni antecedenti la scadenza del termine di permanenza di cui al comma 1 ((...)) ai magistrati non possono essere assegnati procedimenti la cui definizione non appare probabile entro il termine di permanenza nell'incarico.
-
-((
+Nei due anni antecedenti la scadenza del termine di permanenza di cui al comma 1 ai magistrati non possono essere assegnati procedimenti la cui definizione non appare probabile entro il termine di permanenza nell'incarico.
 
 2-bis.
 
-Il magistrato che, alla scadenza del periodo massimo di permanenza, non abbia presentato domanda di trasferimento ad altra funzione all' interno dell'ufficio o ad altro ufficio e' assegnato ad altra posizione tabellare o ad altro gruppo di lavoro con provvedimento del capo dell'ufficio immediatamente esecutivo. Se ha presentato domanda almeno sei mesi prima della scadenza del termine, puo' rimanere nella stessa posizione fino alla decisione del Consiglio superiore della magistratura e, comunque, non oltre sei mesi dalla scadenza del termine stesso.
-
-))
+Il magistrato che, alla scadenza del periodo massimo di permanenza, non abbia presentato domanda di trasferimento ad altra funzione all' interno dell'ufficio o ad altro ufficio e' assegnato ad altra posizione tabellare o ad altro gruppo di lavoro con provvedimento del capo dell'ufficio immediatamente esecutivo. Se ha presentato domanda almeno ((tre mesi)) prima della scadenza del termine, puo' rimanere nella stessa posizione fino alla decisione del Consiglio superiore della magistratura e, comunque, non oltre sei mesi dalla scadenza del termine stesso.
 
 ## Assegnazione dei posti nelle funzioni di secondo grado
 

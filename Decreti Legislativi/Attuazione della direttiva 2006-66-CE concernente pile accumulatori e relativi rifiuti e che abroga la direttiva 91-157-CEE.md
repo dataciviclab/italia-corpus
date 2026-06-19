@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 25 febbraio 2008, n. 34](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202007.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2007;
+Vista la [legge 25 febbraio 2008, n. 34](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202007.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2007;
 
 Vista la [direttiva 2006/66/CE del Parlamento europeo e del Consiglio, del 6 settembre 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;66), relativa a pile e accumulatori e ai rifiuti di pile e accumulatori e che abroga la [direttiva 91/157/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;157);
 
@@ -35,7 +35,7 @@ Sulla proposta del Ministro per le politiche europee e del Ministro dell'ambient
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 2.
 
@@ -46,7 +46,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 3.
 
@@ -57,7 +57,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 4.
 
@@ -68,7 +68,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 5.
 
@@ -79,7 +79,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 6.
 
@@ -90,7 +90,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 7.
 
@@ -101,7 +101,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 8.
 
@@ -112,7 +112,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 9.
 
@@ -123,7 +123,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti: 
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti: 
  a) l'articolo 9 continua ad applicarsi fino alla data indicata dall'articolo 95, comma 2, lettera a), del Regolamento".
 
 ## Art. 10.
@@ -135,7 +135,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti: 
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti: 
  [...] 
  b) gli articoli 10, comma 4, 15, comma 5, lettera e), e 24, comma 2, continuano ad applicarsi fino alle date indicate dall'articolo 95, comma 2, lettera b), del Regolamento".
 
@@ -148,7 +148,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 12.
 
@@ -159,7 +159,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 13.
 
@@ -170,7 +170,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 14.
 
@@ -181,8 +181,8 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 20, comma 1) che "Il Registro dei produttori di batterie sostituisce il Registro nazionale dei soggetti tenuti al finanziamento dei sistemi di gestione dei rifiuti di pile e accumulatori di cui al [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md)". 
- Ha inoltre disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti: 
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 20, comma 1) che "Il Registro dei produttori di batterie sostituisce il Registro nazionale dei soggetti tenuti al finanziamento dei sistemi di gestione dei rifiuti di pile e accumulatori di cui al [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md)". 
+ Ha inoltre disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti: 
  [...] 
  [...] 
  [...] 
@@ -197,7 +197,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti: 
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti: 
  [...] 
  b) gli articoli 10, comma 4, 15, comma 5, lettera e), e 24, comma 2, continuano ad applicarsi fino alle date indicate dall'articolo 95, comma 2, lettera b), del Regolamento; 
  [...] 
@@ -212,8 +212,8 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 10 febbraio 2026, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20al%20regolamento%20UE%202023-1542%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2012%20luglio%202023%20relativo%20alle%20batterie%20e%20ai%20rifiuti%20di%20batter_daf73bd7a8d1.md), ha disposto (con l'art. 22, comma 1) che "Il Centro di coordinamento nazionale pile e accumulatori, istituito ai sensi dell'[articolo 16 del decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), e' ridenominato «Centro di coordinamento batterie» e rappresenta il soggetto terzo indipendente di cui all'articolo 57, paragrafo 3, del Regolamento". 
- Ha inoltre disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.Lgs. 10 febbraio 2026, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20al%20regolamento%20UE%202023-1542%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2012%20luglio%202023%20relativo%20alle%20batterie%20e%20ai%20rifiuti%20di%20batter_daf73bd7a8d1.md), ha disposto (con l'art. 22, comma 1) che "Il Centro di coordinamento nazionale pile e accumulatori, istituito ai sensi dell'[articolo 16 del decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), e' ridenominato «Centro di coordinamento batterie» e rappresenta il soggetto terzo indipendente di cui all'articolo 57, paragrafo 3, del Regolamento". 
+ Ha inoltre disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 17.
 
@@ -224,7 +224,7 @@ Il [D.Lgs. 10 febbraio 2026, n. 29](../Leggi%20delega%20e%20relativi%20provvedim
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 18.
 
@@ -235,7 +235,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 19.
 
@@ -246,7 +246,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 20.
 
@@ -257,7 +257,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 21.
 
@@ -268,7 +268,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 22.
 
@@ -279,7 +279,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 23.
 
@@ -290,7 +290,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti: 
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti: 
  [...] 
  [...] 
  c) l'articolo 23, comma 5, continua ad applicarsi fino alla data indicata dall'articolo 95, comma 2, lettera c), del Regolamento".
@@ -304,7 +304,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti: 
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti: 
  [...] 
  b) gli articoli 10, comma 4, 15, comma 5, lettera e), e 24, comma 2, continuano ad applicarsi fino alle date indicate dall'articolo 95, comma 2, lettera b), del Regolamento".
 
@@ -317,7 +317,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 26.
 
@@ -328,7 +328,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 27.
 
@@ -339,7 +339,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti: 
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti: 
  [...] 
  [...] 
  [...] 
@@ -354,7 +354,7 @@ Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
+Il [D.L. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-10;29), ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il [decreto legislativo 20 novembre 2008, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-66-CE%20concernente%20pile%20accumulatori%20e%20relativi%20rifiuti%20e%20che%20abroga%20la%20direttiva%2091-157-CEE.md), a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 29. — Abrogazioni
 

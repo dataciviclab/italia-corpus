@@ -24,7 +24,7 @@ Il Governo della Repubblica su proposta del Ministro per il lavoro e la previden
  d) ridurre dal 33 al 20 per cento il limite minimo di inabilita' permanente, modificando il regime di revisione dell'inabilita';
  e) adeguare al particolare rischio della silicosi e dell'asbestosi il sistema della determinazione del salario base ai fini della liquidazione delle prestazioni assicurative;
  f) ampliare il campo della tutela con la modifica della tabella A, annessa alla [legge 12 aprile 1943, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-04-12;455), prolungando il periodo massimo di indennizzabilita' a quindici anni ed apportando modifiche alle lavorazioni;
- g) dettare una norma transitoria per l'applicazione del [regio decreto 14 aprile 1927, n. 530](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20per%20ligiene%20del%20lavoro.%20027U0530.md), fino alla emanazione del regolamento speciale di prevenzione per la silicosi e l'asbestosi;
+ g) dettare una norma transitoria per l'applicazione del [regio decreto 14 aprile 1927, n. 530](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20generale%20per%20ligiene%20del%20lavoro.%20027U0530.md), fino alla emanazione del regolamento speciale di prevenzione per la silicosi e l'asbestosi;
  h) istituire una sezione distinta dal Fondo speciale infortuni presso la Cassa depositi e prestiti per assicurati o loro superstiti in particolari condizioni, o per lavoratori emigrati rientrati in Patria non aventi diritto alle indennita' previste dalla [legge 13 aprile 1943, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-04-13;455).
 
 ## Art. 2.

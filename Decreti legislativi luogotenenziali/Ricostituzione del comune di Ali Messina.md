@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 10 agosto 1928, n. 2040](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Ali%20e%20Ali%20Marina%20in%20un%20unico%20Comune%20denominato%20Ali%20con%20sede%20municipale%20in%20Ali%20Marina.%20028U2040.md);
+Visto il [R. decreto 10 agosto 1928, n. 2040](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Ali%20e%20Ali%20Marina%20in%20un%20unico%20Comune%20denominato%20Ali%20con%20sede%20municipale%20in%20Ali%20Marina.%20028U2040.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,13 +28,13 @@ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Abb
 
 ## Art. 1.
 
-Il comune di Ali', aggregato con [R. decreto 10 agosto 1928, n. 2040](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Ali%20e%20Ali%20Marina%20in%20un%20unico%20Comune%20denominato%20Ali%20con%20sede%20municipale%20in%20Ali%20Marina.%20028U2040.md), al comune di Ali' Marina, e' ricostituito con la circoscirizione preesistente all'entrata in vigore del decreto medesimo. 
+Il comune di Ali', aggregato con [R. decreto 10 agosto 1928, n. 2040](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Ali%20e%20Ali%20Marina%20in%20un%20unico%20Comune%20denominato%20Ali%20con%20sede%20municipale%20in%20Ali%20Marina.%20028U2040.md), al comune di Ali' Marina, e' ricostituito con la circoscirizione preesistente all'entrata in vigore del decreto medesimo. 
  Il Prefetto di Messina, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i comuni di Ali' Marina e di All.
 
 ## Art. 2.
 
 L'organico del ricostituito comune di Ali' e quello del comune di Ali' Marina, saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa. 
- Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni suddetti anteriormente alla loro fusione disposta con [R. decreto 10 agosto 1928, n. 2040](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Ali%20e%20Ali%20Marina%20in%20un%20unico%20Comune%20denominato%20Ali%20con%20sede%20municipale%20in%20Ali%20Marina.%20028U2040.md). 
+ Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni suddetti anteriormente alla loro fusione disposta con [R. decreto 10 agosto 1928, n. 2040](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Ali%20e%20Ali%20Marina%20in%20un%20unico%20Comune%20denominato%20Ali%20con%20sede%20municipale%20in%20Ali%20Marina.%20028U2040.md). 
  Al personale gia' in servizio presso il comune di Ali Marina, che eventualmente sara' inquadrato nei predetti organici, non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
 ## Art. 3.

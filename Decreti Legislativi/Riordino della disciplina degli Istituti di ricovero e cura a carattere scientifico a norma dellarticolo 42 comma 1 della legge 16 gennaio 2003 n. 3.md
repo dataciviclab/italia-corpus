@@ -330,7 +330,7 @@ Il personale in servizio presso gli IRCCS e' tenuto ad aderire ad un codice di c
 
 5-ter.
 
-Fermo restando quanto previsto dall'[articolo 65 del decreto legislativo 10 febbraio 2005, n. 30](Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md), gli IRCCS promuovono, nel rispetto delle disposizioni vigenti in materia, lo sviluppo delle imprese start up e spin off innovative in materia di ricerca biomedica e biotecnologica.
+Fermo restando quanto previsto dall'[articolo 65 del decreto legislativo 10 febbraio 2005, n. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md), gli IRCCS promuovono, nel rispetto delle disposizioni vigenti in materia, lo sviluppo delle imprese start up e spin off innovative in materia di ricerca biomedica e biotecnologica.
 
 5-quater.
 

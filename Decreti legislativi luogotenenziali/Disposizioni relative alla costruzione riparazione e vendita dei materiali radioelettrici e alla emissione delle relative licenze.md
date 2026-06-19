@@ -18,9 +18,9 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 8 gennaio 1931, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-01-08;234);
 
-Vista la [legge 12 gennaio 1933, n. 141](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20dei%20poteri%20per%20sottoporre%20ad%20autorizzazione%20i%20nuovi%20impianti%20industriali.%20033U0141.md);
+Vista la [legge 12 gennaio 1933, n. 141](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20dei%20poteri%20per%20sottoporre%20ad%20autorizzazione%20i%20nuovi%20impianti%20industriali.%20033U0141.md);
 
-Visto il [R. decreto 15 maggio 1933, n. 590](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%2012%20gennaio%201933%20n.%20141%20con%20cui%20furono%20delegati%20al%20Governo%20del%20Re%20i%20poteri%20per%20sottoporre%20ad%20autorizzazione%20i%20nuovi%20impianti%20industriali.%20033U0590.md);
+Visto il [R. decreto 15 maggio 1933, n. 590](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lattuazione%20della%20legge%2012%20gennaio%201933%20n.%20141%20con%20cui%20furono%20delegati%20al%20Governo%20del%20Re%20i%20poteri%20per%20sottoporre%20ad%20autorizzazione%20i%20nuovi%20impianti%20industriali.%20033U0590.md);
 
 Visto il [R. decreto-legge 3 dicembre 1934, n. 1988](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20la%20emissione%20delle%20licenze%20di%20fabbricazione%20riparazione%20e%20vendita%20di%20apparecchi%20e%20materiali%20radioelettrici.%20034U1988.md), convertito nella [legge 4 aprile 1935, n. 912](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20dicembre%201934%20n.%201988%20recante%20nuove%20norme%20per%20la%20emissione%20delle%20licenze%20di%20fabbricazione%20riparazione%20e%20vendita%20di%20apparecchi%20e%20materiali%20radio_a3f125685ce6.md), e la [legge 3 ottobre 1940, n. 1493](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20alle%20vigenti%20norme%20per%20la%20emissione%20di%20licenze%20di%20fabbricazione%20di%20apparecchi%20e%20materiali%20radioelettrici.%20040U1493.md);
 
@@ -152,7 +152,7 @@ I rivenditori che intendono cedere temporaneamente in prova apparecchi radiorice
 
 ## Art. 13.
 
-Per il mancato pagamento della tassa di concessione governativa si applicano le sanzioni previste dall'art. 9 della legge tributaria sulle concessioni governative, approvata con [R. decreto 30 dicembre 1923, n. 3279](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20concessioni%20governative.%20023U3279.md), modificato dall'art. I del [R. decreto 26 marzo 1936, n. 1418](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md), senza pregiudizio delle sanzioni penali previste dal Codice postale e delle telecomunicazioni.
+Per il mancato pagamento della tassa di concessione governativa si applicano le sanzioni previste dall'art. 9 della legge tributaria sulle concessioni governative, approvata con [R. decreto 30 dicembre 1923, n. 3279](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20concessioni%20governative.%20023U3279.md), modificato dall'art. I del [R. decreto 26 marzo 1936, n. 1418](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md), senza pregiudizio delle sanzioni penali previste dal Codice postale e delle telecomunicazioni.
 
 ## Art. 14.
 

@@ -27,12 +27,12 @@ Piena ed intera esecuzione e' data alla convenzione di cui all'articolo preceden
 Ai sensi e per gli effetti di cui all'articolo 1, paragrafo 1, della predetta convenzione, lo Stato italiano non inviera' agli Stati contraenti la richiesta di procedimento, nelle sottonotate ipotesi:
  a) se la persona offesa residente in Italia si sia costituita parte civile e tale costituzione non sia stata revocata;
  b) se ricorra uno dei casi di connessione previsti dall'articolo 45 del vigente [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) approvato con [regio decreto 19 ottobre 1930, n. 1399](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20definitivo%20del%20Codice%20di%20Procedura%20Penale.%20030U1399.md), sempreche' non si possa formulare richiesta di procedimento per tutti i reati e per tutti gli imputati;
- c) se, trattandosi di reato punibile con la sola pena pecuniaria, risulti che l'imputato abbia in Italia beni che costituiscano sufficiente garanzia per l'adempimento delle obbligazioni di cui all'articolo 189 del vigente [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ c) se, trattandosi di reato punibile con la sola pena pecuniaria, risulti che l'imputato abbia in Italia beni che costituiscano sufficiente garanzia per l'adempimento delle obbligazioni di cui all'articolo 189 del vigente [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
  d) se l'autorita' giudiziaria competente abbia gia' adottato il provvedimento che definisca il primo grado di giudizio.
 
 ## Art. 4.
 
-Ai sensi e per gli effetti di cui all'articolo 1, paragrafo 2, della predetta convenzione, lo Stato italiano inviera' agli Stati contraenti la richiesta di esecuzione di una pena pecuniaria inflitta con decisione definitiva giudiziaria o amministrativa, se il condannato non abbia in Italia beni che costituiscano garanzie per l'adempimento delle obbligazioni previste dall'articolo 189 del vigente [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Ai sensi e per gli effetti di cui all'articolo 1, paragrafo 2, della predetta convenzione, lo Stato italiano inviera' agli Stati contraenti la richiesta di esecuzione di una pena pecuniaria inflitta con decisione definitiva giudiziaria o amministrativa, se il condannato non abbia in Italia beni che costituiscano garanzie per l'adempimento delle obbligazioni previste dall'articolo 189 del vigente [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ## Art. 5.
 
@@ -44,7 +44,7 @@ Ai sensi e per gli effetti di cui all'articolo 1, paragrafo 3, della predetta co
 
 ## Art. 6.
 
-Ai sensi e per gli effetti di cui all'articolo 12 della predetta convenzione, le pene pecuniarie saranno assimilate ai fini del primo comma dell'articolo 136 del vigente [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), alla multa e all'ammenda secondo che l'infrazione, per cui e' stata pronunciata condanna nello Stato richiedente, costituisca, nello Stato italiano, delitto o contravvenzione.
+Ai sensi e per gli effetti di cui all'articolo 12 della predetta convenzione, le pene pecuniarie saranno assimilate ai fini del primo comma dell'articolo 136 del vigente [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), alla multa e all'ammenda secondo che l'infrazione, per cui e' stata pronunciata condanna nello Stato richiedente, costituisca, nello Stato italiano, delitto o contravvenzione.
 
 ## Art. 7.
 

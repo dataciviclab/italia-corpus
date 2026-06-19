@@ -504,7 +504,7 @@ Note all'art. 9:
 
 1.
 
-L'Istituto nazionale di economia agraria (I.N.E.A.), con sede legale in Roma, di seguito denominato Istituto, di cui al [regio decreto 10 maggio 1928, n. 1418](../Regi%20decreti/Modificazioni%20ai%20Regi%20decreti%209%20ottobre%201924%20n.%201765%20e%2016%20settembre%201927%20n.%201943%20riguardanti%20lIstituto%20di%20economia%20agraria.%20028U1418.md), e' ente di ricerca di diritto pubblico sottoposto alla vigilanza del Ministero.
+L'Istituto nazionale di economia agraria (I.N.E.A.), con sede legale in Roma, di seguito denominato Istituto, di cui al [regio decreto 10 maggio 1928, n. 1418](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20ai%20Regi%20decreti%209%20ottobre%201924%20n.%201765%20e%2016%20settembre%201927%20n.%201943%20riguardanti%20lIstituto%20di%20economia%20agraria.%20028U1418.md), e' ente di ricerca di diritto pubblico sottoposto alla vigilanza del Ministero.
 
 2.
 

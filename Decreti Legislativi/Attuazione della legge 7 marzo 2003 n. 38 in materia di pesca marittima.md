@@ -81,10 +81,10 @@ Nota all'[art. 3:
 
 1.
 
-Le navi ed i galleggianti abilitati alla navigazione, ai sensi dell'[articolo 149 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), per l'esercizio della pesca professionale devono essere muniti di licenza di pesca.
+Le navi ed i galleggianti abilitati alla navigazione, ai sensi dell'[articolo 149 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), per l'esercizio della pesca professionale devono essere muniti di licenza di pesca.
 
 Nota all'art. 4:
- - Si riporta il testo dell'[art. 149 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
+ - Si riporta il testo dell'[art. 149 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
  «Art. 149 (Abilitazione delle navi alla navigazione). - Le navi iscritte nelle matricole e le navi e i galleggianti iscritti nei registri sono abilitati alla navigazione rispettivamente dall'atto di nazionalita' e dalla licenza.
  A tale effetto l'atto di nazionalita' puo' essere temporaneamente sostituito da un passavanti provvisorio, e la licenza da una licenza provvisoria».
 
@@ -92,7 +92,7 @@ Nota all'art. 4:
 
 1.
 
-Il [comma 3 dell'articolo 318 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come modificato dal [decreto-legge 30 dicembre 1997, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-12-30;457), convertito, con modificazioni, dalla [legge 27 febbraio 1998, n. 30](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201997%20n.%20457%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20del%20settore%20dei%20trasporti%20e%20lincremento%20delloccupazione.md), e' sostituito dal seguente:
+Il [comma 3 dell'articolo 318 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' come modificato dal [decreto-legge 30 dicembre 1997, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-12-30;457), convertito, con modificazioni, dalla [legge 27 febbraio 1998, n. 30](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201997%20n.%20457%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20del%20settore%20dei%20trasporti%20e%20lincremento%20delloccupazione.md), e' sostituito dal seguente:
  «3. Per le navi adibite alla pesca marittima, l'autorita' marittima periferica, delegata dal Ministro delle infrastrutture e dei trasporti, autorizza, previa richiesta dell'armatore, che il personale di bordo sia composto anche da cittadini extracomunitari, tranne che per la qualifica di comandante.».
 
 2.
@@ -100,7 +100,7 @@ Il [comma 3 dell'articolo 318 del codice della navigazione](../Regi%20decreti/Ap
 Le qualifiche, i titoli professionali e gli altri requisiti del personale da pesca di cui al comma 1, sono determinati con il regolamento di cui all'articolo 10.
 
 Nota all'art. 5:
- - Si riporta il testo dell'[art. 318 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
+ - Si riporta il testo dell'[art. 318 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
  «Art. 318 (Nazionalita' dei componenti dell'equipaggio). - 1. L'equipaggio delle navi nazionali armate nei porti della Repubblica deve essere interamente composto da cittadini italiani o di altri Paesi appartenenti all'Unione europea.
  2. Alle disposizioni di cui al comma 1 puo' derogarsi attraverso accordi collettivi nazionali stipulati dalle organizzazioni sindacali dei datori di lavoro e dei lavoratori comparativamente piu' rappresentative a livello nazionale. Per i marittimi di nazionalita' diversa da quella italiana o comunitaria, imbarcati in conformita' a quanto previsto dal presente comma, non sono richiesti visto di ingresso nel territorio dello Stato, permesso di soggiorno e autorizzazione al lavoro anche quando la nave navighi nelle acque territoriali o sosti in un porto nazionale.
  2-bis. I certificati dei primi ufficiali di coperta non italiani, imbarcati in virtu' degli accordi collettivi nazionali di cui al comma 2, sono soggetti a riconoscimento da parte dell'amministrazione competente, ai sensi dell'art. 3 del regolamento di cui al [decreto del Presidente della Repubblica 9 maggio 2001, n. 324](../DPR/Regolamento%20di%20attuazione%20delle%20direttive%2094-58-CE%20e%2098-35-CE%20relative%20ai%20requisiti%20minimi%20di%20formazione%20per%20la%20gente%20di%20mare.md).

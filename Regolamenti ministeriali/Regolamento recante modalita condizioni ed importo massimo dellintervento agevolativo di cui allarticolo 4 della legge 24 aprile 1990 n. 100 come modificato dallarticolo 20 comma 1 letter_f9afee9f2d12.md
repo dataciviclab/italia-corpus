@@ -224,7 +224,7 @@ Nel caso in cui il contributo agli interessi sia stato concesso o erogato in ass
 
 3.
 
-Per il recupero delle somme di cui al presente articolo, la Simest e' autorizzata ad avvalersi della procedura di cui al [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
+Per il recupero delle somme di cui al presente articolo, la Simest e' autorizzata ad avvalersi della procedura di cui al [regio decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
 
 ## Art. 7. — Controlli
 

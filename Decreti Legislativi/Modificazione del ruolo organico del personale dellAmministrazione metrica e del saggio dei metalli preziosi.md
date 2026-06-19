@@ -22,7 +22,7 @@ PROMULGA Il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-I ruoli del personale dell'Amministrazione metrica e del saggio dei metalli preziosi di cui alla tabella annessa al [regio decreto 9 gennaio 1939, n. 206](../Regi%20decreti/Modificazioni%20al%20ruolo%20organico%20del%20personale%20dellAmministrazione%20metrica%20e%20del%20saggio%20dei%20metalli%20preziosi.%20039U0206.md), sono sostituiti da quelli di cui alle tabelle A, B e C annesse al presente decreto, vistate dal Ministro per l'industria e il commercio e dal Ministro per il tesoro,
+I ruoli del personale dell'Amministrazione metrica e del saggio dei metalli preziosi di cui alla tabella annessa al [regio decreto 9 gennaio 1939, n. 206](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20ruolo%20organico%20del%20personale%20dellAmministrazione%20metrica%20e%20del%20saggio%20dei%20metalli%20preziosi.%20039U0206.md), sono sostituiti da quelli di cui alle tabelle A, B e C annesse al presente decreto, vistate dal Ministro per l'industria e il commercio e dal Ministro per il tesoro,
 
 ## Art. 2.
 

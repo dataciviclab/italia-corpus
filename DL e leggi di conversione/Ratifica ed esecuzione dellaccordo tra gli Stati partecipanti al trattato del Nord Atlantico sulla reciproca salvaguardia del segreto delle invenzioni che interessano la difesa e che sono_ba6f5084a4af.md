@@ -24,8 +24,8 @@ Piena ed intera esecuzione e' data all'accordo indicato nell'articolo precedente
 
 ## Art. 3.
 
-L'[articolo 6 della legge 1 luglio 1959, n. 514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-01;514#art_6), contenente modifiche al [regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), e' sostituito dal seguente: 
- "Dopo l'[articolo 40 del regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), contenente il testo delle disposizioni legislative in materia di brevetti per invenzioni industriali, e' aggiunto il seguente articolo 40-bis: 
+L'[articolo 6 della legge 1 luglio 1959, n. 514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-07-01;514#art_6), contenente modifiche al [regio decreto 29 giugno 1939, n. 1127](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), e' sostituito dal seguente: 
+ "Dopo l'[articolo 40 del regio decreto 29 giugno 1939, n. 1127](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), contenente il testo delle disposizioni legislative in materia di brevetti per invenzioni industriali, e' aggiunto il seguente articolo 40-bis: 
  "A richiesta di Stati esteri che accordino il trattamento di reciprocita', il Ministero della difesa puo' chiedere, per un tempo anche superiore a tre anni, il differimento della concessione del brevetto e di ogni pubblicazione relativa all'invenzione per domande di brevetto gia' depositate all'estero e ivi soggette a vincoli di segreto. 
  Le indennita' eventuali sono a carico dello Stato estero richiedente "".
 

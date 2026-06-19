@@ -77,7 +77,7 @@ Ai fini del presente decreto si intendono per:
                         o)
                             "fornitore del servizio universale": il fornitore di un servizio postale, pubblico o privato, che fornisce un servizio postale universale sul territorio nazionale e la cui identita' e' stata notificata alla Commissione;
                         p)
-                            LETTERA SOPPRESSA DAL [D.LGS. 31 MARZO 2011, N. 58](Attuazione%20della%20direttiva%202008-6-CE%20che%20modifica%20la%20direttiva%2097-67-CE%20per%20quanto%20riguarda%20il%20pieno%20completamento%20del%20mercato%20interno%20dei%20servizi%20postali%20della%20Comunita.%2011G0099.md);
+                            LETTERA SOPPRESSA DAL [D.LGS. 31 MARZO 2011, N. 58](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-6-CE%20che%20modifica%20la%20direttiva%2097-67-CE%20per%20quanto%20riguarda%20il%20pieno%20completamento%20del%20mercato%20interno%20dei%20servizi%20postali%20della%20Comunita.%2011G0099.md);
                         q)
                             "autorizzazioni": ogni titolo abilitativo che stabilisce i diritti e gli obblighi specifici nel settore postale e che consente alle imprese di fornire servizi postali e, se del caso, creare ovvero gestire le proprie reti per la fornitura di tali servizi, sotto forma di "autorizzazione generale" oppure di "licenza individuale", definite come segue: 
  1) "autorizzazione generale": ogni autorizzazione che non richiede al fornitore di un servizio postale interessato di ottenere una esplicita decisione da parte dell'amministrazione competente prima dell'esercizio dei diritti derivanti dall'autorizzazione, indipendentemente dal fatto che questa sia regolata da una "licenza per categoria" o da norme di legge generali e che sia prevista o meno per essa una procedura di registrazione o di dichiarazione; 
@@ -599,13 +599,13 @@ L'emissione di carte valori postali e' prerogativa dello Stato.
 
 1.
 
-Le persone addette ai servizi postali, da chiunque gestiti, sono considerate incaricate di pubblico servizio in conformita' all'[articolo 358 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). ((Le persone addette ai servizi di notificazione a mezzo posta sono considerate pubblici ufficiali a tutti gli effetti)).((10))
+Le persone addette ai servizi postali, da chiunque gestiti, sono considerate incaricate di pubblico servizio in conformita' all'[articolo 358 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). ((Le persone addette ai servizi di notificazione a mezzo posta sono considerate pubblici ufficiali a tutti gli effetti)).((10))
 
 --------------
 
 AGGIORNAMENTO (10)
 
-La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md), come modificata dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 1, comma 97-quinquies) che "Le disposizioni di cui ai commi da 97-bis a 97-quater si applicano a decorrere dalla data di entrata in vigore del provvedimento del Ministero dello sviluppo economico che disciplina le procedure per il rilascio delle licenze di cui all'articolo 5, comma 2, secondo periodo, del [decreto legislativo 22 luglio 1999, n. 261](Attuazione%20della%20direttiva%2097-67-CE%20concernente%20regole%20comuni%20per%20lo%20sviluppo%20del%20mercato%20interno%20dei%20servizi%20postali%20comunitari%20e%20per%20il%20miglioramento%20della%20qualita%20del%20servizio.md)".
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md), come modificata dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 1, comma 97-quinquies) che "Le disposizioni di cui ai commi da 97-bis a 97-quater si applicano a decorrere dalla data di entrata in vigore del provvedimento del Ministero dello sviluppo economico che disciplina le procedure per il rilascio delle licenze di cui all'articolo 5, comma 2, secondo periodo, del [decreto legislativo 22 luglio 1999, n. 261](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2097-67-CE%20concernente%20regole%20comuni%20per%20lo%20sviluppo%20del%20mercato%20interno%20dei%20servizi%20postali%20comunitari%20e%20per%20il%20miglioramento%20della%20qualita%20del%20servizio.md)".
 
 ## Art. 18-bis.
 
@@ -697,7 +697,7 @@ All'aggiornamento e alla modifica delle disposizioni dell'allegato al presente d
 
 2-ter.
 
-Le disposizioni di cui al presente decreto prevalgono sulle disposizioni di cui al [decreto legislativo 26 marzo 2010, n. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md), recante attuazione della [direttiva 2006/123/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;123) relativa ai servizi nel mercato interno.
+Le disposizioni di cui al presente decreto prevalgono sulle disposizioni di cui al [decreto legislativo 26 marzo 2010, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md), recante attuazione della [direttiva 2006/123/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;123) relativa ai servizi nel mercato interno.
 
 ))
 

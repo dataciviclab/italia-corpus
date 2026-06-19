@@ -161,7 +161,7 @@ I proprietari che intendono eseguire per conto proprio la riparazione dei loro f
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. Luogotenenziale 8 febbraio 1946, n. 92](Assegnazione%20di%20nuovo%20termine%20per%20il%20conseguimento%20de%20premio%20di%20acceleramento%20per%20i%20lavori%20di%20riparazione%20di%20alloggi%20per%20i%20senza%20tetto.md), ha disposto (con l'art. 1, comma 1) che "In sostituzione del termine fissato dall'ultimo comma dell'[art. 12 del decreto legislativo Luogotenenziale 9 giugno 1945, n. 305](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20seguito%20ad%20eventi%20bellici.%20045U0305.md), e' assegnato il nuovo termine del 31 ottobre 1946 per il conseguimento del premio di acceleramento dei lavori di riparazione eseguiti a cura dei proprietari".
+Il [D.Lgs. Luogotenenziale 8 febbraio 1946, n. 92](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assegnazione%20di%20nuovo%20termine%20per%20il%20conseguimento%20de%20premio%20di%20acceleramento%20per%20i%20lavori%20di%20riparazione%20di%20alloggi%20per%20i%20senza%20tetto.md), ha disposto (con l'art. 1, comma 1) che "In sostituzione del termine fissato dall'ultimo comma dell'[art. 12 del decreto legislativo Luogotenenziale 9 giugno 1945, n. 305](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20seguito%20ad%20eventi%20bellici.%20045U0305.md), e' assegnato il nuovo termine del 31 ottobre 1946 per il conseguimento del premio di acceleramento dei lavori di riparazione eseguiti a cura dei proprietari".
 
 ### Art. 13.
 

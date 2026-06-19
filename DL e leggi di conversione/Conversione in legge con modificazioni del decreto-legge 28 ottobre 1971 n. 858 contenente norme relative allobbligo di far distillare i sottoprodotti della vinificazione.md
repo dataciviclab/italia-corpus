@@ -20,7 +20,7 @@ E' convertito in legge il [decreto-legge 28 ottobre 1971, n. 858](../Atti%20norm
  All'articolo 5, dopo il primo comma, e' aggiunto il seguente:
  "Nel caso in cui i sottoprodotti della vinificazione vengano ceduti alle distillerie, invece di essere conferiti in conto lavorazione, queste devono liquidare per i sottoprodotti stessi ai conferenti un compenso almeno eguale a quello derivante dalla applicazione del successivo articolo 7. Lo stesso ricavo minimo deve essere assicurato dall'acquirente nel caso in cui la cessione avvenga per produzione di acquavite o di enocianina".
  All'articolo 6, e' aggiunto, in fine, il seguente comma:
- "E' ammessa la filtratura delle fecce di vino ai sensi del [decreto del Presidente della Repubblica 12 febbraio 1965, n. 162](../DPR/Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md)".
+ "E' ammessa la filtratura delle fecce di vino ai sensi del [decreto del Presidente della Repubblica 12 febbraio 1965, n. 162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md)".
  All'articolo 7, dopo il secondo comma, e' aggiunto il seguente:
  "Il Comitato dei prezzi in sede provinciale, sentiti i rappresentanti delle categorie agricole e industriali interessate, stabilisce la quota per spese di lavorazione, di cui al precedente comma, entro quindici giorni dalla data di entrata in vigore della presente legge di conversione per la campagna vitivinicola 1971-72 ed entro il 31 agosto di ogni anno per le campagne successive".
 

@@ -48,7 +48,7 @@ La riforma della disciplina sanzionatoria in materia di produzione, commercializ
                         c)
                             prevedere la chiusura dello stabilimento o dell'esercizio nonche' la revoca della relativa licenza, in relazione ai singoli illeciti amministrativi ovvero alle violazioni di cui alla lettera b), oltre che nel caso di reiterazione anche non specifica di queste ultime, per i fatti di maggiore gravita' dai quali derivi pericolo per la salute;
                         d)
-                            prevedere specifiche circostanze aggravanti per le fattispecie di cui agli [articoli 515](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [516](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [517 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), con riferimento alle condotte che siano altresi' lesive dell'interesse protetto dal riconoscimento della denominazione di origine o dall'individuazione delle relative caratteristiche;
+                            prevedere specifiche circostanze aggravanti per le fattispecie di cui agli [articoli 515](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [516](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [517 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), con riferimento alle condotte che siano altresi' lesive dell'interesse protetto dal riconoscimento della denominazione di origine o dall'individuazione delle relative caratteristiche;
                         e)
                             fatto salvo quanto stabilito dal [primo comma dell'articolo 15 della legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283#art_15-com1), prevedere la chiusura obbligatoria dello stabilimento e dell'esercizio nei casi di insussistenza dei requisiti igienico-sanitari previsti per il rilascio della autorizzazione all'esercizio stesso, fermo restando quanto disposto dalla lettera c) del presente comma e salva la possibilita' di revoca immediata qualora la situazione sia compiutamente regolarizzata;
                         f)
@@ -62,7 +62,7 @@ La riforma della disciplina sanzionatoria in materia di produzione, commercializ
 
 La riforma del sistema sanzionatorio in materia di disciplina della navigazione e' ispirata ai seguenti principi e criteri direttivi:
                         a)
-                            trasformare in illeciti amministrativi le contravvenzioni contenute nel [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), escluse quelle previste dagli articoli 1161 (abusiva occupazione di spazio demaniale e inosservanza di limiti alla proprieta' privata), 1176 (inosservanza del divieto di mediazione) e 1177 (aggravanti) nonche' dal Capo VI del Titolo III del Libro I della Parte III (contravvenzioni concernenti le disposizioni sulla sicurezza della navigazione), prevedendo una sanzione amministrativa pecuniaria non superiore a lire sessanta milioni, graduata in rapporto alla gravita' degli illeciti;
+                            trasformare in illeciti amministrativi le contravvenzioni contenute nel [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), escluse quelle previste dagli articoli 1161 (abusiva occupazione di spazio demaniale e inosservanza di limiti alla proprieta' privata), 1176 (inosservanza del divieto di mediazione) e 1177 (aggravanti) nonche' dal Capo VI del Titolo III del Libro I della Parte III (contravvenzioni concernenti le disposizioni sulla sicurezza della navigazione), prevedendo una sanzione amministrativa pecuniaria non superiore a lire sessanta milioni, graduata in rapporto alla gravita' degli illeciti;
                         b)
                             prevedere la trasformazione in sanzioni amministrative accessorie delle pene accessorie gia' previste per le contravvenzioni trasformate in illeciti amministrativi ai sensi della lettera a).
 
@@ -125,15 +125,15 @@ La riforma del sistema sanzionatorio nelle materie concernenti gli intermediari,
 
 La riforma della disciplina sanzionatoria nelle materie di cui al presente articolo e' ispirata ai seguenti principi e criteri direttivi:
                         a)
-                            trasformare in illeciti amministrativi le contravvenzioni di cui agli [articoli 666](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [686 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), prevedendo sanzioni amministrative pecuniarie non inferiori a lire cinquantamila e non superiori a lire cinque milioni graduate in relazione alla gravita' degli illeciti;
+                            trasformare in illeciti amministrativi le contravvenzioni di cui agli [articoli 666](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [686 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), prevedendo sanzioni amministrative pecuniarie non inferiori a lire cinquantamila e non superiori a lire cinque milioni graduate in relazione alla gravita' degli illeciti;
                         b)
-                            trasformare in illecito amministrativo la contravvenzione prevista dall'[articolo 705 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), prevedendo una sanzione amministrativa pecuniaria non superiore a lire cinque milioni, graduata in relazione alla gravita' dell'illecito e all'eventuale reiterazione della condotta;
+                            trasformare in illecito amministrativo la contravvenzione prevista dall'[articolo 705 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), prevedendo una sanzione amministrativa pecuniaria non superiore a lire cinque milioni, graduata in relazione alla gravita' dell'illecito e all'eventuale reiterazione della condotta;
                         c)
-                            trasformare in illeciti amministrativi i reati di cui agli articoli 345, 350, 352, 465, 466, 498, 527, secondo comma, 654, 663, 663-bis, 664, 675, 676, limitatamente alle ipotesi di cui al primo comma, 677, limitatamente alle ipotesi di cui al primo e al secondo comma, 688, primo comma, 692, primo comma, 724 e 725 del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), prevedendo sanzioni amministrative pecuniarie non inferiori a lire centomila e non superiori a lire due milioni graduate in relazione alla gravita' degli illeciti;
+                            trasformare in illeciti amministrativi i reati di cui agli articoli 345, 350, 352, 465, 466, 498, 527, secondo comma, 654, 663, 663-bis, 664, 675, 676, limitatamente alle ipotesi di cui al primo comma, 677, limitatamente alle ipotesi di cui al primo e al secondo comma, 688, primo comma, 692, primo comma, 724 e 725 del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), prevedendo sanzioni amministrative pecuniarie non inferiori a lire centomila e non superiori a lire due milioni graduate in relazione alla gravita' degli illeciti;
                         d)
                             trasformare in illeciti amministrativi, prevedendo sanzioni amministrative pecuniarie non inferiori a lire duecentomila e non superiori a lire cinque milioni, i reati previsti:
  1) dall'[articolo 2 della legge 2 agosto 1897, n. 378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-08-02;378#art_2);
- 2) dagli articoli 15, 23 e 24 del regolamento per la repressione dell'abigeato e del pascolo abusivo in Sardegna, approvato con [regio decreto 14 luglio 1898, n. 404](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20repressione%20dellabigeato%20e%20del%20pascolo%20abusivo%20in%20Sardegna%20098U0404.md);
+ 2) dagli articoli 15, 23 e 24 del regolamento per la repressione dell'abigeato e del pascolo abusivo in Sardegna, approvato con [regio decreto 14 luglio 1898, n. 404](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20Regolamento%20per%20la%20repressione%20dellabigeato%20e%20del%20pascolo%20abusivo%20in%20Sardegna%20098U0404.md);
  3) dall'[articolo 142 del regio decreto 8 maggio 1904, n. 368](../Regi%20decreti/Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20del%20testo%20unico%20delle%20leggi%2022%20marzo%201900%20e%207%20luglio%201902%20nn.%20195%20e%20333%20sulle%20bonificazioni%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20004U0368.md);
  4) dall'[articolo 1 della legge 30 giugno 1912, n. 740](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-30;740#art_1);
  5) dagli articoli 54 e 55 del testo unico approvato con [regio decreto 11 luglio 1913, n. 959](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulla%20navigazione%20interna%20e%20sulla%20fluitazione.%20013U0959.md);
@@ -141,12 +141,12 @@ La riforma della disciplina sanzionatoria nelle materie di cui al presente artic
  7) dall'[articolo 4 della legge 19 aprile 1925, n. 475](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-19;475#art_4);
  8) dagli [articoli 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331#art_19) e [20 del regio decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331#art_20), convertito, con modificazioni, dalla [legge 16 giugno 1927, n. 1132](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%209%20luglio%201926%20numero%201331%20relativo%20al%20controllo%20sulla%20combustione.%20027U1132.md);
  9) dall'[articolo 11 del regio decreto-legge 14 novembre 1926, n. 1923](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-14;1923#art_11), convertito dalla [legge 7 luglio 1927, n. 1495](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%2014%20novembre%201926%20n.%201923%20che%20provvede%20ad%20unificare%20coordinare%20ed%20integrare%20le%20disposizioni%20relative%20ai%20divieti%20di%20importazione%20e%20di%20esportazione%20di%20car_ac354a1268bc.md);
- 10) dall'articolo 20 del testo unico approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+ 10) dall'articolo 20 del testo unico approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
  11) dall'[articolo 24 della legge 26 aprile 1934, n. 653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-04-26;653#art_24), in quanto riferibili a disposizioni non abrogate;
  12) dall'[articolo 221 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
  13) dagli [articoli 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_115) e [116 del regio decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_116), convertito, con modificazioni, dalla [legge 6 aprile 1936, n. 1155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201935-XIII%20n.%201827%20concernente%20il%20perfezionamento%20e%20coordinamento%20legislativo%20della%20previdenza%20sociale.%20036U1155.md);
  14) dall'[articolo 116 del regio decreto-legge 19 ottobre 1938, n. 1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-10-19;1933#art_116), convertito, con modificazioni, dalla [legge 5 giugno 1939, n. 973](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20ottobre%201938-XVI%20n.%201933%20riguardante%20la%20riforma%20delle%20leggi%20sul%20lotto%20pubblico.%20039U0973.md);
- 15) dall'articolo 76 del testo unico approvato con [regio decreto 5 giugno 1939, n. 1016](../Testi%20Unici/Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md);
+ 15) dall'articolo 76 del testo unico approvato con [regio decreto 5 giugno 1939, n. 1016](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20Testo%20unico%20delle%20norme%20per%20la%20protezione%20della%20selvaggina%20o%20per%20esercizio%20della%20caccia.%20039U1016.md);
  16) dall'[articolo 3 della legge 22 giugno 1939, n. 1239](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20tessera%20sanitaria%20per%20le%20persone%20addette%20ai%20lavori%20domestici.%20039U1239.md);
  17) dall'[articolo 32 della legge 10 giugno 1940, n. 653](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-10;653#art_32);
  18) dall'[articolo 6 della legge 27 maggio 1949, n. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-05-27;260#art_6);
@@ -243,7 +243,7 @@ Il decreto legislativo sara' informato ai seguenti principi e criteri direttivi:
 
 Il Governo e' delegato ad adottare, entro otto mesi dalla data di entrata in vigore della presente legge, un decreto legislativo in materia di sanzioni alternative alla detenzione, secondo i seguenti principi e criteri direttivi:
                         a)
-                            per i reati di cui al libro terzo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nonche' per le altre contravvenzioni previste da leggi speciali, non trasformate in illeciti amministrativi ai sensi della presente legge, previsione di sanzioni alternative alla detenzione o sostitutive della medesima detenzione, quali la prestazione di attivita' non retribuita a favore della collettivita' o di altre forme di lavoro sostitutivo, l'obbligo di permanenza in casa o misure prescrittive specifiche;
+                            per i reati di cui al libro terzo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) nonche' per le altre contravvenzioni previste da leggi speciali, non trasformate in illeciti amministrativi ai sensi della presente legge, previsione di sanzioni alternative alla detenzione o sostitutive della medesima detenzione, quali la prestazione di attivita' non retribuita a favore della collettivita' o di altre forme di lavoro sostitutivo, l'obbligo di permanenza in casa o misure prescrittive specifiche;
                         b)
                             individuazione dei diversi tipi di sanzioni di cui alla lettera a) in relazione alle diverse fattispecie di reato, con attribuzione al giudice del potere di scegliere la sanzione alternativa applicabile e di individuare obblighi specifici per il condannato relativi all'applicazione della stessa;
                         c)
@@ -259,11 +259,11 @@ All'[articolo 10, comma 2, della legge 26 ottobre 1995, n. 447](https://www.norm
 
 ## Art. 12.
 
-(Modifica all'[articolo 624 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)).
+(Modifica all'[articolo 624 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)).
 
 1.
 
-Dopo il [secondo comma dell'articolo 624 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' aggiunto il seguente: "Il delitto e' punibile a querela della persona offesa, salvo che ricorra una o piu' delle circostanze di cui agli articoli 61, numero 7), e 625".
+Dopo il [secondo comma dell'articolo 624 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' aggiunto il seguente: "Il delitto e' punibile a querela della persona offesa, salvo che ricorra una o piu' delle circostanze di cui agli articoli 61, numero 7), e 625".
 
 ## Art. 13.
 
@@ -319,11 +319,11 @@ Gli schemi dei decreti legislativi di cui agli articoli 1, 9 e 10 sono trasmessi
 
 ## Art. 18.
 
-(Abrogazioni e modifiche al [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)).
+(Abrogazioni e modifiche al [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)).
 
 1.
 
-Sono abrogati gli articoli 275, 297, 298, 303, 327, 332, 341, 344, 394, 395, 396, 397, 398, 399, 400, 401, 657, 670, 692, secondo comma, 710, 711, 726, secondo comma, e 732 del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Sono abrogati gli articoli 275, 297, 298, 303, 327, 332, 341, 344, 394, 395, 396, 397, 398, 399, 400, 401, 657, 670, 692, secondo comma, 710, 711, 726, secondo comma, e 732 del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 2.
 
@@ -331,11 +331,11 @@ E' abrogato il [comma 3 dell'articolo 6 della legge 18 gennaio 1994, n. 50](http
 
 3.
 
-All'[articolo 342, primo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le parole: "e' punito con la reclusione da sei mesi a tre anni" sono sostituite dalle seguenti: "e' punito con la reclusione fino a tre anni".
+All'[articolo 342, primo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le parole: "e' punito con la reclusione da sei mesi a tre anni" sono sostituite dalle seguenti: "e' punito con la reclusione fino a tre anni".
 
 4.
 
-All'[articolo 343, primo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le parole: "e' punito con la reclusione da uno a quattro anni" sono sostituite dalle seguenti: "e' punito con la reclusione fino a tre anni".
+All'[articolo 343, primo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le parole: "e' punito con la reclusione da uno a quattro anni" sono sostituite dalle seguenti: "e' punito con la reclusione fino a tre anni".
 
 ## Art. 19.
 

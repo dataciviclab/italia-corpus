@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 1° marzo 2002, n. 39](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), ed in particolare l'articolo 1, commi 1, 3 e 5, e l'allegato B;
+Vista la [legge 1° marzo 2002, n. 39](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), ed in particolare l'articolo 1, commi 1, 3 e 5, e l'allegato B;
 
 Vista la [direttiva 2000/53/CE del Parlamento europeo e del Consiglio, del 18 settembre 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;53), relativa ai veicoli fuori uso;
 
@@ -174,7 +174,7 @@ Il veicolo destinato alla demolizione e' consegnato dal detentore ad un centro d
 
 1-bis.
 
-Il veicolo destinato alla demolizione e accettato dal concessionario, dal gestore della succursale della casa costruttrice o dell'automercato, con i documenti del detentore del veicolo necessari alla radiazione dal PRA, e' gestito dai predetti soggetti, ai sensi dell'articolo 183, comma 1, lettera bb), del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), conformemente all'articolo 6, comma 8-bis, ai fini del successivo trasporto al centro di raccolta autorizzato.
+Il veicolo destinato alla demolizione e accettato dal concessionario, dal gestore della succursale della casa costruttrice o dell'automercato, con i documenti del detentore del veicolo necessari alla radiazione dal PRA, e' gestito dai predetti soggetti, ai sensi dell'articolo 183, comma 1, lettera bb), del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), conformemente all'articolo 6, comma 8-bis, ai fini del successivo trasporto al centro di raccolta autorizzato.
 
 2.
 
@@ -234,11 +234,11 @@ I certificati di rottamazione emessi in altri Stati membri rispondenti ai requis
 
 14.
 
-I veicoli a motore rinvenuti da organi pubblici o non reclamati dai proprietari e quelli acquisiti per occupazione, ai sensi degli [articoli 927](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_927), [929](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_929) e [923 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_923), sono conferiti ai centri di raccolta di cui al comma 1 nei casi e con le modalita' stabiliti in conformita' alle disposizioni emanate ai sensi del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md).
+I veicoli a motore rinvenuti da organi pubblici o non reclamati dai proprietari e quelli acquisiti per occupazione, ai sensi degli [articoli 927](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_927), [929](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_929) e [923 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_923), sono conferiti ai centri di raccolta di cui al comma 1 nei casi e con le modalita' stabiliti in conformita' alle disposizioni emanate ai sensi del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md).
 
 15.
 
-Le imprese esercenti attivita' di autoriparazione, di cui alla [legge 5 febbraio 1992, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;122), consegnano, ove cio' sia tecnicamente fattibile, i pezzi usati allo stato di rifiuto derivanti dalle riparazioni dei veicoli, ad eccezione di quelli per cui sono previsti dalla legge un consorzio obbligatorio di raccolta o sistemi di gestione di filiera istituiti ai sensi del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), ai seguenti soggetti:
+Le imprese esercenti attivita' di autoriparazione, di cui alla [legge 5 febbraio 1992, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;122), consegnano, ove cio' sia tecnicamente fattibile, i pezzi usati allo stato di rifiuto derivanti dalle riparazioni dei veicoli, ad eccezione di quelli per cui sono previsti dalla legge un consorzio obbligatorio di raccolta o sistemi di gestione di filiera istituiti ai sensi del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), ai seguenti soggetti:
                         a)
                             direttamente ad un centro di raccolta di cui al comma 3, qualora iscritti all'Albo nazionale dei gestori ambientali;
                         b)
@@ -316,7 +316,7 @@ Ai fini di una corretta gestione dei rifiuti derivanti dal veicolo fuori uso, le
 
 1-bis.
 
-Per massimizzare il riciclaggio e il recupero energetico dei materiali e dei componenti non metallici, le associazioni di categoria dei produttori dei veicoli, le associazioni di categoria delle imprese che effettuano la raccolta nonche' quelle che effettuano il riciclaggio e il recupero, ivi comprese le associazioni delle imprese che effettuano recupero di energia o utilizzano materiali e componenti non metallici in qualita' di combustibile solido secondario, possono stipulare con il Ministero dell'ambiente e della tutela del territorio e del mare un accordo di programma, con validita' triennale, atto al conferimento a sistemi di gestione di filiera istituiti ai sensi del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md).
+Per massimizzare il riciclaggio e il recupero energetico dei materiali e dei componenti non metallici, le associazioni di categoria dei produttori dei veicoli, le associazioni di categoria delle imprese che effettuano la raccolta nonche' quelle che effettuano il riciclaggio e il recupero, ivi comprese le associazioni delle imprese che effettuano recupero di energia o utilizzano materiali e componenti non metallici in qualita' di combustibile solido secondario, possono stipulare con il Ministero dell'ambiente e della tutela del territorio e del mare un accordo di programma, con validita' triennale, atto al conferimento a sistemi di gestione di filiera istituiti ai sensi del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md).
 
 ))
 

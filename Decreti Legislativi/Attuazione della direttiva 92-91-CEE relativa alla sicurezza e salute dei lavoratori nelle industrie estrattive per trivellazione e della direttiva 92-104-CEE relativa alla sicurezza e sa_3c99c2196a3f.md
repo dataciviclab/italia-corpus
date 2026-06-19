@@ -22,7 +22,7 @@ Visto il [decreto legislativo 19 settembre 1994 n. 626](Attuazione%20delle%20dir
 
 Vista la [legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), ed in particolare gli articoli 1 e 34 e gli allegato A e B;
 
-Vista la [legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), ed in particolare l'articolo 6, comma 3;
+Vista la [legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), ed in particolare l'articolo 6, comma 3;
 
 Visto il [decreto del Presidente della Repubblica 24 maggio 1979, n. 886](../DPR/Integrazione%20ed%20adeguamento%20delle%20norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave%20contenute%20nel%20decreto%20del%20Presidente%20della%20Repubblica%209%20aprile%201959%20n.%20128%20al%20fine%20di%20regolare%20le%20attivita%20di_6460acb681e7.md), e successive modifiche;
 
@@ -587,7 +587,7 @@ Gli infortuni sono altresi' annotati sul registro di piattaforma.
 
 4.
 
-Restano ferme le norme riguardanti le inchieste sugli infortuni della gente di mare di cui al Titolo V del [regio decreto 25 gennaio 1937, n. 200](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20dei%20Regi%20decreti%2017%20agosto%201935%20n.%201765%20e%2015%20dicembre%201936%20n.%202276%20sullassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20_1b7286f29503.md), e sui sinistri marittimi di cui alla Parte I, Libro IV, Titoli I e II del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+Restano ferme le norme riguardanti le inchieste sugli infortuni della gente di mare di cui al Titolo V del [regio decreto 25 gennaio 1937, n. 200](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20dei%20Regi%20decreti%2017%20agosto%201935%20n.%201765%20e%2015%20dicembre%201936%20n.%202276%20sullassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20_1b7286f29503.md), e sui sinistri marittimi di cui alla Parte I, Libro IV, Titoli I e II del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 ### Art. 28. — (Statistiche degli infortuni)
 

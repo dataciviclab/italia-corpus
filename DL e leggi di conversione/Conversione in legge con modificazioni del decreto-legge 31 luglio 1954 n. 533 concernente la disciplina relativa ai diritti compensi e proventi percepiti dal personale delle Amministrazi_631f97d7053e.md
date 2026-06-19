@@ -35,7 +35,7 @@ E' convertito in legge il [decreto-legge 31 luglio 1954, n. 533](../Atti%20norma
  L'art. 7 e' sostituito dal seguente:
  Sino all'entrata in vigore di norme generali sul trattamento economico dei dipendenti civili dello Stato, restano in vigore:
  a) per i dipendenti dell'Amministrazione delle dogane e delle imposte di fabbricazione, i diritti commerciali ad essi spettanti secondo le norme in vigore al 31 luglio 1954;
- b) per i dipendenti della motorizzazione civile i diritti previsti dall'[art. 108 del regio decreto 8 dicembre 1933, n. 1740](../Testi%20Unici/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), e successive modificazioni.
+ b) per i dipendenti della motorizzazione civile i diritti previsti dall'[art. 108 del regio decreto 8 dicembre 1933, n. 1740](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), e successive modificazioni.
  Le tabelle allegate al decreto sono sostituite da quelle allegate alla presente legge.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo ai chiunque spetti di osservarla e di farla osservare come legge dello Stato.

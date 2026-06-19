@@ -1040,10 +1040,10 @@ Il [D.Lgs. 10 agosto 2018, n. 101](../Decreti%20Legislativi/Disposizioni%20per%2
 
 1.
 
-La condanna per uno dei delitti previsti dal presente decreto importa la pubblicazione della sentenza, ai sensi dell'[articolo 36, secondo](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [terzo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+La condanna per uno dei delitti previsti dal presente decreto importa la pubblicazione della sentenza, ai sensi dell'[articolo 36, secondo](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [terzo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 Note all'art. 46: 
- Il testo dell'[art. 36, secondo](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [terzo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), cosi' recita: 
+ Il testo dell'[art. 36, secondo](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [terzo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), cosi' recita: 
  «Art. 36 (Pubblicazione della sentenza penale di condanna). - La sentenza di condanna alla pena di morte o all'ergastolo e' pubblicata mediante affissione nel comune ove e' stata pronunciata, in quello ove il delitto fu commesso, e in quello ove il condannato aveva l'ultima residenza. 
  La sentenza di condanna e' inoltre pubblicata nel sito internet del Ministero della giustizia. La durata della pubblicazione nel sito e' stabilita dal giudice in misura non superiore a trenta giorni. In mancanza, la durata e' di quindici giorni. 
  La pubblicazione e' fatta per estratto, salvo che il giudice disponga la pubblicazione per intero; essa e' eseguita d'ufficio e a spese del condannato. 

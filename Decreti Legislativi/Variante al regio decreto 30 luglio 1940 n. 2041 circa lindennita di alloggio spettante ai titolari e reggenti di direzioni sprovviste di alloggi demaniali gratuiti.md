@@ -22,11 +22,11 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-La tabella C prevista dal [regio decreto 27 febbraio 1921, n. 453](../Regi%20decreti/Che%20modifica%20il%20regolamento%2015%20luglio%201909%20n.541%20circa%20la%20carriera%20degli%20impiegati%20dellAmministrazione%20delle%20carceri%20e%20dei%20riformatori.%20021U0453.md), e [regio decreto 30 luglio 1940, n. 2041](../Regi%20decreti/Regolamento%20per%20il%20personale%20civile%20di%20ruolo%20degli%20Istituti%20di%20prevenzione%20e%20di%20pena.%20040U2041.md), relativa alle indennita' da corrispondersi ai titolari e reggenti di direzione di istituti di prevenzione e di pena, in mancanza di alloggio demaniale, e' soppressa.
+La tabella C prevista dal [regio decreto 27 febbraio 1921, n. 453](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20modifica%20il%20regolamento%2015%20luglio%201909%20n.541%20circa%20la%20carriera%20degli%20impiegati%20dellAmministrazione%20delle%20carceri%20e%20dei%20riformatori.%20021U0453.md), e [regio decreto 30 luglio 1940, n. 2041](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20il%20personale%20civile%20di%20ruolo%20degli%20Istituti%20di%20prevenzione%20e%20di%20pena.%20040U2041.md), relativa alle indennita' da corrispondersi ai titolari e reggenti di direzione di istituti di prevenzione e di pena, in mancanza di alloggio demaniale, e' soppressa.
 
 ## Art. 2.
 
-Al [regio decreto 30 luglio 1940, n. 2041](../Regi%20decreti/Regolamento%20per%20il%20personale%20civile%20di%20ruolo%20degli%20Istituti%20di%20prevenzione%20e%20di%20pena.%20040U2041.md), e' aggiunto il seguente art. 116-bis:
+Al [regio decreto 30 luglio 1940, n. 2041](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20il%20personale%20civile%20di%20ruolo%20degli%20Istituti%20di%20prevenzione%20e%20di%20pena.%20040U2041.md), e' aggiunto il seguente art. 116-bis:
  "Ai titolari o reggenti di direzioni che non possono fruire di alloggio demaniale a titolo gratuito, compete l'indennita' mensile di alloggio nella seguente misura:
  grado 5°, ispettori generali, L. 3850;
  grado 6°, direttori superiori, L. 3400;

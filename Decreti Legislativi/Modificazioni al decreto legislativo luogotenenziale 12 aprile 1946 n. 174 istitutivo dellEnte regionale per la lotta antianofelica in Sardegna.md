@@ -22,12 +22,12 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il penultimo comma dell'[art. 5 del decreto legislativo luogotenenziale 12 aprile 1946, n. 174](../Decreti%20legislativi%20luogotenenziali/Costituzione%20dellEnte%20per%20la%20lotta%20antianofelica%20in%20Sardegna.md), e' sostituito dal seguente:
+Il penultimo comma dell'[art. 5 del decreto legislativo luogotenenziale 12 aprile 1946, n. 174](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20dellEnte%20per%20la%20lotta%20antianofelica%20in%20Sardegna.md), e' sostituito dal seguente:
  "Sono soggetti all'approvazione dell'Alto Commissario per l'igiene e la sanita' pubblica, d'intesa con il Ministro per il tesoro, i conti ed i bilanci dell'Ente, nonche' i regolamenti indicati nel comma precedente".
 
 ## Art. 2.
 
-L'[art. 10 del decreto legislativo luogotenenziale 12 aprile 1946, n. 174](../Decreti%20legislativi%20luogotenenziali/Costituzione%20dellEnte%20per%20la%20lotta%20antianofelica%20in%20Sardegna.md), e' sostituito dal seguente.
+L'[art. 10 del decreto legislativo luogotenenziale 12 aprile 1946, n. 174](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20dellEnte%20per%20la%20lotta%20antianofelica%20in%20Sardegna.md), e' sostituito dal seguente.
  "L'esercizio finanziario dell'Ente ha inizio il 1 ottobre e termina il 30 settembre successivo.
  Entro il mese di agosto di ogni anno il sovrintendente sottopone il bilancio preventivo dell'esercizio seguente, corredato del programma tecnico dell'attivita' che l'Ente intenda svolgere nel corso dell'esercizio medesimo, all'Alto Commissario per l'igiene e la sanita' pubblica che provvede alla sua approvazione con le modalita' di cui al precedente art. 5.
  Con la stessa procedura viene approvato il rendiconto di cui il sovrintendente cura la predisposizione e l'invio entro il mese di dicembre successivo alla chiusura dell'esercizio.
@@ -35,7 +35,7 @@ L'[art. 10 del decreto legislativo luogotenenziale 12 aprile 1946, n. 174](../De
 
 ## Art. 3.
 
-Dopo l'[art. 12 del decreto legislativo luogotenenziale 12 aprile 1946, n. 174](../Decreti%20legislativi%20luogotenenziali/Costituzione%20dellEnte%20per%20la%20lotta%20antianofelica%20in%20Sardegna.md), e' inserto il seguente articolo:
+Dopo l'[art. 12 del decreto legislativo luogotenenziale 12 aprile 1946, n. 174](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20dellEnte%20per%20la%20lotta%20antianofelica%20in%20Sardegna.md), e' inserto il seguente articolo:
  "Art. 12-bis. - Con decreto dell'Alto Commissario per l'igiene e la sanita' pubblica e' costituito un Collegio dei revisori dei conti composto da un membro effettivo ed uno supplente designati dallo stesso Alto Commissario; da un membro effettivo ed uno supplente designati dal Ministero del tesoro e di un membro effettivo designato dal presidente della Corte dei conti.
  I membri del Collegio effettuano, sia collegialmente che individualmente, il riscontro della gestione finanziaria e contabile e rivedono i bilanci preventivi ed i conti consuntivi redigendo apposite relazioni; per le altre attribuzioni valgono, in quanto applicabili, le norme di cui agli [articoli 2403 e seguenti del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2403).
  I revisori durano in carica un anno e possono essere riconfermati.

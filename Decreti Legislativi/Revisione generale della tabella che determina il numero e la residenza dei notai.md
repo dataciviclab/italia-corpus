@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-In deroga al disposto dell'art. 4 capoverso della [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), la revisione generale della tabella annessa al [regio decreto 9 dicembre 1937, n. 2141](../Regi%20decreti/Revisione%20generale%20della%20tabella%20che%20determina%20il%20numero%20e%20la%20residenza%20dei%20notari%20nel%20Regno.%20037U2141.md), che determina il numero e la residenza dei notai per ciascun distretto, sara' compiuta entro il termine di cinque anni dalla data di entrata in vigore del presente decreto.
+In deroga al disposto dell'art. 4 capoverso della [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), la revisione generale della tabella annessa al [regio decreto 9 dicembre 1937, n. 2141](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20generale%20della%20tabella%20che%20determina%20il%20numero%20e%20la%20residenza%20dei%20notari%20nel%20Regno.%20037U2141.md), che determina il numero e la residenza dei notai per ciascun distretto, sara' compiuta entro il termine di cinque anni dalla data di entrata in vigore del presente decreto.
  Rimane ferma la facolta' di modificare parzialmente la tabella medesima nei casi previsti dal citato [art. 4 della legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89#art_4).
 
 ## Art. 2.

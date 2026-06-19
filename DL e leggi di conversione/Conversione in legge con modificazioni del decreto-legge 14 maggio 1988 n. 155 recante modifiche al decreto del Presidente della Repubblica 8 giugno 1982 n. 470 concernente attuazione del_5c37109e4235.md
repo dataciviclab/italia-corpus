@@ -18,7 +18,7 @@ PROMULGA la seguente legge:
 
 1.
 
-Il [decreto-legge 14 maggio 1988, n. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-14;155), recante modifiche al [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), concernente attuazione della [direttiva CEE n. 76/160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;160), relativa alla qualita' delle acque di balneazione, e' convertito in legge con le seguenti modificazioni:
+Il [decreto-legge 14 maggio 1988, n. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-14;155), recante modifiche al [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), concernente attuazione della [direttiva CEE n. 76/160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;160), relativa alla qualita' delle acque di balneazione, e' convertito in legge con le seguenti modificazioni:
  all'articolo 1, al comma 1, le parole: "non oltre un triennio" sono sostituite dalle seguenti: "non oltre due anni".
 
 2.

@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [direttiva 98/26/CE del Parlamento europeo e del Consiglio del 19 maggio 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;26), concernente il carattere definitivo del regolamento nei sistemi di pagamento e nei sistemi di regolamento titoli;
 
-Vista la [legge 21 dicembre 1999, n. 526](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 1999) ed in particolare gli articoli 1 e 18 concernenti l'esercizio della delega legislativa per il recepimento della direttiva;
+Vista la [legge 21 dicembre 1999, n. 526](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 1999) ed in particolare gli articoli 1 e 18 concernenti l'esercizio della delega legislativa per il recepimento della direttiva;
 
 Visto il testo unico delle leggi in materia bancaria e creditizia, approvato con il [decreto legislativo 1o settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
 
@@ -105,7 +105,7 @@ Nel presente decreto legislativo si intendono per:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 24 marzo 2011, n. 48](Attuazione%20della%20direttiva%202009-44-CE%20che%20modifica%20la%20direttiva%2098-26-CE%20concernente%20il%20carattere%20definitivo%20del%20regolamento%20nei%20sistemi%20di%20pagamento%20e%20nei%20sistemi%20di%20regolamento%20titoli%20e_b0c7f2b81520.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto legislativo, ad eccezione di quella contenuta nell'articolo 3, si applicano a decorrere dal 30 giugno 2011".
+Il [D.Lgs. 24 marzo 2011, n. 48](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-44-CE%20che%20modifica%20la%20direttiva%2098-26-CE%20concernente%20il%20carattere%20definitivo%20del%20regolamento%20nei%20sistemi%20di%20pagamento%20e%20nei%20sistemi%20di%20regolamento%20titoli%20e_b0c7f2b81520.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto legislativo, ad eccezione di quella contenuta nell'articolo 3, si applicano a decorrere dal 30 giugno 2011".
 
 ## Art. 2. — Definitivita' degli ordini di trasferimento e della compensazione
 
@@ -139,7 +139,7 @@ L'apertura di una procedura di insolvenza non ha effetto retroattivo sui diritti
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 24 marzo 2011, n. 48](Attuazione%20della%20direttiva%202009-44-CE%20che%20modifica%20la%20direttiva%2098-26-CE%20concernente%20il%20carattere%20definitivo%20del%20regolamento%20nei%20sistemi%20di%20pagamento%20e%20nei%20sistemi%20di%20regolamento%20titoli%20e_b0c7f2b81520.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto legislativo, ad eccezione di quella contenuta nell'articolo 3, si applicano a decorrere dal 30 giugno 2011".
+Il [D.Lgs. 24 marzo 2011, n. 48](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-44-CE%20che%20modifica%20la%20direttiva%2098-26-CE%20concernente%20il%20carattere%20definitivo%20del%20regolamento%20nei%20sistemi%20di%20pagamento%20e%20nei%20sistemi%20di%20regolamento%20titoli%20e_b0c7f2b81520.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto legislativo, ad eccezione di quella contenuta nell'articolo 3, si applicano a decorrere dal 30 giugno 2011".
 
 ## Art. 3. — Apertura della procedura di insolvenza
 
@@ -194,7 +194,7 @@ Un ordine di trasferimento non puo' essere revocato dopo lo scadere del termine 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 24 marzo 2011, n. 48](Attuazione%20della%20direttiva%202009-44-CE%20che%20modifica%20la%20direttiva%2098-26-CE%20concernente%20il%20carattere%20definitivo%20del%20regolamento%20nei%20sistemi%20di%20pagamento%20e%20nei%20sistemi%20di%20regolamento%20titoli%20e_b0c7f2b81520.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto legislativo, ad eccezione di quella contenuta nell'articolo 3, si applicano a decorrere dal 30 giugno 2011".
+Il [D.Lgs. 24 marzo 2011, n. 48](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-44-CE%20che%20modifica%20la%20direttiva%2098-26-CE%20concernente%20il%20carattere%20definitivo%20del%20regolamento%20nei%20sistemi%20di%20pagamento%20e%20nei%20sistemi%20di%20regolamento%20titoli%20e_b0c7f2b81520.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto legislativo, ad eccezione di quella contenuta nell'articolo 3, si applicano a decorrere dal 30 giugno 2011".
 
 ## Art. 5. — Adempimento degli obblighi nei confronti del sistema
 
@@ -211,7 +211,7 @@ Gli atti di cui al comma 1 sono soggetti alle previsioni dell'articolo 2.
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 24 marzo 2011, n. 48](Attuazione%20della%20direttiva%202009-44-CE%20che%20modifica%20la%20direttiva%2098-26-CE%20concernente%20il%20carattere%20definitivo%20del%20regolamento%20nei%20sistemi%20di%20pagamento%20e%20nei%20sistemi%20di%20regolamento%20titoli%20e_b0c7f2b81520.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto legislativo, ad eccezione di quella contenuta nell'articolo 3, si applicano a decorrere dal 30 giugno 2011".
+Il [D.Lgs. 24 marzo 2011, n. 48](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-44-CE%20che%20modifica%20la%20direttiva%2098-26-CE%20concernente%20il%20carattere%20definitivo%20del%20regolamento%20nei%20sistemi%20di%20pagamento%20e%20nei%20sistemi%20di%20regolamento%20titoli%20e_b0c7f2b81520.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto legislativo, ad eccezione di quella contenuta nell'articolo 3, si applicano a decorrere dal 30 giugno 2011".
 
 ## Art. 6. — Diritti del partecipante
 
@@ -225,7 +225,7 @@ Il partecipante da' immediata comunicazione dei tempi e delle modalita' della ve
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 21 MAGGIO 2004, N. 170](Attuazione%20della%20direttiva%202002-47-CE%20in%20materia%20di%20contratti%20di%20garanzia%20finanziaria.md).
+COMMA ABROGATO DAL [D.LGS. 21 MAGGIO 2004, N. 170](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202002-47-CE%20in%20materia%20di%20contratti%20di%20garanzia%20finanziaria.md).
 
 4.
 
@@ -250,19 +250,19 @@ Nel caso in cui sia aperta una procedura di insolvenza nei confronti di un parte
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 21 MAGGIO 2004, N. 170](Attuazione%20della%20direttiva%202002-47-CE%20in%20materia%20di%20contratti%20di%20garanzia%20finanziaria.md).
+COMMA ABROGATO DAL [D.LGS. 21 MAGGIO 2004, N. 170](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202002-47-CE%20in%20materia%20di%20contratti%20di%20garanzia%20finanziaria.md).
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 21 MAGGIO 2004, N. 170](Attuazione%20della%20direttiva%202002-47-CE%20in%20materia%20di%20contratti%20di%20garanzia%20finanziaria.md).
+COMMA ABROGATO DAL [D.LGS. 21 MAGGIO 2004, N. 170](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202002-47-CE%20in%20materia%20di%20contratti%20di%20garanzia%20finanziaria.md).
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 21 MAGGIO 2004, N. 170](Attuazione%20della%20direttiva%202002-47-CE%20in%20materia%20di%20contratti%20di%20garanzia%20finanziaria.md).
+COMMA ABROGATO DAL [D.LGS. 21 MAGGIO 2004, N. 170](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202002-47-CE%20in%20materia%20di%20contratti%20di%20garanzia%20finanziaria.md).
 
 5.
 
-COMMA ABROGATO DAL [D.LGS. 21 MAGGIO 2004, N. 170](Attuazione%20della%20direttiva%202002-47-CE%20in%20materia%20di%20contratti%20di%20garanzia%20finanziaria.md).
+COMMA ABROGATO DAL [D.LGS. 21 MAGGIO 2004, N. 170](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202002-47-CE%20in%20materia%20di%20contratti%20di%20garanzia%20finanziaria.md).
 
 ((
 
@@ -274,14 +274,14 @@ Nessuna azione, compresa l'azione di nullita', puo' pregiudicare nei confronti d
 
 7.
 
-COMMA ABROGATO DAL [D.LGS. 21 MAGGIO 2004, N. 170](Attuazione%20della%20direttiva%202002-47-CE%20in%20materia%20di%20contratti%20di%20garanzia%20finanziaria.md). 
+COMMA ABROGATO DAL [D.LGS. 21 MAGGIO 2004, N. 170](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202002-47-CE%20in%20materia%20di%20contratti%20di%20garanzia%20finanziaria.md). 
  ((2))
 
 -------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 24 marzo 2011, n. 48](Attuazione%20della%20direttiva%202009-44-CE%20che%20modifica%20la%20direttiva%2098-26-CE%20concernente%20il%20carattere%20definitivo%20del%20regolamento%20nei%20sistemi%20di%20pagamento%20e%20nei%20sistemi%20di%20regolamento%20titoli%20e_b0c7f2b81520.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto legislativo, ad eccezione di quella contenuta nell'articolo 3, si applicano a decorrere dal 30 giugno 2011".
+Il [D.Lgs. 24 marzo 2011, n. 48](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-44-CE%20che%20modifica%20la%20direttiva%2098-26-CE%20concernente%20il%20carattere%20definitivo%20del%20regolamento%20nei%20sistemi%20di%20pagamento%20e%20nei%20sistemi%20di%20regolamento%20titoli%20e_b0c7f2b81520.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto legislativo, ad eccezione di quella contenuta nell'articolo 3, si applicano a decorrere dal 30 giugno 2011".
 
 ## Art. 8-bis. — (( (Tutela dei diritti dell'operatore del sistema che ha fornito la garanzia).))
 
@@ -323,8 +323,8 @@ Ove richiesto dalle caratteristiche di un sistema e da esigenze di controllo dei
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 24 marzo 2011, n. 48](Attuazione%20della%20direttiva%202009-44-CE%20che%20modifica%20la%20direttiva%2098-26-CE%20concernente%20il%20carattere%20definitivo%20del%20regolamento%20nei%20sistemi%20di%20pagamento%20e%20nei%20sistemi%20di%20regolamento%20titoli%20e_b0c7f2b81520.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto legislativo, ad eccezione di quella contenuta nell'articolo 3, si applicano a decorrere dal 30 giugno 2011". 
- Ha inoltre disposto (con l'art. 5, comma 2) che "I sistemi designati ai sensi dell'[articolo 10, comma 2, del decreto legislativo 12 aprile 2001, n. 210](Attuazione%20della%20direttiva%2098-26-CE%20sulla%20definitivita%20degli%20ordini%20immessi%20in%20un%20sistema%20di%20pagamento%20o%20di%20regolamento%20titoli.md), prima del 30 giugno 2011 continuano ad essere designati ai fini del [decreto legislativo 12 aprile 2001, n. 210](Attuazione%20della%20direttiva%2098-26-CE%20sulla%20definitivita%20degli%20ordini%20immessi%20in%20un%20sistema%20di%20pagamento%20o%20di%20regolamento%20titoli.md), cosi' come modificato dal presente decreto legislativo, e non necessitano di un nuovo provvedimento di designazione".
+Il [D.Lgs. 24 marzo 2011, n. 48](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-44-CE%20che%20modifica%20la%20direttiva%2098-26-CE%20concernente%20il%20carattere%20definitivo%20del%20regolamento%20nei%20sistemi%20di%20pagamento%20e%20nei%20sistemi%20di%20regolamento%20titoli%20e_b0c7f2b81520.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto legislativo, ad eccezione di quella contenuta nell'articolo 3, si applicano a decorrere dal 30 giugno 2011". 
+ Ha inoltre disposto (con l'art. 5, comma 2) che "I sistemi designati ai sensi dell'[articolo 10, comma 2, del decreto legislativo 12 aprile 2001, n. 210](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2098-26-CE%20sulla%20definitivita%20degli%20ordini%20immessi%20in%20un%20sistema%20di%20pagamento%20o%20di%20regolamento%20titoli.md), prima del 30 giugno 2011 continuano ad essere designati ai fini del [decreto legislativo 12 aprile 2001, n. 210](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2098-26-CE%20sulla%20definitivita%20degli%20ordini%20immessi%20in%20un%20sistema%20di%20pagamento%20o%20di%20regolamento%20titoli.md), cosi' come modificato dal presente decreto legislativo, e non necessitano di un nuovo provvedimento di designazione".
 
 ## Art. 11. — Informazioni sulla partecipazione ai sistemi
 
@@ -342,7 +342,7 @@ Con provvedimenti emanati secondo le procedure indicate nell'articolo 10, comma 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 24 marzo 2011, n. 48](Attuazione%20della%20direttiva%202009-44-CE%20che%20modifica%20la%20direttiva%2098-26-CE%20concernente%20il%20carattere%20definitivo%20del%20regolamento%20nei%20sistemi%20di%20pagamento%20e%20nei%20sistemi%20di%20regolamento%20titoli%20e_b0c7f2b81520.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto legislativo, ad eccezione di quella contenuta nell'articolo 3, si applicano a decorrere dal 30 giugno 2011".
+Il [D.Lgs. 24 marzo 2011, n. 48](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-44-CE%20che%20modifica%20la%20direttiva%2098-26-CE%20concernente%20il%20carattere%20definitivo%20del%20regolamento%20nei%20sistemi%20di%20pagamento%20e%20nei%20sistemi%20di%20regolamento%20titoli%20e_b0c7f2b81520.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto legislativo, ad eccezione di quella contenuta nell'articolo 3, si applicano a decorrere dal 30 giugno 2011".
 
 ## Art. 11-bis. — (( (Collaborazione con l'AESFEM). ))
 

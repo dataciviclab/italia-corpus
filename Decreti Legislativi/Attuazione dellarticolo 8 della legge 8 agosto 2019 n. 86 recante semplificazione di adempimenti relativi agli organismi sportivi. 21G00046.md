@@ -420,7 +420,7 @@ Le Associazioni e Societa' sportive dilettantistiche e le Societa' sportive prof
 
 5.
 
-I regolamenti delle Federazioni sportive nazionali, delle Discipline sportive associate, degli Enti di promozione sportiva e delle Associazioni benemerite devono prevedere sanzioni disciplinari a carico dei tesserati che abbiano violato i divieti di cui al capo II del titolo I, libro III del [decreto legislativo 11 aprile 2006, n. 198](Codice%20delle%20pari%20opportunita%20tra%20uomo%20e%20donna%20a%20norma%20dellarticolo%206%20della%20legge%2028%20novembre%202005%20n.%20246.md), ovvero siano stati condannati in via definitiva per i reati di cui agli articoli 600-bis, 600-ter, 600-quater, 600-quater.1, 600-quinquies, 604-bis, 604-ter, 609-bis, 609-ter, 609-quater, 609-quinques, 609-octies 609-undecies del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+I regolamenti delle Federazioni sportive nazionali, delle Discipline sportive associate, degli Enti di promozione sportiva e delle Associazioni benemerite devono prevedere sanzioni disciplinari a carico dei tesserati che abbiano violato i divieti di cui al capo II del titolo I, libro III del [decreto legislativo 11 aprile 2006, n. 198](Codice%20delle%20pari%20opportunita%20tra%20uomo%20e%20donna%20a%20norma%20dellarticolo%206%20della%20legge%2028%20novembre%202005%20n.%20246.md), ovvero siano stati condannati in via definitiva per i reati di cui agli articoli 600-bis, 600-ter, 600-quater, 600-quater.1, 600-quinquies, 604-bis, 604-ter, 609-bis, 609-ter, 609-quater, 609-quinques, 609-octies 609-undecies del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 6.
 

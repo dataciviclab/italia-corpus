@@ -28,7 +28,7 @@ E' data facolta' alle Camere di commercio, industria ed agricoltura, di conferir
 
 ## Art. 2.
 
-E' data facolta' alle Camere predette di conferire due decimi dei posti disponibili ai sensi ((dell'articolo)) precedente al personale non di ruolo assunto dopo il 31 dicembre 1942 ed avente la qualifica di cui all'[art. 3 del decreto legislativo luogotenenziale 26 marzo 1946, n. 138](../Decreti%20legislativi%20luogotenenziali/Norme%20integrative%20per%20la%20riassunzione%20e%20lassunzione%20obbligatoria%20dei%20reduci%20nelle%20pubbliche%20Amministrazioni.md), o appartenente alle categorie assimilate per legge che, alla data di entrata in vigore del presente decreto, si trovi almeno da un anno in servizio presso la Camera.((1))
+E' data facolta' alle Camere predette di conferire due decimi dei posti disponibili ai sensi ((dell'articolo)) precedente al personale non di ruolo assunto dopo il 31 dicembre 1942 ed avente la qualifica di cui all'[art. 3 del decreto legislativo luogotenenziale 26 marzo 1946, n. 138](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20integrative%20per%20la%20riassunzione%20e%20lassunzione%20obbligatoria%20dei%20reduci%20nelle%20pubbliche%20Amministrazioni.md), o appartenente alle categorie assimilate per legge che, alla data di entrata in vigore del presente decreto, si trovi almeno da un anno in servizio presso la Camera.((1))
 
 -----------------
 
@@ -38,7 +38,7 @@ La [L. 18 luglio 1949, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 ## Art. 3.
 
-Il conferimento dei posti indicati negli articoli precedenti e' fatto mediante concorsi per titoli, con le modalita' e le condizioni di cui al [regio decreto 18 dicembre 1930, n. 1733](../Regi%20decreti/Norme%20transitorie%20per%20i%20passaggi%20a%20categoria%20superiore%20e%20la%20sistemazione%20in%20ruolo%20del%20personale%20in%20servizio%20delle%20Amministrazioni%20statali.%20030U1733.md). (1)
+Il conferimento dei posti indicati negli articoli precedenti e' fatto mediante concorsi per titoli, con le modalita' e le condizioni di cui al [regio decreto 18 dicembre 1930, n. 1733](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20transitorie%20per%20i%20passaggi%20a%20categoria%20superiore%20e%20la%20sistemazione%20in%20ruolo%20del%20personale%20in%20servizio%20delle%20Amministrazioni%20statali.%20030U1733.md). (1)
  I concorsi sono banditi, per i posti disponibili presso ciascuna Camera, dalla rispettiva Giunta camerale, entro sei mesi dalla data di entrata in vigore del presente decreto.
  Essi devono essere espletati in Roma, entro sei mesi dalla data in cui gli atti risulteranno pervenuti al Ministero, da apposite Commissioni nominate con decreto del Ministro per l'industria e il commercio, delle quali fara' parte, per ogni concorso, anche un rappresentante della Camera interessata, dalla stessa designato.
  Le spese necessarie per l'espletamento dei concorsi faranno carico sui bilanci delle Camere interessate.((2))

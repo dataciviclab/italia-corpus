@@ -153,7 +153,7 @@ Sono sanzionati gli agricoltori o gli altri beneficiari dei pagamenti diretti a 
 
 1-bis.
 
-Qualora a carico dei soggetti di cui al comma 1 sia stato disposto il sequestro preventivo dell'azienda nell'ambito di un procedimento per i reati previsti dall'[articolo 603-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), l'autorita' giudiziaria ne da' immediata comunicazione agli Organismi pagatori che sospendono l'erogazione dei benefici fino alla revoca della misura cautelare, salvo che il giudice disponga il controllo giudiziario o nomini un amministratore giudiziario che assicuri la continuita' dell'azienda.
+Qualora a carico dei soggetti di cui al comma 1 sia stato disposto il sequestro preventivo dell'azienda nell'ambito di un procedimento per i reati previsti dall'[articolo 603-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), l'autorita' giudiziaria ne da' immediata comunicazione agli Organismi pagatori che sospendono l'erogazione dei benefici fino alla revoca della misura cautelare, salvo che il giudice disponga il controllo giudiziario o nomini un amministratore giudiziario che assicuri la continuita' dell'azienda.
 
 ))
 
@@ -225,7 +225,7 @@ Note all'art. 4:
 
 1.
 
-Per ciascun anno di domanda, la presentazione di una domanda di aiuto o di pagamento, corredata della necessaria documentazione a sostegno, oltre l'ultimo giorno utile, fissato con decreto del Ministro dell'agricoltura, della sovranita' alimentare e delle foreste, da adottarsi ai sensi dell'[articolo 4, comma 3, della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), comporta una riduzione pari all'1 per cento, per ciascun giorno di ritardo, dell'aiuto cui il beneficiario avrebbe avuto diritto se avesse presentato la domanda entro il prefissato termine di scadenza.
+Per ciascun anno di domanda, la presentazione di una domanda di aiuto o di pagamento, corredata della necessaria documentazione a sostegno, oltre l'ultimo giorno utile, fissato con decreto del Ministro dell'agricoltura, della sovranita' alimentare e delle foreste, da adottarsi ai sensi dell'[articolo 4, comma 3, della legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), comporta una riduzione pari all'1 per cento, per ciascun giorno di ritardo, dell'aiuto cui il beneficiario avrebbe avuto diritto se avesse presentato la domanda entro il prefissato termine di scadenza.
 
 2.
 
@@ -277,7 +277,7 @@ Al beneficiario che nell'anno precedente non ha subito alcuna riduzione per sovr
 
 6.
 
-Qualora si accerti che il «giovane agricoltore», di cui all'[articolo 4, paragrafo 6, del regolamento (UE) 2021/2115](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2021;2115#art_4-par6), non possieda i requisiti relativi allo status di «capo dell'azienda» o alla capacita' professionale stabiliti con decreto del Ministro dell'agricoltura, della sovranita' alimentare e delle foreste, da adottarsi ai sensi dell'[articolo 4, comma 3, della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), il relativo sostegno complementare al reddito non e' concesso o e' revocato integralmente e si applica, a valere sugli altri aiuti richiesti, una riduzione pari al 20 per cento dell'importo che il beneficiario ha o avrebbe ricevuto come sostegno complementare al reddito per i giovani agricoltori; se tale importo non puo' essere recuperato integralmente nel corso dei due anni successivi all'anno dell'accertamento, il saldo restante e' azzerato.
+Qualora si accerti che il «giovane agricoltore», di cui all'[articolo 4, paragrafo 6, del regolamento (UE) 2021/2115](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2021;2115#art_4-par6), non possieda i requisiti relativi allo status di «capo dell'azienda» o alla capacita' professionale stabiliti con decreto del Ministro dell'agricoltura, della sovranita' alimentare e delle foreste, da adottarsi ai sensi dell'[articolo 4, comma 3, della legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), il relativo sostegno complementare al reddito non e' concesso o e' revocato integralmente e si applica, a valere sugli altri aiuti richiesti, una riduzione pari al 20 per cento dell'importo che il beneficiario ha o avrebbe ricevuto come sostegno complementare al reddito per i giovani agricoltori; se tale importo non puo' essere recuperato integralmente nel corso dei due anni successivi all'anno dell'accertamento, il saldo restante e' azzerato.
 
 7.
 

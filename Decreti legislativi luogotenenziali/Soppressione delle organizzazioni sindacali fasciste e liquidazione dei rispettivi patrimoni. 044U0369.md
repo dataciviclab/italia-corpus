@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 3 aprile 1926, n. 563](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), sulla disciplina giuridica dei rapporti collettivi di lavoro, nonche' il [R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), contenente norme per l'attuazione della legge predetta, e le successive modificazioni;
+Vista la [legge 3 aprile 1926, n. 563](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), sulla disciplina giuridica dei rapporti collettivi di lavoro, nonche' il [R. decreto 1° luglio 1926, n. 1130](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md), contenente norme per l'attuazione della legge predetta, e le successive modificazioni;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), relativo all'assemblea per la nuova costituzione dello Stato, al giuramento dei membri del Governo e alla facolta' del Governo di emanare norme giuridiche;
 
