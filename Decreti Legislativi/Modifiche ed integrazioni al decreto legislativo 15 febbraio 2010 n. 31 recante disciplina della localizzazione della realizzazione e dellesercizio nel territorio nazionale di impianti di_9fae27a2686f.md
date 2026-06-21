@@ -40,7 +40,7 @@ Vista la [legge 23 agosto 2004, n. 239](../Leggi%20delega%20e%20relativi%20provv
 
 Visto il [decreto legislativo 19 agosto 2005, n. 195](Attuazione%20della%20direttiva%202003-4-CE%20sullaccesso%20del%20pubblico%20allinformazione%20ambientale.md), di attuazione della [direttiva 2003/4/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;4) sull'accesso del pubblico all'informazione ambientale;
 
-Vista la [legge 16 dicembre 2005, n. 282](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20congiunta%20in%20materia%20di%20sicurezza%20della%20gestione%20del%20combustibile%20esaurito%20e%20dei%20rifiuti%20radioattivi%20fatta%20a%20Vienna%20il%205%20settembre%201997.md), recante "Ratifica della Convenzione congiunta in materia di sicurezza della gestione del combustibile esaurito e dei rifiuti radioattivi, fatta a Vienna il 5 settembre 1997";
+Vista la [legge 16 dicembre 2005, n. 282](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20Convenzione%20congiunta%20in%20materia%20di%20sicurezza%20della%20gestione%20del%20combustibile%20esaurito%20e%20dei%20rifiuti%20radioattivi%20fatta%20a%20Vienna%20il%205%20settembre%201997.md), recante "Ratifica della Convenzione congiunta in materia di sicurezza della gestione del combustibile esaurito e dei rifiuti radioattivi, fatta a Vienna il 5 settembre 1997";
 
 Visto il [decreto legislativo 3 aprile 2006, n. 152](Norme%20in%20materia%20ambientale.md) , recante "Norme in materia ambientale", e successive modifcazioni;
 

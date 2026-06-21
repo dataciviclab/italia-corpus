@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il comune di Sagliano Micca, riunito col [regio decreto 28 marzo 1929, n. 609](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Andorno%20Cacciorna%20Miagliano%20Sagliano%20Micca%20San%20Giuseppe%20di%20Casto%20e%20Tavigliano%20in%20un%20unico%20Comune%20con%20denominazione%20Andorno%20Micca%20e%20capoluogo%20Andorno.%20029U0609.md), a quello di Andorno Micca, e' ricostituito con la circoscrizione territoriale preesistente all'entrata in vigore del decreto medesimo. 
+Il comune di Sagliano Micca, riunito col [regio decreto 28 marzo 1929, n. 609](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Andorno%20Cacciorna%20Miagliano%20Sagliano%20Micca%20San%20Giuseppe%20di%20Casto%20e%20Tavigliano%20in%20un%20unico%20Comune%20con%20denominazione%20Andorno%20Micca%20e%20capoluogo%20Andorno.%20029U0609.md), a quello di Andorno Micca, e' ricostituito con la circoscrizione territoriale preesistente all'entrata in vigore del decreto medesimo. 
  Il Prefetto di Vercelli, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni suddetti.
 
 ## Art. 2.

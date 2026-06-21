@@ -22,11 +22,11 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Le facolta' di cui agli [articoli 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolazione%20dello%20stato%20civile%20di%20morti%20o%20scomparsi%20in%20mare%20in%20conseguenza%20di%20sinistri%20di%20navi%20mercantili.%20044U0358.md), [2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolazione%20dello%20stato%20civile%20di%20morti%20o%20scomparsi%20in%20mare%20in%20conseguenza%20di%20sinistri%20di%20navi%20mercantili.%20044U0358.md) e [4 del decreto legislativo luogotenenziale 21 settembre 1944, n. 358](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolazione%20dello%20stato%20civile%20di%20morti%20o%20scomparsi%20in%20mare%20in%20conseguenza%20di%20sinistri%20di%20navi%20mercantili.%20044U0358.md), possono essere esercitate fino al 15 aprile 1949.
+Le facolta' di cui agli [articoli 1](../Decreti%20legislativi%20luogotenenziali/Regolazione%20dello%20stato%20civile%20di%20morti%20o%20scomparsi%20in%20mare%20in%20conseguenza%20di%20sinistri%20di%20navi%20mercantili.%20044U0358.md), [2](../Decreti%20legislativi%20luogotenenziali/Regolazione%20dello%20stato%20civile%20di%20morti%20o%20scomparsi%20in%20mare%20in%20conseguenza%20di%20sinistri%20di%20navi%20mercantili.%20044U0358.md) e [4 del decreto legislativo luogotenenziale 21 settembre 1944, n. 358](../Decreti%20legislativi%20luogotenenziali/Regolazione%20dello%20stato%20civile%20di%20morti%20o%20scomparsi%20in%20mare%20in%20conseguenza%20di%20sinistri%20di%20navi%20mercantili.%20044U0358.md), possono essere esercitate fino al 15 aprile 1949.
 
 ## Art. 2.
 
-Il termine fissato nell'[art. 3 del decreto legislativo luogotenenziale 21 settembre 1944, n. 358](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolazione%20dello%20stato%20civile%20di%20morti%20o%20scomparsi%20in%20mare%20in%20conseguenza%20di%20sinistri%20di%20navi%20mercantili.%20044U0358.md), per la presentazione ai competenti uffici degli enti previdenziali o degli istituti di assicurazione, del regolare estratto degli atti di morte o scomparizione e degli altri certificati dello stato civile scade il 15 aprile 1950.
+Il termine fissato nell'[art. 3 del decreto legislativo luogotenenziale 21 settembre 1944, n. 358](../Decreti%20legislativi%20luogotenenziali/Regolazione%20dello%20stato%20civile%20di%20morti%20o%20scomparsi%20in%20mare%20in%20conseguenza%20di%20sinistri%20di%20navi%20mercantili.%20044U0358.md), per la presentazione ai competenti uffici degli enti previdenziali o degli istituti di assicurazione, del regolare estratto degli atti di morte o scomparizione e degli altri certificati dello stato civile scade il 15 aprile 1950.
 
 ## Art. 3.
 

@@ -101,7 +101,7 @@ Contributo annuo di abbonamento obbligatorio.
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. Luogotenenziale 1 dicembre 1945, n. 834](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovi%20canoni%20per%20il%20servizio%20delle%20radioaudizioni%20circolari.md) ha disposto: 
+Il [D.Lgs. Luogotenenziale 1 dicembre 1945, n. 834](Nuovi%20canoni%20per%20il%20servizio%20delle%20radioaudizioni%20circolari.md) ha disposto: 
  - (con l'art. 6, comma 1) che: "Il contributo fisso di abbonamento dovuto dagli stabilimenti balneari, kursaal, locali di ritrovo e di trattenimento, circoli, clubs e associazioni, e dagli stabilimenti termali e idroterapici di cui all'[art. 15 del R. decreto-legge 17 novembre 1927, n. 2207](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20il%20miglioramento%20e%20lo%20sviluppo%20del%20servizio%20delle%20radioaudizioni%20circolari.%20027U2207.md), e all'[art. 5 del decreto legislativo Luogotenenziale 21 dicembre 1944, n. 458](Norme%20per%20il%20servizio%20delle%20radioaudizioni%20circolari.%20044U0458.md), e' fissato nelle seguenti misure: 
  
 

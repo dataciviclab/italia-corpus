@@ -20,7 +20,7 @@ Il presente decreto garantisce una progressiva riduzione del collocamento in dis
 
 2.
 
-Si considerano soddisfatti i requisiti pertinenti del [decreto legislativo 4 marzo 2014, n. 46](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202010-75-UE%20relativa%20alle%20emissioni%20industriali%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.%2014G00058.md), se sono soddisfatti i requisiti del presente decreto.
+Si considerano soddisfatti i requisiti pertinenti del [decreto legislativo 4 marzo 2014, n. 46](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202010-75-UE%20relativa%20alle%20emissioni%20industriali%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.%2014G00058.md), se sono soddisfatti i requisiti del presente decreto.
 
 ## Articolo 2 — (Definizioni)
 
@@ -77,7 +77,7 @@ Il presente decreto non si applica:
 
 3.
 
-La gestione dei rifiuti provenienti dalle industrie estrattive sulla terraferma, vale a dire i rifiuti derivanti dalle attivita' di prospezione, estrazione, compresa la fase di sviluppo preproduzione, trattamento e stoccaggio di minerali, e dallo sfruttamento delle cave e' esclusa dall'ambito di applicazione del presente decreto, laddove rientri nell'ambito di applicazione del [decreto legislativo 30 maggio 2008, n. 117](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-21-CE%20relativa%20alla%20gestione%20dei%20rifiuti%20delle%20industrie%20estrattive%20e%20che%20modifica%20la%20direttiva%202004-35-CE.md).
+La gestione dei rifiuti provenienti dalle industrie estrattive sulla terraferma, vale a dire i rifiuti derivanti dalle attivita' di prospezione, estrazione, compresa la fase di sviluppo preproduzione, trattamento e stoccaggio di minerali, e dallo sfruttamento delle cave e' esclusa dall'ambito di applicazione del presente decreto, laddove rientri nell'ambito di applicazione del [decreto legislativo 30 maggio 2008, n. 117](Attuazione%20della%20direttiva%202006-21-CE%20relativa%20alla%20gestione%20dei%20rifiuti%20delle%20industrie%20estrattive%20e%20che%20modifica%20la%20direttiva%202004-35-CE.md).
 
 ))
 
@@ -509,7 +509,7 @@ La domanda di autorizzazione per la costruzione e l'esercizio di una discarica e
 
 AGGIORNAMENTO (19)
 
-Il [D.Lgs. 3 settembre 2020, n. 121](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202018-850%20che%20modifica%20la%20direttiva%201999-31-CE%20relativa%20alle%20discariche%20di%20rifiuti.%2020G00138.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni di cui all'articolo 1, lettere i), n) e o), si applicano alle discariche di nuova realizzazione, nonche' alla realizzazione di nuovi lotti delle discariche esistenti le cui domande di autorizzazione siano state presentate dopo la data dell'entrata in vigore del presente decreto".
+Il [D.Lgs. 3 settembre 2020, n. 121](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202018-850%20che%20modifica%20la%20direttiva%201999-31-CE%20relativa%20alle%20discariche%20di%20rifiuti.%2020G00138.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni di cui all'articolo 1, lettere i), n) e o), si applicano alle discariche di nuova realizzazione, nonche' alla realizzazione di nuovi lotti delle discariche esistenti le cui domande di autorizzazione siano state presentate dopo la data dell'entrata in vigore del presente decreto".
 
 ## Articolo 9 — (Condizioni per il rilascio dell'autorizzazione delle discariche)
 
@@ -550,7 +550,7 @@ Note all'[art. 9:
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 18 FEBBRAIO 2005, N. 59](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md).
+COMMA ABROGATO DAL [D.LGS. 18 FEBBRAIO 2005, N. 59](Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md).
 
 2.
 
@@ -588,7 +588,7 @@ L'autorizzazione all'esercizio della discarica e' rilasciata solo dopo l'accetta
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 18 FEBBRAIO 2005, N. 59](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md).
+COMMA ABROGATO DAL [D.LGS. 18 FEBBRAIO 2005, N. 59](Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md).
 
 5.
 
@@ -662,7 +662,7 @@ L'esito dell'ispezione non comporta, in alcun caso, una minore responsabilita' p
 
 AGGIORNAMENTO (19)
 
-Il [D.Lgs. 3 settembre 2020, n. 121](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202018-850%20che%20modifica%20la%20direttiva%201999-31-CE%20relativa%20alle%20discariche%20di%20rifiuti.%2020G00138.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni di cui all'articolo 1, lettere i), n) e o), si applicano alle discariche di nuova realizzazione, nonche' alla realizzazione di nuovi lotti delle discariche esistenti le cui domande di autorizzazione siano state presentate dopo la data dell'entrata in vigore del presente decreto".
+Il [D.Lgs. 3 settembre 2020, n. 121](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202018-850%20che%20modifica%20la%20direttiva%201999-31-CE%20relativa%20alle%20discariche%20di%20rifiuti.%2020G00138.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni di cui all'articolo 1, lettere i), n) e o), si applicano alle discariche di nuova realizzazione, nonche' alla realizzazione di nuovi lotti delle discariche esistenti le cui domande di autorizzazione siano state presentate dopo la data dell'entrata in vigore del presente decreto".
 
 ## Articolo 13 — (Gestione operativa e post-operativa)
 
@@ -710,7 +710,7 @@ Il gestore deve, inoltre, notificare all'autorita' competente anche eventuali si
 
 AGGIORNAMENTO (19)
 
-Il [D.Lgs. 3 settembre 2020, n. 121](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202018-850%20che%20modifica%20la%20direttiva%201999-31-CE%20relativa%20alle%20discariche%20di%20rifiuti.%2020G00138.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni di cui all'articolo 1, lettere i), n) e o), si applicano alle discariche di nuova realizzazione, nonche' alla realizzazione di nuovi lotti delle discariche esistenti le cui domande di autorizzazione siano state presentate dopo la data dell'entrata in vigore del presente decreto".
+Il [D.Lgs. 3 settembre 2020, n. 121](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202018-850%20che%20modifica%20la%20direttiva%201999-31-CE%20relativa%20alle%20discariche%20di%20rifiuti.%2020G00138.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni di cui all'articolo 1, lettere i), n) e o), si applicano alle discariche di nuova realizzazione, nonche' alla realizzazione di nuovi lotti delle discariche esistenti le cui domande di autorizzazione siano state presentate dopo la data dell'entrata in vigore del presente decreto".
 
 ## Articolo 14 — (Garanzie finanziarie)
 

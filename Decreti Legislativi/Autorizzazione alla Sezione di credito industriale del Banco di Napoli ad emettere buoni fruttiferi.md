@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-La Sezione di credito industriale del Banco di Napoli istituita con [decreto legislativo del Capo provvisorio dello Stato 13 ottobre 1946, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-13;244), e' autorizzata ad emettere, oltre alle obbligazioni previste dall'art. 5 del decreto citato, anche buoni fruttiferi, nominativi a scadenza fissa contro versamento della relativa valuta, da utilizzare esclusivamente per le operazioni di finanziamento che la Sezione stessa e' abilitata, ad effettuare ai sensi del [decreto legislativo luogotenenziale 1 novembre 1944, n. 367](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md).
+La Sezione di credito industriale del Banco di Napoli istituita con [decreto legislativo del Capo provvisorio dello Stato 13 ottobre 1946, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-13;244), e' autorizzata ad emettere, oltre alle obbligazioni previste dall'art. 5 del decreto citato, anche buoni fruttiferi, nominativi a scadenza fissa contro versamento della relativa valuta, da utilizzare esclusivamente per le operazioni di finanziamento che la Sezione stessa e' abilitata, ad effettuare ai sensi del [decreto legislativo luogotenenziale 1 novembre 1944, n. 367](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md).
 
 ## Art. 2.
 

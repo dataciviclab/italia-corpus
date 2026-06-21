@@ -59,7 +59,7 @@ I posti di assistente ordinario sono conferiti in seguito a pubblico concorso pe
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ### Art. 5.
 
@@ -74,7 +74,7 @@ Le Commissioni giudicatrici dei concorsi di cui al precedente art. 4 sono nomina
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ### Art. 6.
 
@@ -94,7 +94,7 @@ Qualora il professore ufficiale, in relazione alle esigenze della ricerca scient
 
 ### Art. 9.
 
-L'assistente al quale sia conferito un incarico di insegnamento presso altra Universita' ed Istituto di istruzione universitaria e' collocato in congedo senza assegni. In tale posizione, che non puo' protrarsi oltre i due anni accademici, l'assistente percepisce gli assegni previsti per i docenti incaricati, nella misura di cui all'[art. 1, comma primo del regio decreto legislativo 27 maggio 1946, n. 534](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trattamento%20economico%20dei%20professori%20incaricati%20delle%20universita%20e%20degli%20istituti%20distruzione%20superiore.md) ove ambedue le Facolta' interessate non ritengano compatibile il contemporaneo adempimento degli obblighi inerenti ai due uffici di professore incaricato e di assistente.
+L'assistente al quale sia conferito un incarico di insegnamento presso altra Universita' ed Istituto di istruzione universitaria e' collocato in congedo senza assegni. In tale posizione, che non puo' protrarsi oltre i due anni accademici, l'assistente percepisce gli assegni previsti per i docenti incaricati, nella misura di cui all'[art. 1, comma primo del regio decreto legislativo 27 maggio 1946, n. 534](../Regi%20decreti%20legislativi/Trattamento%20economico%20dei%20professori%20incaricati%20delle%20universita%20e%20degli%20istituti%20distruzione%20superiore.md) ove ambedue le Facolta' interessate non ritengano compatibile il contemporaneo adempimento degli obblighi inerenti ai due uffici di professore incaricato e di assistente.
  Per giustificate ragioni di studio o scientifiche il Ministro puo' concedere all'assistente sentito il rettore, un congedo della durata di un anno solare, prorogabile annualmente sino a tre anni. Durante tale periodo l'assistente continua a fruire del trattamento economico inerente al grado rivestito, qualora non fruisca, ad altro titolo, di assegni in misura corrispondente al trattamento medesimo.
  Il periodo trascorso in congedo ai sensi dei precedenti commi e' valutato ai fini della applicazione del precedente art. 6. (1) ((2))
 
@@ -102,13 +102,13 @@ L'assistente al quale sia conferito un incarico di insegnamento presso altra Uni
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 novembre 1951, n.1340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-11-23;1340) ha disposto (con l'art. 3) che " I nuovi commi inseriti, con la [legge 24 giugno 1950, n. 465, nell'art. 9](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md), e relativi al congedo per ragioni di studio o scientifiche agli assistenti universitari, s'intendono applicabili anche al personale scientifico appartenente al ruolo di gruppo A degli osservatori astronomici e dell'Osservatorio vesuviano."
+La [L. 23 novembre 1951, n.1340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-11-23;1340) ha disposto (con l'art. 3) che " I nuovi commi inseriti, con la [legge 24 giugno 1950, n. 465, nell'art. 9](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md), e relativi al congedo per ragioni di studio o scientifiche agli assistenti universitari, s'intendono applicabili anche al personale scientifico appartenente al ruolo di gruppo A degli osservatori astronomici e dell'Osservatorio vesuviano."
 
 ### Art. 10.
 
@@ -126,7 +126,7 @@ Il procedimento disciplinare nei confronti degli assistenti ordinari si celebra 
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ### Art. 12.
 
@@ -141,7 +141,7 @@ L'assistente ordinario che viene assunto, ai sensi dell'[art. 132 del testo unic
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ### Art. 13-bis.
 
@@ -158,7 +158,7 @@ Il provvedimento e' definitivo.
  Agli assistenti volontari non compete alcun assegno od indennita'.
 ---------------
  AGGIORNAMENTO (1)
- La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+ La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ---------------
 
@@ -176,7 +176,7 @@ La [L. 26 gennaio 1962, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ### Art. 16.
 
@@ -191,7 +191,7 @@ Alle cattedre di lingue e letterature straniere possono essere assegnati lettori
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ## Personale tecnico
 
@@ -213,7 +213,7 @@ I posti di tecnico sono conferiti, in seguito al pubblico concorso, per titoli e
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ### Art. 20.
 
@@ -231,7 +231,7 @@ Ai vincitori dei concorsi di cui al precedente art. 19 e' conferita la nomina a 
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ### Art. 21-bis.
 
@@ -247,7 +247,7 @@ Superato che abbiano, nel grado 12°, il periodo triennale di prova, sono assegn
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ### Art. 22.
 
@@ -273,7 +273,7 @@ I posti del personale subalterno, in esso compreso il personale portantino addet
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ### Art. 24.
 
@@ -290,7 +290,7 @@ Ai vincitori dei concorsi di cui al precedente art. 23 e' conferita la nomina a 
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ### Art. 26.
 
@@ -323,7 +323,7 @@ Nella prima attuazione del presente decreto, gli aiuti e gli assistenti ordinari
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ### Art. 28-bis.
 
@@ -333,11 +333,11 @@ La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20co
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ### Art. 28-ter.
 
-I limiti di eta' di cui al precedente art. 8 sono elevati di cinque anni nei confronti degli assistenti che siano stati riammessi in servizio nei casi previsti dai [regi decreti 6 gennaio 1944, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-01-06;9) a [20 gennaio 1944, n. 25 e dai decreti legislativi luogotenenziali](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-01-20;25) [7 settembre 1944, n. 255](../Atti%20normativi%20abrogati%20%28in%20originale%29/Reintegrazione%20in%20servizio%20di%20professori%20universitari.%20044U0255.md) e [7 settembre 1944, n. 264](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20al%20vigente%20ordinamento%20universitario.%20044U0264.md).
+I limiti di eta' di cui al precedente art. 8 sono elevati di cinque anni nei confronti degli assistenti che siano stati riammessi in servizio nei casi previsti dai [regi decreti 6 gennaio 1944, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-01-06;9) a [20 gennaio 1944, n. 25 e dai decreti legislativi luogotenenziali](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-01-20;25) [7 settembre 1944, n. 255](../Decreti%20legislativi%20luogotenenziali/Reintegrazione%20in%20servizio%20di%20professori%20universitari.%20044U0255.md) e [7 settembre 1944, n. 264](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20al%20vigente%20ordinamento%20universitario.%20044U0264.md).
  Gli assistenti di cui ai precedente comma e coloro che siano stati riammessi in servizio ai sensi del [decreto legislativo 7 febbraio 1948, n. 48](Norme%20per%20la%20estinzione%20dei%20giudizi%20di%20epurazione%20e%20per%20la%20revisione%20dei%20provvedimenti%20gia%20adottati.md), si intendono assegnati, all'atto dell'inquadramento di cui all'articolo 28, ad altrettanti posti istituiti transitoriamente in aggiunta a quelli stabiliti per ciascuna Universita' od Istituto d'istruzione universitaria, ai sensi del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md). Tali posti saranno soppressi all'atto della cessazione del servizio o del trasferimento ad altra Universita' o ad altro Istituto d'istruzione universitaria degli assistenti della materia relativa ai posti stessi. (1)
  ((COMMA ABROGATO DALLA L. 11 DICEMBRE 1969, N.910)).
 
@@ -345,7 +345,7 @@ I limiti di eta' di cui al precedente art. 8 sono elevati di cinque anni nei con
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ### Art. 29.
 
@@ -358,7 +358,7 @@ Gli attuali aiuti ordinari conservano, ad persona, la qualifica loro attribuita,
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ### Art. 30.
 
@@ -369,7 +369,7 @@ La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20co
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ### Art. 31.
 
@@ -380,7 +380,7 @@ La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20co
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ### Art. 31-bis.
 
@@ -390,7 +390,7 @@ La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20co
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ### Art. 32.
 
@@ -403,7 +403,7 @@ Nella prima applicazione del presente decreto, i posti che, alla data di entrata
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ### Art. 32-bis.
 
@@ -414,7 +414,7 @@ La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20co
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ### Art. 33.
 
@@ -441,13 +441,13 @@ Il personale di cui al [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 novembre 1951, n.1340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-11-23;1340) ha disposto (con l'art. 7) che "La misura del contributo da versarsi dagli interessati ai sensi o per gli effetti di cui all'art. 35-bis (nuovo) inserito nel [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md), con la [legge 24 giugno 1950, n. 465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md), s'intende fissata nel tre per cento dello stipendio assegnato all'atto della immissione in ruolo."
+La [L. 23 novembre 1951, n.1340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-11-23;1340) ha disposto (con l'art. 7) che "La misura del contributo da versarsi dagli interessati ai sensi o per gli effetti di cui all'art. 35-bis (nuovo) inserito nel [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md), con la [legge 24 giugno 1950, n. 465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md), s'intende fissata nel tre per cento dello stipendio assegnato all'atto della immissione in ruolo."
 
 ### Art. 35-ter.
 
@@ -459,7 +459,7 @@ L'Istituto nazionale della previdenza sociale rimborsera' alle Universita' ed ag
 
 AGGIORNAMENTO (1)
 
-La [L. 24 giugno 1950, n.465](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
+La [L. 24 giugno 1950, n.465](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201172%20concernente%20listituzione%20di%20ruoli%20del%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentement_765b791e4325.md) ha disposto (con l'art. 3) che "Le modificazioni disposte con la presente legge si applicano con decorrenza dal 1 luglio 1948, data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1172](Istituzione%20di%20ruoli%20statali%20per%20il%20personale%20assistente%20tecnico%20subalterno%20infermiere%20e%20portantino%20presentemente%20a%20carico%20dei%20bilanci%20universitari.md)."
 
 ### Art. 36.
 

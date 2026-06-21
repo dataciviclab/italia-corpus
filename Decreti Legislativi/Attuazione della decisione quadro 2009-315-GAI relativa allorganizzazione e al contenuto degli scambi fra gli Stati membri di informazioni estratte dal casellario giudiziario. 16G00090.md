@@ -216,7 +216,7 @@ Le disposizioni di cui ai commi 1 e 2 si applicano anche quando la richiesta di 
 
 4.
 
-Quando, ai sensi dell'articolo 6, e' presentata una richiesta di informazioni riguardante un cittadino di altro Stato membro, l'Ufficio centrale trasmette le informazioni richieste alle condizioni previste dall'articolo 13 della Convenzione europea di assistenza giudiziaria in materia penale, firmata a Strasburgo il 20 aprile 1959 e ratificata con [legge 23 febbraio 1961, n. 215](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20europea%20di%20assistenza%20giudiziaria%20in%20materia%20penale%20firmata%20a%20Strasburgo%20il%2020%20aprile%201959.md).
+Quando, ai sensi dell'articolo 6, e' presentata una richiesta di informazioni riguardante un cittadino di altro Stato membro, l'Ufficio centrale trasmette le informazioni richieste alle condizioni previste dall'articolo 13 della Convenzione europea di assistenza giudiziaria in materia penale, firmata a Strasburgo il 20 aprile 1959 e ratificata con [legge 23 febbraio 1961, n. 215](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20Convenzione%20europea%20di%20assistenza%20giudiziaria%20in%20materia%20penale%20firmata%20a%20Strasburgo%20il%2020%20aprile%201959.md).
 
 5.
 

@@ -28,7 +28,7 @@ Visto il [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20s
 
 Vista la [legge 7 agosto 2015, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-07;124), recante deleghe al Governo in materia di riorganizzazione delle amministrazioni pubbliche, e in particolare l'articolo 8, commi 1, lettera d), e 5;
 
-Visto il [decreto-legge 16 maggio 2016, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-05-16;67), convertito, con modificazioni, dalla [legge 14 luglio 2016, n. 131](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20maggio%202016%20n.%2067%20recante%20proroga%20delle%20missioni%20internazionali%20delle%20Forze%20armate%20e%20di%20polizia%20iniziative%20di%20cooperazione%20allo_f7047a53845b.md);
+Visto il [decreto-legge 16 maggio 2016, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-05-16;67), convertito, con modificazioni, dalla [legge 14 luglio 2016, n. 131](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20maggio%202016%20n.%2067%20recante%20proroga%20delle%20missioni%20internazionali%20delle%20Forze%20armate%20e%20di%20polizia%20iniziative%20di%20cooperazione%20allo_f7047a53845b.md);
 
 Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), recante regolamento di esecuzione e di attuazione del nuovo [codice della strada](Nuovo%20codice%20della%20strada.md);
 

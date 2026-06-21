@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto il [decreto legislativo 4 aprile 2010, n. 58](Attuazione%20della%20direttiva%202007-23-CE%20relativa%20allimmissione%20sul%20mercato%20di%20prodotti%20pirotecnici.%2010G0081.md), recante attuazione della [direttiva 2007/23/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2007;23), relativa all'immissione sul mercato di prodotti pirotecnici;
 
-Vista la [legge 7 luglio 2009, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge Comunitaria 2008, ed in particolare gli articoli 1, 2 e 29;
+Vista la [legge 7 luglio 2009, n. 88](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge Comunitaria 2008, ed in particolare gli articoli 1, 2 e 29;
 
 Ritenuto necessario apportare alcune modifiche al [decreto legislativo n. 58 del 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010;58), in relazione ad alcuni rilievi formulati dalla competente Commissione dell'Unione europea, nonche' a quanto rilevato nella fase di prima applicazione del medesimo decreto;
 

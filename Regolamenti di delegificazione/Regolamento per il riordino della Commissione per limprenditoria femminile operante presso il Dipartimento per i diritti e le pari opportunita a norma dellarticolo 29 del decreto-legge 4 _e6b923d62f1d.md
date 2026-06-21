@@ -14,7 +14,7 @@ Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.i
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), e successive modificazioni;
 
-Visto il [decreto legislativo 30 luglio 1999, n. 303](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni;
+Visto il [decreto legislativo 30 luglio 1999, n. 303](../Decreti%20Legislativi/Ordinamento%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni;
 
 Visti gli [articoli 21](../Decreti%20Legislativi/Codice%20delle%20pari%20opportunita%20tra%20uomo%20e%20donna%20a%20norma%20dellarticolo%206%20della%20legge%2028%20novembre%202005%20n.%20246.md) e [22 del decreto legislativo 11 aprile 2006, n. 198](../Decreti%20Legislativi/Codice%20delle%20pari%20opportunita%20tra%20uomo%20e%20donna%20a%20norma%20dellarticolo%206%20della%20legge%2028%20novembre%202005%20n.%20246.md), e l'[articolo 10, comma 6, della legge 25 febbraio 1992, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-25;215#art_10-com6), nonche' l'[articolo 6 della legge 7 agosto 1997, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-08-07;266#art_6);
 

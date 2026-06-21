@@ -36,7 +36,7 @@ Gli schemi dei decreti legislativi, di cui al comma 1, sono trasmessi al Senato 
 
 AGGIORNAMENTO (1)
 
-La [L. 16 gennaio 2003, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-01-16;3) ha disposto (con l'art 49, comma 1) che "Il termine per l'esercizio della delega previsto dall'[articolo 3, comma 1, della legge 28 marzo 2001, n. 145](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20del%20Consiglio%20dEuropa%20per%20la%20protezione%20dei%20diritti%20delluomo%20e%20della%20dignita%20dellessere%20umano%20riguardo%20allapplicazione%20della%20biologia%20e%20della%20medi_a3f812e38646.md), e' differito al 31 luglio 2003.".
+La [L. 16 gennaio 2003, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-01-16;3) ha disposto (con l'art 49, comma 1) che "Il termine per l'esercizio della delega previsto dall'[articolo 3, comma 1, della legge 28 marzo 2001, n. 145](Ratifica%20ed%20esecuzione%20della%20Convenzione%20del%20Consiglio%20dEuropa%20per%20la%20protezione%20dei%20diritti%20delluomo%20e%20della%20dignita%20dellessere%20umano%20riguardo%20allapplicazione%20della%20biologia%20e%20della%20medi_a3f812e38646.md), e' differito al 31 luglio 2003.".
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

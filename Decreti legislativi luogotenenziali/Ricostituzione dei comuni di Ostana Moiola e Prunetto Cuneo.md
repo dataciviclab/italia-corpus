@@ -16,11 +16,11 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 5 febbraio 1928, n. 217](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Crissolo%20ed%20Ostana%20in%20un%20unico%20Comune%20con%20denominazione%20e%20sede%20Crissolo.%20028U0217.md);
+Visto il [R. decreto 5 febbraio 1928, n. 217](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Crissolo%20ed%20Ostana%20in%20un%20unico%20Comune%20con%20denominazione%20e%20sede%20Crissolo.%20028U0217.md);
 
-Visto il [R. decreto 26 aprile 1928, n. 1064](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Gaiola%20e%20Moiola%20in%20un%20unico%20Comune%20denominato%20Gaiola-Moiola%20con%20capoluogo%20Gaiola.%20028U1064.md);
+Visto il [R. decreto 26 aprile 1928, n. 1064](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Gaiola%20e%20Moiola%20in%20un%20unico%20Comune%20denominato%20Gaiola-Moiola%20con%20capoluogo%20Gaiola.%20028U1064.md);
 
-Visto il [R. decreto 6 maggio 1928, n. 1186](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Monesiglio%20Mombarcaro%20e%20Prunetto%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Monesiglio.%20028U1186.md);
+Visto il [R. decreto 6 maggio 1928, n. 1186](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Monesiglio%20Mombarcaro%20e%20Prunetto%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Monesiglio.%20028U1186.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro Segretario di Stato per l'interno; Abbiamo sanzionat
 
 ## Art. 1.
 
-Il comune di Ostana aggregato con [R. decreto 5 febbraio 1928, n. 217](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Crissolo%20ed%20Ostana%20in%20un%20unico%20Comune%20con%20denominazione%20e%20sede%20Crissolo.%20028U0217.md), a quello di Crissolo, il comune di Moiola, aggregato con [R. decreto 26 aprile 1928, numero 1064](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Gaiola%20e%20Moiola%20in%20un%20unico%20Comune%20denominato%20Gaiola-Moiola%20con%20capoluogo%20Gaiola.%20028U1064.md), a quello di Gaiola, e il comune di Prunetto, aggregato con [R. decreto 6 maggio 1928, n. 1186](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Monesiglio%20Mombarcaro%20e%20Prunetto%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Monesiglio.%20028U1186.md), a quello di Monesiglio, sono ricostituiti con le rispettive circoscrizioni preesistenti all'entrata in vigore dei decreti predetti.
+Il comune di Ostana aggregato con [R. decreto 5 febbraio 1928, n. 217](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Crissolo%20ed%20Ostana%20in%20un%20unico%20Comune%20con%20denominazione%20e%20sede%20Crissolo.%20028U0217.md), a quello di Crissolo, il comune di Moiola, aggregato con [R. decreto 26 aprile 1928, numero 1064](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Gaiola%20e%20Moiola%20in%20un%20unico%20Comune%20denominato%20Gaiola-Moiola%20con%20capoluogo%20Gaiola.%20028U1064.md), a quello di Gaiola, e il comune di Prunetto, aggregato con [R. decreto 6 maggio 1928, n. 1186](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Monesiglio%20Mombarcaro%20e%20Prunetto%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Monesiglio.%20028U1186.md), a quello di Monesiglio, sono ricostituiti con le rispettive circoscrizioni preesistenti all'entrata in vigore dei decreti predetti.
 
 ## Art. 2.
 

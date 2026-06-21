@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Con effetto dal 7 dicembre 1946, le aliquote massime dei generali e degli ufficiali superiori delle varie armi, corpi e servizi dell'Esercito che possono essere collocati nella riserva in applicazione del [regio decreto legislativo 14 maggio 1946, n. 384](../Atti%20normativi%20abrogati%20%28in%20originale%29/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), fissate con l'[art. 1 del decreto del Capo provvisorio dello Stato 15 novembre 1946, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-11-15;377#art_1), e successive modificazioni, sono sostituite e integrate come segue:
+Con effetto dal 7 dicembre 1946, le aliquote massime dei generali e degli ufficiali superiori delle varie armi, corpi e servizi dell'Esercito che possono essere collocati nella riserva in applicazione del [regio decreto legislativo 14 maggio 1946, n. 384](../Regi%20decreti%20legislativi/Collocamento%20nella%20riserva%20o%20nellausiliaria%20di%20ufficiali%20generali%20e%20superiori%20in%20servizio%20permanente%20effettivo%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), fissate con l'[art. 1 del decreto del Capo provvisorio dello Stato 15 novembre 1946, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-11-15;377#art_1), e successive modificazioni, sono sostituite e integrate come segue:
 
  generali di corpo di armata........................... 11
  generali di divisione................................. 49

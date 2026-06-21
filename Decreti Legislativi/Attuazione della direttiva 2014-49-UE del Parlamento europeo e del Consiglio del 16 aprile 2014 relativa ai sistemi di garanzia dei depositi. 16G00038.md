@@ -18,7 +18,7 @@ Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/
 
 Vista la [legge 9 luglio 2015, n. 114](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202014.%2015G00127.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2014 e in, particolare, l'articolo 7, recante principi e criteri direttivi per il recepimento della [direttiva 2014/49/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;49);
 
-Visto il testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
+Visto il testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 13 novembre 2015;
 
@@ -32,7 +32,7 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'eco
 
 1.
 
-Al [comma 1 dell'articolo 69-bis del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_69bis-com1), sono apportate le seguenti modificazioni:
+Al [comma 1 dell'articolo 69-bis del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono apportate le seguenti modificazioni:
                         a)
                             la lettera d), e' sostituita dalla seguente: 
  «d) "depositi ammissibili al rimborso": i depositi che, ai sensi dell'articolo 96-bis.1, commi 1 e 2, sono astrattamente idonei a essere rimborsati da parte di un sistema di garanzia dei depositanti;»;
@@ -42,11 +42,11 @@ Al [comma 1 dell'articolo 69-bis del decreto legislativo 1° settembre 1993, n. 
 
 2.
 
-Al [comma 1-bis, lettera a), numero 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_com1bis-leta-num1)), dell'[articolo 91 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_91), le parole: «dall'articolo 96-bis, comma 5» sono sostituite dalle seguenti: «dall'articolo 96-bis.1, commi 3 e 4».
+Al [comma 1-bis, lettera a), numero 1](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md)), dell'[articolo 91 del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), le parole: «dall'articolo 96-bis, comma 5» sono sostituite dalle seguenti: «dall'articolo 96-bis.1, commi 3 e 4».
 
 3.
 
-All'[articolo 96 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_96), sono apportate le seguenti modificazioni:
+All'[articolo 96 del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1 le parole: «Le banche di credito cooperativo aderiscono al sistema di garanzia dei depositanti costituito nel loro ambito.» sono abrogate;
                         b)
@@ -80,7 +80,7 @@ Dopo l'articolo 96 sono inseriti i seguenti:
 
 5.
 
-All'[articolo 96-bis del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_96bis), sono apportate le seguenti modificazioni:
+All'[articolo 96-bis del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono apportate le seguenti modificazioni:
                         a)
                             il comma 1, e' sostituito dal seguente: 
  «1. I sistemi di garanzia tutelano i depositanti: 
@@ -148,7 +148,7 @@ Dopo l'articolo 96-bis sono inseriti i seguenti:
 
 7.
 
-L'[articolo 96-ter del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_96ter), e' sostituito dal seguente: 
+L'[articolo 96-ter del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' sostituito dal seguente: 
  «Art. 96-ter (Poteri della Banca d'Italia). - 1. La Banca d'Italia, avendo riguardo alla tutela dei depositanti e alla capacita' dei sistemi di garanzia di effettuare i rimborsi dei depositi protetti: 
  a) riconosce i sistemi di garanzia, approvandone gli statuti, a condizione che i sistemi stessi presentino caratteristiche adeguate allo svolgimento delle funzioni disciplinate dalla presente sezione e tali da comportare una ripartizione equilibrata dei rischi di insolvenza sul sistema bancario; se lo statuto prevede che possano essere attuati gli interventi indicati all'articolo 96-bis, comma 1-bis, lettera d), verifica che il sistema di garanzia sia dotato di procedure e sistemi appropriati per selezionare la tipologia di intervento, darvi esecuzione e monitorarne i rischi; 
  b) vigila sul rispetto di quanto previsto ai sensi della presente sezione; a tal fine si applicano, in quanto compatibili, gli articoli 51, comma 1, 52 e 53-bis, comma 1, lettere a), b) e c), nonche', al fine di verificare l'esattezza dei dati e delle informazioni forniti alla Banca d'Italia, l'articolo 54, comma 1; 
@@ -161,7 +161,7 @@ L'[articolo 96-ter del decreto legislativo 1° settembre 1993, n. 385](https://w
 
 8.
 
-L'[articolo 96-quater del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_96quater), e' sostituito dal seguente: 
+L'[articolo 96-quater del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' sostituito dal seguente: 
  «Art. 96-quater (Esclusione). - 1. Le banche possono essere escluse dai sistemi di garanzia in caso di inadempimento di eccezionale gravita' agli obblighi derivanti dall'adesione ai sistemi stessi. 
  2. L'inadempimento e' contestato dal sistema di garanzia, previo assenso della Banca d'Italia, concedendo alla banca un termine di sei mesi per adempiere. Decorso inutilmente il termine, prorogabile per un periodo non superiore a tre mesi, i sistemi di garanzia comunicano alla banca l'esclusione. 
  3. Sono protetti dal sistema di garanzia i fondi acquisiti fino alla data di ricezione della comunicazione di esclusione. Di tale comunicazione la banca esclusa da' tempestiva notizia ai depositanti secondo le modalita' indicate dalla Banca d'Italia ai sensi del titolo VI. 
@@ -170,7 +170,7 @@ Resta ferma la possibilita' di disporre la liquidazione coatta amministrativa ai
 
 9.
 
-Dopo l'[articolo 96-quater del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_96quater), sono inseriti i seguenti: 
+Dopo l'[articolo 96-quater del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono inseriti i seguenti: 
  «Art. 96-quater.1 (Prestiti fra sistemi di garanzia). - 1. Un sistema di garanzia puo' erogare prestiti su base volontaria a un altro sistema di garanzia, anche se istituito in uno altro Stato membro, se quest'ultimo: 
  a) non e' in grado di adempiere i propri obblighi di rimborso a causa dell'insufficienza della propria dotazione finanziaria; 
  b) ha gia' fatto ricorso ai contributi straordinari; 
@@ -211,7 +211,7 @@ Avvertenza
  - La [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md) (Norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea) e' pubblicata nella Gazzetta Ufficiale 4 gennaio 2013, n. 3. 
  - Il testo dell'[art. 7 della legge 9 luglio 2015, n. 114](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202014.%2015G00127.md) (Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2014), pubblicata nella Gazzetta Ufficiale 31 luglio 2015, n. 176, cosi' recita: 
  «Art. 7 (Principi e criteri direttivi per il recepimento della [direttiva 2014/49/UE del Parlamento europeo e del Consiglio, del 16 aprile 2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;49), relativa ai sistemi di garanzia dei depositi). - 1. Nell'esercizio della delega per l'attuazione della [direttiva 2014/49/UE del Parlamento europeo e del Consiglio, del 16 aprile 2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;49), relativa ai sistemi di garanzia dei depositi, il Governo e' tenuto a seguire, oltre ai principi e criteri direttivi di cui all'art. 1, comma 1, in quanto compatibili, e a quelli indicati dalla medesima direttiva, anche i seguenti principi e criteri direttivi specifici: 
- a) apportare alla disciplina nazionale in materia di sistemi di garanzia dei depositi prevista dal testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1º settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), le modifiche e le integrazioni necessarie al corretto e integrale recepimento della direttiva, avendo riguardo agli obiettivi della tutela dei risparmiatori e della stabilita' del sistema bancario, nonche' in conformita' con gli orientamenti dell'Autorita' bancaria europea e nel rispetto degli atti delegati adottati dalla Commissione europea; 
+ a) apportare alla disciplina nazionale in materia di sistemi di garanzia dei depositi prevista dal testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1º settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), le modifiche e le integrazioni necessarie al corretto e integrale recepimento della direttiva, avendo riguardo agli obiettivi della tutela dei risparmiatori e della stabilita' del sistema bancario, nonche' in conformita' con gli orientamenti dell'Autorita' bancaria europea e nel rispetto degli atti delegati adottati dalla Commissione europea; 
  b) prevedere, ove opportuno, il ricorso alla disciplina secondaria adottata dalla Banca d'Italia; 
  c) individuare nella Banca d'Italia l'autorita' amministrativa competente e l'autorita' designata, ai sensi degli articoli 2 e 3 della direttiva; 
  d) definire le modalita' di intervento dei sistemi di garanzia dei depositi diverse dal rimborso ai depositanti; 
@@ -225,10 +225,10 @@ Avvertenza
  4) la concessione di prestiti da parte dei sistemi di garanzia dei depositi ad altri sistemi all'interno dell'Unione europea; 
  5) le procedure di condivisione di informazioni e comunicazioni con sistemi di garanzia dei depositi e i loro membri in Italia e nell'Unione europea. 
  2. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le autorita' interessate vi provvedono con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.» 
- - Il [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) (Testo unico delle leggi in materia bancaria e creditizia.) e' pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, S.O. 
+ - Il [decreto legislativo 1 settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia.) e' pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, S.O. 
  
  Note all'art. 1: 
- - Il testo dell'[art. 69-bis del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_69bis), citato nelle note alle premesse, come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'[art. 69-bis del decreto legislativo 1 settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), citato nelle note alle premesse, come modificato dal presente decreto, cosi' recita: 
  «Art. 69-bis (Definizioni). - 1. Ai fini del presente titolo si intendono per: 
  a) «alta dirigenza»: il direttore generale, i vice-direttori generali e le cariche ad esse assimilate, i responsabili delle principali aree di affari e coloro che rispondono direttamente all'organo amministrativo; 
  b) «autorita' di risoluzione a livello di gruppo»: l'autorita' di risoluzione dello Stato membro in cui si trova l'autorita' di vigilanza su base consolidata; 
@@ -243,7 +243,7 @@ Avvertenza
  h) «sistema di tutela istituzionale»: un accordo riconosciuto dalla Banca d'Italia ai sensi dell'art. 113, paragrafo 7, del regolamento (UE) n. 575/2013; 
  i) «sostegno finanziario pubblico straordinario»: gli aiuti di Stato e i sostegni finanziari pubblici di cui all'art. 1, comma 1, lettera mmm), del decreto legislativo di recepimento della [direttiva 2014/59/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;59); 
  l) «succursale significativa»: una succursale di una banca in uno Stato comunitario considerata significativa dalla Banca d'Italia.". 
- - Il testo dell'[art. 91 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_91), citato nelle note alle premesse, come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'[art. 91 del decreto legislativo 1 settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), citato nelle note alle premesse, come modificato dal presente decreto, cosi' recita: 
  «Art. 91 (Restituzioni e riparti). - 1. I commissari procedono alle restituzioni dei beni nonche' degli strumenti finanziari relativi ai servizi di cui al [decreto legislativo 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e, secondo l'ordine stabilito dall'[art. 111 della legge fallimentare](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267#art_111) fatto salvo quanto previsto dal comma 1-bis, alla ripartizione dell'attivo liquidato. Le indennita' e i rimborsi spettanti agli organi della procedura di amministrazione straordinaria e ai commissari della gestione provvisoria che abbiano preceduto la liquidazione coatta amministrativa sono equiparate alle spese indicate nell'[art. 111, comma primo, numero 1), della legge fallimentare](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267#art_111-com1-num1). Il pagamento dei crediti prededucibili e' effettuato previo parere favorevole del comitato di sorveglianza. 
  1-bis. In deroga a quanto previsto dall'[art. 2741 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2741) e dall'[art. 111 della legge fallimentare](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267#art_111), nella ripartizione dell'attivo liquidato ai sensi del comma 1: 
  a) i seguenti crediti sono soddisfatti con preferenza rispetto agli altri crediti chirografari: 
@@ -264,14 +264,14 @@ Avvertenza
  10. Nei casi previsti dai commi 8 e 9, i diritti reali e i diritti di prelazione sono salvi quando i beni ai quali si riferiscono non siano stati ancora alienati. 
  11. Fino alla restituzione o alla liquidazione degli strumenti finanziari gestiti dalla banca, i commissari provvedono affinche' gli stessi siano amministrati in un'ottica di minimizzazione del rischio. 
  11-bis. Ai fini del presente articolo per microimprese, piccole e medie imprese si intendono quelle cosi' definite in base al criterio del fatturato annuo previsto dall'art. 2, paragrafo 1, dell'Allegato alla Raccomandazione della Commissione europea n. 2003/361/CE.». 
- - Il testo dell'[art. 96 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_96), citato nelle note alle premesse, come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'[art. 96 del decreto legislativo 1 settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), citato nelle note alle premesse, come modificato dal presente decreto, cosi' recita: 
  «Art. 96 (Soggetti aderenti e natura dei sistemi di garanzia). - 1. Le banche italiane aderiscono a uno dei sistemi di garanzia dei depositanti istituiti e riconosciuti in Italia. 
  1-bis. I sistemi di tutela istituzionale di cui all'art. 113, paragrafo 7, del regolamento (UE) n. 575/2013 possono essere riconosciuti come sistemi di garanzia dei depositanti. 
  2. Le succursali di banche comunitarie operanti in Italia possono aderire a un sistema di garanzia italiano al fine di integrare la tutela offerta dal sistema di garanzia dello Stato di appartenenza. 
  3. Le succursali di banche extracomunitarie autorizzate in Italia aderiscono a un sistema di garanzia italiano salvo che partecipino a un sistema di garanzia estero equivalente almeno con riferimento al livello e all'ambito di copertura. 
  4. I sistemi di garanzia hanno natura di diritto privato; le risorse finanziarie per il perseguimento delle loro finalita' sono fornite dalle banche aderenti in conformita' di quanto previsto dalla presente Sezione. 
  5. La pubblicita' e le comunicazioni che le banche sono tenute a effettuare per informare i clienti sulla garanzia dei depositanti sono disciplinate ai sensi del Titolo VI.». 
- - Il testo dell'[art. 96-bis del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_96bis), citato nelle note alle premesse, cosi' come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'[art. 96-bis del decreto legislativo 1 settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), citato nelle note alle premesse, cosi' come modificato dal presente decreto, cosi' recita: 
  «Art. 96-bis (Interventi). - 1. I sistemi di garanzia tutelano i depositanti: 
  a) delle banche italiane aderenti, incluse le loro succursali comunitarie e, se previsto dallo statuto, le loro succursali extracomunitarie; 
  b) delle succursali italiane delle banche extracomunitarie aderenti; 
@@ -415,7 +415,7 @@ Note all'art. 2:
  ppp) «strumenti di capitale»: gli strumenti di capitale aggiuntivo di classe 1 e gli elementi di classe 2 ai sensi del Regolamento (UE) n. 575/2013 o della [direttiva 2006/48/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;48) e relative disposizioni di attuazione; 
  qqq) «strumenti di capitale aggiuntivo di classe 1»: gli strumenti di cui all'art. 52, paragrafo 1, del Regolamento (UE) n. 575/2013 o alla [direttiva 2006/48/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;48) e relative disposizioni di attuazione; 
  rrr) «succursale significativa»: una succursale considerata significativa nello Stato membro nel quale essa e' stabilita ai sensi dell'[art. 51, paragrafo 1, della direttiva 2013/36/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2013;36); 
- sss) «Testo Unico Bancario»: il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385); 
+ sss) «Testo Unico Bancario»: il [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md); 
  uuu) «Testo Unico della Finanza»: il [decreto legislativo 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md); 
  vvv) «titoli di debito»: le obbligazioni e altre forme di debito trasferibile, gli strumenti che creano o riconoscono un debito e quelli che conferiscono diritti di acquistare titoli di debito.". 
  - Il testo dell'art. 49 del citato [decreto legislativo 16 novembre 2015, n. 180](Attuazione%20della%20direttiva%202014-59-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20che%20istituisce%20un%20quadro%20di%20risanamento%20e%20risoluzione%20degli%20enti%20creditizi%20e%20delle%20imprese%20_eb670076fd4d.md), come modificato dal presente decreto, cosi' recita: 
@@ -521,7 +521,7 @@ Le banche forniscono ai depositanti le informazioni necessarie per individuare i
 
 2.
 
-Le informazioni richiamate al comma 1 sono messe a disposizione gratuitamente secondo le modalita' previste per i fogli informativi dalle disposizioni della Banca d'Italia adottate ai sensi del titolo VI del [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385).
+Le informazioni richiamate al comma 1 sono messe a disposizione gratuitamente secondo le modalita' previste per i fogli informativi dalle disposizioni della Banca d'Italia adottate ai sensi del titolo VI del [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 3.
 
@@ -529,7 +529,7 @@ In tempo utile prima che il contratto sia concluso o che il depositante sia vinc
 
 4.
 
-Le comunicazioni periodiche relative ai contratti di deposito previste ai sensi dell'[articolo 119 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_119), includono la conferma che il deposito e' ammesso al rimborso e un riferimento al modulo di cui al comma 3, nonche' l'indicazione del sito web del sistema di garanzia pertinente. Almeno una volta all'anno, al depositante e' fornita una versione aggiornata del modulo.
+Le comunicazioni periodiche relative ai contratti di deposito previste ai sensi dell'[articolo 119 del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), includono la conferma che il deposito e' ammesso al rimborso e un riferimento al modulo di cui al comma 3, nonche' l'indicazione del sito web del sistema di garanzia pertinente. Almeno una volta all'anno, al depositante e' fornita una versione aggiornata del modulo.
 
 5.
 
@@ -545,17 +545,17 @@ In caso di fusioni, cessioni o operazioni analoghe, nonche' in caso di recesso o
 
 8.
 
-La Banca d'Italia puo' dettare disposizioni attuative del presente articolo, anche al fine di coordinarne la disciplina con quella adottata ai sensi del titolo VI del [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385). Le disposizioni della Banca d'Italia possono altresi' prevedere che gli annunci pubblicitari relativi ai depositi contengano informazioni ulteriori rispetto a quella consentita dal comma 6.
+La Banca d'Italia puo' dettare disposizioni attuative del presente articolo, anche al fine di coordinarne la disciplina con quella adottata ai sensi del titolo VI del [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md). Le disposizioni della Banca d'Italia possono altresi' prevedere che gli annunci pubblicitari relativi ai depositi contengano informazioni ulteriori rispetto a quella consentita dal comma 6.
 
 9.
 
-Per l'inosservanza di quanto stabilito ai sensi del presente articolo si applicano le sanzioni previste dall'[articolo 144, comma 1, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_144-com1), nonche' il comma 8 del medesimo articolo 144. Si applicano altresi' l'articolo 128 e il titolo VIII del [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385).
+Per l'inosservanza di quanto stabilito ai sensi del presente articolo si applicano le sanzioni previste dall'[articolo 144, comma 1, del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), nonche' il comma 8 del medesimo articolo 144. Si applicano altresi' l'articolo 128 e il titolo VIII del [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 Note all'art. 3: 
  - Per i riferimenti normativi alla [direttiva 2014/49/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;49) si veda nelle note alle premesse. 
- - Il titolo VI del [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), citato nelle note alle premesse, e' cosi' rubricato: 
+ - Il titolo VI del [decreto legislativo 1 settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), citato nelle note alle premesse, e' cosi' rubricato: 
  «Titolo VI - TRASPARENZA DELLE CONDIZIONI CONTRATTUALI E DEI RAPPORTI CON I CLIENTI». 
- - Gli [articoli 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_119), [128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_128) e [144 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_144), citato nelle note alle premesse, cosi' recita: 
+ - Gli [articoli 119](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), [128](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) e [144 del decreto legislativo 1 settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), citato nelle note alle premesse, cosi' recita: 
  «Art. 119 (Comunicazioni periodiche alla clientela). - 1. Nei contratti di durata i soggetti indicati nell'art. 115 forniscono al cliente, in forma scritta o mediante altro supporto durevole preventivamente accettato dal cliente stesso, alla scadenza del contratto e comunque almeno una volta all'anno, una comunicazione chiara in merito allo svolgimento del rapporto. Il CICR indica il contenuto e le modalita' della comunicazione. 
  2. Per i rapporti regolati in conto corrente l'estratto conto e' inviato al cliente con periodicita' annuale o, a scelta del cliente, con periodicita' semestrale, trimestrale o mensile. 
  3. In mancanza di opposizione scritta da parte del cliente, gli estratti conto e le altre comunicazioni periodiche alla clientela si intendono approvati trascorsi sessanta giorni dal ricevimento. 
@@ -589,15 +589,15 @@ Il presente decreto entra in vigore il giorno successivo alla sua pubblicazione 
 
 2.
 
-I sistemi di garanzia dei depositanti riconosciuti alla data di entrata in vigore del presente decreto possono imputare alla dotazione finanziaria prevista dall'articolo 96.1 del [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), i contributi gia' versati dalle banche aderenti a partire dal 3 luglio 2015.
+I sistemi di garanzia dei depositanti riconosciuti alla data di entrata in vigore del presente decreto possono imputare alla dotazione finanziaria prevista dall'articolo 96.1 del [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), i contributi gia' versati dalle banche aderenti a partire dal 3 luglio 2015.
 
 3.
 
-Per il 2015 l'importo dei contributi previsti dall'articolo 96.[2, comma 1, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_2-com1), e' determinato tenendo conto dei contributi indicati al comma 2, anche se gia' impiegati per interventi attuati dopo il 3 luglio 2015. In deroga a quanto previsto dall'articolo 96.1, comma 5, per le eventuali obbligazioni assunte in relazione a interventi deliberati dopo il 3 luglio 2015 in conformita' della legislazione vigente i sistemi di garanzia dei depositanti riconosciuti alla data di entrata in vigore del presente decreto legislativo rispondono con la dotazione finanziaria prevista dall'articolo 96.1 del [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385). Resta fermo l'obbligo di raggiungere il livello-obiettivo secondo quanto previsto dall'articolo 96.1 del [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385).
+Per il 2015 l'importo dei contributi previsti dall'articolo 96.[2, comma 1, del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' determinato tenendo conto dei contributi indicati al comma 2, anche se gia' impiegati per interventi attuati dopo il 3 luglio 2015. In deroga a quanto previsto dall'articolo 96.1, comma 5, per le eventuali obbligazioni assunte in relazione a interventi deliberati dopo il 3 luglio 2015 in conformita' della legislazione vigente i sistemi di garanzia dei depositanti riconosciuti alla data di entrata in vigore del presente decreto legislativo rispondono con la dotazione finanziaria prevista dall'articolo 96.1 del [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md). Resta fermo l'obbligo di raggiungere il livello-obiettivo secondo quanto previsto dall'articolo 96.1 del [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 4.
 
-Il termine di sette giorni lavorativi previsto dall'articolo 96-bis.[2, comma 1, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_2-com1), si applica a partire dal 1° gennaio 2024. Fino a tale data, il termine entro il quale il sistema di garanzia dei depositanti effettua i rimborsi e' pari a:
+Il termine di sette giorni lavorativi previsto dall'articolo 96-bis.[2, comma 1, del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), si applica a partire dal 1° gennaio 2024. Fino a tale data, il termine entro il quale il sistema di garanzia dei depositanti effettua i rimborsi e' pari a:
                         a)
                             20 giorni lavorativi fino al 31 dicembre 2018;
                         b)
@@ -607,16 +607,16 @@ Il termine di sette giorni lavorativi previsto dall'articolo 96-bis.[2, comma 1,
 
 5.
 
-Fino al 31 dicembre 2023, se il sistema di garanzia dei depositanti non e' in grado di effettuare i rimborsi entro il termine di sette giorni lavorativi previsto dall'articolo 96-bis.[2, comma 1, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_2-com1), esso assicura comunque che ciascun titolare di un deposito protetto che ne abbia fatto richiesta riceva, entro cinque giorni lavorativi dalla richiesta, un importo sufficiente per consentirgli di far fronte alle spese correnti, a valere sull'importo dovuto per il rimborso.
-L'importo e' determinato dal sistema di garanzia, sulla base di criteri stabiliti dallo statuto. Si applica l'articolo 96-bis.[2, comma 2, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_2-com2).
+Fino al 31 dicembre 2023, se il sistema di garanzia dei depositanti non e' in grado di effettuare i rimborsi entro il termine di sette giorni lavorativi previsto dall'articolo 96-bis.[2, comma 1, del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), esso assicura comunque che ciascun titolare di un deposito protetto che ne abbia fatto richiesta riceva, entro cinque giorni lavorativi dalla richiesta, un importo sufficiente per consentirgli di far fronte alle spese correnti, a valere sull'importo dovuto per il rimborso.
+L'importo e' determinato dal sistema di garanzia, sulla base di criteri stabiliti dallo statuto. Si applica l'articolo 96-bis.[2, comma 2, del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 6.
 
-I sistemi di garanzia dei depositanti riconosciuti alla data di entrata in vigore del presente decreto si adeguano entro 12 mesi da tale data a quanto previsto dall'articolo 96-bis.[3, comma 1, lettera a), del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_3-com1-leta).
+I sistemi di garanzia dei depositanti riconosciuti alla data di entrata in vigore del presente decreto si adeguano entro 12 mesi da tale data a quanto previsto dall'articolo 96-bis.[3, comma 1, lettera a), del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 7.
 
-L'articolo 96-bis.[3, comma 3, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_3-com3), si applica a partire dal primo rinnovo degli organi che svolgono funzioni di amministrazione, direzione e controllo dei sistemi di garanzia a seguito dell'entrata in vigore del presente decreto.
+L'articolo 96-bis.[3, comma 3, del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), si applica a partire dal primo rinnovo degli organi che svolgono funzioni di amministrazione, direzione e controllo dei sistemi di garanzia a seguito dell'entrata in vigore del presente decreto.
 
 ## Art. 5. — Clausola di invarianza finanziaria
 

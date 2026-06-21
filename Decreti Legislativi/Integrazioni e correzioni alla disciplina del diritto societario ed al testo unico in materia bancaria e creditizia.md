@@ -16,7 +16,7 @@ Visto [regio decreto 16 marzo 1942, n. 262](https://www.normattiva.it/uri-res/N2
 
 Visto il [regio decreto 30 marzo 1942, n. 318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;318), recante disposizioni per l'attuazione del codice civile e disposizioni transitorie;
 
-Visto il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni, recante testo unico delle leggi in materia bancaria e creditizia;
+Visto il [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni, recante testo unico delle leggi in materia bancaria e creditizia;
 
 Vista la [legge 3 ottobre 2001, n. 366](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20del%20diritto%20societario.md), concernente delega al Governo per la riforma del diritto societario, ed in particolare l'articolo 1, commi 2 e 5;
 
@@ -353,7 +353,7 @@ All'[articolo 19 del decreto legislativo n. 385 del 1993](https://www.normattiva
 
 1.
 
-All'[articolo 23, comma 1, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_23-com1), sono aggiunte, in fine, le seguenti parole: «e in presenza di contratti o di clausole statutarie che abbiano per oggetto o per effetto il potere di esercitare l'attivita' di direzione e coordinamento.».
+All'[articolo 23, comma 1, del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono aggiunte, in fine, le seguenti parole: «e in presenza di contratti o di clausole statutarie che abbiano per oggetto o per effetto il potere di esercitare l'attivita' di direzione e coordinamento.».
 
 ### Art. 41. — Modifiche all'articolo 24 del decreto legislativo n. 385 del 1993
 

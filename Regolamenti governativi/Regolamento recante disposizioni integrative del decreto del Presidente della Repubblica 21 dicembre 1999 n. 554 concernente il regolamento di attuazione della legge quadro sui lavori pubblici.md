@@ -20,7 +20,7 @@ Visto il parere del Consiglio superiore dei lavori pubblici, reso con voto n. 20
 
 Visto il parere del Consiglio di Stato n. 123/99 espresso dall'adunanza generale del 12 luglio 1999;
 
-Acquisito in data 23 settembre 1999, il parere della Conferenza unificata istituita ai sensi del [decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
+Acquisito in data 23 settembre 1999, il parere della Conferenza unificata istituita ai sensi del [decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
 
 Acquisiti i pareri delle competenti commissioni del Senato della Repubblica e della Camera dei deputati espressi rispettivamente in data 10 novembre 1999 e 24 novembre 1999;
 

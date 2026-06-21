@@ -139,7 +139,7 @@ Alle agevolazioni di cui al comma 1 si applicano i massimali previsti dalla norm
 
 3.
 
-I mutui di cui al comma 1 sono assistiti dalle garanzie di cui all'articolo 44 del testo unico di cui al [decreto legislativo 1º settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), acquisibili nell'ambito degli investimenti da realizzare.
+I mutui di cui al comma 1 sono assistiti dalle garanzie di cui all'articolo 44 del testo unico di cui al [decreto legislativo 1º settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), acquisibili nell'ambito degli investimenti da realizzare.
 
 ------------
 

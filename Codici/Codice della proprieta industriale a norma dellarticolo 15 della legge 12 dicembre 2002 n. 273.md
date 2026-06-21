@@ -16,29 +16,29 @@ Vista la [legge 12 dicembre 2002, n. 273](https://www.normattiva.it/uri-res/N2Ls
 
 Visto l'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_14), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
 
-Visto il [regio decreto 29 giugno 1939, n. 1127](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md);
+Visto il [regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md);
 
-Visto il [regio decreto 5 febbraio 1940, n. 244](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20040U0244.md);
+Visto il [regio decreto 5 febbraio 1940, n. 244](../Regi%20decreti/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20040U0244.md);
 
-Visto il [regio decreto 25 agosto 1940, n. 1411](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20040U1411.md);
+Visto il [regio decreto 25 agosto 1940, n. 1411](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20040U1411.md);
 
-Visto il [regio decreto 31 ottobre 1941, n. 1354](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20041U1354.md);
+Visto il [regio decreto 31 ottobre 1941, n. 1354](../Regi%20decreti/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20041U1354.md);
 
-Visto il [regio decreto 21 giugno 1942, n. 929](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md);
+Visto il [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md);
 
 Visto il [decreto del Presidente della Repubblica 8 giugno 1948, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948-06-08;795);
 
-Visto il [decreto del Presidente della Repubblica 30 giugno 1972, n. 540](../Atti%20normativi%20abrogati%20%28in%20originale%29/Semplificazione%20dei%20procedimenti%20amministrativi%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali%20modelli%20industriali%20e%20marchi%20di%20impresa.md);
+Visto il [decreto del Presidente della Repubblica 30 giugno 1972, n. 540](../DPR/Semplificazione%20dei%20procedimenti%20amministrativi%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali%20per%20modelli%20di%20utilita%20modelli%20e%20disegni%20ornamentali%20e%20in%20materia%20di%20registrazione%20di%20marchi%20dimpresa.md);
 
-Visto il [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md);
+Visto il [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](../DPR/Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md);
 
-Visto il [decreto del Presidente della Repubblica 8 gennaio 1979, n. 32](../Atti%20normativi%20abrogati%20%28in%20originale%29/Applicazione%20della%20legge%2025%20maggio%201978%20n.%20260%20concernente%20ratifica%20ed%20esecuzione%20di%20atti%20internazionali%20in%20materia%20di%20brevetti.md);
+Visto il [decreto del Presidente della Repubblica 8 gennaio 1979, n. 32](../DPR/Norme%20di%20applicazione%20per%20i%20brevetti%20europei%20e%20per%20i%20brevetti%20comunitari.md);
 
-Visto il [decreto del Presidente della Repubblica 22 giugno 1979, n. 338](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20della%20legislazione%20nazionale%20in%20materia%20di%20brevetti%20in%20applicazione%20della%20delega%20di%20cui%20alla%20legge%2026%20maggio%201978%20n.%20260.md);
+Visto il [decreto del Presidente della Repubblica 22 giugno 1979, n. 338](../DPR/Revisione%20della%20legislazione%20nazionale%20in%20materia%20di%20brevetti%20in%20applicazione%20della%20delega%20di%20cui%20alla%20legge%2026%20maggio%201978%20n.%20260.md);
 
 Vista la [legge 3 maggio 1985, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20di%20norme%20del%20decreto%20del%20Presidente%20della%20Repubblica%208%20gennaio%201979%20n.%2032%20di%20applicazione%20della%20legge%2026%20maggio%201978%20n.%20260%20concernente%20ratifica%20ed%20esecuzione%20di%20atti%20internazio_d86ff246262b.md);
 
-Vista la [legge 14 ottobre 1985, n. 620](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ratifica%20ed%20esecuzione%20dellatto%20di%20revisione%20della%20convenzione%20internazionale%20del%202%20dicembre%201961%20per%20la%20protezione%20dei%20ritrovati%20vegetali%20riveduta%20il%2010%20novembre%201972%20firmato%20a%20Ginevra%20i_6b238489b16b.md);
+Vista la [legge 14 ottobre 1985, n. 620](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellatto%20di%20revisione%20della%20convenzione%20internazionale%20del%202%20dicembre%201961%20per%20la%20protezione%20dei%20ritrovati%20vegetali%20riveduta%20il%2010%20novembre%201972%20firmato%20a%20Ginevra%20i_6b238489b16b.md);
 
 Vista la [legge 14 febbraio 1987, n. 60](../Atti%20normativi%20abrogati%20%28in%20originale%29/Armonizzazione%20della%20normativa%20in%20materia%20di%20brevetti%20per%20modelli%20e%20disegni%20industriali%20con%20le%20disposizioni%20dellaccordo%20dellAja%20del%206%20novembre%201925%20e%20successive%20revisioni%20ratificato%20con%20l_3733616abb65.md);
 
@@ -46,15 +46,15 @@ Vista la [legge 21 febbraio 1989, n. 70](../Atti%20normativi%20abrogati%20%28in%
 
 Vista la [legge 19 ottobre 1991, n. 349](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20il%20rilascio%20di%20un%20certificato%20complementare%20di%20protezione%20per%20i%20medicamenti%20o%20i%20relativi%20componenti%20oggetto%20di%20brevetto.md);
 
-Visto il [decreto del Presidente della Repubblica 1° dicembre 1993, n. 595](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20modificazioni%20al%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%208%20maggio%201948%20n.%20795.md);
+Visto il [decreto del Presidente della Repubblica 1° dicembre 1993, n. 595](../Regolamenti%20governativi/Regolamento%20recante%20modificazioni%20al%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%208%20maggio%201948%20n.%20795.md);
 
-Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 360](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20concessione%20di%20licenza%20obbligatoria%20per%20uso%20non%20esclusivo%20del%20brevetto%20di%20invenzione.md);
+Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 360](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20concessione%20di%20licenza%20obbligatoria%20per%20uso%20non%20esclusivo%20del%20brevetto%20di%20invenzione.md);
 
-Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 391](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20disciplina%20del%20procedimento%20di%20concessione%20di%20brevetto%20di%20nuova%20varieta%20vegetale.md);
+Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 391](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20del%20procedimento%20di%20concessione%20di%20brevetto%20di%20nuova%20varieta%20vegetale.md);
 
 Vista la [legge 21 dicembre 1984, n. 890](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20del%20trattato%20di%20cooperazione%20internazionale%20in%20materia%20di%20brevetti.md);
 
-Visto il [decreto legislativo 12 aprile 2001, n. 164](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20integrative%20al%20decreto%20legislativo%202%20febbraio%202001%20n.%2095%20recante%20attuazione%20della%20direttiva%2098-71-CE%20sulla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md);
+Visto il [decreto legislativo 12 aprile 2001, n. 164](../Decreti%20Legislativi/Disposizioni%20integrative%20al%20decreto%20legislativo%202%20febbraio%202001%20n.%2095%20recante%20attuazione%20della%20direttiva%2098-71-CE%20sulla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md);
 
 Visti i [commi 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-04-15;63#art_3-com8), [8-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-04-15;63#art_3-com8bis), [8-ter](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-04-15;63#art_3-com8ter) e [8-quater dell'articolo 3 del decreto-legge 15 aprile 2002, n. 63](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-04-15;63#art_3-com8quater), convertito, con modificazioni, dalla [legge 15 giugno 2002, n. 112](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20aprile%202002%20n.%2063%20recante%20disposizioni%20finanziarie%20e%20fiscali%20urgenti%20in%20materia%20di%20riscossione%20razionalizzazione%20del%20sistema%20di_ab86efa0420b.md);
 
@@ -4251,7 +4251,7 @@ La domanda di brevetto relativa ad una invenzione che ha per oggetto o utilizza 
 
 4.
 
-La domanda di brevetto relativa ad una invenzione, che ha per oggetto o utilizza materiale biologico contenente microrganismi o organismi geneticamente modificati, deve essere corredata da una dichiarazione che garantisca l'avvenuto rispetto degli obblighi riguardanti tali modificazioni, derivanti dalle normative nazionali o comunitarie, ed in particolare dalle disposizioni di cui al [comma 6 e di cui ai decreti legislativi 12 aprile 2001, n. 206, e 8 luglio 2003, n. 224](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-18-CE%20concernente%20lemissione%20deliberata%20nellambiente%20di%20organismi%20geneticamente%20modificati.md).
+La domanda di brevetto relativa ad una invenzione, che ha per oggetto o utilizza materiale biologico contenente microrganismi o organismi geneticamente modificati, deve essere corredata da una dichiarazione che garantisca l'avvenuto rispetto degli obblighi riguardanti tali modificazioni, derivanti dalle normative nazionali o comunitarie, ed in particolare dalle disposizioni di cui al [comma 6 e di cui ai decreti legislativi 12 aprile 2001, n. 206, e 8 luglio 2003, n. 224](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-18-CE%20concernente%20lemissione%20deliberata%20nellambiente%20di%20organismi%20geneticamente%20modificati.md).
 
 5.
 
@@ -4527,7 +4527,7 @@ Il comma 4 si applica anche nel caso in cui il marchio d'impresa anteriore sia u
 
 5.
 
-COMMA ABROGATO DAL [D.LGS. 20 FEBBRAIO 2019, N. 15](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-2436%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2016%20dicembre%202015%20sul%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20dimpresa%20_bce4388aeb38.md).
+COMMA ABROGATO DAL [D.LGS. 20 FEBBRAIO 2019, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-2436%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2016%20dicembre%202015%20sul%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20dimpresa%20_bce4388aeb38.md).
 
 6.
 
@@ -5431,13 +5431,13 @@ Il mandato puo' essere conferito soltanto a mandatari iscritti in un albo all'uo
 
 4-bis.
 
-I cittadini dell'Unione europea abilitati all'esercizio della medesima professione in un altro Stato membro possono essere iscritti all'albo secondo le procedure di cui al [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md).
+I cittadini dell'Unione europea abilitati all'esercizio della medesima professione in un altro Stato membro possono essere iscritti all'albo secondo le procedure di cui al [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md).
 
 ))
 
 5.
 
-COMMA ABROGATO DAL [D.LGS. 9 NOVEMBRE 2007, N. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md).
+COMMA ABROGATO DAL [D.LGS. 9 NOVEMBRE 2007, N. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md).
 
 6.
 
@@ -5473,7 +5473,7 @@ Puo' essere iscritta all'Albo dei consulenti in proprieta' industriale abilitati
                             c)
                                 abbia un domicilio professionale in Italia o nell'Unione europea se si tratta di cittadino di uno Stato membro di essa, il requisito del domicilio professionale in Italia non e' richiesto se si tratti di un cittadino di Stati extra comunitari che consentano ai cittadini italiani l'iscrizione a corrispondenti albi senza tale requisito;
                             d)
-                                abbia superato l'esame di abilitazione, di cui all'articolo 207 o abbia superato la prova attitudinale prevista per i consulenti in proprieta' industriale al [comma 2 dell'articolo 6 del decreto legislativo 27 gennaio 1992, n. 115](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2089-48-CEE%20relativa%20ad%20un%20sistema%20generale%20di%20riconoscimento%20dei%20diplomi%20di%20istruzione%20superiore%20che%20sanzionano%20formazioni%20professionali%20di%20una%20durata%20minima%20di%20tre%20anni.md).
+                                abbia superato l'esame di abilitazione, di cui all'articolo 207 o abbia superato la prova attitudinale prevista per i consulenti in proprieta' industriale al [comma 2 dell'articolo 6 del decreto legislativo 27 gennaio 1992, n. 115](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-48-CEE%20relativa%20ad%20un%20sistema%20generale%20di%20riconoscimento%20dei%20diplomi%20di%20istruzione%20superiore%20che%20sanzionano%20formazioni%20professionali%20di%20una%20durata%20minima%20di%20tre%20anni.md).
 
 2.
 
@@ -5481,7 +5481,7 @@ L'iscrizione e' effettuata dal Consiglio dell'ordine su presentazione di una ist
 
 3.
 
-I soggetti di cui all'articolo 201, comma 4-bis, che intendono esercitare l'attivita' di rappresentanza in Italia a titolo occasionale e temporaneo si considerano automaticamente iscritti all'albo dei consulenti in proprieta' industriale, previa trasmissione da parte dell'autorita' competente della dichiarazione preventiva di cui all'[articolo 10, del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md). L'iscrizione rileva ai soli fini dell'applicazione delle norme professionali, di carattere professionale, legale o amministrativo, direttamente connesse alla qualifica professionale.
+I soggetti di cui all'articolo 201, comma 4-bis, che intendono esercitare l'attivita' di rappresentanza in Italia a titolo occasionale e temporaneo si considerano automaticamente iscritti all'albo dei consulenti in proprieta' industriale, previa trasmissione da parte dell'autorita' competente della dichiarazione preventiva di cui all'[articolo 10, del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md). L'iscrizione rileva ai soli fini dell'applicazione delle norme professionali, di carattere professionale, legale o amministrativo, direttamente connesse alla qualifica professionale.
 
 4.
 
@@ -5951,25 +5951,25 @@ COMMA ABROGATO DAL [D.LGS 13 AGOSTO 2010, N. 131](../Decreti%20Legislativi/Modif
 
 1.
 
-Le domande di registrazione di marchio e le domande di trascrizione depositate prima della data di entrata in vigore del [decreto legislativo 4 dicembre 1992, n. 480](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), sono trattate secondo le disposizioni in esso contenute. Tuttavia, per quanto riguarda la regolarita' formale, sono soggette alle norme preesistenti.
+Le domande di registrazione di marchio e le domande di trascrizione depositate prima della data di entrata in vigore del [decreto legislativo 4 dicembre 1992, n. 480](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), sono trattate secondo le disposizioni in esso contenute. Tuttavia, per quanto riguarda la regolarita' formale, sono soggette alle norme preesistenti.
 
 Nota all'[art. 231:
- - Il decreto legislativo 4 dicembre 1992, n. 480](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), concernente «Attuazione della [direttiva n. 89/104/CEE del Consiglio del 21 dicembre 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;104), recante ravvicinamento delle legislazioni degli Stati membri in materia di marchi di impresa», e' pubblicato nella Gazzetta Ufficiale 16 dicembre 1992, n. 295, supplemento ordinario.
+ - Il decreto legislativo 4 dicembre 1992, n. 480](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), concernente «Attuazione della [direttiva n. 89/104/CEE del Consiglio del 21 dicembre 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;104), recante ravvicinamento delle legislazioni degli Stati membri in materia di marchi di impresa», e' pubblicato nella Gazzetta Ufficiale 16 dicembre 1992, n. 295, supplemento ordinario.
 
 ### Art. 232. — Limiti al diritto esclusivo sul marchio rinomato
 
 1.
 
-Il diritto di fare uso esclusivo di un marchio registrato prima della data di entrata in vigore del [decreto legislativo 4 dicembre 1992, n. 480](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), e che goda di rinomanza, non consente al titolare di opporsi all'ulteriore uso nel commercio di un segno identico o simile al marchio per prodotti o servizi non affini a quelli per cui esso e' stato registrato.
+Il diritto di fare uso esclusivo di un marchio registrato prima della data di entrata in vigore del [decreto legislativo 4 dicembre 1992, n. 480](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), e che goda di rinomanza, non consente al titolare di opporsi all'ulteriore uso nel commercio di un segno identico o simile al marchio per prodotti o servizi non affini a quelli per cui esso e' stato registrato.
 
 Nota all'[art. 232:
- - Per il decreto legislativo 4 dicembre 1992, n. 480](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), si veda la nota all'art. 231.
+ - Per il decreto legislativo 4 dicembre 1992, n. 480](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), si veda la nota all'art. 231.
 
 ### Art. 233. — Nullita'
 
 1.
 
-I marchi di impresa registrati prima della data di entrata in vigore del [decreto legislativo 4 dicembre 1992, n. 480](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), sono soggetti, in quanto alle cause di nullita', alle norme di legge anteriori.
+I marchi di impresa registrati prima della data di entrata in vigore del [decreto legislativo 4 dicembre 1992, n. 480](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), sono soggetti, in quanto alle cause di nullita', alle norme di legge anteriori.
 
 2.
 
@@ -5981,11 +5981,11 @@ Non puo' essere dichiarata la nullita' del marchio se il marchio anteriore sia s
 
 4.
 
-Ai fini dell'applicazione dell'[articolo 48 del regio decreto 29 giugno 1942, n. 929](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-06-29;929#art_48), come sostituito dal [decreto legislativo 4 dicembre 1992, n. 480](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), il termine di cinque anni decorre dalla data di entrata in vigore dello stesso.
+Ai fini dell'applicazione dell'[articolo 48 del regio decreto 29 giugno 1942, n. 929](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-06-29;929#art_48), come sostituito dal [decreto legislativo 4 dicembre 1992, n. 480](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), il termine di cinque anni decorre dalla data di entrata in vigore dello stesso.
 
 Note all'art. 233:
  - Per il dereto legislativo 4 dicembre 1992, n. 480, si veda la nota all'art. 231.
- - Il testo dell'[art. 48 del regio decreto 21 giugno 1942, n. 929](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), «Testo delle disposizioni legislative in materia di marchi registrati», pubblicato nella Gazzetta Ufficiale 29 agosto 1942, n. 203, e' il seguente:
+ - Il testo dell'[art. 48 del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), «Testo delle disposizioni legislative in materia di marchi registrati», pubblicato nella Gazzetta Ufficiale 29 agosto 1942, n. 203, e' il seguente:
  «Art. 48. - 1. Il titolare di un marchio d'impresa anteriore ai sensi dell'art. 17, comma 1, lettere d), e), g) e h), e il titolare di un diritto di preuso che importi notorieta' non puramente locale, i quali abbiano, durante cinque anni consecutivi, tollerato, essendone a conoscenza, l'uso di un marchio posteriore registrato uguale o simile, non possono domandare la dichiarazione di nullita' del marchio posteriore ne' opporsi all'uso dello stesso per i prodotti o servizi in relazione ai quali il detto marchio e' stato usato sulla base del proprio marchio anteriore o del proprio preuso, salvo il caso in cui il marchio posteriore sia stato domandato in malafede. Il titolare del marchio posteriore non puo' opporsi all'uso di quello anteriore o alla continuazione del preuso.
  2. La preclusione all'azione di nullita' di cui al comma 1 si estende anche ai terzi.
  3. La disciplina del comma 1 si applica anche al caso di marchio registrato in violazione dell'art. 18, comma 1, lettera f), e dell'art. 21.».
@@ -5994,28 +5994,28 @@ Note all'art. 233:
 
 1.
 
-Le norme del [decreto legislativo 4 dicembre 1992, n. 480](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), che disciplinano il trasferimento e la licenza del marchio si applicano anche ai marchi gia' concessi, ma non ai contratti conclusi prima della data di entrata in vigore del [decreto legislativo 4 dicembre 1992, n. 480](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md).
+Le norme del [decreto legislativo 4 dicembre 1992, n. 480](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), che disciplinano il trasferimento e la licenza del marchio si applicano anche ai marchi gia' concessi, ma non ai contratti conclusi prima della data di entrata in vigore del [decreto legislativo 4 dicembre 1992, n. 480](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md).
 
 Nota all'[art. 234:
- - Per il decreto legislativo 4 dicembre 1992, n. 480](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), si veda la nota all'art. 231.
+ - Per il decreto legislativo 4 dicembre 1992, n. 480](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), si veda la nota all'art. 231.
 
 ### Art. 235. — Decadenza per non uso
 
 1.
 
-Le norme del [decreto legislativo 4 dicembre 1992, n. 480](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), che disciplinano la decadenza per non uso si applicano ai marchi gia' concessi alla data di entrata in vigore dello stesso decreto legislativo, purche' non ancora decaduti a tale data.
+Le norme del [decreto legislativo 4 dicembre 1992, n. 480](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), che disciplinano la decadenza per non uso si applicano ai marchi gia' concessi alla data di entrata in vigore dello stesso decreto legislativo, purche' non ancora decaduti a tale data.
 
 Nota all'[art. 235:
- - Per il decreto legislativo 4 dicembre 1992, n. 480](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), si veda la nota all'art. 231.
+ - Per il decreto legislativo 4 dicembre 1992, n. 480](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), si veda la nota all'art. 231.
 
 ### Art. 236. — Decadenza per uso ingannevole
 
 1.
 
-Le norme del [decreto legislativo 4 dicembre 1992, n. 480](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), che disciplinano la decadenza del marchio per uso ingannevole dello stesso si applicano ai marchi gia' concessi alla data di entrata in vigore del medesimo decreto legislativo, in relazione ad un uso ingannevole posto in essere dopo la sua entrata in vigore.
+Le norme del [decreto legislativo 4 dicembre 1992, n. 480](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), che disciplinano la decadenza del marchio per uso ingannevole dello stesso si applicano ai marchi gia' concessi alla data di entrata in vigore del medesimo decreto legislativo, in relazione ad un uso ingannevole posto in essere dopo la sua entrata in vigore.
 
 Nota all'[art. 236:
- - Per il decreto legislativo 4 dicembre 1992, n. 480](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), si veda la nota all'art. 231.
+ - Per il decreto legislativo 4 dicembre 1992, n. 480](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md), si veda la nota all'art. 231.
 
 ## Sezione II Disegni e modelli
 
@@ -6025,23 +6025,23 @@ Nota all'[art. 236:
 
 1.
 
-Le domande di brevetto per disegno o modello ornamentale e le domande di trascrizione depositate prima della data di entrata in vigore del [decreto legislativo 2 febbraio 2001, n. 95](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2098-71-CE%20relativa%20alla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md), sono trattate secondo le disposizioni in esso contenute. Le stesse domande sono soggette alle norme precedenti relativamente alla regolarita' formale.
+Le domande di brevetto per disegno o modello ornamentale e le domande di trascrizione depositate prima della data di entrata in vigore del [decreto legislativo 2 febbraio 2001, n. 95](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-71-CE%20relativa%20alla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md), sono trattate secondo le disposizioni in esso contenute. Le stesse domande sono soggette alle norme precedenti relativamente alla regolarita' formale.
 
 Nota all'[art. 237:
- - Il decreto legislativo 2 febbraio 2001, n. 95](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2098-71-CE%20relativa%20alla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md), concernente «Attuazione della [direttiva 98/71/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;71) relativa alla protezione giuridica dei disegni e dei modelli», e' pubblicato nella Gazzetta Ufficiale 4 aprile 2001, n. 79, supplemento ordinario.
+ - Il decreto legislativo 2 febbraio 2001, n. 95](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-71-CE%20relativa%20alla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md), concernente «Attuazione della [direttiva 98/71/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;71) relativa alla protezione giuridica dei disegni e dei modelli», e' pubblicato nella Gazzetta Ufficiale 4 aprile 2001, n. 79, supplemento ordinario.
 
 ### Art. 238. — Proroga della privativa
 
 1.
 
-I brevetti per disegno o modello ornamentale concessi prima della data di entrata in vigore del [decreto legislativo 2 febbraio 2001, n. 95](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2098-71-CE%20relativa%20alla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md), purche' non scaduti, ne' decaduti alla data di entrata in vigore del decreto legislativo citato, possono essere prorogati fino al termine massimo di venticinque anni dalla data di deposito della domanda di brevetto. I licenziatari e coloro che in vista della prossima scadenza avevano compiuto investimenti seri ed effettivi per utilizzare il disegno o modello hanno diritto di ottenere licenza obbligatoria gratuita e non esclusiva per il periodo di maggior durata. Questa facolta' non si applica ai contraffattori dei brevetti non ancora scaduti.
+I brevetti per disegno o modello ornamentale concessi prima della data di entrata in vigore del [decreto legislativo 2 febbraio 2001, n. 95](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-71-CE%20relativa%20alla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md), purche' non scaduti, ne' decaduti alla data di entrata in vigore del decreto legislativo citato, possono essere prorogati fino al termine massimo di venticinque anni dalla data di deposito della domanda di brevetto. I licenziatari e coloro che in vista della prossima scadenza avevano compiuto investimenti seri ed effettivi per utilizzare il disegno o modello hanno diritto di ottenere licenza obbligatoria gratuita e non esclusiva per il periodo di maggior durata. Questa facolta' non si applica ai contraffattori dei brevetti non ancora scaduti.
 
 2.
 
 Le tasse di concessione corrisposte in un'unica soluzione valgono per le prime due proroghe. Le tasse sulle concessioni governative relative al quarto e quinto quinquennio, a far data dal 19 aprile 2001, sono di importo corrispondente alla rata del terzo quinquennio prevista dall'articolo 10, titolo IV, numero 2, lettere c) ed f), della tariffa indicata nella tabella allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Disciplina%20delle%20tasse%20sulle%20concessioni%20governative.md).
 
 Note all'[art. 238:
- - Per il decreto legislativo 2 febbraio 2001, n. 95](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2098-71-CE%20relativa%20alla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md), si veda la nota all'art. 237.
+ - Per il decreto legislativo 2 febbraio 2001, n. 95](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-71-CE%20relativa%20alla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md), si veda la nota all'art. 237.
  - Il [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Disciplina%20delle%20tasse%20sulle%20concessioni%20governative.md), recante «Disciplina delle tasse sulle concessioni governative» e' pubblicato nella Gazzetta Ufficiale 11 novembre 1972, n. 292, supplemento ordinario n. 3.
 
 ### Art. 239. — (Limiti alla protezione accordata dal diritto d'autore)
@@ -6054,10 +6054,10 @@ La protezione accordata ai disegni e modelli ai sensi dell'[articolo 2, n. 10), 
 
 1.
 
-I brevetti per disegni e modelli ornamentali concessi prima della data di entrata in vigore del [decreto legislativo 2 febbraio 2001, n. 95](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2098-71-CE%20relativa%20alla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md), sono soggetti, in quanto alle cause di nullita', alle norme di legge anteriori e, quanto agli effetti della declaratoria di nullita', alla norma di cui all'articolo 77 del presente codice.
+I brevetti per disegni e modelli ornamentali concessi prima della data di entrata in vigore del [decreto legislativo 2 febbraio 2001, n. 95](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-71-CE%20relativa%20alla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md), sono soggetti, in quanto alle cause di nullita', alle norme di legge anteriori e, quanto agli effetti della declaratoria di nullita', alla norma di cui all'articolo 77 del presente codice.
 
 Nota all'[art. 240:
- - Per il decreto legislativo 2 febbraio 2001, n. 95](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2098-71-CE%20relativa%20alla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md), si veda la nota all'art. 237.
+ - Per il decreto legislativo 2 febbraio 2001, n. 95](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-71-CE%20relativa%20alla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md), si veda la nota all'art. 237.
 
 ### Art. 241. — Diritti esclusivi sulle componenti di un prodotto complesso
 
@@ -6076,17 +6076,17 @@ Nota all'[art. 241:
 
 1.
 
-Le disposizioni dell'articolo 109 del presente codice si applicano ai brevetti per nuove varieta' vegetali concessi conformemente al [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md), non scaduti o decaduti alla data di entrata in vigore del [decreto legislativo 3 novembre 1998, n. 455](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20adeguamento%20alle%20prescrizioni%20dellatto%20di%20revisione%20del%201991%20della%20convenzione%20internazionale%20per%20la%20protezione%20delle%20novita%20vegetali.md).
+Le disposizioni dell'articolo 109 del presente codice si applicano ai brevetti per nuove varieta' vegetali concessi conformemente al [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](../DPR/Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md), non scaduti o decaduti alla data di entrata in vigore del [decreto legislativo 3 novembre 1998, n. 455](../Decreti%20Legislativi/Norme%20di%20adeguamento%20alle%20prescrizioni%20dellatto%20di%20revisione%20del%201991%20della%20convenzione%20internazionale%20per%20la%20protezione%20delle%20novita%20vegetali.md).
 
 2.
 
-I licenziatari e coloro che, alla data di entrata in vigore del [decreto legislativo 3 novembre 1998, n. 455](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20adeguamento%20alle%20prescrizioni%20dellatto%20di%20revisione%20del%201991%20della%20convenzione%20internazionale%20per%20la%20protezione%20delle%20novita%20vegetali.md), hanno compiuto seri ed effettivi investimenti per l'utilizzo delle nuove varieta' vegetali coperte dal diritto di costitutore hanno diritto di ottenere licenza obbligatoria gratuita e non esclusiva per il periodo di maggior durata. Questa facolta' non si applica ai contraffattori dei diritti non ancora scaduti.
+I licenziatari e coloro che, alla data di entrata in vigore del [decreto legislativo 3 novembre 1998, n. 455](../Decreti%20Legislativi/Norme%20di%20adeguamento%20alle%20prescrizioni%20dellatto%20di%20revisione%20del%201991%20della%20convenzione%20internazionale%20per%20la%20protezione%20delle%20novita%20vegetali.md), hanno compiuto seri ed effettivi investimenti per l'utilizzo delle nuove varieta' vegetali coperte dal diritto di costitutore hanno diritto di ottenere licenza obbligatoria gratuita e non esclusiva per il periodo di maggior durata. Questa facolta' non si applica ai contraffattori dei diritti non ancora scaduti.
 
 ((
 
 2-bis.
 
-I diritti annuali versati dalla data di deposito per il mantenimento in vita delle domande e delle privative per novita' vegetali gia' depositate o concesse alla data del 29 marzo 1999 sono considerati valido pagamento dei corrispondenti diritti annuali dovuti dalla concessione della privativa in conformita' all'[articolo 25 del decreto legislativo 3 novembre 1998, n. 455](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20adeguamento%20alle%20prescrizioni%20dellatto%20di%20revisione%20del%201991%20della%20convenzione%20internazionale%20per%20la%20protezione%20delle%20novita%20vegetali.md).
+I diritti annuali versati dalla data di deposito per il mantenimento in vita delle domande e delle privative per novita' vegetali gia' depositate o concesse alla data del 29 marzo 1999 sono considerati valido pagamento dei corrispondenti diritti annuali dovuti dalla concessione della privativa in conformita' all'[articolo 25 del decreto legislativo 3 novembre 1998, n. 455](../Decreti%20Legislativi/Norme%20di%20adeguamento%20alle%20prescrizioni%20dellatto%20di%20revisione%20del%201991%20della%20convenzione%20internazionale%20per%20la%20protezione%20delle%20novita%20vegetali.md).
 
 ))
 
@@ -6101,7 +6101,7 @@ I diritti annuali versati dalla data di deposito per il mantenimento in vita del
 
 1.
 
-Le invenzioni dei dipendenti il cui rapporto di lavoro intercorre con un'universita' o con una pubblica Amministrazione avente tra i suoi compiti istituzionali finalita' di ricerca sono soggette alla disciplina, dettata rispettivamente dall'[articolo 24-bis del regio decreto 29 giugno 1939, n. 1127](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), introdotto dalla [legge 18 ottobre 2001, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-10-18;383), dal testo originario dell'articolo 65 del presente Codice e dal testo attuale del medesimo articolo, in vigore al momento in cui le invenzioni sono state conseguite, ancorche' in dipendenza di ricerche cominciate anteriormente.
+Le invenzioni dei dipendenti il cui rapporto di lavoro intercorre con un'universita' o con una pubblica Amministrazione avente tra i suoi compiti istituzionali finalita' di ricerca sono soggette alla disciplina, dettata rispettivamente dall'[articolo 24-bis del regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md), introdotto dalla [legge 18 ottobre 2001, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-10-18;383), dal testo originario dell'articolo 65 del presente Codice e dal testo attuale del medesimo articolo, in vigore al momento in cui le invenzioni sono state conseguite, ancorche' in dipendenza di ricerche cominciate anteriormente.
 
 ))
 
@@ -6183,35 +6183,35 @@ Le cause riguardanti il brevetto europeo rilasciato per l'Italia, pendenti fino 
 
 Sono abrogate le seguenti disposizioni:
                             a)
-                                il [regio decreto 29 giugno 1939, n. 1127](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md);
+                                il [regio decreto 29 giugno 1939, n. 1127](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20039U1127.md);
                             b)
-                                il [regio decreto 5 febbraio 1940, n. 244](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20040U0244.md);
+                                il [regio decreto 5 febbraio 1940, n. 244](../Regi%20decreti/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali.%20040U0244.md);
                             c)
-                                il [regio decreto 25 agosto 1940, n. 1411](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20040U1411.md);
+                                il [regio decreto 25 agosto 1940, n. 1411](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20040U1411.md);
                             d)
-                                il [regio decreto 31 ottobre 1941, n. 1354](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20041U1354.md);
+                                il [regio decreto 31 ottobre 1941, n. 1354](../Regi%20decreti/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20modelli%20industriali.%20041U1354.md);
                             e)
-                                il [regio decreto 21 giugno 1942, n. 929](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md);
+                                il [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md);
                             f)
-                                il [decreto del Presidente della Repubblica 8 maggio 1948, n. 795](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20di%20impresa.md);
+                                il [decreto del Presidente della Repubblica 8 maggio 1948, n. 795](../DPR/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20marchi%20registrati.md);
                             g)
                                 l'[articolo 34 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
                             h)
-                                il [decreto del Presidente della Repubblica 30 giugno 1972, n. 540](../Atti%20normativi%20abrogati%20%28in%20originale%29/Semplificazione%20dei%20procedimenti%20amministrativi%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali%20modelli%20industriali%20e%20marchi%20di%20impresa.md);
+                                il [decreto del Presidente della Repubblica 30 giugno 1972, n. 540](../DPR/Semplificazione%20dei%20procedimenti%20amministrativi%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali%20per%20modelli%20di%20utilita%20modelli%20e%20disegni%20ornamentali%20e%20in%20materia%20di%20registrazione%20di%20marchi%20dimpresa.md);
                             i)
                                 il decreto del Ministro dell'industria, del commercio e dell'artigianato 22 febbraio 1973, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 69 del 15 marzo 1973;
                             l)
-                                il [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md), fatto salvo l'articolo 18;
+                                il [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](../DPR/Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md), fatto salvo l'articolo 18;
                             m)
                                 il decreto del Ministro dell'industria, del commercio e dell'artigianato 22 ottobre 1976, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 15 del 18 febbraio 1977;
                             n)
-                                il [decreto del Presidente della Repubblica 8 gennaio 1979, n. 32](../Atti%20normativi%20abrogati%20%28in%20originale%29/Applicazione%20della%20legge%2025%20maggio%201978%20n.%20260%20concernente%20ratifica%20ed%20esecuzione%20di%20atti%20internazionali%20in%20materia%20di%20brevetti.md);
+                                il [decreto del Presidente della Repubblica 8 gennaio 1979, n. 32](../DPR/Norme%20di%20applicazione%20per%20i%20brevetti%20europei%20e%20per%20i%20brevetti%20comunitari.md);
                             o)
-                                il [decreto del Presidente della Repubblica 22 giugno 1979, n. 338](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20della%20legislazione%20nazionale%20in%20materia%20di%20brevetti%20in%20applicazione%20della%20delega%20di%20cui%20alla%20legge%2026%20maggio%201978%20n.%20260.md);
+                                il [decreto del Presidente della Repubblica 22 giugno 1979, n. 338](../DPR/Revisione%20della%20legislazione%20nazionale%20in%20materia%20di%20brevetti%20in%20applicazione%20della%20delega%20di%20cui%20alla%20legge%2026%20maggio%201978%20n.%20260.md);
                             p)
                                 la [legge 3 maggio 1985, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20di%20norme%20del%20decreto%20del%20Presidente%20della%20Repubblica%208%20gennaio%201979%20n.%2032%20di%20applicazione%20della%20legge%2026%20maggio%201978%20n.%20260%20concernente%20ratifica%20ed%20esecuzione%20di%20atti%20internazio_d86ff246262b.md);
                             q)
-                                la [legge 14 ottobre 1985, n. 620](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ratifica%20ed%20esecuzione%20dellatto%20di%20revisione%20della%20convenzione%20internazionale%20del%202%20dicembre%201961%20per%20la%20protezione%20dei%20ritrovati%20vegetali%20riveduta%20il%2010%20novembre%201972%20firmato%20a%20Ginevra%20i_6b238489b16b.md);
+                                la [legge 14 ottobre 1985, n. 620](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellatto%20di%20revisione%20della%20convenzione%20internazionale%20del%202%20dicembre%201961%20per%20la%20protezione%20dei%20ritrovati%20vegetali%20riveduta%20il%2010%20novembre%201972%20firmato%20a%20Ginevra%20i_6b238489b16b.md);
                             r)
                                 il decreto del Ministro dell'industria, del commercio e dell'artigianato 26 febbraio 1986, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 104 del 7 maggio 1986;
                             s)
@@ -6223,27 +6223,27 @@ Sono abrogate le seguenti disposizioni:
                             v)
                                 il [decreto del Ministro dell'industria, del commercio e dell'artigianato 11 gennaio 1991, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.industria.commercio.artigianato:decreto:1991-01-11;122), pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 85 dell'11 aprile 1991;
                             z)
-                                la [legge 19 ottobre 1991, n. 349](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20il%20rilascio%20di%20un%20certificato%20complementare%20di%20protezione%20per%20i%20medicamenti%20o%20i%20relativi%20componenti%20oggetto%20di%20brevetto.md); il [decreto legislativo 4 dicembre 1992, n. 480](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md); la [legge 26 luglio 1993, n. 302](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ratifica%20ed%20esecuzione%20dellaccordo%20sul%20brevetto%20comunitario%20della%20convenzione%20sul%20brevetto%20europeo%20per%20il%20mercato%20comune%20e%20relativo%20regolamento%20di%20esecuzione%20con%20quattro%20protocolli%20anness_f138a48f76e5.md);
+                                la [legge 19 ottobre 1991, n. 349](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20il%20rilascio%20di%20un%20certificato%20complementare%20di%20protezione%20per%20i%20medicamenti%20o%20i%20relativi%20componenti%20oggetto%20di%20brevetto.md); il [decreto legislativo 4 dicembre 1992, n. 480](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md); la [legge 26 luglio 1993, n. 302](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20sul%20brevetto%20comunitario%20della%20convenzione%20sul%20brevetto%20europeo%20per%20il%20mercato%20comune%20e%20relativo%20regolamento%20di%20esecuzione%20con%20quattro%20protocolli%20anness_f138a48f76e5.md);
                             aa)
-                                il [decreto del Presidente della Repubblica 1° dicembre 1993, n. 595](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20modificazioni%20al%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%208%20maggio%201948%20n.%20795.md);
+                                il [decreto del Presidente della Repubblica 1° dicembre 1993, n. 595](../Regolamenti%20governativi/Regolamento%20recante%20modificazioni%20al%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%208%20maggio%201948%20n.%20795.md);
                             bb)
-                                il [decreto del Presidente della Repubblica 18 aprile 1994, n. 360](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20concessione%20di%20licenza%20obbligatoria%20per%20uso%20non%20esclusivo%20del%20brevetto%20di%20invenzione.md);
+                                il [decreto del Presidente della Repubblica 18 aprile 1994, n. 360](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20concessione%20di%20licenza%20obbligatoria%20per%20uso%20non%20esclusivo%20del%20brevetto%20di%20invenzione.md);
                             cc)
-                                il [decreto del Presidente della Repubblica 18 aprile 1994, n. 391](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20disciplina%20del%20procedimento%20di%20concessione%20di%20brevetto%20di%20nuova%20varieta%20vegetale.md);
+                                il [decreto del Presidente della Repubblica 18 aprile 1994, n. 391](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20del%20procedimento%20di%20concessione%20di%20brevetto%20di%20nuova%20varieta%20vegetale.md);
                             dd)
                                 la [legge 21 dicembre 1984, n. 890](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20del%20trattato%20di%20cooperazione%20internazionale%20in%20materia%20di%20brevetti.md);
                             ee)
                                 il [decreto del Ministro dell'industria, del commercio e dell'artigianato 30 maggio 1995, n. 342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.industria.commercio.artigianato:decreto:1995-05-30;342), pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 192 del 18 agosto 1995;
                             ff)
-                                il [decreto legislativo 19 marzo 1996, n. 198](../Atti%20normativi%20abrogati%20%28in%20originale%29/Adeguamento%20della%20legislazione%20interna%20in%20materia%20di%20proprieta%20industriale%20alle%20prescrizioni%20obbligatorie%20dellaccordo%20relativo%20agli%20aspetti%20dei%20diritti%20di%20proprieta%20intellettuale%20concerne_e705b7f5d9f2.md); il [decreto legislativo 3 novembre 1998, n. 455](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20adeguamento%20alle%20prescrizioni%20dellatto%20di%20revisione%20del%201991%20della%20convenzione%20internazionale%20per%20la%20protezione%20delle%20novita%20vegetali.md); il [decreto legislativo 8 ottobre 1999, n. 447](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20materia%20di%20marchi%20dimpresa%20per%20lapplicazione%20del%20protocollo%20relativo%20allintesa%20di%20Madrid%20sulla%20registrazione%20internazionale%20dei%20marchi.md);
+                                il [decreto legislativo 19 marzo 1996, n. 198](../Decreti%20Legislativi/Adeguamento%20della%20legislazione%20interna%20in%20materia%20di%20proprieta%20industriale%20alle%20prescrizioni%20obbligatorie%20dellaccordo%20relativo%20agli%20aspetti%20dei%20diritti%20di%20proprieta%20intellettuale%20concerne_e705b7f5d9f2.md); il [decreto legislativo 3 novembre 1998, n. 455](../Decreti%20Legislativi/Norme%20di%20adeguamento%20alle%20prescrizioni%20dellatto%20di%20revisione%20del%201991%20della%20convenzione%20internazionale%20per%20la%20protezione%20delle%20novita%20vegetali.md); il [decreto legislativo 8 ottobre 1999, n. 447](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20marchi%20dimpresa%20per%20lapplicazione%20del%20protocollo%20relativo%20allintesa%20di%20Madrid%20sulla%20registrazione%20internazionale%20dei%20marchi.md);
                             gg)
-                                il [decreto legislativo 2 febbraio 2001, n. 95](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2098-71-CE%20relativa%20alla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md);
+                                il [decreto legislativo 2 febbraio 2001, n. 95](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-71-CE%20relativa%20alla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md);
                             hh)
-                                il [decreto legislativo 12 aprile 2001, n. 164](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20integrative%20al%20decreto%20legislativo%202%20febbraio%202001%20n.%2095%20recante%20attuazione%20della%20direttiva%2098-71-CE%20sulla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md);
+                                il [decreto legislativo 12 aprile 2001, n. 164](../Decreti%20Legislativi/Disposizioni%20integrative%20al%20decreto%20legislativo%202%20febbraio%202001%20n.%2095%20recante%20attuazione%20della%20direttiva%2098-71-CE%20sulla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli.md);
                             ii)
                                 l'[articolo 7 della legge 18 ottobre 2001, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-10-18;383#art_7);
                             ll)
-                                il [decreto legislativo 2 febbraio 2002, n. 26](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20integrative%20al%20decreto%20legislativo%202%20febbraio%202001%20n.%2095%20recante%20attuazione%20della%20direttiva%2098-71-CE%20sulla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli_2.md);
+                                il [decreto legislativo 2 febbraio 2002, n. 26](../Decreti%20Legislativi/Disposizioni%20integrative%20al%20decreto%20legislativo%202%20febbraio%202001%20n.%2095%20recante%20attuazione%20della%20direttiva%2098-71-CE%20sulla%20protezione%20giuridica%20dei%20disegni%20e%20dei%20modelli_2.md);
                             mm)
                                 i [commi 8](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20aprile%202002%20n.%2063%20recante%20disposizioni%20finanziarie%20e%20fiscali%20urgenti%20in%20materia%20di%20riscossione%20razionalizzazione%20del%20sistema%20di_ab86efa0420b.md), [8-bis](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20aprile%202002%20n.%2063%20recante%20disposizioni%20finanziarie%20e%20fiscali%20urgenti%20in%20materia%20di%20riscossione%20razionalizzazione%20del%20sistema%20di_ab86efa0420b.md), [8-ter](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20aprile%202002%20n.%2063%20recante%20disposizioni%20finanziarie%20e%20fiscali%20urgenti%20in%20materia%20di%20riscossione%20razionalizzazione%20del%20sistema%20di_ab86efa0420b.md) ed [8-quater dell'articolo 3 della legge 15 giugno 2002, n. 112](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20aprile%202002%20n.%2063%20recante%20disposizioni%20finanziarie%20e%20fiscali%20urgenti%20in%20materia%20di%20riscossione%20razionalizzazione%20del%20sistema%20di_ab86efa0420b.md), di conversione, con modificazioni, del [decreto-legge 15 aprile 2002, n. 63](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-04-15;63);
                             nn)
@@ -6257,7 +6257,7 @@ Note all'art. 246:
  - Si riporta il testo dell'[art. 3 del decreto-legge 15 aprile 2002, n. 63](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-04-15;63#art_3), (Disposizioni finanziarie e fiscali urgenti in materia di riscossione, razionalizzazione del sistema di formazione del costo dei prodotti farmaceutici, adempimenti ed adeguamenti comunitari, cartolarizzazioni, valorizzazione del patrimonio e finanziamento delle infrastrutture), convertito in legge, con modificazioni, dall'[art. 1, legge 15 giugno 2002, n. 112](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20aprile%202002%20n.%2063%20recante%20disposizioni%20finanziarie%20e%20fiscali%20urgenti%20in%20materia%20di%20riscossione%20razionalizzazione%20del%20sistema%20di_ab86efa0420b.md), come modificato dal presente decreto legislativo:
  «Art. 3 (Razionalizzazione del sistema dei costi dei prodotti farmaceutici). - 1. Il prezzo di vendita al pubblico dei medicinali di cui alla [lettera a) dell'art. 8, comma 10, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ivi compresi quelli previsti dal decreto ministeriale 4 dicembre 2001 del Ministro della salute pubblicato nella Gazzetta Ufficiale n. 33 dell'8 febbraio 2002, e' ridotto, fino al 31 dicembre 2002, del cinque per cento al netto dell'IVA.
  2. Sono esclusi dalla riduzione del prezzo di cui al comma 1 i medicinali emoderivati estrattivi e da DNA ricombinante nonche' i medicinali da DNA ricombinante inseriti nell'allegato 2 al decreto ministeriale 22 dicembre 2000, del Ministro della sanita' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 7 del 10 gennaio 2001, e i farmaci il cui prezzo di vendita al pubblico e' inferiore a cinque euro.
- 3. Alle imprese farmaceutiche titolari dell'autorizzazione all'immissione in commercio di medicinali, e' consentito di organizzare o contribuire a realizzare mediante finanziamenti anche indiretti all'estero per gli anni 2002 e 2003 congressi, convegni o riunioni ai sensi dell'[art. 12 del decreto legislativo 30 dicembre 1992, n. 541](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2092-28-CEE%20concernente%20la%20pubblicita%20dei%20medicinali%20per%20uso%20umano.md), nella misura massima del cinquanta per cento di quelli notificati al Ministero della salute nell'anno 2001 o autorizzati ai sensi del comma 7 del citato art. 12.
+ 3. Alle imprese farmaceutiche titolari dell'autorizzazione all'immissione in commercio di medicinali, e' consentito di organizzare o contribuire a realizzare mediante finanziamenti anche indiretti all'estero per gli anni 2002 e 2003 congressi, convegni o riunioni ai sensi dell'[art. 12 del decreto legislativo 30 dicembre 1992, n. 541](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-28-CEE%20concernente%20la%20pubblicita%20dei%20medicinali%20per%20uso%20umano.md), nella misura massima del cinquanta per cento di quelli notificati al Ministero della salute nell'anno 2001 o autorizzati ai sensi del comma 7 del citato art. 12.
  4. La spesa delle imprese farmaceutiche per la organizzazione, partecipazione e il finanziamento anche indiretto di convegni, congressi, seminari o riunioni di cui al comma 3 per gli esercizi 2002 e 2003 non potra' eccedere il cinquanta per cento delle spese sostenute e documentate per il medesimo fine nell'esercizio 2001.
  5. Per le imprese farmaceutiche di nuova costituzione le stesse spese non potranno comunque eccedere l'8% del fatturato annuo.
  6. Il rapporto percentuale tra il fatturato globale dell'anno 2002 e la differenza tra la spesa sostenuta dalla singola impresa farmaceutica per la organizzazione, la partecipazione e il finanziamento anche indiretto di convegni, congressi, seminari o riunioni di cui al comma 3 per l'anno 2002 e la stessa spesa relativa all'anno 2001, comportera', a decorrere dal 1° gennaio 2003, la riduzione percentuale di pari entita' del prezzo di vendita al pubblico dei medicinali di cui al comma 1.
@@ -6266,7 +6266,7 @@ Note all'art. 246:
  8-bis. (Abrogato).
  8-ter. (Abrogato).
  8-quater. (Abrogato).
- 9. A partire dal 1° gennaio 2003 le confezioni dei farmaci, ad esclusione di quelli di cui all'[art. 3, comma 1, del decreto legislativo 30 dicembre 1992, n. 539](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-26-CEE%20riguardante%20la%20classificazione%20nella%20fornitura%20dei%20medicinali%20per%20uso%20umano.md), debbono riportare sulle confezioni e sulle istruzioni, nonche' nelle forme consentite di pubblicita', dopo l'indicazione del marchio, la sigla classificativa internazionale corrispondente alla denominazione comune internazionale cosiddetta «anatomico-terapeutico-chimica» (ATC), seguita dal corrispondente nome chimico del prodotto. La denominazione commerciale - se presente - deve essere stampata al di sotto di sigla e della denominazione chimica in corpo uguale a quello dei nome chimico; sino ad esaurimento delle scorte e' consentita la vendita di confezioni che riportino la sola denominazione commerciale solo se confezionate prima del 1° novembre 2002.
+ 9. A partire dal 1° gennaio 2003 le confezioni dei farmaci, ad esclusione di quelli di cui all'[art. 3, comma 1, del decreto legislativo 30 dicembre 1992, n. 539](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-26-CEE%20riguardante%20la%20classificazione%20nella%20fornitura%20dei%20medicinali%20per%20uso%20umano.md), debbono riportare sulle confezioni e sulle istruzioni, nonche' nelle forme consentite di pubblicita', dopo l'indicazione del marchio, la sigla classificativa internazionale corrispondente alla denominazione comune internazionale cosiddetta «anatomico-terapeutico-chimica» (ATC), seguita dal corrispondente nome chimico del prodotto. La denominazione commerciale - se presente - deve essere stampata al di sotto di sigla e della denominazione chimica in corpo uguale a quello dei nome chimico; sino ad esaurimento delle scorte e' consentita la vendita di confezioni che riportino la sola denominazione commerciale solo se confezionate prima del 1° novembre 2002.
  9-bis. Il collegio sindacale delle aziende sanitarie e delle aziende ospedaliere segnala periodicamente al direttore generale dell'azienda, al presidente della regione e al Ministero dell'economia e delle finanze gli eventuali scostamenti della spesa effettuata rispetto ai livelli programmati nei documenti contabili vigenti di finanza pubblica. Il direttore generale dell'azienda da' comunicazione dei provvedimenti adottati per assicurare il rispetto dei limiti di spesa previsti.
  9-ter.».
  - La [legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2004), pubblicata nella Gazzetta Ufficiale 27 dicembre 2003, n. 299, supplemento ordinario.

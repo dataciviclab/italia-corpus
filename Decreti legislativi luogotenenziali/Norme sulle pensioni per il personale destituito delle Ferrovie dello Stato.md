@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [R. decreto 21 febbraio 1893, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-02-21;70), che approva il testo unico delle leggi sulle pensioni civili e militari in esecuzione della [legge 15 giugno 1893, n. 279](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulle%20pensioni%20civili%20e%20militari.%20093U0279.md);
 
-Visto il [R. decreto 22 aprile 1909, n. 229](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), che approva il testo unico delle disposizioni per le pensioni del personale delle Ferrovie dello Stato;
+Visto il [R. decreto 22 aprile 1909, n. 229](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), che approva il testo unico delle disposizioni per le pensioni del personale delle Ferrovie dello Stato;
 
 Visto il [decreto Luogotenenziale 13 agosto 1917, numero 1393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-08-13;1393),
 
@@ -30,7 +30,7 @@ trattamento di pensione del personale delle Ferrovie dello Stato;
 
 Vista la [legge 7 aprile 1921, n. 369](../Atti%20normativi%20abrogati%20%28in%20originale%29/Contenente%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20021U0369.md), concernente le disposizioni per le pensioni del personale delle Ferrovie dello Stato;
 
-Visto il [R. decreto 7 dicembre 1923, n. 2590](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md), sulla pensione del personale delle Ferrovie dello Stato;
+Visto il [R. decreto 7 dicembre 1923, n. 2590](../Regi%20decreti/Nuove%20disposizioni%20sulle%20pensioni%20da%20concedersi%20al%20personale%20dellAmministrazione%20delle%20ferrovie%20dello%20Stato.%20023U2590.md), sulla pensione del personale delle Ferrovie dello Stato;
 
 Visto il [R. decreto-legge 7 aprile 1925, n. 405](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), che approva il regolamento del personale ferroviario;
 
@@ -46,7 +46,7 @@ Sulla proposta del Ministro Segretario di Stato per i trasporti, di concerto col
 
 ## Art. 1.
 
-L'art. 16 del testo unico approvato con [R. decreto 22 aprile 1909, n. 229](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), e' cosi' modificato:
+L'art. 16 del testo unico approvato con [R. decreto 22 aprile 1909, n. 229](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md), e' cosi' modificato:
  "Il diritto dell'agente al conseguimento della pensione si perde:
  a) per dimissione dal servizio;
  b) per destituzione a termini dell'art. 98 del regolamento del personale approvato con [R. decreto-legge 7 aprile 1925, n. 405](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md);
@@ -68,7 +68,7 @@ Gli agenti delle Ferrovie dello Stato incorsi nella perdita del diritto a conseg
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale con sentenza 10 - 17 febbraio 1972, n. 25 (in G.U. 1a s.s. 23/02/1972, n. 50) ha dichiarato "la illegittimita' costituzionale dell'art. 16, comma primo, lettera b, del testo unico approvato con [r.d. 22 aprile 1909, n. 229](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md) (nel testo modificato dall'[art. 1 del decreto legislativo luogotenenziale 8 giugno 1945, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulle%20pensioni%20per%20il%20personale%20destituito%20delle%20Ferrovie%20dello%20Stato.md)), e dell'art. 2 di tale decreto (nel testo modificato dall'[art. 2 della legge 2 marzo 1954, n. 32](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20ed%20aggiunte%20al%20decreto%20legislativo%20luogotenenziale%208%20giugno%201945%20n.%20915%20recante%20norme%20per%20le%20pensioni%20del%20personale%20destituito%20delle%20Ferrovie%20dello%20Stato.md)), aventi per oggetto norme sulle pensioni per il personale destituito delle Ferrovie dello Stato."
+La Corte Costituzionale con sentenza 10 - 17 febbraio 1972, n. 25 (in G.U. 1a s.s. 23/02/1972, n. 50) ha dichiarato "la illegittimita' costituzionale dell'art. 16, comma primo, lettera b, del testo unico approvato con [r.d. 22 aprile 1909, n. 229](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20delle%20disposizioni%20per%20le%20pensioni%20del%20personale%20delle%20ferrovie%20dello%20Stato.%20009U0229.md) (nel testo modificato dall'[art. 1 del decreto legislativo luogotenenziale 8 giugno 1945, n. 915](Norme%20sulle%20pensioni%20per%20il%20personale%20destituito%20delle%20Ferrovie%20dello%20Stato.md)), e dell'art. 2 di tale decreto (nel testo modificato dall'[art. 2 della legge 2 marzo 1954, n. 32](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20ed%20aggiunte%20al%20decreto%20legislativo%20luogotenenziale%208%20giugno%201945%20n.%20915%20recante%20norme%20per%20le%20pensioni%20del%20personale%20destituito%20delle%20Ferrovie%20dello%20Stato.md)), aventi per oggetto norme sulle pensioni per il personale destituito delle Ferrovie dello Stato."
 
 ## Art. 3.
 

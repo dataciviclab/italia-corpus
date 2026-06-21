@@ -39,7 +39,7 @@ Nella prima attuazione del presente decreto il personale del ruolo di gruppo B d
 
 AGGIORNAMENTO (1)
 
-La [L. 21 agosto 1950, n. 699](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%203%20maggio%201948%20n.%20455%20concernente%20modificazioni%20alla%20legge%2016%20giugno%201940%20n.%20721%20sullordinamento%20dei%20ruoli%20organici%20del%20personale%20dellAmm_2d8939235d3f.md) ha disposto (con l'art. 2) che la modifica apportata ha efficacia dalla data di entrata in vigore del [decreto legislativo 3 maggio 1948, n. 455](Modificazioni%20alla%20legge%2016%20giugno%201940%20n.%20721%20sul%20riordinamento%20dei%20ruoli%20organici%20del%20personale%20dellAmministrazione%20civile%20dellinterno.md).
+La [L. 21 agosto 1950, n. 699](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%203%20maggio%201948%20n.%20455%20concernente%20modificazioni%20alla%20legge%2016%20giugno%201940%20n.%20721%20sullordinamento%20dei%20ruoli%20organici%20del%20personale%20dellAmm_2d8939235d3f.md) ha disposto (con l'art. 2) che la modifica apportata ha efficacia dalla data di entrata in vigore del [decreto legislativo 3 maggio 1948, n. 455](Modificazioni%20alla%20legge%2016%20giugno%201940%20n.%20721%20sul%20riordinamento%20dei%20ruoli%20organici%20del%20personale%20dellAmministrazione%20civile%20dellinterno.md).
 
 ## Art. 4.
 

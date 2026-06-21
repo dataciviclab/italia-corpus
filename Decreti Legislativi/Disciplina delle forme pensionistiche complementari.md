@@ -86,7 +86,7 @@ Ai fini del presente decreto s'intendono per:
                         c-duodecies)
                             "Stato membro ospitante": lo Stato membro il cui diritto della sicurezza sociale e del lavoro pertinente in materia di schemi pensionistici aziendali o professionali si applica al rapporto tra l'impresa promotrice e gli aderenti o i beneficiari;
                         c-terdecies)
-                            "Stato aderente allo Spazio economico europeo": uno Stato aderente all'accordo di estensione della normativa dell'Unione europea in materia, fra l'altro, di circolazione delle merci, dei servizi e dei capitali agli Stati appartenenti all'Associazione europea di libero scambio firmato ad Oporto il 2 maggio 1992 e ratificato con [legge 28 luglio 1993, n. 300](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellaccordo%20sullo%20Spazio%20economico%20europeo%20con%20protocolli%20allegati%20e%20dichiarazioni%20fatto%20a%20Oporto%20il%202%20maggio%201992%20e%20del%20protocollo%20di%20adattamento%20di%20detto%20accordo%20_e276372f7d8a.md);
+                            "Stato aderente allo Spazio economico europeo": uno Stato aderente all'accordo di estensione della normativa dell'Unione europea in materia, fra l'altro, di circolazione delle merci, dei servizi e dei capitali agli Stati appartenenti all'Associazione europea di libero scambio firmato ad Oporto il 2 maggio 1992 e ratificato con [legge 28 luglio 1993, n. 300](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20sullo%20Spazio%20economico%20europeo%20con%20protocolli%20allegati%20e%20dichiarazioni%20fatto%20a%20Oporto%20il%202%20maggio%201992%20e%20del%20protocollo%20di%20adattamento%20di%20detto%20accordo%20_e276372f7d8a.md);
                         c-quaterdecies)
                             "attivita' transfrontaliera": l'attivita' che comporta la gestione di uno schema pensionistico in cui il rapporto tra impresa promotrice e gli aderenti e i beneficiari e' disciplinato dal diritto della sicurezza sociale e del lavoro pertinente in materia di schemi pensionistici aziendali o professionali di uno Stato membro diverso dallo Stato membro di origine;
                         c-quinquiesdecies)
@@ -176,7 +176,7 @@ L'esercizio dell'attivita' dei fondi pensione di cui all'articolo 3, comma 1, le
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 5.
 
@@ -311,19 +311,19 @@ Ai componenti dell'organo di controllo di cui al comma 1, si applicano gli [arti
 
 9.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 10.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 11.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 12.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 ## Art. 5-bis. — (( (Funzioni fondamentali). ))
 
@@ -610,7 +610,7 @@ Alle prestazioni di cui all'articolo 11 erogate sotto forma di rendita i fondi p
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 5.
 
@@ -671,7 +671,7 @@ Con delibera della COVIP, assunta previo parere dell'autorita' di vigilanza sui 
 
 11.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 12.
 
@@ -683,9 +683,9 @@ I fondi non possono comunque assumere o concedere prestiti, prestare garanzie in
                         a)
                             in azioni o quote con diritto di voto, emesse da una stessa societa', per un valore nominale superiore al cinque per cento del valore nominale complessivo di tutte le azioni o quote con diritto di voto emesse dalla societa' medesima se quotata, ovvero al dieci per cento se non quotata, ne' comunque, azioni o quote con diritto di voto per un ammontare tale da determinare in via diretta un'influenza dominante sulla societa' emittente;
                         b)
-                            in azioni o quote emesse da soggetti tenuti alla contribuzione o da questi controllati direttamente o indirettamente, per interposta persona o tramite societa' fiduciaria, o agli stessi legati da rapporti di controllo ai sensi dell'[articolo 23 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_23), in misura complessiva superiore al venti per cento delle risorse del fondo e, se trattasi di fondo pensione di categoria, in misura complessiva superiore al trenta per cento;
+                            in azioni o quote emesse da soggetti tenuti alla contribuzione o da questi controllati direttamente o indirettamente, per interposta persona o tramite societa' fiduciaria, o agli stessi legati da rapporti di controllo ai sensi dell'[articolo 23 del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), in misura complessiva superiore al venti per cento delle risorse del fondo e, se trattasi di fondo pensione di categoria, in misura complessiva superiore al trenta per cento;
                         c)
-                            fermi restando i limiti generali indicati alla lettera b), i fondi pensione aventi come destinatari i lavoratori di una determinata impresa non possono investire le proprie disponibilita' in strumenti finanziari emessi dalla predetta impresa, o, allorche' l'impresa appartenga a un gruppo, dalle imprese appartenenti al gruppo medesimo, in misura complessivamente superiore, rispettivamente, al cinque e al dieci per cento del patrimonio complessivo del fondo. Per la nozione di gruppo si fa riferimento all'[articolo 23 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_23).
+                            fermi restando i limiti generali indicati alla lettera b), i fondi pensione aventi come destinatari i lavoratori di una determinata impresa non possono investire le proprie disponibilita' in strumenti finanziari emessi dalla predetta impresa, o, allorche' l'impresa appartenga a un gruppo, dalle imprese appartenenti al gruppo medesimo, in misura complessivamente superiore, rispettivamente, al cinque e al dieci per cento del patrimonio complessivo del fondo. Per la nozione di gruppo si fa riferimento all'[articolo 23 del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
                         c-bis)
                             ((il patrimonio del fondo pensione e' investito in misura prevalente in strumenti finanziari negoziati su mercati regolamentati, nonche' su sistemi multilaterali di negoziazione aventi i requisiti informativi e organizzativi definiti con decreto del Ministro dell'economia e delle finanze, da adottare entro novanta giorni dalla data di entrata in vigore della presente disposizione.
 Resta ferma la disciplina dei mercati recata dal testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58. Gli investimenti in attivita' che non sono ammesse allo scambio in un mercato regolamentato sono in ogni caso mantenuti a livelli prudenziali)).
@@ -1461,7 +1461,7 @@ Nel caso di vicende del fondo pensione capaci di incidere sull'equilibrio del fo
 
 5.
 
-Ai fondi pensione si applica esclusivamente la disciplina dell'amministrazione straordinaria e della liquidazione coatta amministrativa, con esclusione del fallimento, ai sensi degli articoli 70, e seguenti, del testo unico delle leggi in materia bancaria e creditizia di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni ed integrazioni, attribuendosi le relative competenze esclusivamente al Ministro del lavoro e delle politiche sociali ed alla COVIP.
+Ai fondi pensione si applica esclusivamente la disciplina dell'amministrazione straordinaria e della liquidazione coatta amministrativa, con esclusione del fallimento, ai sensi degli articoli 70, e seguenti, del testo unico delle leggi in materia bancaria e creditizia di cui al [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni ed integrazioni, attribuendosi le relative competenze esclusivamente al Ministro del lavoro e delle politiche sociali ed alla COVIP.
 
 ## Art. 15-bis. — (Operativita' all'estero delle forme pensionistiche complementari italiane)
 
@@ -1745,7 +1745,7 @@ Il [D.L. 29 dicembre 2010, n. 225](../DL%20proroghe/Proroga%20di%20termini%20pre
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 24) che "Le disposizioni dei commi da 13 a 23 esplicano effetto a decorrere dal 1° gennaio 2012."
+Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 24) che "Le disposizioni dei commi da 13 a 23 esplicano effetto a decorrere dal 1° gennaio 2012."
 
 -------------
 
@@ -2097,7 +2097,7 @@ L'accesso alle prestazioni per anzianita' e vecchiaia assicurate dalle forme pen
 
 6-bis.
 
-Le forme pensionistiche di cui al comma 1 istituite all'interno di enti o societa' diversi da quelli sottoposti, direttamente o in quanto facenti parte di un gruppo, a vigilanza in base alle disposizioni di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e al [decreto legislativo 7 settembre 2005, n. 209](Codice%20delle%20assicurazioni%20private.md), che risultino rivolte a soli pensionati, devono presentare alla COVIP, con cadenza triennale, documentazione idonea a dimostrare la sussistenza delle condizioni necessarie ad assicurare la continuita' nell'erogazione delle prestazioni. La COVIP verifica la sussistenza delle predette condizioni.
+Le forme pensionistiche di cui al comma 1 istituite all'interno di enti o societa' diversi da quelli sottoposti, direttamente o in quanto facenti parte di un gruppo, a vigilanza in base alle disposizioni di cui al [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e al [decreto legislativo 7 settembre 2005, n. 209](Codice%20delle%20assicurazioni%20private.md), che risultino rivolte a soli pensionati, devono presentare alla COVIP, con cadenza triennale, documentazione idonea a dimostrare la sussistenza delle condizioni necessarie ad assicurare la continuita' nell'erogazione delle prestazioni. La COVIP verifica la sussistenza delle predette condizioni.
 
 ))
 

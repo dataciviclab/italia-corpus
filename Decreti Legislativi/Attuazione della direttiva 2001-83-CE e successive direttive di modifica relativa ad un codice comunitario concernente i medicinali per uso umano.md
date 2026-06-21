@@ -1052,7 +1052,7 @@ Dopo l'espletamento della procedura di cui agli [articoli 32](https://www.normat
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 4 marzo 2014, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20paragrafi%201%205%20e%2012%20della%20direttiva%202012-26-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20per%20quanto%20riguarda%20la%20farmacovigilanza.%2014G00053.md) ha disposto (con l'art. 1, comma 2) che "Dalla data di entrata in vigore del decreto di cui all'[articolo 1, comma 344, della legge 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), e' abrogato l'[articolo 46 del decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md)".
+Il [D.Lgs. 4 marzo 2014, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20paragrafi%201%205%20e%2012%20della%20direttiva%202012-26-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20per%20quanto%20riguarda%20la%20farmacovigilanza.%2014G00053.md) ha disposto (con l'art. 1, comma 2) che "Dalla data di entrata in vigore del decreto di cui all'[articolo 1, comma 344, della legge 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), e' abrogato l'[articolo 46 del decreto legislativo 24 aprile 2006, n. 219](Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md)".
 
 ### Art. 47. — Variazioni delle autorizzazioni di mutuo riconoscimento e decentrate
 
@@ -1200,7 +1200,7 @@ Le prescrizioni di cui al comma 2, lettera b), non si applicano se il paese espo
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 19 febbraio 2014, n. 17](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni necessarie per conformarsi all'articolo 1, comma 1, numero 6), limitatamente all'articolo 51-ter, e numeri 7, 13 e 14, del presente decreto, si applicano al piu' tardi sei anni dopo la data di applicazione degli atti delegati di cui all'[articolo 54-bis della direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83)."
+Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni necessarie per conformarsi all'articolo 1, comma 1, numero 6), limitatamente all'articolo 51-ter, e numeri 7, 13 e 14, del presente decreto, si applicano al piu' tardi sei anni dopo la data di applicazione degli atti delegati di cui all'[articolo 54-bis della direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83)."
 
 ### Art. 51-ter. — (( (Bollini farmaceutici o identificativi univoci). ))
 
@@ -1290,7 +1290,7 @@ La persona qualificata e' coadiuvata almeno dal personale qualificato previsto d
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 19 febbraio 2014, n. 17](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni necessarie per conformarsi all'articolo 1, comma 1, numero 6), limitatamente all'articolo 51-ter, e numeri 7, 13 e 14, del presente decreto, si applicano al piu' tardi sei anni dopo la data di applicazione degli atti delegati di cui all'[articolo 54-bis della direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83)."
+Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni necessarie per conformarsi all'articolo 1, comma 1, numero 6), limitatamente all'articolo 51-ter, e numeri 7, 13 e 14, del presente decreto, si applicano al piu' tardi sei anni dopo la data di applicazione degli atti delegati di cui all'[articolo 54-bis della direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83)."
 
 ---------------
 
@@ -1354,7 +1354,7 @@ In via transitoria, fino alla data di validita' del certificato GMP (Good Manufa
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 19 febbraio 2014, n. 17](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 3) che "Relativamente all'articolo 1, comma 1, numero 8), del presente decreto, i produttori e importatori di sostanze attive, che hanno iniziato la loro attivita' prima dell'entrata in vigore del presente decreto, presentano il modulo di registrazione di cui all'[articolo 52-bis del decreto legislativo n. 219 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;219#art_52bis), quale inserito dal presente decreto, entro due mesi dalla suddetta entrata in vigore".
+Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 3) che "Relativamente all'articolo 1, comma 1, numero 8), del presente decreto, i produttori e importatori di sostanze attive, che hanno iniziato la loro attivita' prima dell'entrata in vigore del presente decreto, presentano il modulo di registrazione di cui all'[articolo 52-bis del decreto legislativo n. 219 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;219#art_52bis), quale inserito dal presente decreto, entro due mesi dalla suddetta entrata in vigore".
 
 ### Art. 52-ter. — (( (Controlli su medicinali in transito).))
 
@@ -1365,7 +1365,7 @@ Il [D.Lgs. 19 febbraio 2014, n. 17](../Atti%20di%20recepimento%20direttive%20UE/
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 19 febbraio 2014, n. 17](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 3) che "Relativamente all'articolo 1, comma 1, numero 8), del presente decreto, i produttori e importatori di sostanze attive, che hanno iniziato la loro attivita' prima dell'entrata in vigore del presente decreto, presentano il modulo di registrazione di cui all'[articolo 52-bis del decreto legislativo n. 219 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;219#art_52bis), quale inserito dal presente decreto, entro due mesi dalla suddetta entrata in vigore."
+Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 3) che "Relativamente all'articolo 1, comma 1, numero 8), del presente decreto, i produttori e importatori di sostanze attive, che hanno iniziato la loro attivita' prima dell'entrata in vigore del presente decreto, presentano il modulo di registrazione di cui all'[articolo 52-bis del decreto legislativo n. 219 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;219#art_52bis), quale inserito dal presente decreto, entro due mesi dalla suddetta entrata in vigore."
 
 ### Art. 53. — Accertamenti sulla produzione di medicinali, sostanze attive ed eccipienti
 
@@ -1497,11 +1497,11 @@ Le disposizioni degli articoli 50, 51, 52 e 53 disciplinano anche l'esecuzione d
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 19 FEBBRAIO 2014, N. 17](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md).
+COMMA ABROGATO DAL [D.LGS. 19 FEBBRAIO 2014, N. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md).
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 19 FEBBRAIO 2014, N. 17](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md).
+COMMA ABROGATO DAL [D.LGS. 19 FEBBRAIO 2014, N. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md).
 
 3-bis.
 
@@ -1796,7 +1796,7 @@ L'AIFA assicura il rispetto delle indicazioni dettagliate previste dall'[articol
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 19 febbraio 2014, n. 17](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni necessarie per conformarsi all'articolo 1, comma 1, numero 6), limitatamente all'articolo 51-ter, e numeri 7, 13 e 14, del presente decreto, si applicano al piu' tardi sei anni dopo la data di applicazione degli atti delegati di cui all'[articolo 54-bis della direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83)".
+Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni necessarie per conformarsi all'articolo 1, comma 1, numero 6), limitatamente all'articolo 51-ter, e numeri 7, 13 e 14, del presente decreto, si applicano al piu' tardi sei anni dopo la data di applicazione degli atti delegati di cui all'[articolo 54-bis della direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83)".
 
 ---------------
 
@@ -1833,7 +1833,7 @@ Ai fini della sicurezza dei pazienti, l'ambito di applicazione del sistema di pr
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 19 febbraio 2014, n. 17](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni necessarie per conformarsi all'articolo 1, comma 1, numero 6), limitatamente all'articolo 51-ter, e numeri 7, 13 e 14, del presente decreto, si applicano al piu' tardi sei anni dopo la data di applicazione degli atti delegati di cui all'[articolo 54-bis della direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83)".
+Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni necessarie per conformarsi all'articolo 1, comma 1, numero 6), limitatamente all'articolo 51-ter, e numeri 7, 13 e 14, del presente decreto, si applicano al piu' tardi sei anni dopo la data di applicazione degli atti delegati di cui all'[articolo 54-bis della direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83)".
 
 ---------------
 
@@ -2641,7 +2641,7 @@ Qualsiasi modifica che possa incidere sulla qualita' o sulla sicurezza delle sos
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 19 febbraio 2014, n. 17](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 4) che "Relativamente all'articolo 1, comma 1, numero 21), del presente decreto, i distributori di sostanze attive, che hanno iniziato la loro attivita' prima dell'entrata in vigore del presente decreto, presentano il modulo di registrazione di cui all'[articolo 108-bis, del decreto legislativo n. 219 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;219#art_108bis), quale inserito dal presente decreto, entro due mesi dalla suddetta entrata in vigore".
+Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 4) che "Relativamente all'articolo 1, comma 1, numero 21), del presente decreto, i distributori di sostanze attive, che hanno iniziato la loro attivita' prima dell'entrata in vigore del presente decreto, presentano il modulo di registrazione di cui all'[articolo 108-bis, del decreto legislativo n. 219 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;219#art_108bis), quale inserito dal presente decreto, entro due mesi dalla suddetta entrata in vigore".
 
 ### Art. 109. — Ispezioni del Ministero della salute e AIFA
 
@@ -2733,7 +2733,7 @@ Il presente articolo fa salvi gli articoli 53, 109 e quanto previsto dall'[artic
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 19 febbraio 2014, n. 17](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 5) che "Relativamente all'articolo 1, comma 1, numero 25), secondo capoverso, i broker di medicinali che hanno iniziato la loro attivita' prima dell'entrata in vigore del presente decreto, effettuano la registrazione presso il Ministero della salute di cui all'[articolo 112-ter del decreto legislativo n.219 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;219#art_112ter), quale inserito dal presente decreto, entro due mesi dalla suddetta entrata in vigore;".
+Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 5) che "Relativamente all'articolo 1, comma 1, numero 25), secondo capoverso, i broker di medicinali che hanno iniziato la loro attivita' prima dell'entrata in vigore del presente decreto, effettuano la registrazione presso il Ministero della salute di cui all'[articolo 112-ter del decreto legislativo n.219 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;219#art_112ter), quale inserito dal presente decreto, entro due mesi dalla suddetta entrata in vigore;".
 
 ## VENDITA A DISTANZA AL PUBBLICO))
 
@@ -2806,7 +2806,7 @@ Il Ministero della salute, nell'ambito delle risorse disponibili a legislazione 
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 19 febbraio 2014, n. 17](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 6) che "Le disposizioni necessarie al rispetto dell'articolo 1, comma 1, numero 26), si applicano al piu' tardi un anno dopo la data di pubblicazione degli atti di esecuzione di cui all'[articolo 85-quater, paragrafo 3, della direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83)".
+Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 6) che "Le disposizioni necessarie al rispetto dell'articolo 1, comma 1, numero 26), si applicano al piu' tardi un anno dopo la data di pubblicazione degli atti di esecuzione di cui all'[articolo 85-quater, paragrafo 3, della direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83)".
 
 ## PUBBLICITA'
 
@@ -3337,7 +3337,7 @@ Su proposta dell'AIFA, previa consultazione delle Associazioni dell'industria fa
 
 AGGIORNAMENTO (12)
 
-La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
 
 ### Art. 130. — Disposizioni concernenti il titolare dell'AIC
 
@@ -3394,7 +3394,7 @@ COMMA ABROGATO DAL [D.L. 13 SETTEMBRE 2012, N. 158](https://www.normattiva.it/ur
 
 AGGIORNAMENTO (12)
 
-La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
 
 ### Art. 131. — Responsabile del servizio di farmacovigilanza
 
@@ -3419,7 +3419,7 @@ Il responsabile del servizio di farmacovigilanza di cui al comma 4 dell'articolo
 
 AGGIORNAMENTO (12)
 
-La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
 
 ### Art. 132. — Obblighi a carico delle strutture e degli operatori sanitari e successivi adempimenti dell'AIFA
 
@@ -3464,7 +3464,7 @@ L'AIFA provvede affinche' tutte le segnalazioni di sospette reazioni avverse gra
 
 AGGIORNAMENTO (12)
 
-La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
 
 ### Art. 133. — Sospensione, revoca o modifica di una AIC per ragioni di farmacovigilanza
 
@@ -3489,7 +3489,7 @@ L'AIFA porta a conoscenza del pubblico, con i mezzi piu' opportuni, le decisioni
 
 AGGIORNAMENTO (12)
 
-La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
 
 ### Art. 134. — Accertamenti sull'osservanza delle norme di farmacovigilanza
 
@@ -3510,7 +3510,7 @@ Alle ispezioni previste dal presente articolo, si applica quanto disposto dai co
 
 AGGIORNAMENTO (12)
 
-La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
 
 ## DISPOSIZIONI SPECIALI SUI MEDICINALI DERIVATI DAL SANGUE O DAL PLASMA UMANI E SUI MEDICINALI IMMUNOLOGICI
 
@@ -3975,7 +3975,7 @@ L'inosservanza delle disposizioni previste per i responsabili di farmacovigilanz
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 19 febbraio 2014, n. 17](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 7) che "L'autorita' competente per l'applicazione delle sanzioni amministrative di cui all'[articolo 148 del decreto legislativo n. 219 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;219#art_148), e successive modificazioni, e' l'AIFA, fatta eccezione per le disposizioni di cui ai commi da 7 a 15".
+Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 7) che "L'autorita' competente per l'applicazione delle sanzioni amministrative di cui all'[articolo 148 del decreto legislativo n. 219 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;219#art_148), e successive modificazioni, e' l'AIFA, fatta eccezione per le disposizioni di cui ai commi da 7 a 15".
 
 ---------------
 
@@ -4206,7 +4206,7 @@ In caso di mancata corresponsione delle tariffe dovute, se per effetto di proced
 
 AGGIORNAMENTO (17)
 
-Il [D.L. 19 giugno 2015, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2015-06-19;78), convertito con modificazioni dalla [L. 6 agosto 2015, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20giugno%202015%20n.%2078%20recante%20disposizioni%20urgenti%20in%20materia%20di%20enti%20territoriali.%2015G00135.md) ha disposto (con l'art. 9-duodescies, comma 6) che "Il decreto del Ministro della salute di cui al [comma 12 dell'articolo 158 del decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md), come modificato dal comma 5 del presente articolo, e' adottato entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto ed e' applicabile dal mese successivo a quello della sua entrata in vigore".
+Il [D.L. 19 giugno 2015, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2015-06-19;78), convertito con modificazioni dalla [L. 6 agosto 2015, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20giugno%202015%20n.%2078%20recante%20disposizioni%20urgenti%20in%20materia%20di%20enti%20territoriali.%2015G00135.md) ha disposto (con l'art. 9-duodescies, comma 6) che "Il decreto del Ministro della salute di cui al [comma 12 dell'articolo 158 del decreto legislativo 24 aprile 2006, n. 219](Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md), come modificato dal comma 5 del presente articolo, e' adottato entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto ed e' applicabile dal mese successivo a quello della sua entrata in vigore".
 
 ### Art. 159. — Disposizioni finanziarie
 

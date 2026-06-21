@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a noi delegata;
 
-Visto il [R. Decreto 20 maggio 1928, n. 1195](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Maracalagonis%20Settimo%20San%20Pietro%20e%20Sinnai%20in%20un%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20Sinnai.%20028U1195.md);
+Visto il [R. Decreto 20 maggio 1928, n. 1195](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Maracalagonis%20Settimo%20San%20Pietro%20e%20Sinnai%20in%20un%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20Sinnai.%20028U1195.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,13 +28,13 @@ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Abb
 
 ## Art. 1.
 
-I comuni di Settimo S. Pietro e Maracalagonis, aggregati con [R. decreto 20 maggio 1928, n. 1195](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Maracalagonis%20Settimo%20San%20Pietro%20e%20Sinnai%20in%20un%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20Sinnai.%20028U1195.md), al comuni di Sinnai, sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
+I comuni di Settimo S. Pietro e Maracalagonis, aggregati con [R. decreto 20 maggio 1928, n. 1195](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Maracalagonis%20Settimo%20San%20Pietro%20e%20Sinnai%20in%20un%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20Sinnai.%20028U1195.md), al comuni di Sinnai, sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
  Il Prefetto di Cagliari, sentita la Giunta provincie amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i comuni di Settimo S. Pietro, Maracalagonis e Sinnai.
 
 ## Art. 2.
 
 Gli organici dei ricostituiti comuni di Settimo S. Pietro e Maracalagonis e quello del comune di Sinnai, sono stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa. 
- Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente a quelli organicamente assegnati ai comuni di Settimo S. Pietro, Maracalagonis e Sinnai anteriormente alla loro fusione disposta con [R. decreto 20 maggio 1928, n. 1195](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Maracalagonis%20Settimo%20San%20Pietro%20e%20Sinnai%20in%20un%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20Sinnai.%20028U1195.md). 
+ Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente a quelli organicamente assegnati ai comuni di Settimo S. Pietro, Maracalagonis e Sinnai anteriormente alla loro fusione disposta con [R. decreto 20 maggio 1928, n. 1195](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Maracalagonis%20Settimo%20San%20Pietro%20e%20Sinnai%20in%20un%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20Sinnai.%20028U1195.md). 
  Al personale gia' in servizio presso il comune di Sinnai che, eventualmente, sara' inquadrato nei predetti organici, non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti l'atto dell'inquadramnento medesimo.
 
 ## Art. 3.

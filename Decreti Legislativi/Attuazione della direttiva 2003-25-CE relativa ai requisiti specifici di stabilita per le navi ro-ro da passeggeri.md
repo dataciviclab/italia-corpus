@@ -94,9 +94,9 @@ Il presente decreto si applica a tutte le navi ro/ro da passeggeri che effettuan
 
 Prima di adibire una nave a servizi di linea in viaggi internazionali da o verso porti dello Stato, l'autorita' marittima accerta la conformita' ai requisiti del presente decreto:
                         a)
-                            durante le ispezioni di cui all'[articolo 19 del decreto legislativo 24 marzo 2011, n. 53](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-16-CE%20recante%20le%20norme%20internazionali%20per%20la%20sicurezza%20delle%20navi%20la%20prevenzione%20dellinquinamento%20e%20le%20condizioni%20di%20vita%20e%20di%20lavoro%20a%20bordo%20per%20le%20navi%20c_76d00427a6be.md), per le navi ro/ro da passeggeri battenti bandiera diversa da quella italiana;
+                            durante le ispezioni di cui all'[articolo 19 del decreto legislativo 24 marzo 2011, n. 53](Attuazione%20della%20direttiva%202009-16-CE%20recante%20le%20norme%20internazionali%20per%20la%20sicurezza%20delle%20navi%20la%20prevenzione%20dellinquinamento%20e%20le%20condizioni%20di%20vita%20e%20di%20lavoro%20a%20bordo%20per%20le%20navi%20c_76d00427a6be.md), per le navi ro/ro da passeggeri battenti bandiera diversa da quella italiana;
                         b)
-                            durante le ispezioni di cui all'[articolo 3 del decreto legislativo 22 aprile 2020, n. 37](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202017-2110%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20novembre%202017%20relativa%20ad%20un%20sistema%20di%20ispezioni%20per%20lesercizio%20in%20condizioni%20di%20sicurezza%20di%20navi%20r_6cf6badfbf03.md), per le navi ro/ro da passeggeri battenti bandiera italiana.
+                            durante le ispezioni di cui all'[articolo 3 del decreto legislativo 22 aprile 2020, n. 37](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202017-2110%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20novembre%202017%20relativa%20ad%20un%20sistema%20di%20ispezioni%20per%20lesercizio%20in%20condizioni%20di%20sicurezza%20di%20navi%20r_6cf6badfbf03.md), per le navi ro/ro da passeggeri battenti bandiera italiana.
 
 ))
 

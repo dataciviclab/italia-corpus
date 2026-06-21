@@ -562,7 +562,7 @@ La Sezione speciale istituita dall'[articolo 21 della legge 9 maggio 1975, n. 15
 
 2.
 
-L'ISMEA puo' concedere la propria garanzia a fronte di finanziamenti a breve, a medio ed a lungo termine concessi da banche, intermediari finanziari iscritti nell'elenco speciale di cui all'articolo 107 del testo unico delle leggi in materia bancaria e creditizia di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni, nonche' dagli altri soggetti autorizzati all'esercizio del credito agrario e destinati alle imprese operanti nel settore agricolo, agroalimentare e della pesca ((nonche' alle aziende e alle imprese agro-silvo-pastorali sorte in esecuzione della legge 16 giugno 1927, n. 1766, disciplinate dalla legge 20 novembre 2017, n. 168)). La garanzia puo' altresi' essere concessa anche a fronte di transazioni commerciali effettuate per le medesime destinazioni.
+L'ISMEA puo' concedere la propria garanzia a fronte di finanziamenti a breve, a medio ed a lungo termine concessi da banche, intermediari finanziari iscritti nell'elenco speciale di cui all'articolo 107 del testo unico delle leggi in materia bancaria e creditizia di cui al [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni, nonche' dagli altri soggetti autorizzati all'esercizio del credito agrario e destinati alle imprese operanti nel settore agricolo, agroalimentare e della pesca ((nonche' alle aziende e alle imprese agro-silvo-pastorali sorte in esecuzione della legge 16 giugno 1927, n. 1766, disciplinate dalla legge 20 novembre 2017, n. 168)). La garanzia puo' altresi' essere concessa anche a fronte di transazioni commerciali effettuate per le medesime destinazioni.
 
 2-bis.
 
@@ -570,7 +570,7 @@ La garanzia di cui al comma 2 puo' essere concessa anche a fronte di titoli di d
 
 3.
 
-Al fine di favorire l'accesso al mercato dei capitali da parte delle imprese di cui al comma 2, l'ISMEA puo' concedere garanzia diretta a banche e agli intermediari finanziari iscritti nell'elenco speciale di cui all'articolo 107 del testo unico delle leggi in materia bancaria e creditizia, approvato con [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni, a fronte di prestiti partecipativi e partecipazioni nel capitale delle imprese medesime, assunte da banche, da intermediari finanziari, nonche' da fondi chiusi di investimento mobiliari.
+Al fine di favorire l'accesso al mercato dei capitali da parte delle imprese di cui al comma 2, l'ISMEA puo' concedere garanzia diretta a banche e agli intermediari finanziari iscritti nell'elenco speciale di cui all'articolo 107 del testo unico delle leggi in materia bancaria e creditizia, approvato con [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni, a fronte di prestiti partecipativi e partecipazioni nel capitale delle imprese medesime, assunte da banche, da intermediari finanziari, nonche' da fondi chiusi di investimento mobiliari.
 
 4.
 
@@ -578,7 +578,7 @@ Per le medesime finalita' l'ISMEA potra' intervenire anche mediante rilascio di 
 
 4-bis.
 
-Le operazioni di credito agrario di cui all'articolo 43 del testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), devono essere assistite dalla garanzia mutualistica dell'ISMEA, salvo che per la quota di finanziamento assistita dalle garanzie di cui ai commi 2 e 4.
+Le operazioni di credito agrario di cui all'articolo 43 del testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), devono essere assistite dalla garanzia mutualistica dell'ISMEA, salvo che per la quota di finanziamento assistita dalle garanzie di cui ai commi 2 e 4.
 
 5.
 
@@ -600,7 +600,7 @@ A decorrere dalla data di entrata in vigore del decreto di cui al [comma 5, il d
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 27 maggio 2005, n. 101](Ulteriori%20disposizioni%20per%20la%20modernizzazione%20dei%20settori%20dellagricoltura%20e%20delle%20foreste%20a%20norma%20dellarticolo%201%20comma%202%20della%20legge%207%20marzo%202003%20n.%2038.md) ha disposto (con l'art. 5, comma 1) che "All'[articolo 17, comma 5, del decreto legislativo 29 marzo 2004, n. 102](Interventi%20finanziari%20a%20sostegno%20delle%20imprese%20agricole%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20i%20della%20legge%207%20marzo%202003%20n.%2038.md), dopo le parole: "dal presente articolo," sono inserite le seguenti: "nonche' quelle previste dall'[articolo 1, comma 512, della legge 30 dicembre 2004, n. 311](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md). In attuazione di quanto disposto dal predetto [articolo 1, comma 512, della legge n. 311 del 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004;311#art_1-com512), il Fondo interbancario di garanzia di cui all'[articolo 45 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_45), e' soppresso."".
+Il [D.Lgs. 27 maggio 2005, n. 101](Ulteriori%20disposizioni%20per%20la%20modernizzazione%20dei%20settori%20dellagricoltura%20e%20delle%20foreste%20a%20norma%20dellarticolo%201%20comma%202%20della%20legge%207%20marzo%202003%20n.%2038.md) ha disposto (con l'art. 5, comma 1) che "All'[articolo 17, comma 5, del decreto legislativo 29 marzo 2004, n. 102](Interventi%20finanziari%20a%20sostegno%20delle%20imprese%20agricole%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20i%20della%20legge%207%20marzo%202003%20n.%2038.md), dopo le parole: "dal presente articolo," sono inserite le seguenti: "nonche' quelle previste dall'[articolo 1, comma 512, della legge 30 dicembre 2004, n. 311](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md). In attuazione di quanto disposto dal predetto [articolo 1, comma 512, della legge n. 311 del 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004;311#art_1-com512), il Fondo interbancario di garanzia di cui all'[articolo 45 del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' soppresso."".
 
 ### Art. 18. — Altri interventi
 

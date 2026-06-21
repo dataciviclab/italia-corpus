@@ -69,7 +69,7 @@ Avvertenza:
  g) "ISVAP" indica l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo;
  h) "Stato comunitario" indica lo Stato membro dell'Unione europea;
  i) "Stato extracomunitario" indica lo Stato non appartenente all'Unione europea;
- l) "TUB" indica il testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385)»;
+ l) "TUB" indica il testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md)»;
  m) "TUF" indica il testo unico in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md);
  n) "[TULPS](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md)" indica il [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), di cui al [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
  o) "TUV" indica il testo unico delle norme in materia valutaria, di cui al [decreto del Presidente della Repubblica 31 marzo 1988, n. 148](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20di%20legge%20in%20materia%20valutaria.md).

@@ -52,7 +52,7 @@ Finalita' e ambito di applicazione
 
 Le disposizioni del presente decreto legislativo sono dirette:
                             a)
-                                a garantire un livello elevato di protezione della salute umana, soprattutto per i giovani e ad adempiere agli obblighi derivanti dalla [legge 18 marzo 2008, n. 75](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20quadro%20dellOrganizzazione%20mondiale%20della%20sanita%20-%20OMS%20-%20per%20la%20lotta%20al%20tabagismo%20fatta%20a%20Ginevra%20il%2021%20maggio%202003.md), di ratifica ed esecuzione della Convenzione quadro dell'OMS per la lotta al tabagismo (FCTC), nonche' ad ostacolare un eccesso di offerta e la diffusione del fumo tra i minori;
+                                a garantire un livello elevato di protezione della salute umana, soprattutto per i giovani e ad adempiere agli obblighi derivanti dalla [legge 18 marzo 2008, n. 75](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20Convenzione%20quadro%20dellOrganizzazione%20mondiale%20della%20sanita%20-%20OMS%20-%20per%20la%20lotta%20al%20tabagismo%20fatta%20a%20Ginevra%20il%2021%20maggio%202003.md), di ratifica ed esecuzione della Convenzione quadro dell'OMS per la lotta al tabagismo (FCTC), nonche' ad ostacolare un eccesso di offerta e la diffusione del fumo tra i minori;
                             b)
                                 ad agevolare il buon funzionamento del mercato interno dei prodotti del tabacco e dei prodotti correlati.
 
@@ -104,7 +104,7 @@ Avvertenza:
  - Il [decreto legislativo 24 giugno 2003, n. 184](Attuazione%20della%20direttiva%202001-37-CE%20in%20materia%20di%20lavorazione%20presentazione%20e%20vendita%20dei%20prodotti%20del%20tabacco.md) (Attuazione della [direttiva 2001/37/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;37) in materia di lavorazione, presentazione e vendita dei prodotti del tabacco) e' pubblicato nella Gazzetta Ufficiale 23 luglio 2003, n. 169. 
  
  Note all'[art. 1: 
- - La legge 18 marzo 2008 n. 75](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20quadro%20dellOrganizzazione%20mondiale%20della%20sanita%20-%20OMS%20-%20per%20la%20lotta%20al%20tabagismo%20fatta%20a%20Ginevra%20il%2021%20maggio%202003.md) (Ratifica ed esecuzione della Convenzione quadro dell'Organizzazione mondiale della sanita' - OMS - per la lotta al tabagismo, fatta a Ginevra il 21 maggio 2003 e' pubblicata nella Gazzetta Ufficiale del 17 aprile 2008, n. 91, S.O.
+ - La legge 18 marzo 2008 n. 75](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20Convenzione%20quadro%20dellOrganizzazione%20mondiale%20della%20sanita%20-%20OMS%20-%20per%20la%20lotta%20al%20tabagismo%20fatta%20a%20Ginevra%20il%2021%20maggio%202003.md) (Ratifica ed esecuzione della Convenzione quadro dell'Organizzazione mondiale della sanita' - OMS - per la lotta al tabagismo, fatta a Ginevra il 21 maggio 2003 e' pubblicata nella Gazzetta Ufficiale del 17 aprile 2008, n. 91, S.O.
 
 ### Art. 2. — Definizioni
 

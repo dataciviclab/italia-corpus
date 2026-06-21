@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 6 marzo 1992, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), di conversione, con modificazioni, del [decreto-legge 7 gennaio 1992, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5), ed in particolare l'art. 2;
+Vista la [legge 6 marzo 1992, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), di conversione, con modificazioni, del [decreto-legge 7 gennaio 1992, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5), ed in particolare l'art. 2;
 
 Vista la [legge 29 aprile 1995, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20procedure%20per%20la%20disciplina%20del%20rapporto%20dimpiego%20e%20per%20il%20riordino%20delle%20carriere%20delle%20attribuzioni%20e%20dei%20trattamenti%20economici%20delle%20Forze%20di%20polizia%20e%20_5f3cd1dee5c8.md);
 
@@ -215,10 +215,10 @@ Il [D.Lgs. 25 novembre 2022, n. 206](../Leggi%20delega%20e%20relativi%20provvedi
 
 1.
 
-Per il personale di cui all'art. 1, restano comunque riservate alla disciplina per legge, ovvero per atto normativo o amministrativo adottato in base alla legge, secondo l'ordinamento delle singole amministrazioni, le materie indicate dall'[art. 2, comma 4, della legge 6 marzo 1992, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md).
+Per il personale di cui all'art. 1, restano comunque riservate alla disciplina per legge, ovvero per atto normativo o amministrativo adottato in base alla legge, secondo l'ordinamento delle singole amministrazioni, le materie indicate dall'[art. 2, comma 4, della legge 6 marzo 1992, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md).
 
 Nota all'art. 6:
- - Il testo dell'[art. 2 della legge 6 marzo 1992, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), citata, e' riportato alla nota all'art. 3.
+ - Il testo dell'[art. 2 della legge 6 marzo 1992, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), citata, e' riportato alla nota all'art. 3.
 
 ## Art. 7. — Procedimento
 

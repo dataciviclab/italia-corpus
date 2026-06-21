@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [testo unico delle disposizioni sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, approvato con [R. decreto 28 aprile 1938, n. 1165](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulledilizia%20popolare%20ed%20economica.%20038U1165.md);
 
-Visto l'[art. 38 del decreto legislativo Luogotenenziale 12 ottobre 1945, n. 669](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), concernente la disciplina delle locazioni degli immobili urbani;
+Visto l'[art. 38 del decreto legislativo Luogotenenziale 12 ottobre 1945, n. 669](Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), concernente la disciplina delle locazioni degli immobili urbani;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

@@ -26,7 +26,7 @@ A carico del bilancio dello Stato e' stanziato un secondo fondo di lire un milia
 
 ## Art. 2.
 
-Il fondo di cui all'art. 1 e' gestito dall'Alto Commissariato per l'igiene e la sanita' pubblica secondo le disposizioni stabilite dal [decreto legislativo luogotenenziale 5 marzo 1946, n. 101](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvidenze%20per%20lassistenza%20antitubercolare.md).
+Il fondo di cui all'art. 1 e' gestito dall'Alto Commissariato per l'igiene e la sanita' pubblica secondo le disposizioni stabilite dal [decreto legislativo luogotenenziale 5 marzo 1946, n. 101](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20per%20lassistenza%20antitubercolare.md).
 
 ## Art. 3.
 

@@ -230,11 +230,11 @@ Sono fatte salve le disposizioni di cui al [regio decreto 28 marzo 1929, n. 499]
 
 ## Art. 7.
 
-Modificazioni all'[articolo 39 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_39)
+Modificazioni all'[articolo 39 del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md)
 
 1.
 
-All'articolo 39 del testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni, sono apportate le seguenti modificazioni:
+All'articolo 39 del testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni, sono apportate le seguenti modificazioni:
                         a)
                             Il comma 6 e' sostituito dal seguente:
  «6. In caso di edificio o complesso condominiale per il quale puo' ottenersi l'accatastamento delle singole porzioni che lo costituiscono, ancorche' in corso di costruzione, il debitore, il terzo acquirente, il promissario acquirente o l'assegnatario del bene ipotecato o di parte dello stesso, questi ultimi limitatamente alla porzione immobiliare da essi acquistata o promessa in acquisto o in assegnazione, hanno diritto alla suddivisione del finanziamento in quote e, correlativamente, al frazionamento dell'ipoteca a garanzia.»;
@@ -245,7 +245,7 @@ All'articolo 39 del testo unico delle leggi in materia bancaria e creditizia, di
  6-quater. Salvo diverso accordo delle parti, la durata dell'ammortamento e' pari a quella originariamente fissata nel contratto di mutuo e l'ammortamento stesso e' regolato al tasso di interesse determinato in base ai criteri di individuazione per il periodo di preammortamento immediatamente precedente. Il responsabile del competente Ufficio del territorio annota a margine dell'iscrizione ipotecaria il frazionamento del finanziamento e della relativa ipoteca, l'inizio e la durata dell'ammortamento ed il tasso relativo.».
 
 Note all'art. 7:
- - Si riporta il testo dell'art. 39 del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal decreto legislativo qui pubblicato:
+ - Si riporta il testo dell'art. 39 del citato [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal decreto legislativo qui pubblicato:
  «Art. 39 (Ipoteche). - 1. Ai fini dell'iscrizione ipotecaria le banche possono eleggere domicilio presso la propria sede.
  2. Quando la stipulazione del contratto e l'erogazione del denaro formino oggetto di atti separati, il conservatore dei registri immobiliari, in base alla quietanza rilasciata dal beneficiario del finanziamento, esegue, a margine dell'iscrizione gia' presa, l'annotazione dell'avvenuto pagamento e dell'eventuale variazione degli interessi convenuta dalle parti; in tal caso l'ipoteca iscritta fa collocare nello stesso grado gli interessi nella misura risultante dall'annotazione stessa.
  3. Il credito della banca relativo a finanziamenti con clausole di indicizzazione e' garantito dall'ipoteca iscritta fino a concorrenza dell'importo effettivamente dovuto per effetto dell'applicazione di dette clausole.
@@ -493,7 +493,7 @@ Con decreto del Ministero della giustizia, di concerto con il Ministro dell'econ
 
 AGGIORNAMENTO (1)
 
-Il [D.L. 28 dicembre 2006, n. 300](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20diverse.md), convertito con modificazioni dalla [L. 26 febbraio 2007, n. 17](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202006%20n.%20300%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Disposizioni%20di%20delegazione%20legislativa.md), ha disposto (con l'art. 6 comma 7-bis) che "Il termine di cui al [comma 1 dell'articolo 18 del decreto legislativo 20 giugno 2005, n. 122](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20tutela%20dei%20diritti%20patrimoniali%20degli%20acquirenti%20di%20immobili%20da%20costruire%20a%20norma%20della%20legge%202%20agosto%202004%20n.%20210.md), relativo alla domanda di accesso alle prestazioni del Fondo di solidarieta' per gli acquirenti di beni immobili da costruire, e' differito al 31 dicembre 2007".
+Il [D.L. 28 dicembre 2006, n. 300](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20diverse.md), convertito con modificazioni dalla [L. 26 febbraio 2007, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202006%20n.%20300%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Disposizioni%20di%20delegazione%20legislativa.md), ha disposto (con l'art. 6 comma 7-bis) che "Il termine di cui al [comma 1 dell'articolo 18 del decreto legislativo 20 giugno 2005, n. 122](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20tutela%20dei%20diritti%20patrimoniali%20degli%20acquirenti%20di%20immobili%20da%20costruire%20a%20norma%20della%20legge%202%20agosto%202004%20n.%20210.md), relativo alla domanda di accesso alle prestazioni del Fondo di solidarieta' per gli acquirenti di beni immobili da costruire, e' differito al 31 dicembre 2007".
 
 ---------------
 

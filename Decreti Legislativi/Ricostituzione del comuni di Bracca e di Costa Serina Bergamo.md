@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-I comuni di Bracca e di Costa Sedina, fusi in unico comune denominato Algua di Costa, Serina col [regio decreto 6 ottobre 1927, n. 1997](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Costa%20di%20Serina%20Frerola%20Rigosa%20e%20Bracca%20in%20un%20unico%20Comune%20denominato%20Algua%20di%20Costa%20Serina.%20027U1997.md), sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
+I comuni di Bracca e di Costa Sedina, fusi in unico comune denominato Algua di Costa, Serina col [regio decreto 6 ottobre 1927, n. 1997](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Costa%20di%20Serina%20Frerola%20Rigosa%20e%20Bracca%20in%20un%20unico%20Comune%20denominato%20Algua%20di%20Costa%20Serina.%20027U1997.md), sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Bergamo, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni interessati.
 
 ## Art. 2.

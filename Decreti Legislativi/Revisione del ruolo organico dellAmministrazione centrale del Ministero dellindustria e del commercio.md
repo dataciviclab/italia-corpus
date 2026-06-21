@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-I ruoli organici del personale civile del cessato Ministero della produzione bellica, di cui alle tabelle B, C, D, E, annesse al [regio decreto 12 gennaio 1942, n. 213](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20del%20Sottosegretariato%20di%20Stato%20per%20le%20fabbricazioni%20di%20guerra.%20042U0213.md), attribuiti al Ministero dell'industria e del commercio con il [decreto luogotenenziale 22 novembre 1945, n. 830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-22;830), sono soppressi.
+I ruoli organici del personale civile del cessato Ministero della produzione bellica, di cui alle tabelle B, C, D, E, annesse al [regio decreto 12 gennaio 1942, n. 213](../Regi%20decreti/Ordinamento%20del%20Sottosegretariato%20di%20Stato%20per%20le%20fabbricazioni%20di%20guerra.%20042U0213.md), attribuiti al Ministero dell'industria e del commercio con il [decreto luogotenenziale 22 novembre 1945, n. 830](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-22;830), sono soppressi.
  Il personale dei gruppi A e C, attualmente appartenente ai predetti ruoli, e' collocato fino ad esaurimento nel ruolo transitorio di cui alla tabella II annessa al presente decreto, vistata dal Ministro per l'industria e per il commercio e dal Ministro per il tesoro.
 
 ## Art. 2.

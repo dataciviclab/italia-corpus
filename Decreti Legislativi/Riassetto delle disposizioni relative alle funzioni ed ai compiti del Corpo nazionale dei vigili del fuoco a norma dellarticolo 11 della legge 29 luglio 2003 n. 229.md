@@ -507,7 +507,7 @@ Nell'ambito di ciascuna Direzione regionale ((o interregionale)) dei vigili del 
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 26 GIUGNO 2015, N. 105](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202012-18-UE%20relativa%20al%20controllo%20del%20pericolo%20di%20incidenti%20rilevanti%20connessi%20con%20sostanze%20pericolose.%2015G00121.md).
+COMMA ABROGATO DAL [D.LGS. 26 GIUGNO 2015, N. 105](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202012-18-UE%20relativa%20al%20controllo%20del%20pericolo%20di%20incidenti%20rilevanti%20connessi%20con%20sostanze%20pericolose.%2015G00121.md).
 
 ((
 
@@ -523,7 +523,7 @@ Con decreto del Ministro dell'interno sono dettate le disposizioni relative alla
 
 1.
 
-Presso ciascuna direzione regionale o interregionale dei vigili del fuoco, del soccorso pubblico e della difesa civile opera, altresi', il Comitato tecnico regionale istituito dal [decreto legislativo 26 giugno 2015, n. 105](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202012-18-UE%20relativa%20al%20controllo%20del%20pericolo%20di%20incidenti%20rilevanti%20connessi%20con%20sostanze%20pericolose.%2015G00121.md).
+Presso ciascuna direzione regionale o interregionale dei vigili del fuoco, del soccorso pubblico e della difesa civile opera, altresi', il Comitato tecnico regionale istituito dal [decreto legislativo 26 giugno 2015, n. 105](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202012-18-UE%20relativa%20al%20controllo%20del%20pericolo%20di%20incidenti%20rilevanti%20connessi%20con%20sostanze%20pericolose.%2015G00121.md).
 
 ))
 
@@ -897,7 +897,7 @@ Sono e restano abrogate le seguenti disposizioni, fatti salvi gli effetti gia' p
                             a)
                                 [regio decreto-legge 10 ottobre 1935, n. 2472](../Atti%20normativi%20abrogati%20%28in%20originale%29/Organizzazione%20provinciale%20e%20coordinazione%20nazionale%20dei%20servizi%20pompieristici.%20035U2472.md);
                             b)
-                                [regio decreto 10 ottobre 1935, n. 1971](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20Disposizioni%20per%20la%20prevenzione%20e%20la%20estinzione%20degli%20incendi%20a%20bordo%20delle%20navi%20mercantili.%20035U1971.md);
+                                [regio decreto 10 ottobre 1935, n. 1971](../Regi%20decreti/Approvazione%20delle%20Disposizioni%20per%20la%20prevenzione%20e%20la%20estinzione%20degli%20incendi%20a%20bordo%20delle%20navi%20mercantili.%20035U1971.md);
                             c)
                                 [legge 10 aprile 1936, n. 833](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20ottobre%201935-XIII%20n.%202472%20relativo%20alla%20organizzazione%20provinciale%20ed%20alla%20coordinazione%20nazionale%20dei%20servizi%20pompieristici.%20036U0833.md); [regio decreto 16 aprile 1940, n. 454](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-04-16;454);
                             d)
@@ -906,9 +906,9 @@ Sono e restano abrogate le seguenti disposizioni, fatti salvi gli effetti gia' p
                             e)
                                 [regio decreto 16 marzo 1942, n. 699](../Regi%20decreti/Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md), ad eccezione degli articoli da 62 a 72 limitatamente alle parti ancora in vigore e fino all'emanazione del regolamento di cui all'articolo 32;
                             f)
-                                [regio decreto 16 marzo 1942, n. 702](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20il%20personale%20dei%20ruoli%20statali%20dei%20servizi%20antincendi.%20042U0702.md);
+                                [regio decreto 16 marzo 1942, n. 702](../Regi%20decreti/Regolamento%20per%20il%20personale%20dei%20ruoli%20statali%20dei%20servizi%20antincendi.%20042U0702.md);
                             g)
-                                [regio decreto 30 novembre 1942, n. 1502](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allordinamento%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U1502.md);
+                                [regio decreto 30 novembre 1942, n. 1502](../Regi%20decreti/Modificazioni%20allordinamento%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U1502.md);
                             h)
                                 [decreto legislativo C.P.S. 2 ottobre 1947, n. 1254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-10-02;1254);
                             i)

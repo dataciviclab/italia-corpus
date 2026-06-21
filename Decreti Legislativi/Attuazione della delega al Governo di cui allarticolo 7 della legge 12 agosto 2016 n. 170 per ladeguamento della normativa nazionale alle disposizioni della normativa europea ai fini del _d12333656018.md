@@ -641,15 +641,15 @@ Alla stessa sanzione di cui al comma 4 soggiace l'esportatore che non provvede a
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2025, N. 211](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202024-1226-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20aprile%202024%20relativa%20alla%20definizione%20dei%20reati%20e%20delle%20sanzioni%20per%20la%20violazione%20delle%20misure%20restr_6c9f41f0a34c.md).
+COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2025, N. 211](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202024-1226-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20aprile%202024%20relativa%20alla%20definizione%20dei%20reati%20e%20delle%20sanzioni%20per%20la%20violazione%20delle%20misure%20restr_6c9f41f0a34c.md).
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2025, N. 211](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202024-1226-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20aprile%202024%20relativa%20alla%20definizione%20dei%20reati%20e%20delle%20sanzioni%20per%20la%20violazione%20delle%20misure%20restr_6c9f41f0a34c.md).
+COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2025, N. 211](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202024-1226-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20aprile%202024%20relativa%20alla%20definizione%20dei%20reati%20e%20delle%20sanzioni%20per%20la%20violazione%20delle%20misure%20restr_6c9f41f0a34c.md).
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2025, N. 211](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202024-1226-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20aprile%202024%20relativa%20alla%20definizione%20dei%20reati%20e%20delle%20sanzioni%20per%20la%20violazione%20delle%20misure%20restr_6c9f41f0a34c.md).
+COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2025, N. 211](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202024-1226-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20aprile%202024%20relativa%20alla%20definizione%20dei%20reati%20e%20delle%20sanzioni%20per%20la%20violazione%20delle%20misure%20restr_6c9f41f0a34c.md).
 
 3-bis.
 
@@ -714,7 +714,7 @@ Dalla data di entrata in vigore del presente decreto sono abrogati:
                             il [decreto legislativo 14 maggio 2009, n. 64](Disciplina%20sanzionatoria%20per%20la%20violazione%20delle%20disposizioni%20del%20Regolamento%20CE%20n.%20423-2007%20concernente%20misure%20restrittive%20nei%20confronti%20dellIran.%2009G0076.md).
 
 Note all'[art. 23: 
- - Il decreto legislativo 9 aprile 2003, n. 96](Attuazione%20di%20talune%20disposizioni%20del%20regolamento%20CE%20n.%201334-2000%20che%20istituisce%20un%20regime%20comunitario%20di%20controllo%20delle%20esportazioni%20di%20prodotti%20e%20tecnologie%20a%20duplice%20uso%20nonche%20dellas_e8c720bc5d7a.md) (Attuazione di talune disposizioni del regolamento n. 1334/2000/CE che istituisce un regime comunitario di controllo delle esportazioni di prodotti e tecnologie a duplice uso, nonche' dell'assistenza tecnica destinata a fini militari, a norma dell'[articolo 50 della L. 1° marzo 2002, n. 39](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md)) e' pubblicato nella Gazzetta Ufficiale 5 maggio 2003, n. 102. 
+ - Il decreto legislativo 9 aprile 2003, n. 96](Attuazione%20di%20talune%20disposizioni%20del%20regolamento%20CE%20n.%201334-2000%20che%20istituisce%20un%20regime%20comunitario%20di%20controllo%20delle%20esportazioni%20di%20prodotti%20e%20tecnologie%20a%20duplice%20uso%20nonche%20dellas_e8c720bc5d7a.md) (Attuazione di talune disposizioni del regolamento n. 1334/2000/CE che istituisce un regime comunitario di controllo delle esportazioni di prodotti e tecnologie a duplice uso, nonche' dell'assistenza tecnica destinata a fini militari, a norma dell'[articolo 50 della L. 1° marzo 2002, n. 39](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md)) e' pubblicato nella Gazzetta Ufficiale 5 maggio 2003, n. 102. 
  - Il [decreto legislativo 12 gennaio 2007, n. 11](Disciplina%20sanzionatoria%20per%20la%20violazione%20delle%20disposizioni%20del%20regolamento%20CE%20n.%201236-2005%20concernente%20il%20commercio%20di%20determinate%20merci%20che%20potrebbero%20essere%20utilizzate%20per%20la%20pena%20di_1c55a4740ff0.md) (Disciplina sanzionatoria per la violazione delle disposizioni del regolamento (CE) n. 1236/2005, concernente il commercio di determinate merci che potrebbero essere utilizzate per la pena di morte, la tortura o altri trattamenti o pene crudeli, inumani o degradanti) e' pubblicato nella Gazzetta Ufficiale 16 febbraio 2007, n. 39. 
  - Il [decreto legislativo 14 maggio 2009, n. 64](Disciplina%20sanzionatoria%20per%20la%20violazione%20delle%20disposizioni%20del%20Regolamento%20CE%20n.%20423-2007%20concernente%20misure%20restrittive%20nei%20confronti%20dellIran.%2009G0076.md) (Disciplina sanzionatoria per la violazione delle disposizioni del Regolamento (CE) n. 423/2007, concernente misure restrittive nei confronti dell'Iran) e' pubblicato nella Gazzetta Ufficiale 17 giugno 2009, n. 138.
 

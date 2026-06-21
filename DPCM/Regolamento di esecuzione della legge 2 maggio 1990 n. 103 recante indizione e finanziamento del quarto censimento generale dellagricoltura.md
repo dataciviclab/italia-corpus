@@ -341,7 +341,7 @@ La notifica al pubblico degli obblighi e delle modalita' per la raccolta dei dat
 
 2.
 
-Il manifesto ufficiale e gli altri eventuali mezzi di informazione e propaganda forniti dall'ISTAT sono esenti dall'imposta di pubblicita' e dai diritti di affissione, ai sensi degli articoli 20, n. 9), e 34, n. 6), del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 639](../Atti%20normativi%20abrogati%20%28in%20originale%29/Imposta%20comunale%20sulle%20pubblicita%20e%20diritti%20sulle%20pubbliche%20affissioni.md).
+Il manifesto ufficiale e gli altri eventuali mezzi di informazione e propaganda forniti dall'ISTAT sono esenti dall'imposta di pubblicita' e dai diritti di affissione, ai sensi degli articoli 20, n. 9), e 34, n. 6), del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 639](../DPR/Imposta%20comunale%20sulle%20pubblicita%20e%20diritti%20sulle%20pubbliche%20affissioni.md).
 
 Nota all'art. 17:
  - Il testo degli articoli 20, n. 9) e 34, n. 6), del [D.P.R. n. 639/1972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;639) (Imposta comunale sulle pubblicita' e diritti sulle pubbliche affissioni) e' il seguente:

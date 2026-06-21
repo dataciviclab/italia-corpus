@@ -201,7 +201,7 @@ Avvertenza:
  - Si riporta il testo dell'[art. 1 del decreto legislativo 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), come modificato dal presente decreto:
  «Art. 1 (Definizioni). - 1. Nel presente decreto legislativo si intendono per:
  a) "[legge fallimentare](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267)": il [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), e successive modificazioni;
- b) "testo unico bancario" (testo unico bancario): il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni;
+ b) "testo unico bancario" (testo unico bancario): il [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni;
  c) "CONSOB": la Commissione nazionale per le societa' e la borsa;
  d) "ISVAP": l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo;
  e) "societa' di intermediazione mobiliare" (SIM): l'impresa, diversa dalle banche e dagli intermediari finanziari iscritti nell'elenco previsto dall'art. 107 del testo unico bancario, autorizzata a svolgere servizi o attivita' di investimento, avente sede legale e Direzione generale in Italia;

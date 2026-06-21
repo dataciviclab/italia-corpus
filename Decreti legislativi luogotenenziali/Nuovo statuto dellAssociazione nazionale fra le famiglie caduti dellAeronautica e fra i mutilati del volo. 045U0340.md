@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 27 ottobre 1937, n. 2226](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20ente%20morale%20dellAssociazione%20nazionale%20famiglie%20caduti%20dellAeronautica%20con%20sede%20in%20Roma.%20037U2226.md), che erige in ente morale l'Associazione nazionale famiglie caduti dell'Aeronautica;
+Visto il [R. decreto 27 ottobre 1937, n. 2226](../Regi%20decreti/Erezione%20in%20ente%20morale%20dellAssociazione%20nazionale%20famiglie%20caduti%20dellAeronautica%20con%20sede%20in%20Roma.%20037U2226.md), che erige in ente morale l'Associazione nazionale famiglie caduti dell'Aeronautica;
 
 Visto il [R. decreto 11 agosto 1939, n. 1629](../Regi%20decreti/Erezione%20in%20ente%20morale%20dellAssociazione%20nazionale%20famiglie%20caduti%20dellAeronautica.%20039U1629.md), concernente l'Associazione nazionale famiglie caduti dell'Aeronautica;
 

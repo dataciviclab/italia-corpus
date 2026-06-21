@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto il regolamento (CE) n. 1371/2007 del Parlamento europeo e del Consiglio, del 23 ottobre 2007, relativo ai diritti e agli obblighi dei passeggeri nel trasporto ferroviario, entrato in vigore il 3 dicembre 2009;
 
-Vista la [legge 15 dicembre 2011, n. 217](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202010.%2012G0001.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee, legge comunitaria 2010;
+Vista la [legge 15 dicembre 2011, n. 217](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202010.%2012G0001.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee, legge comunitaria 2010;
 
 Vista la [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), recante modifiche al sistema penale ed, in particolare, il capo I, sezioni I e II;
 

@@ -38,7 +38,7 @@ Il presente decreto definisce le misure di assistenza tra autorita' competenti n
 
 2.
 
-Il presente decreto lascia impregiudicati gli obblighi derivanti dalla Convenzione di Ginevra relativa allo statuto dei rifugiati, del 28 luglio 1951, ratificata con [legge 24 luglio 1954, n. 722](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20relativa%20allo%20statuto%20dei%20rifugiati%20firmata%20a%20Ginevra%20il%2028%20luglio%201951.md), dalle Convenzioni internazionali in materia di diritti dell'uomo e di liberta' fondamentali, nonche' dalle Convenzioni internazionali in materia di estradizione.
+Il presente decreto lascia impregiudicati gli obblighi derivanti dalla Convenzione di Ginevra relativa allo statuto dei rifugiati, del 28 luglio 1951, ratificata con [legge 24 luglio 1954, n. 722](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20Convenzione%20relativa%20allo%20statuto%20dei%20rifugiati%20firmata%20a%20Ginevra%20il%2028%20luglio%201951.md), dalle Convenzioni internazionali in materia di diritti dell'uomo e di liberta' fondamentali, nonche' dalle Convenzioni internazionali in materia di estradizione.
 
 Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, comma 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
@@ -98,7 +98,7 @@ Avvertenza:
  La [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), e' pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214, S.O.
  Note all'[art. 1:
  Per la direttiva 2003/110/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;110), vedi note alle premesse.
- La [legge 24 luglio 1954, n. 722](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20relativa%20allo%20statuto%20dei%20rifugiati%20firmata%20a%20Ginevra%20il%2028%20luglio%201951.md), e' pubblicata nella Gazzetta Ufficiale 27 agosto 1954, n. 196.
+ La [legge 24 luglio 1954, n. 722](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20Convenzione%20relativa%20allo%20statuto%20dei%20rifugiati%20firmata%20a%20Ginevra%20il%2028%20luglio%201951.md), e' pubblicata nella Gazzetta Ufficiale 27 agosto 1954, n. 196.
 
 ## Art. 2. — Definizioni
 

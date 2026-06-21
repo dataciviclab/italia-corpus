@@ -266,7 +266,7 @@ AGGIORNAMENTO (1)
 
  
 AGGIORNAMENTO (6) 
- Il [D.Lgs. 30 dicembre 1992, n. 503](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art. 1, comma 2) che il limite di eta' previsto per l'applicazione delle disposizioni contenute nel presente articolo, e' elevato fino al compimento del 65 anno.
+ Il [D.Lgs. 30 dicembre 1992, n. 503](../Decreti%20Legislativi/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art. 1, comma 2) che il limite di eta' previsto per l'applicazione delle disposizioni contenute nel presente articolo, e' elevato fino al compimento del 65 anno.
 
 ### Art. 7. — (Trattamenti pensionistici per le attivita' svolte all'estero e per i residenti all'estero)
 

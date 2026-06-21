@@ -24,7 +24,7 @@ A decorrere dal 1 settembre 1946 i salariati addetti alla vigilanza finanziaria,
 
 ## Art. 3.
 
-La tabella organica dei salariati, di cui al precedente art. 2, approvata con [regio decreto 8 gennaio 1931, n. 41](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20tabelle%20organiche%20dei%20salariati%20addetti%20ai%20servizi%20finanziari.%20031U0041.md), e', a decorrere dal 1 settembre 1946, sostituita dalla seguente:
+La tabella organica dei salariati, di cui al precedente art. 2, approvata con [regio decreto 8 gennaio 1931, n. 41](../Regi%20decreti/Nuove%20tabelle%20organiche%20dei%20salariati%20addetti%20ai%20servizi%20finanziari.%20031U0041.md), e', a decorrere dal 1 settembre 1946, sostituita dalla seguente:
 
 =====================================================================
                   |          |     1ª     |    2ª       |

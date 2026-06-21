@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il.[R. decreto 29 dicembre 1927, n. 2659](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Collinas%20e%20Villanovaforru%20in%20un%20unico%20Comune%20denominato%20Collinas.%20027U2659.md);
+Visto il.[R. decreto 29 dicembre 1927, n. 2659](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Collinas%20e%20Villanovaforru%20in%20un%20unico%20Comune%20denominato%20Collinas.%20027U2659.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,13 +28,13 @@ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Abb
 
 ## Art. 1.
 
-Il comune di Villanovaforru, aggregato con [R. decreto 29 dicembre 1927, n. 2659](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Collinas%20e%20Villanovaforru%20in%20un%20unico%20Comune%20denominato%20Collinas.%20027U2659.md), al comune di Collinas, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
+Il comune di Villanovaforru, aggregato con [R. decreto 29 dicembre 1927, n. 2659](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Collinas%20e%20Villanovaforru%20in%20un%20unico%20Comune%20denominato%20Collinas.%20027U2659.md), al comune di Collinas, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Cagliari, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i comuni di Collinas e Villanovaforru.
 
 ## Art. 2.
 
 L'organico del ricostituito comune di Villanovaforru e quello del comune di Collinas saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa.
- Il numero dei posti e i gradi relativi non potranno essere superiori a quelli organicamente assegnati ai Comuni suddetti anteriormente alla loro fusione disposta con [R. decreto 29 dicembre 1927, n. 2659](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Collinas%20e%20Villanovaforru%20in%20un%20unico%20Comune%20denominato%20Collinas.%20027U2659.md).
+ Il numero dei posti e i gradi relativi non potranno essere superiori a quelli organicamente assegnati ai Comuni suddetti anteriormente alla loro fusione disposta con [R. decreto 29 dicembre 1927, n. 2659](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Collinas%20e%20Villanovaforru%20in%20un%20unico%20Comune%20denominato%20Collinas.%20027U2659.md).
  Al personale gia' in servizio presso il comune di Collinas che eventualmente sara', inquadrato nei predetti organici, non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
 ## Art. 3.

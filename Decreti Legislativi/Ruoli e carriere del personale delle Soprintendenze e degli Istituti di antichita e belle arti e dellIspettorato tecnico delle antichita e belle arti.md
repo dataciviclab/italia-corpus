@@ -27,7 +27,7 @@ I ruoli del personale dei Monumenti, musei, gallerie e scavi di antichita', di c
 
 ## Art. 2.
 
-Nei posti di nuova istituzione indicati nella tabella A, allegata al presente decreto, sono assorbiti quelli in soprannumero previsti dall'[art. 45 del regio decreto 30 dicembre 1923, n. 3084](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), per i gradi di primo archivista e di primo assistente.
+Nei posti di nuova istituzione indicati nella tabella A, allegata al presente decreto, sono assorbiti quelli in soprannumero previsti dall'[art. 45 del regio decreto 30 dicembre 1923, n. 3084](../Regi%20decreti/Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), per i gradi di primo archivista e di primo assistente.
 
 ## Art. 3.
 
@@ -35,13 +35,13 @@ Al personale incaricato delle funzioni di economo la retribuzione annua spettant
 
 ## Art. 4.
 
-La tabella organica per l'Ispettorato centrale per le antichita' e belle arti, annessa al [regio decreto-legge 21 luglio 1938, n. 1096](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20ruoli%20dellAmministrazione%20centrale%20delleducazione%20nazionale.%20038U1096.md), modificato con il [regio decreto 13 agosto 1940, n. 1190](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20relative%20al%20servizio%20ispettivo%20tecnico%20ed%20amministrativo%20per%20listruzione%20musicale.%20040U1190.md), e' sostituita dalla tabella B, annessa al presente decreto e firmata dal Ministro proponente e da quello per il tesoro.
+La tabella organica per l'Ispettorato centrale per le antichita' e belle arti, annessa al [regio decreto-legge 21 luglio 1938, n. 1096](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20ruoli%20dellAmministrazione%20centrale%20delleducazione%20nazionale.%20038U1096.md), modificato con il [regio decreto 13 agosto 1940, n. 1190](../Regi%20decreti/Disposizioni%20relative%20al%20servizio%20ispettivo%20tecnico%20ed%20amministrativo%20per%20listruzione%20musicale.%20040U1190.md), e' sostituita dalla tabella B, annessa al presente decreto e firmata dal Ministro proponente e da quello per il tesoro.
 
 ## Art. 5.
 
 Le nomine ai posti di ispettore centrale di 2ª classe per le antichita' e belle arti sono conferite in seguito a concorso per titoli, riservato ai funzionari del ruolo direttivo delle Soprintendenze, se trattasi di posti di ispettore per le antichita' o per l'arte medioevale e moderna, ovvero ai direttori o professori di accademie, istituti e scuole di istruzione artistica, se trattasi di posti di ispettori per l'istruzione artistica.
  I concorrenti devono rivestire il grado 7° o, da almeno cinque anni, il grado 8°.
- Uno dei posti di ispettore centrale di 1ª classe rimane attribuito, ai sensi dell'[art. 1 del regio decreto 13 agosto 1940, n. 1190](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20relative%20al%20servizio%20ispettivo%20tecnico%20ed%20amministrativo%20per%20listruzione%20musicale.%20040U1190.md), alla categoria degli ispettori per l'istruzione musicale ed esso verra' conferito in seguito a concorso per titoli riservato ai direttori o insegnanti di composizione nei conservatori di musica.
+ Uno dei posti di ispettore centrale di 1ª classe rimane attribuito, ai sensi dell'[art. 1 del regio decreto 13 agosto 1940, n. 1190](../Regi%20decreti/Disposizioni%20relative%20al%20servizio%20ispettivo%20tecnico%20ed%20amministrativo%20per%20listruzione%20musicale.%20040U1190.md), alla categoria degli ispettori per l'istruzione musicale ed esso verra' conferito in seguito a concorso per titoli riservato ai direttori o insegnanti di composizione nei conservatori di musica.
  Nei bandi di concorso sara' specificato a quali categorie l'Amministrazione intende riservare il posto o i posti da ricoprire.
 
 ## Art. 6.
@@ -50,7 +50,7 @@ Il Ministro per la pubblica istruzione ha facolta' di disporre, per esigenze di 
 
 ## Art. 7.
 
-E' istituita una nuova tabella di operai permanenti, secondo i limiti numerici fissati nell'allegata tabella C, nella quale vanno inquadrati per primi gli attuali operai permanenti previsti dalla tabella n. 2, lettera B, n. 4, annessa al regolamento generale approvato con [regio decreto 31 dicembre 1924, n. 2262](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), e, successivamente, i salariati temporanei dell'Amministrazione delle antichita' e belle arti. Detto inquadramento sara' disposto con l'osservanza delle norme che verranno emanate ai sensi dell'art. 9, ultimo comma, del [decreto legislativo del Capo provvisorio dello Stato 12 dicembre 1946, n. 585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-12;585).
+E' istituita una nuova tabella di operai permanenti, secondo i limiti numerici fissati nell'allegata tabella C, nella quale vanno inquadrati per primi gli attuali operai permanenti previsti dalla tabella n. 2, lettera B, n. 4, annessa al regolamento generale approvato con [regio decreto 31 dicembre 1924, n. 2262](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md), e, successivamente, i salariati temporanei dell'Amministrazione delle antichita' e belle arti. Detto inquadramento sara' disposto con l'osservanza delle norme che verranno emanate ai sensi dell'art. 9, ultimo comma, del [decreto legislativo del Capo provvisorio dello Stato 12 dicembre 1946, n. 585](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-12;585).
 
 ## Art. 8.
 

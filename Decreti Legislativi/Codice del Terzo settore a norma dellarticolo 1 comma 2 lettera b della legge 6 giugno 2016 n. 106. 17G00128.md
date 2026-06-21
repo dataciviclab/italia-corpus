@@ -1976,7 +1976,7 @@ Titoli di solidarieta'
 
 1.
 
-Al fine di favorire il finanziamento ed il sostegno delle attivita' di cui all'articolo 5, svolte dagli enti del Terzo settore ((...)) iscritti al Registro di cui all'articolo 45, gli istituti di credito autorizzati ad operare in Italia, in osservanza delle previsioni del testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), di seguito «emittenti» o, singolarmente, l'«emittente», possono emettere specifici «titoli di solidarieta'», di seguito «titoli», su cui gli emittenti non applicano le commissioni di collocamento.
+Al fine di favorire il finanziamento ed il sostegno delle attivita' di cui all'articolo 5, svolte dagli enti del Terzo settore ((...)) iscritti al Registro di cui all'articolo 45, gli istituti di credito autorizzati ad operare in Italia, in osservanza delle previsioni del testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), di seguito «emittenti» o, singolarmente, l'«emittente», possono emettere specifici «titoli di solidarieta'», di seguito «titoli», su cui gli emittenti non applicano le commissioni di collocamento.
 
 2.
 
@@ -1984,7 +1984,7 @@ I titoli sono obbligazioni ed altri titoli di debito, non subordinati, non conve
 
 3.
 
-Per le obbligazioni e per gli altri titoli di debito restano ferme le disposizioni legislative e regolamentari in materia di strumenti finanziari di cui al [decreto legislativo 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e relative disposizioni attuative. Per i certificati di deposito consistenti in titoli individuali non negoziati nel mercato monetario restano ferme le disposizioni in materia di trasparenza bancaria dettate dal [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385).
+Per le obbligazioni e per gli altri titoli di debito restano ferme le disposizioni legislative e regolamentari in materia di strumenti finanziari di cui al [decreto legislativo 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e relative disposizioni attuative. Per i certificati di deposito consistenti in titoli individuali non negoziati nel mercato monetario restano ferme le disposizioni in materia di trasparenza bancaria dettate dal [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 4.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 6 marzo 1992, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), di conversione, con modificazioni, del [decreto-legge 7 gennaio 1992, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5), ed in particolare l'articolo 3;
+Vista la [legge 6 marzo 1992, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), di conversione, con modificazioni, del [decreto-legge 7 gennaio 1992, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5), ed in particolare l'articolo 3;
 
 Visto il [decreto legislativo 12 maggio 1995, n. 197](Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20della%20Polizia%20di%20Stato.md);
 

@@ -303,7 +303,7 @@ Il Ministero attua, conformemente alla normativa vigente, gli atti delegati, ado
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 9 luglio 2024, n. 100](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20allarticolo%20138%20del%20regolamento%20UE%202018-1139%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%204%20luglio%202018%20e%20alla%20direttiva%20UE%202022-2380_650a180e436a.md), ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
+Il [D.Lgs. 9 luglio 2024, n. 100](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20allarticolo%20138%20del%20regolamento%20UE%202018-1139%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%204%20luglio%202018%20e%20alla%20direttiva%20UE%202022-2380_650a180e436a.md), ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
 
 ### Art. 3-bis.
 
@@ -328,7 +328,7 @@ Il Ministero attua, conformemente alla normativa vigente, gli atti delegati, ado
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 9 luglio 2024, n. 100](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20allarticolo%20138%20del%20regolamento%20UE%202018-1139%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%204%20luglio%202018%20e%20alla%20direttiva%20UE%202022-2380_650a180e436a.md), ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
+Il [D.Lgs. 9 luglio 2024, n. 100](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20allarticolo%20138%20del%20regolamento%20UE%202018-1139%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%204%20luglio%202018%20e%20alla%20direttiva%20UE%202022-2380_650a180e436a.md), ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
 
 ### Art. 4.
 
@@ -485,7 +485,7 @@ I fabbricanti, a seguito di una richiesta motivata di un'autorita' nazionale com
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 9 luglio 2024, n. 100](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20allarticolo%20138%20del%20regolamento%20UE%202018-1139%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%204%20luglio%202018%20e%20alla%20direttiva%20UE%202022-2380_650a180e436a.md), ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
+Il [D.Lgs. 9 luglio 2024, n. 100](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20allarticolo%20138%20del%20regolamento%20UE%202018-1139%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%204%20luglio%202018%20e%20alla%20direttiva%20UE%202022-2380_650a180e436a.md), ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
 
 ### Art. 11. — Rappresentanti autorizzati
 
@@ -553,7 +553,7 @@ Cooperano con tale autorita', su sua richiesta, a qualsiasi azione intrapresa pe
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 9 luglio 2024, n. 100](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20allarticolo%20138%20del%20regolamento%20UE%202018-1139%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%204%20luglio%202018%20e%20alla%20direttiva%20UE%202022-2380_650a180e436a.md), ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
+Il [D.Lgs. 9 luglio 2024, n. 100](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20allarticolo%20138%20del%20regolamento%20UE%202018-1139%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%204%20luglio%202018%20e%20alla%20direttiva%20UE%202022-2380_650a180e436a.md), ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
 
 ### Art. 13. — Obblighi dei distributori
 
@@ -588,7 +588,7 @@ Cooperano con tale autorita', su sua richiesta, a qualsiasi azione intrapresa pe
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 9 luglio 2024, n. 100](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20allarticolo%20138%20del%20regolamento%20UE%202018-1139%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%204%20luglio%202018%20e%20alla%20direttiva%20UE%202022-2380_650a180e436a.md), ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
+Il [D.Lgs. 9 luglio 2024, n. 100](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20allarticolo%20138%20del%20regolamento%20UE%202018-1139%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%204%20luglio%202018%20e%20alla%20direttiva%20UE%202022-2380_650a180e436a.md), ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
 
 ### Art. 14. — Casi in cui gli obblighi dei fabbricanti si applicano 
  agli importatori e ai distributori
@@ -663,7 +663,7 @@ Se per la valutazione della conformita' delle apparecchiature radio ai requisiti
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 9 luglio 2024, n. 100](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20allarticolo%20138%20del%20regolamento%20UE%202018-1139%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%204%20luglio%202018%20e%20alla%20direttiva%20UE%202022-2380_650a180e436a.md), ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
+Il [D.Lgs. 9 luglio 2024, n. 100](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20allarticolo%20138%20del%20regolamento%20UE%202018-1139%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%204%20luglio%202018%20e%20alla%20direttiva%20UE%202022-2380_650a180e436a.md), ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
 
 ### Art. 18.
 
@@ -1133,7 +1133,7 @@ Qualora, entro tre mesi dal ricevimento delle informazioni di cui al comma 4, ul
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 9 luglio 2024, n. 100](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20allarticolo%20138%20del%20regolamento%20UE%202018-1139%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%204%20luglio%202018%20e%20alla%20direttiva%20UE%202022-2380_650a180e436a.md), ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
+Il [D.Lgs. 9 luglio 2024, n. 100](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20allarticolo%20138%20del%20regolamento%20UE%202018-1139%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%204%20luglio%202018%20e%20alla%20direttiva%20UE%202022-2380_650a180e436a.md), ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
 
 ### Art. 41. — Procedura di salvaguardia dell'Unione
 
@@ -1198,7 +1198,7 @@ Salvo quanto previsto dagli articoli 39 e 46, il Ministero ingiunge all'operator
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 9 luglio 2024, n. 100](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20allarticolo%20138%20del%20regolamento%20UE%202018-1139%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%204%20luglio%202018%20e%20alla%20direttiva%20UE%202022-2380_650a180e436a.md), ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
+Il [D.Lgs. 9 luglio 2024, n. 100](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20allarticolo%20138%20del%20regolamento%20UE%202018-1139%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%204%20luglio%202018%20e%20alla%20direttiva%20UE%202022-2380_650a180e436a.md), ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
 
 ## COMMISSIONE CONSULTIVA E COMITATO
 
@@ -1292,7 +1292,7 @@ Le sanzioni amministrative pecuniarie previste dal presente decreto sono rivalut
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 9 luglio 2024, n. 100](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20allarticolo%20138%20del%20regolamento%20UE%202018-1139%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%204%20luglio%202018%20e%20alla%20direttiva%20UE%202022-2380_650a180e436a.md), ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
+Il [D.Lgs. 9 luglio 2024, n. 100](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20allarticolo%20138%20del%20regolamento%20UE%202018-1139%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%204%20luglio%202018%20e%20alla%20direttiva%20UE%202022-2380_650a180e436a.md), ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
 
 ## DISPOSIZIONI TRANSITORIE E FINALI
 

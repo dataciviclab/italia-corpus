@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il [secondo comma dell'art. 1 del decreto legislativo luogotenenziale 1 febbraio 1945, n. 54](../Atti%20normativi%20abrogati%20%28in%20originale%29/Abrogazione%20dellart.%202%20del%20R.%20decreto%2011%20giugno%201936%20n.%201035%20e%20collocamento%20in%20ausiliaria%20dellammiraglio%20di%20armata%20Domenico%20Cavagnari.%20045U0054.md), e' sostituito dal seguente:
+Il [secondo comma dell'art. 1 del decreto legislativo luogotenenziale 1 febbraio 1945, n. 54](../Decreti%20legislativi%20luogotenenziali/Abrogazione%20dellart.%202%20del%20R.%20decreto%2011%20giugno%201936%20n.%201035%20e%20collocamento%20in%20ausiliaria%20dellammiraglio%20di%20armata%20Domenico%20Cavagnari.%20045U0054.md), e' sostituito dal seguente:
  "L'ammiraglio d'armata Cavagnari Domenico e', pertanto, collocato in ausiliaria, conservando ad personam il trattamento economico in godimento alla data di cessazione dal servizio permanente".
 
 ## Art. 2.

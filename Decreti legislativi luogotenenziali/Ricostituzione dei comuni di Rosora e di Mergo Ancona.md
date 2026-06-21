@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. Decreto 31 maggio 1928, n. 1515](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Mergo%20e%20Rosora%20in%20un%20unico%20Comune%20con%20capoluogo%20nella%20frazione%20Angeli%20e%20denominazione%20Rosora-Mergo.%20028U1515.md);
+Visto il [R. Decreto 31 maggio 1928, n. 1515](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Mergo%20e%20Rosora%20in%20un%20unico%20Comune%20con%20capoluogo%20nella%20frazione%20Angeli%20e%20denominazione%20Rosora-Mergo.%20028U1515.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -34,7 +34,7 @@ I comuni di Rosora e di Mergo, fusi in unico Comune denominato Rosora Mergo con 
 ## Art. 2.
 
 Gli organici dei ricostituiti comuni di Rosora e di Mergo saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa. 
- Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai comuni di Rosora e di Mergo anteriormente alla loro fusione disposta con [R. decreto 31 maggio 1928, n. 1515](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Mergo%20e%20Rosora%20in%20un%20unico%20Comune%20con%20capoluogo%20nella%20frazione%20Angeli%20e%20denominazione%20Rosora-Mergo.%20028U1515.md). 
+ Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai comuni di Rosora e di Mergo anteriormente alla loro fusione disposta con [R. decreto 31 maggio 1928, n. 1515](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Mergo%20e%20Rosora%20in%20un%20unico%20Comune%20con%20capoluogo%20nella%20frazione%20Angeli%20e%20denominazione%20Rosora-Mergo.%20028U1515.md). 
  Al personale gia' in servizio presso l'unico comune di Rosora Mergo, che sara' inquadrato nei predetti organici, non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
 ## Art. 3.

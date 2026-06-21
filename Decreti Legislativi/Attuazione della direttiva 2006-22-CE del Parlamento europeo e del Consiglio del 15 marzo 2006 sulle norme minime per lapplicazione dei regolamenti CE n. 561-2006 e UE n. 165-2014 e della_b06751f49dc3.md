@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 25 febbraio 2008, n. 34](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202007.md), recante disposizioni per l'adeguamento di obblighi derivanti dall'appartenenza dell'Italia all'Unione europea - legge comunitaria 2007 - ed in particolare l'articolo 1, commi 1 e 3, e l'allegato B;
+Vista la [legge 25 febbraio 2008, n. 34](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202007.md), recante disposizioni per l'adeguamento di obblighi derivanti dall'appartenenza dell'Italia all'Unione europea - legge comunitaria 2007 - ed in particolare l'articolo 1, commi 1 e 3, e l'allegato B;
 
 Visto il [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md), recante nuovo [codice della strada](Nuovo%20codice%20della%20strada.md), e successive modificazioni;
 

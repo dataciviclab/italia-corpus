@@ -134,7 +134,7 @@ La [L. 12 aprile 2019, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 AGGIORNAMENTO (12)
 
-Il [D.Lgs. 10 marzo 2023, n. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
+Il [D.Lgs. 10 marzo 2023, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
 
 ## Art. 4. — (Competenza territoriale delle sezioni).
 

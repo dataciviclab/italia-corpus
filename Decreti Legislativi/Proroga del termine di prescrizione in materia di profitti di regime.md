@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Articolo unico.
 
-E' prorogato al 30 giugno 1949 il termine stabilito nel [primo comma dell'art. 50 del decreto legislativo luogotenenziale 26 marzo 1946, n. 134](../Atti%20normativi%20abrogati%20%28in%20originale%29/Inquadramento%20nel%20sistema%20tributario%20dellavocazione%20dei%20profitti%20di%20regime.md), sull'inquadramento nel sistema tributario dell'avocazione dei profitti di regime.
+E' prorogato al 30 giugno 1949 il termine stabilito nel [primo comma dell'art. 50 del decreto legislativo luogotenenziale 26 marzo 1946, n. 134](../Decreti%20legislativi%20luogotenenziali/Inquadramento%20nel%20sistema%20tributario%20dellavocazione%20dei%20profitti%20di%20regime.md), sull'inquadramento nel sistema tributario dell'avocazione dei profitti di regime.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

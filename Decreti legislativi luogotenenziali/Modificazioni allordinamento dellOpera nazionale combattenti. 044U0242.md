@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [R. decreto-legge 16 settembre 1926, n. 1606](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20legislativo%20per%20lordinamento%20e%20le%20funzioni%20dellOpera%20nazionale%20per%20i%20combattenti.%20026U1606.md), concernente l'ordinamento e le funzioni dell'Opera nazionale combattenti, e il regolamento per la costituzione e il funzionamento dei Collegi arbitrali per l'Opera medesima, approvato con [R. decreto 16 settembre 1926, n. 1607](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20costituzione%20ed%20il%20funzionamento%20del%20Collegio%20centrale%20arbitrale%20e%20dei%20Collegi%20provinciali%20arbitrali%20per%20lOpera%20nazionale%20per%20i%20combattenti.%20026U1607.md), e le successive modificazioni ;
+Visto il [R. decreto-legge 16 settembre 1926, n. 1606](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20legislativo%20per%20lordinamento%20e%20le%20funzioni%20dellOpera%20nazionale%20per%20i%20combattenti.%20026U1606.md), concernente l'ordinamento e le funzioni dell'Opera nazionale combattenti, e il regolamento per la costituzione e il funzionamento dei Collegi arbitrali per l'Opera medesima, approvato con [R. decreto 16 settembre 1926, n. 1607](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20costituzione%20ed%20il%20funzionamento%20del%20Collegio%20centrale%20arbitrale%20e%20dei%20Collegi%20provinciali%20arbitrali%20per%20lOpera%20nazionale%20per%20i%20combattenti.%20026U1607.md), e le successive modificazioni ;
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -56,7 +56,7 @@ L'art. 30 R. del [R. decreto-legge 16 settembre 1926, numero 1606](../Atti%20nor
 
 ## Art. 4.
 
-Gli [articoli 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20costituzione%20ed%20il%20funzionamento%20del%20Collegio%20centrale%20arbitrale%20e%20dei%20Collegi%20provinciali%20arbitrali%20per%20lOpera%20nazionale%20per%20i%20combattenti.%20026U1607.md) e [17 del R. decreto 16 settembre 1926, n. 1607](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20costituzione%20ed%20il%20funzionamento%20del%20Collegio%20centrale%20arbitrale%20e%20dei%20Collegi%20provinciali%20arbitrali%20per%20lOpera%20nazionale%20per%20i%20combattenti.%20026U1607.md), sono sostituiti, rispettivamente, dalle disposizioni che seguono: 
+Gli [articoli 1](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20costituzione%20ed%20il%20funzionamento%20del%20Collegio%20centrale%20arbitrale%20e%20dei%20Collegi%20provinciali%20arbitrali%20per%20lOpera%20nazionale%20per%20i%20combattenti.%20026U1607.md) e [17 del R. decreto 16 settembre 1926, n. 1607](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20costituzione%20ed%20il%20funzionamento%20del%20Collegio%20centrale%20arbitrale%20e%20dei%20Collegi%20provinciali%20arbitrali%20per%20lOpera%20nazionale%20per%20i%20combattenti.%20026U1607.md), sono sostituiti, rispettivamente, dalle disposizioni che seguono: 
  
  «Art. 1. - Il Collegio centrale arbitrale di cui all'art. 30 del Regolamento legislativo per l'ordinamento e le funzioni dell'Opera nazionale per i combattenti, ha sede in Roma presso la Corte Suprema di cassazione. 
  

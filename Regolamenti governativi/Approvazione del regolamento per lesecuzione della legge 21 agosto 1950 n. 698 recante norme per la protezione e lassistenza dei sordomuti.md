@@ -91,7 +91,7 @@ L'Ente comprende le seguenti categorie di soci:
 
 Le cariche elettive dell'Ente, fatta eccezione soltanto per i collegi centrale e provinciali dei revisori, sono riservate ai soci effettivi sordomuti che abbiano raggiunto la maggiore eta'. 
  Non e' ammesso il cumulo delle cariche elettive in seno all'Ente. 
- Non sono eleggibili i soci effettivi che abbiano un rapporto di impiego con l'Ente e che si trovino in una delle cause di incapacita' di cui all'art. 8 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md). 
+ Non sono eleggibili i soci effettivi che abbiano un rapporto di impiego con l'Ente e che si trovino in una delle cause di incapacita' di cui all'art. 8 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md). 
  I membri del Consiglio d'amministrazione e dei Consigli provinciali prestano la loro opera gratuitamente, salvo il rimborso delle spese effettivamente sostenute negli incarichi del loro ufficio.
 
 ### Art. 7.

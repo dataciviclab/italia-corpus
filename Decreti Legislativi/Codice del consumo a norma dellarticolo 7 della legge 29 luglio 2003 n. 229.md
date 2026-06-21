@@ -20,7 +20,7 @@ Visto l'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.
 
 Vista la [legge 29 luglio 2003, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229), recante interventi urgenti in materia di qualita' della regolazione, riassetto normativo e semplificazione - legge di semplificazione per il 2001, ed in particolare l'articolo 7 che delega il Governo ad adottare uno o piu' decreti legislativi per il riassetto delle disposizioni vigenti in materia di tutela dei consumatori ai sensi e secondo i principi e i criteri direttivi di cui all'[articolo 20 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), come sostituito dall'articolo 1 della citata [legge n. 229 del 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003;229), e nel rispetto dei principi e dei criteri direttivi ivi richiamati;
 
-Visto l'[articolo 2 della legge 27 luglio 2004, n. 186](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20maggio%202004%20n.%20136%20recante%20disposizioni%20urgenti%20per%20garantire%20la%20funzionalita%20di%20taluni%20settori%20della%20pubblica%20amministrazione._7e8641cbc13d.md), di conversione, con modificazioni, del [decreto-legge 28 maggio 2004, n. 136, nonche' l'articolo 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-05-28;136#art_7) della [legge 27 dicembre 2004, n. 306](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20novembre%202004%20n.%20266%20recante%20proroga%20o%20differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Disposizioni%20di%20proroga%20di%20_0cc04a338fda.md);
+Visto l'[articolo 2 della legge 27 luglio 2004, n. 186](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20maggio%202004%20n.%20136%20recante%20disposizioni%20urgenti%20per%20garantire%20la%20funzionalita%20di%20taluni%20settori%20della%20pubblica%20amministrazione._7e8641cbc13d.md), di conversione, con modificazioni, del [decreto-legge 28 maggio 2004, n. 136, nonche' l'articolo 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-05-28;136#art_7) della [legge 27 dicembre 2004, n. 306](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20novembre%202004%20n.%20266%20recante%20proroga%20o%20differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Disposizioni%20di%20proroga%20di%20_0cc04a338fda.md);
 
 ((Visto il regolamento (UE) 2023/988 del Parlamento europeo e del Consiglio, del 10 maggio 2023, relativo alla sicurezza generale dei prodotti che modifica il regolamento (UE) n. 1025/2012 del Parlamento europeo e del Consiglio e la [direttiva (UE) 2020/1828 del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2020;1828), e che abroga la [direttiva 2001/95/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;95) e la [direttiva 87/357/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1987;357);))
 
@@ -32,11 +32,11 @@ Visto il [decreto legislativo 15 gennaio 1992, n. 50](Attuazione%20della%20diret
 
 Visto il [decreto legislativo 25 gennaio 1992, n. 74](Attuazione%20della%20direttiva%2084-450-CEE%20come%20modificata%20dalla%20direttiva%2097-55-CE%20in%20materia%20di%20pubblicita%20ingannevole%20e%20comparativa.md), recante attuazione della [direttiva 84/450/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1984;450) in materia di pubblicita' ingannevole;
 
-Visto il testo unico delle leggi in materia bancaria e creditizia di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dai [decreti legislativi 4 agosto 1999, n. 333, e 4 agosto 1999, n. 342](Modifiche%20al%20decreto%20legislativo%201%20settembre%201993%20n.%20385%20recante%20il%20testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
+Visto il testo unico delle leggi in materia bancaria e creditizia di cui al [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dai [decreti legislativi 4 agosto 1999, n. 333, e 4 agosto 1999, n. 342](Modifiche%20al%20decreto%20legislativo%201%20settembre%201993%20n.%20385%20recante%20il%20testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
 
 Visto il [decreto legislativo 17 marzo 1995, n. 111](Attuazione%20della%20direttiva%20n.%2090-314-CEE%20concernente%20i%20viaggi%20le%20vacanze%20ed%20i%20circuiti%20tutto%20compreso.md), recante attuazione della [direttiva 90/314/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;314) concernente i viaggi, le vacanze ed i circuiti tutto compreso;
 
-Vista la [legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), recante attuazione della [direttiva 93/13/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;13) concernente le clausole abusive nei contratti stipulati con i consumatori ed in particolare l'articolo 25, e successive modificazioni;
+Vista la [legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), recante attuazione della [direttiva 93/13/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;13) concernente le clausole abusive nei contratti stipulati con i consumatori ed in particolare l'articolo 25, e successive modificazioni;
 
 Visto il [decreto legislativo 31 marzo 1998, n. 114](Riforma%20della%20disciplina%20relativa%20al%20settore%20del%20commercio%20a%20norma%20dellarticolo%204%20comma%204%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante riforma della disciplina relativa al settore del commercio, ed in particolare gli articoli 18 e 19;
 
@@ -140,7 +140,7 @@ Ai fini del presente codice ove non diversamente previsto, si intende per:
 ----------------
  
 AGGIORNAMENTO (42) 
- Il [D.Lgs. 4 novembre 2021, n. 170](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
+ Il [D.Lgs. 4 novembre 2021, n. 170](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
 
 ## ((EDUCAZIONE, INFORMAZIONE, PRATICHE COMMERCIALI, PUBBLICITA')) - - Titolo I EDUCAZIONE DEL CONSUMATORE
 
@@ -200,7 +200,7 @@ I prodotti o le confezioni dei prodotti destinati al consumatore, commercializza
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 30 dicembre 2005, n. 273](../DL%20proroghe/Definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.md), convertito con modificazioni dalla [L. 23 febbraio 2006, n. 51](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202005%20n.%20273%20recante%20definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.%20Proroga%20di%20termini%20relat_8fa6bc6dddf9.md), ha disposto (con l'art. 31-bis) che "L'efficacia della disposizione di cui all'[articolo 6, comma 1, lettera c), del codice del consumo](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) di cui al [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), decorre dal 1° gennaio 2007 e, comunque, a partire dalla data di entrata in vigore del decreto di cui all'articolo 10 del predetto codice".
+Il [D.L. 30 dicembre 2005, n. 273](../DL%20proroghe/Definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.md), convertito con modificazioni dalla [L. 23 febbraio 2006, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202005%20n.%20273%20recante%20definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.%20Proroga%20di%20termini%20relat_8fa6bc6dddf9.md), ha disposto (con l'art. 31-bis) che "L'efficacia della disposizione di cui all'[articolo 6, comma 1, lettera c), del codice del consumo](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) di cui al [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), decorre dal 1° gennaio 2007 e, comunque, a partire dalla data di entrata in vigore del decreto di cui all'articolo 10 del predetto codice".
 
 ### Art. 7. — Modalita' di indicazione
 
@@ -247,7 +247,7 @@ Fino alla data di entrata in vigore del decreto di cui al comma 1, restano in vi
 
 AGGIORNAMENTO (25)
 
-Il [D.Lgs. 6 agosto 2015, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
+Il [D.Lgs. 6 agosto 2015, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
 
 ### Art. 11. — Divieti di commercializzazione
 
@@ -391,7 +391,7 @@ Il Ministro ((dello sviluppo economico)), con proprio decreto, puo' aggiornare l
 
 AGGIORNAMENTO (25)
 
-Il [D.Lgs. 6 agosto 2015, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
+Il [D.Lgs. 6 agosto 2015, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
 
 ### Art. 17. — Sanzioni
 
@@ -413,7 +413,7 @@ Per prezzo precedente si intende il prezzo piu' basso applicato dal professionis
 
 3.
 
-La disposizione di cui al comma 2 non si applica ai prodotti agricoli e alimentari deperibili di cui all'[articolo 2, comma 1, lettera m)](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-633%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2017%20aprile%202019%20in%20materia%20di%20pratiche%20commerciali%20sleali%20nei%20rapporti%20tra%20imprese%20nella%20filiera%20agricola%20_bf3d1831e57f.md), e all'[articolo 4, comma 5-bis, del decreto legislativo 8 novembre 2021, n. 198](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-633%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2017%20aprile%202019%20in%20materia%20di%20pratiche%20commerciali%20sleali%20nei%20rapporti%20tra%20imprese%20nella%20filiera%20agricola%20_bf3d1831e57f.md).
+La disposizione di cui al comma 2 non si applica ai prodotti agricoli e alimentari deperibili di cui all'[articolo 2, comma 1, lettera m)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-633%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2017%20aprile%202019%20in%20materia%20di%20pratiche%20commerciali%20sleali%20nei%20rapporti%20tra%20imprese%20nella%20filiera%20agricola%20_bf3d1831e57f.md), e all'[articolo 4, comma 5-bis, del decreto legislativo 8 novembre 2021, n. 198](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-633%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2017%20aprile%202019%20in%20materia%20di%20pratiche%20commerciali%20sleali%20nei%20rapporti%20tra%20imprese%20nella%20filiera%20agricola%20_bf3d1831e57f.md).
 
 4.
 
@@ -447,7 +447,7 @@ f) eventuali altri fattori aggravanti o attenuanti applicabili alle circostanze 
 
 AGGIORNAMENTO (46)
 
-Il [D.Lgs. 7 marzo 2023, n. 26](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-2161%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2027%20novembre%202019%20che%20modifica%20la%20direttiva%2093-13-CEE%20del%20Consiglio%20e%20le%20direttive%2098-6-CE%202005-29-CE%20e%202_cfc66cec1e25.md), ha disposto (con l'art. 2, comma 1) che "Le disposizioni di cui all'articolo 1, comma 2, si applicano alle campagne promozionali a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 7 marzo 2023, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-2161%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2027%20novembre%202019%20che%20modifica%20la%20direttiva%2093-13-CEE%20del%20Consiglio%20e%20le%20direttive%2098-6-CE%202005-29-CE%20e%202_cfc66cec1e25.md), ha disposto (con l'art. 2, comma 1) che "Le disposizioni di cui all'articolo 1, comma 2, si applicano alle campagne promozionali a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ## Titolo III ((PRATICHE COMMERCIALI,)) PUBBLICITA' E ALTRE COMUNICAZIONI COMMERCIALI Capo I Disposizioni generali
 
@@ -530,7 +530,7 @@ Ai fini del presente titolo, si intende per:
 
 AGGIORNAMENTO (57)
 
-Il [D.Lgs. 20 febbraio 2026, n. 30](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202024-825%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2028%20febbraio%202024%20che%20modifica%20le%20direttive%202005-29-CE%20e%202011-83-UE%20per%20quanto%20riguarda%20la%20responsabilizza_05456dee506e.md), ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 27 settembre 2026".
+Il [D.Lgs. 20 febbraio 2026, n. 30](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-825%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2028%20febbraio%202024%20che%20modifica%20le%20direttive%202005-29-CE%20e%202011-83-UE%20per%20quanto%20riguarda%20la%20responsabilizza_05456dee506e.md), ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 27 settembre 2026".
 
 ### Art. 19. — Ambito di applicazione
 
@@ -653,7 +653,7 @@ E' considerata, altresi', scorretta la pratica commerciale che richieda un sovra
 
 AGGIORNAMENTO (57)
 
-Il [D.Lgs. 20 febbraio 2026, n. 30](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202024-825%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2028%20febbraio%202024%20che%20modifica%20le%20direttive%202005-29-CE%20e%202011-83-UE%20per%20quanto%20riguarda%20la%20responsabilizza_05456dee506e.md), ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 27 settembre 2026".
+Il [D.Lgs. 20 febbraio 2026, n. 30](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-825%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2028%20febbraio%202024%20che%20modifica%20le%20direttive%202005-29-CE%20e%202011-83-UE%20per%20quanto%20riguarda%20la%20responsabilizza_05456dee506e.md), ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 27 settembre 2026".
 
 ### Art. 22. — Omissioni ingannevoli
 
@@ -706,7 +706,7 @@ Se un professionista fornisce l'accesso alle recensioni dei consumatori sui prod
 
 AGGIORNAMENTO (57)
 
-Il [D.Lgs. 20 febbraio 2026, n. 30](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202024-825%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2028%20febbraio%202024%20che%20modifica%20le%20direttive%202005-29-CE%20e%202011-83-UE%20per%20quanto%20riguarda%20la%20responsabilizza_05456dee506e.md), ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 27 settembre 2026".
+Il [D.Lgs. 20 febbraio 2026, n. 30](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-825%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2028%20febbraio%202024%20che%20modifica%20le%20direttive%202005-29-CE%20e%202011-83-UE%20per%20quanto%20riguarda%20la%20responsabilizza_05456dee506e.md), ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 27 settembre 2026".
 
 ### Art. 22-bis. — (( (Pubblicita' ingannevole delle tariffe marittime).
 
@@ -817,7 +817,7 @@ consegnarlo entro un periodo di tempo ragionevole, oppure
 
 AGGIORNAMENTO (57)
 
-Il [D.Lgs. 20 febbraio 2026, n. 30](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202024-825%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2028%20febbraio%202024%20che%20modifica%20le%20direttive%202005-29-CE%20e%202011-83-UE%20per%20quanto%20riguarda%20la%20responsabilizza_05456dee506e.md), ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 27 settembre 2026".
+Il [D.Lgs. 20 febbraio 2026, n. 30](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-825%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2028%20febbraio%202024%20che%20modifica%20le%20direttive%202005-29-CE%20e%202011-83-UE%20per%20quanto%20riguarda%20la%20responsabilizza_05456dee506e.md), ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 27 settembre 2026".
 
 ## ((SEZIONE II Pratiche commerciali aggressive))
 
@@ -879,7 +879,7 @@ Sono considerate in ogni caso aggressive le seguenti pratiche commerciali:
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ## ((Capo III Applicazione))
 
@@ -1186,7 +1186,7 @@ Le lettere n) e o) del comma 2 non si applicano alle clausole di indicizzazione 
 
 AGGIORNAMENTO (25)
 
-Il [D.Lgs. 6 agosto 2015, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
+Il [D.Lgs. 6 agosto 2015, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
 
 ### Art. 34. — Accertamento della vessatorieta' delle clausole
 
@@ -1467,13 +1467,13 @@ Ai fini delle Sezioni da I a IV del presente capo, si intende per:
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ---------------
 
 AGGIORNAMENTO (57)
 
-Il [D.Lgs. 20 febbraio 2026, n. 30](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202024-825%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2028%20febbraio%202024%20che%20modifica%20le%20direttive%202005-29-CE%20e%202011-83-UE%20per%20quanto%20riguarda%20la%20responsabilizza_05456dee506e.md), ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 27 settembre 2026".
+Il [D.Lgs. 20 febbraio 2026, n. 30](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-825%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2028%20febbraio%202024%20che%20modifica%20le%20direttive%202005-29-CE%20e%202011-83-UE%20per%20quanto%20riguarda%20la%20responsabilizza_05456dee506e.md), ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 27 settembre 2026".
 
 ### Art. 46. — Ambito di applicazione
 
@@ -1506,7 +1506,7 @@ Le disposizioni delle Sezioni da I a IV del presente Capo non impediscono ai pro
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ### Art. 47. — Esclusioni
 
@@ -1552,7 +1552,7 @@ Le disposizioni delle Sezioni da I a IV del presente Capo non si applicano ai co
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 -------------
 
@@ -1564,7 +1564,7 @@ E' stato ripristinato il testo gia' in vigore dal 2-4-2023 a seguito della modif
 
 AGGIORNAMENTO (55)
 
-Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+Il [D.Lgs. 31 dicembre 2025, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
 ## Sezione I ((Informazioni precontrattuali per i consumatori nei contratti diversi dai contratti a distanza o negoziati fuori dei locali commerciali))
 
@@ -1632,13 +1632,13 @@ Sono fatte salve le disposizioni di cui agli articoli da 6 a 12 del presente Cod
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ---------------
 
 AGGIORNAMENTO (57)
 
-Il [D.Lgs. 20 febbraio 2026, n. 30](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202024-825%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2028%20febbraio%202024%20che%20modifica%20le%20direttive%202005-29-CE%20e%202011-83-UE%20per%20quanto%20riguarda%20la%20responsabilizza_05456dee506e.md), ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 27 settembre 2026".
+Il [D.Lgs. 20 febbraio 2026, n. 30](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-825%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2028%20febbraio%202024%20che%20modifica%20le%20direttive%202005-29-CE%20e%202011-83-UE%20per%20quanto%20riguarda%20la%20responsabilizza_05456dee506e.md), ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 27 settembre 2026".
 
 ## Sezione II ((Informazioni precontrattuali per il consumatore e diritto di recesso nei contratti a distanza e nei contratti negoziati fuori dei locali commerciali))
 
@@ -1735,11 +1735,11 @@ Nel caso di utilizzazione di tecniche che consentono una comunicazione individua
 
 8.
 
-Gli obblighi di informazione stabiliti nella presente sezione si aggiungono agli obblighi di informazione contenuti nel [decreto legislativo 26 marzo 2010, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md), e successive modificazioni, e nel [decreto legislativo 9 aprile 2003, n. 70](Attuazione%20della%20direttiva%202000-31-CE%20relativa%20a%20taluni%20aspetti%20giuridici%20dei%20servizi%20della%20societa%20dellinformazione%20nel%20mercato%20interno%20con%20particolare%20riferimento%20al%20commercio%20elettronico.md), e successive modificazioni, e non ostano ad obblighi di informazione aggiuntivi previsti in conformita' a tali disposizioni.
+Gli obblighi di informazione stabiliti nella presente sezione si aggiungono agli obblighi di informazione contenuti nel [decreto legislativo 26 marzo 2010, n. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md), e successive modificazioni, e nel [decreto legislativo 9 aprile 2003, n. 70](Attuazione%20della%20direttiva%202000-31-CE%20relativa%20a%20taluni%20aspetti%20giuridici%20dei%20servizi%20della%20societa%20dellinformazione%20nel%20mercato%20interno%20con%20particolare%20riferimento%20al%20commercio%20elettronico.md), e successive modificazioni, e non ostano ad obblighi di informazione aggiuntivi previsti in conformita' a tali disposizioni.
 
 9.
 
-Fatto salvo quanto previsto dal comma 8, in caso di conflitto tra una disposizione del [decreto legislativo 26 marzo 2010, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md), e successive modificazioni, e del [decreto legislativo 9 aprile 2003, n. 70](Attuazione%20della%20direttiva%202000-31-CE%20relativa%20a%20taluni%20aspetti%20giuridici%20dei%20servizi%20della%20societa%20dellinformazione%20nel%20mercato%20interno%20con%20particolare%20riferimento%20al%20commercio%20elettronico.md), e successive modificazioni, sul contenuto e le modalita' di rilascio delle informazioni e una disposizione della presente sezione, prevale quest'ultima.
+Fatto salvo quanto previsto dal comma 8, in caso di conflitto tra una disposizione del [decreto legislativo 26 marzo 2010, n. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md), e successive modificazioni, e del [decreto legislativo 9 aprile 2003, n. 70](Attuazione%20della%20direttiva%202000-31-CE%20relativa%20a%20taluni%20aspetti%20giuridici%20dei%20servizi%20della%20societa%20dellinformazione%20nel%20mercato%20interno%20con%20particolare%20riferimento%20al%20commercio%20elettronico.md), e successive modificazioni, sul contenuto e le modalita' di rilascio delle informazioni e una disposizione della presente sezione, prevale quest'ultima.
 
 10.
 
@@ -1750,19 +1750,19 @@ L'onere della prova relativo all'adempimento degli obblighi di informazione di c
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 -------------
 
 AGGIORNAMENTO (55)
 
-Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+Il [D.Lgs. 31 dicembre 2025, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
 ---------------
 
 AGGIORNAMENTO (57)
 
-Il [D.Lgs. 20 febbraio 2026, n. 30](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202024-825%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2028%20febbraio%202024%20che%20modifica%20le%20direttive%202005-29-CE%20e%202011-83-UE%20per%20quanto%20riguarda%20la%20responsabilizza_05456dee506e.md), ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 27 settembre 2026".
+Il [D.Lgs. 20 febbraio 2026, n. 30](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-825%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2028%20febbraio%202024%20che%20modifica%20le%20direttive%202005-29-CE%20e%202011-83-UE%20per%20quanto%20riguarda%20la%20responsabilizza_05456dee506e.md), ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 27 settembre 2026".
 
 ### Art. 49-bis. — (( (Obblighi di informazione supplementari specifici per i contratti conclusi su mercati online). ))
 
@@ -1817,7 +1817,7 @@ Per i contratti negoziati fuori dei locali commerciali in cui il consumatore ha 
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ### Art. 51. — Requisiti formali per i contratti a distanza
 
@@ -1878,13 +1878,13 @@ Il presente articolo lascia impregiudicate le disposizioni relative alla conclus
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ---------------
 
 AGGIORNAMENTO (57)
 
-Il [D.Lgs. 20 febbraio 2026, n. 30](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202024-825%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2028%20febbraio%202024%20che%20modifica%20le%20direttive%202005-29-CE%20e%202011-83-UE%20per%20quanto%20riguarda%20la%20responsabilizza_05456dee506e.md), ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 27 settembre 2026".
+Il [D.Lgs. 20 febbraio 2026, n. 30](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-825%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2028%20febbraio%202024%20che%20modifica%20le%20direttive%202005-29-CE%20e%202011-83-UE%20per%20quanto%20riguarda%20la%20responsabilizza_05456dee506e.md), ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 27 settembre 2026".
 
 ### Art. 52. — Diritto di recesso
 
@@ -1917,7 +1917,7 @@ Le parti del contratto possono adempiere ai loro obblighi contrattuali durante i
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ### Art. 53. — Non adempimento dell'obbligo d'informazione sul diritto di recesso
 
@@ -1931,7 +1931,7 @@ Se in violazione dell'articolo 49, comma 1, lettera h), il professionista non fo
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ### Art. 54. — ((Esercizio del diritto di recesso))
 
@@ -1961,7 +1961,7 @@ Il professionista, oltre alle possibilita' di cui al comma 1, puo' offrire al co
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ### Art. 54-bis. — (( (Esercizio del diritto di recesso dai contratti a distanza conclusi mediante un'interfaccia online).))
 
@@ -2004,7 +2004,7 @@ Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/
 
 AGGIORNAMENTO (55)
 
-Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+Il [D.Lgs. 31 dicembre 2025, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
 ### Art. 55. — ((Effetti del recesso))
 
@@ -2017,7 +2017,7 @@ Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ### Art. 56. — Obblighi del professionista nel caso di recesso
 
@@ -2065,7 +2065,7 @@ Il consumatore ha il diritto di recuperare dal professionista tali contenuti dig
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ### Art. 57. — Obblighi del consumatore nel caso di recesso
 
@@ -2112,7 +2112,7 @@ Fatto salvo quanto previsto nell'articolo 56, comma 2, e nel presente articolo, 
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ### Art. 58. — Effetti dell'esercizio del diritto di recesso sui contratti accessori
 
@@ -2125,13 +2125,13 @@ Fatto salvo quanto previsto dal ((decreto legislativo 1° settembre 1993, n. 385
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 -------------
 
 AGGIORNAMENTO (55)
 
-Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+Il [D.Lgs. 31 dicembre 2025, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
 ### Art. 59. — Eccezioni al diritto di recesso
 
@@ -2167,7 +2167,7 @@ Le eccezioni al diritto di recesso di cui al comma 1, lettere a), b), c) ed e), 
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ## ((COMMERCIALIZZAZIONE   A DISTANZA 
 DI SERVIZI FINANZIARI AI CONSUMATORI))
@@ -2205,7 +2205,7 @@ DI SERVIZI FINANZIARI AI CONSUMATORI))
 
 AGGIORNAMENTO (55)
 
-Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+Il [D.Lgs. 31 dicembre 2025, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
 ### Art. 59-ter. — (( (Definizioni).))
 
@@ -2222,7 +2222,7 @@ Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (55)
 
-Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+Il [D.Lgs. 31 dicembre 2025, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
 ### Art. 59-quater. — (( (Obblighi di informazione concernenti i contratti a distanza per i servizi finanziari ai consumatori).))
 
@@ -2293,7 +2293,7 @@ Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (55)
 
-Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+Il [D.Lgs. 31 dicembre 2025, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
 ### Art. 59-quinquies. — (( (Comunicazioni mediante telefonia vocale).))
 
@@ -2310,7 +2310,7 @@ Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (55)
 
-Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+Il [D.Lgs. 31 dicembre 2025, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
 ### Art. 59-sexies. — (( (Onere della prova).))
 
@@ -2323,7 +2323,7 @@ Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (55)
 
-Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+Il [D.Lgs. 31 dicembre 2025, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
 ### Art. 59-septies. — (( (Altre disposizioni in materia di informazioni precontrattuali).))
 
@@ -2340,7 +2340,7 @@ Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (55)
 
-Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+Il [D.Lgs. 31 dicembre 2025, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
 ### Art. 59-octies. — (( (Diritto di recesso da contratti a distanza per servizi finanziari).))
 
@@ -2404,7 +2404,7 @@ Questa disposizione non si applica se il consumatore non e' stato informato del 
 
 AGGIORNAMENTO (55)
 
-Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+Il [D.Lgs. 31 dicembre 2025, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
 ### Art. 59-novies. — (( (Pagamento del servizio prestato prima del recesso).))
 
@@ -2437,7 +2437,7 @@ Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (55)
 
-Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+Il [D.Lgs. 31 dicembre 2025, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
 ### Art. 59-decies. — (( (Chiarimenti adeguati).))
 
@@ -2472,7 +2472,7 @@ Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (55)
 
-Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+Il [D.Lgs. 31 dicembre 2025, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
 ### Art. 59-undecies. — (( (Protezione supplementare relativa alle interfacce online).))
 
@@ -2488,7 +2488,7 @@ Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (55)
 
-Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+Il [D.Lgs. 31 dicembre 2025, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
 ### Art. 59-duodecies. — (( (Esercizio dei poteri di vigilanza).))
 
@@ -2505,7 +2505,7 @@ Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (55)
 
-Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+Il [D.Lgs. 31 dicembre 2025, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
 ### Art. 59-terdecies. — (( (Sanzioni).))
 
@@ -2542,7 +2542,7 @@ Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (55)
 
-Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+Il [D.Lgs. 31 dicembre 2025, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
 ## Sezione III ((Altri diritti del consumatore))
 
@@ -2565,7 +2565,7 @@ Detti articoli non si applicano ai contratti per la fornitura di acqua, gas o el
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ### Art. 61. — ((Consegna))
 
@@ -2609,7 +2609,7 @@ Nel caso di risoluzione posta in essere dal consumatore a norma dei commi 3 e 5,
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ### Art. 62. — ((Tariffe per l'utilizzo di mezzi di pagamento))
 
@@ -2617,7 +2617,7 @@ Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/
 
 1.
 
-Ai sensi dell'[articolo 3, comma 4, del decreto legislativo 27 gennaio 2010, n. 11](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202007-64-CE%20relativa%20ai%20servizi%20di%20pagamento%20nel%20mercato%20interno%20recante%20modifica%20delle%20direttive%2097-7-CE%202002-65-CE%202005-60-CE%202006-48-CE%20e%20che%20abroga%20la%20dirett_c4c951d397e9.md), i professionisti non possono imporre ai consumatori, in relazione all'uso di determinati strumenti di pagamento, spese per l'uso di detti strumenti, ovvero nei casi espressamente stabiliti, tariffe che superino quelle sostenute dal professionista.
+Ai sensi dell'[articolo 3, comma 4, del decreto legislativo 27 gennaio 2010, n. 11](Attuazione%20della%20direttiva%202007-64-CE%20relativa%20ai%20servizi%20di%20pagamento%20nel%20mercato%20interno%20recante%20modifica%20delle%20direttive%2097-7-CE%202002-65-CE%202005-60-CE%202006-48-CE%20e%20che%20abroga%20la%20dirett_c4c951d397e9.md), i professionisti non possono imporre ai consumatori, in relazione all'uso di determinati strumenti di pagamento, spese per l'uso di detti strumenti, ovvero nei casi espressamente stabiliti, tariffe che superino quelle sostenute dal professionista.
 
 2. L'istituto di emissione della carta di pagamento riaccredita al consumatore i pagamenti in caso di addebitamento eccedente rispetto al prezzo pattuito ovvero in caso di uso fraudolento della propria carta di pagamento da parte del professionista o di un terzo.
 L'istituto di emissione della carta di pagamento ha diritto di addebitare al professionista le somme riaccreditate al consumatore.))
@@ -2628,7 +2628,7 @@ L'istituto di emissione della carta di pagamento ha diritto di addebitare al pro
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ### Art. 63. — ((Passaggio del rischio))
 
@@ -2646,7 +2646,7 @@ Nei contratti che pongono a carico del professionista l'obbligo di provvedere al
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ### Art. 64. — ((Comunicazione telefonica))
 
@@ -2657,7 +2657,7 @@ Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ### Art. 65. — ((Pagamenti supplementari))
 
@@ -2668,7 +2668,7 @@ Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ### Art. 65-bis. — (( (Contratti di servizi a tacito rinnovo). ))
 
@@ -2697,7 +2697,7 @@ Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/
 
 AGGIORNAMENTO (57)
 
-Il [D.Lgs. 20 febbraio 2026, n. 30](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202024-825%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2028%20febbraio%202024%20che%20modifica%20le%20direttive%202005-29-CE%20e%202011-83-UE%20per%20quanto%20riguarda%20la%20responsabilizza_05456dee506e.md), ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 27 settembre 2026".
+Il [D.Lgs. 20 febbraio 2026, n. 30](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-825%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2028%20febbraio%202024%20che%20modifica%20le%20direttive%202005-29-CE%20e%202011-83-UE%20per%20quanto%20riguarda%20la%20responsabilizza_05456dee506e.md), ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 27 settembre 2026".
 
 ### Art. 66. — Tutela amministrativa e giurisdizionale
 
@@ -2727,19 +2727,19 @@ E' altresi' fatta salva la possibilita' di promuovere la risoluzione extragiudiz
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 -------------
 
 AGGIORNAMENTO (25)
 
-Il [D.Lgs. 6 agosto 2015, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
+Il [D.Lgs. 6 agosto 2015, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
 
 -------------
 
 AGGIORNAMENTO (55)
 
-Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+Il [D.Lgs. 31 dicembre 2025, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202023-2673%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20novembre%202023%20che%20modifica%20la%20direttiva%202011-83-UE%20per%20quanto%20riguarda%20i%20contratti%20di%20servizi%20finanzi_05e8fb405239.md), ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
 ### Art. 66-bis. — ((Foro competente))
 
@@ -2750,7 +2750,7 @@ Il [D.Lgs. 31 dicembre 2025, n. 209](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ### Art. 66-ter. — ((Carattere imperativo))
 
@@ -2768,7 +2768,7 @@ Se il diritto applicabile al contratto e' quello di uno Stato membro dell'Unione
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ### Art. 66-quater. — Informazione e ricorso extragiudiziale
 
@@ -2788,13 +2788,13 @@ L'operatore puo' adottare appositi codici di condotta, secondo le modalita' di c
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 -------------
 
 AGGIORNAMENTO (25)
 
-Il [D.Lgs. 6 agosto 2015, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
+Il [D.Lgs. 6 agosto 2015, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
 
 ### Art. 66-quinquies. — ((Fornitura non richiesta))
 
@@ -2812,7 +2812,7 @@ Il consumatore e' esonerato dall'obbligo di fornire qualsiasi prestazione corris
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ### Art. 67. — ((Tutela in base ad altre disposizioni))
 
@@ -2834,463 +2834,95 @@ Per quanto non previsto dalle Sezioni da I a IV del presente Capo, si applicano 
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
-## ((Sezione IVbis Commercializzazione a distanza di servizi finanziari ai consumatori))
+## Sezione IVbis Commercializzazione a distanza di servizi finanziari ai consumatori ((SEZIONE ABROGATA DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
 -
 
-### Art. 67-bis. — ((Oggetto e campo di applicazione))
+### Art. 67-bis.
 
-((
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-1.
+### Art. 67-ter.
 
-Le disposizioni della presente sezione si applicano alla commercializzazione a distanza di servizi finanziari ai consumatori, anche quando una delle fasi della commercializzazione comporta la partecipazione, indipendentemente dalla sua natura giuridica, di un soggetto diverso dal fornitore.
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-2.
+### Art. 67-quater.
 
-Per i contratti riguardanti servizi finanziari costituiti da un accordo iniziale di servizio seguito da operazioni successive o da una serie di operazioni distinte della stessa natura scaglionate nel tempo, le disposizioni della presente sezione si applicano esclusivamente all'accordo iniziale. Se non vi e' accordo iniziale di servizio, ma le operazioni successive o distinte della stessa natura scaglionate nel tempo sono eseguite tra le stesse parti contrattuali, gli articoli 67-quater, 67-quinquies, 67-sexies, 67-septies, 67-octies, 67-novies e 67-decies si applicano solo quando e' eseguita la prima operazione. Tuttavia, se nessuna operazione della stessa natura e' eseguita entro un periodo di un anno, l'operazione successiva e' considerata come la prima di una nuova serie di operazioni e, di conseguenza, si applicano le disposizioni degli articoli 67-quater, 67-quinquies, 67-sexies, 67-septies, 67-octies, 67-novies e 67-decies.
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-3.
+### Art. 67-quinquies.
 
-Ferme restando le disposizioni che stabiliscono regimi di autorizzazione per la commercializzazione dei servizi finanziari in Italia, sono fatte salve, ove non espressamente derogate, le disposizioni in materia bancaria, finanziaria, assicurativa, dei sistemi di pagamento e di previdenza individuale, nonche' le competenze delle autorita' indipendenti di settore.
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-))
+### Art. 67-sexies.
 
-### Art. 67-ter. — ((Definizioni))
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-((
+### Art. 67-septies.
 
-1.
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-Ai fini della presente sezione si intende per:
-                            a)
-                                contratto a distanza: qualunque contratto avente per oggetto servizi finanziari, concluso tra un fornitore e un consumatore ai sensi dell'articolo 50, comma 1, lettera a);
-                            b)
-                                servizio finanziario: qualsiasi servizio di natura bancaria, creditizia, di pagamento, di investimento, di assicurazione o di previdenza individuale;
-                            c)
-                                fornitore: qualunque persona fisica o giuridica, soggetto pubblico o privato, che, nell'ambito delle proprie attivita' commerciali o professionali, e' il fornitore contrattuale dei servizi finanziari oggetto di contratti a distanza;
-                            d)
-                                consumatore: qualunque soggetto di cui all'articolo 3, comma 1, lettera a) del presente codice;
-                            e)
-                                tecnica di comunicazione a distanza: qualunque mezzo che, ai sensi dell'articolo 50, comma 1, lettera b), del presente codice, possa impiegarsi per la commercializzazione a distanza di un servizio finanziario tra le parti;
-                            f)
-                                supporto durevole: qualsiasi strumento che permetta al consumatore di memorizzare informazioni a lui personalmente dirette in modo che possano essere agevolmente recuperate durante un periodo di tempo adeguato ai fini cui sono destinate le informazioni stesse, e che consenta la riproduzione immutata delle informazioni memorizzate;
-                            g)
-                                operatore o fornitore di tecnica di comunicazione a distanza: qualunque persona fisica o giuridica, pubblica o privata, la cui attivita' commerciale o professionale consista nel mettere a disposizione dei fornitori una o piu' tecniche di comunicazione a distanza;
-                            h)
-                                reclamo del consumatore: una dichiarazione, sostenuta da validi elementi di prova, secondo cui un fornitore ha commesso o potrebbe commettere un'infrazione alla normativa sulla protezione degli interessi dei consumatori;
-                            i)
-                                interessi collettivi dei consumatori: gli interessi di un numero di consumatori che sono stati o potrebbero essere danneggiati da un'infrazione.
+### Art. 67-octies.
 
-))
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-### Art. 67-quater. — ((Informazione del consumatore prima della conclusione del contratto a Distanza))
+### Art. 67-novies.
 
-((
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-1.
+### Art. 67-decies.
 
-Nella fase delle trattative e comunque prima che il consumatore sia vincolato da un contratto a distanza o da un'offerta, gli sono fornite le informazioni riguardanti:
-                            a)
-                                il fornitore;
-                            b)
-                                il servizio finanziario;
-                            c)
-                                il contratto a distanza;
-                            d)
-                                il ricorso.
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-2.
+### Art. 67-undecies.
 
-Le informazioni di cui al comma 1, il cui fine commerciale deve risultare in maniera inequivocabile, sono fornite in modo chiaro e comprensibile con qualunque mezzo adeguato alla tecnica di comunicazione a distanza utilizzata, tenendo debitamente conto in particolare dei doveri di correttezza e buona fede nella fase precontrattuale e dei principi che disciplinano la protezione degli incapaci di agire e dei minori.
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-3.
+### Art. 67-duodecies.
 
-Le informazioni relative agli obblighi contrattuali, da comunicare al consumatore nella fase precontrattuale, devono essere conformi agli obblighi contrattuali imposti dalla legge applicabile al contratto a distanza anche qualora la tecnica di comunicazione impiegata sia quella elettronica.
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-4.
+### Art. 67-terdecies.
 
-Se il fornitore ha sede in uno Stato non appartenente all'Unione europea, le informazioni di cui al comma 3 devono essere conformi agli obblighi contrattuali imposti dalla legge italiana qualora il contratto sia concluso.
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-))
+### Art. 67-quaterdecies.
 
-### Art. 67-quinquies. — Informazioni relative al fornitore
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-1.
+### Art. 67-quinquiesdecies.
 
-Le informazioni relative al fornitore riguardano:
-                            a)
-                                l'identita' del fornitore e la sua attivita' principale, l'indirizzo geografico al quale il fornitore e' stabilito e qualsiasi altro indirizzo geografico rilevante nei rapporti tra consumatore e fornitore;
-                            c)
-                                se il consumatore ha relazioni commerciali con un professionista diverso dal fornitore, l'identita' del professionista, la veste in cui agisce nei confronti del consumatore, nonche' l'indirizzo geografico rilevante nei rapporti tra consumatore e professionista;
-                            d)
-                                se il fornitore e' iscritto in un registro commerciale o in un pubblico registro analogo, il registro di commercio in cui il fornitore e' iscritto e il numero di registrazione o un elemento equivalente per identificarlo nel registro;
-                            e)
-                                qualora l'attivita' del fornitore sia soggetta ad autorizzazione, gli estremi della competente autorita' di controllo.
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-### Art. 67-sexies. — ((Informazioni relative al servizio finanziario))
+### Art. 67-sexiesdecies.
 
-((
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-1.
+### Art. 67-septiesdecies.
 
-Le informazioni relative al servizio finanziario riguardano:
-                            a)
-                                una descrizione delle principali caratteristiche del servizio finanziario;
-                            b)
-                                il prezzo totale che il consumatore dovra' corrispondere al fornitore per il servizio finanziario, compresi tutti i relativi oneri, commissioni e spese e tutte le imposte versate tramite il fornitore o, se non e' possibile indicare il prezzo esatto, la base di calcolo del prezzo, che consenta al consumatore di verificare quest'ultimo;
-                            c)
-                                se del caso, un avviso indicante che il servizio finanziario e' in rapporto con strumenti che implicano particolari rischi dovuti a loro specifiche caratteristiche o alle operazioni da effettuare, o il cui prezzo dipenda dalle fluttuazioni dei mercati finanziari su cui il fornitore non esercita alcuna influenza, e che i risultati ottenuti in passato non costituiscono elementi indicativi riguardo ai risultati futuri;
-                            d)
-                                l'indicazione dell'eventuale esistenza di altre imposte e costi non versati tramite il fornitore o non fatturati da quest'ultimo;
-                            e)
-                                qualsiasi limite del periodo durante il quale sono valide le informazioni fornite;
-                            f)
-                                le modalita' di pagamento e di esecuzione, nonche' le caratteristiche essenziali delle condizioni di sicurezza delle operazioni di pagamento da effettuarsi nell'ambito dei contratti a distanza;
-                            g)
-                                qualsiasi costo specifico aggiuntivo per il consumatore relativo all'utilizzazione della tecnica di comunicazione a distanza, se addebitato;
-                            h)
-                                l'indicazione dell'esistenza di collegamenti o connessioni con altri servizi finanziari, con la illustrazione degli eventuali effetti complessivi derivanti dalla combinazione.
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-))
+### Art. 67-duodevicies.
 
-### Art. 67-septies. — ((Informazioni relative al contratto a distanza))
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-((
+### Art. 67-undevicies.
 
-1.
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-Le informazioni relative al contratto a distanza riguardano:
-                            a)
-                                l'esistenza o la mancanza del diritto di recesso conformemente all'articolo 67-duodecies e, se tale diritto esiste, la durata e le modalita' d'esercizio, comprese le informazioni relative all'importo che il consumatore puo' essere tenuto a versare ai sensi dell'articolo 67-terdecies, comma 1, nonche' alle conseguenze derivanti dal mancato esercizio di detto diritto;
-                            b)
-                                la durata minima del contratto a distanza, in caso di prestazione permanente o periodica di servizi finanziari;
-                            c)
-                                le informazioni relative agli eventuali diritti delle parti, secondo i termini del contratto a distanza, di mettere fine allo stesso prima della scadenza o unilateralmente, comprese le penali eventualmente stabilite dal contratto in tali casi;
-                            d)
-                                le istruzioni pratiche per l'esercizio del diritto di recesso, comprendenti tra l'altro il mezzo, inclusa in ogni caso la lettera raccomandata con avviso di ricevimento, e l'indirizzo a cui deve essere inviata la comunicazione di recesso;
-                            e)
-                                lo Stato membro o gli Stati membri sulla cui legislazione il fornitore si basa per instaurare rapporti con il consumatore prima della conclusione del contratto a distanza;
-                            f)
-                                qualsiasi clausola contrattuale sulla legislazione applicabile al contratto a distanza e sul foro competente;
-                            g)
-                                la lingua o le lingue in cui sono comunicate le condizioni contrattuali e le informazioni preliminari di cui al presente articolo, nonche' la lingua o le lingue in cui il fornitore, con l'accordo del consumatore, si impegna a comunicare per la durata del contratto a distanza.
+### Art. 67-vicies.
 
-))
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-### Art. 67-octies. — ((Informazioni relative al ricorso))
+### Art. 67-viciessemel.
 
-((
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-1.
+### Art. 67-viciesbis.
 
-Le informazioni relative al ricorso riguardano:
-                            a)
-                                l'esistenza o la mancanza di procedure extragiudiziali di reclamo e di ricorso accessibili al consumatore che e' parte del contratto a distanza e, ove tali procedure esistono, le modalita' che consentono al Consumatore di avvalersene;
-                            b)
-                                l'esistenza di fondi di garanzia o di altri dispositivi di indennizzo.
-
-))
-
-### Art. 67-novies. — ((Comunicazioni mediante telefonia vocale))
-
-((
-
-1.
-
-In caso di comunicazioni mediante telefonia vocale:
-                            a)
-                                l'identita' del fornitore e il fine commerciale della chiamata avviata dal fornitore sono dichiarati in maniera inequivoca all'inizio di qualsiasi conversazione con il consumatore;
-                            b)
-                                devono essere fornite, previo consenso del consumatore, solo le informazioni seguenti: 
- 1) l'identita' della persona in contatto con il consumatore e il suo rapporto con il fornitore; 
- 2) una descrizione delle principali caratteristiche del servizio finanziario; 
- 3) il prezzo totale che il consumatore dovra' corrispondere al fornitore per il servizio finanziario, comprese tutte le imposte versate tramite il fornitore o, se non e' possibile indicare il prezzo esatto, la base di calcolo del prezzo, che consenta al consumatore di verificare quest'ultimo; 
- 4) l'indicazione dell'eventuale esistenza di altre imposte e/o costi non versati tramite il fornitore o non fatturati da quest'ultimo; 
- 5) l'esistenza o la mancanza del diritto di recesso conformemente all'articolo 67-duodecies e, se tale diritto esiste, la durata e le modalita' d'esercizio, comprese le informazioni relative all'importo che il consumatore puo' essere tenuto a versare ai sensi dell'articolo 67-terdecies, comma 1.
-
-2.
-
-Il fornitore comunica al consumatore che altre informazioni sono disponibili su richiesta e ne precisa la natura. Il fornitore comunica in ogni caso le informazioni complete quando adempie ai propri obblighi ai sensi dell'articolo 67-undecies.
-
-))
-
-### Art. 67-decies. — ((Requisiti aggiuntivi in materia di informazioni))
-
-((
-
-1.
-
-Oltre alle informazioni di cui agli articoli 67-quater, 67-quinquies, 67-sexies, 67-septies e 67-octies sono applicabili le disposizioni piu' rigorose previste dalla normativa di settore che disciplina l'offerta del servizio o del prodotto interessato.
-
-2.
-
-Il Ministero dello sviluppo economico comunica alla Commissione europea le disposizioni nazionali sui requisiti di informazione preliminare che sono aggiuntive rispetto a quelle di cui all'[articolo 3, paragrafo 1, della direttiva 2002/65/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;65).
-
-3.
-
-Le autorita' di vigilanza del settore bancario, assicurativo, finanziario e della previdenza complementare comunicano al Ministero dello sviluppo economico le disposizioni di cui al comma 2, per le materie di rispettiva competenza.
-
-4.
-
-Le informazioni di cui al comma 2 sono messe a disposizione dei consumatori e dei fornitori, anche mediante l'utilizzo di sistemi telematici, a cura del Ministero dello sviluppo economico.
-
-))
-
-### Art. 67-undecies. — ((Comunicazione delle condizioni contrattuali e delle informazioni  Preliminari))
-
-((
-
-1.
-
-Il fornitore comunica al consumatore tutte le condizioni contrattuali, nonche' le informazioni di cui agli articoli 67-quater, 67-quinquies, 67-sexies, 67-septies, 67-octies, 67-novies e 67-decies, su supporto cartaceo o su un altro supporto durevole, disponibile e accessibile per il consumatore in tempo utile, prima che lo stesso sia vincolato da un contratto a distanza o da un'offerta.
-
-2.
-
-Il fornitore ottempera all'obbligo di cui al comma 1 subito dopo la conclusione del contratto a distanza, se quest'ultimo e' stato concluso su richiesta del consumatore utilizzando una tecnica di comunicazione a distanza che non consente di trasmettere le condizioni contrattuali ne' le informazioni ai sensi del comma 1.
-
-3.
-
-In qualsiasi momento del rapporto contrattuale il consumatore, se lo richiede, ha il diritto di ricevere le condizioni contrattuali su supporto cartaceo. Inoltre lo stesso ha il diritto di cambiare la tecnica di comunicazione a distanza utilizzata, a meno che cio' non sia incompatibile con il contratto concluso o con la natura del servizio finanziario prestato.
-
-))
-
-### Art. 67-duodecies. — Diritto di recesso
-
-1.
-
-Il consumatore dispone di un termine di quattordici giorni per recedere dal contratto senza penali e senza dover indicare il motivo.
-
-2.
-
-Il predetto termine e' esteso a trenta giorni per i contratti a distanza aventi per oggetto le assicurazioni sulla vita di cui al [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), recante [Codice delle assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md), e le operazioni aventi ad oggetto gli schemi pensionistici individuali.((27))
-
-3.
-
-Il termine durante il quale puo' essere esercitato il diritto di recesso decorre alternativamente:
-                            a)
-                                dalla data della conclusione del contratto, tranne nel caso delle assicurazioni sulla vita, per le quali il termine comincia a decorrere dal momento in cui al consumatore e' comunicato che il contratto e' stato concluso;
-                            b)
-                                dalla data in cui il consumatore riceve le condizioni contrattuali e le informazioni di cui all'articolo 67-undecies, se tale data e' successiva a quella di cui alla lettera a).
-
-4.
-
-L'efficacia dei contratti relativi ai servizi di investimento e' sospesa durante la decorrenza del termine previsto per l'esercizio del diritto di recesso.
-
-5.
-
-Il diritto di recesso non si applica:
-                            a)
-                                ai servizi finanziari, diversi dal servizio di gestione su base individuale di portafogli di investimento se gli investimenti non sono stati gia' avviati, il cui prezzo dipende da fluttuazioni del mercato finanziario che il fornitore non e' in grado di controllare e che possono aver luogo durante il periodo di recesso, quali ad esempio i servizi riguardanti: 
- 1) operazioni di cambio; 
- 2) strumenti del mercato monetario; 
- 3) valori mobiliari; 
- 4) quote di un organismo di investimento collettivo; 
- 5) contratti a termine fermo (futures) su strumenti finanziari, compresi gli strumenti equivalenti che si regolano in contanti; 
- 6) contratti a termine su tassi di interesse (FRA); 
- 7) contratti swaps su tassi d'interesse, su valute o contratti di scambio connessi ad azioni o a indici azionari (equity swaps); 
- 8) opzioni per acquistare o vendere qualsiasi strumento previsto dalla presente lettera, compresi gli strumenti equivalenti che si regolano in contanti. Sono comprese in particolare in questa categoria le opzioni su valute e su tassi d'interesse;
-                            b)
-                                alle polizze di assicurazione viaggio e bagagli o alle analoghe polizze assicurative a breve termine di durata inferiore a un mese;
-                            c)
-                                ai contratti interamente eseguiti da entrambe le parti su esplicita richiesta scritta del consumatore prima che quest'ultimo eserciti il suo diritto di recesso;
-                            d)
-                                alle dichiarazioni dei consumatori rilasciate dinanzi ad un pubblico ufficiale a condizione che il pubblico ufficiale confermi che al consumatore sono garantiti i diritti di cui all'articolo 67-undecies, comma 1.
-
-6.
-
-Se esercita il diritto di recesso, il consumatore invia, prima dello scadere del termine e secondo le istruzioni che gli sono state date ai sensi dell'articolo 67-septies, comma 1, lettera d), una comunicazione scritta al fornitore, mediante lettera raccomandata con avviso di ricevimento o altro mezzo indicato ai sensi dell'articolo 67-septies, comma 1, lettera d).
-
-7.
-
-Il presente articolo non si applica alla risoluzione dei contratti di credito disciplinata dagli articoli 67, comma 6, e 77.
-
-8.
-
-Se ad un contratto a distanza relativo ad un determinato servizio finanziario e' aggiunto un altro contratto a distanza riguardante servizi finanziari prestati da un fornitore o da un terzo sulla base di un accordo tra il terzo e il fornitore, questo contratto aggiuntivo e' risolto, senza alcuna penale, qualora il consumatore eserciti il suo diritto di recesso secondo le modalita' fissate dal presente articolo.
-
--------------
-
-AGGIORNAMENTO (27)
-
-La [L. 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202017%20e%20bilancio%20pluriennale%20per%20il%20triennio%202017-2019.%2016G00242.md) ha disposto (con l'art. 1, comma 169) che "In deroga all'[articolo 67-duodecies, comma 2, del codice del consumo](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), di cui al [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), il termine per recedere dal contratto di assicurazione di cui ai commi da 166 a 186 del presente articolo e' di quattordici giorni".
-
-### Art. 67-terdecies. — Pagamento del servizio fornito prima del recesso
-
-1.
-
-Il consumatore che esercita il diritto di recesso previsto dall'articolo 67-duodecies, comma 1, e' tenuto a pagare solo l'importo del servizio finanziario effettivamente prestato dal fornitore conformemente al contratto a distanza. L'esecuzione del contratto puo' iniziare solo previa richiesta del consumatore. Nei contratti di assicurazione l'impresa trattiene la frazione di premio relativa al periodo in cui il contratto ha avuto effetto.
-
-2.
-
-L'importo di cui al comma 1 non puo':
-                            a)
-                                eccedere un importo proporzionale all'importanza del servizio gia' fornito in rapporto a tutte le prestazioni previste dal contratto a distanza;
-                            b)
-                                essere di entita' tale da poter costituire una penale.
-
-3.
-
-Il fornitore non puo' esigere dal consumatore il pagamento di un importo in base al comma 1 se non e' in grado di provare che il consumatore e' stato debitamente informato dell'importo dovuto, in conformita' all'articolo 67-septies, comma l, lettera a). Egli non puo' tuttavia in alcun caso esigere tale pagamento se ha dato inizio all'esecuzione del contratto prima della scadenza del periodo di esercizio del diritto di recesso di cui all'articolo 67-duodecies, comma 1, senza che vi fosse una preventiva richiesta del consumatore.
-
-4.
-
-Il fornitore e' tenuto a rimborsare al consumatore, ((entro e non oltre trenta giorni)), tutti gli importi da questo versatigli in conformita' del contratto a distanza, ad eccezione dell'importo di cui al comma 1. Il periodo decorre dal giorno in cui il fornitore riceve la comunicazione di recesso. L'impresa di assicurazione deve adempiere alle obbligazioni derivanti dal contratto, concernenti il periodo in cui il contratto medesimo ha avuto effetto.
-
-5.
-
-Il consumatore paga al fornitore il corrispettivo di cui al comma 1 e gli restituisce qualsiasi bene o importo che abbia ricevuto da quest'ultimo ((entro e non oltre trenta giorni)) dall'invio della comunicazione di recesso. Non sono ripetibili gli indennizzi e le somme eventualmente corrisposte dall'impresa agli assicurati e agli altri aventi diritto a prestazioni assicurative.
-
-6.
-
-Per i finanziamenti diretti principalmente a permettere di acquistare o mantenere diritti di proprieta' su terreni o edifici esistenti o progettati, o di rinnovare o ristrutturare edifici, l'efficacia del recesso e' subordinata alla restituzione di cui al comma 5.
-
-### Art. 67-quaterdecies. — ((Pagamento dei servizi finanziari offerti a distanza))
-
-((
-
-1.
-
-Il consumatore puo' effettuare il pagamento con carte di credito, debito o con altri strumenti di Pagamento, ove cio' sia previsto tra le modalita' di pagamento, che gli sono comunicate ai sensi dell'articolo 67-sexies, comma 1, lettera f).
-
-2.
-
-Fatta salva l'applicazione dell'[articolo 12 del decreto-legge 3 maggio 1991, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-03;143#art_12), convertito, con modificazioni, dalla [legge 5 luglio 1991, n. 197](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20maggio%201991%20n.%20143%20recante%20provvedimenti%20urgenti%20per%20limitare%20luso%20del%20contante%20e%20dei%20titoli%20al%20portatore%20nelle%20transazioni%20e%20pr_a4323969ef56.md), l'ente che emette o fornisce lo strumento di pagamento riaccredita al consumatore i pagamenti non autorizzati o dei quali questi dimostri l'eccedenza rispetto al prezzo pattuito ovvero l'effettuazione mediante l'uso fraudolento della propria carta di pagamento da parte del fornitore o di un terzo. L'ente che emette o fornisce lo strumento di pagamento ha diritto di addebitare al fornitore le somme riaccreditate al consumatore.
-
-3.
-
-Fermo restando quanto previsto dal [decreto legislativo 7 marzo 2005, n. 82](Codice%20dellamministrazione%20digitale.md), e successive modifiche ed integrazioni, sul valore probatorio della firma elettronica e dei documenti elettronici, e' in capo all'ente che emette o fornisce lo strumento di pagamento, l'onere di provare che la transazione di pagamento e' stata autorizzata, accuratamente registrata e contabilizzata e che la medesima non e' stata alterata da guasto tecnico o da altra carenza.
-L'uso dello strumento di pagamento non comporta necessariamente che il pagamento sia stato autorizzato.
-
-4.
-
-Relativamente alle operazioni di pagamento da effettuarsi nell'ambito di contratti a distanza, il fornitore adotta condizioni di sicurezza conformi a quanto disposto ai sensi dell'articolo 146 del testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), avendo riguardo, in particolare, alle esigenze di integrita', di autenticita' e di tracciabilita' delle operazioni medesime.
-
-))
-
-### Art. 67-quinquiesdecies. — ((Servizi non richiesti))
-
-((
-
-1.
-
-Il consumatore non e' tenuto ad alcuna prestazione corrispettiva in caso di fornitura non richiesta. In ogni caso, l'assenza di risposta non implica consenso del consumatore.
-
-2.
-
-Salve le sanzioni previste dall'articolo 67-septies-decies, ogni servizio non richiesto di cui al presente articolo costituisce pratica commerciale scorretta ai sensi degli articoli 21, 22, 23, 24, 25 e 26.
-
-))
-
-### Art. 67-sexiesdecies. — Comunicazioni non richieste
-
-1.
-
-L'utilizzazione da parte di un fornitore delle seguenti tecniche di comunicazione a distanza richiede il previo consenso del consumatore:
-                            a)
-                                sistemi di chiamata senza intervento di un operatore mediante dispositivo automatico;
-                            b)
-                                telefax.
-
-2.
-
-Le tecniche di comunicazione a distanza diverse da quelle indicate al comma 1, quando consentono una comunicazione individuale, non sono autorizzate se non e' stato ottenuto il consenso del consumatore interessato.
-
-3.
-
-Le misure di cui ai commi 1 e 2 non comportano costi per i consumatori.
-
-((3-bis. E' fatta salva la disciplina prevista dall'[articolo 130, comma 3-bis, del codice in materia di protezione dei dati personali](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), di cui al [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), e successive modificazioni, per i trattamenti dei dati inclusi negli elenchi di abbonati a disposizione del pubblico))
-
-### Art. 67-septiesdecies. — ((Sanzioni))
-
-((
-
-1.
-
-Salvo che il fatto costituisca reato, il fornitore che contravviene alle norme di cui alla presente sezione, ovvero che ostacola l'esercizio del diritto di recesso da parte del consumatore ovvero non rimborsa al consumatore le somme da questi eventualmente pagate, e' punito con la sanzione amministrativa pecuniaria, per ciascuna violazione, da euro cinquemila a euro cinquantamila.
-
-2.
-
-Nei casi di particolare gravita' o di recidiva, nonche' nell'ipotesi della violazione dell'articolo 67-novies decies, comma 3, i limiti minimo e massimo della sanzione indicata al comma l sono raddoppiati.
-
-3.
-
-Le autorita' di vigilanza dei settori bancario, assicurativo, finanziario e della previdenza complementare e, ciascuna nel proprio ambito di competenza, accertano le violazioni alle disposizioni di cui alla presente sezione e le relative sanzioni sono irrogate secondo le procedure rispettivamente applicabili in ciascun settore.
-
-4.
-
-Il contratto e' nullo, nel caso in cui il fornitore ostacola l'esercizio del diritto di recesso da parte del contraente ovvero non rimborsa le somme da questi eventualmente pagate, ovvero viola gli obblighi di informativa precontrattuale in modo da alterare in modo significativo la rappresentazione delle sue caratteristiche.
-
-5.
-
-La nullita' puo' essere fatta valere solo dal consumatore e obbliga le parti alla restituzione di quanto ricevuto. Nei contratti di assicurazione l'impresa e' tenuta alla restituzione dei premi pagati e deve adempiere alle obbligazioni concernenti il periodo in cui il contratto ha avuto esecuzione. Non sono ripetibili gli indennizzi e le somme eventualmente corrisposte dall'impresa agli assicurati e agli altri aventi diritto a prestazioni assicurative. E' fatto salvo il diritto del Consumatore ad agire per il risarcimento dei danni.
-
-6.
-
-Sono fatte salve le sanzioni previste nel [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md).
-
-))
-
-### Art. 67-duodevicies. — ((Irrinunciabilita' dei diritti))
-
-((1. I diritti attribuiti al consumatore dalla presente sezione sono irrinunciabili. E' nulla ogni pattuizione che abbia l'effetto di privare il consumatore della protezione assicurata dalle disposizioni della presente sezione. La nullita' puo' essere fatta valere solo dal consumatore e puo' essere rilevata d'ufficio dal giudice. 
- 2. Ove le parti abbiano scelto di applicare al contratto una legislazione diversa da quella italiana, al consumatore devono comunque essere riconosciute le condizioni di tutela previste dalla presente sezione.))
-
-### Art. 67-undevicies. — ((Ricorso giurisdizionale o amministrativo))
-
-((1. Le associazioni dei consumatori iscritte all'elenco di cui all'articolo 137, sono legittimate a proporre alle competenti autorita' di vigilanza, nell'ambito delle rispettive attribuzioni, al fine di tutelare gli interessi collettivi dei consumatori, reclamo per l'accertamento di violazioni delle disposizioni della presente sezione. 
- 2. Le associazioni dei consumatori iscritte all'elenco di cui all'articolo 137, sono legittimate a proporre all'autorita' giudiziaria l'azione inibitoria per far cessare le violazioni delle disposizioni della presente sezione nei confronti delle imprese o degli intermediari ai sensi dell'articolo 140. 
- 3. Le autorita' di vigilanza nei settori bancario, assicurativo, finanziario e della previdenza complementare, nell'esercizio dei rispettivi poteri, anche al di fuori dell'ipotesi di cui al comma 1, ordinano ai soggetti vigilati la cessazione o vietano l'inizio di pratiche non conformi alle disposizioni della presente sezione. 
- 4. Sono fatte salve, ove non espressamente derogate, le disposizioni in materia bancaria, finanziaria, assicurativa e dei sistemi di pagamento, ivi comprese le attribuzioni delle rispettive autorita' di vigilanza di settore. ))
-
-### Art. 67-vicies. — ((Composizione extragiudiziale delle controversie))
-
-((
-
-1.
-
-Il Ministero dell'economia e delle finanze, il Ministero dello sviluppo economico ed il Ministero della giustizia, sentite le autorita' di vigilanza di settore, possono promuovere, nell'ambito degli ordinari stanziamenti di bilancio, l'istituzione di adeguate ed efficaci procedure extragiudiziali di reclamo e di ricorso per la composizione di controversie riguardanti i consumatori, conformi ai principi previsti dall'ordinamento comunitario e da quello nazionale e che operano nell'ambito della rete europea relativa ai servizi finanziari (FIN NET).
-
-2.
-
-Gli organi di composizione extragiudiziale delle controversie comunicano ai Ministeri di cui al comma 1 le decisioni significative che adottano sulla commercializzazione a distanza dei servizi finanziari.
-
-))
-
-### Art. 67-viciessemel. — ((Onere della prova))
-
-((
-
-1.
-
-Sul fornitore grava l'onere della prova riguardante:
-                            a)
-                                l'adempimento agli obblighi di informazione del consumatore;
-                            b)
-                                la prestazione del consenso del consumatore alla conclusione del contratto;
-                            c)
-                                l'esecuzione del contratto;
-                            d)
-                                la responsabilita' per l'inadempimento delle obbligazioni derivanti dal contratto.
-
-2.
-
-Le clausole che hanno per effetto l'inversione o la modifica dell'onere della prova di cui al comma 1 si presumono vessatorie ai sensi dell'articolo 33, comma 2, lettera t).
-
-))
-
-### Art. 67-viciesbis. — ((Misure transitorie))
-
-((
-
-1.
-
-Le disposizioni della presente sezione si applicano anche nei confronti dei fornitori stabiliti in un altro Stato membro che non ha ancora recepito la [direttiva 2002/65/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;65) e in cui non vigono obblighi corrispondenti a quelli in essa previsti.
-
-))
+((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
 ## Capo II Commercio elettronico
 
@@ -3544,7 +3176,7 @@ L'esercizio da parte del consumatore del diritto di recesso dal contratto di mul
 
 2.
 
-Fatto salvo quanto previsto dagli [articoli 125-ter](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_125ter) e [125-quinquies del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_125quinquies), in materia di contratti di credito ai consumatori, se il prezzo e' interamente o parzialmente coperto da un credito concesso al consumatore dall'operatore o da un terzo in base a un accordo fra il terzo e l'operatore, il contratto di credito e' risolto senza costi per il consumatore qualora il consumatore eserciti il diritto di recesso dal contratto di multiproprieta', dal contratto relativo a prodotti per le vacanze di lungo termine, o dal contratto di rivendita o di scambio.
+Fatto salvo quanto previsto dagli [articoli 125-ter](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) e [125-quinquies del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), in materia di contratti di credito ai consumatori, se il prezzo e' interamente o parzialmente coperto da un credito concesso al consumatore dall'operatore o da un terzo in base a un accordo fra il terzo e l'operatore, il contratto di credito e' risolto senza costi per il consumatore qualora il consumatore eserciti il diritto di recesso dal contratto di multiproprieta', dal contratto relativo a prodotti per le vacanze di lungo termine, o dal contratto di rivendita o di scambio.
 
 ))
 
@@ -3621,7 +3253,7 @@ Ai fini dell'accertamento dell'infrazione e dell'applicazione della sanzione, si
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ### Art. 81-bis. — ((Tutela in base ad altre disposizioni ))
 
@@ -4292,7 +3924,7 @@ Le disposizioni del presente capo non si applicano inoltre:
 
 AGGIORNAMENTO (42)
 
-Il [D.Lgs. 4 novembre 2021, n. 170](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
+Il [D.Lgs. 4 novembre 2021, n. 170](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
 
 ### Art. 129. — (( (Conformita' dei beni al contratto). ))
 
@@ -4330,7 +3962,7 @@ d) essere della quantita' e possedere le qualita' e altre caratteristiche, anche
 
 AGGIORNAMENTO (42)
 
-Il [D.Lgs. 4 novembre 2021, n. 170](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
+Il [D.Lgs. 4 novembre 2021, n. 170](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
 
 ### Art. 130. — (( (Obblighi del venditore e condotta del consumatore). ))
 
@@ -4370,7 +4002,7 @@ Se il consumatore non installa entro un congruo termine gli aggiornamenti fornit
 
 AGGIORNAMENTO (42)
 
-Il [D.Lgs. 4 novembre 2021, n. 170](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
+Il [D.Lgs. 4 novembre 2021, n. 170](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
 
 ### Art. 131. — (( (Errata installazione dei beni). ))
 
@@ -4382,7 +4014,7 @@ Il [D.Lgs. 4 novembre 2021, n. 170](../Atti%20di%20recepimento%20direttive%20UE/
 
 AGGIORNAMENTO (42)
 
-Il [D.Lgs. 4 novembre 2021, n. 170](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
+Il [D.Lgs. 4 novembre 2021, n. 170](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
 
 ### Art. 132. — (( (Diritti dei terzi). ))
 
@@ -4393,7 +4025,7 @@ Il [D.Lgs. 4 novembre 2021, n. 170](../Atti%20di%20recepimento%20direttive%20UE/
 
 AGGIORNAMENTO (42)
 
-Il [D.Lgs. 4 novembre 2021, n. 170](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
+Il [D.Lgs. 4 novembre 2021, n. 170](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
 
 ### Art. 133. — (( (Responsabilita' del venditore). ))
 
@@ -4420,7 +4052,7 @@ L'azione diretta a far valere i difetti non dolosamente occultati dal venditore 
 
 AGGIORNAMENTO (42)
 
-Il [D.Lgs. 4 novembre 2021, n. 170](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
+Il [D.Lgs. 4 novembre 2021, n. 170](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
 
 ### Art. 134. — (( (Diritto di regresso). ))
 
@@ -4438,7 +4070,7 @@ Il venditore finale, quando e' responsabile nei confronti del consumatore a caus
 
 AGGIORNAMENTO (42)
 
-Il [D.Lgs. 4 novembre 2021, n. 170](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
+Il [D.Lgs. 4 novembre 2021, n. 170](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
 
 ### Art. 135. — (( (Onere della prova). ))
 
@@ -4456,7 +4088,7 @@ Salvo prova contraria, si presume che qualsiasi difetto di conformita' che si ma
 
 AGGIORNAMENTO (42)
 
-Il [D.Lgs. 4 novembre 2021, n. 170](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
+Il [D.Lgs. 4 novembre 2021, n. 170](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
 
 ### Art. 135-bis. — (( (Rimedi). ))
 
@@ -4504,7 +4136,7 @@ Il consumatore non ha il diritto di risolvere il contratto se il difetto di conf
 
 AGGIORNAMENTO (42)
 
-Il [D.Lgs. 4 novembre 2021, n. 170](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
+Il [D.Lgs. 4 novembre 2021, n. 170](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
 
 ### Art. 135-ter. — (( (Riparazione o sostituzione). ))
 
@@ -4536,7 +4168,7 @@ Qualora la riparazione richieda la rimozione del bene installato in modo conform
 
 AGGIORNAMENTO (42)
 
-Il [D.Lgs. 4 novembre 2021, n. 170](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
+Il [D.Lgs. 4 novembre 2021, n. 170](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
 
 ### Art. 135-quater. — (( (Riduzione del prezzo e risoluzione del contratto). ))
 
@@ -4566,7 +4198,7 @@ b) il venditore rimborsa al consumatore il prezzo pagato per il bene al ricevime
 
 AGGIORNAMENTO (42)
 
-Il [D.Lgs. 4 novembre 2021, n. 170](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
+Il [D.Lgs. 4 novembre 2021, n. 170](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
 
 ### Art. 135-quinquies. — (( (Garanzie convenzionali). ))
 
@@ -4602,7 +4234,7 @@ La garanzia deve essere redatta in lingua italiana con caratteri non meno eviden
 
 AGGIORNAMENTO (42)
 
-Il [D.Lgs. 4 novembre 2021, n. 170](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
+Il [D.Lgs. 4 novembre 2021, n. 170](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
 
 ### Art. 135-sexies. — (( (Carattere imperativo delle disposizioni). ))
 
@@ -4624,7 +4256,7 @@ Il venditore puo' sempre offrire al consumatore condizioni contrattuali di maggi
 
 AGGIORNAMENTO (42)
 
-Il [D.Lgs. 4 novembre 2021, n. 170](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
+Il [D.Lgs. 4 novembre 2021, n. 170](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-771%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20vendita%20di%20beni%20che%20modifica%20il%20regolament_c0bc04cd19b1.md) ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
 
 ### Art. 135-septies. — (( (Tutela in base ad altre disposizioni). ))
 
@@ -4702,7 +4334,7 @@ Le disposizioni del presente capo si applicano anche se il contenuto digitale o 
 
 AGGIORNAMENTO (43)
 
-Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
+Il [D.Lgs. 4 novembre 2021, n. 173](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
 
 ### Art. 135-novies. — (( (Esclusioni). ))
 
@@ -4760,7 +4392,7 @@ Le disposizioni nazionali e quelle del diritto dell'Unione in materia di protezi
 
 AGGIORNAMENTO (43)
 
-Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
+Il [D.Lgs. 4 novembre 2021, n. 173](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
 
 ### Art. 135-decies. — (( (Fornitura di contenuto digitale o servizio digitale e conformita' al contratto). ))
 
@@ -4813,7 +4445,7 @@ d) essere conforme all'eventuale versione di prova o anteprima del contenuto dig
 
 AGGIORNAMENTO (43)
 
-Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
+Il [D.Lgs. 4 novembre 2021, n. 173](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
 
 ### Art. 135-undecies. — (( (Obblighi del professionista e condotta del consumatore). ))
 
@@ -4851,7 +4483,7 @@ Non vi e' difetto di conformita' ai sensi del comma 1 o dell'articolo 135-decies
 
 AGGIORNAMENTO (43)
 
-Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
+Il [D.Lgs. 4 novembre 2021, n. 173](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
 
 ### Art. 135-duodecies. — (( (Errata integrazione del contenuto digitale o del servizio digitale). ))
 
@@ -4864,7 +4496,7 @@ Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/
 
 AGGIORNAMENTO (43)
 
-Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
+Il [D.Lgs. 4 novembre 2021, n. 173](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
 
 ### Art. 135-terdecies. — (( (Diritti dei terzi). ))
 
@@ -4875,7 +4507,7 @@ Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/
 
 AGGIORNAMENTO (43)
 
-Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
+Il [D.Lgs. 4 novembre 2021, n. 173](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
 
 ### Art. 135-quaterdecies. — (( (Responsabilita' del professionista). ))
 
@@ -4909,7 +4541,7 @@ Se il contratto prevede la fornitura continuativa per un periodo di tempo, il pr
 
 AGGIORNAMENTO (43)
 
-Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
+Il [D.Lgs. 4 novembre 2021, n. 173](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
 
 ### Art. 135-quindecies. — (( (Diritto di regresso) ))
 
@@ -4927,7 +4559,7 @@ Il professionista, quando e' responsabile nei confronti del consumatore a causa 
 
 AGGIORNAMENTO (43)
 
-Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
+Il [D.Lgs. 4 novembre 2021, n. 173](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
 
 ### Art. 135-sex-decies. — (( (Onere della prova) ))
 
@@ -4942,7 +4574,7 @@ Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/
 
 AGGIORNAMENTO (43)
 
-Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
+Il [D.Lgs. 4 novembre 2021, n. 173](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
 
 ### Art. 135-septies-decies. — (( (Rimedio per la mancata fornitura). ))
 
@@ -4957,7 +4589,7 @@ Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/
 
 AGGIORNAMENTO (43)
 
-Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
+Il [D.Lgs. 4 novembre 2021, n. 173](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
 
 ### Art. 135-duodevicies. — (( (Rimedi per difetti di conformita'). ))
 
@@ -4981,7 +4613,7 @@ Se il contratto stabilisce che il contenuto digitale o il servizio digitale deve
 
 AGGIORNAMENTO (43)
 
-Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
+Il [D.Lgs. 4 novembre 2021, n. 173](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
 
 ### Art. 135-undevicies. — (( (Risoluzione del contratto). ))
 
@@ -5005,7 +4637,7 @@ Tuttavia, se il contratto prevede la fornitura del contenuto digitale o del serv
 
 AGGIORNAMENTO (43)
 
-Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
+Il [D.Lgs. 4 novembre 2021, n. 173](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
 
 ### Art. 135-vicies. — (( (Rimborso al consumatore). ))
 
@@ -5027,7 +4659,7 @@ Il professionista effettua il rimborso utilizzando lo stesso mezzo di pagamento 
 
 AGGIORNAMENTO (43)
 
-Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
+Il [D.Lgs. 4 novembre 2021, n. 173](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
 
 ### Art. 135-vicies-semel. — (( (Modifica del contenuto digitale o del servizio digitale). ))
 
@@ -5045,7 +4677,7 @@ Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/
 
 AGGIORNAMENTO (43)
 
-Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
+Il [D.Lgs. 4 novembre 2021, n. 173](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
 
 ### Art. 135-vicies-bis. — (( (Carattere imperativo delle disposizioni). ))
 
@@ -5058,7 +4690,7 @@ Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/
 
 AGGIORNAMENTO (43)
 
-Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
+Il [D.Lgs. 4 novembre 2021, n. 173](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
 
 ### Art. 135-vicies-ter. — (( (Tutela in base ad altre disposizioni). ))
 
@@ -5070,7 +4702,7 @@ Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/
 
 AGGIORNAMENTO (43)
 
-Il [D.Lgs. 4 novembre 2021, n. 173](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
+Il [D.Lgs. 4 novembre 2021, n. 173](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-770%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20maggio%202019%20relativa%20a%20determinati%20aspetti%20dei%20contratti%20di%20fornitura%20di%20contenuto%20digitale%20e%20di%20servi_377855214af4.md) ha disposto (con l'art. 2, comma 1) che "Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data".
 
 ## ASSOCIAZIONI DEI CONSUMATORI E ACCESSO ALLA GIUSTIZIA - - Titolo I LE ASSOCIAZIONI RAPPRESENTATIVE A LIVELLO NAZIONALE
 
@@ -5114,7 +4746,7 @@ E' compito del Consiglio:
 
 AGGIORNAMENTO (25)
 
-Il [D.Lgs. 6 agosto 2015, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
+Il [D.Lgs. 6 agosto 2015, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
 
 ### Art. 137. — Elenco delle associazioni dei consumatori e degli utenti rappresentative a livello nazionale
 
@@ -5158,7 +4790,7 @@ Il Ministero ((dello sviluppo economico)) comunica alla Commissione europea l'el
 
 AGGIORNAMENTO (25)
 
-Il [D.Lgs. 6 agosto 2015, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
+Il [D.Lgs. 6 agosto 2015, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
 
 ### Art. 138.
 
@@ -5316,7 +4948,7 @@ L'azione rappresentativa puo' essere promossa anche se le violazioni sono cessat
 
 AGGIORNAMENTO (47)
 
-Il [D.Lgs. 10 marzo 2023, n. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
+Il [D.Lgs. 10 marzo 2023, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
 
 ### Art. 140-quater. — ((Legittimazione ad agire))
 
@@ -5334,7 +4966,7 @@ Le associazioni dei consumatori e degli utenti inserite nell'elenco di cui all'a
 
 AGGIORNAMENTO (47)
 
-Il [D.Lgs. 10 marzo 2023, n. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
+Il [D.Lgs. 10 marzo 2023, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
 
 ### Art. 140-quinquies. — ((Enti legittimati a proporre azioni rappresentative transfrontaliere))
 
@@ -5372,7 +5004,7 @@ Possono essere designati come enti legittimati a proporre azioni rappresentative
 
 AGGIORNAMENTO (47)
 
-Il [D.Lgs. 10 marzo 2023, n. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
+Il [D.Lgs. 10 marzo 2023, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
 
 ### Art. 140-sexies. — ((Comunicazione degli enti legittimati e monitoraggio))
 
@@ -5398,7 +5030,7 @@ Se uno Stato membro o la Commissione europea solleva riserve in ordine al posses
 
 AGGIORNAMENTO (47)
 
-Il [D.Lgs. 10 marzo 2023, n. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
+Il [D.Lgs. 10 marzo 2023, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
 
 ### Art. 140-septies. — ((Azioni rappresentative))
 
@@ -5430,7 +5062,7 @@ Il ricorso, unitamente al decreto di fissazione dell'udienza, e' pubblicato ai s
 
 7.
 
-Il procedimento e' regolato dal rito semplificato di cui al libro secondo, titolo I, capo III-quater, del [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443), in quanto compatibile. Non si applica il [primo comma dell'articolo 281-duodecies del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_281duodecies-com1). In ogni caso, resta fermo il diritto all'azione individuale, salvo quanto previsto all'[articolo 840-undecies, nono comma, del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_840undecies-com9). Non e' ammesso l'intervento dei terzi ai sensi dell'[articolo 105 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_105). Entro il termine di trenta giorni dalla prima udienza, il tribunale decide con ordinanza sull'ammissibilita' della domanda, ma puo' sospendere il giudizio quando sui fatti rilevanti ai fini del decidere e' in corso un'istruttoria davanti a un'autorita' indipendente ovvero un giudizio davanti al giudice amministrativo. Restano ferme le disposizioni del [decreto legislativo 19 gennaio 2017, n. 3](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-104-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2026%20novembre%202014%20relativa%20a%20determinate%20norme%20che%20regolano%20le%20azioni%20per%20il%20risarcimento%20del%20danno%20ai%20sen_b36ac4d2fa65.md).
+Il procedimento e' regolato dal rito semplificato di cui al libro secondo, titolo I, capo III-quater, del [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443), in quanto compatibile. Non si applica il [primo comma dell'articolo 281-duodecies del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_281duodecies-com1). In ogni caso, resta fermo il diritto all'azione individuale, salvo quanto previsto all'[articolo 840-undecies, nono comma, del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_840undecies-com9). Non e' ammesso l'intervento dei terzi ai sensi dell'[articolo 105 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_105). Entro il termine di trenta giorni dalla prima udienza, il tribunale decide con ordinanza sull'ammissibilita' della domanda, ma puo' sospendere il giudizio quando sui fatti rilevanti ai fini del decidere e' in corso un'istruttoria davanti a un'autorita' indipendente ovvero un giudizio davanti al giudice amministrativo. Restano ferme le disposizioni del [decreto legislativo 19 gennaio 2017, n. 3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-104-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2026%20novembre%202014%20relativa%20a%20determinate%20norme%20che%20regolano%20le%20azioni%20per%20il%20risarcimento%20del%20danno%20ai%20sen_b36ac4d2fa65.md).
 
 8.
 
@@ -5464,7 +5096,7 @@ Quando l'inammissibilita' e' dichiarata a norma del comma 8, lettera a), il rico
 
 AGGIORNAMENTO (47)
 
-Il [D.Lgs. 10 marzo 2023, n. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
+Il [D.Lgs. 10 marzo 2023, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
 
 ### Art. 140-octies. — ((Provvedimenti inibitori))
 
@@ -5507,7 +5139,7 @@ Si applicano il settimo e l'[ottavo comma dell'articolo 840-sexiesdecies del cod
 
 AGGIORNAMENTO (47)
 
-Il [D.Lgs. 10 marzo 2023, n. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
+Il [D.Lgs. 10 marzo 2023, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
 
 ### Art. 140-novies. — ((Provvedimenti compensativi))
 
@@ -5529,7 +5161,7 @@ Fermo quanto previsto dall'articolo 140-septies, si applicano gli [articoli da 8
 
 AGGIORNAMENTO (47)
 
-Il [D.Lgs. 10 marzo 2023, n. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
+Il [D.Lgs. 10 marzo 2023, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
 
 ### Art. 140-decies. — ((Accordi di natura transattiva e conciliativa))
 
@@ -5559,7 +5191,7 @@ Si applica l'[articolo 185, terzo comma, del codice di procedura civile](https:/
 
 AGGIORNAMENTO (47)
 
-Il [D.Lgs. 10 marzo 2023, n. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
+Il [D.Lgs. 10 marzo 2023, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
 
 ### Art. 140-undecies. — ((Informazioni sulle azioni rappresentative))
 
@@ -5570,7 +5202,7 @@ Il [D.Lgs. 10 marzo 2023, n. 28](../Atti%20di%20recepimento%20direttive%20UE/Att
 
 AGGIORNAMENTO (47)
 
-Il [D.Lgs. 10 marzo 2023, n. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
+Il [D.Lgs. 10 marzo 2023, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
 
 ### Art. 140-duodecies. — ((Interruzione della prescrizione e impedimento della decadenza))
 
@@ -5581,7 +5213,7 @@ Il [D.Lgs. 10 marzo 2023, n. 28](../Atti%20di%20recepimento%20direttive%20UE/Att
 
 AGGIORNAMENTO (47)
 
-Il [D.Lgs. 10 marzo 2023, n. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023". 
+Il [D.Lgs. 10 marzo 2023, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023". 
  Ha inoltre disposto (con l'art. 4, comma 2) che "L'[articolo 140-duodecies del decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), si applica alle azioni volte ad ottenere provvedimenti compensativi relative a violazioni verificatesi a partire dal 25 giugno 2023".
 
 ### Art. 140-terdecies. — ((Misure di coercizione indiretta))
@@ -5594,7 +5226,7 @@ Tali somme sono versate ad apposito capitolo dell'entrata del bilancio dello Sta
 
 AGGIORNAMENTO (47)
 
-Il [D.Lgs. 10 marzo 2023, n. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
+Il [D.Lgs. 10 marzo 2023, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
 
 ### Art. 140-quaterdecies. — ((Spese del procedimento))
 
@@ -5605,7 +5237,7 @@ Il [D.Lgs. 10 marzo 2023, n. 28](../Atti%20di%20recepimento%20direttive%20UE/Att
 
 AGGIORNAMENTO (47)
 
-Il [D.Lgs. 10 marzo 2023, n. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
+Il [D.Lgs. 10 marzo 2023, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
 
 ## ((Titolo IIbis RISOLUZIONE EXTRAGIUDIZIALE DELLE CONTROVERSIE))
 
@@ -5712,7 +5344,7 @@ Il consumatore non puo' essere privato in nessun caso del diritto di adire il gi
 
 AGGIORNAMENTO (25)
 
-Il [D.Lgs. 6 agosto 2015, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
+Il [D.Lgs. 6 agosto 2015, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
 
 ### Art. 141-bis. — (( (Obblighi, facolta' e requisiti degli organismi ADR). ))
 
@@ -5802,7 +5434,7 @@ Restano ferme le disposizioni in materia di formazione dei mediatori di cui ai [
 
 AGGIORNAMENTO (25)
 
-Il [D.Lgs. 6 agosto 2015, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
+Il [D.Lgs. 6 agosto 2015, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
 
 ### Art. 141-ter. — (( (Negoziazioni paritetiche). ))
 
@@ -5830,7 +5462,7 @@ Le procedure svolte dinanzi agli organismi ADR in cui parte delle persone fisich
 
 AGGIORNAMENTO (25)
 
-Il [D.Lgs. 6 agosto 2015, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
+Il [D.Lgs. 6 agosto 2015, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
 
 ### Art. 141-quater. — (( (Trasparenza, efficacia, equita' e liberta'). ))
 
@@ -5933,7 +5565,7 @@ d) le parti, prima di accogliere una soluzione proposta o acconsentire a una sol
 
 AGGIORNAMENTO (25)
 
-Il [D.Lgs. 6 agosto 2015, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
+Il [D.Lgs. 6 agosto 2015, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
 
 ### Art. 141-quinquies. — (( (Effetti della procedura ADR sui termini di prescrizione e decadenza). ))
 
@@ -5955,7 +5587,7 @@ Se la procedura ADR fallisce, i relativi termini di prescrizione e decadenza ini
 
 AGGIORNAMENTO (25)
 
-Il [D.Lgs. 6 agosto 2015, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
+Il [D.Lgs. 6 agosto 2015, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
 
 ### Art. 141-sexies. — (( (Informazioni e assistenza ai consumatori). ))
 
@@ -6002,7 +5634,7 @@ Sul sito istituzionale di ciascuna autorita' competente e' assicurata la pubblic
 
 AGGIORNAMENTO (25)
 
-Il [D.Lgs. 6 agosto 2015, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
+Il [D.Lgs. 6 agosto 2015, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
 
 ### Art. 141-septies. — (( (Cooperazione). ))
 
@@ -6032,7 +5664,7 @@ La cooperazione e lo scambio di informazioni di cui ai commi 1, 2 e 3 devono avv
 
 AGGIORNAMENTO (25)
 
-Il [D.Lgs. 6 agosto 2015, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
+Il [D.Lgs. 6 agosto 2015, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
 
 ### Art. 141-octies. — (Autorita' competenti e punto di contatto unico).
 
@@ -6042,13 +5674,13 @@ Per lo svolgimento delle funzioni di cui agli articoli 141-nonies e 141-decies, 
                             a)
                                 Ministero della giustizia unitamente al Ministero dello sviluppo economico, con riferimento al registro degli organismi di mediazione relativo alla materia del consumo, di cui all'[articolo 16, commi 2](Attuazione%20dellarticolo%2060%20della%20legge%2018%20giugno%202009%20n.%2069%20in%20materia%20di%20mediazione%20finalizzata%20alla%20conciliazione%20delle%20controversie%20civili%20e%20commerciali.%2010G0050.md) e [4, del decreto legislativo 4 marzo 2010, n. 28](Attuazione%20dellarticolo%2060%20della%20legge%2018%20giugno%202009%20n.%2069%20in%20materia%20di%20mediazione%20finalizzata%20alla%20conciliazione%20delle%20controversie%20civili%20e%20commerciali.%2010G0050.md);
                             b)
-                                Commissione nazionale per le societa' e la borsa (CONSOB), di cui all'[articolo 1 della legge 7 giugno 1974, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20aprile%201974%20n.%2095%20recante%20disposizioni%20relative%20al%20mercato%20mobiliare%20ed%20al%20trattamento%20fiscale%20dei%20titoli%20azionari.md), con riferimento ai sistemi di risoluzione stragiudiziale delle controversie disciplinati ai sensi dell'[articolo 2 del decreto legislativo 8 ottobre 2007, n. 179](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20procedure%20di%20conciliazione%20e%20di%20arbitrato%20sistema%20di%20indennizzo%20e%20fondo%20di%20garanzia%20per%20i%20risparmiatori%20e%20gli%20investitori%20in%20attuazione%20dellarticolo%2027%20commi%201%20e%202%20della%20le_79de56c7bc93.md), e dei regolamenti attuativi, e con oneri a carico delle risorse di cui all'[articolo 40, comma 3, della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), e successive modificazioni, nonche' dei soggetti che si avvalgono delle procedure medesime;
+                                Commissione nazionale per le societa' e la borsa (CONSOB), di cui all'[articolo 1 della legge 7 giugno 1974, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20aprile%201974%20n.%2095%20recante%20disposizioni%20relative%20al%20mercato%20mobiliare%20ed%20al%20trattamento%20fiscale%20dei%20titoli%20azionari.md), con riferimento ai sistemi di risoluzione stragiudiziale delle controversie disciplinati ai sensi dell'[articolo 2 del decreto legislativo 8 ottobre 2007, n. 179](Istituzione%20di%20procedure%20di%20conciliazione%20e%20di%20arbitrato%20sistema%20di%20indennizzo%20e%20Fondo%20per%20la%20tutela%20stragiudiziale%20dei%20risparmiatori%20e%20degli%20investitori%20in%20attuazione%20dellarticolo%2027%20com_67828b71a909.md), e dei regolamenti attuativi, e con oneri a carico delle risorse di cui all'[articolo 40, comma 3, della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), e successive modificazioni, nonche' dei soggetti che si avvalgono delle procedure medesime;
                             c)
                                 Autorita' per l'energia elettrica, il gas e il sistema idrico (AEEGSI), di cui all'[articolo 2 della legge 14 novembre 1995, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481#art_2), per il settore di competenza;
                             d)
                                 Autorita' per le garanzie nelle comunicazioni (AGCOM), di cui all'[articolo 1 della legge 31 luglio 1997, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249#art_1), per il settore di competenza;
                             e)
-                                Banca d'Italia, con riferimento ai sistemi di risoluzione stragiudiziale delle controversie disciplinati ai sensi dell'[articolo 128-bis del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_128bis);
+                                Banca d'Italia, con riferimento ai sistemi di risoluzione stragiudiziale delle controversie disciplinati ai sensi dell'[articolo 128-bis del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
                             f)
                                 altre autorita' amministrative indipendenti, di regolazione di specifici settori, ove disciplinino specifiche procedure ADR secondo le proprie competenze;
                             g)
@@ -6067,7 +5699,7 @@ Al fine di definire uniformita' di indirizzo nel compimento delle funzioni delle
 
 AGGIORNAMENTO (25)
 
-Il [D.Lgs. 6 agosto 2015, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
+Il [D.Lgs. 6 agosto 2015, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
 
 ### Art. 141-novies. — (( (Informazioni da trasmettere alle autorita' competenti da parte degli organismi di risoluzione delle controversie). ))
 
@@ -6098,7 +5730,7 @@ Il [D.Lgs. 6 agosto 2015, n. 130](../Atti%20di%20recepimento%20direttive%20UE/At
 
 AGGIORNAMENTO (25)
 
-Il [D.Lgs. 6 agosto 2015, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
+Il [D.Lgs. 6 agosto 2015, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
 
 ### Art. 141-decies. — (( (Ruolo delle autorita' competenti). ))
 
@@ -6160,7 +5792,7 @@ c) elabora raccomandazioni su come migliorare l'efficacia e l'efficienza del fun
 
 AGGIORNAMENTO (25)
 
-Il [D.Lgs. 6 agosto 2015, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
+Il [D.Lgs. 6 agosto 2015, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
 
 ## DISPOSIZIONI FINALI - - - -
 
@@ -6197,9 +5829,9 @@ Ogni intervento normativo incidente sul codice, o sulle materie dallo stesso dis
 
 Il Ministero dello sviluppo economico, salve le disposizioni in materia bancaria, finanziaria, assicurativa e di sistemi di pagamento e le competenze delle autorita' indipendenti di settore, che continuano a svolgere le funzioni di autorita' competente ai sensi dell'articolo 3, numero 6), del regolamento (UE) 2017/2394 del Parlamento europeo e del Consiglio, del 12 dicembre 2017, nonche' le disposizioni vigenti nelle ulteriori materie per le quali e' prevista la competenza di altre autorita' nazionali, svolge le funzioni di autorita' competente, ai sensi del medesimo [articolo 3, numero 6), del regolamento (UE) 2017/2394](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2017;2394#art_3-num6), in materia di:
                             a)
-                                LETTERA SOPPRESSA DAL [D.LGS. 21 FEBBRAIO 2014, N. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md); (24)
+                                LETTERA SOPPRESSA DAL [D.LGS. 21 FEBBRAIO 2014, N. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md); (24)
                             b)
-                                LETTERA SOPPRESSA DAL [D.LGS. 21 FEBBRAIO 2014, N. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md); (24)
+                                LETTERA SOPPRESSA DAL [D.LGS. 21 FEBBRAIO 2014, N. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md); (24)
                             c)
                                 garanzia nella vendita dei beni di consumo, di cui alla parte IV, titolo III, capo I;
                             d)
@@ -6207,9 +5839,9 @@ Il Ministero dello sviluppo economico, salve le disposizioni in materia bancaria
                             e)
                                 commercio elettronico, di cui alla parte III, titolo III, capo II;
                             f)
-                                LETTERA SOPPRESSA DAL [D.LGS. 21 FEBBRAIO 2014, N. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md); (24)
+                                LETTERA SOPPRESSA DAL [D.LGS. 21 FEBBRAIO 2014, N. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md); (24)
                             g)
-                                LETTERA SOPPRESSA DAL [D.LGS. 21 FEBBRAIO 2014, N. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md); (24)
+                                LETTERA SOPPRESSA DAL [D.LGS. 21 FEBBRAIO 2014, N. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md); (24)
                             h)
                                 contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio, di cui alla parte III, titolo IV, capo I. (24)
 
@@ -6251,19 +5883,19 @@ L'Autorita' garante della concorrenza e del mercato e' designata quale organismo
 
 9-ter.
 
-Il Centro nazionale della rete europea per i consumatori (ECC-NET) e' designato quale organismo competente a fornire assistenza ai consumatori in caso di controversia tra un consumatore e un professionista ai sensi dell'[articolo 8 del regolamento (UE) 2018/302](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2018;302#art_8). Per le finalita' di cui al primo periodo si applica la procedura di cui all'[articolo 30, comma 1-bis, del decreto legislativo 26 marzo 2010, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+Il Centro nazionale della rete europea per i consumatori (ECC-NET) e' designato quale organismo competente a fornire assistenza ai consumatori in caso di controversia tra un consumatore e un professionista ai sensi dell'[articolo 8 del regolamento (UE) 2018/302](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2018;302#art_8). Per le finalita' di cui al primo periodo si applica la procedura di cui all'[articolo 30, comma 1-bis, del decreto legislativo 26 marzo 2010, n. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 -------------
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 21 febbraio 2014, n. 21](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
+Il [D.Lgs. 21 febbraio 2014, n. 21](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-83-UE%20sui%20diritti%20dei%20consumatori%20recante%20modifica%20delle%20direttive%2093-13-CEE%20e%201999-44-CE%20e%20che%20abroga%20le%20direttive%2085-577-CEE%20e%2097-7-CE.%2014G00033.md) ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
 ---------------
 
 AGGIORNAMENTO (56)
 
-Il [D.Lgs. 31 dicembre 2025, n. 212](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202023-2225%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2018%20ottobre%202023%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20e%20che%20abroga%20la%20direttiva%202008-48-CE.%2026G00009.md) ha disposto (con l'art. 6, comma 2) che "Fatto salvo quanto previsto dall'articolo 4, comma 2, i finanziatori e gli intermediari del credito si adeguano alle disposizioni del presente decreto entro il 20 novembre 2026 ovvero, se successivo, entro il termine di novanta giorni dalla data di entrata in vigore delle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia. Ai contratti di credito ai consumatori stipulati prima della scadenza di tale termine continuano ad applicarsi le pertinenti disposizioni del testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), vigenti alla data di entrata in vigore del presente decreto, e le relative disposizioni di attuazione emanate dalle autorita' creditizie". 
+Il [D.Lgs. 31 dicembre 2025, n. 212](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202023-2225%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2018%20ottobre%202023%20relativa%20ai%20contratti%20di%20credito%20ai%20consumatori%20e%20che%20abroga%20la%20direttiva%202008-48-CE.%2026G00009.md) ha disposto (con l'art. 6, comma 2) che "Fatto salvo quanto previsto dall'articolo 4, comma 2, i finanziatori e gli intermediari del credito si adeguano alle disposizioni del presente decreto entro il 20 novembre 2026 ovvero, se successivo, entro il termine di novanta giorni dalla data di entrata in vigore delle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia. Ai contratti di credito ai consumatori stipulati prima della scadenza di tale termine continuano ad applicarsi le pertinenti disposizioni del testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), vigenti alla data di entrata in vigore del presente decreto, e le relative disposizioni di attuazione emanate dalle autorita' creditizie". 
  Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'[articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2023;2225), secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
 ### Art. 145. — Competenze delle regioni e delle province autonome
@@ -6288,7 +5920,7 @@ Dalla data di entrata in vigore del presente codice sono abrogati:
                             e)
                                 [decreto legislativo 17 marzo 1995, n. 111](Attuazione%20della%20direttiva%20n.%2090-314-CEE%20concernente%20i%20viaggi%20le%20vacanze%20ed%20i%20circuiti%20tutto%20compreso.md), cosi' come modificato dalla [legge 5 marzo 2001, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-05;57), recante attuazione della [direttiva 90/314/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;314), concernente i viaggi, le vacanze ed i circuiti "tutto compreso";
                             f)
-                                la [legge 30 luglio 1998, n. 281](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20dei%20diritti%20dei%20consumatori%20e%20degli%20utenti.md), recante disciplina dei diritti dei consumatori e degli utenti, cosi' come modificata dalla [legge 24 novembre 2000, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340), dal [decreto legislativo 23 aprile 2001, n. 224, e dall'articolo 11](Attuazione%20della%20direttiva%2098-27-CE%20relativa%20a%20provvedimenti%20inibitori%20a%20tutela%20degli%20interessi%20dei%20consumatori.md) della [legge 1° marzo 2002, n. 39](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2001, sono fatte salve le disposizioni di cui all'articolo 7, con riferimento alle attivita' promozionali del Consiglio nazionale dei consumatori e degli utenti di cui all'articolo 136 e alle agevolazioni di cui all'articolo 138;
+                                la [legge 30 luglio 1998, n. 281](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20dei%20diritti%20dei%20consumatori%20e%20degli%20utenti.md), recante disciplina dei diritti dei consumatori e degli utenti, cosi' come modificata dalla [legge 24 novembre 2000, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340), dal [decreto legislativo 23 aprile 2001, n. 224, e dall'articolo 11](Attuazione%20della%20direttiva%2098-27-CE%20relativa%20a%20provvedimenti%20inibitori%20a%20tutela%20degli%20interessi%20dei%20consumatori.md) della [legge 1° marzo 2002, n. 39](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2001, sono fatte salve le disposizioni di cui all'articolo 7, con riferimento alle attivita' promozionali del Consiglio nazionale dei consumatori e degli utenti di cui all'articolo 136 e alle agevolazioni di cui all'articolo 138;
                             g)
                                 il [decreto legislativo 9 novembre 1998, n 427](Attuazione%20della%20direttiva%2094-47-CE%20concernente%20la%20tutela%20dellacquirente%20per%20taluni%20aspetti%20dei%20contratti%20relativi%20allacquisizione%20di%20un%20diritto%20di%20godimento%20a%20tempo%20parziale%20di%20beni%20immobili.md), recante attuazione della [direttiva 94/47/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;47), concernente la tutela dell'acquirente per taluni aspetti dei contratti relativi all'acquisizione di un diritto di godimento a tempo parziale di beni immobili;
                             h)
@@ -6310,7 +5942,7 @@ attuazione della [direttiva 98/27/CE](https://www.normattiva.it/uri-res/N2Ls?urn
                             q)
                                 il [comma 9 dell'articolo 19 del decreto legislativo 31 marzo 1998, n. 114](Riforma%20della%20disciplina%20relativa%20al%20settore%20del%20commercio%20a%20norma%20dellarticolo%204%20comma%204%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante riforma della disciplina relativa al settore del commercio, a norma dell'[articolo 4, comma 4, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
                             r)
-                                commi 4 e 5 dell'articolo 125 del testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni;
+                                commi 4 e 5 dell'articolo 125 del testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni;
                             s)
                                 gli articoli 1519-bis, 1519-ter, 1519-quater, 1519-quinquies, 1519-sexies, 1519-septies, 1519-octies e 1519-nonies del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262);
                             t)
@@ -6344,7 +5976,7 @@ Note all'[art. 146:
  - Per il testo del [decreto legislativo 23 aprile 2001, n. 224](Attuazione%20della%20direttiva%2098-27-CE%20relativa%20a%20provvedimenti%20inibitori%20a%20tutela%20degli%20interessi%20dei%20consumatori.md), vedi le note alle premesse.
  - Per il testo del [decreto legislativo 21 maggio 2004, n. 172](Attuazione%20della%20direttiva%20n.%202001-95-CE%20relativa%20alla%20sicurezza%20generale%20dei%20prodotti.md), vedi le note alle premesse.
  - Per i testi degli [articoli 18](Riforma%20della%20disciplina%20relativa%20al%20settore%20del%20commercio%20a%20norma%20dellarticolo%204%20comma%204%20della%20legge%2015%20marzo%201997%20n.%2059.md) e [19 del decreto legislativo 31 marzo 1998, n. 114](Riforma%20della%20disciplina%20relativa%20al%20settore%20del%20commercio%20a%20norma%20dellarticolo%204%20comma%204%20della%20legge%2015%20marzo%201997%20n.%2059.md), vedi le note alle premesse.
- - Il testo dell'[art. 125 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_125), recante "Testo unico delle leggi in materia bancaria e creditizia", (pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, S.O., come modificato dal presente decreto, e' il seguente:
+ - Il testo dell'[art. 125 del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), recante "Testo unico delle leggi in materia bancaria e creditizia", (pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, S.O., come modificato dal presente decreto, e' il seguente:
  "Art. 125 (Disposizioni varie a tutela dei consumatori). - 1. Le norme dettate dall'[art. 1525 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1525) si applicano anche a tutti i contratti di credito al consumo a fronte dei quali sia stato concesso un diritto reale di garanzia sul bene acquistato con il denaro ricevuto in prestito.
  2. Le facolta' di adempiere in via anticipata o di recedere dal contratto senza penalita' spettano unicamente al consumatore senza possibilita' di patto contrario. Se il consumatore esercita la facolta' di adempimento anticipato, ha diritto a un'equa riduzione del costo complessivo del credito, secondo le modalita' stabilite dal CICR.
  3. In caso di cessione dei crediti nascenti da un contratto di credito al consumo, il consumatore puo' sempre opporre al cessionario tutte le eccezioni che poteva far valere nei confronti del cedente, ivi compresa la compensazione, anche in deroga al disposto dell'[art. 1248 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1248).

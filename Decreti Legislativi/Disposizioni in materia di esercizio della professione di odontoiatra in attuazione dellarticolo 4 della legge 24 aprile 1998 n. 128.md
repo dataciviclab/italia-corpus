@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87):
 
-Vista la [legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), ed in particolare l'articolo 4 e l'allegato E;
+Vista la [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), ed in particolare l'articolo 4 e l'allegato E;
 
 Viste le [direttive 78/687/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;687) e [78/686/CEE, del consiglio del 25 luglio 1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;686), concernenti le attivita' di dentista;
 
@@ -68,7 +68,7 @@ Avvertenza:
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti.
- - La [legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), reca disposizioni per l'adempimento di obblighi derivanti dalla appartenenza dell'Italia alle Comunita' europee.
+ - La [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), reca disposizioni per l'adempimento di obblighi derivanti dalla appartenenza dell'Italia alle Comunita' europee.
  L'art. 4 cosi' recita:
  "Art. 4 (Delega al Governo per l'esecuzione delle sentenze della Corte di giustizia delle Comunita' europee). - 1. Il Governo e' delegato ad emanare, nel termine di cui al comma 1, decreti legislativi recanti le norme correttive e integrative necessarie ad adeguare l'ordinamento nazionale alle sentenze della Corte di giustizia delle Comunita' europee di cui all'allegato E, informandosi ai principi e ai criteri ivi affermati nonche' a quelli stabiliti nell'art. 2.
  2. I decreti legislativi di cui al comma 1 sono emanati con le modalita' di cui ai commi 2 e 3 dell'art. 1".

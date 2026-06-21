@@ -183,7 +183,7 @@ N O T E
  2. Nelle controversie di cui al comma 1 l'esperimento del procedimento di mediazione e' condizione di procedibilita' della domanda introduttiva del giudizio.
  L'improcedibilita' e' eccepita dal convenuto, a pena di decadenza, o rilevata d'ufficio dal giudice non oltre la prima udienza. Il giudice, quando rileva che la mediazione non e' stata esperita o e' gia' iniziata, ma non si e' conclusa, fissa la successiva udienza dopo la scadenza del termine di cui all'articolo 6. A tale udienza, il giudice accerta se la condizione di procedibilita' e' stata soddisfatta e, in mancanza, dichiara l'improcedibilita' della domanda giudiziale. 
  3. Per assolvere alla condizione di procedibilita' le parti possono anche esperire, per le materie e nei limiti ivi regolamentati, le procedure previste: 
- a) dall'[articolo 128-bis del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_128bis); 
+ a) dall'[articolo 128-bis del decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md); 
  b) dall'[articolo 32-ter del decreto legislativo 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md); 
  c) dall'articolo 187.1 del [decreto legislativo 7 settembre 2005, n. 209](Codice%20delle%20assicurazioni%20private.md); 
  d) dall'[articolo 2, comma 24, lettera b), della legge 14 novembre 1995, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481#art_2-com24-letb); 

@@ -2152,7 +2152,7 @@ Nel sito internet della regione dedicato ai bilanci e' pubblicata la versione in
 
 1.
 
-Le regioni, sulla base delle norme dei rispettivi statuti, assicurano l'autonomia contabile del consiglio regionale, nel rispetto di quanto previsto dal [decreto-legge 10 ottobre 2012, n. 174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-10;174), convertito, con modificazioni, dalla [legge 7 dicembre 2012, n. 213](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20ottobre%202012%20n.%20174%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20e%20funzionamento%20degli%20enti%20territoriali%20nonche%20ulteriori_8aa8e76387bd.md), e dai principi contabili stabiliti dal presente decreto riguardanti gli organismi strumentali.
+Le regioni, sulla base delle norme dei rispettivi statuti, assicurano l'autonomia contabile del consiglio regionale, nel rispetto di quanto previsto dal [decreto-legge 10 ottobre 2012, n. 174](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-10;174), convertito, con modificazioni, dalla [legge 7 dicembre 2012, n. 213](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20ottobre%202012%20n.%20174%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20e%20funzionamento%20degli%20enti%20territoriali%20nonche%20ulteriori_8aa8e76387bd.md), e dai principi contabili stabiliti dal presente decreto riguardanti gli organismi strumentali.
 
 2.
 
@@ -2198,7 +2198,7 @@ Il bilancio consolidato e' approvato dal Consiglio regionale entro il ((31 ottob
 
 1.
 
-Il servizio di tesoreria delle regioni e' affidato, in base ad apposita convenzione sottoscritta dal dirigente competente, a imprese autorizzate all'esercizio dell'attivita' bancaria ai sensi del [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni.
+Il servizio di tesoreria delle regioni e' affidato, in base ad apposita convenzione sottoscritta dal dirigente competente, a imprese autorizzate all'esercizio dell'attivita' bancaria ai sensi del [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni.
 
 2.
 
@@ -2276,7 +2276,7 @@ Gli amministratori e i dipendenti della regione, per danni arrecati nell'eserciz
 
 1.
 
-Il collegio dei revisori dei conti, istituito ai sensi e secondo le modalita' previste dall'[art. 14, comma 1, lettera e), del decreto-legge 3 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-03;138#art_14-com1-lete), convertito, con modificazioni, dalla [legge 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), svolge la funzione di vigilanza sulla regolarita' contabile, finanziaria ed economica della gestione della regione, delle sue articolazioni organizzative dotate di autonomia contabile e di bilancio, compreso il Consiglio regionale, ove non sia presente un proprio organo di revisione.
+Il collegio dei revisori dei conti, istituito ai sensi e secondo le modalita' previste dall'[art. 14, comma 1, lettera e), del decreto-legge 3 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-03;138#art_14-com1-lete), convertito, con modificazioni, dalla [legge 14 settembre 2011, n. 148](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), svolge la funzione di vigilanza sulla regolarita' contabile, finanziaria ed economica della gestione della regione, delle sue articolazioni organizzative dotate di autonomia contabile e di bilancio, compreso il Consiglio regionale, ove non sia presente un proprio organo di revisione.
 
 2.
 

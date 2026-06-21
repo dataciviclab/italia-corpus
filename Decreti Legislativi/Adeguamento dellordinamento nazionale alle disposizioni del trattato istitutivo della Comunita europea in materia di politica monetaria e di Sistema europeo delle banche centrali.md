@@ -44,7 +44,7 @@ Nel presente decreto legislativo si intendono per:
                         d)
                             "statuto del SEBC": lo statuto del Sistema europeo di banche centrali e della Banca centrale europea, oggetto del protocollo n. 3 allegato al trattato;
                         e)
-                            "statuto della Banca": lo statuto della Banca d'Italia approvato con [regio decreto 11 giugno 1936, n. 1067](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), e successive modifiche e integrazioni;
+                            "statuto della Banca": lo statuto della Banca d'Italia approvato con [regio decreto 11 giugno 1936, n. 1067](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), e successive modifiche e integrazioni;
                         f)
                             "testo unico": il testo unico delle leggi sugli istituti di emissione, approvato con [regio decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md), e successive modifiche e integrazioni.
 
@@ -62,7 +62,7 @@ Avvertenza:
  Note all'art. 1:
  - Si riporta il testo dell'art. 4A del trattato che istituisce la Comunita' europea:
  "Sono istituiti, secondo le procedure previste dal presente trattato, un Sistema europeo di banche centrali (in appresso denominato SEBC) e una Banca centrale europea (in appresso denominata BCE), che agiscono nei limiti dei poteri loro conferiti dal presente trattato e dallo statuto del SEBC e della BCE (in appresso denominato ''statuto del SEBC'') allegati al trattato stesso".
- - Il titolo del [regio decreto 11 giugno 1936, n. 1067](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), e' il seguente: "Approvazione dello statuto della Banca d'Italia".
+ - Il titolo del [regio decreto 11 giugno 1936, n. 1067](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), e' il seguente: "Approvazione dello statuto della Banca d'Italia".
  - Il testo unico delle leggi sugli istituti di emissione, approvato con [regio decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md), reca: "Approvazione del testo unico delle leggi sugli istituti di emissione e sulla circolazione dei biglietti di banca".
 
 ## Art. 2. — Partecipazione della Banca d'Italia al SEBC
@@ -86,7 +86,7 @@ Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art.
 
 1.
 
-Fino all'adozione da parte dell'Italia della moneta unica, secondo le previsioni del trattato, il Governatore della Banca d'Italia determina la misura dell'interesse dei depositi in conto corrente fruttifero presso la Banca stessa. Successivamente tale determinazione viene effettuata secondo le competenze previste nelle norme del trattato e dello statuto del SEBC. Fino al termine sopra indicato, resta ferma la disposizione dell'[articolo 10, comma 4, della legge 26 novembre 1993, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-26;483#art_10-com4), cosi' come previsto negli articoli 6, comma 1, e 11, comma 2, del presente decreto. Sono o restano abrogati l'articolo 37 del testo unico, l'[articolo 2 del regio decreto-legge 23 novembre 1914, n. 1284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1914-11-23;1284#art_2), e l'[articolo 5, secondo comma, del regio decreto 17 giugno 1928, n. 1377](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20degli%20accordi%20fra%20il%20Regio%20tesoro%20e%20la%20Banca%20dItalia%20a%20sensi%20del%20R.%20decreto-legge%2021%20dicembre%201927%20n.%202325.%20028U1377.md).
+Fino all'adozione da parte dell'Italia della moneta unica, secondo le previsioni del trattato, il Governatore della Banca d'Italia determina la misura dell'interesse dei depositi in conto corrente fruttifero presso la Banca stessa. Successivamente tale determinazione viene effettuata secondo le competenze previste nelle norme del trattato e dello statuto del SEBC. Fino al termine sopra indicato, resta ferma la disposizione dell'[articolo 10, comma 4, della legge 26 novembre 1993, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-26;483#art_10-com4), cosi' come previsto negli articoli 6, comma 1, e 11, comma 2, del presente decreto. Sono o restano abrogati l'articolo 37 del testo unico, l'[articolo 2 del regio decreto-legge 23 novembre 1914, n. 1284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1914-11-23;1284#art_2), e l'[articolo 5, secondo comma, del regio decreto 17 giugno 1928, n. 1377](../Regi%20decreti/Attuazione%20degli%20accordi%20fra%20il%20Regio%20tesoro%20e%20la%20Banca%20dItalia%20a%20sensi%20del%20R.%20decreto-legge%2021%20dicembre%201927%20n.%202325.%20028U1377.md).
 
 2.
 
@@ -165,7 +165,7 @@ Per il perseguimento degli obiettivi e per lo svolgimento dei compiti propri del
 
 3.
 
-I titoli o le altre attivita' ricevibili dalla Banca d'Italia a garanzia o in contropartita delle operazioni da essa poste in essere nell'assolvimento dei compiti del SEBC sono determinati secondo le disposizioni adottate in applicazione dello statuto del SEBC. Sono abrogati l'articolo 29 del testo unico, l'articolo unico della [legge 6 dicembre 1965, n. 1380, l'articolo 148](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allarticolo%2029%20del%20testo%20unico%20delle%20leggi%20sugli%20istituti%20di%20emissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20banca%20approvato%20con%20regio%20decreto%2028%20aprile%201910%20n.%20204.md) del [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e le altre disposizioni che prevedono la stanziabilita' di determinate specie di titoli in anticipazione presso la Banca d'Italia.
+I titoli o le altre attivita' ricevibili dalla Banca d'Italia a garanzia o in contropartita delle operazioni da essa poste in essere nell'assolvimento dei compiti del SEBC sono determinati secondo le disposizioni adottate in applicazione dello statuto del SEBC. Sono abrogati l'articolo 29 del testo unico, l'articolo unico della [legge 6 dicembre 1965, n. 1380, l'articolo 148](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allarticolo%2029%20del%20testo%20unico%20delle%20leggi%20sugli%20istituti%20di%20emissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20banca%20approvato%20con%20regio%20decreto%2028%20aprile%201910%20n.%20204.md) del [decreto legislativo 1 settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e le altre disposizioni che prevedono la stanziabilita' di determinate specie di titoli in anticipazione presso la Banca d'Italia.
 
 4.
 

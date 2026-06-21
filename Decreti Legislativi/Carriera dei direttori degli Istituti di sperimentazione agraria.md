@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-L'ultimo comma dell'[art. 46 del regio decreto 29 maggio 1941, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md), e' modificato come segue:
+L'ultimo comma dell'[art. 46 del regio decreto 29 maggio 1941, n. 489](../Regi%20decreti/Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md), e' modificato come segue:
  "I direttori ordinari conseguono la promozione al grado quinto al compimento del quinto anno di anzianita' nel grado sesto e la promozione al grado quarto al compimento del quarto anno di anzianita' nel grado quinto".
 
 ## Art. 2.
@@ -31,7 +31,7 @@ Fermo rimanendo il numero dei posti dei direttori ordinari e straordinari degli 
 
 ## Art. 3.
 
-Il limite di eta' previsto dall'[art. 51 del regio decreto 29 maggio 1941, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md), per il collocamento a riposo dei direttori degli Istituti di sperimentazione agraria, e' elevato a 75 anni.
+Il limite di eta' previsto dall'[art. 51 del regio decreto 29 maggio 1941, n. 489](../Regi%20decreti/Riorganizzazione%20dei%20servizi%20e%20revisione%20del%20ruoli%20organici%20del%20personale%20del%20Ministero%20dellagricoltura%20e%20delle%20foreste.%20041U0489.md), per il collocamento a riposo dei direttori degli Istituti di sperimentazione agraria, e' elevato a 75 anni.
  I direttori che abbiano compiuto il settantesimo anno di eta', sono collocati fuori ruolo, a disposizione del Ministero dell'agricoltura e delle foreste, e i relativi posti di ruolo sono considerati vacanti ai sensi e per gli effetti delle disposizioni vigenti.
  Ai direttori fuori ruolo spetta lo stesso trattamento del personale di ruolo ai fini del conseguimento di eventuali promozioni e a tutti gli altri effetti. Essi sono collocati a riposo al raggiungimento del settantacinquesimo anno di eta'.
 

@@ -22,7 +22,7 @@ Visto il [decreto legislativo 19 settembre 1994 n. 626](Attuazione%20delle%20dir
 
 Vista la [legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), ed in particolare gli articoli 1 e 34 e gli allegato A e B;
 
-Vista la [legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), ed in particolare l'articolo 6, comma 3;
+Vista la [legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), ed in particolare l'articolo 6, comma 3;
 
 Visto il [decreto del Presidente della Repubblica 24 maggio 1979, n. 886](../DPR/Integrazione%20ed%20adeguamento%20delle%20norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave%20contenute%20nel%20decreto%20del%20Presidente%20della%20Repubblica%209%20aprile%201959%20n.%20128%20al%20fine%20di%20regolare%20le%20attivita%20di_6460acb681e7.md), e successive modifiche;
 

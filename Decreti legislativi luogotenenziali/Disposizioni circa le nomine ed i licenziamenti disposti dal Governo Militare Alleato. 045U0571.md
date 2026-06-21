@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [decreto legislativo Luogotenenziale 20 luglio 1944, n. 162](Regime%20giuridico%20dei%20territori%20restituiti%20allAmministrazione%20italiana.%20044U0162.md);
 
-Visti il [R. decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e viste le sue successive modificazioni;
+Visti il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e viste le sue successive modificazioni;
 
 Visto il decreto 30 dicembre 1923, n. 2960, e viste le sue successive modificazioni;
 

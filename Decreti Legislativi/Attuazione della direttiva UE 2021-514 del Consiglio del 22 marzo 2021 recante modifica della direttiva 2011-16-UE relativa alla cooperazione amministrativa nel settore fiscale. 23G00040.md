@@ -20,7 +20,7 @@ Vista la [legge 4 agosto 2022, n. 127](../Leggi%20di%20delegazione%20europea/Del
 
 Visto il [decreto legislativo 4 marzo 2014, n. 29](Attuazione%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale%20e%20che%20abroga%20la%20direttiva%2077-799-CEE.%2014G00038.md), recante «Attuazione della [direttiva 2011/16/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2011;16) relativa alla cooperazione amministrativa nel settore fiscale e che abroga la [direttiva 77/799/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;799)»;
 
-Visto il decreto del Ministro dell'economia e delle finanze 28 dicembre 2015, pubblicato nella Gazzetta Ufficiale n. 303 del 31 dicembre 2015, recante «Attuazione della [legge 18 giugno 2015, n. 95](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellAccordo%20tra%20il%20Governo%20della%20Repubblica%20italiana%20e%20il%20Governo%20degli%20Stati%20Uniti%20dAmerica%20finalizzato%20a%20migliorare%20la%20compliance%20fiscale%20internazionale%20e%20ad%20appl_f1821a54a9dd.md) e della [direttiva 2014/107/UE del Consiglio, del 9 dicembre 2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;107), recante modifica della [direttiva 2011/16/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2011;16) per quanto riguarda lo scambio automatico obbligatorio di informazioni nel settore fiscale»;
+Visto il decreto del Ministro dell'economia e delle finanze 28 dicembre 2015, pubblicato nella Gazzetta Ufficiale n. 303 del 31 dicembre 2015, recante «Attuazione della [legge 18 giugno 2015, n. 95](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellAccordo%20tra%20il%20Governo%20della%20Repubblica%20italiana%20e%20il%20Governo%20degli%20Stati%20Uniti%20dAmerica%20finalizzato%20a%20migliorare%20la%20compliance%20fiscale%20internazionale%20e%20ad%20appl_f1821a54a9dd.md) e della [direttiva 2014/107/UE del Consiglio, del 9 dicembre 2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;107), recante modifica della [direttiva 2011/16/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2011;16) per quanto riguarda lo scambio automatico obbligatorio di informazioni nel settore fiscale»;
 
 Visto il [decreto legislativo 15 marzo 2017, n. 32](Attuazione%20della%20direttiva%20UE%202015-2376%20recante%20modifica%20della%20direttiva%202011-16-UE%20per%20quanto%20riguarda%20lo%20scambio%20automatico%20obbligatorio%20di%20informazioni%20nel%20settore%20fiscale.%2017G00046.md), recante «Attuazione della [direttiva (UE) 2015/2376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2015;2376), recante modifica della [direttiva 2011/16/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2011;16) per quanto riguarda lo scambio automatico obbligatorio di informazioni nel settore fiscale»;
 
@@ -34,7 +34,7 @@ Visto il decreto del Ministro dell'economia e delle finanze 22 luglio 2020, pubb
 
 Vista la [direttiva (UE) 2021/514 del Consiglio, del 22 marzo 2021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2021;514), recante «Modifica della [direttiva 2011/16/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2011;16) relativa alla cooperazione amministrativa nel settore fiscale»;
 
-Vista la [legge 27 ottobre 2011, n. 193](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20Protocollo%20emendativo%20della%20Convenzione%20del%201988%20tra%20gli%20Stati%20membri%20del%20Consiglio%20dEuropa%20ed%20i%20Paesi%20membri%20dellOrganizzazione%20per%20la%20cooperazione%20e%20lo%20svilup_727f9349b153.md), recante «Ratifica ed esecuzione del Protocollo emendativo della Convenzione del 1988 tra gli Stati membri del Consiglio d'Europa ed i Paesi membri dell'Organizzazione per la cooperazione e lo sviluppo economico - OCSE - sulla reciproca assistenza amministrativa in materia fiscale, fatto a Parigi il 27 maggio 2010»;
+Vista la [legge 27 ottobre 2011, n. 193](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20Protocollo%20emendativo%20della%20Convenzione%20del%201988%20tra%20gli%20Stati%20membri%20del%20Consiglio%20dEuropa%20ed%20i%20Paesi%20membri%20dellOrganizzazione%20per%20la%20cooperazione%20e%20lo%20svilup_727f9349b153.md), recante «Ratifica ed esecuzione del Protocollo emendativo della Convenzione del 1988 tra gli Stati membri del Consiglio d'Europa ed i Paesi membri dell'Organizzazione per la cooperazione e lo sviluppo economico - OCSE - sulla reciproca assistenza amministrativa in materia fiscale, fatto a Parigi il 27 maggio 2010»;
 
 Visto il regolamento (UE) 2018/1725 del Parlamento europeo e del Consiglio, del 23 ottobre 2018, sulla tutela delle persone fisiche in relazione al trattamento dei dati personali da parte delle istituzioni, degli organi e degli organismi dell'Unione e sulla libera circolazione di tali dati, e che abroga il regolamento (CE) n. 45/2001 e la decisione n. 1247/2002/CE;
 
@@ -174,7 +174,7 @@ Ai fini del presente decreto, si intende per:
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 10 dicembre 2025, n. 194](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202023-2226-UE%20del%20Consiglio%20del%2017%20ottobre%202023%20recante%20modifica%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale.%2025G00201.md), ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
+Il [D.Lgs. 10 dicembre 2025, n. 194](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202023-2226-UE%20del%20Consiglio%20del%2017%20ottobre%202023%20recante%20modifica%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale.%2025G00201.md), ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
 
 ## Procedure di adeguata verifica in materia fiscale
 
@@ -398,7 +398,7 @@ Con provvedimento del direttore dell'Agenzia delle entrate sono individuate le m
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 10 dicembre 2025, n. 194](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202023-2226-UE%20del%20Consiglio%20del%2017%20ottobre%202023%20recante%20modifica%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale.%2025G00201.md), ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
+Il [D.Lgs. 10 dicembre 2025, n. 194](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202023-2226-UE%20del%20Consiglio%20del%2017%20ottobre%202023%20recante%20modifica%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale.%2025G00201.md), ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
 
 ## Ulteriori disposizioni per l'efficace attuazione
 
@@ -499,7 +499,7 @@ Ai fini della registrazione unica di cui al comma 1, prima della assegnazione de
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 10 dicembre 2025, n. 194](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202023-2226-UE%20del%20Consiglio%20del%2017%20ottobre%202023%20recante%20modifica%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale.%2025G00201.md), ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
+Il [D.Lgs. 10 dicembre 2025, n. 194](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202023-2226-UE%20del%20Consiglio%20del%2017%20ottobre%202023%20recante%20modifica%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale.%2025G00201.md), ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
 
 ### Art. 15. — Scambio di informazioni
 

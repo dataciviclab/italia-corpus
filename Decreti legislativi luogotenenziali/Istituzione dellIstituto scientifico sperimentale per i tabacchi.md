@@ -16,13 +16,13 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 17 marzo 1895, n. 110](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20istituisce%20nel%20Comune%20di%20Scafati%20Salerno%20un%20istituto%20sperimentale%20e%20di%20tirocinio%20per%20le%20coltivazioni%20dei%20tabacchi.%20095U0110.md), concernente l'istituzione di un Istituto sperimentale e di tirocinio per le coltivazioni dei tabacchi;
+Visto il [R. decreto 17 marzo 1895, n. 110](../Regi%20decreti/Che%20istituisce%20nel%20Comune%20di%20Scafati%20Salerno%20un%20istituto%20sperimentale%20e%20di%20tirocinio%20per%20le%20coltivazioni%20dei%20tabacchi.%20095U0110.md), concernente l'istituzione di un Istituto sperimentale e di tirocinio per le coltivazioni dei tabacchi;
 
-Visto il [R. decreto 10 dicembre 1931, n. 1820](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzione%20della%20personalita%20giuridica%20allEnte%20nazionale%20per%20la%20protezione%20del%20tabacco%20italiano%20ed%20approvazione%20del%20relativo%20statuto.%20031U1820.md), che attribuisce la personalita' giuridica all'Ente nazionale per la protezione del tabacco italiano ed approva il relativo statuto;
+Visto il [R. decreto 10 dicembre 1931, n. 1820](../Regi%20decreti/Attribuzione%20della%20personalita%20giuridica%20allEnte%20nazionale%20per%20la%20protezione%20del%20tabacco%20italiano%20ed%20approvazione%20del%20relativo%20statuto.%20031U1820.md), che attribuisce la personalita' giuridica all'Ente nazionale per la protezione del tabacco italiano ed approva il relativo statuto;
 
-Visto il [R. decreto 4 luglio 1935, n. 2265](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20di%20alcune%20modifiche%20allo%20statuto%20dellEnte%20nazionale%20per%20il%20tabacco.%20035U2265.md), ed il [R. decreto 12 gennaio 1942, n. 362](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20allo%20statuto%20dellEnte%20nazionale%20per%20il%20tabacco.%20042U0362.md), che approvano alcune modifiche allo statuto dell'Ente nazionale per il tabacco;
+Visto il [R. decreto 4 luglio 1935, n. 2265](../Regi%20decreti/Approvazione%20di%20alcune%20modifiche%20allo%20statuto%20dellEnte%20nazionale%20per%20il%20tabacco.%20035U2265.md), ed il [R. decreto 12 gennaio 1942, n. 362](../Regi%20decreti/Modificazione%20allo%20statuto%20dellEnte%20nazionale%20per%20il%20tabacco.%20042U0362.md), che approvano alcune modifiche allo statuto dell'Ente nazionale per il tabacco;
 
-Visto il [R. decreto 25 maggio 1936, n. 1161](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riconoscimento%20giuridico%20ed%20approvazione%20dello%20statuto%20dellIstituto%20sperimentale%20per%20la%20tabacchicoltura%20salentina%20Luigi%20Starace-Cilento%20con%20sede%20in%20Lecce.%20036U1161.md), che istituisce l'Istituto sperimentale per la tabacchicoltura salentina e Luigi Starace Cilento";
+Visto il [R. decreto 25 maggio 1936, n. 1161](../Regi%20decreti/Riconoscimento%20giuridico%20ed%20approvazione%20dello%20statuto%20dellIstituto%20sperimentale%20per%20la%20tabacchicoltura%20salentina%20Luigi%20Starace-Cilento%20con%20sede%20in%20Lecce.%20036U1161.md), che istituisce l'Istituto sperimentale per la tabacchicoltura salentina e Luigi Starace Cilento";
 
 Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
@@ -55,7 +55,7 @@ Alle spese per il funzionamento dell'Istituto si provvede con un contributo annu
 
 AGGIORNAMENTO (2)
 
-La [L. 6 ottobre 1967, n. 940](../Atti%20normativi%20abrogati%20%28in%20originale%29/Adeguamento%20del%20contributo%20ordinario%20dellAmministrazione%20dei%20monopoli%20di%20Stato%20a%20favore%20dellistituto%20scientifico%20sperimentale%20per%20i%20tabacchi.md) ha disposto (con l'art. 1) che "Il contributo annuo dell'Amministrazione dei monopoli di Stato a favore dell'Istituto scientifico sperimentale per i tabacchi con sede in Roma, di cui all'[articolo 3 del decreto legislativo luogotenenziale 26 marzo 1946, n. 297](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20dellIstituto%20scientifico%20sperimentale%20per%20i%20tabacchi.md), verra' corrisposto, a decorrere dall'esercizio finanziario 1967, nella misura di lire 20.000.000".
+La [L. 6 ottobre 1967, n. 940](../Atti%20normativi%20abrogati%20%28in%20originale%29/Adeguamento%20del%20contributo%20ordinario%20dellAmministrazione%20dei%20monopoli%20di%20Stato%20a%20favore%20dellistituto%20scientifico%20sperimentale%20per%20i%20tabacchi.md) ha disposto (con l'art. 1) che "Il contributo annuo dell'Amministrazione dei monopoli di Stato a favore dell'Istituto scientifico sperimentale per i tabacchi con sede in Roma, di cui all'[articolo 3 del decreto legislativo luogotenenziale 26 marzo 1946, n. 297](Istituzione%20dellIstituto%20scientifico%20sperimentale%20per%20i%20tabacchi.md), verra' corrisposto, a decorrere dall'esercizio finanziario 1967, nella misura di lire 20.000.000".
 
 ## Art. 4.
 

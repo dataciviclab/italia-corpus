@@ -94,7 +94,7 @@ Alle pigioni dovute per locazioni di immobili adibiti ad uso di abitazione, che 
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 23 dicembre 1947, n. 1461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-23;1461), ha disposto (con l'art. 4, comma 1) che "Gli aumenti supplementari dovuti nel caso di sublocazione, secondo le disposizioni dell'[art. 3 del decreto legislativo luogotenenziale 12 ottobre 1945, numero 669](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), sono computati sui canoni di locazione risultanti dall'applicazione del presente decreto. Le percentuali del venti e del dieci indicate nei primi due commi del detto art. 3 sono raddoppiate".
+Il [D.Lgs. del Capo Provvisorio dello Stato 23 dicembre 1947, n. 1461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-23;1461), ha disposto (con l'art. 4, comma 1) che "Gli aumenti supplementari dovuti nel caso di sublocazione, secondo le disposizioni dell'[art. 3 del decreto legislativo luogotenenziale 12 ottobre 1945, numero 669](Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), sono computati sui canoni di locazione risultanti dall'applicazione del presente decreto. Le percentuali del venti e del dieci indicate nei primi due commi del detto art. 3 sono raddoppiate".
 
 ### Art. 4.
 
@@ -137,7 +137,7 @@ I canoni di locazione o di sublocazione risultanti dall'applicazione del present
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 6 dicembre 1946, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-06;428), ha disposto (con l'art. 1, comma 1) che " I termini previsti dagli articoli 9, 11, 12, 15 penultimo comma e 26 del [decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), sono prorogati fino al 28 febbraio 1947, termine entro il quale verra' emanata la nuova disciplina sulle locazioni degli immobili urbani."
+Il [D.Lgs. del Capo Provvisorio dello Stato 6 dicembre 1946, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-06;428), ha disposto (con l'art. 1, comma 1) che " I termini previsti dagli articoli 9, 11, 12, 15 penultimo comma e 26 del [decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), sono prorogati fino al 28 febbraio 1947, termine entro il quale verra' emanata la nuova disciplina sulle locazioni degli immobili urbani."
 
 ### Art. 10.
 
@@ -162,7 +162,7 @@ A decorrere dal primo del mese successivo alla data di pubblicazione del present
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 6 dicembre 1946, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-06;428), ha disposto (con l'art. 1, comma 1) che " I termini previsti dagli articoli 9, 11, 12, 15 penultimo comma e 26 del [decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), sono prorogati fino al 28 febbraio 1947, termine entro il quale verra' emanata la nuova disciplina sulle locazioni degli immobili urbani."
+Il [D.Lgs. del Capo Provvisorio dello Stato 6 dicembre 1946, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-06;428), ha disposto (con l'art. 1, comma 1) che " I termini previsti dagli articoli 9, 11, 12, 15 penultimo comma e 26 del [decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), sono prorogati fino al 28 febbraio 1947, termine entro il quale verra' emanata la nuova disciplina sulle locazioni degli immobili urbani."
 
 ### Art. 12.
 
@@ -179,13 +179,13 @@ A decorrere dal primo del mese successivo alla data di pubblicazione del present
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 6 dicembre 1946, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-06;428), ha disposto (con l'art. 1, comma 1) che " I termini previsti dagli articoli 9, 11, 12, 15 penultimo comma e 26 del [decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), sono prorogati fino al 28 febbraio 1947, termine entro il quale verra' emanata la nuova disciplina sulle locazioni degli immobili urbani."
+Il [D.Lgs. del Capo Provvisorio dello Stato 6 dicembre 1946, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-06;428), ha disposto (con l'art. 1, comma 1) che " I termini previsti dagli articoli 9, 11, 12, 15 penultimo comma e 26 del [decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), sono prorogati fino al 28 febbraio 1947, termine entro il quale verra' emanata la nuova disciplina sulle locazioni degli immobili urbani."
 
 ------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato, 27 febbraio 1947, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-02-27;39), ha disposto (con l'art. 5, comma 2) che "Per i maggiori oneri per il funzionamento e l'ordinaria manutenzione dell'ascensore, il diritto alla rivalsa stabilito dall'[art. 12 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), continua ad avere vigore, limitatamente a quelli esistenti al 31 dicembre 1946." 
+Il [D.Lgs. del Capo Provvisorio dello Stato, 27 febbraio 1947, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-02-27;39), ha disposto (con l'art. 5, comma 2) che "Per i maggiori oneri per il funzionamento e l'ordinaria manutenzione dell'ascensore, il diritto alla rivalsa stabilito dall'[art. 12 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), continua ad avere vigore, limitatamente a quelli esistenti al 31 dicembre 1946." 
  Ha inoltre disposto (con l'art. 14, comma 1) che la presente modifica ha effetto dal 1 marzo 1947.
 
 ## Disposizioni relative alle sublocazioni di immobili adibiti ad uso di abitazione
@@ -229,7 +229,7 @@ In ogni caso di sublocazione il locatore ha diritto di chiedere la risoluzione d
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 6 dicembre 1946, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-06;428), ha disposto (con l'art. 1, comma 1) che " I termini previsti dagli articoli 9, 11, 12, 15 penultimo comma e 26 del [decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), sono prorogati fino al 28 febbraio 1947, termine entro il quale verra' emanata la nuova disciplina sulle locazioni degli immobili urbani."
+Il [D.Lgs. del Capo Provvisorio dello Stato 6 dicembre 1946, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-06;428), ha disposto (con l'art. 1, comma 1) che " I termini previsti dagli articoli 9, 11, 12, 15 penultimo comma e 26 del [decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), sono prorogati fino al 28 febbraio 1947, termine entro il quale verra' emanata la nuova disciplina sulle locazioni degli immobili urbani."
 
 ### Art. 16.
 
@@ -340,7 +340,7 @@ Relativamente ai contratti di locazione in corso alla data di entrata in vigore 
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 6 dicembre 1946, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-06;428), ha disposto (con l'art. 1, comma 1) che " I termini previsti dagli articoli 9, 11, 12, 15 penultimo comma e 26 del [decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), sono prorogati fino al 28 febbraio 1947, termine entro il quale verra' emanata la nuova disciplina sulle locazioni degli immobili urbani."
+Il [D.Lgs. del Capo Provvisorio dello Stato 6 dicembre 1946, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-06;428), ha disposto (con l'art. 1, comma 1) che " I termini previsti dagli articoli 9, 11, 12, 15 penultimo comma e 26 del [decreto legislativo luogotenenziale 12 ottobre 1945, n. 669](Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), sono prorogati fino al 28 febbraio 1947, termine entro il quale verra' emanata la nuova disciplina sulle locazioni degli immobili urbani."
 
 ### Art. 27.
 

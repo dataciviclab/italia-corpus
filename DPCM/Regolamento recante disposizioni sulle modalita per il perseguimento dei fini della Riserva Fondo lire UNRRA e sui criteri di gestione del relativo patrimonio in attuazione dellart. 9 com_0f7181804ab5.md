@@ -178,7 +178,7 @@ La prefettura che accerti, ai sensi del comma 2, la sussistenza di elementi idon
 
 1.
 
-Ai sensi di quanto previsto dall'[art. 14, comma 1, del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, il Ministro dell'interno definisce periodicamente e, comunque, ogni anno entro sessanta giorni dall'approvazione del bilancio, gli obiettivi ed i programmi da attuare, indicando le priorita' ed emanando le conseguenti direttive.
+Ai sensi di quanto previsto dall'[art. 14, comma 1, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, il Ministro dell'interno definisce periodicamente e, comunque, ogni anno entro sessanta giorni dall'approvazione del bilancio, gli obiettivi ed i programmi da attuare, indicando le priorita' ed emanando le conseguenti direttive.
 
 2.
 
@@ -221,7 +221,7 @@ Note all'art. 9:
  VII 1) al Segretario Generale delle Nazioni Unite o l'Ente da esso nominato.
  2. Inoltre, a partire dalla stessa data, il Governo comunichera' al Segretario generale delle Nazioni Unite o all'Ente da esso nominato ogni cambiamento nelle assegnazioni dal Fondo lire in rapporto a categorie o programmi che non siano gia' stati concordati tra il Governo e l'UNRRA Il Governo notifichera' le proposte di cambiamenti in tempo utile perche' il Segretario generale delle Nazioni Unite, o l'Ente da esso designato, possa esprimere le sue eventuali osservazioni su tali proposte.
  Se nessuna osservazione perverra' al Governo entro trenta giorni dalla data di consegna, le proposte diverranno esecutive".
- - L'accordo tra il Governo della Repubblica italiana e il Fondo delle Nazioni Unite per l'infanzia per l'istituzione di un centro per l'assistenza all'infanzia in Firenze, firmato a New York il 23 settembre 1986, e' stato ratificato e reso esecutivo in Italia con [legge 19 luglio 1988, n. 312](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellaccordo%20tra%20il%20Governo%20della%20Repubblica%20italiana%20e%20il%20Fondo%20delle%20Nazioni%20Unite%20per%20linfanzia%20per%20listituzione%20di%20un%20centro%20per%20lassistenza%20allinfanzia%20in%20Firen_280888b12e1e.md).
+ - L'accordo tra il Governo della Repubblica italiana e il Fondo delle Nazioni Unite per l'infanzia per l'istituzione di un centro per l'assistenza all'infanzia in Firenze, firmato a New York il 23 settembre 1986, e' stato ratificato e reso esecutivo in Italia con [legge 19 luglio 1988, n. 312](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20tra%20il%20Governo%20della%20Repubblica%20italiana%20e%20il%20Fondo%20delle%20Nazioni%20Unite%20per%20linfanzia%20per%20listituzione%20di%20un%20centro%20per%20lassistenza%20allinfanzia%20in%20Firen_280888b12e1e.md).
 
 ## Art. 10. — Disposizioni transitorie
 

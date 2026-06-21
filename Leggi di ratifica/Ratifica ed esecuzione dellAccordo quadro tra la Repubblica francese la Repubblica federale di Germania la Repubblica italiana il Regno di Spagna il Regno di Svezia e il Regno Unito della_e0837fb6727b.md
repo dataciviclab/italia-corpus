@@ -116,7 +116,7 @@ Per quanto attiene ai programmi di coproduzione intergovernativa per la produzio
 
 1.
 
-Entro sessanta giorni dalla data di entrata in vigore della presente legge, con decreto del Presidente del Consiglio dei ministri, sono determinate le condizioni per l'applicazione delle norme relative al segreto di Stato e alle notizie di cui e' vietata la divulgazione, ai sensi e per gli effetti di cui al [regio decreto 11 luglio 1941, n. 1161](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20relative%20al%20segreto%20militare.%20041U1161.md), ai Paesi membri dell'Unione europea o della NATO con i quali l'Italia abbia sottoscritto specifici accordi intergovernativi in materia di trasferimento e di esportazione di materiali di armamento o per la fornitura di materiali di armamento.
+Entro sessanta giorni dalla data di entrata in vigore della presente legge, con decreto del Presidente del Consiglio dei ministri, sono determinate le condizioni per l'applicazione delle norme relative al segreto di Stato e alle notizie di cui e' vietata la divulgazione, ai sensi e per gli effetti di cui al [regio decreto 11 luglio 1941, n. 1161](../Regi%20decreti/Norme%20relative%20al%20segreto%20militare.%20041U1161.md), ai Paesi membri dell'Unione europea o della NATO con i quali l'Italia abbia sottoscritto specifici accordi intergovernativi in materia di trasferimento e di esportazione di materiali di armamento o per la fornitura di materiali di armamento.
 
 ## Art. 13.
 

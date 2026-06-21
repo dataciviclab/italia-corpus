@@ -137,7 +137,7 @@ AVVERTENZA:
  9. Sono escluse dalla disciplina della presente legge:
  a) le esportazioni temporanee effettuate direttamente per conto dell'Amministrazione dello Stato per la realizzazione di propri programmi di armamento ed equipaggiamento delle Forze armate e di polizia;
  b) le esportazioni o concessioni dirette da Stato a Stato, a fini di assistenza militare, in base ad accordi internazionali;
- c) il transito di materiali di armamento e di equipaggiamento per i bisogni di forze dei Paesi alleati, secondo la definizione della Convenzione sullo statuto delle Forze della NATO, purche' non siano invocate a qualsiasi titolo deroghe agli articoli VI, XI, XII, XIII e XIV della Convenzione tra gli Stati partecipanti al trattato Nord Atlantico ratificata con [legge 30 novembre 1955, n. 1335](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20tra%20gli%20Stati%20partecipanti%20al%20Trattato%20Nord%20Atlantico%20sullo%20statuto%20delle%20loro%20Forze%20armate%20firmata%20a%20Londra%20il%2019%20giugno%201951.md).
+ c) il transito di materiali di armamento e di equipaggiamento per i bisogni di forze dei Paesi alleati, secondo la definizione della Convenzione sullo statuto delle Forze della NATO, purche' non siano invocate a qualsiasi titolo deroghe agli articoli VI, XI, XII, XIII e XIV della Convenzione tra gli Stati partecipanti al trattato Nord Atlantico ratificata con [legge 30 novembre 1955, n. 1335](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20Convenzione%20tra%20gli%20Stati%20partecipanti%20al%20Trattato%20Nord%20Atlantico%20sullo%20statuto%20delle%20loro%20Forze%20armate%20firmata%20a%20Londra%20il%2019%20giugno%201951.md).
  10. Le esportazioni temporanee di cui al comma 9, lettera a), sono comunque vietate verso i Paesi di cui al comma 6 del presente articolo.
  11. Sono escluse altresi' dalla disciplina della presente legge le armi sportive e da caccia e relative munizioni; le cartucce per uso industriale e gli artifizi luminosi e fumogeni; le armi e munizioni comuni da sparo di cui all'[art. 2 della legge 18 aprile 1975, n. 110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110#art_2), nonche' le armi corte da sparo purche' non automatiche; le riproduzioni di armi antiche e gli esplosivi diversi da quelli ad uso militare".
  - Per il testo dei [commi 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;185#art_2-com5) e [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;185#art_2-com7) del [comma 6 dell'art. 2 della legge n. 185/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;185#art_2-com6) si veda la precedente nota alla lettera c).
@@ -160,7 +160,7 @@ AVVERTENZA:
  2. Nella domanda devono essere indicati:
  a) tipo e quantita' del materiale di armamento, oggetto dell'operazione. Se trattasi di parti di ricambio dovranno essere indicati i tipi di materiali identificati ai quali esse appartengono;
  b) l'ammontare del contratto e l'indicazione dei termini finali di consegna, anche frazionata, previsti dal contratto medesimo, nonche' le condizioni per la disponibilita' alla consegna di ricambi, per la prestazione di servizi di manutenzione o per la cessione di altri servizi di assistenza;
- c) l'ammontare di eventuali compensi di intermediazione nonche' la dichiarazione di cui agli [articoli 12](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20materia%20valutaria%20ai%20sensi%20dellart.%201%20della%20legge%2026%20settembre%201986%20n.%20599.md) e [20 del decreto del Presidente della Repubblica 29 settembre 1987, n. 454](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20materia%20valutaria%20ai%20sensi%20dellart.%201%20della%20legge%2026%20settembre%201986%20n.%20599.md);
+ c) l'ammontare di eventuali compensi di intermediazione nonche' la dichiarazione di cui agli [articoli 12](../DPR/Disposizioni%20in%20materia%20valutaria%20ai%20sensi%20dellart.%201%20della%20legge%2026%20settembre%201986%20n.%20599.md) e [20 del decreto del Presidente della Repubblica 29 settembre 1987, n. 454](../DPR/Disposizioni%20in%20materia%20valutaria%20ai%20sensi%20dellart.%201%20della%20legge%2026%20settembre%201986%20n.%20599.md);
  d) il Paese di destinazione finale del materiale ovvero eventuali Paesi, enti, imprese e soggetti di destinazione intermedia o finale ai sensi del comma 3, lettera c);
  e) l'identificazione del destinatario (autorita' governativa, ente pubblico o impresa autorizzata);
  f) eventuali obblighi economici verso lo Stato per diritti di proprieta' e di brevetto e simili;
@@ -228,7 +228,7 @@ Le unita' organizzative responsabili del procedimento possono richiedere all'ope
 
 1.
 
-Alle attivita' degli organi e degli uffici investiti di compiti attinenti l'attuazione della legge si applicano le vigenti disposizioni di cui al [regio decreto 11 luglio 1941, n. 1161](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20relative%20al%20segreto%20militare.%20041U1161.md).
+Alle attivita' degli organi e degli uffici investiti di compiti attinenti l'attuazione della legge si applicano le vigenti disposizioni di cui al [regio decreto 11 luglio 1941, n. 1161](../Regi%20decreti/Norme%20relative%20al%20segreto%20militare.%20041U1161.md).
 
 2.
 

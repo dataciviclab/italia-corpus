@@ -180,7 +180,7 @@ Non sono soggette all'obbligo di certificazione di cui all'articolo 1 le seguent
                         g)
                             le cessioni e le prestazioni effettuate mediante apparecchi automatici, funzionanti a gettone o a moneta; le prestazioni rese mediante apparecchi da trattenimento o divertimento installati in luoghi pubblici o locali aperti al pubblico, ovvero in circoli o associazioni di qualunque specie;
                         h)
-                            le operazioni relative ai concorsi pronostici e alle scommesse soggetti all'imposta unica di cui al [decreto legislativo 23 dicembre 1998, n. 504](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20dellimposta%20unica%20sui%20concorsi%20pronostici%20e%20sulle%20scommesse%20a%20norma%20dellarticolo%201%20comma%202%20della%20legge%203%20agosto%201998%20n.%20288.md), e quelle relative ai concorsi pronostici riservati allo Stato, compresa la raccolta delle rispettive giocate.
+                            le operazioni relative ai concorsi pronostici e alle scommesse soggetti all'imposta unica di cui al [decreto legislativo 23 dicembre 1998, n. 504](../Decreti%20Legislativi/Riordino%20dellimposta%20unica%20sui%20concorsi%20pronostici%20e%20sulle%20scommesse%20a%20norma%20dellarticolo%201%20comma%202%20della%20legge%203%20agosto%201998%20n.%20288.md), e quelle relative ai concorsi pronostici riservati allo Stato, compresa la raccolta delle rispettive giocate.
                         i)
                             le somministrazioni di alimenti e bevande rese in mense aziendali, interaziendali, scolastiche ed universitarie nonche' in mense popolari gestite direttamente da enti pubblici e da enti di assistenza e di beneficenza;
                         l)
@@ -303,7 +303,7 @@ La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bila
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 4 dicembre 2025, n. 186](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20Terzo%20settore%20crisi%20dimpresa%20sport%20e%20imposta%20sul%20valore%20aggiunto.%2025G00194.md), ha disposto (con l'art. 5, comma 2) che la presente modifica decorre dal termine di cui all'articolo 104, comma 2, del codice del Terzo settore, di cui al [decreto legislativo n. 117 del 2017](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017;117).
+Il [D.Lgs. 4 dicembre 2025, n. 186](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20Terzo%20settore%20crisi%20dimpresa%20sport%20e%20imposta%20sul%20valore%20aggiunto.%2025G00194.md), ha disposto (con l'art. 5, comma 2) che la presente modifica decorre dal termine di cui all'articolo 104, comma 2, del codice del Terzo settore, di cui al [decreto legislativo n. 117 del 2017](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017;117).
 
 ## Art. 3. — Modalita' di documentazione
 

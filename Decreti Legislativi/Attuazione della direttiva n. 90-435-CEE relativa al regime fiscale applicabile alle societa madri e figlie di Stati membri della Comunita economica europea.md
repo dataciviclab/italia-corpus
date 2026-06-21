@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 35 della legge 19 febbraio 1992, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), recante delega al Governo per l'attuazione della [direttiva n. 90/435/CEE del Consiglio del 23 luglio 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;435), concernente il regime fiscale comune applicabile alle societa' madri e figlie di Stati membri diversi;
+Visto l'[art. 35 della legge 19 febbraio 1992, n. 142](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), recante delega al Governo per l'attuazione della [direttiva n. 90/435/CEE del Consiglio del 23 luglio 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;435), concernente il regime fiscale comune applicabile alle societa' madri e figlie di Stati membri diversi;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 marzo 1993;
 

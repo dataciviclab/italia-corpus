@@ -75,7 +75,7 @@ Avvertenza:
  8. Per la gestione del Fondo di cui al comma 1 e l'assegnazione dei contributi, il Governo provvede, entro tre mesi dalla data di entrata in vigore della presente legge, all'istituzione di una commissione costituita da rappresentanti dei Ministeri del tesoro e dell'industria, del commercio e dell'artigianato e del Dipartimento per gli affari sociali presso la Presidenza del Consiglio dei Ministri nonche' all'adozione del relativo regolamento di gestione. La partecipazione alla commissione e' a titolo gratuito.
  9. I contributi di cui al presente articolo sono erogati nei limiti dello stanziamento previsto al comma 1.
  10. All'onere derivante dall'attuazione del comma 1 si provvede mediante riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, utilizzando parzialmente l'accantonamento relativo al medesimo Ministero" .
- - Il testo dell'art. 17, comma 1, della legge 23 agosto 1988 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), come modificato dall'[art. 74 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' il seguente:
+ - Il testo dell'art. 17, comma 1, della legge 23 agosto 1988 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), come modificato dall'[art. 74 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' il seguente:
  "Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati i regolamenti per disciplinare:
  a) l'esecuzione delle leggi e dei decreti legislativi;
  b) attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale;
@@ -89,7 +89,7 @@ Avvertenza:
 
 Possono beneficiare dei contributi del "fondo":
                         a)
-                            i confidi iscritti nell'apposita sezione dell'elenco generale di cui all'[articolo 155, comma 4, del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_155-com4);
+                            i confidi iscritti nell'apposita sezione dell'elenco generale di cui all'[articolo 155, comma 4, del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
                         b)
                             le fondazioni e le associazioni riconosciute per la prevenzione del fenomeno dell'usura, iscritte nell'elenco tenuto dal Ministero del tesoro, di cui all'articolo 3.
 
@@ -97,7 +97,7 @@ Possono beneficiare dei contributi del "fondo":
 
 Possono beneficiare dei contributi del "fondo":
                         a)
-                            i confidi iscritti nell'apposita sezione dell'elenco generale di cui all'[articolo 155, comma 4, del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_155-com4);
+                            i confidi iscritti nell'apposita sezione dell'elenco generale di cui all'[articolo 155, comma 4, del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
                         b)
                             le fondazioni e le associazioni riconosciute per la prevenzione del fenomeno dell'usura, iscritte nell'elenco tenuto dal Ministero del tesoro, di cui all'articolo 3. 
  ((1))
@@ -111,7 +111,7 @@ A decorrere dalla stessa data sono abrogati: [...]
  c) il regolamento di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](../DPR/Regolamento%20di%20attuazione%20dellarticolo%2015%20della%20legge%207%20marzo%201996%20n.%20108%20concernente%20il%20fondo%20per%20la%20prevenzione%20del%20fenomeno%20dellusura.md).
 
 Note all'art. 2:
- - Il testo dell'[art. 155, comma 4, del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_155-com4) (Testo unico delle leggi in materia bancaria e creditizia) e' il seguente:
+ - Il testo dell'[art. 155, comma 4, del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia) e' il seguente:
  "4. I consorzi di garanzia collettiva fidi, di primo e di secondo grado, anche costituiti sotto forma di societa' cooperativa o consortile, previsti dagli [articoli 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-05;317#art_29) e [30 della legge 5 ottobre 1991, n. 317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-05;317#art_30), sono iscritti in un'apposita sezione dell'elenco previsto dall'art. 106 del presente decreto legislativo; essi non sono sottoposti alle disposizioni del titolo V del presente decreto legislativo e del [decreto-legge 3 maggio 1991, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-03;143), convertito, con modificazioni, dalla [legge 5 luglio 1991, n. 197](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20maggio%201991%20n.%20143%20recante%20provvedimenti%20urgenti%20per%20limitare%20luso%20del%20contante%20e%20dei%20titoli%20al%20portatore%20nelle%20transazioni%20e%20pr_a4323969ef56.md). L'iscrizione nella sezione non abilita a effettuare operazioni riservate agli intermediari finanziari".
  Per opportuna informazione si precisa che il [D.L. 3 maggio 1991, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-03;143), convertito, con modificazioni, in [legge 5 luglio 1991, n. 197](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20maggio%201991%20n.%20143%20recante%20provvedimenti%20urgenti%20per%20limitare%20luso%20del%20contante%20e%20dei%20titoli%20al%20portatore%20nelle%20transazioni%20e%20pr_a4323969ef56.md) (testo coordinato nella Gazzetta Ufficiale n. 157 del 6 luglio 1991) reca: "Provvedimenti urgenti per limitare l'uso del contante e dei titoli al portatore nelle transazioni e prevenire l'utilizzazione del sistema finanziario a scopo di riciclaggio".
  - Il testo degli [articoli 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-05;317#art_29) e [30 della legge 5 ottobre 1991, n. 317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-05;317#art_30) (Interventi per l'innovazione e lo sviluppo delle piccole imprese) e' il seguente:
@@ -298,7 +298,7 @@ La domanda, per beneficiare del contributo da parte del confidi, e' inviata al M
                         d)
                             il numero di conto corrente bancario sul quale accreditare il contributo, specificando la banca, nonche' la sede, filiale o sportello;
                         e)
-                            la dichiarazione resa dal legale rappresentante che attesta che il confidi e' iscritto nell'apposita sezione dell'elenco generale di cui all'[articolo 155, comma 4, del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_155-com4), e che ricorrono le caratteristiche del fondo speciale antiusura di cui all'articolo 7, nonche' il possesso dei requisiti indicati nel decreto del Ministero del tesoro del 6 agosto 1996, pubblicato nella Gazzettta Ufficiale n. 189 del 13 agosto 1996.
+                            la dichiarazione resa dal legale rappresentante che attesta che il confidi e' iscritto nell'apposita sezione dell'elenco generale di cui all'[articolo 155, comma 4, del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e che ricorrono le caratteristiche del fondo speciale antiusura di cui all'articolo 7, nonche' il possesso dei requisiti indicati nel decreto del Ministero del tesoro del 6 agosto 1996, pubblicato nella Gazzettta Ufficiale n. 189 del 13 agosto 1996.
 
 2.
 
@@ -326,7 +326,7 @@ La domanda, per beneficiare del contributo da parte del confidi, e' inviata al M
                         d)
                             il numero di conto corrente bancario sul quale accreditare il contributo, specificando la banca, nonche' la sede, filiale o sportello;
                         e)
-                            la dichiarazione resa dal legale rappresentante che attesta che il confidi e' iscritto nell'apposita sezione dell'elenco generale di cui all'[articolo 155, comma 4, del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_155-com4), e che ricorrono le caratteristiche del fondo speciale antiusura di cui all'articolo 7, nonche' il possesso dei requisiti indicati nel decreto del Ministero del tesoro del 6 agosto 1996, pubblicato nella Gazzettta Ufficiale n. 189 del 13 agosto 1996.
+                            la dichiarazione resa dal legale rappresentante che attesta che il confidi e' iscritto nell'apposita sezione dell'elenco generale di cui all'[articolo 155, comma 4, del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e che ricorrono le caratteristiche del fondo speciale antiusura di cui all'articolo 7, nonche' il possesso dei requisiti indicati nel decreto del Ministero del tesoro del 6 agosto 1996, pubblicato nella Gazzettta Ufficiale n. 189 del 13 agosto 1996.
 
 2.
 
@@ -353,7 +353,7 @@ A decorrere dalla stessa data sono abrogati: [...]
 
 Note all'art. 6:
  - Il testo integrale dell'[art. 15 della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15), e' riportato nelle note alle premesse.
- - Il testo dell'[art. 155, comma 4, del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_155-com4) (Testo unico delle leggi in materia bancaria e creditizia) e' riportato nelle note all'art. 2.
+ - Il testo dell'[art. 155, comma 4, del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia) e' riportato nelle note all'art. 2.
  - Il testo del decreto del Ministro del tesoro 6 agosto 1996, recante: "Determinazione, ai sensi dell'[art. 15, comma 3, della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com3), dei requisiti patrimoniali dei fondi speciali antiusura dei Confidi e dei requisiti di onorabilita' e professionalita' degli esponenti dei fondi medesimi", e' il seguente:
  "Art. 1 (Requisito patrimoniale). - Il livello minimo del fondo speciale antiusura, di cui all'[art. 15, comma 2, lettera a), della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com2-leta), e' fissato in L. 20.000.000.
  Art. 2 (Requisiti di onorabilita'). - Le cariche esponenziali con poteri di amministrazione, direzione o controllo del fondo speciale antiusura non possono essere ricoperte da coloro che:

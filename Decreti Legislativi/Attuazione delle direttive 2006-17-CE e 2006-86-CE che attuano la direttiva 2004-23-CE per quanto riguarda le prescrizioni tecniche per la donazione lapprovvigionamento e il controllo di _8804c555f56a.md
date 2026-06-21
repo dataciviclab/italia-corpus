@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 21 dicembre 1999, n. 526](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md);
+Vista la [legge 21 dicembre 1999, n. 526](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md);
 
 Visto il [decreto legislativo 6 novembre 2007, n. 191](Attuazione%20della%20direttiva%202004-23-CE%20sulla%20definizione%20delle%20norme%20di%20qualita%20e%20di%20sicurezza%20per%20la%20donazione%20lapprovvigionamento%20il%20controllo%20la%20lavorazione%20la%20conservazione%20lo%20stoccagg_8283b17d3d40.md), recante attuazione della [direttiva del Parlamento europeo e del Consiglio 2004/23/CE del 31 marzo 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;23), sulla definizione di norme di qualita' e di sicurezza per la donazione, l'approvvigionamento, il controllo, la lavorazione, la conservazione, lo stoccaggio e la distribuzione di tessuti e cellule umani, con particolare riguardo per i suoi articoli 8, 11, comma 4, e 28, comma 1, lettere a), b) c), d), e), f), g), h) ed i);
 
@@ -20,7 +20,7 @@ Vista la [direttiva 2006/17/CE della Commissione dell'8 febbraio 2006](https://w
 
 Vista la [direttiva 2006/86/CE della Commissione del 24 ottobre 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;86) che attua la [direttiva 2004/23/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;23) per quanto riguarda le prescrizioni in tema di rintracciabilita', la notifica di reazioni ed eventi avversi gravi e determinate prescrizioni tecniche per la codifica, la lavorazione, la conservazione, lo stoccaggio e la distribuzione di tessuti e cellule umani;
 
-Vista la [legge 7 luglio 2009, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2008;
+Vista la [legge 7 luglio 2009, n. 88](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2008;
 
 Vista la [legge 1° aprile 1999, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-01;91), recante disposizioni in materia di trapianti di organi e di tessuti;
 
@@ -120,7 +120,7 @@ Ai fini del presente decreto si intendono per:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 16 dicembre 2016, n. 256](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202015-565-UE%20che%20modifica%20la%20direttiva%202006-86-CE%20per%20quanto%20riguarda%20determinate%20prescrizioni%20tecniche%20relative%20alla%20codifica%20di%20tessuti%20e%20cellule%20umani.%2017G00004.md) ha disposto (con l'art. 8, comma 1) che le presenti modifiche si applicano a decorrere dal 29 aprile 2017.
+Il [D.Lgs. 16 dicembre 2016, n. 256](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202015-565-UE%20che%20modifica%20la%20direttiva%202006-86-CE%20per%20quanto%20riguarda%20determinate%20prescrizioni%20tecniche%20relative%20alla%20codifica%20di%20tessuti%20e%20cellule%20umani.%2017G00004.md) ha disposto (con l'art. 8, comma 1) che le presenti modifiche si applicano a decorrere dal 29 aprile 2017.
 
 ## Art. 3. — Approvvigionamento di tessuti e cellule umani
 
@@ -357,7 +357,7 @@ L'Istituto dei tessuti e l'organizzazione responsabile delle applicazioni sull'u
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 16 dicembre 2016, n. 256](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202015-565-UE%20che%20modifica%20la%20direttiva%202006-86-CE%20per%20quanto%20riguarda%20determinate%20prescrizioni%20tecniche%20relative%20alla%20codifica%20di%20tessuti%20e%20cellule%20umani.%2017G00004.md) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.
+Il [D.Lgs. 16 dicembre 2016, n. 256](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202015-565-UE%20che%20modifica%20la%20direttiva%202006-86-CE%20per%20quanto%20riguarda%20determinate%20prescrizioni%20tecniche%20relative%20alla%20codifica%20di%20tessuti%20e%20cellule%20umani.%2017G00004.md) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.
 
 ## Art. 15. — (( (Sistema di codifica europeo).))
 
@@ -377,7 +377,7 @@ c) ai tessuti e alle cellule importati in Italia in caso di emergenza allorche' 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 16 dicembre 2016, n. 256](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202015-565-UE%20che%20modifica%20la%20direttiva%202006-86-CE%20per%20quanto%20riguarda%20determinate%20prescrizioni%20tecniche%20relative%20alla%20codifica%20di%20tessuti%20e%20cellule%20umani.%2017G00004.md) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.
+Il [D.Lgs. 16 dicembre 2016, n. 256](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202015-565-UE%20che%20modifica%20la%20direttiva%202006-86-CE%20per%20quanto%20riguarda%20determinate%20prescrizioni%20tecniche%20relative%20alla%20codifica%20di%20tessuti%20e%20cellule%20umani.%2017G00004.md) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.
 
 ## Art. 15-bis. — (( (Formato del codice unico europeo).))
 
@@ -399,7 +399,7 @@ Il codice unico europeo, in formato leggibile all'occhio umano, e' preceduto dal
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 16 dicembre 2016, n. 256](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202015-565-UE%20che%20modifica%20la%20direttiva%202006-86-CE%20per%20quanto%20riguarda%20determinate%20prescrizioni%20tecniche%20relative%20alla%20codifica%20di%20tessuti%20e%20cellule%20umani.%2017G00004.md) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.
+Il [D.Lgs. 16 dicembre 2016, n. 256](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202015-565-UE%20che%20modifica%20la%20direttiva%202006-86-CE%20per%20quanto%20riguarda%20determinate%20prescrizioni%20tecniche%20relative%20alla%20codifica%20di%20tessuti%20e%20cellule%20umani.%2017G00004.md) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.
 
 ## Art. 15-ter. — (( (Prescrizioni relative all'applicazione del codice unico europeo).))
 
@@ -467,7 +467,7 @@ Le regioni e le province autonome sono tenute a comunicare al CNT qualsiasi modi
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 16 dicembre 2016, n. 256](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202015-565-UE%20che%20modifica%20la%20direttiva%202006-86-CE%20per%20quanto%20riguarda%20determinate%20prescrizioni%20tecniche%20relative%20alla%20codifica%20di%20tessuti%20e%20cellule%20umani.%2017G00004.md) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.
+Il [D.Lgs. 16 dicembre 2016, n. 256](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202015-565-UE%20che%20modifica%20la%20direttiva%202006-86-CE%20per%20quanto%20riguarda%20determinate%20prescrizioni%20tecniche%20relative%20alla%20codifica%20di%20tessuti%20e%20cellule%20umani.%2017G00004.md) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.
 
 ## Art. 16. — Recepimento
 
@@ -485,7 +485,7 @@ Con accordo da sancire in sede di Conferenza Stato-regioni sono stabilite le mod
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 16 dicembre 2016, n. 256](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202015-565-UE%20che%20modifica%20la%20direttiva%202006-86-CE%20per%20quanto%20riguarda%20determinate%20prescrizioni%20tecniche%20relative%20alla%20codifica%20di%20tessuti%20e%20cellule%20umani.%2017G00004.md) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.
+Il [D.Lgs. 16 dicembre 2016, n. 256](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202015-565-UE%20che%20modifica%20la%20direttiva%202006-86-CE%20per%20quanto%20riguarda%20determinate%20prescrizioni%20tecniche%20relative%20alla%20codifica%20di%20tessuti%20e%20cellule%20umani.%2017G00004.md) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.
 
 ## Art. 17. — Clausola di cedevolezza
 

@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-L'Istituto nazionale per gli studi e la sperimentazione dell'industria edilizia, istituito con [regio decreto 30 dicembre 1940, n. 2027](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riconoscimento%20giuridico%20ed%20approvazione%20dello%20statuto%20del%20lIstituto%20nazionale%20fascista%20per%20gli%20studi%20e%20la%20sperimentazione%20nellindustria%20edilizia.%20040U2027.md), e' soppresso e messo in liquidazione.
+L'Istituto nazionale per gli studi e la sperimentazione dell'industria edilizia, istituito con [regio decreto 30 dicembre 1940, n. 2027](../Regi%20decreti/Riconoscimento%20giuridico%20ed%20approvazione%20dello%20statuto%20del%20lIstituto%20nazionale%20fascista%20per%20gli%20studi%20e%20la%20sperimentazione%20nellindustria%20edilizia.%20040U2027.md), e' soppresso e messo in liquidazione.
 
 ## Art. 2.
 

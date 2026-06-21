@@ -20,7 +20,7 @@ Vista la legge 1 aprile 1981, n. 121, recante il nuovo ordinamento dell'Ammini
 
 Visto il [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e successive modificazioni ed integrazioni;
 
-Visto l'art. 19 del testo unico delle leggi provinciali e comunali, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni ed integrazioni;
+Visto l'art. 19 del testo unico delle leggi provinciali e comunali, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni ed integrazioni;
 
 Visto il [decreto del Presidente della Repubblica 24 aprile 1982, n. 340](../DPR/Ordinamento%20del%20personale%20e%20organizzazione%20degli%20uffici%20dellAmministrazione%20civile%20del%20Ministero%20dellinterno.md), sull'ordinamento del personale e l'organizzazione degli uffici dell'amministrazione civile del Ministero dell'interno;
 

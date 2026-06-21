@@ -40,7 +40,7 @@ Con decreto del Ministro dei trasporti e della navigazione, da emanarsi entro 12
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 22 dicembre 2000, n. 395](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20del%20Consiglio%20dellUnione%20europea%20n.%2098-76-CE%20del%201o%20ottobre%201998%20modificativa%20della%20direttiva%20n.%2096-26-CE%20del%2029%20aprile%201996%20riguardante%20laccesso%20alla%20professio_130519ecbd84.md) ha disposto (con l'art. 22, comma 1) che il termine di cui al comma 1 del presente articolo e' prorogato alla data di entrata in vigore del regolamento del Ministro dei trasporti e della navigazione e comunque non oltre il 1 luglio 2001.
+Il [D.Lgs. 22 dicembre 2000, n. 395](Attuazione%20della%20direttiva%20del%20Consiglio%20dellUnione%20europea%20n.%2098-76-CE%20del%201o%20ottobre%201998%20modificativa%20della%20direttiva%20n.%2096-26-CE%20del%2029%20aprile%201996%20riguardante%20laccesso%20alla%20professio_130519ecbd84.md) ha disposto (con l'art. 22, comma 1) che il termine di cui al comma 1 del presente articolo e' prorogato alla data di entrata in vigore del regolamento del Ministro dei trasporti e della navigazione e comunque non oltre il 1 luglio 2001.
 
 ## Art. 2.
 

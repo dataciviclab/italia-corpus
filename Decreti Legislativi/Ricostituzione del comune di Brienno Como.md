@@ -22,12 +22,12 @@ PROMULGA il seguente decreto legislativo approvato dal Consiglio dei Ministri co
 
 ## Art. 1.
 
-Il comune di Brienno, aggregato a quello di Laglio con [regio decreto 11 dicembre 1927, n. 2520](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Brienno%20e%20Laglio%20in%20un%20unico%20Comune%20denominato%20Laglio.%20027U2520.md), e' ricostituito con la circoscrizione territoriale preesistente all'entrata in vigore del decreto medesimo.
+Il comune di Brienno, aggregato a quello di Laglio con [regio decreto 11 dicembre 1927, n. 2520](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Brienno%20e%20Laglio%20in%20un%20unico%20Comune%20denominato%20Laglio.%20027U2520.md), e' ricostituito con la circoscrizione territoriale preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Como, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni suindicati in dipendenza dell'applicazione del presente decreto.
 
 ## Art. 2.
 
-L'organico del comune di Brienno ed il nuovo organico del comune di Laglio, saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa. Il numero dei posti ed i gradi relativi non potranno essere rispettivamente superiori a quelli organicamente assegnati anteriormente all'entrata in vigore del [regio decreto 11 dicembre 1927, n. 2520](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Brienno%20e%20Laglio%20in%20un%20unico%20Comune%20denominato%20Laglio.%20027U2520.md).
+L'organico del comune di Brienno ed il nuovo organico del comune di Laglio, saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa. Il numero dei posti ed i gradi relativi non potranno essere rispettivamente superiori a quelli organicamente assegnati anteriormente all'entrata in vigore del [regio decreto 11 dicembre 1927, n. 2520](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Brienno%20e%20Laglio%20in%20un%20unico%20Comune%20denominato%20Laglio.%20027U2520.md).
  Al personale gia' in servizio presso il comune di Laglio, che sara' inquadrato nei predetti organici, non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
 ## Art. 3.

@@ -20,7 +20,7 @@ Vista la [direttiva 2008/49/CE della Commissione, del 16 aprile 2008](https://ww
 
 Vista la [legge 25 gennaio 2006, n. 29](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202005.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2005, ed in particolare l'articolo 1, comma 5, che prevede la possibilita' di emanare disposizioni integrative e correttive dei decreti legislativi emanati ai sensi del comma 1, entro diciotto mesi dalla data di entrata in vigore dei decreti stessi, nonche' l'articolo 3, comma 1, lettera f), che prescrive che, nella predisposizione dei decreti legislativi di cui all'articolo 1, si tenga conto delle eventuali modificazioni comunque intervenute fino al momento dell'esercizio della delega;
 
-Vista la [legge 7 luglio 2009, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2008, ed in particolare l'Allegato B;
+Vista la [legge 7 luglio 2009, n. 88](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2008, ed in particolare l'Allegato B;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione dell'8 maggio 2009;
 
@@ -60,7 +60,7 @@ Avvertenza:
  (Omissis);
  f) i decreti legislativi assicurano in ogni caso che, nelle materie oggetto delle direttive da attuare, la disciplina sia pienamente conforme alle prescrizioni delle direttive medesime, tenuto anche conto delle eventuali modificazioni comunque intervenute fino al momento dell'esercizio della delega;
  omissis).».
- - Il testo dell'allegato B alla [legge n. 88 del 7 luglio 2009](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), recante: «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2008», pubblicata nella Gazzetta Ufficiale 14 luglio 2009, n. 161, supplemento ordinario, e' il seguente:
+ - Il testo dell'allegato B alla [legge n. 88 del 7 luglio 2009](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), recante: «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2008», pubblicata nella Gazzetta Ufficiale 14 luglio 2009, n. 161, supplemento ordinario, e' il seguente:
 
  «Allegato B
  (Articolo 1, commi 1 e 3)

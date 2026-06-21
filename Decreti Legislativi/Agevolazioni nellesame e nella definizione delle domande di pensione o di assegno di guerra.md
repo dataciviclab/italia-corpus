@@ -28,7 +28,7 @@ Per corredare le domande di pensione od assegno di guerra e facilitarne l'esplet
 
 ## Art. 2.
 
-Sulle proposte di liquidazione provvisoria compilate dagli uffici della Direzione generale delle pensioni di guerra verra' emesso senz'altro, previo decreto Ministeriale, ordinativo di pagamento, salvo al Comitato di liquidazione per le pensioni di guerra, in sede di liquidazione definitiva, l'esame di merito per la proposta al Ministro, di cui all'[art. 51, comma terzo, del regio decreto 12 luglio 1923, n. 1491](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md).
+Sulle proposte di liquidazione provvisoria compilate dagli uffici della Direzione generale delle pensioni di guerra verra' emesso senz'altro, previo decreto Ministeriale, ordinativo di pagamento, salvo al Comitato di liquidazione per le pensioni di guerra, in sede di liquidazione definitiva, l'esame di merito per la proposta al Ministro, di cui all'[art. 51, comma terzo, del regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md).
 
 ## Art. 3.
 

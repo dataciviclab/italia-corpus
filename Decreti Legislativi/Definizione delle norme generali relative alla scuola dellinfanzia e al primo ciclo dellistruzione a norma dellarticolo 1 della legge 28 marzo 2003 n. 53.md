@@ -58,7 +58,7 @@ Al fine di realizzare la continuita' educativa di cui al comma 1, gli uffici sco
 
 1.
 
-L'orario annuale delle attivita' educative per la scuola dell'infanzia, comprensivo della quota riservata alle regioni, alle istituzioni scolastiche autonome e all'insegnamento della religione cattolica in conformita' all'Accordo che apporta modifiche al Concordato lateranense e relativo Protocollo addizionale, reso esecutivo con [legge 25 marzo 1985, n. 121](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellaccordo%20con%20protocollo%20addizionale%20firmato%20a%20Roma%20il%2018%20febbraio%201984%20che%20apporta%20modificazioni%20al%20Concordato%20lateranense%20dell11%20febbraio%201929%20tra%20la%20Repubblica_9de9b54bd290.md), ed alle conseguenti intese, si diversifica da un minimo di 875 ad un massimo di 1700 ore, a seconda dei progetti educativi delle singole scuole dell'infanzia, tenuto conto delle richieste delle famiglie.
+L'orario annuale delle attivita' educative per la scuola dell'infanzia, comprensivo della quota riservata alle regioni, alle istituzioni scolastiche autonome e all'insegnamento della religione cattolica in conformita' all'Accordo che apporta modifiche al Concordato lateranense e relativo Protocollo addizionale, reso esecutivo con [legge 25 marzo 1985, n. 121](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20con%20protocollo%20addizionale%20firmato%20a%20Roma%20il%2018%20febbraio%201984%20che%20apporta%20modificazioni%20al%20Concordato%20lateranense%20dell11%20febbraio%201929%20tra%20la%20Repubblica_9de9b54bd290.md), ed alle conseguenti intese, si diversifica da un minimo di 875 ad un massimo di 1700 ore, a seconda dei progetti educativi delle singole scuole dell'infanzia, tenuto conto delle richieste delle famiglie.
 
 2.
 
@@ -73,7 +73,7 @@ Allo scopo di garantire le attivita' educative di cui ai commi 1 e 2 e' costitui
 La scuola dell'infanzia cura la documentazione relativa al processo educativo ed in particolare all'autonomia personale delle bambine e dei bambini, con la collaborazione delle famiglie.
 
 Nota all'[art. 3:
- - La legge 25 marzo 1985, n. 121](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellaccordo%20con%20protocollo%20addizionale%20firmato%20a%20Roma%20il%2018%20febbraio%201984%20che%20apporta%20modificazioni%20al%20Concordato%20lateranense%20dell11%20febbraio%201929%20tra%20la%20Repubblica_9de9b54bd290.md), reca: «Ratifica ed esecuzione dell'accordo, con protocollo addizionale, firmato a Roma il 18 febbraio 1984 che apporta modificazioni al Concordato lateranense dell'11 febbraio 1929, tra la Repubblica italiana e la Santa Sede.».
+ - La legge 25 marzo 1985, n. 121](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20con%20protocollo%20addizionale%20firmato%20a%20Roma%20il%2018%20febbraio%201984%20che%20apporta%20modificazioni%20al%20Concordato%20lateranense%20dell11%20febbraio%201929%20tra%20la%20Repubblica_9de9b54bd290.md), reca: «Ratifica ed esecuzione dell'accordo, con protocollo addizionale, firmato a Roma il 18 febbraio 1984 che apporta modificazioni al Concordato lateranense dell'11 febbraio 1929, tra la Repubblica italiana e la Santa Sede.».
 
 ## Primo ciclo di istruzione
 

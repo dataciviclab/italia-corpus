@@ -311,11 +311,11 @@ Le societa' concessionarie autostradali sono soggette ai seguenti obblighi:
                         c)
                             provvedere, nel caso di concessionari che non sono amministrazioni aggiudicatrici, agli affidamenti a terzi di lavori nel rispetto delle disposizioni di cui agli articoli 142, comma 4, e 253, comma 25, del codice di cui al [decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) ((In tali casi le commissioni di gara per l'aggiudicazione dei contratti sono nominate dal Ministro delle infrastrutture e dei trasporti, fermi restando i poteri di vigilanza dell'Autorita' nazionale anticorruzione di cui all'articolo 222 del codice dei contratti pubblici, di cui al decreto legislativo 31 marzo 2023, n. 36));
                         d)
-                            LETTERA ABROGATA DAL [D.LGS. 31 MARZO 2023, N. 36](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md);
+                            LETTERA ABROGATA DAL [D.LGS. 31 MARZO 2023, N. 36](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md);
                         e)
                             prevedere nel proprio statuto idonee misure atte a prevenire i conflitti di interesse degli amministratori, e, per gli stessi, speciali requisiti di onorabilita' e professionalita', nonche', per almeno alcuni di essi, di indipendenza;
                         f)
-                            LETTERA ABROGATA DAL [D.LGS. 31 MARZO 2023, N. 36](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md).
+                            LETTERA ABROGATA DAL [D.LGS. 31 MARZO 2023, N. 36](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md).
 
 5-bis.
 

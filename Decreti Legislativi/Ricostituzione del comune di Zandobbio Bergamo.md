@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il comune di Zandobbio, aggregato a quello di Trescore Balneario con [regio decreto 20 settembre 1928, n. 2220](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Trescore%20Balneario%20e%20Zandobbio%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Trescore%20Balneario.%20028U2220.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
+Il comune di Zandobbio, aggregato a quello di Trescore Balneario con [regio decreto 20 settembre 1928, n. 2220](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Trescore%20Balneario%20e%20Zandobbio%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Trescore%20Balneario.%20028U2220.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Bergamo, sentita la Giunta provinciale amministrativa provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni interessati.
 
 ## Art. 2.

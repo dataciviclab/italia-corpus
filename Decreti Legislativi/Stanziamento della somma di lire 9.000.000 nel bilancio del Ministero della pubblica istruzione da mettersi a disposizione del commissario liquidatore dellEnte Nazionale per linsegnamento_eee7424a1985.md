@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-E' autorizzata l'iscrizione, nel bilancio del Ministero della pubblica istruzione, della somma di L. 9.000.000, da mettersi a disposizione del commissario liquidatore dell'Ente Nazionale per l'Insegnamento Medio e Superiore (E.N.I.M.S.) per far fronte alle passivita' dell'Ente medesimo, in aggiunta alla somma di lire 2.000.000, gia' stanziata per lo stesso fine, ai sensi del [decreto legislativo luogotenenziale 24 maggio 1945, numero 412](../Atti%20normativi%20abrogati%20%28in%20originale%29/Soppressione%20dellEnte%20Nazionale%20per%20lInsegnamento%20Medio%20e%20Superiore%20E.N.I.M.S..%20045U0412.md).
+E' autorizzata l'iscrizione, nel bilancio del Ministero della pubblica istruzione, della somma di L. 9.000.000, da mettersi a disposizione del commissario liquidatore dell'Ente Nazionale per l'Insegnamento Medio e Superiore (E.N.I.M.S.) per far fronte alle passivita' dell'Ente medesimo, in aggiunta alla somma di lire 2.000.000, gia' stanziata per lo stesso fine, ai sensi del [decreto legislativo luogotenenziale 24 maggio 1945, numero 412](../Decreti%20legislativi%20luogotenenziali/Soppressione%20dellEnte%20Nazionale%20per%20lInsegnamento%20Medio%20e%20Superiore%20E.N.I.M.S..%20045U0412.md).
 
 ## Art. 2.
 

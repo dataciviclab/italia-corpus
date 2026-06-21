@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 25 marzo 1929, n. 562](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Camastra%20e%20Naro%20nellunico%20comune%20di%20Naro%20e%20rettifica%20del%20confine%20fra%20questo%20Comune%20e%20quello%20di%20Canicatti.%20029U0562.md);
+Visto il [R. decreto 25 marzo 1929, n. 562](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Camastra%20e%20Naro%20nellunico%20comune%20di%20Naro%20e%20rettifica%20del%20confine%20fra%20questo%20Comune%20e%20quello%20di%20Canicatti.%20029U0562.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,13 +28,13 @@ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Abb
 
 ## Art. 1.
 
-Il comune di Camastra, aggregato con [R. Decreto 25 marzo 1929, n. 562](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Camastra%20e%20Naro%20nellunico%20comune%20di%20Naro%20e%20rettifica%20del%20confine%20fra%20questo%20Comune%20e%20quello%20di%20Canicatti.%20029U0562.md), al comune di Naro, e' ricostituito con la circoscrizione presistente all'entrata in vigore del decreto medesimo. 
+Il comune di Camastra, aggregato con [R. Decreto 25 marzo 1929, n. 562](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Camastra%20e%20Naro%20nellunico%20comune%20di%20Naro%20e%20rettifica%20del%20confine%20fra%20questo%20Comune%20e%20quello%20di%20Canicatti.%20029U0562.md), al comune di Naro, e' ricostituito con la circoscrizione presistente all'entrata in vigore del decreto medesimo. 
  Il Prefetto di Agrigento, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i comuni di Naro e Camastra.
 
 ## Art. 2.
 
 L'organico del ricostituito comune di Camastra e quello del comune di Naro saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa. 
- Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni suddetti anteriormente alla loro fusione disposta con [R decreto 25 marzo 1929, n. 562](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Camastra%20e%20Naro%20nellunico%20comune%20di%20Naro%20e%20rettifica%20del%20confine%20fra%20questo%20Comune%20e%20quello%20di%20Canicatti.%20029U0562.md). 
+ Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni suddetti anteriormente alla loro fusione disposta con [R decreto 25 marzo 1929, n. 562](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Camastra%20e%20Naro%20nellunico%20comune%20di%20Naro%20e%20rettifica%20del%20confine%20fra%20questo%20Comune%20e%20quello%20di%20Canicatti.%20029U0562.md). 
  Al personale gia' in servizio presso il comune di Naro, che eventualmente sara' inquadrato nei predetti organici, non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inqadramento medesimo.
 
 ## Art. 3.

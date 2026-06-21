@@ -895,7 +895,7 @@ Ferme restando le attribuzioni di competenza del CIPE come disciplinate dalle le
 
 2.
 
-Sono, altresi, devolute al Ministro con competenza prevalente, che le esercita anche mediante il ricorso a conferenze di servizi con le altre amministrazioni interessate e nel rispetto dei principi di cui al [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, tutte le funzioni di settore.
+Sono, altresi, devolute al Ministro con competenza prevalente, che le esercita anche mediante il ricorso a conferenze di servizi con le altre amministrazioni interessate e nel rispetto dei principi di cui al [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, tutte le funzioni di settore.
 
 3.
 

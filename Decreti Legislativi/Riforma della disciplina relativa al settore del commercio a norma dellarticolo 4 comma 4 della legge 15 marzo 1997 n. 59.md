@@ -204,7 +204,7 @@ Note all'[art. 4:
  - La [legge 18 dicembre 1970, n. 1034](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20ottobre%201970%20n.%20745%20concernente%20provvedimenti%20straordinari%20per%20la%20ripresa%20economica.md) recante: "Conversione in legge, con modificazioni, del [decreto-legge 26 ottobre 1970, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1970-10-26;745), concernente provvedimenti straordinari per la ripresa economica", e' pubblicata nella Gazzetta Ufficiale n. 323 del 23 dicembre 1970.
  - Il [decreto legislativo 11 febbraio 1998, n. 32](Razionalizzazione%20del%20sistema%20di%20distribuzione%20dei%20carburanti%20a%20norma%20dellarticolo%204%20comma%204%20lettera%20c%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante: "Razionalizzazione del sistema di distribuzione dei carburanti a norma dell'[art. 4, comma 4, lettera c), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)" e' pubblicato nella Gazzetta Ufficiale n. 53 del 5 marzo 1998.
  - Il testo dell'[art. 5, primo comma, della legge 8 agosto 1985, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443#art_5-com1), e' il seguente:
- "Art. 5 (Albo delle imprese artigiane). - E' istituito l'albo provinciale delle imprese artigiane, al quale sono tenute ad iscriversi tutte le imprese aventi i requisiti di cui agli articoli 2, 3 e 4 secondo le formalita' previste per il registro delle ditte dagli [articoli 47 e seguenti del regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md).
+ "Art. 5 (Albo delle imprese artigiane). - E' istituito l'albo provinciale delle imprese artigiane, al quale sono tenute ad iscriversi tutte le imprese aventi i requisiti di cui agli articoli 2, 3 e 4 secondo le formalita' previste per il registro delle ditte dagli [articoli 47 e seguenti del regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md).
  - Il testo dell'[art. 106 del regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267#art_106), recante: "Disciplina del fallimento, del concordato preventivo, dell'amministrazione controllata e della liquidazione coatta amministrativa", e' il seguente:
  "Art. 106 (Modalita' della vendita dei beni mobili). - Per i beni mobili, compresi i frutti naturali degli immobili,.
  Note all'[art. 4:
@@ -223,7 +223,7 @@ Ai sensi del presente decreto l'attivita' commerciale puo' essere esercitata con
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 3.
 
@@ -231,11 +231,11 @@ L'accertamento delle condizioni di cui al comma 2 e' effettuato sulla base delle
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 5.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md). 
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md). 
  6.((COMMA ABROGATO DAL D.LGS. 26 MARZO 2010, N. 59, COME MODIFICATO DAL D.LGS. 6 AGOSTO 2012, N. 147)). 
  7. Le regioni stabiliscono le modalita' di organizzazione, la durata e le materie del corso professionale di cui al comma 5, lettera a), garantendone l'effettuazione anche tramite rapporti convenzionali con soggetti idonei. A tale fine saranno considerate in via prioritaria le camere di commercio, le organizzazioni imprenditoriali del commercio piu' rappresentative e gli enti da queste costituiti. 
  8. Il corso professionale ha per oggetto materie idonee a garantire l'apprendimento delle disposizioni relative alla salute, alla sicurezza e all'informazione del consumatore. Prevede altresi' materie che hanno riguardo agli aspetti relativi alla conservazione, manipolazione e trasformazione degli alimenti, sia freschi che conservati. 
@@ -307,7 +307,7 @@ In caso di inerzia da parte del comune, le regioni provvedono in via sostitutiva
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 2.
 
@@ -556,11 +556,11 @@ Titolo VI
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 3.
 
@@ -570,11 +570,11 @@ Nella ((segnalazione certificata di inizio di attivita')) deve essere dichiarata
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 3.
 
@@ -588,7 +588,7 @@ La vendita mediante apparecchi automatici effettuata in apposito locale ad essa 
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 2.
 
@@ -618,11 +618,11 @@ COMMA ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](../Codici/Codice%20del%20co
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 3.
 
@@ -768,7 +768,7 @@ espressamente e inderogabilmente nei rispettivi statuti;
                                 siano costituite da almeno 30 consorzi e cooperative di garanzia collettiva fidi di cui al comma 1, distribuiti sull'intero territorio nazionale;
                             c)
                                 siano iscritte all'apposito elenco tenuto dal Ministro del tesoro, del bilancio e della programmazione economica, in conformita' 
-al [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385).
+al [decreto legislativo 1 settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 3.
 

@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visti i [Regi decreti 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive aggiunte e modificazioni;
+Visti i [Regi decreti 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), e successive aggiunte e modificazioni;
 
 Visto il [R. decreto-legge 6 gennaio 1944, n. 9](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riammissione%20in%20servizio%20degli%20appartenenti%20alle%20amministrazioni%20dello%20Stato%20degli%20enti%20locali%20e%20parastatali%20e%20controllati%20dallo%20Stato%20aziende%20che%20gestiscono%20servizi%20pubblici%20o%20dinteresse_e18d0424ecb3.md);
 
@@ -61,7 +61,7 @@ Salvo le disposizioni del [decreto legislativo 27 luglio 1944, n. 159](https://w
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. Luogotenenziale 30 novembre 1945, n. 880](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20integrative%20delle%20disposizioni%20sulla%20riammissione%20in%20servizio%20e%20sulla%20ricostruzione%20delle%20carriere%20dei%20pubblici%20Impiegati%20perseguitati%20per%20motivi%20politici%20dai%20cessato%20regime.md), ha disposto (con l'art. 4, comma 1) che "Il termine previsto nell'[art. 5, comma secondo](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), nell'[art. 6, comma terzo](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), e nell'[art. 8, comma secondo, del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 301](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), quando sia scaduto anteriormente alla data del presente decreto, e' esteso sino a sei mesi da questa data".
+Il [D.Lgs. Luogotenenziale 30 novembre 1945, n. 880](Norme%20integrative%20delle%20disposizioni%20sulla%20riammissione%20in%20servizio%20e%20sulla%20ricostruzione%20delle%20carriere%20dei%20pubblici%20Impiegati%20perseguitati%20per%20motivi%20politici%20dai%20cessato%20regime.md), ha disposto (con l'art. 4, comma 1) che "Il termine previsto nell'[art. 5, comma secondo](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), nell'[art. 6, comma terzo](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), e nell'[art. 8, comma secondo, del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 301](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), quando sia scaduto anteriormente alla data del presente decreto, e' esteso sino a sei mesi da questa data".
 
 ## Art. 6.
 
@@ -80,13 +80,13 @@ Non e' pero' ammessa la promozione in soprannumero quei gradi per i quali sia pr
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. Luogotenenziale 8 marzo 1945, n. 134](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20revisione%20delle%20carriere%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20045U0134.md), ha disposto (con l'art. 7, comma 1) che "Il termine di sei mesi, previsto nel [terzo comma dell'art. 6](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md) e nel [secondo comma dell'art. 8 del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 301](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), e' elevato ad un anno".
+Il [D.Lgs. Luogotenenziale 8 marzo 1945, n. 134](Norme%20per%20la%20revisione%20delle%20carriere%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20045U0134.md), ha disposto (con l'art. 7, comma 1) che "Il termine di sei mesi, previsto nel [terzo comma dell'art. 6](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md) e nel [secondo comma dell'art. 8 del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 301](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), e' elevato ad un anno".
 
 -----------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. Luogotenenziale 30 novembre 1945, n. 880](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20integrative%20delle%20disposizioni%20sulla%20riammissione%20in%20servizio%20e%20sulla%20ricostruzione%20delle%20carriere%20dei%20pubblici%20Impiegati%20perseguitati%20per%20motivi%20politici%20dai%20cessato%20regime.md), ha disposto (con l'art. 4, comma 1) che "Il termine previsto nell'[art. 5, comma secondo](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), nell'[art. 6, comma terzo](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), e nell'[art. 8, comma secondo, del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 301](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), quando sia scaduto anteriormente alla data del presente decreto, e' esteso sino a sei mesi da questa data".
+Il [D.Lgs. Luogotenenziale 30 novembre 1945, n. 880](Norme%20integrative%20delle%20disposizioni%20sulla%20riammissione%20in%20servizio%20e%20sulla%20ricostruzione%20delle%20carriere%20dei%20pubblici%20Impiegati%20perseguitati%20per%20motivi%20politici%20dai%20cessato%20regime.md), ha disposto (con l'art. 4, comma 1) che "Il termine previsto nell'[art. 5, comma secondo](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), nell'[art. 6, comma terzo](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), e nell'[art. 8, comma secondo, del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 301](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), quando sia scaduto anteriormente alla data del presente decreto, e' esteso sino a sei mesi da questa data".
 
 ## Art. 7.
 
@@ -108,13 +108,13 @@ La ricostruzione della carriera prevista dai comma 1° e 4° dell'art. 6 deve es
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. Luogotenenziale 8 marzo 1945, n. 134](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20revisione%20delle%20carriere%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20045U0134.md), ha disposto (con l'art. 7, comma 1) che "Il termine di sei mesi, previsto nel [terzo comma dell'art. 6](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md) e nel [secondo comma dell'art. 8 del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 301](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), e' elevato ad un anno".
+Il [D.Lgs. Luogotenenziale 8 marzo 1945, n. 134](Norme%20per%20la%20revisione%20delle%20carriere%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20045U0134.md), ha disposto (con l'art. 7, comma 1) che "Il termine di sei mesi, previsto nel [terzo comma dell'art. 6](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md) e nel [secondo comma dell'art. 8 del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 301](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), e' elevato ad un anno".
 
 -----------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. Luogotenenziale 30 novembre 1945, n. 880](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20integrative%20delle%20disposizioni%20sulla%20riammissione%20in%20servizio%20e%20sulla%20ricostruzione%20delle%20carriere%20dei%20pubblici%20Impiegati%20perseguitati%20per%20motivi%20politici%20dai%20cessato%20regime.md), ha disposto (con l'art. 4, comma 1) che "Il termine previsto nell'[art. 5, comma secondo](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), nell'[art. 6, comma terzo](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), e nell'[art. 8, comma secondo, del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 301](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), quando sia scaduto anteriormente alla data del presente decreto, e' esteso sino a sei mesi da questa data".
+Il [D.Lgs. Luogotenenziale 30 novembre 1945, n. 880](Norme%20integrative%20delle%20disposizioni%20sulla%20riammissione%20in%20servizio%20e%20sulla%20ricostruzione%20delle%20carriere%20dei%20pubblici%20Impiegati%20perseguitati%20per%20motivi%20politici%20dai%20cessato%20regime.md), ha disposto (con l'art. 4, comma 1) che "Il termine previsto nell'[art. 5, comma secondo](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), nell'[art. 6, comma terzo](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), e nell'[art. 8, comma secondo, del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 301](Revisione%20delle%20carriere%20dei%20dipendenti%20dalle%20pubbliche%20amministrazioni.%20044U0301.md), quando sia scaduto anteriormente alla data del presente decreto, e' esteso sino a sei mesi da questa data".
 
 ## Art. 9.
 
@@ -143,7 +143,7 @@ Per coloro che sono stati collocati a riposo, dispensati o licenziati per motivi
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. Luogotenenziale 30 novembre 1945, n. 880](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20integrative%20delle%20disposizioni%20sulla%20riammissione%20in%20servizio%20e%20sulla%20ricostruzione%20delle%20carriere%20dei%20pubblici%20Impiegati%20perseguitati%20per%20motivi%20politici%20dai%20cessato%20regime.md), ha disposto (con l'art. 1, comma 3) che " Il trattamento di quiescenza concesso ai sensi dell'[art. 11 del decreto legislativo 19 ottobre 1944, n. 301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-10-19;301#art_11), ha effetto dai 1° gennaio 1944".
+Il [D.Lgs. Luogotenenziale 30 novembre 1945, n. 880](Norme%20integrative%20delle%20disposizioni%20sulla%20riammissione%20in%20servizio%20e%20sulla%20ricostruzione%20delle%20carriere%20dei%20pubblici%20Impiegati%20perseguitati%20per%20motivi%20politici%20dai%20cessato%20regime.md), ha disposto (con l'art. 1, comma 3) che " Il trattamento di quiescenza concesso ai sensi dell'[art. 11 del decreto legislativo 19 ottobre 1944, n. 301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1944-10-19;301#art_11), ha effetto dai 1° gennaio 1944".
 
 ## Art. 12.
 

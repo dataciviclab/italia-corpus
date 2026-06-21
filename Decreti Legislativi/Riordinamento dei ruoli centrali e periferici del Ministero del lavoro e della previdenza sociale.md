@@ -170,7 +170,7 @@ CAPO V
 
 ### Art. 19.
 
-Il numero dei funzionari della carriera di concetto dell'Amministrazione centrale e dell'ispettorato del lavoro, che possono essere collocati fuori ruolo, ai sensi dell'[art. 1 del regio decreto 30 dicembre 1923, n. 2958](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), integrato dall'[art. 17 del regio decreto-legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46#art_17), e' stabilito rispettivamente in cinque e cinque; dei quali non piu' di due di grado 5° ed i rimanenti di grado non superiore al 6°.
+Il numero dei funzionari della carriera di concetto dell'Amministrazione centrale e dell'ispettorato del lavoro, che possono essere collocati fuori ruolo, ai sensi dell'[art. 1 del regio decreto 30 dicembre 1923, n. 2958](../Regi%20decreti/Disposizioni%20riguardanti%20la%20posizione%20dei%20funzionari%20fuori%20ruolo.%20023U2958.md), integrato dall'[art. 17 del regio decreto-legge 10 gennaio 1926, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46#art_17), e' stabilito rispettivamente in cinque e cinque; dei quali non piu' di due di grado 5° ed i rimanenti di grado non superiore al 6°.
 
 ## DISPOSIZIONI TRANSITORIE E FINALI
 
@@ -222,7 +222,7 @@ Per i vincitori del concorso di cui al precedente art 25, il periodo di servizio
 
 ### Art. 27.
 
-Il personale che, alla data del presente decreto, trovisi in servizio presso gli Uffici del lavoro, e rivesta una delle qualifiche previste dalla tabella A allegata ai [regio decreto legislativo 20 maggio 1946, n. 450](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md), e' collocato, subordinatamente al possesso del titolo di studio stabilito dal precedente art. 12 e previo giudizio favorevole di apposita Commissione da costituire con decreto del Ministro per il lavoro e la previdenza sociale, nelle categorie a contratto degli Uffici del lavoro e della massima occupazione, con assegnazione alla qualifica indicata nella seguente tabella a fianco di ciascuna di quello attualmente rivestite:
+Il personale che, alla data del presente decreto, trovisi in servizio presso gli Uffici del lavoro, e rivesta una delle qualifiche previste dalla tabella A allegata ai [regio decreto legislativo 20 maggio 1946, n. 450](../Regi%20decreti%20legislativi/Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md), e' collocato, subordinatamente al possesso del titolo di studio stabilito dal precedente art. 12 e previo giudizio favorevole di apposita Commissione da costituire con decreto del Ministro per il lavoro e la previdenza sociale, nelle categorie a contratto degli Uffici del lavoro e della massima occupazione, con assegnazione alla qualifica indicata nella seguente tabella a fianco di ciascuna di quello attualmente rivestite:
 
  Categoria di concetto:
  Direttore regionale.......|
@@ -277,8 +277,8 @@ I ruoli del personale dell'Amministrazione centrale, di cui alle tabelle annesse
 ### Art. 32.
 
 I ruoli del personale dell'Ispettorato del lavoro, di cui alla tabella annessa alla [legge 1 settembre 1940, n. 1337](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20dellIspettorato%20corporativo.%20040U1337.md), sono soppressi.
-Peraltro, resta in vigore il ruolo degli Ispettori del collocamento, di cui alle tabelle 1ª e 2 annesse al [regio decreto 8 ottobre 1940, n. 1842](../Atti%20normativi%20abrogati%20%28in%20originale%29/Inquadramento%20nellIspettorato%20corporativo%20del%20dirigenti%20unici%20dei%20cessati%20Uffici%20provinciali%20di%20collocamento.%20040U1842.md).
- Nulla e' innovato per quanto riguarda la posizione degli ex dirigenti unici dei cessati Uffici provinciali di collocamento, assunti in servizio nell'Ispettorato del lavoro con contratto di impiego a tempo indeterminato, a norma del citato [regio decreto 8 ottobre 1940, n. 1842](../Atti%20normativi%20abrogati%20%28in%20originale%29/Inquadramento%20nellIspettorato%20corporativo%20del%20dirigenti%20unici%20dei%20cessati%20Uffici%20provinciali%20di%20collocamento.%20040U1842.md).
+Peraltro, resta in vigore il ruolo degli Ispettori del collocamento, di cui alle tabelle 1ª e 2 annesse al [regio decreto 8 ottobre 1940, n. 1842](../Regi%20decreti/Inquadramento%20nellIspettorato%20corporativo%20del%20dirigenti%20unici%20dei%20cessati%20Uffici%20provinciali%20di%20collocamento.%20040U1842.md).
+ Nulla e' innovato per quanto riguarda la posizione degli ex dirigenti unici dei cessati Uffici provinciali di collocamento, assunti in servizio nell'Ispettorato del lavoro con contratto di impiego a tempo indeterminato, a norma del citato [regio decreto 8 ottobre 1940, n. 1842](../Regi%20decreti/Inquadramento%20nellIspettorato%20corporativo%20del%20dirigenti%20unici%20dei%20cessati%20Uffici%20provinciali%20di%20collocamento.%20040U1842.md).
 
 ### Art. 33.
 

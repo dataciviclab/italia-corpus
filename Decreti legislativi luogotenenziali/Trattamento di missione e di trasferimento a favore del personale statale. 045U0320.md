@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [decreto Luogotenenziale 14 settembre 1918, n. 1311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-09-14;1311);
 
-Visto il [R. decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+Visto il [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
 
 Visto il [R. decreto-legge 19 agosto 1938, n. 1518](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alle%20norme%20che%20regolano%20il%20trattamento%20economico%20del%20dipendenti%20dallo%20Stato%20in%20occasione%20di%20missioni%20e%20trasferimenti.%20038U1518.md);
 
@@ -106,7 +106,7 @@ Con decreti da emanarsi nei singoli casi di concerto col Ministro per il tesoro,
 
 ## Art. 7.
 
-Con effetto dal 1° luglio 1944, per la retribuzione da assegnare agli estranei all'Amministrazione dello Stato incaricati di speciali studi o lavori a norma dell'[art. 57 del R. decreto 8 maggio 1924, n. 843](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), il limite massimo e' fissato nella misura della diaria prevista per il grado quarto dall'[art. 1 del R. decreto-legge 27 febbraio 1942, n. 76](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trattamento%20di%20missione%20al%20personale%20statale%20nellinterno%20del%20Regno.%20042U0076.md), con l'aumento di cui all'[art. 1 del R. decreto-legge 9 maggio 1944, n. 131](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aumento%20del%20trattamento%20di%20missione%20al%20personale%20statale%20nellinterno%20del%20Regno.%20044U0131.md). 
+Con effetto dal 1° luglio 1944, per la retribuzione da assegnare agli estranei all'Amministrazione dello Stato incaricati di speciali studi o lavori a norma dell'[art. 57 del R. decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md), il limite massimo e' fissato nella misura della diaria prevista per il grado quarto dall'[art. 1 del R. decreto-legge 27 febbraio 1942, n. 76](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trattamento%20di%20missione%20al%20personale%20statale%20nellinterno%20del%20Regno.%20042U0076.md), con l'aumento di cui all'[art. 1 del R. decreto-legge 9 maggio 1944, n. 131](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aumento%20del%20trattamento%20di%20missione%20al%20personale%20statale%20nellinterno%20del%20Regno.%20044U0131.md). 
  
  Con effetto dal 1° gennaio 1945 il limite di cui al precedente comma e' elevato nella misura del 50 per cento.
 
@@ -125,7 +125,7 @@ Con effetto dal 1° gennaio 1945 a favore del personale dei ruoli centrali delle
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. Luogotenenziale 29 marzo 1946, n. 380](../Atti%20normativi%20abrogati%20%28in%20originale%29/Estensione%20dellart.%208%20del%20decreto%20legislativo%20Luogotenenziale%207%20giugno%201945%20n.%20320%20a%20favore%20del%20personale%20civile%20della%20Regia%20Accademia%20navale%20di%20Livorno%20e%20dellIstituto%20idrografico%20della%20R_b29e0fba7ca5.md), ha disposto (con l'articolo unico, comma 1) che "Il trattamento di cui all' [art. 8 del decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md), e' concesso, con decorrenza dal 1° gennaio 1945, al personale civile della Regia Accademia navale di Livorno e dell'Istituto idrografico della Regia marina in Genova, tenuto a prestare servizio fuori della rispettiva sede normale di Livorno e di Genova".
+Il [D.Lgs. Luogotenenziale 29 marzo 1946, n. 380](Estensione%20dellart.%208%20del%20decreto%20legislativo%20Luogotenenziale%207%20giugno%201945%20n.%20320%20a%20favore%20del%20personale%20civile%20della%20Regia%20Accademia%20navale%20di%20Livorno%20e%20dellIstituto%20idrografico%20della%20R_b29e0fba7ca5.md), ha disposto (con l'articolo unico, comma 1) che "Il trattamento di cui all' [art. 8 del decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md), e' concesso, con decorrenza dal 1° gennaio 1945, al personale civile della Regia Accademia navale di Livorno e dell'Istituto idrografico della Regia marina in Genova, tenuto a prestare servizio fuori della rispettiva sede normale di Livorno e di Genova".
 
 -------------
 

@@ -665,7 +665,7 @@ Gli atti diversi da quelli indicati non sono impugnabili autonomamente. Ognuno d
 
 AGGIORNAMENTO (48)
 
-Il [D.Lgs. 10 giugno 2020, n. 49](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202017-1852%20del%20Consiglio%20del%2010%20ottobre%202017%20sui%20meccanismi%20di%20risoluzione%20delle%20controversie%20in%20materia%20fiscale%20nellUnione%20europea.%2020G00067.md) ha disposto (con l'art. 25, comma 1) che la presente modifica si applica alle istanze di apertura di procedura amichevole presentate a decorrere dal 1° luglio 2019 sulle questioni controverse riguardanti il reddito o il patrimonio, relativi al periodo d'imposta che inizia il 1° gennaio 2018 e ai successivi periodi d'imposta.
+Il [D.Lgs. 10 giugno 2020, n. 49](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202017-1852%20del%20Consiglio%20del%2010%20ottobre%202017%20sui%20meccanismi%20di%20risoluzione%20delle%20controversie%20in%20materia%20fiscale%20nellUnione%20europea.%2020G00067.md) ha disposto (con l'art. 25, comma 1) che la presente modifica si applica alle istanze di apertura di procedura amichevole presentate a decorrere dal 1° luglio 2019 sulle questioni controverse riguardanti il reddito o il patrimonio, relativi al periodo d'imposta che inizia il 1° gennaio 2018 e ai successivi periodi d'imposta.
 
 ---------------
 
@@ -1085,7 +1085,7 @@ Il processo tributario e' altresi' sospeso nei seguenti casi:
 
 AGGIORNAMENTO (48)
 
-Il [D.Lgs. 10 giugno 2020, n. 49](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202017-1852%20del%20Consiglio%20del%2010%20ottobre%202017%20sui%20meccanismi%20di%20risoluzione%20delle%20controversie%20in%20materia%20fiscale%20nellUnione%20europea.%2020G00067.md) ha disposto (con l'art. 25, comma 1) che la presente modifica si applica alle istanze di apertura di procedura amichevole presentate a decorrere dal 1° luglio 2019 sulle questioni controverse riguardanti il reddito o il patrimonio, relativi al periodo d'imposta che inizia il 1° gennaio 2018 e ai successivi periodi d'imposta.
+Il [D.Lgs. 10 giugno 2020, n. 49](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202017-1852%20del%20Consiglio%20del%2010%20ottobre%202017%20sui%20meccanismi%20di%20risoluzione%20delle%20controversie%20in%20materia%20fiscale%20nellUnione%20europea.%2020G00067.md) ha disposto (con l'art. 25, comma 1) che la presente modifica si applica alle istanze di apertura di procedura amichevole presentate a decorrere dal 1° luglio 2019 sulle questioni controverse riguardanti il reddito o il patrimonio, relativi al periodo d'imposta che inizia il 1° gennaio 2018 e ai successivi periodi d'imposta.
 
 ### Art. 40. — Interruzione del processo
 
@@ -1439,7 +1439,7 @@ Il versamento delle somme dovute ovvero, in caso di rateizzazione, della prima r
 
 3.
 
-In caso di mancato pagamento delle somme dovute o di una delle rate, compresa la prima, entro il termine di pagamento della rata successiva, il competente ufficio provvede all'iscrizione a ruolo delle residue somme dovute a titolo di imposta, interessi e sanzioni, nonche' della sanzione di cui all'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), aumentata della meta' e applicata sul residuo importo dovuto a titolo di imposta.
+In caso di mancato pagamento delle somme dovute o di una delle rate, compresa la prima, entro il termine di pagamento della rata successiva, il competente ufficio provvede all'iscrizione a ruolo delle residue somme dovute a titolo di imposta, interessi e sanzioni, nonche' della sanzione di cui all'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 471](Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), aumentata della meta' e applicata sul residuo importo dovuto a titolo di imposta.
 
 4.
 

@@ -16,13 +16,13 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 6 settembre 1934, n. 1434](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20alla%20diretta%20dipendenza%20del%20Capo%20del%20Governo%20del%20Sottosegretariato%20di%20Stato%20per%20la%20stampa%20e%20la%20propaganda.%20034U1434.md), che istituiva il Sottosegretariato di Stato per la stampa e propaganda;
+Visto il [R. decreto 6 settembre 1934, n. 1434](../Regi%20decreti/Istituzione%20alla%20diretta%20dipendenza%20del%20Capo%20del%20Governo%20del%20Sottosegretariato%20di%20Stato%20per%20la%20stampa%20e%20la%20propaganda.%20034U1434.md), che istituiva il Sottosegretariato di Stato per la stampa e propaganda;
 
 Visto il [R. decreto 21 giugno 1935, n. 1009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-06-21;1009), che elevava il Sottosegretariato predetto a Ministero per la stampa e propaganda;
 
 Visti i [Regi decreti 3 febbraio 1936, n. 439](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-03;439), [3 febbraio 1936, n. 447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-03;447), 24 settembre 1936, 11. 1834, 11 gennaio 1937, n. 3 e 22 aprile 1937, n. 571, contenenti disposizioni circa le attribuzioni e l'ordinamento del Ministero stesso;
 
-Visto il [R. decreto 27 maggio 1937, n. 752](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20della%20denominazione%20del%20Ministero%20per%20la%20stampa%20e%20la%20propaganda.%20037U0752.md), col quale la denominazione di Ministero per la stampa e propaganda veniva, modificata in quella di « Ministero per la cultura popolare »;
+Visto il [R. decreto 27 maggio 1937, n. 752](../Regi%20decreti/Modificazione%20della%20denominazione%20del%20Ministero%20per%20la%20stampa%20e%20la%20propaganda.%20037U0752.md), col quale la denominazione di Ministero per la stampa e propaganda veniva, modificata in quella di « Ministero per la cultura popolare »;
 
 Visto l'[art. 4 della legge 24 dicembre 1925, n. 2263](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzioni%20e%20prerogative%20del%20Capo%20del%20Governo%20Primo%20Ministro%20Segretario%20di%20Stato.%20025U2263.md);
 

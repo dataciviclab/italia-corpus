@@ -322,7 +322,7 @@ A tali fini il contingente previsto dall'[articolo 168 del decreto del President
 
 4.
 
-Per le medesime finalita' di cui ai commi 1 e 2, il Corpo della Guardia di finanza puo' destinare, con il trattamento di cui alla [legge 8 luglio 1961, n. 642](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trattamento%20economico%20del%20personale%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20destinato%20isolatamente%20allestero%20presso%20Delegazioni%20o%20Rappresentanze%20militari%20ovvero%20presso%20enti%20comandi%20od_1e382f250bd3.md), e nei limiti degli ordinari stanziamenti di bilancio, proprio personale anche presso le sedi istituzionali competenti nella materia di cui al comma 1, in ambito internazionale ed europeo.
+Per le medesime finalita' di cui ai commi 1 e 2, il Corpo della Guardia di finanza puo' destinare, con il trattamento di cui alla [legge 8 luglio 1961, n. 642](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trattamento%20economico%20del%20personale%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20destinato%20isolatamente%20allestero%20presso%20Delegazioni%20o%20Rappresentanze%20militari%20ovvero%20presso%20enti%20comandi%20od_1e382f250bd3.md), e nei limiti degli ordinari stanziamenti di bilancio, proprio personale anche presso le sedi istituzionali competenti nella materia di cui al comma 1, in ambito internazionale ed europeo.
 
 5.
 

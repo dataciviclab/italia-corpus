@@ -47,7 +47,7 @@ dell'invalidita' civile, della cecita' civile e del sordomutismo, nonche' quelle
 2.
 
 Per la presentazione delle domande di aggravamento resta in 
-vigore quanto disposto dall'[art. 11 del decreto legislativo 23 novembre 1988, n. 509](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20la%20revisione%20delle%20categorie%20delle%20minorazioni%20e%20malattie%20invalidanti%20nonche%20dei%20benefici%20previsti%20dalla%20legislazione%20vigente%20per%20le%20medesime%20categorie%20ai%20sensi%20dellarticolo%202%20c_af244d664b00.md).
+vigore quanto disposto dall'[art. 11 del decreto legislativo 23 novembre 1988, n. 509](../Decreti%20Legislativi/Norme%20per%20la%20revisione%20delle%20categorie%20delle%20minorazioni%20e%20malattie%20invalidanti%20nonche%20dei%20benefici%20previsti%20dalla%20legislazione%20vigente%20per%20le%20medesime%20categorie%20ai%20sensi%20dellarticolo%202%20c_af244d664b00.md).
 
 3.
 

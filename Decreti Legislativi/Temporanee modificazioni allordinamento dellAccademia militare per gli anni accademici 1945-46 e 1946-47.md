@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-In deroga alle vigenti disposizioni, ((...)), i corsi ordinari per giovani aspiranti alla nomina a sottotenente in servizio permanente nelle Armi di fanteria ((cavalleria)), artiglieria e genio e del servizio automobilistico, nonche' i corsi per sottufficiali dell'Arma dei carabinieri aspiranti alla nomina, a sottotenente in servizio permanente nell'Arma stessa ai sensi dell'[art. 1, n. 2, del decreto legislativo luogotenenziale 12 aprile 1946, n. 585](../Atti%20normativi%20abrogati%20%28in%20originale%29/Reclutamento%20degli%20ufficiali%20in%20servizio%20permanente%20dellArma%20dei%20carabinieri%20reali.md), restano regolati dalle norme di cui agli articoli seguenti.
+In deroga alle vigenti disposizioni, ((...)), i corsi ordinari per giovani aspiranti alla nomina a sottotenente in servizio permanente nelle Armi di fanteria ((cavalleria)), artiglieria e genio e del servizio automobilistico, nonche' i corsi per sottufficiali dell'Arma dei carabinieri aspiranti alla nomina, a sottotenente in servizio permanente nell'Arma stessa ai sensi dell'[art. 1, n. 2, del decreto legislativo luogotenenziale 12 aprile 1946, n. 585](../Decreti%20legislativi%20luogotenenziali/Reclutamento%20degli%20ufficiali%20in%20servizio%20permanente%20dellArma%20dei%20carabinieri%20reali.md), restano regolati dalle norme di cui agli articoli seguenti.
 
 ## Art. 2.
 
@@ -45,12 +45,12 @@ Ai corsi ordinari dell'Accademia militare vengono altresi' effettuate ammissioni
  b) non abbiano oltrepassato il 24° anno di eta' al 31 ottobre dell'anno in cui viene bandito il concorso;
  c) abbiano non meno di due anni di servizio da sottufficiale;
  d) siano stati riconosciuti meritevoli di partecipare al concorso dalle autorita' competenti ad esprimere i giudizi sull'avanzamento.
- Per l'ammissione ai corsi dei sottufficiali dell'Arma dei carabinieri si osserveranno le norme di cui agli articoli 1, n. 2, e 5 del [decreto legislativo luogotenenziale 12 aprile 1946, n. 585](../Atti%20normativi%20abrogati%20%28in%20originale%29/Reclutamento%20degli%20ufficiali%20in%20servizio%20permanente%20dellArma%20dei%20carabinieri%20reali.md).
+ Per l'ammissione ai corsi dei sottufficiali dell'Arma dei carabinieri si osserveranno le norme di cui agli articoli 1, n. 2, e 5 del [decreto legislativo luogotenenziale 12 aprile 1946, n. 585](../Decreti%20legislativi%20luogotenenziali/Reclutamento%20degli%20ufficiali%20in%20servizio%20permanente%20dellArma%20dei%20carabinieri%20reali.md).
 
 ## Art. 5.
 
 Salvo le facilitazioni e le dispense previste dai successivi articoli, e' a carico delle famiglie degli allievi dei corsi ordinari dell'Accademia militare la retta di L. 20 mila annue, comprensive del mantenimento, vestiario e spese per l'insegnamento.
- I sottufficiali di cui al precedente articolo - che ai sensi dell'art. 4 del testo unico di reclutamento, approvato con [regio decreto 14 marzo 1938, n. 596](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), debbono rinunciare al grado per la durata dei corsi - sono dispensati dal pagamento della retta stessa.
+ I sottufficiali di cui al precedente articolo - che ai sensi dell'art. 4 del testo unico di reclutamento, approvato con [regio decreto 14 marzo 1938, n. 596](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20sul%20reclutamento%20degli%20ufficiali%20del%20Regio%20esercito.%20038U0596.md), debbono rinunciare al grado per la durata dei corsi - sono dispensati dal pagamento della retta stessa.
 
 ## Art. 6.
 
@@ -64,7 +64,7 @@ E' accordato il beneficio dell'intera retta gratuita agli orfani di guerra appar
 
 Con le modalita' da stabilire con decreto del Ministro per la difesa e' concesso il beneficio della mezza retta gratuita:
  1) per benemerenza di famiglia congiunta al merito personale:
- a) ai figli dei mutilati e degli invalidi di guerra per una invalidita' ascrivibile alle prime quattro categorie elencate nella tabella A annessa ai [regio decreto 12 luglio 1923, n. 1491](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), purche' appartengano a famiglie di disagiate condizioni economiche e siano stati classificati, nella graduatoria di ammissione, con media non inferiore a 14/20;
+ a) ai figli dei mutilati e degli invalidi di guerra per una invalidita' ascrivibile alle prime quattro categorie elencate nella tabella A annessa ai [regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), purche' appartengano a famiglie di disagiate condizioni economiche e siano stati classificati, nella graduatoria di ammissione, con media non inferiore a 14/20;
  b) agli allievi nelle predette condizioni, anche se non abbiano fruito del beneficio della mezza retta gratuita al primo anno di corso, che siano stati promossi al secondo anno con media non inferiore a 14/20 nella prima sessione di esami;
  2) per merito personale:
  a) ai primi dieci allievi della graduatoria di ammissione, purche' abbiano riportato una media complessiva non inferiore a 16/20;

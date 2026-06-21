@@ -61,7 +61,7 @@ Avvertenza:
  - La [direttiva 2001/107/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;107) e' pubblicata nella G.U.C.E. 13 febbraio 2002, n. L 41.
  - La [direttiva 2001/108/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;108) e' pubblicata nella G.U.C.E. 13 febbraio 2002, n. L 41.
  - La [direttiva 1985/611/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;611) e' pubblicata nella G.U.C.E. 31 dicembre 1985, n. L 375.
- - Il [decreto legislativo 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), reca: «Testo unico delle disposizioni in materia di intermediazione finanziaria, ai sensi degli [articoli 8](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) e [21 della legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md).».
+ - Il [decreto legislativo 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), reca: «Testo unico delle disposizioni in materia di intermediazione finanziaria, ai sensi degli [articoli 8](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) e [21 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md).».
 
  Note all'[art. 1:
  - Per le direttive 2001/107/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;107) e [2001/108/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;108), vedi note alle premesse.
@@ -85,7 +85,7 @@ Note all'[art. 2:
  - Per il decreto legislativo 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), vedi note alle premesse. Il testo dell'art. 1, comma 1, del citato decreto cosi' come modificato dal decreto qui pubblicato, cosi' recita:
  «1. Nel presente decreto legislativo si intendono per:
  a) "[legge fallimentare](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267)": il [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), e successive modificazioni;
- b) "Testo unico bancario" (T.U. bancario): il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni;
+ b) "Testo unico bancario" (T.U. bancario): il [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni;
  c) "CONSOB": la Commissione nazionale per le societa' e la borsa;
  d) "ISVAP": l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo;
  e) "societa' di intermediazione mobiliare" (SIM): l'impresa, diversa dalle banche e dagli intermediari finanziari iscritti nell'elenco previsto dall'art. 107 del T.U. bancario, autorizzata a svolgere servizi di investimento, avente sede legale e direzione generale in Italia;
@@ -110,14 +110,14 @@ Note all'[art. 2:
  u) "prodotti finanziari": gli strumenti finanziari e ogni altra forma di investimento di natura finanziaria;
  v) "offerta pubblica di acquisto o di scambio": ogni offerta, invito a offrire o messaggio promozionale, in qualsiasi forma effettuati, finalizzati all'acquisto o allo scambio di prodotti finanziari e rivolti a un numero di soggetti superiore a quello indicato nel regolamento previsto dall'art. 100 nonche' di ammontare complessivo superiore a quello indicato nel medesimo regolamento;
  w) "emittenti quotati": i soggetti italiani o esteri che emettono strumenti finanziari quotati nei mercati regolamentati italiani;».
- - Il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), reca: «Testo unico delle leggi in materia bancaria e creditizia». L'art. 107, cosi' recita:
+ - Il [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), reca: «Testo unico delle leggi in materia bancaria e creditizia». L'art. 107, cosi' recita:
  «Art. 107 (Elenco speciale). - 1. Il Ministro del tesoro, sentite la Banca d'Italia e la CONSOB, determina criteri oggettivi, riferibili all'attivita' svolta, alla dimensione e al rapporto tra indebitamento e patrimonio, in base ai quali sono individuati gli intermediari finanziari che si devono iscrivere in un elenco speciale tenuto dalla Banca d'Italia.
  2. La Banca d'Italia, in conformita' delle deliberazioni del CICR, detta agli intermediari iscritti nell'elenco speciale disposizioni aventi ad oggetto l'adeguatezza patrimoniale e il contenimento del rischio nelle sue diverse configurazioni nonche' l'organizzazione amministrativa e contabile e i controlli interni. La Banca d'Italia puo' adottare, ove la situazione lo richieda, provvedimenti specifici nei confronti di singoli intermediari per le materie in precedenza indicate. Con riferimento a determinati tipi di attivita' la Banca d'Italia puo' inoltre dettare disposizioni volte ad assicurarne il regolare esercizio.
  3. Gli intermediari inviano alla Banca d'Italia, con le modalita' e nei termini da essa stabiliti, segnalazioni periodiche, nonche' ogni altro dato e documento richiesto.
  4. La Banca d'Italia puo' effettuare ispezioni con facolta' di richiedere l'esibizione di documenti e gli atti ritenuti necessari.
  4-bis. La Banca d'Italia puo' imporre agli intermediari il divieto di intraprendere nuove operazioni per violazione di norme di legge o di disposizioni emanate ai sensi del presente decreto.
  5. Gli intermediari finanziari iscritti nell'elenco speciale restano iscritti anche nell'elenco generale; a essi non si applicano i commi 6 e 7, dell'art. 106.
- 6. Gli intermediari finanziari iscritti nell'elenco speciale, quando siano stati autorizzati all'esercizio di servizi di investimento ovvero abbiano acquisito fondi con obbligo di rimborso per un ammontare superiore al patrimonio, sono assoggettati alle disposizioni previste nel titolo IV, capo I, sezione I e III; in luogo degli articoli 86, commi 6 e 7, 87, comma 1, si applica l'art. 57, commi 4 e 5, del testo unico delle disposizioni in materia di mercati finanziari, emanato ai sensi dell'[art. 21 della legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md).
+ 6. Gli intermediari finanziari iscritti nell'elenco speciale, quando siano stati autorizzati all'esercizio di servizi di investimento ovvero abbiano acquisito fondi con obbligo di rimborso per un ammontare superiore al patrimonio, sono assoggettati alle disposizioni previste nel titolo IV, capo I, sezione I e III; in luogo degli articoli 86, commi 6 e 7, 87, comma 1, si applica l'art. 57, commi 4 e 5, del testo unico delle disposizioni in materia di mercati finanziari, emanato ai sensi dell'[art. 21 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md).
  7. Agli intermediari iscritti nell'elenco previsto dal comma 1 che esercitano l'attivita' di concessione di finanziamenti sotto qualsiasi forma si applicano le disposizioni dell'art. 47.».
 
 ## Art. 3. — Modifiche all'articolo 4 del testo unico della finanza Collaborazione tra autorita' e segreto d'ufficio
@@ -234,7 +234,7 @@ Note all'[art. 7:
  7. L'omessa indicazione della facolta' di recesso nei moduli o formulari comporta la nullita' dei relativi contratti, che puo' essere fatta valere solo dal cliente.
  8. Il comma 6 non si applica alle offerte pubbliche di vendita o di sottoscrizione di azioni con diritto di voto o di altri strumenti finanziari che permettano di acquisire o sottoscrivere tali azioni, purche' le azioni o gli strumenti finanziari siano negoziati in mercati regolamentati italiani o di Paesi dell'Unione europea.
  9. Il presente articolo si applica anche ai prodotti finanziari diversi dagli strumenti finanziari e dai prodotti indicati nell'art. 100, comma 1, lettera f).».
- - Per il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), vedi note all'art. 2.
+ - Per il [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), vedi note all'art. 2.
 
 ## Art. 8. — Modifiche all'articolo 33 del testo unico della finanza Attivita' esercitabili
 
@@ -481,7 +481,7 @@ Note all'[art. 21:
  c) le irregolarita' commesse possano pregiudicare interessi di carattere generale;
  d) nei casi di urgenza per la tutela degli interessi degli investitori.
  3. I provvedimenti previsti dal comma 2 sono comunicati dall'autorita' che li ha adottati all'autorita' competente dello Stato comunitario in cui l'intermediario ha sede legale.».
- - Per il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), vedi note all'art. 2.
+ - Per il [decreto legislativo 1° settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), vedi note all'art. 2.
 
 ## Art. 22. — Modifiche all'articolo 58 del testo unico della finanza Succursali di imprese di investimento estere e di societa' di gestione armonizzate
 

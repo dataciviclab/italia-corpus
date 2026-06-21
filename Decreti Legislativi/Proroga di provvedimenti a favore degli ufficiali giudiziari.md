@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Le disposizioni contenute nell'[art. 5 del decreto legislativo luogotenenziale 14 settembre 1945, n. 699](../Atti%20normativi%20abrogati%20%28in%20originale%29/Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0699.md), concernenti l'aumento delle percentuali spettanti agli ufficiali giudiziari sui crediti recuperati dallo Stato e la soppressione della tassa erariale dei 10% sulle percentuali medesime, continuano ad avere effetto fino al 1 luglio 1948.
+Le disposizioni contenute nell'[art. 5 del decreto legislativo luogotenenziale 14 settembre 1945, n. 699](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0699.md), concernenti l'aumento delle percentuali spettanti agli ufficiali giudiziari sui crediti recuperati dallo Stato e la soppressione della tassa erariale dei 10% sulle percentuali medesime, continuano ad avere effetto fino al 1 luglio 1948.
 
 ## Art. 2.
 

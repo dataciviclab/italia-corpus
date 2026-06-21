@@ -49,7 +49,7 @@ Il Presidente della Repubblica e' autorizzato a ratificare le seguenti Convenzio
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 9 - 24 luglio 1986, n. 210 (in G.U. 1a s.s. 01/08/1986, n. 38) ha dichiarato "l'illegittimita' costituzionale dell'[art. 1 della legge 2 agosto 1952, n. 1305](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20di%20ventisette%20convenzioni%20internazionali%20del%20lavoro.md), nella parte in cui da' esecuzione all'art. 3 della Convenzione O.I.[L. n. 89 del 9 luglio 1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-07-09;89) San Francisco - limitatamente al divieto di impiegare, durante la notte, le donne, senza distinzione di eta', in tutte le aziende industriali private e nelle relative dipendenze."
+La Corte Costituzionale, con sentenza 9 - 24 luglio 1986, n. 210 (in G.U. 1a s.s. 01/08/1986, n. 38) ha dichiarato "l'illegittimita' costituzionale dell'[art. 1 della legge 2 agosto 1952, n. 1305](Ratifica%20ed%20esecuzione%20di%20ventisette%20convenzioni%20internazionali%20del%20lavoro.md), nella parte in cui da' esecuzione all'art. 3 della Convenzione O.I.[L. n. 89 del 9 luglio 1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-07-09;89) San Francisco - limitatamente al divieto di impiegare, durante la notte, le donne, senza distinzione di eta', in tutte le aziende industriali private e nelle relative dipendenze."
 
 ## Art. 2.
 
