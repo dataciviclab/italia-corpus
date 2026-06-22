@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87):
 
-Vista la [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md);
+Vista la [legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md);
 
 Vista la [direttiva 95/29/CE del Consiglio del 29 giugno 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;29), che modifica la [direttiva 91/628/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;628) relativa alla protezione degli animali durante il trasporto;
 
@@ -126,7 +126,7 @@ Avvertenza:
  Note alle premesse: 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione dei principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
- - La [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), reca: "Disposizioni per l'adempimento di obblighi derivanti dalla appartenenza dell'Italia alle Comunita' europee. (Legge comunitaria 1995-1997)". 
+ - La [legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), reca: "Disposizioni per l'adempimento di obblighi derivanti dalla appartenenza dell'Italia alle Comunita' europee. (Legge comunitaria 1995-1997)". 
  - La [direttiva 95/29/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;29) e' pubblicata in GUCE L 148 del 30 giugno 1995. 
  - La [direttiva 91/628/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;628) e' pubblicata in GUCE L 
  340 dell'11 dicembre 1991. 

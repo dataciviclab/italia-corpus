@@ -20,7 +20,7 @@ Vista la [legge 6 agosto 2013, n. 96](../Leggi%20contenenti%20deleghe/Delega%20a
 
 Visto il [decreto legislativo 30 maggio 2005, n. 142](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202002-87-CE%20relativa%20alla%20vigilanza%20supplementare%20sugli%20enti%20creditizi%20sulle%20imprese%20di%20assicurazione%20e%20sulle%20imprese%20di%20investimento%20appartenenti%20ad%20un%20conglome_cf7693fa1744.md), recante attuazione della [direttiva 2002/87/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;87) relativa alla vigilanza supplementare sugli enti creditizi, sulle imprese di assicurazione e sulle imprese di investimento appartenenti ad un conglomerato finanziario;
 
-Visto il testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
+Visto il testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
 
 Visto il [codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), di cui al [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md);
 
@@ -292,14 +292,14 @@ Avvertenza:
  La [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md) (Norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea) e' pubblicata nella Gazz. Uff. 4 gennaio 2013, n. 3. 
  La [legge 6 agosto 2013, n. 96](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013.%2013G00137.md) (Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013) e' pubblicata nella Gazz. Uff. 20 agosto 2013, n. 194. 
  Il [decreto legislativo 30 maggio 2005, n. 142](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202002-87-CE%20relativa%20alla%20vigilanza%20supplementare%20sugli%20enti%20creditizi%20sulle%20imprese%20di%20assicurazione%20e%20sulle%20imprese%20di%20investimento%20appartenenti%20ad%20un%20conglome_cf7693fa1744.md) (Attuazione della [direttiva 2002/87/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;87) relativa alla vigilanza supplementare sugli enti creditizi, sulle imprese di assicurazione e sulle imprese di investimento appartenenti ad un conglomerato finanziario, nonche' all'istituto della consultazione preliminare in tema di assicurazioni) e' pubblicato nella Gazz. Uff. 25 luglio 2005, n. 171, S.O. 
- Il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) (Testo unico delle leggi in materia bancaria e creditizia) e' pubblicato nella Gazz. Uff. 30 settembre 1993, n. 230, S.O. 
+ Il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia) e' pubblicato nella Gazz. Uff. 30 settembre 1993, n. 230, S.O. 
  Il [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md) ([Codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md)) e' pubblicato nella Gazz. Uff 13 ottobre 2005, n. 239, S.O. 
  Il [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) (Testo unico delle disposizioni in materia di intermediazione finanziaria, ai sensi degli [articoli 8](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) e [21 della legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md)) e' pubblicato nella Gazz. Uff. 26 marzo 1998, n. 71, S.O. 
  
  Note all'art. 1: 
  Si riporta il testo del comma 1 dell'articolo 1 del citato [decreto legislativo n. 142 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;142), come modificato dal presente decreto: 
  «Art. 1 (Definizioni). - 1. Ai fini del presente decreto si intende per: 
- a) testo unico bancario, di seguito denominato TUB: il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni; 
+ a) testo unico bancario, di seguito denominato TUB: il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni; 
  b) testo unico della finanza, di seguito denominato TUF: il [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e successive modificazioni; 
  b-bis) [codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), di seguito denominato CAP: il [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e successive modificazioni; 
  b-ter) norme settoriali: le disposizioni di cui alle lettere da a) a b-bis) e le relative disposizioni di attuazione delle competenti autorita' di vigilanza; 
@@ -549,15 +549,15 @@ Avvertenza:
 
 1.
 
-All'[articolo 59, comma 1, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_59-com1), dopo la lettera b), e' inserita la seguente: «b-bis) per 'di partecipazione finanziaria mista' si intendono le societa' di cui all'[articolo 1, comma 1, lettera v), del decreto legislativo 30 maggio 2005, n. 142](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202002-87-CE%20relativa%20alla%20vigilanza%20supplementare%20sugli%20enti%20creditizi%20sulle%20imprese%20di%20assicurazione%20e%20sulle%20imprese%20di%20investimento%20appartenenti%20ad%20un%20conglome_cf7693fa1744.md);».
+All'[articolo 59, comma 1, del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), dopo la lettera b), e' inserita la seguente: «b-bis) per 'di partecipazione finanziaria mista' si intendono le societa' di cui all'[articolo 1, comma 1, lettera v), del decreto legislativo 30 maggio 2005, n. 142](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202002-87-CE%20relativa%20alla%20vigilanza%20supplementare%20sugli%20enti%20creditizi%20sulle%20imprese%20di%20assicurazione%20e%20sulle%20imprese%20di%20investimento%20appartenenti%20ad%20un%20conglome_cf7693fa1744.md);».
 
 2.
 
-All'[articolo 60, comma 1, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_60-com1), la lettera b) e' sostituita dalla seguente: «b) dalla societa' finanziaria o dalla societa' di partecipazione finanziaria mista capogruppo italiana e dalle societa' bancarie, finanziarie e strumentali da questa controllate, quando nell'insieme delle societa' da essa partecipate vi sia almeno una banca italiana controllata e abbiano rilevanza determinante, secondo quanto stabilito dalla Banca d'Italia in conformita' alle deliberazioni del CICR, le partecipazioni in societa' bancarie e finanziarie.».
+All'[articolo 60, comma 1, del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), la lettera b) e' sostituita dalla seguente: «b) dalla societa' finanziaria o dalla societa' di partecipazione finanziaria mista capogruppo italiana e dalle societa' bancarie, finanziarie e strumentali da questa controllate, quando nell'insieme delle societa' da essa partecipate vi sia almeno una banca italiana controllata e abbiano rilevanza determinante, secondo quanto stabilito dalla Banca d'Italia in conformita' alle deliberazioni del CICR, le partecipazioni in societa' bancarie e finanziarie.».
 
 3.
 
-All'[articolo 61 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_61), sono apportate le seguenti modificazioni:
+All'[articolo 61 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono apportate le seguenti modificazioni:
                         a)
                             il comma 1 e' sostituito dal seguente: «1. Capogruppo e' la banca italiana o la societa' finanziaria o la societa' di partecipazione finanziaria mista con sede legale in Italia, cui fa capo il controllo delle societa' componenti il gruppo bancario e che non sia, a sua volta, controllata da un'altra banca italiana o da un'altra societa' finanziaria o societa' di partecipazione finanziaria mista con sede legale in Italia, che possa essere considerata capogruppo.»;
                         b)
@@ -565,7 +565,7 @@ All'[articolo 61 del decreto legislativo 1° settembre 1993, n. 385](https://www
 
 4.
 
-All'[articolo 62 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_62), sono apportate le seguenti modificazioni:
+All'[articolo 62 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, dopo le parole: «societa' finanziaria» sono inserite le seguenti: «e la societa' di partecipazione finanziaria mista»;
                         b)
@@ -573,7 +573,7 @@ All'[articolo 62 del decreto legislativo 1° settembre 1993, n. 385](https://www
 
 5.
 
-All'[articolo 63 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_63), sono apportate le seguenti modificazioni:
+All'[articolo 63 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, dopo le parole: «societa' finanziarie» sono inserite le seguenti: «e alle societa' di partecipazione finanziaria mista»;
                         b)
@@ -581,18 +581,18 @@ All'[articolo 63 del decreto legislativo 1° settembre 1993, n. 385](https://www
 
 6.
 
-Dopo l'[articolo 67 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_67), e' inserito il seguente: 
+Dopo l'[articolo 67 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' inserito il seguente: 
  «Art. 67-bis (Disposizioni applicabili alla societa' di partecipazione finanziaria mista). - 1. La Banca d'Italia puo' individuare le ipotesi in cui la societa' di partecipazione finanziaria mista capogruppo e' esentata dall'applicazione di una o piu' disposizioni adottate ai sensi del presente capo. 
  2. Le disposizioni di cui agli articoli 61, comma 3, 62 e 63, comma 1, si applicano alla societa' di partecipazione finanziaria mista qualora il settore di maggiori dimensioni all'interno del conglomerato finanziario sia quello bancario, determinato ai sensi del [decreto legislativo 30 maggio 2005, n. 142](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202002-87-CE%20relativa%20alla%20vigilanza%20supplementare%20sugli%20enti%20creditizi%20sulle%20imprese%20di%20assicurazione%20e%20sulle%20imprese%20di%20investimento%20appartenenti%20ad%20un%20conglome_cf7693fa1744.md). I provvedimenti di accertamento di cui all'articolo 56, decadenza di cui all'articolo 26 e autorizzazione di cui all'articolo 19 sono adottati dalla Banca d'Italia d'intesa con l'IVASS. 
  3. I provvedimenti previsti dal Titolo IV, Capo II, nei confronti della societa' di partecipazione finanziaria mista sono adottati o proposti dalla Banca d'Italia d'intesa con l'IVASS.».
 
 7.
 
-All'[articolo 69, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_69), al comma 1-bis, lettera a), dopo le parole: «societa' finanziarie» sono inserite le seguenti: «e sulle societa' di partecipazione finanziaria mista».
+All'[articolo 69, del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), al comma 1-bis, lettera a), dopo le parole: «societa' finanziarie» sono inserite le seguenti: «e sulle societa' di partecipazione finanziaria mista».
 
 8.
 
-All'[articolo 96-bis del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_96bis), al comma 4, lettera g), sono apportate le seguenti modificazioni:
+All'[articolo 96-bis del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), al comma 4, lettera g), sono apportate le seguenti modificazioni:
                         a)
                             dopo le parole: «societa' finanziarie» sono inserite le seguenti: «e delle societa' di partecipazione finanziaria mista»;
                         b)
@@ -600,7 +600,7 @@ All'[articolo 96-bis del decreto legislativo 1° settembre 1993, n. 385](https:/
 
 9.
 
-All'[articolo 139 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_139), sono apportate le seguenti modificazioni:
+All'[articolo 139 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono apportate le seguenti modificazioni:
                         a)
                             alla rubrica, dopo le parole: «societa' finanziarie» sono inserite le seguenti: «e societa' di partecipazione finanziaria mista»;
                         b)
@@ -915,7 +915,7 @@ Note all'art. 3:
  2) una partecipazione, detenuta direttamente o per il tramite di societa' controllate, societa' fiduciarie o per interposta persona, almeno pari al dieci per cento del capitale o dei diritti di voto, ovvero una partecipazione che, pur restando al di sotto del limite sopra indicato, da' comunque la possibilita' di esercitare un'influenza notevole ancorche' non dominante; 
  3) un legame in base al quale le stesse persone sono sottoposte al controllo del medesimo soggetto, o comunque sono sottoposte a direzione unitaria in virtu' di un contratto o di una clausola statutaria, oppure quando gli organi di amministrazione sono composti in maggioranza dalle medesime persone, oppure quando esistono legami importanti e durevoli di riassicurazione; 
  4) un rapporto di carattere tecnico, organizzativo, finanziario, giuridico e familiare che possa influire in misura rilevante sulla gestione dell'impresa. L'ISVAP, con regolamento, puo' ulteriormente qualificare la definizione di stretti legami, al fine di evitare situazioni di ostacolo all'effettivo esercizio delle funzioni di vigilanza; 
- lll) testo unico bancario: il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni; 
+ lll) testo unico bancario: il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni; 
  mmm) testo unico dell'intermediazione finanziaria: il [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e successive modificazioni; 
  nnn) testo unico in materia di assicurazioni sugli infortuni sul lavoro e le malattie professionali: il [decreto legislativo 23 febbraio 2000, n. 38](Disposizioni%20in%20materia%20di%20assicurazione%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali%20a%20norma%20dellarticolo%2055%20comma%201%20della%20legge%2017%20maggio%201999%20n.%20144.md), e successive modificazioni; 
  ooo) Ufficio centrale italiano: l'ente costituito dalle imprese di assicurazione autorizzate ad esercitare il ramo responsabilita' civile autoveicoli che e' stato abilitato all'esercizio delle funzioni di Ufficio nazionale di assicurazione nel territorio della Repubblica ed allo svolgimento degli altri compiti previsti dall'ordinamento comunitario e italiano; 

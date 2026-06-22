@@ -31,7 +31,7 @@ I compiti che il codice, le norme di attuazione e il presente regolamento attrib
 Il dirigente dell'ufficio di cancelleria o di segreteria, con ordine di servizio, ripartisce i compiti fra il personale, in modo da assicurare la continuita' ed efficienza del servizio.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'art. 206 delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), allegate al [D.Lgs. n. 271/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989;271), e' cosi' formulato:
@@ -145,7 +145,7 @@ Nota all'[art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repu
 
 1.
 
-La disposizione dell'[art. 24 comma 2 del decreto del Presidente della Repubblica 29 aprile 1976, n. 431](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20della%20legge%2026%20luglio%201975%20n.%20354%20recante%20norme%20sullordinamento%20penitenziario%20e%20sulle%20misure%20privative%20e%20limitative%20della%20liberta.md), relativa alla vidimazione da parte del magistrato di sorveglianza, si applica anche al registro previsto dall'[art. 57 del decreto legislativo 28 luglio 1989, n. 271](Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md).
+La disposizione dell'[art. 24 comma 2 del decreto del Presidente della Repubblica 29 aprile 1976, n. 431](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20della%20legge%2026%20luglio%201975%20n.%20354%20recante%20norme%20sullordinamento%20penitenziario%20e%20sulle%20misure%20privative%20e%20limitative%20della%20liberta.md), relativa alla vidimazione da parte del magistrato di sorveglianza, si applica anche al registro previsto dall'[art. 57 del decreto legislativo 28 luglio 1989, n. 271](Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md).
 
 Note all'art. 8:
  - Il comma 2 dell'art. 24 del regolamento di esecuzione della [legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354), recante norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta', approvato con D P.R. n. 431/1976, prevede che: "Il registro, prima che sia posto in uso, e' presentato al magistrato di sorveglianza che ne fa numerare ciascuna pagina, vistandola e segnandola con sigillo del proprio ufficio. In fine del registro lo stesso magistrato di sorveglianza indica il numero complessivo delle pagine e vi appone la data e la sottoscrizione".
@@ -179,7 +179,7 @@ Nota all'art. 10:
 
 1.
 
-Se le cose sequestrate sono oggetti preziosi, monete, carte di pubblico credito indicate nell'[art. 458 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o altri titoli al portatore, si provvede, appena pervengono nella cancelleria o nella segreteria, alla loro verificazione, osservate le disposizioni dell'art. 261 del codice. Allo stesso modo si procede per ogni altra cosa sequestrata quando i sigilli appaiono rotti o alterati. Delle operazioni e' compilato verbale che viene unito agli atti.
+Se le cose sequestrate sono oggetti preziosi, monete, carte di pubblico credito indicate nell'[art. 458 del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o altri titoli al portatore, si provvede, appena pervengono nella cancelleria o nella segreteria, alla loro verificazione, osservate le disposizioni dell'art. 261 del codice. Allo stesso modo si procede per ogni altra cosa sequestrata quando i sigilli appaiono rotti o alterati. Delle operazioni e' compilato verbale che viene unito agli atti.
 
 2.
 

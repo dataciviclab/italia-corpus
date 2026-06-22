@@ -44,7 +44,7 @@ La tabella delle indennita' per gli infortuni sul lavoro in agricoltura, annessa
 
 ## Art. 3.
 
-Le indennita' sono pagate in capitale: esse sono trattenute dall'istituto gestore dell'assicurazione contro gli infortuni sul lavoro in agricoltura per essere convertite in rendita vitalizia, quando questa risulti almeno di L. 2500 all'anno per gli uomini e di L. 1800 per le donne. La rendita vitalizia e' stabilita in conformita' della tariffa per la costituzione delle rendite vitalizie immediate, approvata col [R. decreto 9 ottobre 1922, n. 1403](../Regi%20decreti/Che%20approva%20le%20nuove%20tariffe%20per%20la%20costituzione%20delle%20rendite%20vitalizie%20immediate%20e%20di%20quelle%20differite%20relative%20ai%20versamenti%20facoltativi%20nei%20ruoli%20della%20mutualita%20e%20dei%20contributi%20rise_b106caa419d9.md).
+Le indennita' sono pagate in capitale: esse sono trattenute dall'istituto gestore dell'assicurazione contro gli infortuni sul lavoro in agricoltura per essere convertite in rendita vitalizia, quando questa risulti almeno di L. 2500 all'anno per gli uomini e di L. 1800 per le donne. La rendita vitalizia e' stabilita in conformita' della tariffa per la costituzione delle rendite vitalizie immediate, approvata col [R. decreto 9 ottobre 1922, n. 1403](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20nuove%20tariffe%20per%20la%20costituzione%20delle%20rendite%20vitalizie%20immediate%20e%20di%20quelle%20differite%20relative%20ai%20versamenti%20facoltativi%20nei%20ruoli%20della%20mutualita%20e%20dei%20contributi%20rise_b106caa419d9.md).
 
 ## Art. 4.
 

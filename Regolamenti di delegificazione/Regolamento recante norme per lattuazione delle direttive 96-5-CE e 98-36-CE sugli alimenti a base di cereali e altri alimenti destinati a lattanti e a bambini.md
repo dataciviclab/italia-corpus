@@ -14,7 +14,7 @@ Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.i
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Vista la [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), ed in particolare l'articolo 5 e l'allegato C;
+Vista la [legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), ed in particolare l'articolo 5 e l'allegato C;
 
 Vista la [direttiva 96/5/CE della Commissione del 16 febbraio 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;5), sugli alimenti a base di cereali e gli altri alimenti destinati ai lattanti ed ai bambini;
 
@@ -22,7 +22,7 @@ Vista la [direttiva 98/36/CE della Commissione del 2 giugno 1998](https://www.no
 
 Visto il decreto del Ministro della sanita' 21 marzo 1973, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 104 del 20 aprile 1993, e successive modificazioni;
 
-Visto il [decreto legislativo 27 gennaio 1992, n. 111](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md);
+Visto il [decreto legislativo 27 gennaio 1992, n. 111](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md);
 
 Visto il [decreto del Ministro della sanita' 6 aprile 1994, n. 500](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20concernente%20lattuazione%20delle%20direttive%2091-321-CEE%20della%20Commissione%20del%2014%20maggio%201991%20sugli%20alimenti%20per%20lattanti%20e%20alimenti%20di%20proseguimento%20e%2092-52-CEE%20del%20Consiglio%20del%201_7477e62580fe.md);
 
@@ -114,7 +114,7 @@ Nella fabbricazione dei prodotti di cui all'articolo 2, comma 1, possono essere 
 
 1.
 
-Oltre a quanto previsto dal [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), l'etichettatura dei prodotti di cui all'articolo 2, comma 1, deve contenere le seguenti indicazioni:
+Oltre a quanto previsto dal [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), l'etichettatura dei prodotti di cui all'articolo 2, comma 1, deve contenere le seguenti indicazioni:
                         a)
                             l'eta' a partire .dalla quale il prodotto puo' essere utilizzato, tenendo conto della composizione, della presentazione e di altre .caratteristiche particolari del .prodotto. In nessun caso l'eta' indicata puo' essere inferiore a quattro mesi. 1 prodotti raccomandati a partire dall'eta' di quattro mesi devono recare la dicitura che sono indicati a partire da tale eta',salvo diverso parere del medico pediatra;
                         b)
@@ -127,7 +127,7 @@ Oltre a quanto previsto dal [decreto legislativo 27 gennaio 1992, n. 109](../Dec
                             ove nccessario le istruzioni per un'appropriata preparazione del prodotto con Iindicazione dell'importanza di seguire le istruzioni.
 
 Nota all'[art. 7:
- - Il D.Lgs. 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), reca: "Attuazione delle [direttive 89/395/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;395) e [89/396/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;396) concernenti l'etichettatura, la presentazione e la pubblicita' dei prodotti alimentari".
+ - Il D.Lgs. 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), reca: "Attuazione delle [direttive 89/395/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;395) e [89/396/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;396) concernenti l'etichettatura, la presentazione e la pubblicita' dei prodotti alimentari".
 
 ## Art. 8.
 

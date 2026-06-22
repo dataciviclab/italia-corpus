@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri» e, in particolare, l'articolo 14;
 
-Vista la [legge 9 agosto 2023, n. 111](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), recante «Delega al Governo per la riforma fiscale» e, in particolare, l'articolo 5 relativo alla revisione del sistema di imposizione sui redditi delle persone fisiche, l'articolo 6, relativo alla revisione del sistema di imposizione delle societa' e degli enti e l'articolo 9 recante ulteriori principi e criteri direttivi;
+Vista la [legge 9 agosto 2023, n. 111](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), recante «Delega al Governo per la riforma fiscale» e, in particolare, l'articolo 5 relativo alla revisione del sistema di imposizione sui redditi delle persone fisiche, l'articolo 6, relativo alla revisione del sistema di imposizione delle societa' e degli enti e l'articolo 9 recante ulteriori principi e criteri direttivi;
 
 Visto il testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md);
 
@@ -252,7 +252,7 @@ Titolo II
 
 1.
 
-In attesa della piena attuazione dei criteri direttivi degli [articoli 6, comma 1, lettere a)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [c)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), e [9, comma 1, lettera c), della legge 9 agosto 2023, n. 111](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), concernenti, rispettivamente, la riduzione dell'aliquota dell'imposta sui redditi delle societa' a determinate condizioni, la razionalizzazione e semplificazione dei regimi di riallineamento dei valori fiscali a quelli contabili nonche' dei criteri di determinazione del reddito d'impresa al fine di ridurre gli adempimenti amministrativi attraverso il rafforzamento del processo di avvicinamento dei valori fiscali a quelli civilistici, sono introdotte le disposizioni degli articoli da 9 a 14.
+In attesa della piena attuazione dei criteri direttivi degli [articoli 6, comma 1, lettere a)](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [c)](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), e [9, comma 1, lettera c), della legge 9 agosto 2023, n. 111](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), concernenti, rispettivamente, la riduzione dell'aliquota dell'imposta sui redditi delle societa' a determinate condizioni, la razionalizzazione e semplificazione dei regimi di riallineamento dei valori fiscali a quelli contabili nonche' dei criteri di determinazione del reddito d'impresa al fine di ridurre gli adempimenti amministrativi attraverso il rafforzamento del processo di avvicinamento dei valori fiscali a quelli civilistici, sono introdotte le disposizioni degli articoli da 9 a 14.
 
 ### Art. 9. — Riduzione del doppio binario tra valori contabili e fiscali
 
@@ -326,7 +326,7 @@ Le divergenze tra i valori contabili e fiscali sono assunte distintamente ai fin
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 7, comma 1) che "Le disposizioni di cui all'articolo 3 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2024".
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 7, comma 1) che "Le disposizioni di cui all'articolo 3 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2024".
 
 ### Art. 11. — Regimi di riallineamento
 
@@ -607,7 +607,7 @@ Agli oneri derivanti dal comma 1 del presente articolo pari a 160.889.446 euro p
 
 3.
 
-In sede di attuazione degli [articoli 13, comma 1, lettera b)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), e [14, comma 1, della legge 9 agosto 2023, n. 111](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), e' valutata l'opportunita' di considerare eventuali perdite di gettito, previa intesa in sede di Conferenza Unificata, ai sensi dell'[articolo 2, comma 1, lettera g), numero 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023;111#art_2-com1-letg-num6)), e dell'[articolo 23, comma 2, della legge n. 111 del 2023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023;111#art_23-com2).
+In sede di attuazione degli [articoli 13, comma 1, lettera b)](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), e [14, comma 1, della legge 9 agosto 2023, n. 111](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), e' valutata l'opportunita' di considerare eventuali perdite di gettito, previa intesa in sede di Conferenza Unificata, ai sensi dell'[articolo 2, comma 1, lettera g), numero 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023;111#art_2-com1-letg-num6)), e dell'[articolo 23, comma 2, della legge n. 111 del 2023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023;111#art_23-com2).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

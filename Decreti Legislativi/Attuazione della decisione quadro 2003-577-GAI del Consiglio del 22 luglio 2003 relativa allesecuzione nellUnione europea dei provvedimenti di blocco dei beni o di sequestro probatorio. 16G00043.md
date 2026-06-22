@@ -18,7 +18,7 @@ Visto l'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.
 
 Visti gli [articoli 31](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md) e [32 della legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md);
 
-Vista la [legge 9 luglio 2015, n. 114](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202014.%2015G00127.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2014 e, in particolare, l'articolo 18, comma 1, lettera b);
+Vista la [legge 9 luglio 2015, n. 114](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202014.%2015G00127.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2014 e, in particolare, l'articolo 18, comma 1, lettera b);
 
 Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
@@ -177,7 +177,7 @@ Il procuratore della Repubblica presso il tribunale ((del capoluogo del distrett
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 7 dicembre 2023, n. 203](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20il%20compiuto%20adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20Regolamento%20UE%202018-1805%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20novembre%202018%20relativo%20al%20r_f08c487f72a1.md) ha disposto (con l'art. 7, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 5 e 6, comma 1, lettere c) e d), non si applicano nei procedimenti in cui, alla data di entrata in vigore del presente decreto, le autorita' nazionali di emissione e di esecuzione hanno gia' trasmesso o, rispettivamente, ricevuto le decisioni e i certificati di sequestro o di confisca".
+Il [D.Lgs. 7 dicembre 2023, n. 203](Disposizioni%20per%20il%20compiuto%20adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20Regolamento%20UE%202018-1805%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20novembre%202018%20relativo%20al%20r_f08c487f72a1.md) ha disposto (con l'art. 7, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 5 e 6, comma 1, lettere c) e d), non si applicano nei procedimenti in cui, alla data di entrata in vigore del presente decreto, le autorita' nazionali di emissione e di esecuzione hanno gia' trasmesso o, rispettivamente, ricevuto le decisioni e i certificati di sequestro o di confisca".
 
 ### Art. 5.
 
@@ -208,7 +208,7 @@ Il procuratore della Repubblica che, ricevuto un provvedimento di blocco o di se
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 7 dicembre 2023, n. 203](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20il%20compiuto%20adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20Regolamento%20UE%202018-1805%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20novembre%202018%20relativo%20al%20r_f08c487f72a1.md) ha disposto (con l'art. 7, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 5 e 6, comma 1, lettere c) e d), non si applicano nei procedimenti in cui, alla data di entrata in vigore del presente decreto, le autorita' nazionali di emissione e di esecuzione hanno gia' trasmesso o, rispettivamente, ricevuto le decisioni e i certificati di sequestro o di confisca".
+Il [D.Lgs. 7 dicembre 2023, n. 203](Disposizioni%20per%20il%20compiuto%20adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20Regolamento%20UE%202018-1805%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20novembre%202018%20relativo%20al%20r_f08c487f72a1.md) ha disposto (con l'art. 7, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 5 e 6, comma 1, lettere c) e d), non si applicano nei procedimenti in cui, alla data di entrata in vigore del presente decreto, le autorita' nazionali di emissione e di esecuzione hanno gia' trasmesso o, rispettivamente, ricevuto le decisioni e i certificati di sequestro o di confisca".
 
 ### Art. 6. — Decisioni sulla richiesta di riconoscimento ed esecuzione
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 9 agosto 2023, n. 111](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), con la quale e' stata conferita delega al Governo per la revisione del sistema tributario, e, in particolare, l'articolo 3, recante i principi generali relativi al diritto tributario dell'Unione europea e internazionale;
+Vista la [legge 9 agosto 2023, n. 111](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), con la quale e' stata conferita delega al Governo per la revisione del sistema tributario, e, in particolare, l'articolo 3, recante i principi generali relativi al diritto tributario dell'Unione europea e internazionale;
 
 Viste, in particolare, le lettere c), d) e f) del citato articolo 3, relative, rispettivamente, alla revisione della residenza fiscale delle persone fisiche, delle societa' e degli enti diversi dalle societa' come criterio di collegamento personale all'imposizione per renderla coerente con le prassi internazionali, con le convenzioni per evitare le doppie imposizioni, nonche' alla introduzione di misure volte a conformare il sistema di imposizione sul reddito ad una maggiore competitivita' sul piano internazionale e alla semplificazione e razionalizzazione del regime delle societa' estere controllate;
 
@@ -55,7 +55,7 @@ N O T E
  - Si riporta il testo dell'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76): 
  «Art. 76. - L'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.» 
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi ed emanare i decreti aventi valore di legge e i regolamenti. 
- - Il testo dell'[articolo 3 della legge 9 agosto 2023, n. 111](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), recante «Delega al Governo per la riforma fiscale», e' il seguente: 
+ - Il testo dell'[articolo 3 della legge 9 agosto 2023, n. 111](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), recante «Delega al Governo per la riforma fiscale», e' il seguente: 
  «Art. 3 (Principi generali relativi al diritto tributario dell'Unione europea e internazionale). - 1.
  Nell'esercizio della delega di cui all'articolo 1 il Governo osserva, oltre ai principi e criteri direttivi generali di cui all'articolo 2, anche i seguenti ulteriori principi e criteri direttivi generali: 
  a) garantire l'adeguamento del diritto tributario nazionale ai principi dell'ordinamento tributario e ai livelli di protezione dei diritti stabiliti dall'ordinamento dell'Unione europea, tenendo anche conto dell'evoluzione della giurisprudenza della Corte di giustizia dell'Unione europea in materia tributaria; 
@@ -212,7 +212,7 @@ Le disposizioni di cui al comma 1 si applicano anche ((alle misure fiscali previ
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
 ### Art. 5. — Nuovo regime agevolativo a favore dei lavoratori impatriati
 
@@ -346,7 +346,7 @@ Quando non diversamente disposto o quando il contesto non richiede diversamente,
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
 ### Art. 10. — Ambito applicativo
 
@@ -437,7 +437,7 @@ Se nel corso di un esercizio un'impresa cambia la propria localizzazione, essa s
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
 ## Imposta minima integrativa, imposta minima suppletiva e imposta  minima nazionale
 
@@ -582,7 +582,7 @@ Le disposizioni attuative del presente articolo sono adottate con decreto del Mi
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
 ### Art. 19. — Applicazione dell'imposta minima suppletiva
 
@@ -709,7 +709,7 @@ Se l'applicazione di un principio, o di una sua procedura specifica, nell'ambito
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
 ### Art. 23. — Variazioni per il calcolo del reddito o perdita rilevante
 
@@ -855,7 +855,7 @@ Ai fini del calcolo del reddito o perdita rilevante, all'utile o perdita contabi
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 1, lettera e)) che "all'articolo 23, comma 6, decimo periodo, le parole: «disciplina ne terzo periodo» sono sostituite dalle seguenti: «disciplinato nel terzo periodo»". 
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 1, lettera e)) che "all'articolo 23, comma 6, decimo periodo, le parole: «disciplina ne terzo periodo» sono sostituite dalle seguenti: «disciplinato nel terzo periodo»". 
  Ha inoltre disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
 ### Art. 24. — Utile derivante dal trasporto 
@@ -1041,7 +1041,7 @@ Ai fini del comma 7, nel caso in cui un gruppo multinazionale o nazionale ceda u
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
 ### Art. 29. — Modifiche ai valori delle imposte anticipate 
  e delle imposte differite
@@ -1289,7 +1289,7 @@ Se l'importo della imposta minima nazionale equivalente, relativa ad un esercizi
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
 ### Art. 35.
 
@@ -1362,7 +1362,7 @@ La riduzione del reddito basata sullo svolgimento di una attivita' economica sos
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
 ### Art. 36. — Imposizione integrativa addizionale
 
@@ -1386,7 +1386,7 @@ Se a un'impresa e' attribuita un'imposizione integrativa addizionale ai sensi de
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
 ### Art. 37. — Esclusione de minimis
 
@@ -1414,7 +1414,7 @@ L'esclusione de minimis di cui ai commi da 1 a 4 non e' applicabile alle imprese
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
 ### Art. 38. — Imprese partecipate in misura minoritaria
 
@@ -1458,7 +1458,7 @@ Resta ferma l'applicazione dell'articolo 26, commi 3 e 4, quando un'impresa part
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
 ### Art. 39. — Regimi semplificati
 
@@ -1478,7 +1478,7 @@ Le disposizioni attuative dei regimi semplificati di cui al comma 1 sono adottat
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
 ## Operazioni di riorganizzazione e societa' holding
 
@@ -1528,7 +1528,7 @@ Se in un esercizio un gruppo multinazionale o nazionale, rientrante nell'ambito 
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
 ### Art. 41. — Modifiche al perimetro di consolidamento
 
@@ -2001,7 +2001,7 @@ Con decreto del Ministro dell'economia e delle finanze da pubblicare nella Gazze
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
 ### Art. 52. — Opzioni
 
@@ -2021,7 +2021,7 @@ Le opzioni di cui agli articoli 11, comma 3, 23 commi 3, 7, 9, 13 e 15, articoli
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
 ### Art. 53. — Dichiarazione, riscossione, accertamento e sanzioni
 
@@ -2049,7 +2049,7 @@ Per i primi tre esercizi di applicazione delle disposizioni del presente titolo 
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
 ## Disposizioni transitorie e finali
 
@@ -2104,7 +2104,7 @@ In caso di trasferimenti di immobilizzazioni posti in essere tra imprese in data
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
 ### Art. 55.
 
@@ -2149,7 +2149,7 @@ L'entita' localizzata nel territorio dello Stato, designata a presentare la comu
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
 ### Art. 57. — Differimento dell'imposta minima integrativa 
  e dell'imposta minima suppletiva
@@ -2233,55 +2233,55 @@ Agli oneri derivanti dall'articolo 3, valutati in 7,4 milioni di euro per l'anno
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 12 febbraio 2024, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 40, comma 1) che "Il Fondo di cui all'[articolo 62, comma 1, del decreto legislativo 27 dicembre 2023, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md) e' incrementato di 59.328.334 euro per l'anno 2024 e 130.828.334 euro annui a decorrere dall'anno 2025".
+Il [D.Lgs. 12 febbraio 2024, n. 13](Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 40, comma 1) che "Il Fondo di cui all'[articolo 62, comma 1, del decreto legislativo 27 dicembre 2023, n. 209](Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md) e' incrementato di 59.328.334 euro per l'anno 2024 e 130.828.334 euro annui a decorrere dall'anno 2025".
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 30 dicembre 2023, n. 215](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2023G00227.md), convertito con modificazioni dalla [L. 23 febbraio 2024, n. 18](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202023%20n.%20215%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2024G00033.md), ha disposto (con l'art. 13, comma 3-ter) che "Il fondo di cui all'[articolo 62, comma 1, del decreto legislativo 27 dicembre 2023, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md), e' incrementato di 89,8 milioni di euro per l'anno 2027".
+Il [D.L. 30 dicembre 2023, n. 215](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2023G00227.md), convertito con modificazioni dalla [L. 23 febbraio 2024, n. 18](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202023%20n.%20215%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2024G00033.md), ha disposto (con l'art. 13, comma 3-ter) che "Il fondo di cui all'[articolo 62, comma 1, del decreto legislativo 27 dicembre 2023, n. 209](Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md), e' incrementato di 89,8 milioni di euro per l'anno 2027".
 
 ---------------
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 25 marzo 2024, n. 41](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20riordino%20del%20settore%20dei%20giochi%20a%20partire%20da%20quelli%20a%20distanza%20ai%20sensi%20dellarticolo%2015%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00060.md) ha disposto (con l'art. 25, comma 1) che "Il fondo di cui all'[articolo 62 del decreto legislativo n. 209 del 27 dicembre 2023](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md) e' incrementato di 152 milioni di euro per ciascuno degli anni 2025 e 2026 e di 3 milioni per ciascuno degli anni dal 2027 al 2033".
+Il [D.Lgs. 25 marzo 2024, n. 41](Disposizioni%20in%20materia%20di%20riordino%20del%20settore%20dei%20giochi%20a%20partire%20da%20quelli%20a%20distanza%20ai%20sensi%20dellarticolo%2015%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00060.md) ha disposto (con l'art. 25, comma 1) che "Il fondo di cui all'[articolo 62 del decreto legislativo n. 209 del 27 dicembre 2023](Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md) e' incrementato di 152 milioni di euro per ciascuno degli anni 2025 e 2026 e di 3 milioni per ciascuno degli anni dal 2027 al 2033".
 
 ---------------
 
 AGGIORNAMENTO (4)
 
-Il [D.L. 29 marzo 2024, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-03-29;39), convertito con modificazioni dalla [L. 23 maggio 2024, n. 67](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%202024%20n.%2039%20recante%20misure%20urgenti%20in%20materia%20di%20agevolazioni%20fiscali%20di%20cui%20agli%20articoli%20119%20e%20119-ter%20del%20decreto-legge_6c472a4b1a14.md), ha disposto (con l'art. 9-bis, comma 4) che "Il fondo di cui all'[articolo 62, comma 1, del decreto legislativo 27 dicembre 2023, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md), e' incrementato di 100 milioni di euro per l'anno 2025".
+Il [D.L. 29 marzo 2024, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-03-29;39), convertito con modificazioni dalla [L. 23 maggio 2024, n. 67](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%202024%20n.%2039%20recante%20misure%20urgenti%20in%20materia%20di%20agevolazioni%20fiscali%20di%20cui%20agli%20articoli%20119%20e%20119-ter%20del%20decreto-legge_6c472a4b1a14.md), ha disposto (con l'art. 9-bis, comma 4) che "Il fondo di cui all'[articolo 62, comma 1, del decreto legislativo 27 dicembre 2023, n. 209](Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md), e' incrementato di 100 milioni di euro per l'anno 2025".
 
 ---------------
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 29 luglio 2024, n. 110](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20riordino%20del%20sistema%20nazionale%20della%20riscossione.%2024G00128.md), ha disposto (con l'art. 18, comma 1) che "Il fondo di cui all'[articolo 62 del decreto legislativo 27 dicembre 2023, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md) e' incrementato di 65 milioni di euro annui a decorrere dall'anno 2037".
+Il [D.Lgs. 29 luglio 2024, n. 110](Disposizioni%20in%20materia%20di%20riordino%20del%20sistema%20nazionale%20della%20riscossione.%2024G00128.md), ha disposto (con l'art. 18, comma 1) che "Il fondo di cui all'[articolo 62 del decreto legislativo 27 dicembre 2023, n. 209](Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md) e' incrementato di 65 milioni di euro annui a decorrere dall'anno 2037".
 
 ---------------
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 13 dicembre 2024, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 21, comma 1) che "Il fondo di cui all'[articolo 62 del decreto legislativo 27 dicembre 2023, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md) e' incrementato di 160.889.446 euro per l'anno 2027, 125.189.446 euro per l'anno 2028, 60.289.446 euro per l'anno 2029, 220.689.446 euro per l'anno 2030, 291.089.446 euro per l'anno 2031, 258.689.446 euro per l'anno 2032, 227.489.446 euro per l'anno 2033, 221.789.446 euro per l'anno 2034, 216.289.446 euro per l'anno 2035, 210.589.446 euro per l'anno 2036 e 204.889.446 euro annui a decorrere dall'anno 2037".
+Il [D.Lgs. 13 dicembre 2024, n. 192](Revisione%20del%20regime%20impositivo%20dei%20redditi%20IRPEF-IRES.%2024G00214.md), ha disposto (con l'art. 21, comma 1) che "Il fondo di cui all'[articolo 62 del decreto legislativo 27 dicembre 2023, n. 209](Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md) e' incrementato di 160.889.446 euro per l'anno 2027, 125.189.446 euro per l'anno 2028, 60.289.446 euro per l'anno 2029, 220.689.446 euro per l'anno 2030, 291.089.446 euro per l'anno 2031, 258.689.446 euro per l'anno 2032, 227.489.446 euro per l'anno 2033, 221.789.446 euro per l'anno 2034, 216.289.446 euro per l'anno 2035, 210.589.446 euro per l'anno 2036 e 204.889.446 euro annui a decorrere dall'anno 2037".
 
 ---------------
 
 AGGIORNAMENTO (9)
 
-Il [D.L. 27 dicembre 2024, n. 202](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2024G00227.md), convertito con modificazioni dalla [L. 21 febbraio 2025, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20dicembre%202024%20n.%20202%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2025G00024.md), ha disposto (con l'art. 3-bis, comma 6) che "Il fondo di cui all'[articolo 62 del decreto legislativo 27 dicembre 2023, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md), e' incrementato di 4,92 milioni di euro per l'anno 2025, 32,88 milioni di euro per l'anno 2026 e 34,57 milioni di euro per l'anno 2027".
+Il [D.L. 27 dicembre 2024, n. 202](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2024G00227.md), convertito con modificazioni dalla [L. 21 febbraio 2025, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20dicembre%202024%20n.%20202%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2025G00024.md), ha disposto (con l'art. 3-bis, comma 6) che "Il fondo di cui all'[articolo 62 del decreto legislativo 27 dicembre 2023, n. 209](Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md), e' incrementato di 4,92 milioni di euro per l'anno 2025, 32,88 milioni di euro per l'anno 2026 e 34,57 milioni di euro per l'anno 2027".
 
 ---------------
 
 AGGIORNAMENTO (11)
 
-Il [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-17;84), ha disposto (con l'art. 15, comma 1) che "Il fondo di cui all'[articolo 62, comma 1, del decreto legislativo 27 dicembre 2023, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md), e' incrementato di 2,4 milioni di euro per l'anno 2025".
+Il [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-17;84), ha disposto (con l'art. 15, comma 1) che "Il fondo di cui all'[articolo 62, comma 1, del decreto legislativo 27 dicembre 2023, n. 209](Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md), e' incrementato di 2,4 milioni di euro per l'anno 2025".
 
 ---------------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md), ha disposto (con l'art. 19, comma 1) che "Il fondo di cui all'[articolo 62, comma 1, del decreto legislativo 27 dicembre 2023, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md) e' incrementato di 2,370 milioni di euro per l'anno 2030 e 0,340 milioni di euro annui a decorrere dall'anno 2031".
+Il [D.Lgs. 18 dicembre 2025, n. 192](Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md), ha disposto (con l'art. 19, comma 1) che "Il fondo di cui all'[articolo 62, comma 1, del decreto legislativo 27 dicembre 2023, n. 209](Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md) e' incrementato di 2,370 milioni di euro per l'anno 2030 e 0,340 milioni di euro annui a decorrere dall'anno 2031".
 
 ### Art. 63. — Entrata in vigore
 

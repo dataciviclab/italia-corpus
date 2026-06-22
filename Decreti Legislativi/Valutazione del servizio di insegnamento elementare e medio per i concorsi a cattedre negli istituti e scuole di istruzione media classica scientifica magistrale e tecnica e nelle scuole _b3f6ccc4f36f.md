@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-L'[art. 2 del regio decreto 17 settembre 1936, n. 1798](../Regi%20decreti/Passaggio%20nei%20ruoli%20statali%20del%20personale%20degli%20Istituti%20magistrali%20parificati.%20036U1798.md), e' abrogato.
+L'[art. 2 del regio decreto 17 settembre 1936, n. 1798](../Atti%20normativi%20abrogati%20%28in%20originale%29/Passaggio%20nei%20ruoli%20statali%20del%20personale%20degli%20Istituti%20magistrali%20parificati.%20036U1798.md), e' abrogato.
 
 ## Art. 2.
 

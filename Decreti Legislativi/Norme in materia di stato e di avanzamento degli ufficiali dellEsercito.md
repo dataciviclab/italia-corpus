@@ -29,13 +29,13 @@ Per gli ufficiali superiori delle armi di fanteria, cavalleria, artiglieria e ge
 
 ## Art. 2.
 
-ARTICOLO SOPPRESSO DALLA [L. 9 GENNAIO 1951, N. 7](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%20727%20contenente%20norme%20in%20materia%20di%20stato%20e%20di%20avanzamento%20degli%20ufficiali%20dellEsercito.md) ((2))
+ARTICOLO SOPPRESSO DALLA [L. 9 GENNAIO 1951, N. 7](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%20727%20contenente%20norme%20in%20materia%20di%20stato%20e%20di%20avanzamento%20degli%20ufficiali%20dellEsercito.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-La [L. 24 dicembre 1951, n. 1638](../Atti%20normativi%20abrogati%20%28in%20originale%29/Organici%20degli%20ufficiali%20dellEsercito%20e%20limiti%20di%20eta%20per%20la%20cessazione%20dal%20servizio%20permanente.md) ha disposto (con l'art. 6) che "L'abrogazione dell'[art. 2 del decreto legislativo 7 maggio 1948, n. 727](Norme%20in%20materia%20di%20stato%20e%20di%20avanzamento%20degli%20ufficiali%20dellEsercito.md), disposta dall'[art. 2 dalla legge 9 gennaio 1951, n. 7](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%20727%20contenente%20norme%20in%20materia%20di%20stato%20e%20di%20avanzamento%20degli%20ufficiali%20dellEsercito.md), ha effetto dal 1 gennaio 1951."
+La [L. 24 dicembre 1951, n. 1638](../Atti%20normativi%20abrogati%20%28in%20originale%29/Organici%20degli%20ufficiali%20dellEsercito%20e%20limiti%20di%20eta%20per%20la%20cessazione%20dal%20servizio%20permanente.md) ha disposto (con l'art. 6) che "L'abrogazione dell'[art. 2 del decreto legislativo 7 maggio 1948, n. 727](Norme%20in%20materia%20di%20stato%20e%20di%20avanzamento%20degli%20ufficiali%20dellEsercito.md), disposta dall'[art. 2 dalla legge 9 gennaio 1951, n. 7](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%20727%20contenente%20norme%20in%20materia%20di%20stato%20e%20di%20avanzamento%20degli%20ufficiali%20dellEsercito.md), ha effetto dal 1 gennaio 1951."
 
 ## Art. 3.
 

@@ -44,7 +44,7 @@ Agli effetti della legge penale si intende per:
                         b)
                             «dispositivo, oggetto o record protetto» un dispositivo, oggetto o record protetto contro le imitazioni o l'utilizzazione fraudolenta, per esempio mediante disegno, codice o firma;
                         c)
-                            «mezzo di scambio digitale» qualsiasi moneta elettronica definita all'articolo 1, comma 2, lettera h-te[r, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_letr), e la valuta virtuale;
+                            «mezzo di scambio digitale» qualsiasi moneta elettronica definita all'articolo 1, comma 2, lettera h-te[r, del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e la valuta virtuale;
                         d)
                             «valuta virtuale» una rappresentazione di valore digitale che non e' emessa o garantita da una banca centrale o da un ente pubblico, non e' legata necessariamente a una valuta legalmente istituita e non possiede lo status giuridico di valuta o denaro, ma e' accettata da persone fisiche o giuridiche come mezzo di scambio, e che puo' essere trasferita, memorizzata e scambiata elettronicamente.
 
@@ -136,7 +136,7 @@ N O T E
  - Il [decreto legislativo 8 giugno 2001, n. 231](Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md) (Disciplina della responsabilita' amministrativa delle persone giuridiche, delle societa' e delle associazioni anche prive di personalita' giuridica, a norma dell'[art. 11 della legge 29 settembre 2000, n. 300](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Atti%20internazionali%20elaborati%20in%20base%20allarticolo%20K.%203%20del%20Trattato%20dellUnione%20europea%20Convenzione%20sulla%20tutela%20degli%20interessi%20finanziari%20delle%20Comuni_cf304d4a1900.md)) e' pubblicato nella Gazzetta Ufficiale 19 giugno 2001, n. 140. 
  
  Note all'art. 1: 
- - Il testo dell'art. 1, comma 2, lettera h-te[r del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_letr) (Testo unico delle leggi in materia bancaria e creditizia), pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, S.O., cosi' recita: 
+ - Il testo dell'art. 1, comma 2, lettera h-te[r del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia), pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, S.O., cosi' recita: 
  «Art. 1 (Definizioni). - 1. Nel presente decreto legislativo l'espressione: 
  (Omissis). 
  2. Nel presente decreto legislativo si intendono per: 

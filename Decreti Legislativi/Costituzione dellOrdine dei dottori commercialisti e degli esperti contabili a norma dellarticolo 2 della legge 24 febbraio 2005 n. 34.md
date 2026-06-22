@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 24 febbraio 2005, n. 34](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20dellOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili.md), recante delega al Governo per l'istituzione dell'Ordine dei dottori commercialisti e degli esperti contabili ed, in particolare, gli articoli 2, 3 e 6;
+Vista la [legge 24 febbraio 2005, n. 34](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20listituzione%20dellOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili.md), recante delega al Governo per l'istituzione dell'Ordine dei dottori commercialisti e degli esperti contabili ed, in particolare, gli articoli 2, 3 e 6;
 
 Sentiti i Consigli nazionali dei dottori commercialisti e dei ragionieri e periti commerciali;
 
@@ -1263,7 +1263,7 @@ Nel periodo transitorio la maggioranza dei componenti dei Consigli dell'Ordine d
 
 2.
 
-Nel periodo transitorio, per la prima elezione dei consigli territoriali, in carica dal 1° gennaio 2008 al 31 dicembre 2012, le quote dei seggi spettanti agli eletti provenienti, rispettivamente, dagli Ordini dei dottori commercialisti e dai collegi dei ragionieri e periti commerciali sono determinate dal Ministro della giustizia, coadiuvato dalla commissione di cui all'articolo 75, e sono calcolate in misura proporzionale agli iscritti nei rispettivi Albi dei dottori commercialisti e dei ragionieri alla data di indizione delle relative operazioni elettorali, sempre nel rispetto delle previsioni di cui all'[articolo 3, comma 1, lettera h), della legge 24 febbraio 2005, n. 34](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20dellOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili.md).
+Nel periodo transitorio, per la prima elezione dei consigli territoriali, in carica dal 1° gennaio 2008 al 31 dicembre 2012, le quote dei seggi spettanti agli eletti provenienti, rispettivamente, dagli Ordini dei dottori commercialisti e dai collegi dei ragionieri e periti commerciali sono determinate dal Ministro della giustizia, coadiuvato dalla commissione di cui all'articolo 75, e sono calcolate in misura proporzionale agli iscritti nei rispettivi Albi dei dottori commercialisti e dei ragionieri alla data di indizione delle relative operazioni elettorali, sempre nel rispetto delle previsioni di cui all'[articolo 3, comma 1, lettera h), della legge 24 febbraio 2005, n. 34](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20listituzione%20dellOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili.md).
 
 3.
 
@@ -1388,7 +1388,7 @@ I membri del Consiglio nazionale sono eletti, in numero di ventuno, dai Consigli
 
 2.
 
-Per la prima elezione del periodo transitorio che dara' luogo all'elezione del Consiglio nazionale per il periodo dal 1° gennaio 2008 al 31 dicembre 2012, le quote dei seggi spettanti agli eletti provenienti, rispettivamente, dagli ordini dei dottori commercialisti e dai collegi dei ragionieri e periti commerciali sono determinate dal Ministro della giustizia, coadiuvato dalla commissione di cui all'articolo 75, e sono calcolate in misura proporzionale agli iscritti nei rispettivi Albi dei dottori commercialisti e dei ragionieri alla data di indizione delle relative operazioni elettorali, sempre nel rispetto delle previsioni di cui all'[articolo 3, comma 1, lettera h), della legge 24 febbraio 2005, n. 34](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20dellOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili.md).
+Per la prima elezione del periodo transitorio che dara' luogo all'elezione del Consiglio nazionale per il periodo dal 1° gennaio 2008 al 31 dicembre 2012, le quote dei seggi spettanti agli eletti provenienti, rispettivamente, dagli ordini dei dottori commercialisti e dai collegi dei ragionieri e periti commerciali sono determinate dal Ministro della giustizia, coadiuvato dalla commissione di cui all'articolo 75, e sono calcolate in misura proporzionale agli iscritti nei rispettivi Albi dei dottori commercialisti e dei ragionieri alla data di indizione delle relative operazioni elettorali, sempre nel rispetto delle previsioni di cui all'[articolo 3, comma 1, lettera h), della legge 24 febbraio 2005, n. 34](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20listituzione%20dellOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili.md).
 
 3.
 

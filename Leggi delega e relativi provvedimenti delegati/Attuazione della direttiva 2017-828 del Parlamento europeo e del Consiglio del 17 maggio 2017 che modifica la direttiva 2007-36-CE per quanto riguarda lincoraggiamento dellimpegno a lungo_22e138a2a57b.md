@@ -28,7 +28,7 @@ Vista la [legge 28 dicembre 2005, n. 262](https://www.normattiva.it/uri-res/N2Ls
 
 Visto il [decreto legislativo 5 dicembre 2005, n. 252](../Decreti%20Legislativi/Disciplina%20delle%20forme%20pensionistiche%20complementari.md), recante disciplina delle forme pensionistiche complementari;
 
-Visto il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), recante Testo unico delle leggi in materia bancaria e creditizia;
+Visto il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), recante Testo unico delle leggi in materia bancaria e creditizia;
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 7 febbraio 2019;
 
@@ -74,7 +74,7 @@ NOTE
  - Il [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md) ([Codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md)) e' pubblicato nella Gazzetta Ufficiale 13 ottobre 2005, n. 239, S.O. 
  - La [legge 28 dicembre 2005, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-28;262) (Disposizioni per la tutela del risparmio e la disciplina dei mercati finanziari) e' pubblicata nella Gazzetta Ufficiale 28 dicembre 2005, n. 301, S.O. 
  - Il [decreto legislativo 5 dicembre 2005, n. 252](../Decreti%20Legislativi/Disciplina%20delle%20forme%20pensionistiche%20complementari.md) (Disciplina delle forme pensionistiche complementari) e' pubblicato nella Gazzetta Ufficiale 13 dicembre 2005, n. 289, S.O. 
- - Il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) (Testo unico delle leggi in materia bancaria e creditizia) e' pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, S.O. 
+ - Il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia) e' pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, S.O. 
  
  Note all'art. 1: 
  - Il testo dell'[articolo 2391-bis del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2391bis), come modificato dal presente decreto, cosi' recita: 

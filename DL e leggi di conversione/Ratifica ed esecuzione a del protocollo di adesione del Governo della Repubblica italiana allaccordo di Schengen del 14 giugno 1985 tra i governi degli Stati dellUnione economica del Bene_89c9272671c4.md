@@ -166,7 +166,7 @@ Le segnalazioni trasmesse dalle autorita' italiane alle altre parti contraenti a
 
 1.
 
-Al [primo comma dell'articolo 109 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), dopo le parole: "danno alloggio per mercede" sono aggiunte le seguenti: "nonche' coloro che gestiscono una struttura che fornisce alloggio anche in tende, roulotte, battelli e simili".
+Al [primo comma dell'articolo 109 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), dopo le parole: "danno alloggio per mercede" sono aggiunte le seguenti: "nonche' coloro che gestiscono una struttura che fornisce alloggio anche in tende, roulotte, battelli e simili".
 
 2.
 
@@ -234,7 +234,7 @@ All'onere relativo all'anno 1992 si provvede mediante corrispondente riduzione d
 
 AGGIORNAMENTO (4)
 
-La [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md) ha disposto (con l'art. 1, comma 789) che "L'autorizzazione di spesa di cui all'[articolo 19 della legge 30 settembre 1993, n. 388](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20a%20del%20protocollo%20di%20adesione%20del%20Governo%20della%20Repubblica%20italiana%20allaccordo%20di%20Schengen%20del%2014%20giugno%201985%20tra%20i%20governi%20degli%20Stati%20dellUnione%20economica%20del%20Bene_89c9272671c4.md), e' ridotta di 824.607 euro annui a decorrere dal 2019".
+La [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md) ha disposto (con l'art. 1, comma 789) che "L'autorizzazione di spesa di cui all'[articolo 19 della legge 30 settembre 1993, n. 388](Ratifica%20ed%20esecuzione%20a%20del%20protocollo%20di%20adesione%20del%20Governo%20della%20Repubblica%20italiana%20allaccordo%20di%20Schengen%20del%2014%20giugno%201985%20tra%20i%20governi%20degli%20Stati%20dellUnione%20economica%20del%20Bene_89c9272671c4.md), e' ridotta di 824.607 euro annui a decorrere dal 2019".
 
 ## Art. 20.
 

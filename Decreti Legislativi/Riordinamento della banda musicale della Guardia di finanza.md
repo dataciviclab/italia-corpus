@@ -250,7 +250,7 @@ Il Ministro delle Finanze, con proprio decreto, approva la graduatoria finale e 
 
  
 AGGIORNAMENTO (4) 
- La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del [D.Lgs. 27 febbraio 1991, n. 79](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md).
+ La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del [D.Lgs. 27 febbraio 1991, n. 79](Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md).
 
 ### Art. 11. — Nomina a maestro direttore
 
@@ -292,7 +292,7 @@ Il maestro direttore e' inquadrato, anche in soprannumero, nell'organico dei mag
 
  
 AGGIORNAMENTO (4) 
- La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del [D.Lgs. 27 febbraio 1991, n. 79](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md).
+ La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del [D.Lgs. 27 febbraio 1991, n. 79](Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md).
 
 ### Art. 12. — Nomina a maestro vice direttore
 
@@ -334,13 +334,13 @@ Il maestro vice direttore e' inquadrato, anche in soprannumero, nell'organico de
 
 AGGIORNAMENTO (2)
 La Corte costituzionale con sentenza 11-19 maggio 1994, n. 188 (in
-G.U. 1a s.s. 25/5/1994, n. 22) ha dichiarato "l'illegittimita' costituzionale dell'[art. 12, primo comma, lettera c), del decreto legislativo 27 febbraio 1991, n. 79](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md) (Riordinamento della banda musicale della Guardia di finanza), nella parte in cui richiede, per la partecipazione al concorso e per la nomina a maestro vice direttore della banda musicale della Guardia di finanza, il requisito del sesso maschile, previsto in generale per la nomina ad ufficiale in servizio permanente".
+G.U. 1a s.s. 25/5/1994, n. 22) ha dichiarato "l'illegittimita' costituzionale dell'[art. 12, primo comma, lettera c), del decreto legislativo 27 febbraio 1991, n. 79](Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md) (Riordinamento della banda musicale della Guardia di finanza), nella parte in cui richiede, per la partecipazione al concorso e per la nomina a maestro vice direttore della banda musicale della Guardia di finanza, il requisito del sesso maschile, previsto in generale per la nomina ad ufficiale in servizio permanente".
 
 ---------------
 
  
 AGGIORNAMENTO (4) 
- La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del [D.Lgs. 27 febbraio 1991, n. 79](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md).
+ La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del [D.Lgs. 27 febbraio 1991, n. 79](Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md).
 
 ### Art. 13. — Nomina ad esecutore
 
@@ -380,7 +380,7 @@ La nomina decorre, ad ogni effetto, dalla data del provvedimento con cui e' disp
 
  
 AGGIORNAMENTO (4) 
- La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del [D.Lgs. 27 febbraio 1991, n. 79](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md).
+ La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del [D.Lgs. 27 febbraio 1991, n. 79](Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md).
 
 ### Art. 14. — Nomina ad archivista
 
@@ -420,7 +420,7 @@ La nomina decorre, ad ogni effetto, dalla data del provvedimento con cui e' disp
 
  
 AGGIORNAMENTO (4) 
- La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del [D.Lgs. 27 febbraio 1991, n. 79](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md).
+ La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del [D.Lgs. 27 febbraio 1991, n. 79](Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md).
 
 ### Art. 15. — Corsi di istruzione
 
@@ -440,7 +440,7 @@ Al termine dei corsi, sul conto dei partecipanti viene redatto apposito rapporto
 
  
 AGGIORNAMENTO (4) 
- La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del [D.Lgs. 27 febbraio 1991, n. 79](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md).
+ La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del [D.Lgs. 27 febbraio 1991, n. 79](Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md).
 
 ### Art. 16. — Commissione giudicatrice delle prove d'esame del concorso per maestro direttore
 
@@ -467,7 +467,7 @@ La stessa commissione provvede, altresi', alla valutazione dei titoli a norma de
 
  
 AGGIORNAMENTO (4) 
- La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del [D.Lgs. 27 febbraio 1991, n. 79](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md).
+ La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del [D.Lgs. 27 febbraio 1991, n. 79](Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md).
 
 ### Art. 17. — Commissione giudicatrice delle prove d'esame del concorso per maestro vice direttore
 
@@ -490,7 +490,7 @@ La stessa commissione provvede, altresi', alla valutazione dei titoli a norma de
 ---------------
 
  
- La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del [D.Lgs. 27 febbraio 1991, n. 79](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md).
+ La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del [D.Lgs. 27 febbraio 1991, n. 79](Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md).
 
 ### Art. 18. — Commissione giudicatrice delle prove d'esame del concorso ad esecutore
 
@@ -514,7 +514,7 @@ La stessa commissione provvede, altresi', alla valutazione dei titoli a norma de
 
  
 AGGIORNAMENTO (4) 
- La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del [D.Lgs. 27 febbraio 1991, n. 79](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md).
+ La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del [D.Lgs. 27 febbraio 1991, n. 79](Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md).
 
 ### Art. 19. — Commissione giudicatrice delle prove d'esame del concorso ad archivista
 
@@ -537,7 +537,7 @@ La stessa commissione provvede, altresi', alla valutazione dei titoli a norma de
 ---------------
 
  
- La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del [D.Lgs. 27 febbraio 1991, n. 79](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md).
+ La [L. 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), ha disposto (con l'art. 6, comma 5, lettera h)) che a decorrere dalla data di entrata in vigore dei regolamenti da essa previsti all'art. 6, comma 4 e' abrogato l'intero capo III del [D.Lgs. 27 febbraio 1991, n. 79](Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md).
 
 ### Art. 20. — Concorso per la nomina a maestro direttore
 

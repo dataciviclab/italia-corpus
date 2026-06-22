@@ -104,7 +104,7 @@ Con apposite convenzioni sono disciplinati i rapporti con le amministrazioni sta
 
 AGGIORNAMENTO (2)
 
-La [L. 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md) ha disposto (con l'art. 1, comma 464) che "All'[articolo 2, comma 6, del decreto legislativo 9 gennaio 1999, n. 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20degli%20enti%20e%20delle%20societa%20di%20promozione%20e%20istituzione%20della%20societa%20Sviluppo%20Italia%20a%20norma%20degli%20articoli%2011%20e%2014%20della%20legge%2015%20marzo%201997%20n.%2059.md), le parole: "e con il Ministro per le politiche agricole" sono soppresse".
+La [L. 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md) ha disposto (con l'art. 1, comma 464) che "All'[articolo 2, comma 6, del decreto legislativo 9 gennaio 1999, n. 1](Riordino%20degli%20enti%20e%20delle%20societa%20di%20promozione%20e%20istituzione%20della%20societa%20Sviluppo%20Italia%20a%20norma%20degli%20articoli%2011%20e%2014%20della%20legge%2015%20marzo%201997%20n.%2059.md), le parole: "e con il Ministro per le politiche agricole" sono soppresse".
 
 ## Art. 3.
 

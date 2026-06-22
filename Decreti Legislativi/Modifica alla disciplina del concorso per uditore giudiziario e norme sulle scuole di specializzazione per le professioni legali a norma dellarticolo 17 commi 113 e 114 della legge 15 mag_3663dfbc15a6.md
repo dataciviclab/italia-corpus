@@ -285,7 +285,7 @@ Le scuole di cui al comma 1 sono istituite, secondo i criteri indicati nel decre
 
 3-bis.
 
-Per l'organizzazione dei corsi di preparazione al concorso per magistrato ordinario, di cui all'articolo 2, comma 1, lettera o-bis) ((,)) del [decreto legislativo 30 gennaio 2006, n. 26](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20della%20Scuola%20superiore%20della%20magistratura%20nonche%20disposizioni%20in%20tema%20di%20tirocinio%20e%20formazione%20degli%20uditori%20giudiziari%20aggiornamento%20professionale%20e%20formazione%20dei%20magistrat_5ddb47e96da4.md), la Scuola superiore della magistratura puo' stipulare accordi e convenzioni con le universita' ((sedi di facolta' e di dipartimenti)) di giurisprudenza e di scuole di specializzazione per le professioni legali.
+Per l'organizzazione dei corsi di preparazione al concorso per magistrato ordinario, di cui all'articolo 2, comma 1, lettera o-bis) ((,)) del [decreto legislativo 30 gennaio 2006, n. 26](Istituzione%20della%20Scuola%20superiore%20della%20magistratura%20nonche%20disposizioni%20in%20tema%20di%20tirocinio%20e%20formazione%20degli%20uditori%20giudiziari%20aggiornamento%20professionale%20e%20formazione%20dei%20magistrat_5ddb47e96da4.md), la Scuola superiore della magistratura puo' stipulare accordi e convenzioni con le universita' ((sedi di facolta' e di dipartimenti)) di giurisprudenza e di scuole di specializzazione per le professioni legali.
 
 4.
 

@@ -2095,7 +2095,7 @@ Nel caso in cui l'imprenditore di cui al comma 1 sia soggetto alla procedura di 
 
 3.
 
-Il pubblico ministero segnala alla Banca d'Italia la sussistenza del procedimento di prevenzione su beni appartenenti ad istituti bancari o creditizi ai fini dell'adozione dei provvedimenti di cui al titolo IV del [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385).
+Il pubblico ministero segnala alla Banca d'Italia la sussistenza del procedimento di prevenzione su beni appartenenti ad istituti bancari o creditizi ai fini dell'adozione dei provvedimenti di cui al titolo IV del [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 ((4. Quando viene dichiarato il fallimento, i beni assoggettati a sequestro o confisca sono esclusi dalla massa attiva fallimentare. La verifica dei crediti e dei diritti inerenti ai rapporti relativi ai suddetti beni viene svolta dal giudice delegato del tribunale di prevenzione nell'ambito del procedimento di cui agli articoli 52 e seguenti))
 
@@ -3795,7 +3795,7 @@ Per tutte le controversie attribuite alla cognizione del giudice amministrativo 
 
 2.
 
-All'Agenzia si applica l'articolo 1 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato di cui al [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md).
+All'Agenzia si applica l'articolo 1 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato di cui al [regio decreto 30 ottobre 1933, n. 1611](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md).
 
 ))
 

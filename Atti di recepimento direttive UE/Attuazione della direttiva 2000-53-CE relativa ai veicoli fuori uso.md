@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 1° marzo 2002, n. 39](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), ed in particolare l'articolo 1, commi 1, 3 e 5, e l'allegato B;
+Vista la [legge 1° marzo 2002, n. 39](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), ed in particolare l'articolo 1, commi 1, 3 e 5, e l'allegato B;
 
 Vista la [direttiva 2000/53/CE del Parlamento europeo e del Consiglio, del 18 settembre 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;53), relativa ai veicoli fuori uso;
 
@@ -26,13 +26,13 @@ Vista la decisione della Commissione 2003/138/CE, del 27 febbraio 2003, che stab
 
 Visto il [decreto legislativo 5 febbraio 1997, n. 22](Attuazione%20delle%20direttive%2091-156-CEE%20sui%20rifiuti%2091-689-CEE%20sui%20rifiuti%20pericolosi%20e%2094-62-CE%20sugli%20imballaggi%20e%20sui%20rifiuti%20di%20imballaggio.md), e successive modificazioni;
 
-Visto il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni;
+Visto il [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e successive modificazioni;
 
 Ritenuto che i veicoli immessi sul mercato a partire dal 1° luglio 2002 avranno valore di mercato positivo almeno fino al 2006;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 14 marzo 2003;
 
-Acquisito il parere della Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), reso nella seduta del 27 marzo 2003;
+Acquisito il parere della Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), reso nella seduta del 27 marzo 2003;
 
 Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
 
@@ -174,7 +174,7 @@ Il veicolo destinato alla demolizione e' consegnato dal detentore ad un centro d
 
 1-bis.
 
-Il veicolo destinato alla demolizione e accettato dal concessionario, dal gestore della succursale della casa costruttrice o dell'automercato, con i documenti del detentore del veicolo necessari alla radiazione dal PRA, e' gestito dai predetti soggetti, ai sensi dell'articolo 183, comma 1, lettera bb), del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), conformemente all'articolo 6, comma 8-bis, ai fini del successivo trasporto al centro di raccolta autorizzato.
+Il veicolo destinato alla demolizione e accettato dal concessionario, dal gestore della succursale della casa costruttrice o dell'automercato, con i documenti del detentore del veicolo necessari alla radiazione dal PRA, e' gestito dai predetti soggetti, ai sensi dell'articolo 183, comma 1, lettera bb), del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), conformemente all'articolo 6, comma 8-bis, ai fini del successivo trasporto al centro di raccolta autorizzato.
 
 2.
 
@@ -202,7 +202,7 @@ Nel caso in cui il detentore consegni ad un centro di raccolta il veicolo destin
 
 8.
 
-La cancellazione dal PRA del veicolo fuori uso avviene esclusivamente a cura del titolare del centro di raccolta oppure, nel caso di cessione del veicolo per l'acquisto di un altro veicolo, previsto al comma 1, avviene a cura del concessionario o del gestore della succursale della casa costruttrice o dell'automercato, senza oneri di agenzia a carico del detentore dello stesso veicolo. A tale fine, entro trenta giorni naturali e consecutivi dalla consegna del veicolo ed emissione del certificato di rottamazione, detto concessionario o gestore o titolare restituisce il certificato di proprieta', la carta di circolazione e le targhe relativi al veicolo fuori uso, con le procedure stabilite dal [decreto del Presidente della Repubblica 19 settembre 2000, n. 358](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20la%20semplificazione%20del%20procedimento%20relativo%20allimmatricolazione%20ai%20passaggi%20di%20proprieta%20e%20alla%20reimmatricolazione%20degli%20autoveicoli%20dei%20motoveicoli%20e%20dei%20r_56965318bc3d.md). Il veicolo fuori uso puo' essere cancellato da P.R.A. solo previa presentazione della copia del certificato di rottamazione.
+La cancellazione dal PRA del veicolo fuori uso avviene esclusivamente a cura del titolare del centro di raccolta oppure, nel caso di cessione del veicolo per l'acquisto di un altro veicolo, previsto al comma 1, avviene a cura del concessionario o del gestore della succursale della casa costruttrice o dell'automercato, senza oneri di agenzia a carico del detentore dello stesso veicolo. A tale fine, entro trenta giorni naturali e consecutivi dalla consegna del veicolo ed emissione del certificato di rottamazione, detto concessionario o gestore o titolare restituisce il certificato di proprieta', la carta di circolazione e le targhe relativi al veicolo fuori uso, con le procedure stabilite dal [decreto del Presidente della Repubblica 19 settembre 2000, n. 358](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20del%20procedimento%20relativo%20allimmatricolazione%20ai%20passaggi%20di%20proprieta%20e%20alla%20reimmatricolazione%20degli%20autoveicoli%20dei%20motoveicoli%20e%20dei%20r_56965318bc3d.md). Il veicolo fuori uso puo' essere cancellato da P.R.A. solo previa presentazione della copia del certificato di rottamazione.
 
 8-bis.
 
@@ -222,7 +222,7 @@ Gli estremi della ricevuta dell'avvenuta denuncia e consegna delle targhe e dei 
 
 11.
 
-Agli stessi obblighi di cui ai commi 9 e 10 e' soggetto il titolare del centro di raccolta o di altro luogo di custodia dei veicoli rimossi ai sensi dell'[articolo 159 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), nel caso di demolizione ai sensi dell'articolo 215, comma 4, del citato [decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285).
+Agli stessi obblighi di cui ai commi 9 e 10 e' soggetto il titolare del centro di raccolta o di altro luogo di custodia dei veicoli rimossi ai sensi dell'[articolo 159 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), nel caso di demolizione ai sensi dell'articolo 215, comma 4, del citato [decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285).
 
 12.
 
@@ -234,11 +234,11 @@ I certificati di rottamazione emessi in altri Stati membri rispondenti ai requis
 
 14.
 
-I veicoli a motore rinvenuti da organi pubblici o non reclamati dai proprietari e quelli acquisiti per occupazione, ai sensi degli [articoli 927](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_927), [929](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_929) e [923 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_923), sono conferiti ai centri di raccolta di cui al comma 1 nei casi e con le modalita' stabiliti in conformita' alle disposizioni emanate ai sensi del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md).
+I veicoli a motore rinvenuti da organi pubblici o non reclamati dai proprietari e quelli acquisiti per occupazione, ai sensi degli [articoli 927](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_927), [929](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_929) e [923 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_923), sono conferiti ai centri di raccolta di cui al comma 1 nei casi e con le modalita' stabiliti in conformita' alle disposizioni emanate ai sensi del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md).
 
 15.
 
-Le imprese esercenti attivita' di autoriparazione, di cui alla [legge 5 febbraio 1992, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;122), consegnano, ove cio' sia tecnicamente fattibile, i pezzi usati allo stato di rifiuto derivanti dalle riparazioni dei veicoli, ad eccezione di quelli per cui sono previsti dalla legge un consorzio obbligatorio di raccolta o sistemi di gestione di filiera istituiti ai sensi del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), ai seguenti soggetti:
+Le imprese esercenti attivita' di autoriparazione, di cui alla [legge 5 febbraio 1992, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;122), consegnano, ove cio' sia tecnicamente fattibile, i pezzi usati allo stato di rifiuto derivanti dalle riparazioni dei veicoli, ad eccezione di quelli per cui sono previsti dalla legge un consorzio obbligatorio di raccolta o sistemi di gestione di filiera istituiti ai sensi del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), ai seguenti soggetti:
                         a)
                             direttamente ad un centro di raccolta di cui al comma 3, qualora iscritti all'Albo nazionale dei gestori ambientali;
                         b)
@@ -316,7 +316,7 @@ Ai fini di una corretta gestione dei rifiuti derivanti dal veicolo fuori uso, le
 
 1-bis.
 
-Per massimizzare il riciclaggio e il recupero energetico dei materiali e dei componenti non metallici, le associazioni di categoria dei produttori dei veicoli, le associazioni di categoria delle imprese che effettuano la raccolta nonche' quelle che effettuano il riciclaggio e il recupero, ivi comprese le associazioni delle imprese che effettuano recupero di energia o utilizzano materiali e componenti non metallici in qualita' di combustibile solido secondario, possono stipulare con il Ministero dell'ambiente e della tutela del territorio e del mare un accordo di programma, con validita' triennale, atto al conferimento a sistemi di gestione di filiera istituiti ai sensi del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md).
+Per massimizzare il riciclaggio e il recupero energetico dei materiali e dei componenti non metallici, le associazioni di categoria dei produttori dei veicoli, le associazioni di categoria delle imprese che effettuano la raccolta nonche' quelle che effettuano il riciclaggio e il recupero, ivi comprese le associazioni delle imprese che effettuano recupero di energia o utilizzano materiali e componenti non metallici in qualita' di combustibile solido secondario, possono stipulare con il Ministero dell'ambiente e della tutela del territorio e del mare un accordo di programma, con validita' triennale, atto al conferimento a sistemi di gestione di filiera istituiti ai sensi del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md).
 
 ))
 
@@ -388,7 +388,7 @@ Fermo restando il rispetto delle norme vigenti in materia di riservatezza commer
 
 2.
 
-COMMA SOPPRESSO DAL [D.LGS. 23 FEBBRAIO 2006, N. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2024%20giugno%202003%20n.%20209%20recante%20attuazione%20della%20direttiva%202000-53-CE%20in%20materia%20di%20veicoli%20fuori%20uso.md).
+COMMA SOPPRESSO DAL [D.LGS. 23 FEBBRAIO 2006, N. 149](../Decreti%20Legislativi/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2024%20giugno%202003%20n.%20209%20recante%20attuazione%20della%20direttiva%202000-53-CE%20in%20materia%20di%20veicoli%20fuori%20uso.md).
 
 3.
 
@@ -557,7 +557,7 @@ Con decreto del Ministro dell'ambiente e della tutela del territorio, di concert
 
 11-bis.
 
-All'[articolo 103, comma 1, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, le parole: "la cessazione della circolazione di veicoli a motore e di rimorchi non avviati alla demolizione o" sono soppresse.
+All'[articolo 103, comma 1, del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e successive modificazioni, le parole: "la cessazione della circolazione di veicoli a motore e di rimorchi non avviati alla demolizione o" sono soppresse.
 
 12.
 

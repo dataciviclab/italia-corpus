@@ -24,9 +24,9 @@ Vista la [direttiva 94/71/CE del Consiglio del 13 dicembre 1994](https://www.nor
 
 Vista la [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), e successive modifiche;
 
-Visto il [decreto legislativo 25 gennaio 1992, n. 108](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-109-CEE%20concernente%20i%20materiali%20e%20gli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md);
+Visto il [decreto legislativo 25 gennaio 1992, n. 108](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-109-CEE%20concernente%20i%20materiali%20e%20gli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md);
 
-Visto il [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md);
+Visto il [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md);
 
 Vista la decisione 94/330/CE della Commissione del 25 maggio 1994 che modifica l'articolo 5, punto 9, della [direttiva 92/46/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;46) per quanto riguarda il punto di congelazione;
 

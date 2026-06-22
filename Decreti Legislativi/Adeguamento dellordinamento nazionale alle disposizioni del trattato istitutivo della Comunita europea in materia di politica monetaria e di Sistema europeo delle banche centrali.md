@@ -44,9 +44,9 @@ Nel presente decreto legislativo si intendono per:
                         d)
                             "statuto del SEBC": lo statuto del Sistema europeo di banche centrali e della Banca centrale europea, oggetto del protocollo n. 3 allegato al trattato;
                         e)
-                            "statuto della Banca": lo statuto della Banca d'Italia approvato con [regio decreto 11 giugno 1936, n. 1067](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), e successive modifiche e integrazioni;
+                            "statuto della Banca": lo statuto della Banca d'Italia approvato con [regio decreto 11 giugno 1936, n. 1067](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), e successive modifiche e integrazioni;
                         f)
-                            "testo unico": il testo unico delle leggi sugli istituti di emissione, approvato con [regio decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md), e successive modifiche e integrazioni.
+                            "testo unico": il testo unico delle leggi sugli istituti di emissione, approvato con [regio decreto 28 aprile 1910, n. 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md), e successive modifiche e integrazioni.
 
 Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
@@ -62,8 +62,8 @@ Avvertenza:
  Note all'art. 1:
  - Si riporta il testo dell'art. 4A del trattato che istituisce la Comunita' europea:
  "Sono istituiti, secondo le procedure previste dal presente trattato, un Sistema europeo di banche centrali (in appresso denominato SEBC) e una Banca centrale europea (in appresso denominata BCE), che agiscono nei limiti dei poteri loro conferiti dal presente trattato e dallo statuto del SEBC e della BCE (in appresso denominato ''statuto del SEBC'') allegati al trattato stesso".
- - Il titolo del [regio decreto 11 giugno 1936, n. 1067](../Regi%20decreti/Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), e' il seguente: "Approvazione dello statuto della Banca d'Italia".
- - Il testo unico delle leggi sugli istituti di emissione, approvato con [regio decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md), reca: "Approvazione del testo unico delle leggi sugli istituti di emissione e sulla circolazione dei biglietti di banca".
+ - Il titolo del [regio decreto 11 giugno 1936, n. 1067](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dello%20statuto%20della%20Banca%20dItalia.%20036U1067.md), e' il seguente: "Approvazione dello statuto della Banca d'Italia".
+ - Il testo unico delle leggi sugli istituti di emissione, approvato con [regio decreto 28 aprile 1910, n. 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md), reca: "Approvazione del testo unico delle leggi sugli istituti di emissione e sulla circolazione dei biglietti di banca".
 
 ## Art. 2. — Partecipazione della Banca d'Italia al SEBC
 
@@ -80,13 +80,13 @@ La Banca d'Italia assolve inoltre gli altri compiti e funzioni ad essa attribuit
 
 AGGIORNAMENTO (1)
 
-Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 1) che "L'entrata in vigore dell'[art. 2 del decreto legislativo 10 marzo 1998, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20dellordinamento%20nazionale%20alle%20disposizioni%20del%20trattato%20istitutivo%20della%20Comunita%20europea%20in%20materia%20di%20politica%20monetaria%20e%20di%20Sistema%20europeo%20delle%20banche%20centrali.md), e delle corrispondenti modifiche allo statuto della Banca d'Italia e' riferita alla data del 1 giugno 1998."
+Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 1) che "L'entrata in vigore dell'[art. 2 del decreto legislativo 10 marzo 1998, n. 43](Adeguamento%20dellordinamento%20nazionale%20alle%20disposizioni%20del%20trattato%20istitutivo%20della%20Comunita%20europea%20in%20materia%20di%20politica%20monetaria%20e%20di%20Sistema%20europeo%20delle%20banche%20centrali.md), e delle corrispondenti modifiche allo statuto della Banca d'Italia e' riferita alla data del 1 giugno 1998."
 
 ## Art. 3. — Requisiti d'indipendenza della Banca d'Italia
 
 1.
 
-Fino all'adozione da parte dell'Italia della moneta unica, secondo le previsioni del trattato, il Governatore della Banca d'Italia determina la misura dell'interesse dei depositi in conto corrente fruttifero presso la Banca stessa. Successivamente tale determinazione viene effettuata secondo le competenze previste nelle norme del trattato e dello statuto del SEBC. Fino al termine sopra indicato, resta ferma la disposizione dell'[articolo 10, comma 4, della legge 26 novembre 1993, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-26;483#art_10-com4), cosi' come previsto negli articoli 6, comma 1, e 11, comma 2, del presente decreto. Sono o restano abrogati l'articolo 37 del testo unico, l'[articolo 2 del regio decreto-legge 23 novembre 1914, n. 1284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1914-11-23;1284#art_2), e l'[articolo 5, secondo comma, del regio decreto 17 giugno 1928, n. 1377](../Regi%20decreti/Attuazione%20degli%20accordi%20fra%20il%20Regio%20tesoro%20e%20la%20Banca%20dItalia%20a%20sensi%20del%20R.%20decreto-legge%2021%20dicembre%201927%20n.%202325.%20028U1377.md).
+Fino all'adozione da parte dell'Italia della moneta unica, secondo le previsioni del trattato, il Governatore della Banca d'Italia determina la misura dell'interesse dei depositi in conto corrente fruttifero presso la Banca stessa. Successivamente tale determinazione viene effettuata secondo le competenze previste nelle norme del trattato e dello statuto del SEBC. Fino al termine sopra indicato, resta ferma la disposizione dell'[articolo 10, comma 4, della legge 26 novembre 1993, n. 483](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-26;483#art_10-com4), cosi' come previsto negli articoli 6, comma 1, e 11, comma 2, del presente decreto. Sono o restano abrogati l'articolo 37 del testo unico, l'[articolo 2 del regio decreto-legge 23 novembre 1914, n. 1284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1914-11-23;1284#art_2), e l'[articolo 5, secondo comma, del regio decreto 17 giugno 1928, n. 1377](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20degli%20accordi%20fra%20il%20Regio%20tesoro%20e%20la%20Banca%20dItalia%20a%20sensi%20del%20R.%20decreto-legge%2021%20dicembre%201927%20n.%202325.%20028U1377.md).
 
 2.
 
@@ -127,7 +127,7 @@ Le attribuzioni del Consiglio superiore della Banca d'Italia in materia di banco
 
 AGGIORNAMENTO (1)
 
-Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 2) che "I seguenti articoli del [decreto legislativo 10 marzo 1998, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20dellordinamento%20nazionale%20alle%20disposizioni%20del%20trattato%20istitutivo%20della%20Comunita%20europea%20in%20materia%20di%20politica%20monetaria%20e%20di%20Sistema%20europeo%20delle%20banche%20centrali.md), e le corrispondenti modifiche allo statuto della Banca d'Italia entrano in vigore alle date sotto indicate: 
+Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 2) che "I seguenti articoli del [decreto legislativo 10 marzo 1998, n. 43](Adeguamento%20dellordinamento%20nazionale%20alle%20disposizioni%20del%20trattato%20istitutivo%20della%20Comunita%20europea%20in%20materia%20di%20politica%20monetaria%20e%20di%20Sistema%20europeo%20delle%20banche%20centrali.md), e le corrispondenti modifiche allo statuto della Banca d'Italia entrano in vigore alle date sotto indicate: 
  a) l'art. 7, comma 2, dal 1 ottobre 1998; 
  b) gli articoli 4 e 5, commi 1 e 2, e gli articoli 6, 7, comma 1, e 8 del suddetto [decreto legislativo n. 43 del 1998, dal 1 gennaio 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-01-01;43)."
 
@@ -149,7 +149,7 @@ Il decreto del Ministro del tesoro del 30 luglio 1983, pubblicato nella Gazzetta
 
 AGGIORNAMENTO (1)
 
-Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 2) che "I seguenti articoli del [decreto legislativo 10 marzo 1998, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20dellordinamento%20nazionale%20alle%20disposizioni%20del%20trattato%20istitutivo%20della%20Comunita%20europea%20in%20materia%20di%20politica%20monetaria%20e%20di%20Sistema%20europeo%20delle%20banche%20centrali.md), e le corrispondenti modifiche allo statuto della Banca d'Italia entrano in vigore alle date sotto indicate: 
+Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 2) che "I seguenti articoli del [decreto legislativo 10 marzo 1998, n. 43](Adeguamento%20dellordinamento%20nazionale%20alle%20disposizioni%20del%20trattato%20istitutivo%20della%20Comunita%20europea%20in%20materia%20di%20politica%20monetaria%20e%20di%20Sistema%20europeo%20delle%20banche%20centrali.md), e le corrispondenti modifiche allo statuto della Banca d'Italia entrano in vigore alle date sotto indicate: 
  a) l'art. 7, comma 2, dal 1 ottobre 1998; 
  b) gli articoli 4 e 5, commi 1 e 2, e gli articoli 6, 7, comma 1, e 8 del suddetto [decreto legislativo n. 43 del 1998, dal 1 gennaio 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-01-01;43)."
 
@@ -180,7 +180,7 @@ Fermo restando quanto previsto nel presente articolo, la Banca d'Italia puo' com
 
 AGGIORNAMENTO (1)
 
-Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 2) che "I seguenti articoli del [decreto legislativo 10 marzo 1998, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20dellordinamento%20nazionale%20alle%20disposizioni%20del%20trattato%20istitutivo%20della%20Comunita%20europea%20in%20materia%20di%20politica%20monetaria%20e%20di%20Sistema%20europeo%20delle%20banche%20centrali.md), e le corrispondenti modifiche allo statuto della Banca d'Italia entrano in vigore alle date sotto indicate: 
+Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 2) che "I seguenti articoli del [decreto legislativo 10 marzo 1998, n. 43](Adeguamento%20dellordinamento%20nazionale%20alle%20disposizioni%20del%20trattato%20istitutivo%20della%20Comunita%20europea%20in%20materia%20di%20politica%20monetaria%20e%20di%20Sistema%20europeo%20delle%20banche%20centrali.md), e le corrispondenti modifiche allo statuto della Banca d'Italia entrano in vigore alle date sotto indicate: 
  a) l'art. 7, comma 2, dal 1 ottobre 1998; 
  b) gli articoli 4 e 5, commi 1 e 2, e gli articoli 6, 7, comma 1, e 8 del suddetto [decreto legislativo n. 43 del 1998, dal 1 gennaio 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-01-01;43)."
 
@@ -199,7 +199,7 @@ L'articolo 4, comma 2, del testo unico delle norme di legge in materia valutaria
 
 AGGIORNAMENTO (1)
 
-Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 2) che "I seguenti articoli del [decreto legislativo 10 marzo 1998, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20dellordinamento%20nazionale%20alle%20disposizioni%20del%20trattato%20istitutivo%20della%20Comunita%20europea%20in%20materia%20di%20politica%20monetaria%20e%20di%20Sistema%20europeo%20delle%20banche%20centrali.md), e le corrispondenti modifiche allo statuto della Banca d'Italia entrano in vigore alle date sotto indicate: 
+Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 2) che "I seguenti articoli del [decreto legislativo 10 marzo 1998, n. 43](Adeguamento%20dellordinamento%20nazionale%20alle%20disposizioni%20del%20trattato%20istitutivo%20della%20Comunita%20europea%20in%20materia%20di%20politica%20monetaria%20e%20di%20Sistema%20europeo%20delle%20banche%20centrali.md), e le corrispondenti modifiche allo statuto della Banca d'Italia entrano in vigore alle date sotto indicate: 
  a) l'art. 7, comma 2, dal 1 ottobre 1998; 
  b) gli articoli 4 e 5, commi 1 e 2, e gli articoli 6, 7, comma 1, e 8 del suddetto [decreto legislativo n. 43 del 1998, dal 1 gennaio 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-01-01;43)."
 
@@ -226,7 +226,7 @@ E' abrogato l'[articolo 11 della legge 26 novembre 1993, n. 483](https://www.nor
 
 AGGIORNAMENTO (1)
 
-Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 2) che "I seguenti articoli del [decreto legislativo 10 marzo 1998, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20dellordinamento%20nazionale%20alle%20disposizioni%20del%20trattato%20istitutivo%20della%20Comunita%20europea%20in%20materia%20di%20politica%20monetaria%20e%20di%20Sistema%20europeo%20delle%20banche%20centrali.md), e le corrispondenti modifiche allo statuto della Banca d'Italia entrano in vigore alle date sotto indicate: 
+Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 2) che "I seguenti articoli del [decreto legislativo 10 marzo 1998, n. 43](Adeguamento%20dellordinamento%20nazionale%20alle%20disposizioni%20del%20trattato%20istitutivo%20della%20Comunita%20europea%20in%20materia%20di%20politica%20monetaria%20e%20di%20Sistema%20europeo%20delle%20banche%20centrali.md), e le corrispondenti modifiche allo statuto della Banca d'Italia entrano in vigore alle date sotto indicate: 
  a) l'art. 7, comma 2, dal 1 ottobre 1998; 
  b) gli articoli 4 e 5, commi 1 e 2, e gli articoli 6, 7, comma 1, e 8 del suddetto [decreto legislativo n. 43 del 1998, dal 1 gennaio 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-01-01;43)."
 

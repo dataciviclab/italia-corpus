@@ -14,9 +14,9 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [direttiva 2008/104/CE del Parlamento europeo e del Consiglio, del 19 novembre 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;104), relativa al lavoro tramite agenzia interinale;
 
-Visto il [decreto legislativo 10 settembre 2003, n. 276](Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md), recante attuazione delle deleghe in materia di occupazione e mercato del lavoro, di cui alla [legge 14 febbraio 2003, n. 30](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro.md);
+Visto il [decreto legislativo 10 settembre 2003, n. 276](Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md), recante attuazione delle deleghe in materia di occupazione e mercato del lavoro, di cui alla [legge 14 febbraio 2003, n. 30](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro.md);
 
-Vista la [legge 4 giugno 2010, n. 96](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria per il 2009, ed in particolare gli articoli 1 e 2 e l'allegato B;
+Vista la [legge 4 giugno 2010, n. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria per il 2009, ed in particolare gli articoli 1 e 2 e l'allegato B;
 
 Visto l'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_14);
 

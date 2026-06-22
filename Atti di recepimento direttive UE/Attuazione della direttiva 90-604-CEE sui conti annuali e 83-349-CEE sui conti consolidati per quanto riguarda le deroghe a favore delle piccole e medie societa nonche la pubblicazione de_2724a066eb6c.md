@@ -42,7 +42,7 @@ L'[art. 2435- bis del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:
 Le societa' che a norma di questo articolo redigono il bilancio in forma abbreviata devono redigerlo in forma ordinaria quando per il secondo esercizio consecutivo abbiano superato due dei limiti indicati nel primo comma.
  ______
  AVVERTENZA:
- Per ragioni di urgenza si omette la pubblicazione delle note al presente decreto legislativo, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 14 marzo 1986, n. 217](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
+ Per ragioni di urgenza si omette la pubblicazione delle note al presente decreto legislativo, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
 
 ## Art. 2. — Redazione del bilancio
 

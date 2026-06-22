@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 7 ottobre 2014, n. 154](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013%20-%20secondo%20semestre.%2014G00167.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013 - secondo semestre, ed in particolare l'articolo 1 e l'allegato B;
+Vista la [legge 7 ottobre 2014, n. 154](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013%20-%20secondo%20semestre.%2014G00167.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013 - secondo semestre, ed in particolare l'articolo 1 e l'allegato B;
 
 Visto il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 

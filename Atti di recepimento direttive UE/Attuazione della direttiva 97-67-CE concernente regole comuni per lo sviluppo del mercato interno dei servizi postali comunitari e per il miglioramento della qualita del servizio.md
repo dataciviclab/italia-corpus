@@ -16,13 +16,13 @@ Vista la [direttiva 97/67/CE del Parlamento europeo e del Consiglio del 15 dicem
 
 Visto l'[articolo 1, commi 1](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201998.md) e [3, della legge 5 febbraio 1999, n. 25](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201998.md), che ha delegato il Governo a recepire la predetta [direttiva 97/67/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;67);
 
-Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
-Visto il [decreto del Presidente della Repubblica 29 maggio 1982, n. 655](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20libri%20I%20e%20II%20del%20codice%20postale%20e%20delle%20telecomunicazioni%20norme%20generali%20e%20servizi%20delle%20corrispondenze%20e%20dei%20pacchi.md), che ha approvato il regolamento riguardante i servizi delle corrispondenze e dei pacchi;
+Visto il [decreto del Presidente della Repubblica 29 maggio 1982, n. 655](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20libri%20I%20e%20II%20del%20codice%20postale%20e%20delle%20telecomunicazioni%20norme%20generali%20e%20servizi%20delle%20corrispondenze%20e%20dei%20pacchi.md), che ha approvato il regolamento riguardante i servizi delle corrispondenze e dei pacchi;
 
 Visto il [decreto-legge 1 dicembre 1993, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-01;487), convertito, con modificazioni, dalla [legge 29 gennaio 1994, n. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md);
 
-Visto il [decreto del Presidente della Repubblica 24 marzo 1995, n. 166](../Regolamenti%20governativi/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni.md), concernente il regolamento di riorganizzazione del Ministero delle poste e delle telecomunicazioni;
+Visto il [decreto del Presidente della Repubblica 24 marzo 1995, n. 166](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni.md), concernente il regolamento di riorganizzazione del Ministero delle poste e delle telecomunicazioni;
 
 Visto il decreto del Ministro delle comunicazioni in data 5 agosto 1997, recante proroga delle concessioni postali, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 260 del 7 novembre 1997;
 
@@ -77,7 +77,7 @@ Ai fini del presente decreto si intendono per:
                         o)
                             "fornitore del servizio universale": il fornitore di un servizio postale, pubblico o privato, che fornisce un servizio postale universale sul territorio nazionale e la cui identita' e' stata notificata alla Commissione;
                         p)
-                            LETTERA SOPPRESSA DAL [D.LGS. 31 MARZO 2011, N. 58](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-6-CE%20che%20modifica%20la%20direttiva%2097-67-CE%20per%20quanto%20riguarda%20il%20pieno%20completamento%20del%20mercato%20interno%20dei%20servizi%20postali%20della%20Comunita.%2011G0099.md);
+                            LETTERA SOPPRESSA DAL [D.LGS. 31 MARZO 2011, N. 58](Attuazione%20della%20direttiva%202008-6-CE%20che%20modifica%20la%20direttiva%2097-67-CE%20per%20quanto%20riguarda%20il%20pieno%20completamento%20del%20mercato%20interno%20dei%20servizi%20postali%20della%20Comunita.%2011G0099.md);
                         q)
                             "autorizzazioni": ogni titolo abilitativo che stabilisce i diritti e gli obblighi specifici nel settore postale e che consente alle imprese di fornire servizi postali e, se del caso, creare ovvero gestire le proprie reti per la fornitura di tali servizi, sotto forma di "autorizzazione generale" oppure di "licenza individuale", definite come segue: 
  1) "autorizzazione generale": ogni autorizzazione che non richiede al fornitore di un servizio postale interessato di ottenere una esplicita decisione da parte dell'amministrazione competente prima dell'esercizio dei diritti derivanti dall'autorizzazione, indipendentemente dal fatto che questa sia regolata da una "licenza per categoria" o da norme di legge generali e che sia prevista o meno per essa una procedura di registrazione o di dichiarazione; 
@@ -113,7 +113,7 @@ L'Agenzia e' soggetto giuridicamente distinto e funzionalmente indipendente risp
 
 3.
 
-L'Agenzia opera sulla base di principi di autonomia organizzativa, tecnico-operativa, gestionale, di trasparenza e di economicita'. Per quanto non previsto dal presente articolo, all'Agenzia si applicano gli [articoli 8](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) e [9 del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md).
+L'Agenzia opera sulla base di principi di autonomia organizzativa, tecnico-operativa, gestionale, di trasparenza e di economicita'. Per quanto non previsto dal presente articolo, all'Agenzia si applicano gli [articoli 8](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) e [9 del decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 4.
 
@@ -340,7 +340,7 @@ L'offerta al pubblico di singoli servizi non riservati, che rientrano nel campo 
 
 2.
 
-Il rilascio della licenza individuale, tenuto conto della situazione del mercato e dell'organizzazione dei servizi postali, puo' essere subordinato a specifici obblighi del servizio universale con riguardo anche alla qualita', alla disponibilita' ed all'esecuzione dei servizi in questione ((...)). Il rilascio della licenza individuale per i servizi riguardanti le notificazioni di atti a mezzo della posta e di comunicazioni a mezzo della posta connesse con la notificazione di atti giudiziari di cui alla [legge 20 novembre 1982, n. 890](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-20;890), nonche' per i servizi riguardanti le notificazioni a mezzo della posta previste dall'[articolo 201 del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, deve essere subordinato a specifici obblighi del servizio universale con riguardo alla sicurezza, alla qualita', alla continuita', alla disponibilita' e all'esecuzione dei servizi medesimi.
+Il rilascio della licenza individuale, tenuto conto della situazione del mercato e dell'organizzazione dei servizi postali, puo' essere subordinato a specifici obblighi del servizio universale con riguardo anche alla qualita', alla disponibilita' ed all'esecuzione dei servizi in questione ((...)). Il rilascio della licenza individuale per i servizi riguardanti le notificazioni di atti a mezzo della posta e di comunicazioni a mezzo della posta connesse con la notificazione di atti giudiziari di cui alla [legge 20 novembre 1982, n. 890](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-20;890), nonche' per i servizi riguardanti le notificazioni a mezzo della posta previste dall'[articolo 201 del codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e successive modificazioni, deve essere subordinato a specifici obblighi del servizio universale con riguardo alla sicurezza, alla qualita', alla continuita', alla disponibilita' e all'esecuzione dei servizi medesimi.
 
 3.
 
@@ -565,7 +565,7 @@ Gli invii postali rientranti nel servizio universale e nei servizi riservati, pe
 
 2.
 
-Sono abrogati gli articoli 41, 44 e 54 del codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md).
+Sono abrogati gli articoli 41, 44 e 54 del codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md).
 
 3.
 
@@ -599,13 +599,13 @@ L'emissione di carte valori postali e' prerogativa dello Stato.
 
 1.
 
-Le persone addette ai servizi postali, da chiunque gestiti, sono considerate incaricate di pubblico servizio in conformita' all'[articolo 358 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). ((Le persone addette ai servizi di notificazione a mezzo posta sono considerate pubblici ufficiali a tutti gli effetti)).((10))
+Le persone addette ai servizi postali, da chiunque gestiti, sono considerate incaricate di pubblico servizio in conformita' all'[articolo 358 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). ((Le persone addette ai servizi di notificazione a mezzo posta sono considerate pubblici ufficiali a tutti gli effetti)).((10))
 
 --------------
 
 AGGIORNAMENTO (10)
 
-La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md), come modificata dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 1, comma 97-quinquies) che "Le disposizioni di cui ai commi da 97-bis a 97-quater si applicano a decorrere dalla data di entrata in vigore del provvedimento del Ministero dello sviluppo economico che disciplina le procedure per il rilascio delle licenze di cui all'articolo 5, comma 2, secondo periodo, del [decreto legislativo 22 luglio 1999, n. 261](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2097-67-CE%20concernente%20regole%20comuni%20per%20lo%20sviluppo%20del%20mercato%20interno%20dei%20servizi%20postali%20comunitari%20e%20per%20il%20miglioramento%20della%20qualita%20del%20servizio.md)".
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md), come modificata dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 1, comma 97-quinquies) che "Le disposizioni di cui ai commi da 97-bis a 97-quater si applicano a decorrere dalla data di entrata in vigore del provvedimento del Ministero dello sviluppo economico che disciplina le procedure per il rilascio delle licenze di cui all'articolo 5, comma 2, secondo periodo, del [decreto legislativo 22 luglio 1999, n. 261](Attuazione%20della%20direttiva%2097-67-CE%20concernente%20regole%20comuni%20per%20lo%20sviluppo%20del%20mercato%20interno%20dei%20servizi%20postali%20comunitari%20e%20per%20il%20miglioramento%20della%20qualita%20del%20servizio.md)".
 
 ## Art. 18-bis.
 
@@ -697,7 +697,7 @@ All'aggiornamento e alla modifica delle disposizioni dell'allegato al presente d
 
 2-ter.
 
-Le disposizioni di cui al presente decreto prevalgono sulle disposizioni di cui al [decreto legislativo 26 marzo 2010, n. 59](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md), recante attuazione della [direttiva 2006/123/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;123) relativa ai servizi nel mercato interno.
+Le disposizioni di cui al presente decreto prevalgono sulle disposizioni di cui al [decreto legislativo 26 marzo 2010, n. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md), recante attuazione della [direttiva 2006/123/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;123) relativa ai servizi nel mercato interno.
 
 ))
 

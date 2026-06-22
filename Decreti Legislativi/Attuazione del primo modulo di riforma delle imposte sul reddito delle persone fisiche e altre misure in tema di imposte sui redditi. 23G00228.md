@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 9 agosto 2023, n. 111](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), recante «Delega al Governo per la riforma fiscale»;
+Vista la [legge 9 agosto 2023, n. 111](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), recante «Delega al Governo per la riforma fiscale»;
 
 Visto, in particolare, l'articolo 5, comma 1, lettera a), della citata [legge n. 111 del 2023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023;111), che prevede specifici principi e criteri direttivi per la revisione e la graduale riduzione dell'imposta sul reddito delle persone fisiche, nel rispetto del principio di progressivita' e nella prospettiva della transizione del sistema verso l'aliquota impositiva unica, attraverso il riordino delle deduzioni dalla base imponibile, degli scaglioni di reddito, delle aliquote di imposta, delle detrazioni dall'imposta lorda e dei crediti d'imposta, tenendo conto delle loro finalita';
 
@@ -34,7 +34,7 @@ Visto l'[articolo 14, comma 8, del decreto legislativo 14 marzo 2011, n. 23](Dis
 
 Visto il [decreto legislativo 6 maggio 2011, n. 68](Disposizioni%20in%20materia%20di%20autonomia%20di%20entrata%20delle%20regioni%20a%20statuto%20ordinario%20e%20delle%20province%20nonche%20di%20determinazione%20dei%20costi%20e%20dei%20fabbisogni%20standard%20nel%20settore%20sanitario.%2011G0112.md), e, in particolare, l'articolo 6, comma 4, che consente alle regioni di stabilire aliquote dell'addizionale regionale all'imposta sul reddito delle persone fisiche differenziate esclusivamente in relazione agli scaglioni di reddito corrispondenti a quelli stabiliti dalla legge statale;
 
-Visto l'[articolo 1, comma 11, del decreto-legge 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138#art_1-com11), convertito, con modificazioni, dalla [legge 14 settembre 2011, n. 148](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), che consente ai comuni di stabilire aliquote dell'addizionale comunale all'imposta sul reddito delle persone fisiche utilizzando esclusivamente gli stessi scaglioni di reddito stabiliti dalla legge statale ai fini dell'imposta sul reddito delle persone fisiche;
+Visto l'[articolo 1, comma 11, del decreto-legge 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138#art_1-com11), convertito, con modificazioni, dalla [legge 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), che consente ai comuni di stabilire aliquote dell'addizionale comunale all'imposta sul reddito delle persone fisiche utilizzando esclusivamente gli stessi scaglioni di reddito stabiliti dalla legge statale ai fini dell'imposta sul reddito delle persone fisiche;
 
 Visto il [decreto-legge 5 febbraio 2020, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-02-05;3), convertito, con modificazioni, dalla [legge 2 aprile 2020, n. 21](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20febbraio%202020%20n.%203%20recante%20misure%20urgenti%20per%20la%20riduzione%20della%20pressione%20fiscale%20sul%20lavoro%20dipendente.%2020G00038.md), e, in particolare, l'articolo 1 che istituisce il trattamento integrativo dei redditi di lavoro dipendente e assimilati;
 
@@ -200,7 +200,7 @@ Note all'[art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.l
 
 1.
 
-Il Fondo per l'attuazione della delega fiscale di cui all'articolo 22, comma 3, secondo periodo della [legge 9 agosto 2023, n. 111](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e' incrementato di 3.482,3 milioni di euro per l'anno 2025, 2.681,9 milioni di euro per l'anno 2026, 2.842,7 milioni di euro per l'anno 2027 e 2.853,6 milioni di euro annui a decorrere dall'anno 2028.
+Il Fondo per l'attuazione della delega fiscale di cui all'articolo 22, comma 3, secondo periodo della [legge 9 agosto 2023, n. 111](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e' incrementato di 3.482,3 milioni di euro per l'anno 2025, 2.681,9 milioni di euro per l'anno 2026, 2.842,7 milioni di euro per l'anno 2027 e 2.853,6 milioni di euro annui a decorrere dall'anno 2028.
 
 2.
 

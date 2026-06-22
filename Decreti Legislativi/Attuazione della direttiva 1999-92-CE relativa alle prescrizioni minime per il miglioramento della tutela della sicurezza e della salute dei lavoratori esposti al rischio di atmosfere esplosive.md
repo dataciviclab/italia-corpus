@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 1° marzo 2002, n. 39](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), ed in particolare l'articolo 1, commi 1, 3 e 5;
+Vista la [legge 1° marzo 2002, n. 39](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), ed in particolare l'articolo 1, commi 1, 3 e 5;
 
 Vista la [direttiva 1999/92/CE del Parlamento europeo e del Consiglio, del 16 dicembre 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;92), relativa alle prescrizioni minime per il miglioramento della tutela della sicurezza e della salute dei lavoratori che possono essere esposti al rischio di atmosfere esplosive;
 
@@ -42,7 +42,7 @@ Avvertenza:
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- - La [legge 1° marzo 2002, n. 39](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), reca: «Disposizioni per l'adempimento di obblighi derivati dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2001.
+ - La [legge 1° marzo 2002, n. 39](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), reca: «Disposizioni per l'adempimento di obblighi derivati dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2001.
  L'art. 1, commi, 3 e 5, della citata legge, cosi recitano:
  «Art. 1 (Delega al Governo per l'attuazione di direttive comunitarie). - 1. Il Governo e' delegato ad emanare, entro il termine di un anno dalla data di entrata in vigore della presente legge, i decreti legislativi recanti le norme occorrenti per dare attuazione alle direttive comprese negli elenchi di cui agli allegati A e B.
  2. (Omissis).
@@ -309,7 +309,7 @@ Note all'[art. 5:
  Gli esplosivi sono distinti in comuni e di sicurezza, comprendendo in questi ultimi gli esplosivi che rispondono a buoni requisiti di sicurezza contro il grisu' e le polveri infiammabili.
  Per ciascun esplosivo di sicurezza l'elenco indichera' la carica limite.
  In detto elenco non possono essere iscritti esplosivi ad ossidazione incompleta, il cui impiego e' percio' vietato.».
- «Art. 43 (Iscrizione e classificazione). - L'iscrizione degli esplosivi e dei mezzi di accensione nell'elenco di cui all'articolo precedente e la loro assegnazione all'una o all'altra delle due categorie ha luogo con decreto del Ministro per il lavoro e per la previdenza sociale, in conformita' al riconoscimento ed alla classificazione gia' effettuata da parte del Ministero dell'interno, ai sensi dell'[art. 53 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con regio decreto 18 giugno 1931. n. 773.
+ «Art. 43 (Iscrizione e classificazione). - L'iscrizione degli esplosivi e dei mezzi di accensione nell'elenco di cui all'articolo precedente e la loro assegnazione all'una o all'altra delle due categorie ha luogo con decreto del Ministro per il lavoro e per la previdenza sociale, in conformita' al riconoscimento ed alla classificazione gia' effettuata da parte del Ministero dell'interno, ai sensi dell'[art. 53 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con regio decreto 18 giugno 1931. n. 773.
  I fabbricanti, nell'inoltrare domanda al Ministero del lavoro e della previdenza sociale per l'iscrizione degli esplosivi e dei mezzi di accensione nel succitato elenco, devono fornire i seguenti dati:
  a) denominazione degli esplosivi e dei mezzi di accensione;
  b) stabilimenti che li producono;

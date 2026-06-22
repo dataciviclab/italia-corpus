@@ -19,7 +19,7 @@ PROMULGA la seguente legge:
 E' convertito in legge il [decreto-legge 14 aprile 1978, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-04-14;111), concernente provvedimenti urgenti per l'amministrazione della giustizia, con le seguenti modificazioni:
 
  all'articolo 8:
- Al primo comma, dopo le parole: "[decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md)" sono inserite le altre: "Per quanto concerne il requisito dell'eta', esso va riferito all'epoca della prima assunzione del candidato presso gli uffici giudiziari, purche' alla data del bando non sia superiore agli anni quaranta".
+ Al primo comma, dopo le parole: "[decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md)" sono inserite le altre: "Per quanto concerne il requisito dell'eta', esso va riferito all'epoca della prima assunzione del candidato presso gli uffici giudiziari, purche' alla data del bando non sia superiore agli anni quaranta".
  Dopo il primo comma e' inserito il seguente:
  "I candidati possono presentare domanda di ammissione al concorso relativo ad un solo distretto".
  Il secondo comma e' sostituito con il seguente:

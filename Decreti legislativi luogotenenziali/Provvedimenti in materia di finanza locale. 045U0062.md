@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il [testo unico 14 settembre 1931, n. 1175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-09-14;1175), per la finanza locale e successive modificazioni;
 
-Visto il testo unico della legge comunale e provinciale approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni;
+Visto il testo unico della legge comunale e provinciale approvato con [R. decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni;
 
 Visto il [R. decreto 30 aprile 1936, n. 1138](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20riscossione%20delle%20imposte%20di%20consumo.%20036U1138.md);
 
@@ -74,7 +74,7 @@ Alla tariffa massima delle imposte di consumo di cui all'[art. 95 del testo unic
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. Luogotenenziale 18 febbraio 1946, n. 100](Provvedimenti%20tributari%20a%20favore%20degli%20Enti%20locali.md) ha disposto (con l'art. 1, comma 1) che "La tariffa massima dell'imposta di consumo sulle bevande stabilita dall'[art. 2 del decreto legislativo Luogotenenziale 8 marzo 1945, n. 62](Provvedimenti%20in%20materia%20di%20finanza%20locale.%20045U0062.md), e modificata come segue: 
+Il [D.Lgs. Luogotenenziale 18 febbraio 1946, n. 100](Provvedimenti%20tributari%20a%20favore%20degli%20Enti%20locali.md) ha disposto (con l'art. 1, comma 1) che "La tariffa massima dell'imposta di consumo sulle bevande stabilita dall'[art. 2 del decreto legislativo Luogotenenziale 8 marzo 1945, n. 62](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20in%20materia%20di%20finanza%20locale.%20045U0062.md), e modificata come segue: 
  
 
  BEVANDE Unita' Imposta
@@ -109,7 +109,7 @@ Vini spumanti in bottiglia...................... una 50"
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. Luogotenenziale 18 febbraio 1946, n. 100](Provvedimenti%20tributari%20a%20favore%20degli%20Enti%20locali.md), come modificato dal [D.Lgs. del Capo Provvisorio dello Stato 29 marzo 1947, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-29;177) ha disposto (con l'art. 1, comma 1) che "La tariffa massima dell'imposta di consumo sulle bevande stabilita dall'[art. 2 del decreto legislativo Luogotenenziale 8 marzo 1945, n. 62](Provvedimenti%20in%20materia%20di%20finanza%20locale.%20045U0062.md), e modificata come segue: 
+Il [D.Lgs. Luogotenenziale 18 febbraio 1946, n. 100](Provvedimenti%20tributari%20a%20favore%20degli%20Enti%20locali.md), come modificato dal [D.Lgs. del Capo Provvisorio dello Stato 29 marzo 1947, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-29;177) ha disposto (con l'art. 1, comma 1) che "La tariffa massima dell'imposta di consumo sulle bevande stabilita dall'[art. 2 del decreto legislativo Luogotenenziale 8 marzo 1945, n. 62](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20in%20materia%20di%20finanza%20locale.%20045U0062.md), e modificata come segue: 
  
 
  BEVANDE Unita' Imposta
@@ -295,7 +295,7 @@ g) di un ispettore superiore di ragioneria del Ministero dell'interno.
  
 Le funzioni di segretario della commissione medesima sono disimpegnate da un funzionario amministrativo del ruolo centrale del Ministero delle finanze di gruppo A e di grado non inferiore al 9°. 
  
-Ai componenti della commissione sara' corrisposto per ogni giornata di adunanza un gettone di presenza nella misura stabilita dalle vigenti disposizioni. Al segretario sara' corrisposto un premio di operosita' ai sensi dell'[art. 63 del R. decreto 8 maggio 1924, n. 843](../Regi%20decreti/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md). Le spese inerenti al funzionamento della commissione fanno carico al capitolo 25 del bilancio passivo del Ministero delle finanze per l'esercizio in corso ed a quelli corrispondenti per gli esercizi successivi».
+Ai componenti della commissione sara' corrisposto per ogni giornata di adunanza un gettone di presenza nella misura stabilita dalle vigenti disposizioni. Al segretario sara' corrisposto un premio di operosita' ai sensi dell'[art. 63 del R. decreto 8 maggio 1924, n. 843](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggiunte%20al%20R.%20decreto%2011%20novembre%201923%20n.%202395%20e%20successive%20modificazioni%20sullordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20024U0843.md). Le spese inerenti al funzionamento della commissione fanno carico al capitolo 25 del bilancio passivo del Ministero delle finanze per l'esercizio in corso ed a quelli corrispondenti per gli esercizi successivi».
 
 ## Art. 13.
 
@@ -315,7 +315,7 @@ L'[art. 104 del testo unico 14 settembre 1931, n. 1175](https://www.normattiva.i
  
 «Il valore locativo si desume dal fitto reale o presunto. 
  
-E' fitto reale quello risultante da contratto scritto o da denunzia verbale d'affitto di cui all'art. 9 della tariffa allegato A (parte prima) alla legge del bollo approvata con [R. decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e successive modificazioni; e' presunto in ogni altro caso. 
+E' fitto reale quello risultante da contratto scritto o da denunzia verbale d'affitto di cui all'art. 9 della tariffa allegato A (parte prima) alla legge del bollo approvata con [R. decreto 30 dicembre 1923, n. 3268](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), e successive modificazioni; e' presunto in ogni altro caso. 
  
 Quando il fitto reale risulti inferiore ai prezzi locativi correnti, e' in facolta' del comune di procedere all'accertamento del fitto presunto per via di comparazione con altre abitazioni locate in condizioni e circostanze similari. 
  
@@ -562,7 +562,7 @@ Nei comuni delle prime cinque classi un terzo dei membri della commissione e' no
  
 La commissione elegge nel suo seno a scrutinio segreto ed a maggioranza di voti il presidente ed uno o piu' vice presidenti. 
  
-I membri della commissione debbono avere i requisiti richiesti dal testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), per la nomina a consigliere comunale. 
+I membri della commissione debbono avere i requisiti richiesti dal testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](../Atti%20normativi%20abrogati%20%28in%20originale%29/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), per la nomina a consigliere comunale. 
  
 Il segretario comunale, o altro impiegato del comune, funziona da segretario della commissione; egli risponde della conservazione dei documenti e della regolare tenuta del registro delle decisioni e cura ogni altro adempimento richiesto dai lavori della commissione. 
  
@@ -591,7 +591,7 @@ Con lo stesso decreto saranno stabilite le norme per l'applicazione del diritto 
 AGGIORNAMENTO (2)
 
 Il [D.Lgs. del Capo Provvisorio dello Stato 29 marzo 1947, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-29;177) ha disposto (con l'art. 28, comma 1) che la presente modifica ha effetto dal 10 aprile 1947. 
- Ha inoltre disposto (con l'art. 29, comma 1) che "Le autorizzazioni concesse a norma dell'[art. 41 del decreto legislativo luogotenenziale 8 marzo 1945, n. 62](Provvedimenti%20in%20materia%20di%20finanza%20locale.%20045U0062.md), decadono col 31 dicembre 1947".
+ Ha inoltre disposto (con l'art. 29, comma 1) che "Le autorizzazioni concesse a norma dell'[art. 41 del decreto legislativo luogotenenziale 8 marzo 1945, n. 62](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20in%20materia%20di%20finanza%20locale.%20045U0062.md), decadono col 31 dicembre 1947".
 
 ### Art. 42.
 

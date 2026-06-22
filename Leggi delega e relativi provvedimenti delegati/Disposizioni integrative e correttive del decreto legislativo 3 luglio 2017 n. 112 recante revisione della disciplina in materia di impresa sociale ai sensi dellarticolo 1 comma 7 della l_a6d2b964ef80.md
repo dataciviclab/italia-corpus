@@ -144,7 +144,7 @@ Note all'art. 2:
  p) servizi finalizzati all'inserimento o al reinserimento nel mercato del lavoro dei lavoratori e delle persone di cui al comma 4; 
  q) alloggio sociale, ai sensi del decreto del Ministro delle infrastrutture 22 aprile 2008, e successive modificazioni nonche' ogni altra attivita' di carattere residenziale temporaneo diretta a soddisfare bisogni sociali, sanitari, culturali, formativi o lavorativi; 
  r) accoglienza umanitaria ed integrazione sociale dei migranti; 
- s) microcredito, ai sensi dell'[art. 111 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_111), e successive modificazioni; 
+ s) microcredito, ai sensi dell'[art. 111 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni; 
  t) agricoltura sociale, ai sensi dell'[art. 2 della legge 18 agosto 2015, n. 141](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-18;141#art_2), e successive modificazioni; 
  u) organizzazione e gestione di attivita' sportive dilettantistiche; 
  v) riqualificazione di beni pubblici inutilizzati o di beni confiscati alla criminalita' organizzata. 

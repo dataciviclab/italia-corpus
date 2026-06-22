@@ -525,7 +525,7 @@ Note all'art. 9:
  1) non siano subordinati, convertibili o scambiabili; 
  2) non conferiscano il diritto di sottoscrivere o acquisire altri tipi di strumenti finanziari e non siano collegati ad uno strumento derivato; 
  3) diano veste materiale al ricevimento di depositi rimborsabili; 
- 4) siano coperti da un sistema di garanzia dei depositi a norma degli [articoli da 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_96) [a 96-quater del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_96quater); 
+ 4) siano coperti da un sistema di garanzia dei depositi a norma degli [articoli da 96](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) [a 96-quater del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md); 
  g) aventi ad oggetto strumenti del mercato monetario emessi da banche con una scadenza inferiore a dodici mesi. 
  2. La Consob puo' individuare con regolamento le offerte al pubblico di prodotti finanziari alle quali le disposizioni del presente Capo non si applicano in tutto o in parte. 
  3. L'emittente o l'offerente ha diritto di redigere un prospetto ai sensi e per gli effetti delle disposizioni comunitarie in occasione dell'offerta degli strumenti di cui alle lettere c), d) ed e) del comma 1. 

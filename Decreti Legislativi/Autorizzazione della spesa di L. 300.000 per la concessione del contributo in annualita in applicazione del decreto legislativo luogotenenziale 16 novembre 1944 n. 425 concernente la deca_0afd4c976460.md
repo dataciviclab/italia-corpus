@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-E' autorizzata, per ciascuno degli esercizi finanziari 1947-48 e successivi, la spesa di L. 300.000 per la concessione del contributo dello Stato in annualita', sui mutui previsti dall'[art. 9 del decreto legislativo luogotenenziale 16 novembre 1944, n. 425](../Decreti%20legislativi%20luogotenenziali/Decadenza%20dalle%20assegnazioni%20di%20alloggi%20di%20cooperative%20edilizie%20e%20ricupero%20dei%20contributi%20dello%20Stato.%20044U0425.md).
+E' autorizzata, per ciascuno degli esercizi finanziari 1947-48 e successivi, la spesa di L. 300.000 per la concessione del contributo dello Stato in annualita', sui mutui previsti dall'[art. 9 del decreto legislativo luogotenenziale 16 novembre 1944, n. 425](../Atti%20normativi%20abrogati%20%28in%20originale%29/Decadenza%20dalle%20assegnazioni%20di%20alloggi%20di%20cooperative%20edilizie%20e%20ricupero%20dei%20contributi%20dello%20Stato.%20044U0425.md).
  L'importo di L. 60.000.000 stabilito dal [n. 4 dell'art. 5 del decreto legislativo 25 marzo 1948, n. 185](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dei%20lavori%20pubblici%20per%20lesercizio%20finanziario%201947-48.md), che approva lo stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio 1947-48, per annualita' occorrenti per contributi a favore dell'I.N.C.I.S. e degli istituti ed Enti autonomi per costruzioni di case popolari, e' diminuito della corrispondente somma di L. 300.000.
 
 ## Art. 2.

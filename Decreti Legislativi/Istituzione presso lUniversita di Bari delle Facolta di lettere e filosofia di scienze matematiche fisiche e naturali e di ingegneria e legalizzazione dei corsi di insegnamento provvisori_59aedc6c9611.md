@@ -33,7 +33,7 @@ Al ruolo organico dei posti di professore dell'Universita' degli studi di Bari s
  Facolta' di lettere e filosofia, posti di ruolo n. 9;
  Facolta' di scienze, matematiche, fisiche e naturali, posti di ruolo n. 9;
  Facolta' di ingegneria, posti di ruolo n. 7. ((2))
- In tali sensi s'intende modificato il ruolo organico dei posti di professore di ruolo dell'Universita' di Bari di cui al [regio decreto 3 settembre 1936, n. 1816](../Regi%20decreti/Attuazione%20nei%20confronti%20della%20Regia%20universita%20di%20Bari%20delle%20norme%20di%20cui%20allart.%201%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20che%20apporta%20modificazioni%20ed%20aggiunte%20al%20testo%20unico%20_24799b6b84ea.md), e al [regio decreto-legge 28 febbraio 1939, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-28;297).
+ In tali sensi s'intende modificato il ruolo organico dei posti di professore di ruolo dell'Universita' di Bari di cui al [regio decreto 3 settembre 1936, n. 1816](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20nei%20confronti%20della%20Regia%20universita%20di%20Bari%20delle%20norme%20di%20cui%20allart.%201%20del%20R.%20decreto-legge%2020%20giugno%201935-XIII%20n.%201071%20che%20apporta%20modificazioni%20ed%20aggiunte%20al%20testo%20unico%20_24799b6b84ea.md), e al [regio decreto-legge 28 febbraio 1939, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-02-28;297).
 
 ----------------
 
@@ -72,7 +72,7 @@ E' riconosciuta, ad ogni effetto la validita' di tutti i corsi istituiti in via 
 
 AGGIORNAMENTO (1)
 
-La [L. 2 gennaio 1952, n. 23](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2028%20gennaio%201948%20n.%20170%20concernente%20listituzione%20presso%20lUniversita%20di%20Bari%20delle%20Facolta%20di%20lettere%20e%20filosofia%20di%20scienze%20matematiche%20f_c6335d8b713a.md) ha disposto (con l'art. 3) che "I corsi di magistero (laurea in pedagogia), di medicina veterinaria e di lingue e letterature straniere, di cui all'[art. 7 del decreto legislativo 28 gennaio 1948, n. 170](Istituzione%20presso%20lUniversita%20di%20Bari%20delle%20Facolta%20di%20lettere%20e%20filosofia%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20ingegneria%20e%20legalizzazione%20dei%20corsi%20di%20insegnamento%20provvisori_59aedc6c9611.md), sono prorogati fino all'anno accademico 1954-55."
+La [L. 2 gennaio 1952, n. 23](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2028%20gennaio%201948%20n.%20170%20concernente%20listituzione%20presso%20lUniversita%20di%20Bari%20delle%20Facolta%20di%20lettere%20e%20filosofia%20di%20scienze%20matematiche%20f_c6335d8b713a.md) ha disposto (con l'art. 3) che "I corsi di magistero (laurea in pedagogia), di medicina veterinaria e di lingue e letterature straniere, di cui all'[art. 7 del decreto legislativo 28 gennaio 1948, n. 170](Istituzione%20presso%20lUniversita%20di%20Bari%20delle%20Facolta%20di%20lettere%20e%20filosofia%20di%20scienze%20matematiche%20fisiche%20e%20naturali%20e%20di%20ingegneria%20e%20legalizzazione%20dei%20corsi%20di%20insegnamento%20provvisori_59aedc6c9611.md), sono prorogati fino all'anno accademico 1954-55."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

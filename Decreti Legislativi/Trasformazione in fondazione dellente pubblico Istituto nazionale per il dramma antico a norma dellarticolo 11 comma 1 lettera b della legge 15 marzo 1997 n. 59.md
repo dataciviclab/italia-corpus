@@ -18,7 +18,7 @@ Visto il [decreto-legge 29 marzo 1995, n. 97](https://www.normattiva.it/uri-res/
 
 Vista la [legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70);
 
-Visto il [regio decreto 7 agosto 1925, n. 1767](../Regi%20decreti/Erezione%20in%20Ente%20morale%20dellIstituto%20del%20Dramma%20Antico%20in%20Siracusa.%20025U1767.md);
+Visto il [regio decreto 7 agosto 1925, n. 1767](../Atti%20normativi%20abrogati%20%28in%20originale%29/Erezione%20in%20Ente%20morale%20dellIstituto%20del%20Dramma%20Antico%20in%20Siracusa.%20025U1767.md);
 
 Vista la [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), recante delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa, ed in particolare, gli articoli 11, comma 1, lettera b), e 14;
 
@@ -275,7 +275,7 @@ Il bilancio di esercizio deve essere trasmesso, entro quindici giorni dalla deli
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 21 dicembre 1998, n. 492](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20dei%20decreti%20legislativi%2018%20novembre%201997%20n.%20426%208%20gennaio%201998%20n.%203%2029%20gennaio%201998%20numeri%2019%20e%2020%20e%2023%20aprile%201998%20n.%20134.md) ha disposto (con l'art. 3, comma 2) che "In sede di prima applicazione, il programma dell'attivita' di cui all'[articolo 8, comma 1-bis, del decreto legislativo 29 gennaio 1998, n. 20](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasformazione%20in%20fondazione%20dellente%20pubblico%20Istituto%20nazionale%20per%20il%20dramma%20antico%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20b%20della%20legge%2015%20marzo%201997%20n.%2059.md), e' presentato entro centoventi giorni dalla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 21 dicembre 1998, n. 492](Disposizioni%20correttive%20ed%20integrative%20dei%20decreti%20legislativi%2018%20novembre%201997%20n.%20426%208%20gennaio%201998%20n.%203%2029%20gennaio%201998%20numeri%2019%20e%2020%20e%2023%20aprile%201998%20n.%20134.md) ha disposto (con l'art. 3, comma 2) che "In sede di prima applicazione, il programma dell'attivita' di cui all'[articolo 8, comma 1-bis, del decreto legislativo 29 gennaio 1998, n. 20](Trasformazione%20in%20fondazione%20dellente%20pubblico%20Istituto%20nazionale%20per%20il%20dramma%20antico%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20b%20della%20legge%2015%20marzo%201997%20n.%2059.md), e' presentato entro centoventi giorni dalla data di entrata in vigore del presente decreto".
 
 ## Art. 9. — Vigilanza e amministrazione straordinaria
 

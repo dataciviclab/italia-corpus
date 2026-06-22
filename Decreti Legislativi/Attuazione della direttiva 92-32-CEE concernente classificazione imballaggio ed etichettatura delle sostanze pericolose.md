@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), ed in particolare l'articolo 38 e l'articolo 3, lettera f);
+Vista la [legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), ed in particolare l'articolo 38 e l'articolo 3, lettera f);
 
 Vista la [direttiva 92/32/CEE, del Consiglio del 30 aprile 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;32), recante settima modifica della [direttiva 67/54/CEE, del Consiglio del 27 giugno 1967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1967;54), concernente il ravvicinamento delle disposizioni leg- islative regolamentari e amministrative relative alla classificazione, all'imballaggio e alla etichettatura delle sostanze pericolose;
 
@@ -70,7 +70,7 @@ Le norme del presente decreto non si applicano alle sostanze ed ai preparati seg
                             g)
                                 sostanze radioattive;
                             h)
-                                altre sostanze o preparati per i quali esistono procedure comunitarie di notifica o di approvazione sulla base di requisiti equivalenti a quelli stabiliti dal presente decreto. PRIODO SOPPRESSO DAL [D.LGS. 25 FEBBRAIO 1998, N. 90](Modifiche%20al%20decreto%20legislativo%203%20febbraio%201997%20n.%2052%20recante%20attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md).
+                                altre sostanze o preparati per i quali esistono procedure comunitarie di notifica o di approvazione sulla base di requisiti equivalenti a quelli stabiliti dal presente decreto. PRIODO SOPPRESSO DAL [D.LGS. 25 FEBBRAIO 1998, N. 90](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20al%20decreto%20legislativo%203%20febbraio%201997%20n.%2052%20recante%20attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md).
 
 3.
 

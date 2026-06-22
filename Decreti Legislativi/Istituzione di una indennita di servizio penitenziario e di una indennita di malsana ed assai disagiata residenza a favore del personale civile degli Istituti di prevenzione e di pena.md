@@ -33,7 +33,7 @@ A favore del personale civile di ruolo dell'Amministrazione degli istituti di pr
 
 AGGIORNAMENTO (1)
 
-La [L. 15 novembre 1973, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-15;734) ha disposto (con l'art. 39, comma 1) che sono abrogati "gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-05-03;767#art_1) e [2 del decreto-legge 3 maggio 1948, n. 767](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-05-03;767#art_2), ratificato con [legge 10 febbraio 1953, n. 73](../Leggi%20di%20ratifica/Ratifica%20di%20decreti%20legislativi%20concernenti%20il%20Ministero%20di%20grazia%20e%20giustizia%20emanati%20dal%20Governo%20durante%20il%20periodo%20dellAssemblea%20Costituente.md)".
+La [L. 15 novembre 1973, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-15;734) ha disposto (con l'art. 39, comma 1) che sono abrogati "gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-05-03;767#art_1) e [2 del decreto-legge 3 maggio 1948, n. 767](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-05-03;767#art_2), ratificato con [legge 10 febbraio 1953, n. 73](../DL%20e%20leggi%20di%20conversione/Ratifica%20di%20decreti%20legislativi%20concernenti%20il%20Ministero%20di%20grazia%20e%20giustizia%20emanati%20dal%20Governo%20durante%20il%20periodo%20dellAssemblea%20Costituente.md)".
 
 ## Art. 2.
 
@@ -43,7 +43,7 @@ L'indennita', di cui al precedente articolo e' cumulabile per il personale alien
 
 AGGIORNAMENTO (1)
 
-La [L. 15 novembre 1973, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-15;734) ha disposto (con l'art. 39, comma 1) che sono abrogati "gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-05-03;767#art_1) e [2 del decreto-legge 3 maggio 1948, n. 767](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-05-03;767#art_2), ratificato con [legge 10 febbraio 1953, n. 73](../Leggi%20di%20ratifica/Ratifica%20di%20decreti%20legislativi%20concernenti%20il%20Ministero%20di%20grazia%20e%20giustizia%20emanati%20dal%20Governo%20durante%20il%20periodo%20dellAssemblea%20Costituente.md)".
+La [L. 15 novembre 1973, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-15;734) ha disposto (con l'art. 39, comma 1) che sono abrogati "gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-05-03;767#art_1) e [2 del decreto-legge 3 maggio 1948, n. 767](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-05-03;767#art_2), ratificato con [legge 10 febbraio 1953, n. 73](../DL%20e%20leggi%20di%20conversione/Ratifica%20di%20decreti%20legislativi%20concernenti%20il%20Ministero%20di%20grazia%20e%20giustizia%20emanati%20dal%20Governo%20durante%20il%20periodo%20dellAssemblea%20Costituente.md)".
 
 ## Art. 3.
 

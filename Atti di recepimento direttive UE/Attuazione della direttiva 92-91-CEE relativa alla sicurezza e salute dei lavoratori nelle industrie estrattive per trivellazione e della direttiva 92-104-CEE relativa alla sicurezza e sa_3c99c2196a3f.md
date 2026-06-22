@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto il [decreto del Presidente della Repubblica 9 aprile 1959, n. 128](../DPR/Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), e successive modifiche;
 
-Visto il [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md), e successive modifiche;
+Visto il [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](../DPR/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md), e successive modifiche;
 
 Vista la [legge 17 aprile 1989, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-17;150), e successive modifiche;
 
@@ -22,7 +22,7 @@ Visto il [decreto legislativo 19 settembre 1994 n. 626](Attuazione%20delle%20dir
 
 Vista la [legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), ed in particolare gli articoli 1 e 34 e gli allegato A e B;
 
-Vista la [legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), ed in particolare l'articolo 6, comma 3;
+Vista la [legge 6 febbraio 1996, n. 52](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), ed in particolare l'articolo 6, comma 3;
 
 Visto il [decreto del Presidente della Repubblica 24 maggio 1979, n. 886](../DPR/Integrazione%20ed%20adeguamento%20delle%20norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave%20contenute%20nel%20decreto%20del%20Presidente%20della%20Repubblica%209%20aprile%201959%20n.%20128%20al%20fine%20di%20regolare%20le%20attivita%20di_6460acb681e7.md), e successive modifiche;
 
@@ -337,7 +337,7 @@ TITOLO I
 
 1.
 
-La Commissione di cui all'[articolo 393 del decreto del Presidente della Repubblica 27/4/55, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), come sostituito dall'[articolo 26 del decreto legislativo n. 626 del 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;626#art_26), e' integrata, per le questioni riguardanti le attivita' estrattive, da:
+La Commissione di cui all'[articolo 393 del decreto del Presidente della Repubblica 27/4/55, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), come sostituito dall'[articolo 26 del decreto legislativo n. 626 del 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;626#art_26), e' integrata, per le questioni riguardanti le attivita' estrattive, da:
                             a)
                                 il direttore del Servizio per la sicurezza mineraria della Direzione generale delle miniere;
                             b)
@@ -575,7 +575,7 @@ In caso di infortunio che richieda la denuncia di cui al comma 3, primo periodo 
 
 1.
 
-Per le attivita' estrattive che si svolgono in mare, qualora l'infortunio riguardi personale imbarcato con contratto di arruolamento sulle navi e sui mezzi nautici impiegati nei lavori, deve essere presentata denuncia di infortunio anche all'autorita' marittima competente, nei termini, nei modi e per gli effetti di cui al [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md), fermo restando l'obbligo di denuncia di cui all'articolo 54 dello stesso decreto.
+Per le attivita' estrattive che si svolgono in mare, qualora l'infortunio riguardi personale imbarcato con contratto di arruolamento sulle navi e sui mezzi nautici impiegati nei lavori, deve essere presentata denuncia di infortunio anche all'autorita' marittima competente, nei termini, nei modi e per gli effetti di cui al [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](../DPR/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md), fermo restando l'obbligo di denuncia di cui all'articolo 54 dello stesso decreto.
 
 2.
 
@@ -587,7 +587,7 @@ Gli infortuni sono altresi' annotati sul registro di piattaforma.
 
 4.
 
-Restano ferme le norme riguardanti le inchieste sugli infortuni della gente di mare di cui al Titolo V del [regio decreto 25 gennaio 1937, n. 200](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20dei%20Regi%20decreti%2017%20agosto%201935%20n.%201765%20e%2015%20dicembre%201936%20n.%202276%20sullassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20_1b7286f29503.md), e sui sinistri marittimi di cui alla Parte I, Libro IV, Titoli I e II del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+Restano ferme le norme riguardanti le inchieste sugli infortuni della gente di mare di cui al Titolo V del [regio decreto 25 gennaio 1937, n. 200](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20dei%20Regi%20decreti%2017%20agosto%201935%20n.%201765%20e%2015%20dicembre%201936%20n.%202276%20sullassicurazione%20obbligatoria%20degli%20infortuni%20sul%20lavoro%20e%20delle%20malattie%20_1b7286f29503.md), e sui sinistri marittimi di cui alla Parte I, Libro IV, Titoli I e II del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 ### Art. 28. — (Statistiche degli infortuni)
 
@@ -717,7 +717,7 @@ Fatte salve le specifiche disposizioni dell'articolo 73, comma 2, il trasporto d
 
 1.
 
-Fermo restando il disposto dell'[articolo 46 del regio decreto 18 giugno 1931, n.773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e in deroga al [primo comma dell'articolo 336 del decreto del Presidente della Repubblica 9 aprile 1959 n. 128](../DPR/Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), la miscelazione dei prodotti utilizzati per il caricamento dei fori da mina, nonche' il caricamento stesso, possono essere effettuati con automezzi riconosciuti idonei dal Ministero dell'industria, del commercio e dell'artigianato ai sensi dell'[articolo 297 del decreto del Presidente della Repubblica n. 128 del 1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959;128#art_297), e conformemente alle prescrizioni stabilite, caso per caso, dall'autorita' di vigilanza.
+Fermo restando il disposto dell'[articolo 46 del regio decreto 18 giugno 1931, n.773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e in deroga al [primo comma dell'articolo 336 del decreto del Presidente della Repubblica 9 aprile 1959 n. 128](../DPR/Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), la miscelazione dei prodotti utilizzati per il caricamento dei fori da mina, nonche' il caricamento stesso, possono essere effettuati con automezzi riconosciuti idonei dal Ministero dell'industria, del commercio e dell'artigianato ai sensi dell'[articolo 297 del decreto del Presidente della Repubblica n. 128 del 1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959;128#art_297), e conformemente alle prescrizioni stabilite, caso per caso, dall'autorita' di vigilanza.
 
 2.
 
@@ -1810,7 +1810,7 @@ Chiunque viola le disposizioni di cui all'articolo 43 comma 3 e' punito con la s
 
 1.
 
-Si applica il Capo II del [decreto legislativo 19 dicembre 1994, n.758](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md), alle contravvenzioni di cui all'articolo 104, commi 1, 2, 3 lettere a) e b)e 4 e all'articolo 105.
+Si applica il Capo II del [decreto legislativo 19 dicembre 1994, n.758](../Decreti%20Legislativi/Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md), alle contravvenzioni di cui all'articolo 104, commi 1, 2, 3 lettere a) e b)e 4 e all'articolo 105.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

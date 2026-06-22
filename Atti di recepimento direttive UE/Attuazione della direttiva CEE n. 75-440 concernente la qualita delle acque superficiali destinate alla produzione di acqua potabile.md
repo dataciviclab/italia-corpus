@@ -10,19 +10,19 @@ vigente: true
 
 ## Art. 1.
 
-((IL [D.LGS. 3 APRILE 2006, N.152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL [D.LGS. 3 APRILE 2006, N.152](../Codici/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
 ## Art. 2.
 
-((IL [D.LGS. 3 APRILE 2006, N.152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL [D.LGS. 3 APRILE 2006, N.152](../Codici/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
 ## Art. 3.
 
-((IL [D.LGS. 3 APRILE 2006, N.152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL [D.LGS. 3 APRILE 2006, N.152](../Codici/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
 ## Art. 4.
 
-((IL [D.LGS. 3 APRILE 2006, N.152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL [D.LGS. 3 APRILE 2006, N.152](../Codici/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
 ## Art. 5.
 
@@ -30,11 +30,11 @@ vigente: true
 
 ## Art. 6.
 
-((IL [D.LGS. 3 APRILE 2006, N.152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL [D.LGS. 3 APRILE 2006, N.152](../Codici/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
 ## Art. 7.
 
-((IL [D.LGS. 3 APRILE 2006, N.152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL [D.LGS. 3 APRILE 2006, N.152](../Codici/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
 ## Art. 8.
 
@@ -42,7 +42,7 @@ vigente: true
 
 ## Art. 9.
 
-((IL [D.LGS. 3 APRILE 2006, N.152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL [D.LGS. 3 APRILE 2006, N.152](../Codici/Norme%20in%20materia%20ambientale.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
 ## Art. 10.
 

@@ -31,7 +31,7 @@ Chiunque, senza licenza dell'autorita', fabbrica o introduce nello Stato o espor
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 1948, n. 970](../Leggi%20di%20ratifica/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md) ha disposto (con l'articolo unico) che "Il [decreto legislativo 5 febbraio 1948, n. 100](Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), recante disposizioni penali per il controllo delle armi, e' ratificato, ai sensi dell'[art. 6 del decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-03-16;98#art_6), ed avra' efficacia, dalla entrata in vigore della presente legge fino ai 30 giugno 1949.
+La [L. 23 luglio 1948, n. 970](../DL%20e%20leggi%20di%20conversione/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md) ha disposto (con l'articolo unico) che "Il [decreto legislativo 5 febbraio 1948, n. 100](Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), recante disposizioni penali per il controllo delle armi, e' ratificato, ai sensi dell'[art. 6 del decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-03-16;98#art_6), ed avra' efficacia, dalla entrata in vigore della presente legge fino ai 30 giugno 1949.
 
 ## Art. 2.
 
@@ -41,18 +41,18 @@ Chiunque detiene armi da guerra o parti di esse ((atte all'impiego)), munizioni 
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 1948, n. 970](../Leggi%20di%20ratifica/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md) ha disposto (con l'articolo unico) che "Il [decreto legislativo 5 febbraio 1948, n. 100](Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), recante disposizioni penali per il controllo delle armi, e' ratificato, ai sensi dell'[art. 6 del decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-03-16;98#art_6), ed avra' efficacia, dalla entrata in vigore della presente legge fino ai 30 giugno 1949.
+La [L. 23 luglio 1948, n. 970](../DL%20e%20leggi%20di%20conversione/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md) ha disposto (con l'articolo unico) che "Il [decreto legislativo 5 febbraio 1948, n. 100](Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), recante disposizioni penali per il controllo delle armi, e' ratificato, ai sensi dell'[art. 6 del decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-03-16;98#art_6), ed avra' efficacia, dalla entrata in vigore della presente legge fino ai 30 giugno 1949.
 
 ## Art. 3.
 
-ARTICOLO SOPPRESSO DALLA [L. 23 LUGLIO 1948, N. 970](../Leggi%20di%20ratifica/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md) 
+ARTICOLO SOPPRESSO DALLA [L. 23 LUGLIO 1948, N. 970](../DL%20e%20leggi%20di%20conversione/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md) 
 (1) ((2))
 
 ---------------
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 1948, n. 970](../Leggi%20di%20ratifica/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md) ha disposto (con l'articolo unico) che "Il [decreto legislativo 5 febbraio 1948, n. 100](Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), recante disposizioni penali per il controllo delle armi, e' ratificato, ai sensi dell'[art. 6 del decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-03-16;98#art_6), ed avra' efficacia, dalla entrata in vigore della presente legge fino ai 30 giugno 1949."
+La [L. 23 luglio 1948, n. 970](../DL%20e%20leggi%20di%20conversione/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md) ha disposto (con l'articolo unico) che "Il [decreto legislativo 5 febbraio 1948, n. 100](Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), recante disposizioni penali per il controllo delle armi, e' ratificato, ai sensi dell'[art. 6 del decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-03-16;98#art_6), ed avra' efficacia, dalla entrata in vigore della presente legge fino ai 30 giugno 1949."
 
 ---------------
 
@@ -68,7 +68,7 @@ Chiunque trasgredisce all'ordine legalmente dato dall'autorita', di consegnare n
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 1948, n. 970](../Leggi%20di%20ratifica/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md) ha disposto (con l'articolo unico) che "Il [decreto legislativo 5 febbraio 1948, n. 100](Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), recante disposizioni penali per il controllo delle armi, e' ratificato, ai sensi dell'[art. 6 del decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-03-16;98#art_6), ed avra' efficacia, dalla entrata in vigore della presente legge fino ai 30 giugno 1949.
+La [L. 23 luglio 1948, n. 970](../DL%20e%20leggi%20di%20conversione/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md) ha disposto (con l'articolo unico) che "Il [decreto legislativo 5 febbraio 1948, n. 100](Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), recante disposizioni penali per il controllo delle armi, e' ratificato, ai sensi dell'[art. 6 del decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-03-16;98#art_6), ed avra' efficacia, dalla entrata in vigore della presente legge fino ai 30 giugno 1949.
 
 ## Art. 5.
 
@@ -80,7 +80,7 @@ Chiunque, senza licenza dell'autorita', quando la licenza e' richiesta, porta un
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 1948, n. 970](../Leggi%20di%20ratifica/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md) ha disposto (con l'articolo unico) che "Il [decreto legislativo 5 febbraio 1948, n. 100](Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), recante disposizioni penali per il controllo delle armi, e' ratificato, ai sensi dell'[art. 6 del decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-03-16;98#art_6), ed avra' efficacia, dalla entrata in vigore della presente legge fino ai 30 giugno 1949.
+La [L. 23 luglio 1948, n. 970](../DL%20e%20leggi%20di%20conversione/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md) ha disposto (con l'articolo unico) che "Il [decreto legislativo 5 febbraio 1948, n. 100](Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), recante disposizioni penali per il controllo delle armi, e' ratificato, ai sensi dell'[art. 6 del decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-03-16;98#art_6), ed avra' efficacia, dalla entrata in vigore della presente legge fino ai 30 giugno 1949.
 
 ## Art. 6.
 
@@ -91,7 +91,7 @@ Le pene prevedute negli articoli precedenti sono aumentate ((fino ad un terzo)) 
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 1948, n. 970](../Leggi%20di%20ratifica/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md) ha disposto (con l'articolo unico) che "Il [decreto legislativo 5 febbraio 1948, n. 100](Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), recante disposizioni penali per il controllo delle armi, e' ratificato, ai sensi dell'[art. 6 del decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-03-16;98#art_6), ed avra' efficacia, dalla entrata in vigore della presente legge fino ai 30 giugno 1949.
+La [L. 23 luglio 1948, n. 970](../DL%20e%20leggi%20di%20conversione/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md) ha disposto (con l'articolo unico) che "Il [decreto legislativo 5 febbraio 1948, n. 100](Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), recante disposizioni penali per il controllo delle armi, e' ratificato, ai sensi dell'[art. 6 del decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-03-16;98#art_6), ed avra' efficacia, dalla entrata in vigore della presente legge fino ai 30 giugno 1949.
 
 ## Art. 7.
 
@@ -105,7 +105,7 @@ Chiunque, al fine d'incutere pubblico timore o di suscitare tumulto o pubblico d
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 1948, n. 970](../Leggi%20di%20ratifica/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md) ha disposto (con l'articolo unico) che "Il [decreto legislativo 5 febbraio 1948, n. 100](Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), recante disposizioni penali per il controllo delle armi, e' ratificato, ai sensi dell'[art. 6 del decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-03-16;98#art_6), ed avra' efficacia, dalla entrata in vigore della presente legge fino ai 30 giugno 1949.
+La [L. 23 luglio 1948, n. 970](../DL%20e%20leggi%20di%20conversione/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md) ha disposto (con l'articolo unico) che "Il [decreto legislativo 5 febbraio 1948, n. 100](Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), recante disposizioni penali per il controllo delle armi, e' ratificato, ai sensi dell'[art. 6 del decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-03-16;98#art_6), ed avra' efficacia, dalla entrata in vigore della presente legge fino ai 30 giugno 1949.
 
 ## Art. 9.
 
@@ -115,7 +115,7 @@ La [L. 23 luglio 1948, n. 970](../Leggi%20di%20ratifica/Ratifica%20e%20proroga%2
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 1948, n. 970](../Leggi%20di%20ratifica/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md) ha disposto (con l'articolo unico) che "Il [decreto legislativo 5 febbraio 1948, n. 100](Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), recante disposizioni penali per il controllo delle armi, e' ratificato, ai sensi dell'[art. 6 del decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-03-16;98#art_6), ed avra' efficacia, dalla entrata in vigore della presente legge fino ai 30 giugno 1949.
+La [L. 23 luglio 1948, n. 970](../DL%20e%20leggi%20di%20conversione/Ratifica%20e%20proroga%20del%20decreto%20legislativo%205%20febbraio%201948%20n.%20100%20recante%20disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md) ha disposto (con l'articolo unico) che "Il [decreto legislativo 5 febbraio 1948, n. 100](Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), recante disposizioni penali per il controllo delle armi, e' ratificato, ai sensi dell'[art. 6 del decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-03-16;98#art_6), ed avra' efficacia, dalla entrata in vigore della presente legge fino ai 30 giugno 1949.
 
 ## Art. 10.
 

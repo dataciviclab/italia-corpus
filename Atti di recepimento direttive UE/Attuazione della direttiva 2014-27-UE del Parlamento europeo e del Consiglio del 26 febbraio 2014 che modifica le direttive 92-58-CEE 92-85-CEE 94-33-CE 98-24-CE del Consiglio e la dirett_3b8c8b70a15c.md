@@ -22,15 +22,15 @@ Visto il regolamento (UE) n. 453/2010 della Commissione del 20 maggio 2010, reca
 
 Visto il regolamento (UE) n. 830/2015 della Commissione del 28 maggio 2015, recante modifica del regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio concernente la registrazione, la valutazione, l'autorizzazione e la restrizione delle sostanze chimiche (REACH) per quanto riguarda l'Allegato II;
 
-Vista la [legge 9 luglio 2015, n. 114](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202014.%2015G00127.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - legge di delegazione europea 2014, e, in particolare, l'articolo 1 e l'allegato B;
+Vista la [legge 9 luglio 2015, n. 114](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202014.%2015G00127.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - legge di delegazione europea 2014, e, in particolare, l'articolo 1 e l'allegato B;
 
 Visto il [decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), recante attuazione della [direttiva 92/32/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;32) concernente classificazione, imballaggio ed etichettatura delle sostanze pericolose;
 
 Visto il [decreto legislativo 14 marzo 2003, n. 65](Attuazione%20delle%20direttive%201999-45-CE%20e%202001-60-CE%20relative%20alla%20classificazione%20allimballaggio%20e%20alletichettatura%20dei%20preparati%20pericolosi.md), recante attuazione della [direttiva 1999/45/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;45) e della [direttiva 2001/60/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;60) relative alla classificazione, all'imballaggio e all'etichettatura dei preparati pericolosi;
 
-Visto il [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), recante attuazione dell'[articolo 1 della legge 3 agosto 2007, n. 123](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20in%20tema%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20sul%20lavoro%20e%20delega%20al%20Governo%20per%20il%20riassetto%20e%20la%20riforma%20della%20normativa%20in%20materia.md), in materia di tutela della salute e della sicurezza nei luoghi di lavoro;
+Visto il [decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), recante attuazione dell'[articolo 1 della legge 3 agosto 2007, n. 123](../Leggi%20contenenti%20deleghe/Misure%20in%20tema%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20sul%20lavoro%20e%20delega%20al%20Governo%20per%20il%20riassetto%20e%20la%20riforma%20della%20normativa%20in%20materia.md), in materia di tutela della salute e della sicurezza nei luoghi di lavoro;
 
-Visto il [decreto legislativo 26 marzo 2001, n. 151](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md), contenente il Testo unico delle disposizioni legislative in materia di tutela e sostegno della maternita' e della paternita', a norma dell'[articolo 15 della legge 8 marzo 2000, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-08;53#art_15);
+Visto il [decreto legislativo 26 marzo 2001, n. 151](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md), contenente il Testo unico delle disposizioni legislative in materia di tutela e sostegno della maternita' e della paternita', a norma dell'[articolo 15 della legge 8 marzo 2000, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-08;53#art_15);
 
 Vista la [legge 17 ottobre 1967, n. 977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-10-17;977), recante disposizioni in materia di tutela del lavoro dei bambini e degli adolescenti;
 
@@ -50,7 +50,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Al [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), sono apportate le seguenti modificazioni: 
+Al [decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), sono apportate le seguenti modificazioni: 
  ((agli articoli 20, 36, 37, 50 e agli allegati XV, XXIV le parole)): «preparati pericolosi» sono sostituite dalle seguenti: «miscele pericolose», all'articolo 28 le parole: «preparati chimici» sono sostituite dalle seguenti: «miscele chimiche», agli articoli 223, 236, comma 4, lettera f), e all'allegato XLII la parola: «preparati» e' sostituita dalla seguente: «miscele» e all'articolo 236, comma 4, lettere a) e b), le parole: «preparati cancerogeni o mutageni» sono sostituite dalle seguenti: «miscele cancerogene o mutagene»; 
  b) agli articoli 228 e 235 la parola: «preparato» e' ((sostituita dalla seguente: "miscela";)) 
  c) all'articolo 222, comma 1, lettera b), sono apportate le seguenti modificazioni: 
@@ -98,12 +98,12 @@ Al [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%2
 
 1.
 
-Al [decreto legislativo 26 marzo 2001, n. 151](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md), allegato C, sono apportate le seguenti modificazioni:
+Al [decreto legislativo 26 marzo 2001, n. 151](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md), allegato C, sono apportate le seguenti modificazioni:
                         a)
                             alla sezione A: 
  1) il punto 2 e' sostituito dal seguente: 
  "2. Agenti biologici 
- Agenti biologici dei gruppi di rischio 2, 3 e 4 ai sensi dell'articolo 268, nonche' dell'Allegato XLVI del [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), nella misura in cui sia noto che tali agenti o le terapie che essi rendono necessarie mettono in pericolo la salute delle gestanti e del nascituro, sempreche' non figurino nell'Allegato B della presente legge."; 
+ Agenti biologici dei gruppi di rischio 2, 3 e 4 ai sensi dell'articolo 268, nonche' dell'Allegato XLVI del [decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), nella misura in cui sia noto che tali agenti o le terapie che essi rendono necessarie mettono in pericolo la salute delle gestanti e del nascituro, sempreche' non figurino nell'Allegato B della presente legge."; 
  2) al punto 3 sono apportate le seguenti modificazioni: 
  2.1) la lettera a) e' sostituita dalla seguente: 
  "a) sostanze e miscele che soddisfano i criteri di classificazione del regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio in una o piu' delle seguenti classi di pericolo e categorie di pericolo con una o piu' delle seguenti indicazioni di pericolo, sempreche' non figurino ancora nell'Allegato B della presente legge: 
@@ -112,14 +112,14 @@ Al [decreto legislativo 26 marzo 2001, n. 151](../Testi%20Unici/Testo%20unico%20
  - tossicita' per la riproduzione, categorie 1 A, 1 B o 2 o la categoria aggiuntiva per gli effetti sull'allattamento o attraverso di essa (H360, H360D, H360FD, H360Fd, H360Df, H361, H361d, H361fd, H362), 
  - tossicita' specifica per organi bersaglio dopo esposizione singola, categorie 1 o 2 (H370, H371)"; 
  2.2) la lettera b) e' sostituita dalla seguente: 
- "b) agenti chimici che figurano nell'allegato XLII del [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md);";
+ "b) agenti chimici che figurano nell'allegato XLII del [decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md);";
                         b)
                             la sezione B e' sostituita dalla seguente: 
  "B. Processi 
- Processi industriali che figurano nell'allegato XLII del [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md).".
+ Processi industriali che figurano nell'allegato XLII del [decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md).".
 
 Note all'art. 2: 
- - Il testo dell'allegato C al [decreto legislativo 26 marzo 2001, n. 151](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md) (Testo unico delle disposizioni legislative in materia di tutela e sostegno della maternita' e della paternita', a norma dell'[art. 15 della legge 8 marzo 2000, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-08;53#art_15)), modificato dal presente decreto, e' pubblicato nella Gazz. Uff 26 aprile 2001, n. 96, S.O.
+ - Il testo dell'allegato C al [decreto legislativo 26 marzo 2001, n. 151](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md) (Testo unico delle disposizioni legislative in materia di tutela e sostegno della maternita' e della paternita', a norma dell'[art. 15 della legge 8 marzo 2000, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-08;53#art_15)), modificato dal presente decreto, e' pubblicato nella Gazz. Uff 26 aprile 2001, n. 96, S.O.
 
 ## Art. 3. — Modifiche alla legge 17 ottobre 1967, n. 977
 
@@ -130,7 +130,7 @@ Alla [legge 17 ottobre 1967, n. 977](https://www.normattiva.it/uri-res/N2Ls?urn:
                             alla sezione I sono apportate le seguenti modificazioni: 
  1) il punto 2 e' sostituito dal seguente: 
  "2. Agenti biologici: 
- a) agenti biologici dei gruppi di rischio 3 e 4 ai sensi dell'[articolo 268 del decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md)."; 
+ a) agenti biologici dei gruppi di rischio 3 e 4 ai sensi dell'[articolo 268 del decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md)."; 
  2) il punto 3 e' sostituito dal seguente: 
  "3. Agenti chimici: 
  a) sostanze e miscele che soddisfano i criteri di classificazione del regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio in una o piu' delle seguenti classi di pericolo e categorie di pericolo con una o piu' delle seguenti indicazioni di pericolo: 
@@ -149,12 +149,12 @@ Alla [legge 17 ottobre 1967, n. 977](https://www.normattiva.it/uri-res/N2Ls?urn:
  - cancerogenicita', categorie 1 A, 1 B o 2 (H350, H350i, H351); 
  - mutagenicita' sulle cellule germinali, categorie 1 A, 1 B o 2 (H340, H341); 
  - tossicita' per la riproduzione, categorie 1 A o 1 B (H360, H360F, H360FD, H360Fd, H360D, H360Df). 
- b) sostanze e miscele di cui al Titolo IX, Capo II, del [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md); 
+ b) sostanze e miscele di cui al Titolo IX, Capo II, del [decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md); 
  c) piombo e composti; 
  d) amianto.";
                         b)
                             alla sezione II, il punto 1) e' sostituito dal seguente: 
- "1) Processi e lavori di cui all'allegato XLII del [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md).".
+ "1) Processi e lavori di cui all'allegato XLII del [decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md).".
 
 Note all'art. 3: 
  - Il testo dell'Allegato I alla citata [legge n. 977 del 1967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967;977), modificato dal presente decreto, e' pubblicato nella Gazzetta Ufficiale 6 novembre 1967, n. 276.

@@ -36,7 +36,7 @@ Nell'attuazione della delega di cui al comma 2, il Governo si attiene ai seguent
                         d)
                             aggiornamento e semplificazione del linguaggio normativo;
                         e)
-                            revisione del numero dei dipartimenti e delle direzioni generali, previste dal [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), sulla base di quanto disposto dal [comma 23 dell'articolo 1 del decreto-legge 18 maggio 2006, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181#art_1-com23), come modificato dalla presente legge, nel rispetto del principio di invarianza della spesa di cui al comma 25 dell'articolo 1 del medesimo decreto-legge.
+                            revisione del numero dei dipartimenti e delle direzioni generali, previste dal [decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), sulla base di quanto disposto dal [comma 23 dell'articolo 1 del decreto-legge 18 maggio 2006, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181#art_1-com23), come modificato dalla presente legge, nel rispetto del principio di invarianza della spesa di cui al comma 25 dell'articolo 1 del medesimo decreto-legge.
 
 4.
 

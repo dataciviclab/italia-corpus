@@ -20,13 +20,13 @@ Vista la [legge 26 ottobre 1995, n. 447](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto il [decreto legislativo 24 febbraio 1997, n. 39](Attuazione%20direttiva%2090-313-CEE%20concernente%20la%20liberta%20di%20accesso%20alle%20informazioni%20in%20materia%20di%20ambiente.md), e successive modificazioni, concernente la liberta' di accesso alle informazioni in materia di ambiente, e successive modificazioni;
 
-Visto il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, recante il nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md);
+Visto il [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e successive modificazioni, recante il nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md);
 
-Visto il [decreto legislativo del 18 febbraio 2005, n. 59](../Decreti%20Legislativi/Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md), di attuazione della [direttiva 96/61/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;61), relativa alla prevenzione e riduzione integrate dell'inquinamento;
+Visto il [decreto legislativo del 18 febbraio 2005, n. 59](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md), di attuazione della [direttiva 96/61/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;61), relativa alla prevenzione e riduzione integrate dell'inquinamento;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 maggio 2005;
 
-Acquisito il parere della Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), reso nella seduta del 30 giugno 2005;
+Acquisito il parere della Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), reso nella seduta del 30 giugno 2005;
 
 Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
 
@@ -58,7 +58,7 @@ Laddove non esplicitamente modificate dal presente decreto, si applicano le disp
 
 Avvertenza:
 
- Nella Gazzetta Ufficiale - serie generale - del 13 ottobre 2005 si procedera' alla ripubblicazione del testo del presente decreto legislativo, corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
+ Nella Gazzetta Ufficiale - serie generale - del 13 ottobre 2005 si procedera' alla ripubblicazione del testo del presente decreto legislativo, corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
 
 ## Art. 2. — Definizioni
 
@@ -66,7 +66,7 @@ Avvertenza:
 
 Ai fini del presente decreto si intende per:
                         a)
-                            «agglomerato»: area urbana, individuata dalla regione o provincia autonoma competente, costituita da uno o piu' centri abitati ai sensi dell'[articolo 3 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, contigui fra loro e la cui popolazione complessiva e' superiore a 100.000 abitanti;
+                            «agglomerato»: area urbana, individuata dalla regione o provincia autonoma competente, costituita da uno o piu' centri abitati ai sensi dell'[articolo 3 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e successive modificazioni, contigui fra loro e la cui popolazione complessiva e' superiore a 100.000 abitanti;
                         b)
                             «aeroporto principale»: un aeroporto civile o militare aperto al traffico civile in cui si svolgono piu' di 50.000 movimenti all'anno, intendendosi per movimento un'operazione di decollo o di atterraggio. Sono esclusi i movimenti a fini addestrativi su aeromobili definiti leggeri ai sensi della regolamentazione tecnica nazionale;
                         c)
@@ -104,7 +104,7 @@ Ai fini del presente decreto si intende per:
                         u)
                             «relazione dose-effetto»: la relazione fra il valore di un descrittore acustico e l'entita' di un effetto nocivo;
                         v)
-                            «siti di attivita' industriale»: aree classificate V o VI ai sensi delle norme vigenti in cui sono presenti attivita' industriali quali quelle definite nell'allegato 1 al [decreto legislativo 18 febbraio 2005, n. 59](../Decreti%20Legislativi/Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md);
+                            «siti di attivita' industriale»: aree classificate V o VI ai sensi delle norme vigenti in cui sono presenti attivita' industriali quali quelle definite nell'allegato 1 al [decreto legislativo 18 febbraio 2005, n. 59](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md);
                         z)
                             «valori limite»: un valore di Lden o Lnight e, se del caso, di Lday e Levening il cui superamento induce le autorita' competenti ad esaminare o applicare provvedimenti di attenuazione del rumore; i valori limite possono variare a seconda della tipologia di rumore, dell'ambiente circostante e del diverso uso del territorio; essi possono anche variare riguardo a situazioni esistenti o nuove come nel caso in cui cambi la sorgente di rumore o la destinazione d'uso dell'ambiente circostante;
                         aa)

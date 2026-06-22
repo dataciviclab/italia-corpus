@@ -16,7 +16,7 @@ Vista la [legge 25 gennaio 2006, n. 29](../Leggi%20di%20delegazione%20europea/Di
 
 Vista la [direttiva 2004/108/CE del Parlamento europeo e del Consiglio, del 15 dicembre 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;108), concernente il ravvicinamento delle legislazioni degli Stati membri relative alla compatibilita' elettromagnetica e che abroga la [direttiva 89/336/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336);
 
-Vista la [legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1994, ed in particolare l'articolo 47, comma 4;
+Vista la [legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1994, ed in particolare l'articolo 47, comma 4;
 
 Visto il [decreto legislativo 12 novembre 1996, n. 615](Attuazione%20della%20direttiva%2089-336-CEE%20del%20Consiglio%20del%203%20maggio%201989%20in%20materia%20di%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20compatibilita%20elettromagnetica%20modif_f10d34c04a81.md);
 
@@ -450,7 +450,7 @@ Per le apparecchiature immesse nel mercato o messe in servizio, le verifiche e i
                             c)
                                 l'acquisizione di tutte le informazioni necessarie all'accertamento;
                             d)
-                                il prelievo di campioni, a titolo gratuito, secondo le disposizioni di cui all'[articolo 47 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), e successive modificazioni, presso la catena di commercializzazione, per l'esecuzione di esami e prove;
+                                il prelievo di campioni, a titolo gratuito, secondo le disposizioni di cui all'[articolo 47 della legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), e successive modificazioni, presso la catena di commercializzazione, per l'esecuzione di esami e prove;
                             e)
                                 l'esame della documentazione in possesso del responsabile dell'immissione dell'apparecchio nel mercato o del responsabile dell'installazione dell'impianto fisso.
 
@@ -825,7 +825,7 @@ Qualora sia accertata una delle violazioni di cui ai commi 1, 2, 3, 4 e 5, l'org
 
 1.
 
-Alle attivita' di designazione e di rinnovo degli organismi di cui all'articolo 14, ai controlli successivi sui medesimi organismi ed ai controlli successivi dei prodotti sul mercato, si applicano le disposizioni di cui all'[articolo 47 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md).
+Alle attivita' di designazione e di rinnovo degli organismi di cui all'articolo 14, ai controlli successivi sui medesimi organismi ed ai controlli successivi dei prodotti sul mercato, si applicano le disposizioni di cui all'[articolo 47 della legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md).
 
 ((
 

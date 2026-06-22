@@ -61,7 +61,7 @@ L'intervento e' attuato dal Ministero dell'agricoltura e delle foreste (in appre
 La provincia autonoma di Trento e' esentata dall'applicazione del regime di ritiro dei seminativi dalla produzione ai sensi del regolamento CEE n. 1273/88.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il regolamento CEE n. 797/85 e' stato pubblicato nella "Gazzetta Ufficiale" delle Comunita' europee n. L 93 del 30 marzo 1985.
@@ -267,7 +267,7 @@ Sulla base delle proposte presentate dalle regioni e dalla provincia autonoma di
                         h)
                             territori a gestione sociale della caccia, ex [legge n. 968/1977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977;968);
                         i)
-                            aree di salvaguardia delle risorse idriche di cui all'[art. 4 del decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md);
+                            aree di salvaguardia delle risorse idriche di cui all'[art. 4 del decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md);
                         l)
                             zone svantaggiate di cui all'[art. 3, paragrafi 3 e 4, della direttiva CEE n. 75/268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;268). 
  Il Ministero, d'intesa con le predette amministrazioni, con successivo regolamento, potra' limitare la superficie delle zone preferenziali e in particolare di quelle indicate alla lettera l).(1) 

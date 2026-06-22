@@ -46,7 +46,7 @@ In relazione alla garanzia prestata a norma dell'ultimo comma del precedente art
 
 Tutti gli atti occorrenti per l'applicazione del presente decreto sono esenti dalle tasse di bollo e dalle imposte di registro ed ipotecarie, salvi gli emolumenti dovuti ai conservatori dei registri immobiliari. 
  
-Alle operazioni stesse non sono applicabili le limitazioni di cui all'art. 300 del testo unico della legge comunale e provinciale approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
+Alle operazioni stesse non sono applicabili le limitazioni di cui all'art. 300 del testo unico della legge comunale e provinciale approvato con [R. decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
 
 ## Art. 4.
 

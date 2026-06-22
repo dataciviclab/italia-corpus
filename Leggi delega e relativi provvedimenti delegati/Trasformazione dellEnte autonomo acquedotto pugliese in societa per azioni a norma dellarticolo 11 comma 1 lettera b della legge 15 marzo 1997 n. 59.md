@@ -154,7 +154,7 @@ per la semplificazione amministrativa) e' il seguente:
  112-nonies. Procedimenti per il rilascio delle autorizzazioni in materia di temporanee importazioni ed esportazioni:
  testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43, articoli da 175](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md) [a 221](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md).
  112-decies. Procedimento per la riscossione delle entrate patrimoniali dello Stato:
- testo unico approvato con [regio decreto 14 aprile 1910, n. 639](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
+ testo unico approvato con [regio decreto 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md).
  112-undecies. Procedimenti relativi a sorvoli, rilevamenti e riprese aeree e satellitari sul territorio nazionale e sulle acque territoriali:
  [regio decreto 22 luglio 1939, n. 1732](../Atti%20normativi%20abrogati%20%28in%20originale%29/Esecuzione%20e%20diffusione%20di%20rilevamenti%20aerofotografici%20aereocinematografici%20e%20aerofotogrammetrici%20per%20conto%20di%20privati%20o%20di%20enti%20nazionali%20o%20stranieri.%20039U1732.md);
  [regio decreto 11 luglio 1941, n. 1161](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20relative%20al%20segreto%20militare.%20041U1161.md);

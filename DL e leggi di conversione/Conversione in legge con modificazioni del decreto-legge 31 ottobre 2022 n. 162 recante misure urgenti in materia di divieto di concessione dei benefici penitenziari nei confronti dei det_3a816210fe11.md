@@ -18,7 +18,7 @@ Promulga la seguente legge:
 
 1.
 
-Il [decreto-legge 31 ottobre 2022, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-10-31;162), recante misure urgenti in materia di divieto di concessione dei benefici penitenziari nei confronti dei detenuti o internati che non collaborano con la giustizia, nonche' in materia di entrata in vigore del [decreto legislativo 10 ottobre 2022, n. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2027%20settembre%202021%20n.%20134%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20penale%20nonche%20in%20materia%20di%20giustizia%20riparativa%20e%20disposizioni%20per%20la%20celere%20defini_efcfada8a65f.md), di obblighi di vaccinazione anti SARS-COV-2 e di prevenzione e contrasto dei raduni illegali, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 31 ottobre 2022, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-10-31;162), recante misure urgenti in materia di divieto di concessione dei benefici penitenziari nei confronti dei detenuti o internati che non collaborano con la giustizia, nonche' in materia di entrata in vigore del [decreto legislativo 10 ottobre 2022, n. 150](../Decreti%20Legislativi/Attuazione%20della%20legge%2027%20settembre%202021%20n.%20134%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20penale%20nonche%20in%20materia%20di%20giustizia%20riparativa%20e%20disposizioni%20per%20la%20celere%20defini_efcfada8a65f.md), di obblighi di vaccinazione anti SARS-COV-2 e di prevenzione e contrasto dei raduni illegali, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
 2.
 

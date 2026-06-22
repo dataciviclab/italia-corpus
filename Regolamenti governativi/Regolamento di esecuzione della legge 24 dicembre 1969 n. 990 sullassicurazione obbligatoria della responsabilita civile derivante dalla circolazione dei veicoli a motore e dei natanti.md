@@ -277,7 +277,7 @@ Il Ministero dell'industria, del commercio e dell'artigianato, qualora constati 
 
 ### Art. 36. — (Registri obbligatori relativi ai sinistri)
 
-Le imprese autorizzate all'esercizio dell'assicurazione della responsabilita' civile per i danni causati dalla circolazione dei veicoli, debbono tenere presso la sede centrale, oltre ai registri e al repertorio di cui all'[art. 49 del regio decreto 4 gennaio 1925, n. 63](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md), i seguenti registri per l'assicurazione della responsabilita' civile per i danni causati dalla circolazione dei veicoli:
+Le imprese autorizzate all'esercizio dell'assicurazione della responsabilita' civile per i danni causati dalla circolazione dei veicoli, debbono tenere presso la sede centrale, oltre ai registri e al repertorio di cui all'[art. 49 del regio decreto 4 gennaio 1925, n. 63](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md), i seguenti registri per l'assicurazione della responsabilita' civile per i danni causati dalla circolazione dei veicoli:
  a) registro dei sinistri pagati, con l'indicazione di quelli pagati parzialmente;
  b) registro dei sinistri eliminati senza pagamento di indennizzo;
  c) registro dei sinistri ancora da pagare alla chiusura
@@ -500,7 +500,7 @@ Nel caso in cui la commissione consultiva per le assicurazioni private sia richi
  nell'esercizio)
 
 Ai fini del calcolo della riserva sinistri si considerano come sinistri avvenuti in un determinato esercizio tutti i sinistri verificatisi nell'esercizio stesso qualunque sia la data della denuncia. Per i sinistri non ancora denunciati ((entro il 31 dicembre dell'esercizio)), si procedera' ad una stima del numero e degli importi dei sinistri stessi da imputare a riserva sulla base delle esperienze acquisite negli esercizi precedenti e dei costi medi dei sinistri denunciati nell'esercizio.
- COMMA ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 175](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-49-CEE%20in%20materia%20di%20assicurazione%20diretta%20diversa%20dallassicurazione%20sulla%20vita.md).
+ COMMA ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 175](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2092-49-CEE%20in%20materia%20di%20assicurazione%20diretta%20diversa%20dallassicurazione%20sulla%20vita.md).
 
 ### Art. 71. — (Azione per conseguire le prestazioni di cui all'art. 37 della legge)
 

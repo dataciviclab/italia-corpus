@@ -20,7 +20,7 @@ Vista la [legge 11 gennaio 1943, n. 138](https://www.normattiva.it/uri-res/N2Ls?
 
 Visti i contratti collettivi concernenti l'assistenza di malattia ai salariati agricoli ed ai mezzadri e coloni;
 
-Visto lo statuto della Federazione nazionale delle mutue di malattia per i lavoratori agricoli approvato con [R. Decreto 4 dicembre 1939, n. 2221](../Regi%20decreti/Approvazione%20del%20nuovo%20statuto%20della%20Federazione%20nazionale%20fascista%20delle%20mutue%20di%20malattia%20per%20i%20lavoratori%20agricoli.%20039U2221.md);
+Visto lo statuto della Federazione nazionale delle mutue di malattia per i lavoratori agricoli approvato con [R. Decreto 4 dicembre 1939, n. 2221](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20statuto%20della%20Federazione%20nazionale%20fascista%20delle%20mutue%20di%20malattia%20per%20i%20lavoratori%20agricoli.%20039U2221.md);
 
 Visto il [R. decreto-legge 28 novembre 1938, n. 2138](../Atti%20normativi%20abrogati%20%28in%20originale%29/Unificazione%20e%20semplificazione%20dellaccertamento%20e%20della%20riscossione%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassiste_ed400f196b72.md), convertito, con modificazioni, nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), e successive modificazioni;
 

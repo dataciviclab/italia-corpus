@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), che approva il testo unico delle leggi sull'ordinamento della Corte dei conti;
+Visto il [R. decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), che approva il testo unico delle leggi sull'ordinamento della Corte dei conti;
 
 Visto il [R. decreto 12 ottobre 1933, n. 1364](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20carriera%20e%20la%20disciplina%20del%20personale%20della%20Corte%20dei%20conti.%20033U1364.md), che approva il regolamento per la carriera e la disciplina del personale della Corte dei conti;
 
@@ -68,13 +68,13 @@ Sono presentati all'ufficio distaccato per il controllo preventivo e la registra
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. Presidenziale 27 giugno 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;37) ha disposto (con l'art. 21, comma 1) che "Fino al 30 giugno 1947, sono decuplicati i limiti di spesa stabiliti nell'art. 3, 1° comma, del [decreto legislativo luogotenenziale 14 giugno 1945, n. 355](Istituzione%20di%20uffici%20distaccati%20della%20Corte%20dei%20conti%20presso%20i%20Provveditorati%20regionali%20alle%20opere%20pubbliche.%20045U0355.md)".
+Il [D.Lgs. Presidenziale 27 giugno 1946, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;37) ha disposto (con l'art. 21, comma 1) che "Fino al 30 giugno 1947, sono decuplicati i limiti di spesa stabiliti nell'art. 3, 1° comma, del [decreto legislativo luogotenenziale 14 giugno 1945, n. 355](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20uffici%20distaccati%20della%20Corte%20dei%20conti%20presso%20i%20Provveditorati%20regionali%20alle%20opere%20pubbliche.%20045U0355.md)".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 17 aprile 1948, n. 777](../Decreti%20Legislativi/Modificazioni%20alle%20disposizioni%20sulla%20esecuzione%20di%20opere%20pubbliche%20e%20alle%20norme%20sulla%20costituzione%20ed%20il%20funzionamento%20dei%20Provveditorati%20alle%20opere%20pubbliche.md) ha disposto (con l'art. 10, comma 1) che "Con effetto dal 1 luglio 1947, e sino al 31 dicembre 1947, sono decuplicati i limiti di spesa stabiliti nell'[art. 3, primo comma, del decreto legislativo luogotenenziale 14 giugno 1945, n. 355](Istituzione%20di%20uffici%20distaccati%20della%20Corte%20dei%20conti%20presso%20i%20Provveditorati%20regionali%20alle%20opere%20pubbliche.%20045U0355.md)".
+Il [D.Lgs. 17 aprile 1948, n. 777](../Decreti%20Legislativi/Modificazioni%20alle%20disposizioni%20sulla%20esecuzione%20di%20opere%20pubbliche%20e%20alle%20norme%20sulla%20costituzione%20ed%20il%20funzionamento%20dei%20Provveditorati%20alle%20opere%20pubbliche.md) ha disposto (con l'art. 10, comma 1) che "Con effetto dal 1 luglio 1947, e sino al 31 dicembre 1947, sono decuplicati i limiti di spesa stabiliti nell'[art. 3, primo comma, del decreto legislativo luogotenenziale 14 giugno 1945, n. 355](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20uffici%20distaccati%20della%20Corte%20dei%20conti%20presso%20i%20Provveditorati%20regionali%20alle%20opere%20pubbliche.%20045U0355.md)".
 
 ## Art. 4.
 
@@ -96,7 +96,7 @@ Al primo referendario o referendario direttore di ufficio, competono tutti i pot
 
 ## Art. 7.
 
-Per quanto non previsto nel presente decreto si applicano le norme del testo unico delle leggi sull'ordinamento della Corte dei conti, approvato con [R. decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), e le altre disposizioni relative alla Corte medesima.
+Per quanto non previsto nel presente decreto si applicano le norme del testo unico delle leggi sull'ordinamento della Corte dei conti, approvato con [R. decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), e le altre disposizioni relative alla Corte medesima.
 
 ## Art. 8.
 

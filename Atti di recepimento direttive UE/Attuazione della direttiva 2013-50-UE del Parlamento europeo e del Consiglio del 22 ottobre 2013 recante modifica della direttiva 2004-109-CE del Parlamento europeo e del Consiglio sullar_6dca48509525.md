@@ -16,13 +16,13 @@ Vista la [direttiva 2013/50/UE del 22 ottobre 2013](https://www.normattiva.it/ur
 
 Vista la [direttiva 2013/34/UE del 26 giugno 2013 del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2013;34) relativa ai bilanci d'esercizio, ai bilanci consolidati e alle relative relazioni di talune tipologie di imprese, recante modifica della [direttiva 2006/43/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;43) e abrogazione delle [direttive 78/660/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;660) e [83/349/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1983;349);
 
-Vista la [legge 9 luglio 2015, n. 114](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202014.%2015G00127.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea, legge di delegazione europea 2014 in particolare l'articolo 1, commi 1 e 3, l'articolo 5 e l'allegato B;
+Vista la [legge 9 luglio 2015, n. 114](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202014.%2015G00127.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea, legge di delegazione europea 2014 in particolare l'articolo 1, commi 1 e 3, l'articolo 5 e l'allegato B;
 
 Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md), recante norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea;
 
-Visto il [decreto legislativo 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), recante attuazione della [direttiva 2013/34/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2013;34) relativa ai bilanci d'esercizio, ai bilanci consolidati e alle relative relazioni di talune tipologie di imprese, recante modifica della [direttiva 2006/43/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;43) e abrogazione delle [direttive 78/660/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;660) e [83/349/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1983;349), per la parte relativa alla disciplina del bilancio di esercizio e di quello consolidato per le societa' di capitali e gli altri soggetti individuati dalla legge;
+Visto il [decreto legislativo 18 agosto 2015, n. 139](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), recante attuazione della [direttiva 2013/34/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2013;34) relativa ai bilanci d'esercizio, ai bilanci consolidati e alle relative relazioni di talune tipologie di imprese, recante modifica della [direttiva 2006/43/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;43) e abrogazione delle [direttive 78/660/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;660) e [83/349/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1983;349), per la parte relativa alla disciplina del bilancio di esercizio e di quello consolidato per le societa' di capitali e gli altri soggetti individuati dalla legge;
 
-Visto il [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), recante il testo unico delle disposizioni in materia di intermediazione finanziaria, ai sensi degli [articoli 8](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) e [21 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md);
+Visto il [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), recante il testo unico delle disposizioni in materia di intermediazione finanziaria, ai sensi degli [articoli 8](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) e [21 della legge 6 febbraio 1996, n. 52](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md);
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 13 novembre 2015;
 
@@ -38,7 +38,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-All'[articolo 1, comma 1, del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 1, comma 1, del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             la lettera w) e' sostituita dalla seguente: «w) "emittenti quotati": i soggetti, italiani o esteri, inclusi i trust, che emettono strumenti finanziari quotati in un mercato regolamentato italiano. Nel caso di ricevute di deposito ammesse alle negoziazioni in un mercato regolamentato, per emittente si intende l'emittente dei valori mobiliari rappresentati, anche qualora tali valori non sono ammessi alla negoziazione in un mercato regolamentato;»;
                         b)
@@ -54,7 +54,7 @@ All'[articolo 1, comma 1, del decreto legislativo 24 febbraio 1998, n. 58](../Te
 
 2.
 
-All'[articolo 62, comma 2, del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 62, comma 2, del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             alla lettera a) le parole: «e degli strumenti finanziari» sono soppresse;
                         b)
@@ -62,7 +62,7 @@ All'[articolo 62, comma 2, del decreto legislativo 24 febbraio 1998, n. 58](../T
 
 3.
 
-All'[articolo 64 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 64 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, lettera c), dopo le parole: «la sospensione degli strumenti finanziari» sono inserite le seguenti: «dalla quotazione e dalle negoziazioni»;
                         b)
@@ -72,22 +72,22 @@ All'[articolo 64 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Uni
 
 4.
 
-Dopo l'[articolo 91 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' inserito il seguente: 
+Dopo l'[articolo 91 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' inserito il seguente: 
  «Art. 91-bis (Comunicazione dello Stato membro d'origine). - 1.
 Nei casi previsti dall'articolo 1, comma 1, lettera w-quater), gli emittenti comunicano lo Stato membro d'origine in conformita' all'articolo 113-ter e alle disposizioni adottate dalla Consob con regolamento. La medesima comunicazione e' effettuata alle autorita' competenti dello Stato membro in cui l'emittente ha la sede legale, ove applicabile, nonche' alle autorita' competenti dello Stato membro d'origine e degli Stati membri ospitanti. 
  2. Per gli emittenti indicati all'articolo 1, comma 1, lettera w-quater), numeri 3), 4) e 4-bis), che non hanno effettuato la comunicazione dello Stato membro d'origine entro tre mesi dalla data in cui i valori mobiliari sono stati ammessi alla negoziazione, per la prima volta nell'Unione europea, unicamente in un mercato regolamentato italiano, lo Stato membro d'origine e' l'Italia. Per gli emittenti valori mobiliari ammessi alla negoziazione in mercati regolamentati di piu' Stati membri, inclusa l'Italia, in assenza della comunicazione richiesta dal comma 1, sia l'Italia che tali altri Stati membri sono considerati Stato membro d'origine, fino alla successiva scelta e relativa comunicazione.».
 
 5.
 
-All'[articolo 93-bis, comma 1, lettera f), n. 3), del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), le parole: «2003/71/CE» sono sostituite dalle seguenti: «2013/50/UE» e le parole: «qualora lo Stato membro d'origine non fosse stato determinato da una loro scelta;» sono sostituite dalle seguenti: «nelle seguenti circostanze: 3.1 qualora lo Stato membro d'origine non fosse stato determinato da una loro scelta, o 3.2 ai sensi dell'articolo 2, paragrafo 1, lettera i), punto iii), della [direttiva 2004/109/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;109)».
+All'[articolo 93-bis, comma 1, lettera f), n. 3), del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), le parole: «2003/71/CE» sono sostituite dalle seguenti: «2013/50/UE» e le parole: «qualora lo Stato membro d'origine non fosse stato determinato da una loro scelta;» sono sostituite dalle seguenti: «nelle seguenti circostanze: 3.1 qualora lo Stato membro d'origine non fosse stato determinato da una loro scelta, o 3.2 ai sensi dell'articolo 2, paragrafo 1, lettera i), punto iii), della [direttiva 2004/109/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;109)».
 
 6.
 
-All'[articolo 120, comma 2, del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), la parola: «due» e' sostituita dalla seguente: «tre».
+All'[articolo 120, comma 2, del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), la parola: «due» e' sostituita dalla seguente: «tre».
 
 7.
 
-All'[articolo 154-ter del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 154-ter del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1 le parole: «centoventi giorni» sono sostituite dalla seguenti: «quattro mesi»;
                         b)
@@ -107,14 +107,14 @@ All'[articolo 154-ter del decreto legislativo 24 febbraio 1998, n. 58](../Testi%
 
 8.
 
-Dopo l'[articolo 154-ter del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' inserito il seguente: 
- «Art. 154-quater (Trasparenza dei pagamenti ai governi). - 1. Gli emittenti quotati aventi l'Italia come Stato membro d'origine, operanti in uno dei settori di cui all'[articolo 1, comma 1, lettere h)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md) ed [i), del decreto legislativo 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), pubblicano, nel proprio sito internet e con le altre modalita' previste dalla Consob con regolamento, la relazione sui pagamenti ai governi redatta in conformita' alle disposizioni contenute nel Capo I del medesimo decreto, entro sei mesi dalla data di chiusura dell'esercizio. 
+Dopo l'[articolo 154-ter del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e' inserito il seguente: 
+ «Art. 154-quater (Trasparenza dei pagamenti ai governi). - 1. Gli emittenti quotati aventi l'Italia come Stato membro d'origine, operanti in uno dei settori di cui all'[articolo 1, comma 1, lettere h)](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md) ed [i), del decreto legislativo 18 agosto 2015, n. 139](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), pubblicano, nel proprio sito internet e con le altre modalita' previste dalla Consob con regolamento, la relazione sui pagamenti ai governi redatta in conformita' alle disposizioni contenute nel Capo I del medesimo decreto, entro sei mesi dalla data di chiusura dell'esercizio. 
  2. La medesima relazione resta a disposizione del pubblico per un periodo di dieci anni dalla prima pubblicazione. 
  3. I pagamenti ai governi sono riportati a livello consolidato.».
 
 9.
 
-All'[articolo 192-bis del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 192-bis del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             il comma 1 e' sostituito dal seguente: 
  «1. Salvo che il fatto costituisca reato, nei confronti delle societa' quotate nei mercati regolamentati che omettono le comunicazioni prescritte dall'articolo 123-bis, comma 2, lettera a), si applicano le seguenti misure e sanzioni amministrative: 
@@ -132,7 +132,7 @@ All'[articolo 192-bis del decreto legislativo 24 febbraio 1998, n. 58](../Testi%
 
 10.
 
-All'[articolo 193 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+All'[articolo 193 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             il comma 1 e' sostituito dal seguente: «1. Salvo che il fatto costituisca reato, nei confronti di societa', enti o associazioni tenuti a effettuare le comunicazioni previste dagli articoli 114, 114-bis, 115, 154-bis, 154-ter e 154-quater, o soggetti agli obblighi di cui all'articolo 115-bis per l'inosservanza delle disposizioni degli articoli medesimi o delle relative disposizioni attuative, si applicano le seguenti misure e sanzioni amministrative: 
  a) una dichiarazione pubblica indicante la persona giuridica responsabile della violazione e la natura della stessa; 
@@ -168,15 +168,15 @@ All'[articolo 193 del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Un
 
 11.
 
-All'[articolo 194-bis, comma 1, del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), dopo le parole: «Nella determinazione» sono inserite le seguenti: «del tipo e».
+All'[articolo 194-bis, comma 1, del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), dopo le parole: «Nella determinazione» sono inserite le seguenti: «del tipo e».
 
 12.
 
-All'[articolo 194-quater, comma 1, del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), le parole: «115-bis» sono soppresse.
+All'[articolo 194-quater, comma 1, del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), le parole: «115-bis» sono soppresse.
 
 13.
 
-All'[articolo 194-quinquies, comma 1, lettera c), del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), le parole: «comma 1,» sono sostituite dalle seguenti: «commi 1, 1.1 e 1.2,» e le parole: «comma 2» sono sostituite dalle seguenti: «commi 2, 2.1, 2.2 e 2.3,».
+All'[articolo 194-quinquies, comma 1, lettera c), del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), le parole: «comma 1,» sono sostituite dalle seguenti: «commi 1, 1.1 e 1.2,» e le parole: «comma 2» sono sostituite dalle seguenti: «commi 2, 2.1, 2.2 e 2.3,».
 
 14.
 
@@ -190,11 +190,11 @@ Per gli emittenti valori mobiliari ammessi alla negoziazione in un mercato regol
 
 2.
 
-Gli emittenti di cui all'articolo 1, lettera w-quater), numeri 3), 4) e 4-bis), del [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), che hanno scelto l'Italia quale Stato membro d'origine e hanno effettuato la comunicazione prima del 27 novembre 2015, sono esentati dall'obbligo di comunicazione, salvo che scelgano un altro Stato membro d'origine dopo tale data.
+Gli emittenti di cui all'articolo 1, lettera w-quater), numeri 3), 4) e 4-bis), del [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), che hanno scelto l'Italia quale Stato membro d'origine e hanno effettuato la comunicazione prima del 27 novembre 2015, sono esentati dall'obbligo di comunicazione, salvo che scelgano un altro Stato membro d'origine dopo tale data.
 
 3.
 
-La Consob provvede ad integrare la disciplina del [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), cosi' come modificata dal presente decreto legislativo, apportando le opportune modifiche ai propri regolamenti, al fine di garantire la piena rispondenza agli obblighi di trasparenza di cui alla [direttiva 2004/109/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;109), cosi' come modificata dalla [direttiva 2013/50/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2013;50), con particolare riferimento agli obblighi di tempestiva diffusione al pubblico delle informazioni sui soggetti che superano determinate soglie partecipative nelle societa' quotate.
+La Consob provvede ad integrare la disciplina del [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), cosi' come modificata dal presente decreto legislativo, apportando le opportune modifiche ai propri regolamenti, al fine di garantire la piena rispondenza agli obblighi di trasparenza di cui alla [direttiva 2004/109/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;109), cosi' come modificata dalla [direttiva 2013/50/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2013;50), con particolare riferimento agli obblighi di tempestiva diffusione al pubblico delle informazioni sui soggetti che superano determinate soglie partecipative nelle societa' quotate.
 
 Note all'art. 2: 
  Il testo del comma 1 dell'art. 1 del citato [decreto legislativo n. 58 del 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58), come modificato dal comma 1 dell'art. 1 del presente decreto, e' riportato nelle Note all'art. 1. 

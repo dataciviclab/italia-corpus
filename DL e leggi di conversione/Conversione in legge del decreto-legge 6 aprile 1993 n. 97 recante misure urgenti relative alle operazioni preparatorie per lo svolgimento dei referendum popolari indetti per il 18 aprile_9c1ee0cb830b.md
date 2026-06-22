@@ -21,13 +21,13 @@ PROMULGA la seguente legge:
 E' convertito in legge il [decreto-legge 6 aprile 1993, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-04-06;97), recante misure urgenti relative alle operazioni preparatorie per lo svolgimento dei referendum popolari indetti per il 18 aprile 1993.
  AVVERTENZA:
  Il [decreto-legge 6 aprile 1993, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-04-06;97), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 80 del 6 aprile 1993.
- In questa stessa Gazzetta Ufficiale, alla pag. 40, e' ripubblicato il testo del [decreto-legge 6 aprile 1993, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-04-06;97), corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
+ In questa stessa Gazzetta Ufficiale, alla pag. 40, e' ripubblicato il testo del [decreto-legge 6 aprile 1993, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-04-06;97), corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
 
 ## Art. 2.
 
 1.
 
-Nell'articolo 50 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), la parola: "marittimi", ovunque ricorra, e' sostituita dalla seguente: "naviganti".
+Nell'articolo 50 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20recanti%20norme%20per%20la%20elezione%20della%20Camera%20dei%20deputati.md), la parola: "marittimi", ovunque ricorra, e' sostituita dalla seguente: "naviganti".
 
 2.
 
@@ -38,7 +38,7 @@ La lettera a) del secondo comma dell'articolo 50 del citato testo unico approvat
 
 1.
 
-Dopo il comma sesto dell'articolo 47 del testo unico delle leggi per la composizione e la elezione degli organi delle amministrazioni comunali, approvato con [decreto del Presidente della Repubblica 16 maggio 1960, n. 570](../Testi%20Unici/Testo%20unico%20delle%20leggi%20per%20la%20composizione%20e%20la%20elezione%20degli%20organi%20delle%20Amministrazioni%20comunali.md), e' inserito il seguente:
+Dopo il comma sesto dell'articolo 47 del testo unico delle leggi per la composizione e la elezione degli organi delle amministrazioni comunali, approvato con [decreto del Presidente della Repubblica 16 maggio 1960, n. 570](../DPR/Testo%20unico%20delle%20leggi%20per%20la%20composizione%20e%20la%20elezione%20degli%20organi%20delle%20Amministrazioni%20comunali.md), e' inserito il seguente:
  "Quindi il presidente, constatata l'integrita' del sigillo che chiude il plico contenente il bollo della sezione, lo apre e, dopo aver fatta attestazione nel verbale del numero indicato sul bollo, imprime il bollo stesso a tergo di ciascuna scheda".
 
 2.

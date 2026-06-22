@@ -33,7 +33,7 @@ Emana il seguente decreto-legge:
 
 1.
 
-Al testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), sono apportate le seguenti modifiche:
+Al testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono apportate le seguenti modifiche:
                         a)
                             all'articolo 7, il comma 10 e' sostituito dal seguente:
 "10. Nel rispetto delle condizioni previste dalle direttive comunitarie applicabili alle banche, la Banca d'Italia scambia informazioni con ((tutte le)) altre autorita' e soggetti esteri indicati dalle direttive medesime.";
@@ -51,7 +51,7 @@ Al testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto 
                         c)
                             l'articolo 59 e' cosi' modificato:
  1) la lettera b) del comma 1 e' sostituita dalla seguente:
-"b) per "societa' finanziarie" si intendono le societa' che esercitano, in via esclusiva o prevalente: l'attivita' di assunzione di partecipazioni aventi le caratteristiche indicate dalla Banca d'Italia in conformita' alle delibere del CICR; una o piu' delle attivita' previste dall'articolo 1, comma 2, lettera f), numeri da 2 a 12; altre attivita' finanziarie previste ai sensi del numero 15 della medesima lettera; le attivita' di cui all'[articolo 1, comma 1, lettera n), del decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md); ";
+"b) per "societa' finanziarie" si intendono le societa' che esercitano, in via esclusiva o prevalente: l'attivita' di assunzione di partecipazioni aventi le caratteristiche indicate dalla Banca d'Italia in conformita' alle delibere del CICR; una o piu' delle attivita' previste dall'articolo 1, comma 2, lettera f), numeri da 2 a 12; altre attivita' finanziarie previste ai sensi del numero 15 della medesima lettera; le attivita' di cui all'[articolo 1, comma 1, lettera n), del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md); ";
  2) la lettera c) del comma 1 e' sostituita dalla seguente:
 "c) per "societa' strumentali" si intendono le societa' che esercitano, in via esclusiva o prevalente, attivita' che hanno carattere ausiliario dell'attivita' delle societa' del gruppo, comprese quelle consistenti nella proprieta' e nell'amministrazione di immobili e nella gestione di servizi anche informatici.";
  3) dopo il comma 1, e' aggiunto, in fine, il seguente:
@@ -74,7 +74,7 @@ Al testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto 
  1) il comma 1 e' sostituito dal seguente:
 "1. Al fine di ((esercitare)) la vigilanza su base consolidata, la Banca d'Italia richiede ai soggetti indicati nelle lettere da a) a c) del comma 1 dell'articolo 65 la trasmissione, anche periodica, di situazioni e dati, nonche' ogni altra informazione utile. La Banca d'Italia puo' altresi' richiedere ai soggetti indicati nelle lettere h) ed i) del comma 1 dell'articolo 65 le informazioni utili all'esercizio della vigilanza su base consolidata.";
  2) il comma 3 e' sostituito dal seguente:
-"3. La Banca d'Italia puo' disporre nei confronti dei soggetti indicati nelle lettere da a) a c) del comma 1 dell'articolo 65 l'applicazione delle disposizioni previste dalla parte IV, titolo III, capo II, sezione VI, del [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).";
+"3. La Banca d'Italia puo' disporre nei confronti dei soggetti indicati nelle lettere da a) a c) del comma 1 dell'articolo 65 l'applicazione delle disposizioni previste dalla parte IV, titolo III, capo II, sezione VI, del [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).";
  3) al comma 4, le parole: ", aventi sede legale in Italia," sono soppresse;
                         h)
                             l'articolo 67 e' cosi' modificato:
@@ -128,7 +128,7 @@ Al testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto 
 
 1.
 
-Al testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
+Al testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), sono apportate le seguenti modificazioni:
                         a)
                             l'articolo 6 e' cosi' modificato:
  1) al comma 1, lettera a), dopo le parole: "controlli interni" sono aggiunte, in fine, le seguenti: ", nonche' l'informativa da rendere al pubblico sulle stesse materie";
@@ -188,7 +188,7 @@ In esecuzione dell'ordinanza del Presidente della Corte di giustizia delle Comun
 
 1.
 
-In attuazione della decisione n. 1719/2006/CE del Parlamento europeo e del Consiglio, del 15 novembre 2006, e' costituita, ai sensi dell'[articolo 8 del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), l'Agenzia nazionale per i giovani, con sede in Roma. Le funzioni di indirizzo e vigilanza sull'Agenzia sono esercitate congiuntamente dal Presidente del Consiglio dei Ministri o dal Ministro delegato per le politiche giovanili e dal Ministro della solidarieta' sociale.
+In attuazione della decisione n. 1719/2006/CE del Parlamento europeo e del Consiglio, del 15 novembre 2006, e' costituita, ai sensi dell'[articolo 8 del decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), l'Agenzia nazionale per i giovani, con sede in Roma. Le funzioni di indirizzo e vigilanza sull'Agenzia sono esercitate congiuntamente dal Presidente del Consiglio dei Ministri o dal Ministro delegato per le politiche giovanili e dal Ministro della solidarieta' sociale.
 
 2.
 

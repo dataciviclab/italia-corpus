@@ -125,7 +125,7 @@ CAPO III
 ### Art. 16.
 
 I pagamenti graveranno sul bilancio del Ministero del tesoro.
- L'ufficio competente, nell'eseguire i pagamenti, comunica alla competente Intendenza di finanza, in conformita' del disposto dell'[art. 14 del regio decreto 16 dicembre 1940, n. 1957](../Regi%20decreti/Norme%20integrative%20e%20regolamentari%20per%20lattuazione%20della%20legge%2026%20ottobre%201940-XVIII%20n.%201543%20sul%20risarcimento%20dei%20danni%20di%20guerra.%20040U1957.md), le generalita' dell'avente diritto al rimborso, la somma assegnatagli ed il titolo relativo.
+ L'ufficio competente, nell'eseguire i pagamenti, comunica alla competente Intendenza di finanza, in conformita' del disposto dell'[art. 14 del regio decreto 16 dicembre 1940, n. 1957](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20integrative%20e%20regolamentari%20per%20lattuazione%20della%20legge%2026%20ottobre%201940-XVIII%20n.%201543%20sul%20risarcimento%20dei%20danni%20di%20guerra.%20040U1957.md), le generalita' dell'avente diritto al rimborso, la somma assegnatagli ed il titolo relativo.
 
 ### Art. 17.
 

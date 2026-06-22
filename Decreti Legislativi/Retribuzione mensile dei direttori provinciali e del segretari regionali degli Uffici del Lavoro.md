@@ -23,7 +23,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 ## Art. 1.
 
 La retribuzione lorda mensile per i direttori provinciali e i segretari regionali degli Uffici del Lavoro e' stabilita, a decorrere dal 31 maggio 1947, nella misura di L. 13.900.
- L'assegno speciale annuo lordo di L. 2400, stabilito a favore dei direttori provinciali, con l'annotazione alla tabella A, annessa al [regio decreto legislativo 20 maggio 1946, n. 450](../Regi%20decreti%20legislativi/Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md), e' soppresso.
+ L'assegno speciale annuo lordo di L. 2400, stabilito a favore dei direttori provinciali, con l'annotazione alla tabella A, annessa al [regio decreto legislativo 20 maggio 1946, n. 450](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trattamento%20economico%20del%20personale%20degli%20Uffici%20regionali%20e%20provinciali%20del%20lavoro.md), e' soppresso.
 
 ## Art. 2.
 

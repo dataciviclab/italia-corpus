@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-((PROVVEDIMENTO ABROGATO DAL [D. LGS. 21 MAGGIO 2004, N. 151](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md))).
+((PROVVEDIMENTO ABROGATO DAL [D. LGS. 21 MAGGIO 2004, N. 151](Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md))).
 
 ## Art. 2.
 

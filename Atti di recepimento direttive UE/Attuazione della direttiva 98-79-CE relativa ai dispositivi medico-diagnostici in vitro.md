@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 21 dicembre 1999, n. 526](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md);
+Vista la [legge 21 dicembre 1999, n. 526](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md);
 
 Vista la [direttiva 98/79/CE del Parlamento europeo e del Consiglio del 27 ottobre 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;79), relativa ai dispositivi medico-diagnostici in vitro;
 
@@ -33,7 +33,7 @@ Emana il seguente decreto legislativo:
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 2.
 
@@ -44,7 +44,7 @@ Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 3.
 
@@ -55,7 +55,7 @@ Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 4.
 
@@ -66,7 +66,7 @@ Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 5.
 
@@ -77,7 +77,7 @@ Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 6.
 
@@ -88,7 +88,7 @@ Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 7.
 
@@ -99,7 +99,7 @@ Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 8. — Organismi notificati
 
@@ -164,7 +164,7 @@ Se un organismo notificato constata che i requisiti pertinenti previsti dal pres
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 6) che "L'[articolo 8, commi 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332#art_8-com7) e [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332#art_8-com8) e l'[articolo 9, comma 9, del decreto legislativo n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332#art_9-com9), sono abrogati decorsi ventiquattro mesi dalla data di pubblicazione dell'avviso di cui all'articolo 34, paragrafo 3, del regolamento (UE) n. 2017/745". 
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 6) che "L'[articolo 8, commi 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332#art_8-com7) e [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332#art_8-com8) e l'[articolo 9, comma 9, del decreto legislativo n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332#art_9-com9), sono abrogati decorsi ventiquattro mesi dalla data di pubblicazione dell'avviso di cui all'articolo 34, paragrafo 3, del regolamento (UE) n. 2017/745". 
  Ha inoltre disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 9. — Valutazione della conformita'
@@ -226,7 +226,7 @@ L'organismo notificato puo' richiedere, giustificando debitamente la richiesta, 
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 6) che "L'[articolo 8, commi 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332#art_8-com7) e [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332#art_8-com8) e l'[articolo 9, comma 9, del decreto legislativo n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332#art_9-com9), sono abrogati decorsi ventiquattro mesi dalla data di pubblicazione dell'avviso di cui all'articolo 34, paragrafo 3, del regolamento (UE) n. 2017/745". 
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 6) che "L'[articolo 8, commi 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332#art_8-com7) e [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332#art_8-com8) e l'[articolo 9, comma 9, del decreto legislativo n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332#art_9-com9), sono abrogati decorsi ventiquattro mesi dalla data di pubblicazione dell'avviso di cui all'articolo 34, paragrafo 3, del regolamento (UE) n. 2017/745". 
  Ha inoltre disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 10. — Registrazione dei fabbricanti e dei dispositivi
@@ -274,7 +274,7 @@ Le modalita' di applicazione del presente articolo sono adottate dal Ministero d
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 3) che "L'[articolo 10 del decreto legislativo n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332#art_10), e' abrogato decorsi ventiquattro mesi dalla data di pubblicazione dell'avviso di cui all'articolo 34, paragrafo 3, del regolamento (UE) n. 2017/745". 
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 3) che "L'[articolo 10 del decreto legislativo n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332#art_10), e' abrogato decorsi ventiquattro mesi dalla data di pubblicazione dell'avviso di cui all'articolo 34, paragrafo 3, del regolamento (UE) n. 2017/745". 
  Ha inoltre disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 11. — Procedura di vigilanza
@@ -312,7 +312,7 @@ Le modalita' di applicazione del presente articolo sono adottate dal Ministero d
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 2) che "L'[articolo 11 del decreto legislativo n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332#art_11), e' abrogato decorsi sei mesi dalla data di pubblicazione dell'avviso di cui all'articolo 34, paragrafo 3, del regolamento (UE) n. 2017/745". 
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 2) che "L'[articolo 11 del decreto legislativo n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332#art_11), e' abrogato decorsi sei mesi dalla data di pubblicazione dell'avviso di cui all'articolo 34, paragrafo 3, del regolamento (UE) n. 2017/745". 
  Ha inoltre disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 12. — Banca dati europea
@@ -336,7 +336,7 @@ Il Ministero della sanita', in vista dell'istituzione di una banca dati europea,
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto: 
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto: 
  - (con l'art. 30, comma 4) che "L'[articolo 12, comma 1, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332#art_12-com1-leta) e [b) del decreto legislativo n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332#art_12-com1-letb), e' abrogato decorsi ventiquattro mesi dalla data di pubblicazione dell'avviso di cui all'articolo 34, paragrafo 3, del regolamento (UE) n. 2017/745"; 
  - (con l'art. 30, comma 5) che "L'[articolo 12, comma 1, lettera c), del decreto legislativo n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332#art_12-com1-letc), e' abrogato decorsi sei mesi dalla data di pubblicazione dell'avviso di cui all'articolo 34, paragrafo 3, del regolamento (UE) n. 2017/745"; 
  - (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
@@ -350,7 +350,7 @@ Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 14.
 
@@ -361,7 +361,7 @@ Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 15.
 
@@ -372,7 +372,7 @@ Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 16.
 
@@ -383,7 +383,7 @@ Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 17.
 
@@ -394,7 +394,7 @@ Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 18.
 
@@ -405,7 +405,7 @@ Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 19.
 
@@ -416,7 +416,7 @@ Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 20.
 
@@ -427,7 +427,7 @@ Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 21.
 
@@ -438,7 +438,7 @@ Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 ## Art. 22.
 
@@ -449,7 +449,7 @@ Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 5 agosto 2022, n. 138](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
+Il [D.Lgs. 5 agosto 2022, n. 138](../Decreti%20Legislativi/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-746%20relativo%20ai%20dispositivi%20medico-diagnostici%20in%20vitro%20e%20che%20abroga%20la%20direttiva%2098-79-C_3966c0852c09.md), ha disposto (con l'art. 30, comma 7) che "Le disposizioni del [decreto legislativo, n. 332 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;332), relative ai dispositivi di cui all'articolo 110, paragrafi 3 e 4 del regolamento, restano in vigore fino alle date in esso indicate, nella misura necessaria dell'applicazione di tali paragrafi".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

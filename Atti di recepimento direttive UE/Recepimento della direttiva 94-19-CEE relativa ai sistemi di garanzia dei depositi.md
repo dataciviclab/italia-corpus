@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 23 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), legge comunitaria per il 1994, recante delega al Governo per l'attuazione della [direttiva 94/19/CE, del Consiglio del 30 maggio 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;19), relativa ai sistemi di garanzia dei depositi;
+Visto l'[articolo 23 della legge 6 febbraio 1996, n. 52](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), legge comunitaria per il 1994, recante delega al Governo per l'attuazione della [direttiva 94/19/CE, del Consiglio del 30 maggio 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;19), relativa ai sistemi di garanzia dei depositi;
 
-Visto il testo unico delle leggi in materia bancaria e creditizia, approvato con [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
+Visto il testo unico delle leggi in materia bancaria e creditizia, approvato con [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 settembre 1996;
 
@@ -30,15 +30,15 @@ E M A N A il seguente decreto-legislativo:
 
 1.
 
-Dopo il [comma 9 dell'articolo 7 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_7-com9), e' inserito il seguente comma:
+Dopo il [comma 9 dell'articolo 7 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' inserito il seguente comma:
  "9-bis. La Banca d'Italia puo' comunicare ai sistemi di garanzia italiani e, a condizione che sia assicurata la riservatezza, a quelli esteri informazioni e dati in suo possesso necessari al funzionamento dei sistemi stessi.".
 
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europea (GUCE).
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- - La [legge 6 febbraio 1996 n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) reca disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria per il 1994. L'art. 23 cosi' recita:
+ - La [legge 6 febbraio 1996 n. 52](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) reca disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria per il 1994. L'art. 23 cosi' recita:
  "Art. 23 (Sistemi di garanzia dei depositi: criteri di delega). - 1. L'attuazione della [direttiva 94/19/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;19) sara' informata ai seguenti principi e criteri direttivi:
  a) introdurre l'adesione obbligatoria ad un sistema di garanzia dei depositi tra le condizioni per l'esercizio dell'attivita' bancaria;
  b) prevedere che i sistemi di garanzia dei depositi abbiano natura di diritto privato e che gli oneri relativi al funzionamento e agli interventi ricadano sulle banche aderenti;
@@ -46,7 +46,7 @@ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi
  d) individuare, fra quelle indicate nell'allegato I alla direttiva, le ipotesi nelle quali la garanzia prestata dai sistemi puo' essere ridotta o esclusa, secondo criteri che abbiano riguardo alle caratteristiche dei depositi ed alla natura del depositante;
  e) prevedere il potere della Banca d'Italia di prescrivere adeguate forme di pubblicita' circa l'adesione ai sistemi di garanzia dei depositi, nonche' l'importo e la portata della copertura fornita dai sistemi stessi;
  f) prevedere che le succursali di banche che extracomunitarie aderiscano ad un sistema di garanzia dei depositi italiani quando non usufruiscano di copertura equivalente nello Stato d'origine".
- - Il [D.Lgs. 1 settembre 1993 n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) reca il testo unico delle leggi in materia bancaria e creditizia.
+ - Il [D.Lgs. 1 settembre 1993 n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) reca il testo unico delle leggi in materia bancaria e creditizia.
  Nota all'[art. 1:
  - Per il D.Lgs. n. 385 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385#art_1) vedi nota alle premesse.
  Il testo vigente dell'art. 7, come modificato dal decreto qui pubblicato, e' il seguente:
@@ -66,7 +66,7 @@ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi
 
 1.
 
-L'[articolo 96 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_96), e' sostituito dalla seguente sezione:
+L'[articolo 96 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' sostituito dalla seguente sezione:
  "Sezione IV
  SISTEMI DI GARANZIA DEI DEPOSITANTI
  Art. 96 (Soggetti aderenti e natura dei sistemi di garanzia). - 1.
@@ -82,7 +82,7 @@ Le banche italiane aderiscono a uno dei sistemi di garanzia dei depositanti isti
  a) i depositi e gli altri fondi rimborsabili al portatore;
  b) le obbligazioni e i crediti derivanti da accettazioni, paghero' cambiari ed operazioni in titoli;
  c) il capitale sociale, le riserve e gli altri elementi patrimoniali della banca;
- d) i depositi derivanti da transazioni in relazione alle quali sia intervenuta una condanna per i reati previsti negli [articoli 648- bis](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [648-ter del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ d) i depositi derivanti da transazioni in relazione alle quali sia intervenuta una condanna per i reati previsti negli [articoli 648- bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [648-ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
  e) i depositi delle amministrazioni dello Stato, degli enti regionali, provinciali, comunali e degli altri enti pubblici territoriali;
  f) i depositi effettuati da banche in nome e per conto proprio, nonche' i crediti delle stesse;
  g) i depositi delle societa' finanziarie indicate nell'articolo 59, comma 1, lettera b), delle compagnie di assicurazione; degli organismi di investimento collettivo del risparmio; di altre societa' dello stesso gruppo bancario;
@@ -112,7 +112,7 @@ Le banche italiane aderiscono a uno dei sistemi di garanzia dei depositanti isti
 
 1.
 
-Prima dell'[articolo 97 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_97), e inserita la seguente sezione: "Sezione V - LIQUIDAZIONE VOLONTARIA".
+Prima dell'[articolo 97 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e inserita la seguente sezione: "Sezione V - LIQUIDAZIONE VOLONTARIA".
 
 ## Art. 4.
 

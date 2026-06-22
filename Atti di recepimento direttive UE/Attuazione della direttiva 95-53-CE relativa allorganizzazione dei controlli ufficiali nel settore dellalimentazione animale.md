@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), ed in particolare l'articolo 39;
+Vista la [legge 24 aprile 1998, n. 128](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), ed in particolare l'articolo 39;
 
 Vista la [direttiva 95/53/CE del Consiglio, del 25 ottobre 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;53), che fissa i principi relativi all'organizzazione dei controlli ufficiali nel settore dell'alimentazione animale;
 
@@ -39,14 +39,14 @@ Capo I
 Il presente decreto legislativo fissa i principi relativi all'organizzazione dei controlli ufficiali nel settore dell'alimentazione animale, fatte salve le disposizioni specifiche ed in particolare quelle in materia doganale e veterinaria.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
 
  
  Note alle premesse: 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
- - La [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), reca: "Disposizioni per l'adempimento di obblighi derivanti dalla appartenenza dell'Italia alle Comunita' europee. 
+ - La [legge 24 aprile 1998, n. 128](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), reca: "Disposizioni per l'adempimento di obblighi derivanti dalla appartenenza dell'Italia alle Comunita' europee. 
  (Legge comunitaria 1995-1997)". L'art. 39 cosi' recita: 
  "Art. 39 (Organizzazione dei controlli ufficiali e modalita' di riconoscimento di stabilimenti e intermediari nel settore dell'alimentazione animale: criteri di delega).
  - 1. L'attuazione della [direttiva 95/53/CE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;53) sara' uniformata ai seguenti principi e criteri direttivi: 

@@ -115,7 +115,7 @@ Al fine anche di adeguare l'organizzazione delle strutture di controllo della Co
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 9 - 17 maggio 2001, n. 139 (in G.U. 1ª s.s. 23/05/2001, n. 20), "Dichiara che non spetta al Governo adottare l'[art. 3, comma 1, del decreto legislativo 30 luglio 1999, n. 286](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20e%20potenziamento%20dei%20meccanismi%20e%20strumenti%20di%20monitoraggio%20e%20valutazione%20dei%20costi%20dei%20rendimenti%20e%20dei%20risultati%20dellattivita%20svolta%20dalle%20amministrazioni%20pubbliche%20a%20norma%20dell_79b83f91a15a.md) (Riordino e potenziamento dei meccanismi e strumenti di monitoraggio e valutazione dei costi, dei rendimenti e dei risultati dell'attivita' svolta dalle amministrazioni pubbliche, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)), e per conseguenza lo annulla".
+La Corte Costituzionale, con sentenza 9 - 17 maggio 2001, n. 139 (in G.U. 1ª s.s. 23/05/2001, n. 20), "Dichiara che non spetta al Governo adottare l'[art. 3, comma 1, del decreto legislativo 30 luglio 1999, n. 286](Riordino%20e%20potenziamento%20dei%20meccanismi%20e%20strumenti%20di%20monitoraggio%20e%20valutazione%20dei%20costi%20dei%20rendimenti%20e%20dei%20risultati%20dellattivita%20svolta%20dalle%20amministrazioni%20pubbliche%20a%20norma%20dell_79b83f91a15a.md) (Riordino e potenziamento dei meccanismi e strumenti di monitoraggio e valutazione dei costi, dei rendimenti e dei risultati dell'attivita' svolta dalle amministrazioni pubbliche, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)), e per conseguenza lo annulla".
 
 ### Art. 4. — Controllo di gestione
 
@@ -177,7 +177,7 @@ ARTICOLO ABROGATO DAL [D.P.R. 12 DICEMBRE 2006, N. 315](../DPR/Regolamento%20rec
 
 AGGIORNAMENTO (6)
 
-Il D.P.C.M. 3 agosto 2011 (in G.U. 22/11/2011, n. 272) ha disposto (con l'art. 1, comma 1) che "Il comitato tecnico-scientifico per il controllo strategico nelle amministrazioni dello Stato istituito ai sensi dell'[art. 7 del decreto legislativo 30 luglio 1999, n. 286](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20e%20potenziamento%20dei%20meccanismi%20e%20strumenti%20di%20monitoraggio%20e%20valutazione%20dei%20costi%20dei%20rendimenti%20e%20dei%20risultati%20dellattivita%20svolta%20dalle%20amministrazioni%20pubbliche%20a%20norma%20dell_79b83f91a15a.md), presso la Presidenza del Consiglio dei Ministri e operante presso il Dipartimento per il programma di Governo, riordinato con [decreto del Presidente della Repubblica 12 dicembre 2006, n. 315](../DPR/Regolamento%20recante%20riordino%20del%20Comitato%20tecnico-scientifico%20per%20il%20controllo%20strategico%20nelle%20amministrazioni%20dello%20Stato.md), e' prorogato per un periodo non superiore a due anni".
+Il D.P.C.M. 3 agosto 2011 (in G.U. 22/11/2011, n. 272) ha disposto (con l'art. 1, comma 1) che "Il comitato tecnico-scientifico per il controllo strategico nelle amministrazioni dello Stato istituito ai sensi dell'[art. 7 del decreto legislativo 30 luglio 1999, n. 286](Riordino%20e%20potenziamento%20dei%20meccanismi%20e%20strumenti%20di%20monitoraggio%20e%20valutazione%20dei%20costi%20dei%20rendimenti%20e%20dei%20risultati%20dellattivita%20svolta%20dalle%20amministrazioni%20pubbliche%20a%20norma%20dell_79b83f91a15a.md), presso la Presidenza del Consiglio dei Ministri e operante presso il Dipartimento per il programma di Governo, riordinato con [decreto del Presidente della Repubblica 12 dicembre 2006, n. 315](../DPR/Regolamento%20recante%20riordino%20del%20Comitato%20tecnico-scientifico%20per%20il%20controllo%20strategico%20nelle%20amministrazioni%20dello%20Stato.md), e' prorogato per un periodo non superiore a due anni".
 
 ### Art. 8. — Direttiva annuale del Ministro
 
@@ -309,7 +309,7 @@ I servizi pubblici nazionali e locali sono erogati con modalita' che promuovono 
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 27 OTTOBRE 2009, N. 150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%204%20marzo%202009%20n.%2015%20in%20materia%20di%20ottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20di%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni.%2009G0164.md).
+COMMA ABROGATO DAL [D.LGS. 27 OTTOBRE 2009, N. 150](Attuazione%20della%20legge%204%20marzo%202009%20n.%2015%20in%20materia%20di%20ottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20di%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni.%2009G0164.md).
 
 4.
 

@@ -53,7 +53,7 @@ Il notaio, entro dieci giorni da quando roga o riceve in deposito o comunque par
 
 1.
 
-L'obbligo di iscrizione puo' essere assolto anche mediante trasmissione in via telematica, direttamente al registro generale dei testamenti, dei dati previsti dall'articolo 5 e dal relativo regolamento di esecuzione di cui al [decreto del Presidente della Repubblica 18 dicembre 1984, n. 956](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2025%20maggio%201981%20n.%20307%20recante%20norme%20sul%20registro%20generale%20dei%20testamenti.md); in tal caso l'imposta di bollo, dovuta per ogni richiesta di iscrizione, e' corrisposta in modo virtuale.
+L'obbligo di iscrizione puo' essere assolto anche mediante trasmissione in via telematica, direttamente al registro generale dei testamenti, dei dati previsti dall'articolo 5 e dal relativo regolamento di esecuzione di cui al [decreto del Presidente della Repubblica 18 dicembre 1984, n. 956](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2025%20maggio%201981%20n.%20307%20recante%20norme%20sul%20registro%20generale%20dei%20testamenti.md); in tal caso l'imposta di bollo, dovuta per ogni richiesta di iscrizione, e' corrisposta in modo virtuale.
 
 2. Con regolamento del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, sono adottate norme di attuazione del presente articolo che assicurino l'invarianza del gettito erariale))
 

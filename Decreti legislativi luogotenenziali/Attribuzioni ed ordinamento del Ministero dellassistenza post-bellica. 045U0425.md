@@ -109,7 +109,7 @@ Presso il Ministero dell'assistenza post-bellica e' istituita una ragioneria cen
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 14 febbraio 1947, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-02-14;27) ha disposto (con l'art. 1, comma 3) che e' soppressa la ragioneria centrale istituita presso il suddetto Ministero dall'[art. 8 del decreto legislativo luogotenenziale 31 luglio 1945, n. 425](Attribuzioni%20ed%20ordinamento%20del%20Ministero%20dellassistenza%20post-bellica.%20045U0425.md).
+Il [D.Lgs. del Capo Provvisorio dello Stato 14 febbraio 1947, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-02-14;27) ha disposto (con l'art. 1, comma 3) che e' soppressa la ragioneria centrale istituita presso il suddetto Ministero dall'[art. 8 del decreto legislativo luogotenenziale 31 luglio 1945, n. 425](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzioni%20ed%20ordinamento%20del%20Ministero%20dellassistenza%20post-bellica.%20045U0425.md).
 
 ## Art. 9.
 

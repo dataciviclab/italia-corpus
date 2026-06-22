@@ -74,7 +74,7 @@ Il miele per uso industriale e' il miele che e' adatto all'uso industriale o com
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 30 dicembre 2025, n. 207](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
+Il [D.Lgs. 30 dicembre 2025, n. 207](Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
  Ha inoltre disposto (con l'art. 5, comma 2) che "I prodotti immessi sul mercato o etichettati anteriormente al 14 giugno 2026, in conformita' alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono essere commercializzati fino all'esaurimento delle scorte".
 
 ## Art. 2.
@@ -130,13 +130,13 @@ Il miele destinato ai consumatori deve essere preconfezionato all'origine in con
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 7 gennaio 2016, n. 3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-63-UE%20che%20modifica%20la%20direttiva%202001-110-CE%20concernente%20il%20miele.%2016G00004.md) ha disposto (con l'art. 2, comma 1) che "I prodotti immessi sul mercato o etichettati anteriormente al 24 giugno 2015, in conformita' alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono essere commercializzati fino all'esaurimento delle scorte".
+Il [D.Lgs. 7 gennaio 2016, n. 3](Attuazione%20della%20direttiva%202014-63-UE%20che%20modifica%20la%20direttiva%202001-110-CE%20concernente%20il%20miele.%2016G00004.md) ha disposto (con l'art. 2, comma 1) che "I prodotti immessi sul mercato o etichettati anteriormente al 24 giugno 2015, in conformita' alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono essere commercializzati fino all'esaurimento delle scorte".
 
 -----------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 30 dicembre 2025, n. 207](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
+Il [D.Lgs. 30 dicembre 2025, n. 207](Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
  Ha inoltre disposto (con l'art. 5, comma 2) che "I prodotti immessi sul mercato o etichettati anteriormente al 14 giugno 2026, in conformita' alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono essere commercializzati fino all'esaurimento delle scorte".
 
 ## Art. 4.
@@ -166,7 +166,7 @@ E' fatto comunque divieto di produrre, vendere, detenere per vendere, somministr
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 30 dicembre 2025, n. 207](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
+Il [D.Lgs. 30 dicembre 2025, n. 207](Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
  Ha inoltre disposto (con l'art. 5, comma 2) che "I prodotti immessi sul mercato o etichettati anteriormente al 14 giugno 2026, in conformita' alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono essere commercializzati fino all'esaurimento delle scorte".
 
 ## Art. 5.
@@ -180,7 +180,7 @@ Il [D.Lgs. 30 dicembre 2025, n. 207](../Leggi%20delega%20e%20relativi%20provvedi
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 30 dicembre 2025, n. 207](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
+Il [D.Lgs. 30 dicembre 2025, n. 207](Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
  Ha inoltre disposto (con l'art. 5, comma 2) che "I prodotti immessi sul mercato o etichettati anteriormente al 14 giugno 2026, in conformita' alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono essere commercializzati fino all'esaurimento delle scorte".
 
 ## Art. 6.
@@ -203,14 +203,14 @@ Nota all'[art. 6:
  (Comma abrogato dall'[art. 6, decreto del Presidente della Repubblica 19 novembre 1999, n. 514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1999-11-19;514#art_6)).
  Tale disposizione non si applica ai surrogati o succedanei disciplinati da leggi speciali, salvo il controllo del Ministero della sanita' per quanto attiene alla composizione, all'igienicita' e al valore alimentare di essi.
  Salvo che il fatto costituisca piu' grave reato, i contravventori alle disposizioni del presente articolo e dell'art. 5 sono puniti con l'arresto fino ad un anno o con l'ammenda da lire seicentomila a lire sessanta milioni. Per la violazione delle disposizioni di cui alle lettere d) e h) dell'art. 5 si applica la pena dell'arresto da tre mesi ad un anno o dell'ammenda da lire cinque milioni a lire novanta milioni.».
- In caso di condanna per frode tossica o comunque dannosa alla salute non si applicano le disposizioni degli [articoli 163](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [175, codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
- Nei casi previsti dal precedente comma, la condanna importa la pubblicazione della sentenza in uno o piu' giornali, a diffusione nazionale, designati dal giudice, nei modi stabiliti nel [terzo comma dell'art. 36, codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)».
+ In caso di condanna per frode tossica o comunque dannosa alla salute non si applicano le disposizioni degli [articoli 163](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [175, codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Nei casi previsti dal precedente comma, la condanna importa la pubblicazione della sentenza in uno o piu' giornali, a diffusione nazionale, designati dal giudice, nei modi stabiliti nel [terzo comma dell'art. 36, codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)».
 
 ## Art. 7.
 
 1.
 
-Sono abrogati la [legge 12 ottobre 1982, n. 753](../Atti%20normativi%20abrogati%20%28in%20originale%29/Recepimento%20della%20direttiva%20del%20Consiglio%20della%20Comunita%20economica%20europea%20riguardante%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20della%20C.E.E.%20concernenti%20il%20miele.md), e successive modificazioni, e l'[articolo 58 della legge 19 febbraio 1992, n. 142](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md).
+Sono abrogati la [legge 12 ottobre 1982, n. 753](../Atti%20normativi%20abrogati%20%28in%20originale%29/Recepimento%20della%20direttiva%20del%20Consiglio%20della%20Comunita%20economica%20europea%20riguardante%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20della%20C.E.E.%20concernenti%20il%20miele.md), e successive modificazioni, e l'[articolo 58 della legge 19 febbraio 1992, n. 142](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md).
 
 ## Art. 8.
 
@@ -231,7 +231,7 @@ Il miele etichettato anteriormente al 1° agosto 2004 in conformita' alle dispos
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 30 dicembre 2025, n. 207](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 2) che "I prodotti immessi sul mercato o etichettati anteriormente al 14 giugno 2026, in conformita' alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono essere commercializzati fino all'esaurimento delle scorte".
+Il [D.Lgs. 30 dicembre 2025, n. 207](Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 2) che "I prodotti immessi sul mercato o etichettati anteriormente al 14 giugno 2026, in conformita' alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono essere commercializzati fino all'esaurimento delle scorte".
 
 ## Art. 10.
 

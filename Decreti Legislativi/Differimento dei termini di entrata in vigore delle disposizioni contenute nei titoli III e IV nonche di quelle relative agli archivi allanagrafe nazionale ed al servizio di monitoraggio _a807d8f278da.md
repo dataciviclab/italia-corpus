@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 13 giugno 1991, n. 190](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md);
+Vista la [legge 13 giugno 1991, n. 190](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md);
 
 Visto il [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md);
 

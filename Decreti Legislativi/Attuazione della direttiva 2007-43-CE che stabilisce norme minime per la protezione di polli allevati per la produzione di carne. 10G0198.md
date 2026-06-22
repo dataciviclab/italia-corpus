@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 14 ottobre 1985, n. 623](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20sulla%20protezione%20degli%20animali%20negli%20allevamenti%20e%20sulla%20protezione%20degli%20animali%20da%20macello%20adottate%20a%20Strasburgo%20rispettivamente%20il%2010%20marzo%20197_266dde09f045.md), recante ratifica ed esecuzione delle convenzioni sulla protezione degli animali negli allevamenti e sulla protezione degli animali da macello;
+Vista la [legge 14 ottobre 1985, n. 623](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20sulla%20protezione%20degli%20animali%20negli%20allevamenti%20e%20sulla%20protezione%20degli%20animali%20da%20macello%20adottate%20a%20Strasburgo%20rispettivamente%20il%2010%20marzo%20197_266dde09f045.md), recante ratifica ed esecuzione delle convenzioni sulla protezione degli animali negli allevamenti e sulla protezione degli animali da macello;
 
 Visto il [decreto legislativo 26 marzo 2001, n. 146](Attuazione%20della%20direttiva%2098-58-CE%20relativa%20alla%20protezione%20degli%20animali%20negli%20allevamenti.md), recante attuazione della [direttiva 98/58/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;58) sulla protezione degli animali negli allevamenti, e successive modifiche;
 
-Vista la [legge 7 luglio 2009, n. 88](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), legge comunitaria 2008, ed in particolare l'allegato B;
+Vista la [legge 7 luglio 2009, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), legge comunitaria 2008, ed in particolare l'allegato B;
 
 Vista la [direttiva 2007/43/CE del Consiglio, del 28 giugno 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2007;43), che stabilisce norme minime per la protezione dei polli allevati per la produzione di carne;
 
@@ -28,7 +28,7 @@ Visto il regolamento (CE) n. 882/2004 del Parlamento europeo e del Consiglio, de
 
 Visto il [decreto legislativo 19 novembre 2008, n. 194](Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md), recante disciplina delle modalita' di rifinanziamento dei controlli sanitari ufficiali in attuazione del regolamento (CE) n. 882/2004;
 
-Visto l'articolo 13 del Trattato di Lisbona, ratificato con [legge 2 agosto 2008, n. 130](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20Trattato%20di%20Lisbona%20che%20modifica%20il%20Trattato%20sullUnione%20europea%20e%20il%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20e%20alcuni%20atti%20connessi%20con%20atto%20finale%20protocol_91a71129ad47.md), che riconosce le esigenze in materia di benessere degli animali in quanto esseri senzienti;
+Visto l'articolo 13 del Trattato di Lisbona, ratificato con [legge 2 agosto 2008, n. 130](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20Trattato%20di%20Lisbona%20che%20modifica%20il%20Trattato%20sullUnione%20europea%20e%20il%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20e%20alcuni%20atti%20connessi%20con%20atto%20finale%20protocol_91a71129ad47.md), che riconosce le esigenze in materia di benessere degli animali in quanto esseri senzienti;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 giugno 2010;
 
@@ -74,9 +74,9 @@ NOTE
  Note alle premesse: 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
- - La [legge 14 ottobre 1985, n. 623](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20sulla%20protezione%20degli%20animali%20negli%20allevamenti%20e%20sulla%20protezione%20degli%20animali%20da%20macello%20adottate%20a%20Strasburgo%20rispettivamente%20il%2010%20marzo%20197_266dde09f045.md), e' pubblicata nella Gazzetta Ufficiale 12 novembre 1985, n. 266, S.O. 
+ - La [legge 14 ottobre 1985, n. 623](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20sulla%20protezione%20degli%20animali%20negli%20allevamenti%20e%20sulla%20protezione%20degli%20animali%20da%20macello%20adottate%20a%20Strasburgo%20rispettivamente%20il%2010%20marzo%20197_266dde09f045.md), e' pubblicata nella Gazzetta Ufficiale 12 novembre 1985, n. 266, S.O. 
  - Il [decreto legislativo 26 marzo 2001, n. 146](Attuazione%20della%20direttiva%2098-58-CE%20relativa%20alla%20protezione%20degli%20animali%20negli%20allevamenti.md), e' pubblicato nella Gazzetta Ufficiale 24 aprile 2001, n. 95. 
- - L'allegato B, della [legge 7 luglio 2009, n. 88](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), pubblicata nella Gazzetta Ufficiale 14 luglio 2009, n. 161, S.O., cosi' recita: 
+ - L'allegato B, della [legge 7 luglio 2009, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), pubblicata nella Gazzetta Ufficiale 14 luglio 2009, n. 161, S.O., cosi' recita: 
  «Allegato B 
  (Art. 1, commi 1 e 3) 
  2005/47/CE del Consiglio, del 18 luglio 2005, concernente l'accordo tra la Comunita' delle ferrovie europee (CER) e la Federazione europea dei lavoratori dei trasporti (ETF) su taluni aspetti delle condizioni di lavoro dei lavoratori mobili che effettuano servizi di interoperabilita' transfrontaliera nel settore ferroviario; 
@@ -123,7 +123,7 @@ NOTE
  - Il regolamento (CE) 854/2004 e' pubblicato nella G.U.U.E. 30 aprile 2004, n. L 139. Entrato in vigore il 20 maggio 2004. Il testo del presente regolamento e' stato cosi' sostituito in base alla rettifica pubblicata nella G.U.U.E. 25 giugno 2004, n. L 226. 
  - Il regolamento (CE) 882/2004 e' pubblicato nella G.U.U.E. 30 aprile 2004, n. L 165. Entrato in vigore il 20 maggio 2004. Il testo del presente regolamento e' stato cosi' sostituito dalla rettifica pubblicata nella G.U.U.E. 28 maggio 2004, n. L 191. 
  - Il [decreto legislativo 19 novembre 2008, n. 194](Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md), e' pubblicato nella Gazzetta Ufficiale 11 dicembre 2008, n. 289. 
- - La [legge 2 agosto 2008, n. 130](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20Trattato%20di%20Lisbona%20che%20modifica%20il%20Trattato%20sullUnione%20europea%20e%20il%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20e%20alcuni%20atti%20connessi%20con%20atto%20finale%20protocol_91a71129ad47.md), e' pubblicata nella Gazzetta Ufficiale 8 agosto 2008, n. 185, S.O. 
+ - La [legge 2 agosto 2008, n. 130](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20Trattato%20di%20Lisbona%20che%20modifica%20il%20Trattato%20sullUnione%20europea%20e%20il%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20e%20alcuni%20atti%20connessi%20con%20atto%20finale%20protocol_91a71129ad47.md), e' pubblicata nella Gazzetta Ufficiale 8 agosto 2008, n. 185, S.O. 
  Note all'art. 1: 
  - Il regolamento (CE) n. 543/2008 e' pubblicato nella G.U.C.E. 17 giugno 2008, n. 157. 
  - Il regolamento (CE) n. 1234/2007 e' pubblicato nella G.U.U.E. 16 novembre 2007, n. L 299. 

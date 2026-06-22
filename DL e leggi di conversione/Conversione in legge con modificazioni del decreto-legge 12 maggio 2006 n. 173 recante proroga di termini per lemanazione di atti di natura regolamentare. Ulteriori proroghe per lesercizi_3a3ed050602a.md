@@ -35,15 +35,15 @@ All'[articolo 40, comma 1, della legge 28 dicembre 2005, n. 262](https://www.nor
 
 5.
 
-Le disposizioni correttive e integrative di cui all'[articolo 1, comma 4, della legge 28 marzo 2003, n. 53](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20definizione%20delle%20norme%20generali%20sullistruzione%20e%20dei%20livelli%20essenziali%20delle%20prestazioni%20in%20materia%20di%20istruzione%20e%20formazione%20professionale.md), possono essere adottate, relativamente ai [decreti legislativi 15 aprile 2005, n. 76, 15 aprile 2005, n. 77, 17 ottobre 2005, n. 226, e 17 ottobre 2005, n. 227](../Atti%20normativi%20abrogati%20%28in%20originale%29/Definizione%20delle%20norme%20generali%20in%20materia%20di%20formazione%20degli%20insegnanti%20ai%20fini%20dellaccesso%20allinsegnamento%20a%20norma%20dellarticolo%205%20della%20legge%2028%20marzo%202003%20n.%2053.md), entro trentasei mesi dalla data della loro entrata in vigore.
+Le disposizioni correttive e integrative di cui all'[articolo 1, comma 4, della legge 28 marzo 2003, n. 53](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20definizione%20delle%20norme%20generali%20sullistruzione%20e%20dei%20livelli%20essenziali%20delle%20prestazioni%20in%20materia%20di%20istruzione%20e%20formazione%20professionale.md), possono essere adottate, relativamente ai [decreti legislativi 15 aprile 2005, n. 76, 15 aprile 2005, n. 77, 17 ottobre 2005, n. 226, e 17 ottobre 2005, n. 227](../Atti%20normativi%20abrogati%20%28in%20originale%29/Definizione%20delle%20norme%20generali%20in%20materia%20di%20formazione%20degli%20insegnanti%20ai%20fini%20dellaccesso%20allinsegnamento%20a%20norma%20dellarticolo%205%20della%20legge%2028%20marzo%202003%20n.%2053.md), entro trentasei mesi dalla data della loro entrata in vigore.
 
 6.
 
-E' prorogato all'anno scolastico 2007-2008 il regime transitorio concernente l'accesso anticipato alla scuola dell'infanzia, di cui all'[articolo 7, comma 4, della legge 28 marzo 2003, n. 53](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20definizione%20delle%20norme%20generali%20sullistruzione%20e%20dei%20livelli%20essenziali%20delle%20prestazioni%20in%20materia%20di%20istruzione%20e%20formazione%20professionale.md), e successive modificazioni. Conseguentemente, l'[articolo 2 del decreto legislativo 19 febbraio 2004, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20delle%20norme%20generali%20relative%20alla%20scuola%20dellinfanzia%20e%20al%20primo%20ciclo%20dellistruzione%20a%20norma%20dellarticolo%201%20della%20legge%2028%20marzo%202003%20n.%2053.md), si applica a decorrere dall'anno scolastico 2008-2009.
+E' prorogato all'anno scolastico 2007-2008 il regime transitorio concernente l'accesso anticipato alla scuola dell'infanzia, di cui all'[articolo 7, comma 4, della legge 28 marzo 2003, n. 53](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20definizione%20delle%20norme%20generali%20sullistruzione%20e%20dei%20livelli%20essenziali%20delle%20prestazioni%20in%20materia%20di%20istruzione%20e%20formazione%20professionale.md), e successive modificazioni. Conseguentemente, l'[articolo 2 del decreto legislativo 19 febbraio 2004, n. 59](../Decreti%20Legislativi/Definizione%20delle%20norme%20generali%20relative%20alla%20scuola%20dellinfanzia%20e%20al%20primo%20ciclo%20dellistruzione%20a%20norma%20dellarticolo%201%20della%20legge%2028%20marzo%202003%20n.%2053.md), si applica a decorrere dall'anno scolastico 2008-2009.
 
 7.
 
-All'[articolo 14, comma 3, del decreto legislativo 19 febbraio 2004, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20delle%20norme%20generali%20relative%20alla%20scuola%20dellinfanzia%20e%20al%20primo%20ciclo%20dellistruzione%20a%20norma%20dellarticolo%201%20della%20legge%2028%20marzo%202003%20n.%2053.md), le parole: "e fino alla messa a regime della scuola secondaria di primo grado," sono sostituite dalle seguenti: "e fino all'anno scolastico 2008-2009,".
+All'[articolo 14, comma 3, del decreto legislativo 19 febbraio 2004, n. 59](../Decreti%20Legislativi/Definizione%20delle%20norme%20generali%20relative%20alla%20scuola%20dellinfanzia%20e%20al%20primo%20ciclo%20dellistruzione%20a%20norma%20dellarticolo%201%20della%20legge%2028%20marzo%202003%20n.%2053.md), le parole: "e fino alla messa a regime della scuola secondaria di primo grado," sono sostituite dalle seguenti: "e fino all'anno scolastico 2008-2009,".
 
 8.
 
@@ -51,7 +51,7 @@ All'[articolo 14, comma 3, del decreto legislativo 19 febbraio 2004, n. 59](../L
 
 9.
 
-All'[articolo 2, comma 3, della legge 30 settembre 2004, n. 252](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20disciplina%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md), le parole: "dodici mesi" sono sostituite dalle seguenti: "ventiquattro mesi".
+All'[articolo 2, comma 3, della legge 30 settembre 2004, n. 252](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20disciplina%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md), le parole: "dodici mesi" sono sostituite dalle seguenti: "ventiquattro mesi".
 
 10.
 

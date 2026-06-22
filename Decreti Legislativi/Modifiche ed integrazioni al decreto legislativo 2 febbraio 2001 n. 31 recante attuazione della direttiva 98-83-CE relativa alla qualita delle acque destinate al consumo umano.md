@@ -16,7 +16,7 @@ Visto l'[articolo 117 della Costituzione](https://www.normattiva.it/uri-res/N2Ls
 
 Vista la [direttiva 98/83/CE del Consiglio, del 3 novembre 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;83), concernente la qualita' delle acque destinate al consumo umano;
 
-Vista la [legge 21 dicembre 1999, n. 526](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md) (legge comunitaria 1999), ed in particolare, l'articolo 1, comma 4;
+Vista la [legge 21 dicembre 1999, n. 526](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md) (legge comunitaria 1999), ed in particolare, l'articolo 1, comma 4;
 
 Visto il [decreto legislativo 2 febbraio 2001, n. 31](Attuazione%20della%20direttiva%2098-83-CE%20relativa%20alla%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano.md), recante attuazione della citata [direttiva 98/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;83);
 

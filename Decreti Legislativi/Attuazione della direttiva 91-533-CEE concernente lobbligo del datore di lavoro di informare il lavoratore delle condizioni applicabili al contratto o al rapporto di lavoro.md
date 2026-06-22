@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'[articolo 33 della legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), legge comunitaria per il 1993, recante criteri di delega al Governo per il recepimento della [direttiva 91/533/CEE, del Consiglio del 14 ottobre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;533), relativa all'obbligo di informare il lavoratore delle condizioni applicabili al contratto o al rapporto di lavoro;
 
-Visto l'[articolo 6, comma 1, della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), legge comunitaria per il 1994;
+Visto l'[articolo 6, comma 1, della legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), legge comunitaria per il 1994;
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
@@ -34,7 +34,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri del lavo
 
 Il datore di lavoro pubblico e privato e' tenuto a comunicare al lavoratore, secondo le modalita' di cui al comma 2, le seguenti informazioni:
                         a)
-                            l'identita' delle parti ivi compresa quella dei co-datori di cui all'[articolo 30, comma 4-ter](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md) e [31](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md), [commi 3-bis](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md) e [3-ter, del decreto legislativo 10 settembre 2003, n. 276](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md);
+                            l'identita' delle parti ivi compresa quella dei co-datori di cui all'[articolo 30, comma 4-ter](Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md) e [31](Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md), [commi 3-bis](Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md) e [3-ter, del decreto legislativo 10 settembre 2003, n. 276](Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md);
                         b)
                             il luogo di lavoro. In mancanza di un luogo di lavoro fisso o predominante, il datore di lavoro comunica che il lavoratore e' occupato in luoghi diversi, o e' libero di determinare il proprio luogo di lavoro;
                         c)
@@ -116,7 +116,7 @@ Le informazioni di cui al comma 1 sono conservate e rese accessibili al lavorato
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 27 giugno 2022, n. 104](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-1152%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20giugno%202019%20relativa%20a%20condizioni%20di%20lavoro%20trasparenti%20e%20prevedibili%20nellUnione%20europea.%2022G00113.md) ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
+Il [D.Lgs. 27 giugno 2022, n. 104](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-1152%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20giugno%202019%20relativa%20a%20condizioni%20di%20lavoro%20trasparenti%20e%20prevedibili%20nellUnione%20europea.%2022G00113.md) ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
 
 ## Art. 1-bis. — (Ulteriori obblighi informativi nel caso di utilizzo di sistemi decisionali o di monitoraggio automatizzati)
 
@@ -170,7 +170,7 @@ Gli obblighi informativi di cui al presente articolo gravano anche sul committen
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 27 giugno 2022, n. 104](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-1152%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20giugno%202019%20relativa%20a%20condizioni%20di%20lavoro%20trasparenti%20e%20prevedibili%20nellUnione%20europea.%2022G00113.md) ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
+Il [D.Lgs. 27 giugno 2022, n. 104](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-1152%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20giugno%202019%20relativa%20a%20condizioni%20di%20lavoro%20trasparenti%20e%20prevedibili%20nellUnione%20europea.%2022G00113.md) ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
 
 ## Art. 2. — (( (Prestazioni di lavoro all'estero). ))
 
@@ -206,7 +206,7 @@ Al lavoratore che e' inviato in missione in un altro Stato membro o in un paese 
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 27 giugno 2022, n. 104](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-1152%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20giugno%202019%20relativa%20a%20condizioni%20di%20lavoro%20trasparenti%20e%20prevedibili%20nellUnione%20europea.%2022G00113.md) ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
+Il [D.Lgs. 27 giugno 2022, n. 104](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-1152%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20giugno%202019%20relativa%20a%20condizioni%20di%20lavoro%20trasparenti%20e%20prevedibili%20nellUnione%20europea.%2022G00113.md) ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
 
 ## Art. 3. — (( (Modifica degli elementi del contratto dopo l'assunzione). ))
 
@@ -217,7 +217,7 @@ Il [D.Lgs. 27 giugno 2022, n. 104](../Leggi%20delega%20e%20relativi%20provvedime
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 27 giugno 2022, n. 104](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-1152%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20giugno%202019%20relativa%20a%20condizioni%20di%20lavoro%20trasparenti%20e%20prevedibili%20nellUnione%20europea.%2022G00113.md) ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
+Il [D.Lgs. 27 giugno 2022, n. 104](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-1152%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20giugno%202019%20relativa%20a%20condizioni%20di%20lavoro%20trasparenti%20e%20prevedibili%20nellUnione%20europea.%2022G00113.md) ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
 
 ## Art. 4. — (( (Sanzioni). ))
 
@@ -225,9 +225,9 @@ Il [D.Lgs. 27 giugno 2022, n. 104](../Leggi%20delega%20e%20relativi%20provvedime
 
 1.
 
-Il lavoratore denuncia il mancato, ritardato, incompleto o inesatto assolvimento degli obblighi di cui agli articoli 1, 1-bis, 2, e 3, e 5, comma 2, all'Ispettorato nazionale del lavoro che, compiuti i necessari accertamenti di cui alla [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), applica la sanzione prevista all'[articolo 19, comma 2, del decreto legislativo 10 settembre 2003, n. 276](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md).
+Il lavoratore denuncia il mancato, ritardato, incompleto o inesatto assolvimento degli obblighi di cui agli articoli 1, 1-bis, 2, e 3, e 5, comma 2, all'Ispettorato nazionale del lavoro che, compiuti i necessari accertamenti di cui alla [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), applica la sanzione prevista all'[articolo 19, comma 2, del decreto legislativo 10 settembre 2003, n. 276](Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md).
 
-2. Per le pubbliche amministrazioni di cui all'[articolo 1 comma 2 del decreto legislativo 30 marzo 2001, n.165](Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), le violazioni di cui agli articoli 1, 1-bis, 2, 3 e 5, sono valutate ai fini della responsabilita' dirigenziale, nonche' della misurazione della performance ai sensi dell'[articolo 7 del decreto legislativo 27 ottobre 2009, n.150](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%204%20marzo%202009%20n.%2015%20in%20materia%20di%20ottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20di%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni.%2009G0164.md).))
+2. Per le pubbliche amministrazioni di cui all'[articolo 1 comma 2 del decreto legislativo 30 marzo 2001, n.165](Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), le violazioni di cui agli articoli 1, 1-bis, 2, 3 e 5, sono valutate ai fini della responsabilita' dirigenziale, nonche' della misurazione della performance ai sensi dell'[articolo 7 del decreto legislativo 27 ottobre 2009, n.150](Attuazione%20della%20legge%204%20marzo%202009%20n.%2015%20in%20materia%20di%20ottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20di%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni.%2009G0164.md).))
 
 ((1))
 
@@ -235,7 +235,7 @@ Il lavoratore denuncia il mancato, ritardato, incompleto o inesatto assolvimento
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 27 giugno 2022, n. 104](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-1152%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20giugno%202019%20relativa%20a%20condizioni%20di%20lavoro%20trasparenti%20e%20prevedibili%20nellUnione%20europea.%2022G00113.md) ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
+Il [D.Lgs. 27 giugno 2022, n. 104](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-1152%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20giugno%202019%20relativa%20a%20condizioni%20di%20lavoro%20trasparenti%20e%20prevedibili%20nellUnione%20europea.%2022G00113.md) ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
 
 ## Art. 5. — Disposizioni transitorie e finali
 

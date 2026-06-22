@@ -42,7 +42,7 @@ Per assolvere ai compiti ad esso demandati, il Comitato si vale di una Commissio
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 20 aprile 1994, n. 373](../DPR/Regolamento%20recante%20definizione%20delle%20funzioni%20dei%20Comitati%20interministeriali%20soppressi%20e%20per%20il%20riordino%20della%20relativa%20disciplina.md), ha disposto (con l'art. 5, comma 5) che "La Commissione centrale prezzi di cui all'[art. 2 del decreto legislativo luogotenenziale 19 ottobre 1944, n. 347](Istituzione%20del%20Comitato%20interministeriale%20e%20dei%20Comitati%20provinciali%20per%20il%20coordinamento%20e%20la%20disciplina%20dei%20prezzi.%20044U0347.md), e' soppressa".
+Il [D.P.R. 20 aprile 1994, n. 373](../DPR/Regolamento%20recante%20definizione%20delle%20funzioni%20dei%20Comitati%20interministeriali%20soppressi%20e%20per%20il%20riordino%20della%20relativa%20disciplina.md), ha disposto (con l'art. 5, comma 5) che "La Commissione centrale prezzi di cui all'[art. 2 del decreto legislativo luogotenenziale 19 ottobre 1944, n. 347](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Comitato%20interministeriale%20e%20dei%20Comitati%20provinciali%20per%20il%20coordinamento%20e%20la%20disciplina%20dei%20prezzi.%20044U0347.md), e' soppressa".
 
 ## Art. 3.
 
@@ -67,7 +67,7 @@ In ogni provincia e' istituito un Comitato provinciale dei prezzi presieduto dal
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 20 aprile 1994, n. 373](../DPR/Regolamento%20recante%20definizione%20delle%20funzioni%20dei%20Comitati%20interministeriali%20soppressi%20e%20per%20il%20riordino%20della%20relativa%20disciplina.md), ha disposto (con l'art. 5, comma 5) che "I comitati provinciali dei prezzi di cui all'[art. 3 del decreto legislativo luogotenenziale 19 ottobre 1944, n. 347](Istituzione%20del%20Comitato%20interministeriale%20e%20dei%20Comitati%20provinciali%20per%20il%20coordinamento%20e%20la%20disciplina%20dei%20prezzi.%20044U0347.md), sono soppressi e le residue funzioni sono attribuite agli uffici provinciali dell'industria, del commercio e dell'artigianato".
+Il [D.P.R. 20 aprile 1994, n. 373](../DPR/Regolamento%20recante%20definizione%20delle%20funzioni%20dei%20Comitati%20interministeriali%20soppressi%20e%20per%20il%20riordino%20della%20relativa%20disciplina.md), ha disposto (con l'art. 5, comma 5) che "I comitati provinciali dei prezzi di cui all'[art. 3 del decreto legislativo luogotenenziale 19 ottobre 1944, n. 347](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Comitato%20interministeriale%20e%20dei%20Comitati%20provinciali%20per%20il%20coordinamento%20e%20la%20disciplina%20dei%20prezzi.%20044U0347.md), sono soppressi e le residue funzioni sono attribuite agli uffici provinciali dell'industria, del commercio e dell'artigianato".
 
 ## Art. 4.
 

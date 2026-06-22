@@ -16,7 +16,7 @@ Vista la [direttiva 2003/109/CE del Consiglio, del 25 novembre 2003](https://www
 
 Visto l'[articolo 1, commi 1](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md) e [3, della legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2004;
 
-Visto il testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al [decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni;
+Visto il testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni;
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), e successive modificazioni, recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
 
@@ -36,7 +36,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Al testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero di cui al [decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni, di seguito denominato: "[decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md)", sono apportate le seguenti modifiche:
+Al testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero di cui al [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni, di seguito denominato: "[decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md)", sono apportate le seguenti modifiche:
                         a)
                             l'articolo 9 e' sostituito dal seguente:
  "Art. 9.
@@ -88,7 +88,7 @@ Stranieri in possesso di un permesso di soggiorno CE per soggiornanti di lungo p
  8. Allo straniero di cui ai commi 1 e 3, in possesso dei requisiti di cui all'articolo 9, e' rilasciato, entro novanta giorni dalla richiesta, un permesso di soggiorno CE per soggiornanti di lungo periodo. Dell'avvenuto rilascio e' informato lo Stato membro che ha rilasciato il precedente permesso di soggiorno CE per soggiornanti di lungo periodo.".
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
@@ -98,13 +98,13 @@ Avvertenza:
  «Art. 1 (Delega al Governo per l'attuazione di direttive comunitarie). - 1. Il Governo e' delegato ad adottare, entro il termine di diciotto mesi dalla data di entrata in vigore della presente legge, i decreti legislativi recanti le norme occorrenti per dare attuazione alle direttive comprese negli elenchi di cui agli allegati A e B.
  2. (Omissis).
  3. Gli schemi dei decreti legislativi recanti attuazione delle direttive comprese nell'elenco di cui all'allegato B, nonche', qualora sia previsto il ricorso a sanzioni penali, quelli relativi all'attuazione delle direttive elencate nell'allegato A, sono trasmessi, dopo l'acquisizione degli altri pareri previsti dalla legge, alla Camera dei deputati e al Senato della Repubblica perche' su di essi sia espresso il parere dei competenti organi parlamentari. Decorsi quaranta giorni dalla data di trasmissione, i decreti sono emanati anche in mancanza del parere. Qualora il termine per l'espressione del parere parlamentare di cui al presente comma, ovvero i diversi termini previsti dai commi 4 e 8, scadano nei trenta giorni che precedono la scadenza dei termini previsti ai commi 1 o 5 o successivamente, questi ultimi sono prorogati di novanta giorni.».
- - Il [decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e' pubblicato nella Gazzetta Ufficiale 18 agosto 1998, n. 19, supplemento ordinario.
+ - Il [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e' pubblicato nella Gazzetta Ufficiale 18 agosto 1998, n. 19, supplemento ordinario.
 
 ## Art. 2. — Disposizioni transitorie
 
 1.
 
-All'[articolo 30, comma 4, del decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), le parole: «, ovvero con straniero titolare della carta di soggiorno di cui all'articolo 9,» sono soppresse.
+All'[articolo 30, comma 4, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), le parole: «, ovvero con straniero titolare della carta di soggiorno di cui all'articolo 9,» sono soppresse.
 
 2.
 
@@ -112,14 +112,14 @@ Agli stranieri gia' titolari di carta di soggiorno si applicano le norme del pre
 
 3.
 
-Quando leggi, regolamenti, decreti, od altre norme o provvedimenti, fanno riferimento alla carta di soggiorno, il riferimento si intende al permesso di soggiorno CE per soggiornanti di lungo periodo, di cui all'[articolo 9 del decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), come modificato dall'articolo 1.
+Quando leggi, regolamenti, decreti, od altre norme o provvedimenti, fanno riferimento alla carta di soggiorno, il riferimento si intende al permesso di soggiorno CE per soggiornanti di lungo periodo, di cui all'[articolo 9 del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), come modificato dall'articolo 1.
 
 4.
 
 Il Ministero dell'interno provvede all'individuazione del punto di contatto e allo scambio di informazioni e documentazione con gli Stati membri dell'Unione europea in applicazione del presente decreto.
 
 Nota all'art. 2:
- - Il testo vigente dell'art. 30, comma 4, del citato [decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), come modificato dal presente decreto, cosi' recita:
+ - Il testo vigente dell'art. 30, comma 4, del citato [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), come modificato dal presente decreto, cosi' recita:
  «Art. 30 (Permesso di soggiorno per motivi familiari).
  1.-3. (Omissis).
  4. Allo straniero che effettua il ricongiungimento con il cittadino italiano o di uno Stato membro dell'Unione europea e' rilasciata una carta di soggiorno.
@@ -160,7 +160,7 @@ Note all'art. 3:
 
 1.
 
-Entro sei mesi dalla data di entrata in vigore del presente decreto si procede, ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e successive modificazioni, all'emanazione delle norme di attuazione ed integrazione del presente decreto, nonche' alla revisione ed armonizzazione delle disposizioni contenute nel regolamento di cui al [decreto del Presidente della Repubblica 31 agosto 1999, n. 394](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20attuazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero%20a%20norma%20dellarticolo%201%20comma_d0732f58b7ad.md).
+Entro sei mesi dalla data di entrata in vigore del presente decreto si procede, ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e successive modificazioni, all'emanazione delle norme di attuazione ed integrazione del presente decreto, nonche' alla revisione ed armonizzazione delle disposizioni contenute nel regolamento di cui al [decreto del Presidente della Repubblica 31 agosto 1999, n. 394](../DPR/Regolamento%20recante%20norme%20di%20attuazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero%20a%20norma%20dellarticolo%201%20comma_d0732f58b7ad.md).
 
 Note all'art. 4:
  - L'art. 17, comma 1, della citata [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400) cosi' recita:
@@ -170,7 +170,7 @@ Note all'art. 4:
  c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;
  d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge;
  e) ».
- - Il [decreto del Presidente della Repubblica 31 agosto 1999, n. 394](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20attuazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero%20a%20norma%20dellarticolo%201%20comma_d0732f58b7ad.md), reca: «Regolamento recante norme di attuazione del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, a norma dell'[art. 1, comma 6, del decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).».
+ - Il [decreto del Presidente della Repubblica 31 agosto 1999, n. 394](../DPR/Regolamento%20recante%20norme%20di%20attuazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero%20a%20norma%20dellarticolo%201%20comma_d0732f58b7ad.md), reca: «Regolamento recante norme di attuazione del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, a norma dell'[art. 1, comma 6, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).».
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

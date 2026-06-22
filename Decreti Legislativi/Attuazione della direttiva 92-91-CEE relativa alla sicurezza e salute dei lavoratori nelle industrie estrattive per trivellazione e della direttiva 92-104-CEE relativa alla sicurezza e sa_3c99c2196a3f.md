@@ -22,7 +22,7 @@ Visto il [decreto legislativo 19 settembre 1994 n. 626](Attuazione%20delle%20dir
 
 Vista la [legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), ed in particolare gli articoli 1 e 34 e gli allegato A e B;
 
-Vista la [legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), ed in particolare l'articolo 6, comma 3;
+Vista la [legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), ed in particolare l'articolo 6, comma 3;
 
 Visto il [decreto del Presidente della Repubblica 24 maggio 1979, n. 886](../DPR/Integrazione%20ed%20adeguamento%20delle%20norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave%20contenute%20nel%20decreto%20del%20Presidente%20della%20Repubblica%209%20aprile%201959%20n.%20128%20al%20fine%20di%20regolare%20le%20attivita%20di_6460acb681e7.md), e successive modifiche;
 
@@ -717,7 +717,7 @@ Fatte salve le specifiche disposizioni dell'articolo 73, comma 2, il trasporto d
 
 1.
 
-Fermo restando il disposto dell'[articolo 46 del regio decreto 18 giugno 1931, n.773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e in deroga al [primo comma dell'articolo 336 del decreto del Presidente della Repubblica 9 aprile 1959 n. 128](../DPR/Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), la miscelazione dei prodotti utilizzati per il caricamento dei fori da mina, nonche' il caricamento stesso, possono essere effettuati con automezzi riconosciuti idonei dal Ministero dell'industria, del commercio e dell'artigianato ai sensi dell'[articolo 297 del decreto del Presidente della Repubblica n. 128 del 1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959;128#art_297), e conformemente alle prescrizioni stabilite, caso per caso, dall'autorita' di vigilanza.
+Fermo restando il disposto dell'[articolo 46 del regio decreto 18 giugno 1931, n.773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e in deroga al [primo comma dell'articolo 336 del decreto del Presidente della Repubblica 9 aprile 1959 n. 128](../DPR/Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), la miscelazione dei prodotti utilizzati per il caricamento dei fori da mina, nonche' il caricamento stesso, possono essere effettuati con automezzi riconosciuti idonei dal Ministero dell'industria, del commercio e dell'artigianato ai sensi dell'[articolo 297 del decreto del Presidente della Repubblica n. 128 del 1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959;128#art_297), e conformemente alle prescrizioni stabilite, caso per caso, dall'autorita' di vigilanza.
 
 2.
 

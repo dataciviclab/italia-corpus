@@ -113,7 +113,7 @@ Sono organi del CONI:
                         d)
                             il segretario generale;
                         e)
-                            LETTERA SOPPRESSA DAL [D.LGS. 8 GENNAIO 2004, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2023%20luglio%201999%20n.%20242%20recante%20Riordino%20del%20Comitato%20olimpico%20nazionale%20italiano%20-%20CONI%20ai%20sensi%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md);
+                            LETTERA SOPPRESSA DAL [D.LGS. 8 GENNAIO 2004, N. 15](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2023%20luglio%201999%20n.%20242%20recante%20Riordino%20del%20Comitato%20olimpico%20nazionale%20italiano%20-%20CONI%20ai%20sensi%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md);
                         f)
                             il collegio dei revisori dei conti.
 
@@ -234,7 +234,7 @@ Tra i componenti di cui alla lettera c) del comma 1, almeno tre sono eletti tra 
 
 2.
 
-COMMA SOPPRESSO DAL [D.LGS. 8 GENNAIO 2004, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2023%20luglio%201999%20n.%20242%20recante%20Riordino%20del%20Comitato%20olimpico%20nazionale%20italiano%20-%20CONI%20ai%20sensi%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md).
+COMMA SOPPRESSO DAL [D.LGS. 8 GENNAIO 2004, N. 15](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2023%20luglio%201999%20n.%20242%20recante%20Riordino%20del%20Comitato%20olimpico%20nazionale%20italiano%20-%20CONI%20ai%20sensi%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md).
 
 3.
 
@@ -246,11 +246,11 @@ Alle riunioni della giunta nazionale partecipa, senza diritto di voto, il segret
 
 5.
 
-COMMA SOPPRESSO DAL [D.LGS. 8 GENNAIO 2004, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2023%20luglio%201999%20n.%20242%20recante%20Riordino%20del%20Comitato%20olimpico%20nazionale%20italiano%20-%20CONI%20ai%20sensi%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md).
+COMMA SOPPRESSO DAL [D.LGS. 8 GENNAIO 2004, N. 15](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2023%20luglio%201999%20n.%20242%20recante%20Riordino%20del%20Comitato%20olimpico%20nazionale%20italiano%20-%20CONI%20ai%20sensi%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md).
 
 6.
 
-COMMA SOPPRESSO DAL [D.LGS. 8 GENNAIO 2004, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2023%20luglio%201999%20n.%20242%20recante%20Riordino%20del%20Comitato%20olimpico%20nazionale%20italiano%20-%20CONI%20ai%20sensi%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md).
+COMMA SOPPRESSO DAL [D.LGS. 8 GENNAIO 2004, N. 15](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2023%20luglio%201999%20n.%20242%20recante%20Riordino%20del%20Comitato%20olimpico%20nazionale%20italiano%20-%20CONI%20ai%20sensi%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md).
 
 ## Art. 7. — Compiti della giunta nazionale
 
@@ -453,7 +453,7 @@ Gli statuti definiscono i poteri di vigilanza e controllo esercitabili dalla fed
 
 AGGIORNAMENTO (9)
 
-La Corte Costituzionale, con sentenza 5 luglio - 29 settembre 2023 (in G.U. 1ª s.s. 04/10/2023 n. 40), n. 184 ha dichiarato l'illegittimita' costituzionale "dell'art. 16, comma 2, ultimo periodo, del [decreto legislativo 23 luglio 1999, n. 242](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20del%20Comitato%20olimpico%20nazionale%20italiano%20-%20CONI%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Riordino del Comitato olimpico nazionale italiano - CONI, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)), con riferimento all'inciso «, nonche' ai presidenti e ai membri degli organi direttivi delle strutture territoriali delle federazioni sportive nazionali e delle discipline sportive associate», nella parte in cui estendeva agli organi territoriali in questione il divieto posto dall'art. 16, comma 2, secondo periodo, del [d.lgs. n. 242 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;242), nel testo vigente prima delle modifiche di cui all'[art. 39-bis del decreto-legge 22 giugno 2023, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-06-22;75#art_39bis), recante «Disposizioni urgenti in materia di organizzazione delle pubbliche amministrazioni, di agricoltura, di sport, di lavoro e per l'organizzazione del Giubileo della Chiesa cattolica per l'anno 2025», convertito, con modificazioni, nella [legge 10 agosto 2023, n. 112](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202023%20n.%2075%20recante%20disposizioni%20urgenti%20in%20materia%20di%20organizzazione%20delle%20pubbliche%20amministrazioni%20di%20agricoltura%20di%20s_8f60f2ffa42b.md)".
+La Corte Costituzionale, con sentenza 5 luglio - 29 settembre 2023 (in G.U. 1ª s.s. 04/10/2023 n. 40), n. 184 ha dichiarato l'illegittimita' costituzionale "dell'art. 16, comma 2, ultimo periodo, del [decreto legislativo 23 luglio 1999, n. 242](Riordino%20del%20Comitato%20olimpico%20nazionale%20italiano%20-%20CONI%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Riordino del Comitato olimpico nazionale italiano - CONI, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)), con riferimento all'inciso «, nonche' ai presidenti e ai membri degli organi direttivi delle strutture territoriali delle federazioni sportive nazionali e delle discipline sportive associate», nella parte in cui estendeva agli organi territoriali in questione il divieto posto dall'art. 16, comma 2, secondo periodo, del [d.lgs. n. 242 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;242), nel testo vigente prima delle modifiche di cui all'[art. 39-bis del decreto-legge 22 giugno 2023, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-06-22;75#art_39bis), recante «Disposizioni urgenti in materia di organizzazione delle pubbliche amministrazioni, di agricoltura, di sport, di lavoro e per l'organizzazione del Giubileo della Chiesa cattolica per l'anno 2025», convertito, con modificazioni, nella [legge 10 agosto 2023, n. 112](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202023%20n.%2075%20recante%20disposizioni%20urgenti%20in%20materia%20di%20organizzazione%20delle%20pubbliche%20amministrazioni%20di%20agricoltura%20di%20s_8f60f2ffa42b.md)".
 
 ---------------
 

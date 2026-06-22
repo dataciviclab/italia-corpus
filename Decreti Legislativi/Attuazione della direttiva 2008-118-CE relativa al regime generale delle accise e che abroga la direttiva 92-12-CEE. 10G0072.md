@@ -16,7 +16,7 @@ Vista la [direttiva 2008/118/CE del Consiglio, del 16 dicembre 2008](https://www
 
 Ritenuta la necessita' di adeguare il sistema normativo dell'accisa alle disposizioni della medesima direttiva;
 
-Vista la [legge 7 luglio 2009, n. 88](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2008, che delega il Governo ad adottare uno o piu' decreti legislativi recanti le norme occorrenti per dare attuazione alla citata [direttiva n. 2008/118/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;118), compresa nell'elenco di cui all'Allegato B alla medesima legge;
+Vista la [legge 7 luglio 2009, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2008, che delega il Governo ad adottare uno o piu' decreti legislativi recanti le norme occorrenti per dare attuazione alla citata [direttiva n. 2008/118/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;118), compresa nell'elenco di cui all'Allegato B alla medesima legge;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 4 febbraio 2010;
 

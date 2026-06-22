@@ -18,9 +18,9 @@ Vista la [legge 23 luglio 1985, n. 372](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la legge 1 aprile 1981, n. 121, recante il nuovo ordinamento dell'Amministrazione della pubblica sicurezza;
 
-Visto il [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e successive modificazioni ed integrazioni;
+Visto il [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e successive modificazioni ed integrazioni;
 
-Visto l'art. 19 del testo unico delle leggi provinciali e comunali, approvato con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni ed integrazioni;
+Visto l'art. 19 del testo unico delle leggi provinciali e comunali, approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni ed integrazioni;
 
 Visto il [decreto del Presidente della Repubblica 24 aprile 1982, n. 340](../DPR/Ordinamento%20del%20personale%20e%20organizzazione%20degli%20uffici%20dellAmministrazione%20civile%20del%20Ministero%20dellinterno.md), sull'ordinamento del personale e l'organizzazione degli uffici dell'amministrazione civile del Ministero dell'interno;
 
@@ -216,7 +216,7 @@ Il regolamento di cui al comma 2 si applica anche agli altri reparti ed unita' m
 
 1.
 
-Nei casi previsti e disciplinati dagli [articoli 217](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), [218](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [219 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e successive modificazioni ed integrazioni, il Ministro dell'interno, d'intesa con il Segretario generale, puo' stabilire che l'esercizio delle attribuzioni e l'espletamento dei compiti previsti dal presente regolamento per la protezione e la sicurezza della Presidenza della Repubblica ed in genere per la tutela dell'ordine e della sicurezza in relazione ad essa possa essere affidato alla piu' alta autorita' militare in servizio alla Presidenza della Repubblica, per quanto attiene il presidio e la difesa del palazzo del Quirinale e degli altri immobili della dotazione.
+Nei casi previsti e disciplinati dagli [articoli 217](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), [218](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [219 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e successive modificazioni ed integrazioni, il Ministro dell'interno, d'intesa con il Segretario generale, puo' stabilire che l'esercizio delle attribuzioni e l'espletamento dei compiti previsti dal presente regolamento per la protezione e la sicurezza della Presidenza della Repubblica ed in genere per la tutela dell'ordine e della sicurezza in relazione ad essa possa essere affidato alla piu' alta autorita' militare in servizio alla Presidenza della Repubblica, per quanto attiene il presidio e la difesa del palazzo del Quirinale e degli altri immobili della dotazione.
 
 2.
 
@@ -237,7 +237,7 @@ Nota all'art. 12, comma 1:
  I contravventori sono puniti a termini del primo capoverso dell'articolo precedente.
  Art. 218 (art. 223 T.U. 1926). - Durante il dichiarato stato di guerra le autorita' civili continuano a funzionare per tutto quanto non si riferisce all'ordine pubblico.
  Per cio' che riguarda l'ordine pubblico le autorita' civili esercitano quei poteri che l'autorita' militare ritiene di delegare ad esse.
- Art. 219. - Durante il dichiarato stato di guerra sono giudicate dai tribunali militari le persone imputate di delitti contro la personalita' dello Stato previsti nel titolo primo del libro secondo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Art. 219. - Durante il dichiarato stato di guerra sono giudicate dai tribunali militari le persone imputate di delitti contro la personalita' dello Stato previsti nel titolo primo del libro secondo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Gli imputati di delitti contro l'ordine pubblico, la pubblica amministrazione, le persone e il patrimonio sono giudicati dall'autorita' giudiziaria ordinaria".
 
 ## Art. 13. — Spese per il funzionamento

@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 15 gennaio 1928, n. 78](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Birori%20a%20quello%20di%20Macomer.%20028U0078.md);
+Visto il [R. decreto 15 gennaio 1928, n. 78](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20del%20comune%20di%20Birori%20a%20quello%20di%20Macomer.%20028U0078.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151).
 
@@ -28,13 +28,13 @@ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Abb
 
 ## Art. 1.
 
-Il comune di Birori, aggregato con [R. decreto 15 gennaio 1928, n. 78](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Birori%20a%20quello%20di%20Macomer.%20028U0078.md), al comune di Macomer, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
+Il comune di Birori, aggregato con [R. decreto 15 gennaio 1928, n. 78](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20del%20comune%20di%20Birori%20a%20quello%20di%20Macomer.%20028U0078.md), al comune di Macomer, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo.
  Il Prefetto di Nuoro, sentita la Giunta provinciale amministrativa provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i comuni di Birori e di Macomer.
 
 ## Art. 2.
 
 L'organico del ricostituito comune di Birori e quello del comune di Macomer saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa.
- Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente a quell i organicamente assegnati ai comuni di Birori e Macomer, anteriormente alla loro fusione, disposta con [R. decreto 15 gennaio 1928, n. 78](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Birori%20a%20quello%20di%20Macomer.%20028U0078.md).
+ Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente a quell i organicamente assegnati ai comuni di Birori e Macomer, anteriormente alla loro fusione, disposta con [R. decreto 15 gennaio 1928, n. 78](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20del%20comune%20di%20Birori%20a%20quello%20di%20Macomer.%20028U0078.md).
  Al personale gia' in servizio presso il comune di Macomer, che eventualmente sara' inquadrato nei predetti organici non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
 ## Art. 3.

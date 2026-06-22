@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 58 della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), recante delega al Governo per l'attuazione della [direttiva 89/105/CEE del Consiglio del 21 dicembre 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;105), riguardante la trasparenza delle misure che regolano la fissazione dei prezzi delle specialita' medicinali per uso umano e la loro inclusione nei regimi nazionali di assicurazione malattia;
+Visto l'[art. 58 della legge 29 dicembre 1990, n. 428](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), recante delega al Governo per l'attuazione della [direttiva 89/105/CEE del Consiglio del 21 dicembre 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;105), riguardante la trasparenza delle misure che regolano la fissazione dei prezzi delle specialita' medicinali per uso umano e la loro inclusione nei regimi nazionali di assicurazione malattia;
 
-Visto il [decreto legislativo 29 maggio 1991, n. 178](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md), recante recepimento delle direttive della Comunita' economica europea in materia di specialita' medicinali;
+Visto il [decreto legislativo 29 maggio 1991, n. 178](../Atti%20normativi%20abrogati%20%28in%20originale%29/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md), recante recepimento delle direttive della Comunita' economica europea in materia di specialita' medicinali;
 
 Visto il provvedimento n. 29 del Comitato interministeriale dei prezzi, adottato con deliberazione del 2 ottobre 1990;
 

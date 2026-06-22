@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 21 dicembre 1999, n. 526](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md), recante disposizioni per l'adempimento degli obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee, legge comunitaria 1999 - ed in particolare l'articolo 1, comma 3;
+Vista la [legge 21 dicembre 1999, n. 526](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md), recante disposizioni per l'adempimento degli obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee, legge comunitaria 1999 - ed in particolare l'articolo 1, comma 3;
 
 Vista la [direttiva 98/58/CE del Consiglio del 20 luglio 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;58), riguardante la protezione degli animali negli allevamenti;
 
@@ -72,7 +72,7 @@ Avvertenza:
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- - L'[art. 1, comma 3 della legge 21 dicembre 1999, n. 526](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md), legge comunitaria 1999, cosi' recita:
+ - L'[art. 1, comma 3 della legge 21 dicembre 1999, n. 526](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md), legge comunitaria 1999, cosi' recita:
  "Art. 1 (Delega al Governo per l'attuazione delle direttive comunitarie). - (Omissis).
  3. Gli schemi dei decreti legislativi recanti attuazione delle direttive comprese nell'elenco di cui all'allegato B sono trasmessi, dopo che su di essi sono stati acquisiti gli altri pareri previsti da disposizioni di legge ovvero sono trascorsi i termini prescritti per l'espressione di tali pareri, alla Camera dei deputati e' al Senato della Repubblica perche' su di essi sia espresso, entro quaranta giorni dalla data di trasmissione, il parere delle Commissioni competenti per materia; decorso tale termine, i decreti sono emanati anche in mancanza di detto parere: Qualora il termine previsto per il parere delle Commissioni scada nei trenta giorni che precedono la scadenza dei termini previsti al comma 1 o successivamente, questi ultimi sono prorogati di novanta giorni.
  (Omissis).".

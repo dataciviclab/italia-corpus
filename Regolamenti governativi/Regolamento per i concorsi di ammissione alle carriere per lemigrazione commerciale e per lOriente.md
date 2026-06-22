@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 1, n. 7, del regio decreto 14 novembre 1901, n. 466](../Regi%20decreti/Sulle%20attribuzioni%20del%20Consiglio%20dei%20Ministri.%20001U0466.md), sulle attribuzioni del Consiglio dei Ministri;
+Visto l'[art. 1, n. 7, del regio decreto 14 novembre 1901, n. 466](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulle%20attribuzioni%20del%20Consiglio%20dei%20Ministri.%20001U0466.md), sulle attribuzioni del Consiglio dei Ministri;
 
-Visto l'art. 16, n. 1, del testo unico delle leggi sul Consiglio di Stato, approvato con il [regio decreto 26 giugno 1924, n. 1054](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md);
+Visto l'art. 16, n. 1, del testo unico delle leggi sul Consiglio di Stato, approvato con il [regio decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md);
 
 Visto il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[articolo 1 della legge 9 luglio 2015, n. 114](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202014.%2015G00127.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2014 ed in particolare, l'allegato B;
+Visto l'[articolo 1 della legge 9 luglio 2015, n. 114](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202014.%2015G00127.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2014 ed in particolare, l'allegato B;
 
 Vista la [direttiva 96/71/CE del Parlamento europeo e del Consiglio, del 16 dicembre 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;71), relativa al distacco dei lavoratori nell'ambito di una prestazione di servizi;
 
@@ -26,7 +26,7 @@ Visto il regolamento (UE) n. 1024/2012 del Parlamento europeo e del Consiglio, d
 
 Visto il [decreto legislativo 25 febbraio 2000, n. 72](Attuazione%20della%20direttiva%2096-71-CE%20in%20materia%20di%20distacco%20dei%20lavoratori%20nellambito%20di%20una%20prestazione%20di%20servizi.md), recante attuazione della [direttiva 96/71/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;71) in materia di distacco dei lavoratori nell'ambito di una prestazione di servizi;
 
-Visto il [decreto legislativo 10 settembre 2003, n. 276](Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md), recante attuazione delle deleghe in materia di occupazione e mercato del lavoro, di cui alla [legge 14 febbraio 2003, n. 30](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro.md);
+Visto il [decreto legislativo 10 settembre 2003, n. 276](Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md), recante attuazione delle deleghe in materia di occupazione e mercato del lavoro, di cui alla [legge 14 febbraio 2003, n. 30](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro.md);
 
 Visto il [decreto legislativo 15 giugno 2015, n. 81](Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md), recante disciplina organica dei contratti di lavoro e revisione della normativa in tema di mansioni, a norma dell'[articolo 1, comma 7, della legge 10 dicembre 2014, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-10;183#art_1-com7);
 
@@ -455,7 +455,7 @@ In ogni caso, le sanzioni di cui ai commi 1, 2 e 3-ter non possono essere superi
 AGGIORNAMENTO (2)
 
 La [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md) ha disposto (con l'art. 1, comma 445, lettera d)) che "gli importi delle seguenti sanzioni in materia di lavoro e legislazione sociale sono aumentati nella misura di seguito indicata: 
- 1) del 20 per cento per quanto riguarda gli importi dovuti per la violazione delle disposizioni di cui [...] all'[articolo 12 del decreto legislativo 17 luglio 2016, n. 136](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-67-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20lapplicazione%20della%20direttiva%2096-71-CE%20relativa%20al%20distacco%20dei%20lavoratori%20nell_eacb73182ba0.md)".
+ 1) del 20 per cento per quanto riguarda gli importi dovuti per la violazione delle disposizioni di cui [...] all'[articolo 12 del decreto legislativo 17 luglio 2016, n. 136](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-67-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20lapplicazione%20della%20direttiva%2096-71-CE%20relativa%20al%20distacco%20dei%20lavoratori%20nell_eacb73182ba0.md)".
 
 ## Disposizioni specifiche per le prestazioni transnazionali   di servizi di trasporto su strada))
 
@@ -714,10 +714,10 @@ Le disposizioni del presente capo si applicano alle sanzioni amministrative pecu
 
 3.
 
-Ai fini di cui al comma 1, trovano applicazione le disposizioni del presente capo e non si applica la disciplina di cui alla [legge 21 marzo 1983, n. 149](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20europee%20sulla%20notifica%20e%20lottenimento%20allestero%20di%20documenti%20informazioni%20e%20prove%20in%20materia%20amministrativa%20adottate%20a%20Strasburgo%20rispettivamente%20_6cf0fda904cb.md), sulla notifica e l'ottenimento all'estero di documenti, informazioni e prove in materia amministrativa.
+Ai fini di cui al comma 1, trovano applicazione le disposizioni del presente capo e non si applica la disciplina di cui alla [legge 21 marzo 1983, n. 149](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20europee%20sulla%20notifica%20e%20lottenimento%20allestero%20di%20documenti%20informazioni%20e%20prove%20in%20materia%20amministrativa%20adottate%20a%20Strasburgo%20rispettivamente%20_6cf0fda904cb.md), sulla notifica e l'ottenimento all'estero di documenti, informazioni e prove in materia amministrativa.
 
 Note all'[art. 13: 
- - La legge 21 marzo 1983, n. 149](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20europee%20sulla%20notifica%20e%20lottenimento%20allestero%20di%20documenti%20informazioni%20e%20prove%20in%20materia%20amministrativa%20adottate%20a%20Strasburgo%20rispettivamente%20_6cf0fda904cb.md) (Ratifica ed esecuzione delle convenzioni europee sulla notifica e l'ottenimento all'estero di documenti, informazioni e prove in materia amministrativa, adottate a Strasburgo, rispettivamente, il 24 novembre 1977 ed il 15 marzo 1978) e' pubblicata nella Gazzetta Ufficiale 5 maggio 1983, n. 122, S.O.
+ - La legge 21 marzo 1983, n. 149](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20europee%20sulla%20notifica%20e%20lottenimento%20allestero%20di%20documenti%20informazioni%20e%20prove%20in%20materia%20amministrativa%20adottate%20a%20Strasburgo%20rispettivamente%20_6cf0fda904cb.md) (Ratifica ed esecuzione delle convenzioni europee sulla notifica e l'ottenimento all'estero di documenti, informazioni e prove in materia amministrativa, adottate a Strasburgo, rispettivamente, il 24 novembre 1977 ed il 15 marzo 1978) e' pubblicata nella Gazzetta Ufficiale 5 maggio 1983, n. 122, S.O.
 
 ## Richiesta di notifica e di recupero ad altri Stati membri
 

@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), recante nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md);
+Visto il [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), recante nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md);
 
 Vista la [direttiva 2011/82/UE del Parlamento europeo e del Consiglio, del 25 ottobre 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2011;82), intesa ad agevolare lo scambio transfrontaliero di informazioni sulle infrazioni in materia di sicurezza stradale;
 
-Vista la [legge 6 agosto 2013, n. 96](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013.%2013G00137.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013, ed in particolare l'allegato B;
+Vista la [legge 6 agosto 2013, n. 96](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013.%2013G00137.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013, ed in particolare l'allegato B;
 
 Visto il [codice in materia di protezione dei dati personali](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) di cui al [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), e successive modificazioni;
 
@@ -43,14 +43,14 @@ Capo I
 Il presente decreto, al fine di assicurare un elevato livello di protezione a tutti gli utenti della strada, disciplina lo scambio, tra l'Italia e gli altri Stati membri dell'Unione europea, delle informazioni sulle infrazioni in materia di sicurezza stradale e l'applicazione di sanzioni qualora tali infrazioni siano commesse con un veicolo immatricolato in uno Stato membro diverso da quello in cui e' stata commessa l'infrazione.
 
 Avvertenza: 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'articolo 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'articolo 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE). 
  Note alle premesse: 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
- - Il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)) e' pubblicato nella Gazzetta Ufficiale 18 maggio 1992, n. 114. 
+ - Il [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md)) e' pubblicato nella Gazzetta Ufficiale 18 maggio 1992, n. 114. 
  - La [direttiva 2011/82/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2011;82) e' pubblicata nella G.U.U.E. 5 novembre 2011, n. L 288. 
- - L'allegato B della [legge n. 96 del 6 agosto 2013](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013.%2013G00137.md) (Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013) e pubblicata nella Gazzetta Ufficiale del 20 agosto 2013, n. 194, cosi' recita: 
+ - L'allegato B della [legge n. 96 del 6 agosto 2013](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013.%2013G00137.md) (Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013) e pubblicata nella Gazzetta Ufficiale del 20 agosto 2013, n. 194, cosi' recita: 
  «Allegato B - (Art. 1, commi 1 e 3): 
  2009/101/CE del Parlamento europeo e del Consiglio, del 16 settembre 2009, intesa a coordinare, per renderle equivalenti, le garanzie che sono richieste, negli Stati membri, alle societa' a mente dell'art. 48, secondo comma, del Trattato per proteggere gli interessi dei soci e dei terzi (senza termine di recepimento); 
  2009/102/CE del Parlamento europeo e del Consiglio, del 16 settembre 2009, in materia di diritto delle societa', relativa alle societa' a responsabilita' limitata con un unico socio (senza termine di recepimento); 
@@ -156,13 +156,13 @@ Ai fini del presente decreto si intende per:
                             t)
                                 Motorizzazione, la Direzione generale per la motorizzazione del Ministero delle infrastrutture e dei trasporti - Dipartimento per i trasporti terrestri, la navigazione ed i sistemi informatici e statistici;
                             u)
-                                organi accertatori, gli organi di cui all'[articolo 12 del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md);
+                                organi accertatori, gli organi di cui all'[articolo 12 del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md);
                             v)
-                                ANV, l'Archivio nazionale dei veicoli di cui all'[articolo 226, comma 5, del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+                                ANV, l'Archivio nazionale dei veicoli di cui all'[articolo 226, comma 5, del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md).
 
 Note all'[art. 3: 
  - La direttiva 91/671/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;671) e' pubblicata nella G.U.C.E. 31 dicembre 1991, n. L 373. 
- - L'[art. 12 del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) gia' citato nelle note alle premesse, cosi' recita: 
+ - L'[art. 12 del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) gia' citato nelle note alle premesse, cosi' recita: 
  «Art. 12. (Espletamento dei servizi di polizia stradale). - 1. L'espletamento dei servizi di polizia stradale previsti dal presente codice spetta: 
  a) in via principale alla specialita' Polizia Stradale della Polizia di Stato; 
  b) alla Polizia di Stato; 
@@ -183,7 +183,7 @@ Note all'[art. 3:
  3-bis. I servizi di scorta per la sicurezza della circolazione, nonche' i conseguenti servizi diretti a regolare il traffico, di cui all'art. 11, comma 1, lettere c) e d), possono inoltre essere effettuati da personale abilitato a svolgere scorte tecniche ai veicoli eccezionali e ai trasporti in condizione di eccezionalita', limitatamente ai percorsi autorizzati con il rispetto delle prescrizioni imposte dagli enti proprietari delle strade nei provvedimenti di autorizzazione o di quelle richieste dagli altri organi di polizia stradale di cui al comma 1. 
  4. La scorta e l'attuazione dei servizi diretti ad assicurare la marcia delle colonne militari spetta, inoltre, agli ufficiali, sottufficiali e militari di truppa delle Forze armate, appositamente qualificati con specifico attestato rilasciato dall'autorita' militare competente. 
  5. I soggetti indicati nel presente articolo, eccetto quelli di cui al comma 3-bis, quando non siano in uniforme, per espletare i propri compiti di polizia stradale devono fare uso di apposito segnale distintivo, conforme al modello stabilito nel regolamento». 
- - L'[art. 226, comma 5, del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) gia' citato nelle note alle premesse, cosi' recita: 
+ - L'[art. 226, comma 5, del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) gia' citato nelle note alle premesse, cosi' recita: 
  «Art. 226. (Organizzazione degli archivi e dell'anagrafe nazionale). - (Omissis). 
  5. Presso il Dipartimento per i trasporti terrestri e' istituito l'archivio nazionale dei veicoli contenente i dati relativi ai veicoli di cui all'art. 47, comma 1, lettere e), f), g), h), i), l), m) e n ). 
  (Omissis)».
@@ -201,7 +201,7 @@ Per le indagini relative alle infrazioni in materia di sicurezza stradale di cui
 
 2.
 
-Per le medesime finalita' di cui al comma 1, gli organi di polizia di cui all'[articolo 12 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), trasmettono telematicamente al punto di contatto nazionale di cui all'articolo 3, comma 1, lettera n), le richieste di dati relativi ai veicoli ed a quelli riguardanti i proprietari o gli intestatari di veicoli immatricolati negli altri Stati della Unione.
+Per le medesime finalita' di cui al comma 1, gli organi di polizia di cui all'[articolo 12 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), trasmettono telematicamente al punto di contatto nazionale di cui all'articolo 3, comma 1, lettera n), le richieste di dati relativi ai veicoli ed a quelli riguardanti i proprietari o gli intestatari di veicoli immatricolati negli altri Stati della Unione.
 Il punto di contatto nazionale inoltra tali richieste al punto di contatto nazionale dello Stato membro interessato, attraverso consultazioni automatizzate, e fornisce le informazioni ottenute all'organo di polizia richiedente.
 
 3.
@@ -226,8 +226,8 @@ La Direzione generale per la motorizzazione, in qualita' di punto di contatto na
                             c)
                                 garantisce la riservatezza dei dati trasmessi attraverso l'uso dell'applicazione informatica messa a disposizione sulla piattaforma EUCARIS appositamente prevista per le finalita' dell'articolo 12 della decisione 2008/615/GAI, e le relative versioni modificate, ed in conformita' dell'allegato I del presente decreto e del capo 3, punti 2 e 3, dell'allegato della decisione 2008/616/GAI. Le versioni modificate dell'applicazione informatica prevedono tanto la modalita' di scambio on-line in tempo reale quanto la modalita' di scambio per gruppo, la quale consente lo scambio di richieste o risposte multiple in un unico messaggio.
 
-Note all'[art. 4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md): 
- - Per l'[art. 12 del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) si veda nelle note all'art. 3. 
+Note all'[art. 4](../Codici/Nuovo%20codice%20della%20strada.md): 
+ - Per l'[art. 12 del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) si veda nelle note all'art. 3. 
  - La decisione 2008/616/GAI e 2008/615/GAI sono pubblicate nella G.U.U.E. 6 agosto 2008, n. L 210.
 
 ### Art. 5. — Accesso alle informazioni
@@ -248,7 +248,7 @@ Note all'[art. 5:
 
 1.
 
-La competenza ad avviare i procedimenti che conseguono alle infrazioni in materia di sicurezza stradale di cui all'articolo 2 e' degli organi di polizia di cui all'[articolo 12 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+La competenza ad avviare i procedimenti che conseguono alle infrazioni in materia di sicurezza stradale di cui all'articolo 2 e' degli organi di polizia di cui all'[articolo 12 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md).
 
 2.
 
@@ -256,18 +256,18 @@ Al momento dell'avvio dei procedimenti di cui al comma 1, gli organi di polizia 
 
 3.
 
-Le informazioni di cui ai commi 1 e 2 sono notificate per iscritto e contengono altresi' l'indicazione degli effetti giuridici scaturenti dalle infrazioni di cui all'articolo 2, a norma delle vigenti disposizioni del [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+Le informazioni di cui ai commi 1 e 2 sono notificate per iscritto e contengono altresi' l'indicazione degli effetti giuridici scaturenti dalle infrazioni di cui all'articolo 2, a norma delle vigenti disposizioni del [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md).
 
 4.
 
-La lettera d'informazione, redatta secondo il modello riportato in allegato II, e' indirizzata al proprietario, all'intestatario del veicolo o alla persona altrimenti individuata come autore dell'infrazione ed include ogni informazione pertinente quale, in particolare, la natura dell'infrazione in materia di sicurezza stradale di cui all'articolo 2, il luogo, la data e l'ora dell'infrazione, il riferimento all'articolo del [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), oggetto della violazione, la relativa sanzione, nonche', ove opportuno, i dati riguardanti il dispositivo usato per rilevare l'infrazione.
+La lettera d'informazione, redatta secondo il modello riportato in allegato II, e' indirizzata al proprietario, all'intestatario del veicolo o alla persona altrimenti individuata come autore dell'infrazione ed include ogni informazione pertinente quale, in particolare, la natura dell'infrazione in materia di sicurezza stradale di cui all'articolo 2, il luogo, la data e l'ora dell'infrazione, il riferimento all'articolo del [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), oggetto della violazione, la relativa sanzione, nonche', ove opportuno, i dati riguardanti il dispositivo usato per rilevare l'infrazione.
 
 5.
 
 La lettera d'informazione e' redatta nella lingua del documento d'immatricolazione del veicolo con il quale e' stata commessa l'infrazione, se il documento stesso e' disponibile, o in una delle lingue ufficiali dello Stato membro d'immatricolazione.
 
-Note all'[art. 6](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md): 
- - Per l'[art. 12 del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) si veda nelle note all'art. 3.
+Note all'[art. 6](../Codici/Nuovo%20codice%20della%20strada.md): 
+ - Per l'[art. 12 del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) si veda nelle note all'art. 3.
 
 ## Disposizioni in materia di protezione dei dati personali
 

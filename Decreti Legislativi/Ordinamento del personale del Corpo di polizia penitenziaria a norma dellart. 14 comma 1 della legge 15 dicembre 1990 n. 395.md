@@ -696,7 +696,7 @@ La promozione alla qualifica di ispettore capo si consegue, a ruolo aperto, medi
 
 1.
 
-La promozione alla qualifica di ispettore superiore si consegue a ruolo aperto mediante scrutinio per merito assoluto al quale e' ammesso il personale avente una anzianita' di ((otto)) anni di effettivo servizio nella qualifica di ispettore capo. Per l'ammissione allo scrutinio e' necessario il possesso di una delle lauree individuate dal decreto previsto all'[articolo 7, comma 7, del decreto legislativo 21 maggio 2000, n. 146](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20delle%20strutture%20e%20degli%20organici%20dellAmministrazione%20penitenziaria%20e%20dellUfficio%20centrale%20per%20la%20giustizia%20minorile%20nonche%20istituzione%20dei%20ruoli%20direttivi%20ordinario%20e%20speciale_fa04bd0f7cba.md).
+La promozione alla qualifica di ispettore superiore si consegue a ruolo aperto mediante scrutinio per merito assoluto al quale e' ammesso il personale avente una anzianita' di ((otto)) anni di effettivo servizio nella qualifica di ispettore capo. Per l'ammissione allo scrutinio e' necessario il possesso di una delle lauree individuate dal decreto previsto all'[articolo 7, comma 7, del decreto legislativo 21 maggio 2000, n. 146](Adeguamento%20delle%20strutture%20e%20degli%20organici%20dellAmministrazione%20penitenziaria%20e%20dellUfficio%20centrale%20per%20la%20giustizia%20minorile%20nonche%20istituzione%20dei%20ruoli%20direttivi%20ordinario%20e%20speciale_fa04bd0f7cba.md).
 
 2.
 
@@ -1597,7 +1597,7 @@ Le dette commissioni devono, altresi', fornire indicazioni sull'ulteriore utiliz
 
  
 AGGIORNAMENTO (11) 
- Il [D.Lgs. 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) ha disposto (con l'art. 132, comma 2) che dalla data di entrata in vigore del decreto medesimo non si applica, ai fini del passaggio nei ruoli del personale del Corpo nazionale dei vigili dei fuoco, il presente articolo. 
+ Il [D.Lgs. 13 ottobre 2005, n. 217](Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) ha disposto (con l'art. 132, comma 2) che dalla data di entrata in vigore del decreto medesimo non si applica, ai fini del passaggio nei ruoli del personale del Corpo nazionale dei vigili dei fuoco, il presente articolo. 
  Ha inoltre disposto (con l'art. 175, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1°gennaio 2006, relativamente al personale comunque in servizio alla stessa data".
 
 ### Art. 76. — (Modalita' di trasferimento)

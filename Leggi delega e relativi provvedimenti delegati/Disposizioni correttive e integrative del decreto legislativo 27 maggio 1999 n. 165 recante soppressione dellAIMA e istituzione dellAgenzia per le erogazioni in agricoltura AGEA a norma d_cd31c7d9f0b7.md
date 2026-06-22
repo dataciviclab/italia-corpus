@@ -137,7 +137,7 @@ Nota all'art. 2:
  "Art. 2 (Istituzione dell'Agenzia per le erogazioni in agricoltura). - 1. E' istituito, dalla data di entrata in vigore del presente decreto legislativo, l'ente Agenzia per le erogazini in agricoltura, ente di diritto pubblico non economico, di seguito denominato Agenzia. L'Agenzia e' sottoposta alla vigilanza del Ministero delle politiche agricole e forestali, di seguito denominato Ministero.
  2. L'Agenzia e' dotata di autonomia statutaria, regolamentare, organizzativa, amministrativa, finanziaria e contabile.
  3. L'Agenzia ha sede in Roma, fatte salve le diverse determinazioni statutarie, i puo' dotarsi di una sede di rappresentanza presso l'Unione europea.
- 4. L'Agenzia puo' avvalersi del patrocinio dell'Avvocatura dello Stato, ai sensi dell'[art. 43 del regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md), e successive modificazioni ed integrazioni.
+ 4. L'Agenzia puo' avvalersi del patrocinio dell'Avvocatura dello Stato, ai sensi dell'[art. 43 del regio decreto 30 ottobre 1933, n. 1611](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md), e successive modificazioni ed integrazioni.
  4-bis. A decorrere dal 16 ottobre 2000, l'Agenzia subentra all'AIMA in liquidazione in tutti i rapporti attivi e passivi, nonche' nella qualifica di organismo pagatore".
 
 ## Art. 3.

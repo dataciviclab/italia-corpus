@@ -24,7 +24,7 @@ Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/
 
 Vista la [legge 31 luglio 1997, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249), recante «Istituzione dell'Autorita' per le garanzie nelle comunicazioni e norme sui sistemi delle telecomunicazioni e radiotelevisivo»;
 
-Vista la [legge 22 aprile 2021, n. 53](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202019-2020.%2021G00063.md), recante «Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - legge di delegazione europea 2019-2020», in particolare l'articolo 3;
+Vista la [legge 22 aprile 2021, n. 53](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202019-2020.%2021G00063.md), recante «Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - legge di delegazione europea 2019-2020», in particolare l'articolo 3;
 
 Visto il [decreto legislativo 31 luglio 2005, n. 177](Testo%20unico%20dei%20servizi%20di%20media%20audiovisivi%20e%20radiofonici.md), recante «Testo unico dei servizi di media audiovisivi e radiofonici» e ss. modifiche;
 
@@ -115,7 +115,7 @@ L'Autorita', nell'assolvere alla funzione indicata dal comma 7, si conforma alle
  
 ------------- 
 AGGIORNAMEMTO (1) 
-Il [D.Lgs. 25 marzo 2024, n. 50](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%208%20novembre%202021%20n.%20208%20recante%20il%20testo%20unico%20dei%20servizi%20di%20media%20audiovisivi%20in%20considerazione%20dellevoluzione%20delle%20realta%20_286982745d51.md) ha disposto (con l'art. 1, comma 2, lettera b)) che nel comma 2, lettera b), del presente articolo "dopo la parola: «audiovisivo» sono inserite le seguenti: «o radiofonico»".
+Il [D.Lgs. 25 marzo 2024, n. 50](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%208%20novembre%202021%20n.%20208%20recante%20il%20testo%20unico%20dei%20servizi%20di%20media%20audiovisivi%20in%20considerazione%20dellevoluzione%20delle%20realta%20_286982745d51.md) ha disposto (con l'art. 1, comma 2, lettera b)) che nel comma 2, lettera b), del presente articolo "dopo la parola: «audiovisivo» sono inserite le seguenti: «o radiofonico»".
 
 ### Art. 3. — Definizioni
 
@@ -200,7 +200,7 @@ Ai fini del presente testo unico si intende per:
                                 «opere europee»: 
  1) le opere che rientrano nelle seguenti tipologie: 
  1.1) le opere originarie di Stati membri; 
- 1.2) le opere originarie di Stati terzi che sono parti della Convenzione europea sulla televisione transfrontaliera del Consiglio d'Europa, firmata a Strasburgo il 5 maggio 1989 e ratificata dalla [legge 5 ottobre 1991, n. 327](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20europea%20sulla%20televisione%20transfrontaliera%20con%20annesso%20fatta%20a%20Strasburgo%20il%205%20maggio%201989.md) rispondenti ai requisiti di cui al numero 2), a condizione che le opere originarie degli Stati membri non siano soggette a misure discriminatorie nel paese terzo interessato; 
+ 1.2) le opere originarie di Stati terzi che sono parti della Convenzione europea sulla televisione transfrontaliera del Consiglio d'Europa, firmata a Strasburgo il 5 maggio 1989 e ratificata dalla [legge 5 ottobre 1991, n. 327](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20europea%20sulla%20televisione%20transfrontaliera%20con%20annesso%20fatta%20a%20Strasburgo%20il%205%20maggio%201989.md) rispondenti ai requisiti di cui al numero 2), a condizione che le opere originarie degli Stati membri non siano soggette a misure discriminatorie nel paese terzo interessato; 
  1.3) le opere co-prodotte nell'ambito di accordi conclusi nel settore audiovisivo tra l'Unione europea e paesi terzi e che rispettano le condizioni definite in ciascuno di tali accordi, a condizione che le opere originarie degli Stati membri non siano soggette a misure discriminatorie nel paese terzo interessato; 
  2) le opere di cui ai numeri 1.1) e 1.2) sono opere realizzate essenzialmente con il contributo di autori e lavoratori residenti in uno o piu' degli Stati di cui ai numeri 1.1) e 1.2) rispondenti a una delle tre condizioni seguenti: 
  2.1) esse sono realizzate da uno o piu' produttori stabiliti in uno o piu' di tali Stati; 
@@ -483,7 +483,7 @@ In caso di inosservanza dell'ordine, l'Autorita' applica al fornitore di servizi
 
 14.
 
-Le disposizioni del presente articolo si applicano, con i necessari adattamenti, alle trasmissioni televisive provenienti da Stati terzi che siano parte della Convenzione europea sulla televisione transfrontaliera, firmata a Strasburgo il 5 maggio 1989 e ratificata ai sensi della [legge 5 ottobre 1991, n. 327](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20europea%20sulla%20televisione%20transfrontaliera%20con%20annesso%20fatta%20a%20Strasburgo%20il%205%20maggio%201989.md).
+Le disposizioni del presente articolo si applicano, con i necessari adattamenti, alle trasmissioni televisive provenienti da Stati terzi che siano parte della Convenzione europea sulla televisione transfrontaliera, firmata a Strasburgo il 5 maggio 1989 e ratificata ai sensi della [legge 5 ottobre 1991, n. 327](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20europea%20sulla%20televisione%20transfrontaliera%20con%20annesso%20fatta%20a%20Strasburgo%20il%205%20maggio%201989.md).
 
 ## SOGGETTI
 
@@ -821,7 +821,7 @@ Nei limiti di cui al comma 3, ad uno stesso soggetto e' consentita la programmaz
 
 Note all'art. 21: 
  - Per i riferimenti normativi della [legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223) si veda nelle note all'articolo 9. 
- - Il [decreto legislativo 6 settembre 2011, n. 159](Codice%20delle%20leggi%20antimafia%20e%20delle%20misure%20di%20prevenzione%20nonche%20nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%2013%20agosto%202010%20n.%20136.%2011G0201.md) (Codice delle leggi antimafia e delle misure di prevenzione, nonche' nuove disposizioni in materia di documentazione antimafia, a norma degli [articoli 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Piano%20straordinario%20contro%20le%20mafie%20nonche%20delega%20al%20Governo%20in%20materia%20di%20normativa%20antimafia.%2010G0162.md) e [2 della legge 13 agosto 2010, n. 136](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Piano%20straordinario%20contro%20le%20mafie%20nonche%20delega%20al%20Governo%20in%20materia%20di%20normativa%20antimafia.%2010G0162.md)) e' pubblicato nella Gazzetta Ufficiale 28 settembre 2011, n. 226, S.O. 
+ - Il [decreto legislativo 6 settembre 2011, n. 159](Codice%20delle%20leggi%20antimafia%20e%20delle%20misure%20di%20prevenzione%20nonche%20nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%2013%20agosto%202010%20n.%20136.%2011G0201.md) (Codice delle leggi antimafia e delle misure di prevenzione, nonche' nuove disposizioni in materia di documentazione antimafia, a norma degli [articoli 1](../Leggi%20contenenti%20deleghe/Piano%20straordinario%20contro%20le%20mafie%20nonche%20delega%20al%20Governo%20in%20materia%20di%20normativa%20antimafia.%2010G0162.md) e [2 della legge 13 agosto 2010, n. 136](../Leggi%20contenenti%20deleghe/Piano%20straordinario%20contro%20le%20mafie%20nonche%20delega%20al%20Governo%20in%20materia%20di%20normativa%20antimafia.%2010G0162.md)) e' pubblicato nella Gazzetta Ufficiale 28 settembre 2011, n. 226, S.O. 
  - Il testo dell'[articolo 199 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), cosi' recita: 
  «Art. 199. Sottoposizione a misure di sicurezza: disposizione espressa di legge. 
  Nessuno puo' essere sottoposto a misure di sicurezza che non siano espressamente stabilite dalla legge e fuori dei casi dalla legge stessa preveduti.».
@@ -942,7 +942,7 @@ Le emittenti radiofoniche o i fornitori di servizi di media audiovisivi o radiof
 
 7.
 
-L'autorizzazione rilasciata a consorzi o intese di emittenti radiofoniche o di fornitori di servizi di media audiovisivi o radiofonici a trasmettere in contemporanea ((e per il tempo massimo indicato al comma 3)) comporta la possibilita' per detti soggetti di emettere nel tempo di interconnessione programmi di acquisto o produzione del consorzio ovvero programmi di fornitori di servizi di media esteri operanti sotto la giurisdizione di Stati membri dell'Unione europea ovvero di Stati che hanno ratificato la Convenzione europea sulla televisione transfrontaliera, resa esecutiva dalla [legge 5 ottobre 1991, n. 327](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20europea%20sulla%20televisione%20transfrontaliera%20con%20annesso%20fatta%20a%20Strasburgo%20il%205%20maggio%201989.md), nonche' i programmi satellitari. In caso di interconnessione con canali satellitari o con fornitori di servizi di media esteri questa potra' avvenire per un tempo limitato al 50 per cento di quello massimo stabilito per l'interconnessione.
+L'autorizzazione rilasciata a consorzi o intese di emittenti radiofoniche o di fornitori di servizi di media audiovisivi o radiofonici a trasmettere in contemporanea ((e per il tempo massimo indicato al comma 3)) comporta la possibilita' per detti soggetti di emettere nel tempo di interconnessione programmi di acquisto o produzione del consorzio ovvero programmi di fornitori di servizi di media esteri operanti sotto la giurisdizione di Stati membri dell'Unione europea ovvero di Stati che hanno ratificato la Convenzione europea sulla televisione transfrontaliera, resa esecutiva dalla [legge 5 ottobre 1991, n. 327](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20europea%20sulla%20televisione%20transfrontaliera%20con%20annesso%20fatta%20a%20Strasburgo%20il%205%20maggio%201989.md), nonche' i programmi satellitari. In caso di interconnessione con canali satellitari o con fornitori di servizi di media esteri questa potra' avvenire per un tempo limitato al 50 per cento di quello massimo stabilito per l'interconnessione.
 
 8.
 
@@ -2118,7 +2118,7 @@ Il servizio pubblico radiofonico, televisivo e multimediale, ai sensi dell'((art
                             l)
                                 la destinazione di una quota non inferiore al 15 per cento dei ricavi complessivi annui alla produzione di opere europee, ivi comprese quelle realizzate da produttori indipendenti; tale quota trova applicazione a partire dal contratto di servizio stipulato dopo il 6 maggio 2004;
                             m)
-                                la realizzazione nei termini previsti dalla [legge 3 maggio 2004, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20principio%20in%20materia%20di%20assetto%20del%20sistema%20radiotelevisivo%20e%20della%20RAI-Radiotelevisione%20italiana%20S.p.a.%20nonche%20delega%20al%20Governo%20per%20lemanazione%20del%20testo%20unico%20della%20radiotelevisione.md), delle infrastrutture per la trasmissione radiotelevisiva su frequenze terrestri in tecnica digitale;
+                                la realizzazione nei termini previsti dalla [legge 3 maggio 2004, n. 112](../Leggi%20contenenti%20deleghe/Norme%20di%20principio%20in%20materia%20di%20assetto%20del%20sistema%20radiotelevisivo%20e%20della%20RAI-Radiotelevisione%20italiana%20S.p.a.%20nonche%20delega%20al%20Governo%20per%20lemanazione%20del%20testo%20unico%20della%20radiotelevisione.md), delle infrastrutture per la trasmissione radiotelevisiva su frequenze terrestri in tecnica digitale;
                             n)
                                 la realizzazione di servizi interattivi digitali di pubblica utilita';
                             o)
@@ -2392,11 +2392,11 @@ Il consiglio di amministrazione riferisce semestralmente, prima dell'approvazion
 
 27.
 
-La disciplina di nomina del presidente e dei membri del consiglio di amministrazione di cui ai commi 9, 10, 14, 15, 16, 17 e la relativa disciplina di revoca di cui ai commi 18 e 19 si applicano fino a che il numero delle azioni alienate ai sensi dell'[articolo 21 della legge 3 maggio 2004, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20principio%20in%20materia%20di%20assetto%20del%20sistema%20radiotelevisivo%20e%20della%20RAI-Radiotelevisione%20italiana%20S.p.a.%20nonche%20delega%20al%20Governo%20per%20lemanazione%20del%20testo%20unico%20della%20radiotelevisione.md), non superi la quota del 10 per cento del capitale della RAI-Radiotelevisione italiana S.p.a., in considerazione dei rilevanti ed imprescindibili motivi di interesse generale connessi allo svolgimento del servizio.
+La disciplina di nomina del presidente e dei membri del consiglio di amministrazione di cui ai commi 9, 10, 14, 15, 16, 17 e la relativa disciplina di revoca di cui ai commi 18 e 19 si applicano fino a che il numero delle azioni alienate ai sensi dell'[articolo 21 della legge 3 maggio 2004, n. 112](../Leggi%20contenenti%20deleghe/Norme%20di%20principio%20in%20materia%20di%20assetto%20del%20sistema%20radiotelevisivo%20e%20della%20RAI-Radiotelevisione%20italiana%20S.p.a.%20nonche%20delega%20al%20Governo%20per%20lemanazione%20del%20testo%20unico%20della%20radiotelevisione.md), non superi la quota del 10 per cento del capitale della RAI-Radiotelevisione italiana S.p.a., in considerazione dei rilevanti ed imprescindibili motivi di interesse generale connessi allo svolgimento del servizio.
 
 28.
 
-La dismissione della partecipazione dello Stato nella RAI-Radiotelevisione italiana S.p.a. resta disciplinata dall'[articolo 21 della legge 3 maggio 2004, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20principio%20in%20materia%20di%20assetto%20del%20sistema%20radiotelevisivo%20e%20della%20RAI-Radiotelevisione%20italiana%20S.p.a.%20nonche%20delega%20al%20Governo%20per%20lemanazione%20del%20testo%20unico%20della%20radiotelevisione.md).
+La dismissione della partecipazione dello Stato nella RAI-Radiotelevisione italiana S.p.a. resta disciplinata dall'[articolo 21 della legge 3 maggio 2004, n. 112](../Leggi%20contenenti%20deleghe/Norme%20di%20principio%20in%20materia%20di%20assetto%20del%20sistema%20radiotelevisivo%20e%20della%20RAI-Radiotelevisione%20italiana%20S.p.a.%20nonche%20delega%20al%20Governo%20per%20lemanazione%20del%20testo%20unico%20della%20radiotelevisione.md).
 
 ### Art. 64.
 

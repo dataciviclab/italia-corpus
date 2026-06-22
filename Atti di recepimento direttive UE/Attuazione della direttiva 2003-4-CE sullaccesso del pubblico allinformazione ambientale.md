@@ -20,17 +20,17 @@ Visto il [decreto legislativo del 24 febbraio 1997, n. 39](Attuazione%20direttiv
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), e successive modificazioni, recante norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi e successive modifiche;
 
-Visto il [decreto del Presidente della Repubblica 27 giugno 1992, n. 352](../Regolamenti%20governativi/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md), e successive modificazioni, recante regolamento per la disciplina delle modalita' di esercizio e dei casi di esclusione del diritto di accesso ai documenti amministrativi, in attuazione dell'[articolo 24, comma 2, della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_24-com2);
+Visto il [decreto del Presidente della Repubblica 27 giugno 1992, n. 352](../DPR/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md), e successive modificazioni, recante regolamento per la disciplina delle modalita' di esercizio e dei casi di esclusione del diritto di accesso ai documenti amministrativi, in attuazione dell'[articolo 24, comma 2, della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_24-com2);
 
 Vista la [legge 8 luglio 1986, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349), e successive modificazioni, recante istituzione del Ministero dell'ambiente e norme in materia di danno ambientale;
 
 Visto il [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), recante [codice in materia di protezione dei dati personali](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md);
 
-Visto il [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), recante il [codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md);
+Visto il [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), recante il [codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 maggio 2005;
 
-Acquisito il parere della Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), reso nella seduta del 16 giugno 2005;
+Acquisito il parere della Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), reso nella seduta del 16 giugno 2005;
 
 Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
 
@@ -52,7 +52,7 @@ Il presente decreto, nello stabilire i principi generali in materia di informazi
 
 Avvertenza:
 
- Nella Gazzetta Ufficiale - serie generale - del 13 ottobre 2005, si procedera' alla ripubblicazione del testo del presente decreto legislativo, corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
+ Nella Gazzetta Ufficiale - serie generale - del 13 ottobre 2005, si procedera' alla ripubblicazione del testo del presente decreto legislativo, corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
 
 ## Art. 2. — Definizioni
 
@@ -150,7 +150,7 @@ L'accesso all'informazione ambientale e' negato quando la divulgazione dell'info
                         c)
                             allo svolgimento di procedimenti giudiziari o alla possibilita' per l'autorita' pubblica di svolgere indagini per l'accertamento di illeciti;
                         d)
-                            alla riservatezza delle informazioni commerciali o industriali, secondo quanto stabilito dalle disposizioni vigenti in materia, per la tutela di un legittimo interesse economico e pubblico, ivi compresa la riservatezza statistica ed il segreto fiscale, nonche' ai diritti di proprieta' industriale, di cui al [decreto legislativo 10 febbraio 2005, n. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md);
+                            alla riservatezza delle informazioni commerciali o industriali, secondo quanto stabilito dalle disposizioni vigenti in materia, per la tutela di un legittimo interesse economico e pubblico, ivi compresa la riservatezza statistica ed il segreto fiscale, nonche' ai diritti di proprieta' industriale, di cui al [decreto legislativo 10 febbraio 2005, n. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md);
                         e)
                             ai diritti di proprieta' intellettuale;
                         f)
@@ -180,7 +180,7 @@ Nei casi in cui il diritto di accesso e' rifiutato in tutto o in parte, l'autori
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 13 agosto 2010, n. 155](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-50-CE%20relativa%20alla%20qualita%20dellaria%20ambiente%20e%20per%20unaria%20piu%20pulita%20in%20Europa.%2010G0177.md) ha disposto (con l'art. 5, comma 10) che "L'eccezione di cui all'[articolo 5, comma 2, lettera b), del decreto legislativo n. 195 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;195#art_5-com2-letb), non puo' essere comunque opposta in riferimento a dati ed informazioni che le vigenti normative di settore prescrivono di utilizzare per l'adozione di provvedimenti di autorizzazione o di pianificazione pubblici o di tariffe pubbliche"
+Il [D.Lgs. 13 agosto 2010, n. 155](Attuazione%20della%20direttiva%202008-50-CE%20relativa%20alla%20qualita%20dellaria%20ambiente%20e%20per%20unaria%20piu%20pulita%20in%20Europa.%2010G0177.md) ha disposto (con l'art. 5, comma 10) che "L'eccezione di cui all'[articolo 5, comma 2, lettera b), del decreto legislativo n. 195 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;195#art_5-com2-letb), non puo' essere comunque opposta in riferimento a dati ed informazioni che le vigenti normative di settore prescrivono di utilizzare per l'adozione di provvedimenti di autorizzazione o di pianificazione pubblici o di tariffe pubbliche"
 
 ## Art. 6. — T a r i f f e
 
@@ -242,13 +242,13 @@ Il Ministero dell'ambiente e della tutela del territorio garantisce, se possibil
 
 2.
 
-Per le finalita' di cui al comma 1, l'Agenzia per la protezione dell'ambiente e per i servizi tecnici elabora, se necessario, apposite specifiche tecniche da approvare con le modalita' di cui all'[articolo 15, comma 5, del decreto del Presidente della Repubblica 8 agosto 2002, n. 207](../Regolamenti%20governativi/Regolamento%20recante%20approvazione%20dello%20statuto%20dellAgenzia%20per%20la%20protezione%20dellambiente%20e%20per%20i%20servizi%20tecnici%20a%20norma%20dellarticolo%208%20comma%204%20del%20decreto%20legislativo%2030%20luglio%201999%20n.%20300.md).
+Per le finalita' di cui al comma 1, l'Agenzia per la protezione dell'ambiente e per i servizi tecnici elabora, se necessario, apposite specifiche tecniche da approvare con le modalita' di cui all'[articolo 15, comma 5, del decreto del Presidente della Repubblica 8 agosto 2002, n. 207](../DPR/Regolamento%20recante%20approvazione%20dello%20statuto%20dellAgenzia%20per%20la%20protezione%20dellambiente%20e%20per%20i%20servizi%20tecnici%20a%20norma%20dellarticolo%208%20comma%204%20del%20decreto%20legislativo%2030%20luglio%201999%20n.%20300.md).
 
 ## Art. 10. — Relazioni
 
 1.
 
-A decorrere dall'anno 2005 e fino all'anno 2008, entro il 30 dicembre di ogni anno, l'autorita' pubblica trasmette al Ministero dell'ambiente e della tutela del territorio i dati degli archivi automatizzati previsti agli [articoli 11](../Regolamenti%20governativi/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md) e [12 del decreto del Presidente della Repubblica 27 giugno 1992, n. 352](../Regolamenti%20governativi/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md), relativi alle richieste d'accesso all'informazione ambientale, nonche' una relazione sugli adempimenti posti in essere in applicazione del presente decreto.
+A decorrere dall'anno 2005 e fino all'anno 2008, entro il 30 dicembre di ogni anno, l'autorita' pubblica trasmette al Ministero dell'ambiente e della tutela del territorio i dati degli archivi automatizzati previsti agli [articoli 11](../DPR/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md) e [12 del decreto del Presidente della Repubblica 27 giugno 1992, n. 352](../DPR/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md), relativi alle richieste d'accesso all'informazione ambientale, nonche' una relazione sugli adempimenti posti in essere in applicazione del presente decreto.
 
 2.
 

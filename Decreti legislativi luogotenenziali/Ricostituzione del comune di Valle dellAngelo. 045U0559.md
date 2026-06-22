@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 13 dicembre 1928, n. 3176](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Piaggine%20Soprane%20e%20Valle%20dellAngelo%20in%20un%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20%20Piaggine%20.%20028U3176.md);
+Visto il [R. decreto 13 dicembre 1928, n. 3176](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Piaggine%20Soprane%20e%20Valle%20dellAngelo%20in%20un%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20%20Piaggine%20.%20028U3176.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,7 +28,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-Il comune di Valle dell'Angelo, aggregato con [R. decreto 13 dicembre 1928, n. 3176](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Piaggine%20Soprane%20e%20Valle%20dellAngelo%20in%20un%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20%20Piaggine%20.%20028U3176.md), al comune di Piaggine, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
+Il comune di Valle dell'Angelo, aggregato con [R. decreto 13 dicembre 1928, n. 3176](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Piaggine%20Soprane%20e%20Valle%20dellAngelo%20in%20un%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20%20Piaggine%20.%20028U3176.md), al comune di Piaggine, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
  
  Il Prefetto di Salerno, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i comuni di Piaggine e di Valle dell'Angelo.
 
@@ -36,7 +36,7 @@ Il comune di Valle dell'Angelo, aggregato con [R. decreto 13 dicembre 1928, n. 3
 
 Gli organici del ricostituito comune di Valle dell'Angelo e del Comune di Piaggine saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa. 
  
- Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente a quelli organicamente assegnati ai comuni di Valle dell'Angelo e di Piaggine anteriormente alla loro fusione disposta con [R. decreto 13 dicembre 1928, n. 3176](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Piaggine%20Soprane%20e%20Valle%20dellAngelo%20in%20un%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20%20Piaggine%20.%20028U3176.md). 
+ Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente a quelli organicamente assegnati ai comuni di Valle dell'Angelo e di Piaggine anteriormente alla loro fusione disposta con [R. decreto 13 dicembre 1928, n. 3176](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Piaggine%20Soprane%20e%20Valle%20dellAngelo%20in%20un%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20%20Piaggine%20.%20028U3176.md). 
  
  Al personale, gia' in servizio presso il comune di Piaggine che eventualmente sara' inquadrato nei predetti organici, non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 

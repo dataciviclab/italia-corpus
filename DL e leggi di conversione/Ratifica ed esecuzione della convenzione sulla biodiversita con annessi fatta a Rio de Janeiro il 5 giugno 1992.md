@@ -40,7 +40,7 @@ Il Ministero del tesoro e' autorizzato ad apportare, con propri decreti, le occo
 
 AGGIORNAMENTO (1)
 
-La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md), ha disposto (con l'art. 1, comma 355) che "L'autorizzazione di spesa di cui all'[articolo 3, comma 1, della legge 14 febbraio 1994, n. 124](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sulla%20biodiversita%20con%20annessi%20fatta%20a%20Rio%20de%20Janeiro%20il%205%20giugno%201992.md), a decorrere dall'anno 2015 e' ridotta di 1 milione di euro".
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md), ha disposto (con l'art. 1, comma 355) che "L'autorizzazione di spesa di cui all'[articolo 3, comma 1, della legge 14 febbraio 1994, n. 124](Ratifica%20ed%20esecuzione%20della%20convenzione%20sulla%20biodiversita%20con%20annessi%20fatta%20a%20Rio%20de%20Janeiro%20il%205%20giugno%201992.md), a decorrere dall'anno 2015 e' ridotta di 1 milione di euro".
 
 ## Art. 4.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 39 della legge 19 febbraio 1992, n. 142](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), recante delega al Governo per l'attuazione della [direttiva 90/385/CEE del Consiglio del 20 giugno 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;385), concernente il ravvicinamento delle legislazioni degli Stati membri relative ai dispositivi medici impiantabili attivi;
+Visto l'[art. 39 della legge 19 febbraio 1992, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), recante delega al Governo per l'attuazione della [direttiva 90/385/CEE del Consiglio del 20 giugno 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;385), concernente il ravvicinamento delle legislazioni degli Stati membri relative ai dispositivi medici impiantabili attivi;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 10 dicembre 1992;
 
@@ -28,7 +28,7 @@ E M A N A il seguente decreto legislativo:
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
+Il [D.Lgs. 5 agosto 2022, n. 137](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
 
 ## Art. 2.
 
@@ -38,7 +38,7 @@ Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
+Il [D.Lgs. 5 agosto 2022, n. 137](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
 
 ## Art. 3.
 
@@ -48,7 +48,7 @@ Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
+Il [D.Lgs. 5 agosto 2022, n. 137](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
 
 ## Art. 4.
 
@@ -58,7 +58,7 @@ Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
+Il [D.Lgs. 5 agosto 2022, n. 137](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
 
 ## Art. 5. — Certificazione CE
 
@@ -119,7 +119,7 @@ Copia dei certificati CE di conformita' emessi dagli organismi designati ai sens
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 7) che i commi 5, 5-quinquies.1 e 5-quinquies.2, del presente articolo, sono abrogati decorsi ventiquattro mesi dalla data di pubblicazione dell'avviso di cui all'articolo 34, paragrafo 3, del regolamento. 
+Il [D.Lgs. 5 agosto 2022, n. 137](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 7) che i commi 5, 5-quinquies.1 e 5-quinquies.2, del presente articolo, sono abrogati decorsi ventiquattro mesi dalla data di pubblicazione dell'avviso di cui all'articolo 34, paragrafo 3, del regolamento. 
  Ha inoltre disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs. relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
 
 ## Art. 6.
@@ -130,7 +130,7 @@ Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
+Il [D.Lgs. 5 agosto 2022, n. 137](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
 
 ## Art. 7.
 
@@ -140,7 +140,7 @@ Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
+Il [D.Lgs. 5 agosto 2022, n. 137](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
 
 ## Art. 7-bis. — Registrazione delle persone responsabili dell'immissione in commercio).
 
@@ -164,7 +164,7 @@ Se non ha sede in uno Stato membro, il fabbricante che immette in commercio a no
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 8) che i commi 1, 3 e 4, del presente articolo, sono abrogati decorsi ventiquattro mesi dalla data di pubblicazione dell'avviso di cui all'articolo 34, paragrafo 3, del regolamento. 
+Il [D.Lgs. 5 agosto 2022, n. 137](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 8) che i commi 1, 3 e 4, del presente articolo, sono abrogati decorsi ventiquattro mesi dalla data di pubblicazione dell'avviso di cui all'articolo 34, paragrafo 3, del regolamento. 
  Ha inoltre disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
 
 ## Art. 7-ter. — (Banca dati europea).
@@ -188,7 +188,7 @@ Il Ministero della salute trasmette alla banca dati europea le seguenti informaz
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 9) che le lettere b) e c), del comma 1 al presente articolo sono abrogate decorsi sei mesi dalla data di pubblicazione dell'avviso di cui all'articolo 34, paragrafo 3, del regolamento. 
+Il [D.Lgs. 5 agosto 2022, n. 137](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 9) che le lettere b) e c), del comma 1 al presente articolo sono abrogate decorsi sei mesi dalla data di pubblicazione dell'avviso di cui all'articolo 34, paragrafo 3, del regolamento. 
  Ha inoltre disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., decorsi sei mesi dalla data di pubblicazione dell'avviso di cui all'articolo 34, paragrafo 3, del regolamento.
 
 ## Art. 8.
@@ -199,7 +199,7 @@ Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
+Il [D.Lgs. 5 agosto 2022, n. 137](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
 
 ## Art. 8-bis.
 
@@ -209,7 +209,7 @@ Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
+Il [D.Lgs. 5 agosto 2022, n. 137](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
 
 ## Art. 8-ter.
 
@@ -219,7 +219,7 @@ Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
+Il [D.Lgs. 5 agosto 2022, n. 137](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
 
 ## Art. 9.
 
@@ -229,7 +229,7 @@ Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
+Il [D.Lgs. 5 agosto 2022, n. 137](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
 
 ## Art. 9-bis.
 
@@ -239,7 +239,7 @@ Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
+Il [D.Lgs. 5 agosto 2022, n. 137](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
 
 ## Art. 10.
 
@@ -249,7 +249,7 @@ Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
+Il [D.Lgs. 5 agosto 2022, n. 137](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
 
 ## Art. 11.
 
@@ -259,7 +259,7 @@ Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
+Il [D.Lgs. 5 agosto 2022, n. 137](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
 
 ## Art. 12.
 
@@ -269,7 +269,7 @@ Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 5 agosto 2022, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
+Il [D.Lgs. 5 agosto 2022, n. 137](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-745%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20aprile%202017%20relativo%20ai%20dispositivi%20medi_cfdd98b4b245.md) ha disposto (con l'art. 32, comma 10) che le disposizioni del presente D.Lgs., relative ai dispositivi medici di cui all'articolo 120, paragrafi 3 e 4, del regolamento, restano in vigore fino al 27 maggio 2025, nella misura necessaria all'applicazione di tali paragrafi.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

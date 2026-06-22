@@ -26,7 +26,7 @@ Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effet
 
 3.
 
-Il termine per emanare disposizioni correttive al [decreto legislativo 25 febbraio 1995, n. 77](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), emanato ai sensi dell'[articolo 4 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), e nel rispetto dei principi e dei criteri ivi stabiliti, e' prorogato al 30 giugno 1996.
+Il termine per emanare disposizioni correttive al [decreto legislativo 25 febbraio 1995, n. 77](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), emanato ai sensi dell'[articolo 4 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), e nel rispetto dei principi e dei criteri ivi stabiliti, e' prorogato al 30 giugno 1996.
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -48,7 +48,7 @@ Il presente decreto si applica:
 
 2.
 
-COMMA ABROGATO DAL [D. LGS. 23 APRILE 1998, N. 134](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasformazione%20in%20fondazione%20degli%20enti%20lirici%20e%20delle%20istituzioni%20concertistiche%20assimilate%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20b%20della%20legge%2015%20marzo%201997%20n.%2059.md).
+COMMA ABROGATO DAL [D. LGS. 23 APRILE 1998, N. 134](Trasformazione%20in%20fondazione%20degli%20enti%20lirici%20e%20delle%20istituzioni%20concertistiche%20assimilate%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20b%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 3.
 
@@ -350,7 +350,7 @@ Entro trenta giorni dall'approvazione, una copia del bilancio deve essere, a cur
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 23 aprile 1998, n. 134](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasformazione%20in%20fondazione%20degli%20enti%20lirici%20e%20delle%20istituzioni%20concertistiche%20assimilate%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20b%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 2, comma 5) che le disposizioni di cui al presente articolo 16 si applicano a decorrere dal 1 gennaio 1999
+Il [D. Lgs. 23 aprile 1998, n. 134](Trasformazione%20in%20fondazione%20degli%20enti%20lirici%20e%20delle%20istituzioni%20concertistiche%20assimilate%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20b%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 2, comma 5) che le disposizioni di cui al presente articolo 16 si applicano a decorrere dal 1 gennaio 1999
 
 ### Art. 17. — Conservazione dei diritti
 

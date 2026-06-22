@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Vista la [legge 30 dicembre 1923, n. 2814](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20della%20facolta%20di%20arrecare%20opportuni%20emendamenti%20al%20Codice%20civile%20e%20di%20pubblicare%20nuovi%20Codici%20di%20procedura%20civile%20di%20commercio%20e%20per%20la%20marina%20mercantile%20in%20occasione%20de_5c9ef259ae61.md), che delega al Governo la facolta' di pubblicare un nuovo [Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443);
+Vista la [legge 30 dicembre 1923, n. 2814](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20della%20facolta%20di%20arrecare%20opportuni%20emendamenti%20al%20Codice%20civile%20e%20di%20pubblicare%20nuovi%20Codici%20di%20procedura%20civile%20di%20commercio%20e%20per%20la%20marina%20mercantile%20in%20occasione%20de_5c9ef259ae61.md), che delega al Governo la facolta' di pubblicare un nuovo [Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443);
 
 Visto il [R. decreto 28 ottobre 1940, n. 1443](Codice%20di%20procedura%20civile.%20040U1443.md), che approva il testo del [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443);
 

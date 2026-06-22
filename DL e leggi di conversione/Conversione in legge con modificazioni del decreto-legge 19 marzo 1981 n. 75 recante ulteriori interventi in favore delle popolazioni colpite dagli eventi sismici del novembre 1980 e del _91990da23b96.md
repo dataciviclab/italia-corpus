@@ -763,7 +763,7 @@ Per le esigenze dell'Istituto geografico militare, connesse con gli interventi n
 ### Art. 69. — (Relazione al Parlamento).
 
 Il Ministro per gli interventi straordinari nel Mezzogiorno invia semestralmente ai Presidenti delle Camere una relazione scritta sull'attuazione degli interventi previsti dalla presente legge. A tale fine, le Regioni trasmettono ogni sei mesi una relazione sullo stato di attuazione degli interventi di loro competenza.
- Il Governo riferisce contestualmente sul rispetto, per le regioni colpite dal terremoto, della riserva di cui all'articolo 107 del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
+ Il Governo riferisce contestualmente sul rispetto, per le regioni colpite dal terremoto, della riserva di cui all'articolo 107 del testo unico approvato con [decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md).
  Il mancato rispetto di tale riserva, a partire dal 10 gennaio 1982, da parte delle amministrazioni centrali dello Stato, delle aziende autonome e degli enti pubblici a carattere nazionale, preclude la possibilita' di attingere al fondo di cui all'articolo 3 della presente legge.
 
 ### Art. 70. — (Proroga delle aspettative).

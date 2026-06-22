@@ -16,7 +16,7 @@ Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/
 
 Vista la legge di delegazione europea 6 agosto 2013, n. 96;
 
-Visti gli [articoli 1](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md) e [2 della legge 4 giugno 2010, n. 96](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2009;
+Visti gli [articoli 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md) e [2 della legge 4 giugno 2010, n. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2009;
 
 Vista la [direttiva 2012/34/UE del Parlamento europeo e del Consiglio, del 21 novembre 2012](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2012;34), che istituisce uno spazio ferroviario europeo unico;
 
@@ -219,7 +219,7 @@ Se sono pienamente indipendenti l'uno dell'altra, ma entrambi sono controllati d
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 23 novembre 2018, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la modifica del comma 1, lettera r) del presente articolo si applica a decorrere dal 1° gennaio 2019.
+Il [D.Lgs. 23 novembre 2018, n. 139](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la modifica del comma 1, lettera r) del presente articolo si applica a decorrere dal 1° gennaio 2019.
 
 ## Imprese Ferroviarie
 
@@ -321,7 +321,7 @@ In sede di stipula dei contratti previsti al comma 1, lettera c), il gestore del
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 23 novembre 2018, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2019.
+Il [D.Lgs. 23 novembre 2018, n. 139](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2019.
 
 ### Art. 7. — Licenza
 
@@ -357,7 +357,7 @@ Le imprese richiedenti sono tenute, all'atto della presentazione della domanda, 
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 23 novembre 2018, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2019.
+Il [D.Lgs. 23 novembre 2018, n. 139](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2019.
 
 ### Art. 8. — Requisiti per il rilascio della licenza
 
@@ -523,7 +523,7 @@ L'impresa ferroviaria e' tenuta a richiedere la conferma della licenza nel caso 
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 23 novembre 2018, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2019.
+Il [D.Lgs. 23 novembre 2018, n. 139](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2019.
 
 ### Art. 10. — Certificato di sicurezza
 
@@ -792,7 +792,7 @@ Le autorita' competenti conservano le informazioni necessarie per poter risalire
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 23 novembre 2018, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la modifica dei commi 2, 5, 6, 7 e 9 del presente articolo si applica a decorrere dal 1° gennaio 2019.
+Il [D.Lgs. 23 novembre 2018, n. 139](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la modifica dei commi 2, 5, 6, 7 e 9 del presente articolo si applica a decorrere dal 1° gennaio 2019.
 
 ### Art. 12-bis. — (( (Servizi di trasporto passeggeri ad alta velocita'). ))
 
@@ -1304,7 +1304,7 @@ Questi puo' agire per conto del richiedente nella ricerca di capacita' presso al
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 23 novembre 2018, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2019.
+Il [D.Lgs. 23 novembre 2018, n. 139](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2019.
 
 ### Art. 25. — Contratto di utilizzo dell'infrastruttura
 

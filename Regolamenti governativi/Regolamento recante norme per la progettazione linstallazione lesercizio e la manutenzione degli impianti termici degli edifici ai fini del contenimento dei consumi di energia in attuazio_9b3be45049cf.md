@@ -238,7 +238,7 @@ I comuni adeguano i propri regolamenti alle disposizioni di cui ai commi 9, 9-bi
 
 10.
 
-In tutti i casi di nuova installazione o di ristrutturazione dell'impianto termico, che comportino l'installazione di generatori di calore individuali che rientrano nel campo di applicazione della [direttiva 90/396/CEE del 29 giugno 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;396), e' prescritto l'impiego di generatori muniti di marcatura CE. In ogni caso i generatori di calore di tipo B1 (secondo classificazione della norma tecnica UNI-CIG 7129) installati all'interno di locali abitati devono essere muniti all'origine di un dispositivo di sicurezza dello scarico dei prodotti della combustione, secondo quanto indicato nella norma tecnica UNI-CIG EN 297 del 1996. PERIODO SOPPRESSO DALLA [L. 1 MARZO 2002, N. 39](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md).
+In tutti i casi di nuova installazione o di ristrutturazione dell'impianto termico, che comportino l'installazione di generatori di calore individuali che rientrano nel campo di applicazione della [direttiva 90/396/CEE del 29 giugno 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;396), e' prescritto l'impiego di generatori muniti di marcatura CE. In ogni caso i generatori di calore di tipo B1 (secondo classificazione della norma tecnica UNI-CIG 7129) installati all'interno di locali abitati devono essere muniti all'origine di un dispositivo di sicurezza dello scarico dei prodotti della combustione, secondo quanto indicato nella norma tecnica UNI-CIG EN 297 del 1996. PERIODO SOPPRESSO DALLA [L. 1 MARZO 2002, N. 39](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md).
 
 11.
 
@@ -344,7 +344,7 @@ Negli impianti termici centralizzati adibiti al riscaldamento ambientale per una
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 192](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), COME MODIFICATO DAL [D.LGS. 29 DICEMBRE 2006, N. 311](../Decreti%20Legislativi/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2019%20agosto%202005%20n.%20192%20recante%20attuazione%20della%20direttiva%202002-91-CE%20relativa%20al%20rendimento%20energetico%20nelledilizia.md).
+COMMA ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 192](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), COME MODIFICATO DAL [D.LGS. 29 DICEMBRE 2006, N. 311](../Decreti%20Legislativi/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2019%20agosto%202005%20n.%20192%20recante%20attuazione%20della%20direttiva%202002-91-CE%20relativa%20al%20rendimento%20energetico%20nelledilizia.md).
 
 4-bis.
 
@@ -380,7 +380,7 @@ La compilazione iniziale del libretto nel caso di impianti termici di nuova inst
 
 12.
 
-COMMA ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 192](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), COME MODIFICATO DAL [D.LGS. 29 DICEMBRE 2006, N. 311](../Decreti%20Legislativi/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2019%20agosto%202005%20n.%20192%20recante%20attuazione%20della%20direttiva%202002-91-CE%20relativa%20al%20rendimento%20energetico%20nelledilizia.md).
+COMMA ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 192](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), COME MODIFICATO DAL [D.LGS. 29 DICEMBRE 2006, N. 311](../Decreti%20Legislativi/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2019%20agosto%202005%20n.%20192%20recante%20attuazione%20della%20direttiva%202002-91-CE%20relativa%20al%20rendimento%20energetico%20nelledilizia.md).
 
 13.
 
@@ -388,15 +388,15 @@ COMMA ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 192](../Decreti%20Legislativi/Attu
 
 14.
 
-COMMA ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 192](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), COME MODIFICATO DAL [D.LGS. 29 DICEMBRE 2006, N. 311](../Decreti%20Legislativi/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2019%20agosto%202005%20n.%20192%20recante%20attuazione%20della%20direttiva%202002-91-CE%20relativa%20al%20rendimento%20energetico%20nelledilizia.md).
+COMMA ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 192](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), COME MODIFICATO DAL [D.LGS. 29 DICEMBRE 2006, N. 311](../Decreti%20Legislativi/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2019%20agosto%202005%20n.%20192%20recante%20attuazione%20della%20direttiva%202002-91-CE%20relativa%20al%20rendimento%20energetico%20nelledilizia.md).
 
 15.
 
-COMMA ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 192](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), COME MODIFICATO DAL [D.LGS. 29 DICEMBRE 2006, N. 311](../Decreti%20Legislativi/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2019%20agosto%202005%20n.%20192%20recante%20attuazione%20della%20direttiva%202002-91-CE%20relativa%20al%20rendimento%20energetico%20nelledilizia.md).
+COMMA ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 192](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), COME MODIFICATO DAL [D.LGS. 29 DICEMBRE 2006, N. 311](../Decreti%20Legislativi/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2019%20agosto%202005%20n.%20192%20recante%20attuazione%20della%20direttiva%202002-91-CE%20relativa%20al%20rendimento%20energetico%20nelledilizia.md).
 
 16.
 
-COMMA ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 192](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), COME MODIFICATO DAL [D.LGS. 29 DICEMBRE 2006, N. 311](../Decreti%20Legislativi/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2019%20agosto%202005%20n.%20192%20recante%20attuazione%20della%20direttiva%202002-91-CE%20relativa%20al%20rendimento%20energetico%20nelledilizia.md).
+COMMA ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 192](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), COME MODIFICATO DAL [D.LGS. 29 DICEMBRE 2006, N. 311](../Decreti%20Legislativi/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2019%20agosto%202005%20n.%20192%20recante%20attuazione%20della%20direttiva%202002-91-CE%20relativa%20al%20rendimento%20energetico%20nelledilizia.md).
 
 17.
 
@@ -404,15 +404,15 @@ COMMA ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 192](../Decreti%20Legislativi/Attu
 
 18.
 
-COMMA ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 192](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), COME MODIFICATO DAL [D.LGS. 29 DICEMBRE 2006, N. 311](../Decreti%20Legislativi/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2019%20agosto%202005%20n.%20192%20recante%20attuazione%20della%20direttiva%202002-91-CE%20relativa%20al%20rendimento%20energetico%20nelledilizia.md).
+COMMA ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 192](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), COME MODIFICATO DAL [D.LGS. 29 DICEMBRE 2006, N. 311](../Decreti%20Legislativi/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2019%20agosto%202005%20n.%20192%20recante%20attuazione%20della%20direttiva%202002-91-CE%20relativa%20al%20rendimento%20energetico%20nelledilizia.md).
 
 19.
 
-COMMA ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 192](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), COME MODIFICATO DAL [D.LGS. 29 DICEMBRE 2006, N. 311](../Decreti%20Legislativi/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2019%20agosto%202005%20n.%20192%20recante%20attuazione%20della%20direttiva%202002-91-CE%20relativa%20al%20rendimento%20energetico%20nelledilizia.md).
+COMMA ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 192](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), COME MODIFICATO DAL [D.LGS. 29 DICEMBRE 2006, N. 311](../Decreti%20Legislativi/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2019%20agosto%202005%20n.%20192%20recante%20attuazione%20della%20direttiva%202002-91-CE%20relativa%20al%20rendimento%20energetico%20nelledilizia.md).
 
 20.
 
-COMMA ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 192](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), COME MODIFICATO DAL [D.LGS. 29 DICEMBRE 2006, N. 311](../Decreti%20Legislativi/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2019%20agosto%202005%20n.%20192%20recante%20attuazione%20della%20direttiva%202002-91-CE%20relativa%20al%20rendimento%20energetico%20nelledilizia.md).
+COMMA ABROGATO DAL [D.LGS. 19 AGOSTO 2005, N. 192](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), COME MODIFICATO DAL [D.LGS. 29 DICEMBRE 2006, N. 311](../Decreti%20Legislativi/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2019%20agosto%202005%20n.%20192%20recante%20attuazione%20della%20direttiva%202002-91-CE%20relativa%20al%20rendimento%20energetico%20nelledilizia.md).
 
 -------------
 

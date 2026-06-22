@@ -18,7 +18,7 @@ Visto il [decreto legislativo 30 giugno 2016, n. 126](Attuazione%20della%20deleg
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), recante nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi;
 
-Visto il [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), recante approvazione del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
+Visto il [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), recante approvazione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
 
 Visto il [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), recante approvazione del regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773), delle leggi di pubblica sicurezza;
 
@@ -34,7 +34,7 @@ Acquisito il parere della Commissione parlamentare per la semplificazione e dell
 
 Vista la deliberazione del Consiglio dei ministri, adottata nella riunione del 24 novembre 2016;
 
-Sulla proposta del Ministro per la semplificazione e la pubblica amministrazione, di concerto con il Ministro dell'interno in relazione alle autorizzazioni previste dal [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), di cui al [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
+Sulla proposta del Ministro per la semplificazione e la pubblica amministrazione, di concerto con il Ministro dell'interno in relazione alle autorizzazioni previste dal [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), di cui al [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
 
 Emana il seguente decreto legislativo:
 
@@ -254,7 +254,7 @@ Le regioni e gli enti locali, nel disciplinare i regimi amministrativi di loro c
 
 1.
 
-L'[articolo 126 del regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e' abrogato.
+L'[articolo 126 del regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e' abrogato.
 
 2.
 

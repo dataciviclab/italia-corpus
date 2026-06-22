@@ -20,13 +20,13 @@ Visto il [R. decreto 8 luglio 1938, n. 1415](https://www.normattiva.it/uri-res/N
 
 Vista la [legge 16 dicembre 1940, n. 1902](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-12-16;1902), recante variazioni ed aggiunte al testo della legge di guerra Vista la [legge 19 dicembre 1940, n. 1994](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20riguardanti%20per%20lattuale%20conflitto%20il%20trattamento%20dei%20beni%20nemici%20ed%20i%20rapporti%20economici%20con%20le%20persone%20di%20nazionalita%20nemica.%20040U1994.md), recante nuove norme circa il trattamento dei beni nemici ed i rapporti economici con le persone di nazionalita' nemica;
 
-Visto il [R. decreto 10 marzo 1941, n. 618](../Regi%20decreti/Approvazione%20dei%20regolamento%20relativo%20al%20trattamento%20dei%20beni%20nemici%20nel%20territorio%20dello%20Stato.%20041U0618.md), con cui venne approvato il regolamento relativo al trattamento dei beni nemici nel territorio dello Stato;
+Visto il [R. decreto 10 marzo 1941, n. 618](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20dei%20regolamento%20relativo%20al%20trattamento%20dei%20beni%20nemici%20nel%20territorio%20dello%20Stato.%20041U0618.md), con cui venne approvato il regolamento relativo al trattamento dei beni nemici nel territorio dello Stato;
 
 Visto il [R. decreto-legge 4 febbraio 1942, n. 11](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sulle%20aziende%20industriali%20e%20commerciali%20esistenti%20nel%20Regno%20appartenenti%20a%20persone%20di%20nazionalita%20nemica%20o%20nelle%20quali%20esse%20abbiano%20Interessi%20prevalenti.%20042U0011.md), convertito, con modificazioni, nella [legge 17 luglio 1942, n. 1100](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20febbraio%201942-XX%20n.%2011%20contenente%20nuove%20norme%20sulle%20aziende%20industriali%20e%20commerciali%20esistenti%20nel%20Regno%20appartenenti%20a%20pers_894471637f27.md), recante nuove norme sulle aziende appartenenti a persone di nazionalita' nemica;
 
 Visto il [R. decreto 10 giugno 1940, n. 566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-10;566), con cui venne disposta la applicazione della legge di guerra nei territori dello Stato;
 
-Visti i [Regi decreti 11 giugno 1940, n. 567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-11;567), e [4 agosto 1943, n. 714](../Regi%20decreti/Estensione%20dello%20stato%20di%20guerra%20a%20tutto%20il%20territorio%20dello%20Stato.%20043U0714.md), concernenti la dichiarazione dello stato di guerra nei territori dello Stato;
+Visti i [Regi decreti 11 giugno 1940, n. 567](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-11;567), e [4 agosto 1943, n. 714](../Atti%20normativi%20abrogati%20%28in%20originale%29/Estensione%20dello%20stato%20di%20guerra%20a%20tutto%20il%20territorio%20dello%20Stato.%20043U0714.md), concernenti la dichiarazione dello stato di guerra nei territori dello Stato;
 
 Visto il comunicato della Presidenza del Consiglio dei Ministri, concernente lo stato di guerra con la Germania, pubblicato nella Gazzetta Ufficiale del Regno n. 5, dell'11 gennaio 1915;
 
@@ -36,7 +36,7 @@ Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 36](Revoca%2
 
 Visto il decreto del Presidente del Consiglio dei Ministri 18 ottobre 1945, pubblicato nel supplemento straordinario alla Gazzetta Ufficiale n. 132, del 3 novembre 1945, concernente la adozione delle Proclaimed Lists e Statutory Lists delle Nazioni Unite, e visto le successive modificazioni;
 
-Visto il testo unico delle leggi sulla disciplina dei cittadini in tempo di guerra, approvato con [R. decreto 31 ottobre 1942, n. 1611](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulla%20disciplina%20dei%20cittadini%20in%20tempo%20di%20guerra.%20042U1611.md), e visto il regolamento per la sua esecuzione, approvato con [R. decreto 31 ottobre 1942, n. 1612](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulla%20disciplina%20dei%20cittadini%20in%20tempo%20di%20guerra.%20042U1612.md);
+Visto il testo unico delle leggi sulla disciplina dei cittadini in tempo di guerra, approvato con [R. decreto 31 ottobre 1942, n. 1611](../Regi%20decreti/Testo%20unico%20delle%20leggi%20sulla%20disciplina%20dei%20cittadini%20in%20tempo%20di%20guerra.%20042U1611.md), e visto il regolamento per la sua esecuzione, approvato con [R. decreto 31 ottobre 1942, n. 1612](../Regi%20decreti/Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20leggi%20sulla%20disciplina%20dei%20cittadini%20in%20tempo%20di%20guerra.%20042U1612.md);
 
 Visto l'[articolo 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

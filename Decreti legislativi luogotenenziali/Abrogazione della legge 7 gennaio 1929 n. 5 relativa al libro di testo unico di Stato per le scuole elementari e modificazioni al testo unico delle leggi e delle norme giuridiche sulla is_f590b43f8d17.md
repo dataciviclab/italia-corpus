@@ -16,7 +16,7 @@ LUOGOTENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), col quale fu approvato il testo unico delle leggi e delle norme giuridiche sull'istruzione elementare, post-elementare e sulle opere di integrazione;
+Visto il [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), col quale fu approvato il testo unico delle leggi e delle norme giuridiche sull'istruzione elementare, post-elementare e sulle opere di integrazione;
 
 Vista la [legge 7 gennaio 1929, n. 5](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20compilazione%20e%20ladozione%20del%20testo%20unico%20di%20Stato%20per%20le%20singole%20classi%20elementari.%20029U0005.md), concernente norme per la compilazione o l'adozione del libro di testo unico di Stato per le singole classi elementari;
 
@@ -34,7 +34,7 @@ Tutte le norme contenute nella [legge 7 gennaio 1929, n. 5](../Atti%20normativi%
 
 ## Art. 2.
 
-Per la scelta dei libri di testo da adottare nelle scuole elementari, sono richiamate in vigore le norme contenute nel testo unico delle leggi e delle norme giuridiche sull'istruzione elementare, post-elementare e sulle opere di integrazione, approvato col [R. decreto 5 febbraio 1928, n. 577](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), salvo che non sia diversamente disposto dal presente decreto.
+Per la scelta dei libri di testo da adottare nelle scuole elementari, sono richiamate in vigore le norme contenute nel testo unico delle leggi e delle norme giuridiche sull'istruzione elementare, post-elementare e sulle opere di integrazione, approvato col [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md), salvo che non sia diversamente disposto dal presente decreto.
 
 ## Art. 3.
 

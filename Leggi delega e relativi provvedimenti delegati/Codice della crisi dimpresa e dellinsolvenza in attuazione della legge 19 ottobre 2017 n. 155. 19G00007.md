@@ -408,7 +408,7 @@ Per la realizzazione e il funzionamento della piattaforma telematica nazionale d
 
 1.
 
-La piattaforma telematica nazionale di cui all'articolo 13 e' collegata alle banche dati dell'Agenzia delle entrate, dell'Istituto nazionale della previdenza sociale, dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro e dell'agente della riscossione e consente l'accesso alle informazioni contenute nella Centrale dei rischi della Banca d'Italia nel rispetto di quanto disposto dall'articolo 7 del testo unico bancario di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385).
+La piattaforma telematica nazionale di cui all'articolo 13 e' collegata alle banche dati dell'Agenzia delle entrate, dell'Istituto nazionale della previdenza sociale, dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro e dell'agente della riscossione e consente l'accesso alle informazioni contenute nella Centrale dei rischi della Banca d'Italia nel rispetto di quanto disposto dall'articolo 7 del testo unico bancario di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 2.
 
@@ -2367,7 +2367,7 @@ Il consumatore non puo' accedere alla procedura disciplinata in questa sezione s
 
 2.
 
-Il creditore che ha colpevolmente determinato la situazione di indebitamento o il suo aggravamento o che ha violato i principi di cui all'[articolo 124-bis del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_124bis), non puo' presentare opposizione o reclamo in sede di omologa per contestare la convenienza della proposta.
+Il creditore che ha colpevolmente determinato la situazione di indebitamento o il suo aggravamento o che ha violato i principi di cui all'[articolo 124-bis del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), non puo' presentare opposizione o reclamo in sede di omologa per contestare la convenienza della proposta.
 
 ))
 
@@ -8612,7 +8612,7 @@ All'[articolo 47 della legge 29 dicembre 1990, n. 428](../Atti%20di%20recepiment
 
 1.
 
-Al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), sono apportate le seguenti modificazioni:
+Al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 39, comma 4, le parole: «a revocatoria fallimentare» sono sostituite dalle seguenti «alla revocatoria di cui all'articolo 166 del codice della crisi e dell'insolvenza» e le parole: «L'[art. 67 della legge fallimentare](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267#art_67)» sono sostituite dalle seguenti: «L'articolo 166 del codice della crisi e dell'insolvenza»;
                             b)

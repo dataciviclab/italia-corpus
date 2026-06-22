@@ -88,7 +88,7 @@ Il [D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (17)
 
-Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 24) che "Le disposizioni dei commi da 13 a 23 esplicano effetto a decorrere dal 1° gennaio 2012".
+Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 24) che "Le disposizioni dei commi da 13 a 23 esplicano effetto a decorrere dal 1° gennaio 2012".
 
 ## Art. 3. — Istituzione di un conto unico presso gli intermediari per la determinazione dell'imposta sostitutiva
 
@@ -154,7 +154,7 @@ Per i titoli senza cedola aventi durata non superiore a 12 mesi, di cui all'ulti
 
 AGGIORNAMENTO (17)
 Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla
-[L. 14 settembre 2011, n. 148](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 24) che "Le disposizioni dei commi da 13 a 23 esplicano effetto a decorrere dal 1° gennaio 2012".
+[L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 24) che "Le disposizioni dei commi da 13 a 23 esplicano effetto a decorrere dal 1° gennaio 2012".
 
 ## Art. 4. — Disposizioni in tema di versamento, di accertamento e di sanzioni
 
@@ -205,7 +205,7 @@ Qualora i redditi di cui all'articolo 2, comma 1 siano corrisposti direttamente 
 
 AGGIORNAMENTO (17)
 Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla
-[L. 14 settembre 2011, n. 148](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 24) che "Le disposizioni dei commi da 13 a 23 esplicano effetto a decorrere dal 1° gennaio 2012".
+[L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 24) che "Le disposizioni dei commi da 13 a 23 esplicano effetto a decorrere dal 1° gennaio 2012".
 
 ## Art. 6. — Regime fiscale per i soggetti non residenti
 
@@ -233,7 +233,7 @@ Il [D.L. 30 settembre 2003, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:n
 
 AGGIORNAMENTO (22)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 10, comma 5) che la presente modifica si applica a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs.
+Il [D.Lgs. 14 settembre 2015, n. 147](Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 10, comma 5) che la presente modifica si applica a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs.
 medesimo.
 
 ## Art. 7. — Procedura per la non applicazione dell'imposta sostitutiva nei confronti dei non residenti
@@ -365,7 +365,7 @@ Le disposizioni recate nei decreti di cui al comma 4 possono essere modificate c
 
 AGGIORNAMENTO (22)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 10, comma 5) che la presente modifica si applica a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs.
+Il [D.Lgs. 14 settembre 2015, n. 147](Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 10, comma 5) che la presente modifica si applica a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs.
 medesimo.
 
 ## Art. 12. — Decorrenza

@@ -53,7 +53,7 @@ Art. 3:
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale con sentenza 10 - 23 luglio 1974, n. 240 (in G.U. 1a s.s. 31/07/1974 n. 201) ha dichiarato "l'illegittimita' costituzionale dell'[art. 3 della legge 4 gennaio 1951, n. 28](Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201236%20concernente%20il%20riordinamento%20della%20Scuola%20nazionale%20di%20danza%20in%20Roma.md), "Ratifica, con modificazioni, del [decreto legislativo 7 maggio 1948, n. 1236](../Decreti%20Legislativi/Riordinamento%20della%20Scuola%20nazionale%20di%20danza%20in%20Roma.md), concernente il riordinamento della Scuola nazionale di danza in Roma"."
+La Corte Costituzionale con sentenza 10 - 23 luglio 1974, n. 240 (in G.U. 1a s.s. 31/07/1974 n. 201) ha dichiarato "l'illegittimita' costituzionale dell'[art. 3 della legge 4 gennaio 1951, n. 28](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201236%20concernente%20il%20riordinamento%20della%20Scuola%20nazionale%20di%20danza%20in%20Roma.md), "Ratifica, con modificazioni, del [decreto legislativo 7 maggio 1948, n. 1236](../Decreti%20Legislativi/Riordinamento%20della%20Scuola%20nazionale%20di%20danza%20in%20Roma.md), concernente il riordinamento della Scuola nazionale di danza in Roma"."
 
 ## Art. 4.
 
@@ -75,7 +75,7 @@ La Commissione sara' nominata dal Ministro per la pubblica istruzione non oltre 
 
 AGGIORNAMENTO (1)
 
-La [L. 18 marzo 1958, n.297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;297) ha disposto (con l'art. 1, comma 1) che "Il termine per la presentazione delle domande, di cui all'[art. 6, secondo comma, della legge 4 gennaio 1951, n. 28](Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201236%20concernente%20il%20riordinamento%20della%20Scuola%20nazionale%20di%20danza%20in%20Roma.md), e' riaperto e prorogato fino a tre mesi dalla data di entrata in vigore della presente legge."
+La [L. 18 marzo 1958, n.297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;297) ha disposto (con l'art. 1, comma 1) che "Il termine per la presentazione delle domande, di cui all'[art. 6, secondo comma, della legge 4 gennaio 1951, n. 28](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201236%20concernente%20il%20riordinamento%20della%20Scuola%20nazionale%20di%20danza%20in%20Roma.md), e' riaperto e prorogato fino a tre mesi dalla data di entrata in vigore della presente legge."
 
 ## Art. 7.
 

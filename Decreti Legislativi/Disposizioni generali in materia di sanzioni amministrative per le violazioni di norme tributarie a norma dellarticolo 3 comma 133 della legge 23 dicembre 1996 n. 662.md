@@ -97,19 +97,19 @@ I limiti minimi e massimi e la misura della sanzione fissa possono essere aggior
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
 
 ---------------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
 ---------------
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
+Il [D.Lgs. 14 giugno 2024, n. 87](Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
 
 ## Art. 3. — ((Principi di legalita' e proporzionalita'))
 
@@ -135,7 +135,7 @@ Se la legge in vigore al momento in cui e' stata commessa la violazione e le leg
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
+Il [D.Lgs. 14 giugno 2024, n. 87](Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
 
 ## Art. 4. — Imputabilita'
 
@@ -171,7 +171,7 @@ Il [D.Lgs. 5 giugno 1998, n. 203](Disposizioni%20integrative%20e%20correttive%20
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) aveva precedentemente disposto (con l'art. 32, comma 1) l'abrogazione del presente comma a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) aveva precedentemente disposto (con l'art. 32, comma 1) l'abrogazione del presente comma a decorrere dal 1 gennaio 2017.
 
 ## Art. 6. — Cause di non punibilita'
 
@@ -213,7 +213,7 @@ Il [D.Lgs. 5 giugno 1998, n. 203](Disposizioni%20integrative%20e%20correttive%20
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
+Il [D.Lgs. 14 giugno 2024, n. 87](Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
 
 ## Art. 7. — Criteri di determinazione della sanzione
 
@@ -247,19 +247,19 @@ Il [D.Lgs. 5 giugno 1998, n. 203](Disposizioni%20integrative%20e%20correttive%20
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
 
 ---------------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
 
 ---------------
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
+Il [D.Lgs. 14 giugno 2024, n. 87](Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
 
 ## Art. 8. — Intrasmissibilita' della sanzione agli eredi
 
@@ -295,7 +295,7 @@ Quando la violazione e' commessa in concorso da due o piu' persone, alle quali s
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 24 SETTEMBRE 2015, N. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), COME MODIFICATO DALLA [L. 28 DICEMBRE 2015, N. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md). (20)
+COMMA ABROGATO DAL [D.LGS. 24 SETTEMBRE 2015, N. 158](Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), COME MODIFICATO DALLA [L. 28 DICEMBRE 2015, N. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md). (20)
 
 5.
 
@@ -319,20 +319,20 @@ Il [D.Lgs. 5 giugno 1998, n. 203](Disposizioni%20integrative%20e%20correttive%20
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017. 
- Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) aveva precedentemente disposto (con l'art. 32, comma 1) l'abrogazione del presente comma a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017. 
+ Il [D.Lgs. 24 settembre 2015, n. 158](Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) aveva precedentemente disposto (con l'art. 32, comma 1) l'abrogazione del presente comma a decorrere dal 1 gennaio 2017.
 
 ---------------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
 
 ---------------
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
+Il [D.Lgs. 14 giugno 2024, n. 87](Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
 
 ## Art. 12. — (Concorso di violazioni e continuazione).
 
@@ -387,25 +387,25 @@ Il [D.Lgs. 5 giugno 1998, n. 203](Disposizioni%20integrative%20e%20correttive%20
 
 AGGIORNAMENTO (16)
 
-Il [D.P.R. 22 luglio 1998, n. 322](../DPR/Regolamento%20recante%20modalita%20per%20la%20presentazione%20delle%20dichiarazioni%20relative%20alle%20imposte%20sui%20redditi%20allimposta%20regionale%20sulle%20attivita%20produttive%20e%20allimposta%20sul%20valore%20aggiunto%20ai%20_2eac3ead8e12.md), come modificato dal [D.Lgs. 21 novembre 2014, n. 175](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Semplificazione%20fiscale%20e%20dichiarazione%20dei%20redditi%20precompilata.%2014G00190.md), ha disposto (con l'art. 4, comma 6-quinquies) che "Le certificazioni di cui al comma 6-ter sono trasmesse in via telematica all'Agenzia delle entrate entro il 7 marzo dell'anno successivo a quello in cui le somme e i valori sono stati corrisposti Per ogni certificazione omessa, tardiva o errata si applica la sanzione di cento euro in deroga a quanto previsto dall'[articolo 12, del decreto legislativo 18 dicembre 1997, n. 472](Disposizioni%20generali%20in%20materia%20di%20sanzioni%20amministrative%20per%20le%20violazioni%20di%20norme%20tributarie%20a%20norma%20dellarticolo%203%20comma%20133%20della%20legge%2023%20dicembre%201996%20n.%20662.md). Nei casi di errata trasmissione della certificazione, la sanzione non si applica se la trasmissione della corretta certificazione e' effettuata entro i cinque giorni successivi alla scadenza indicata nel primo periodo".
+Il [D.P.R. 22 luglio 1998, n. 322](../DPR/Regolamento%20recante%20modalita%20per%20la%20presentazione%20delle%20dichiarazioni%20relative%20alle%20imposte%20sui%20redditi%20allimposta%20regionale%20sulle%20attivita%20produttive%20e%20allimposta%20sul%20valore%20aggiunto%20ai%20_2eac3ead8e12.md), come modificato dal [D.Lgs. 21 novembre 2014, n. 175](Semplificazione%20fiscale%20e%20dichiarazione%20dei%20redditi%20precompilata.%2014G00190.md), ha disposto (con l'art. 4, comma 6-quinquies) che "Le certificazioni di cui al comma 6-ter sono trasmesse in via telematica all'Agenzia delle entrate entro il 7 marzo dell'anno successivo a quello in cui le somme e i valori sono stati corrisposti Per ogni certificazione omessa, tardiva o errata si applica la sanzione di cento euro in deroga a quanto previsto dall'[articolo 12, del decreto legislativo 18 dicembre 1997, n. 472](Disposizioni%20generali%20in%20materia%20di%20sanzioni%20amministrative%20per%20le%20violazioni%20di%20norme%20tributarie%20a%20norma%20dellarticolo%203%20comma%20133%20della%20legge%2023%20dicembre%201996%20n.%20662.md). Nei casi di errata trasmissione della certificazione, la sanzione non si applica se la trasmissione della corretta certificazione e' effettuata entro i cinque giorni successivi alla scadenza indicata nel primo periodo".
 
 ---------------
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
 
 ---------------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
 
 ---------------
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
+Il [D.Lgs. 14 giugno 2024, n. 87](Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
 
 ## Art. 13. — (Ravvedimento).
 
@@ -485,19 +485,19 @@ La [L. 13 dicembre 2010, n. 220](../Leggi%20finanziarie%20e%20di%20bilancio/Disp
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
 
 ---------------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
 
 ---------------
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
+Il [D.Lgs. 14 giugno 2024, n. 87](Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
 
 ## Art. 13-bis. — (Ravvedimento parziale)
 
@@ -547,19 +547,19 @@ Le disposizioni del presente articolo si applicano, in quanto compatibili, a tut
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
 
 ---------------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
 
 ---------------
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
+Il [D.Lgs. 14 giugno 2024, n. 87](Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
 
 ## Art. 15. — Trasformazione, fusione e scissione di societa'
 
@@ -570,7 +570,7 @@ La societa' o l'ente risultante dalla trasformazione o dalla fusione, anche per 
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
+Il [D.Lgs. 14 giugno 2024, n. 87](Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
 
 ## Art. 16. — Procedimento di irrogazione delle sanzioni
 
@@ -635,7 +635,7 @@ Il [D.L. 6 luglio 2011, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
+Il [D.Lgs. 14 giugno 2024, n. 87](Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
 
 ## Art. 16-bis. — (Disposizioni per l'accelerazione dell'irrogazione delle sanzioni).
 
@@ -655,7 +655,7 @@ Per le violazioni previste al comma 1, il termine di decadenza di un anno previs
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
+Il [D.Lgs. 14 giugno 2024, n. 87](Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
 
 ## Art. 17. — Irrogazione immediata
 
@@ -703,7 +703,7 @@ Il [D.L. 6 luglio 2011, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
+Il [D.Lgs. 14 giugno 2024, n. 87](Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
 
 ## Art. 17-bis. — (Definizione agevolata delle sanzioni in caso di autotutela parziale)
 
@@ -719,7 +719,7 @@ Nei casi di annullamento parziale dell'atto il contribuente puo' avvalersi degli
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
+Il [D.Lgs. 14 giugno 2024, n. 87](Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
 
 ## Art. 18. — Tutela giurisdizionale e ricorsi amministrativi
 
@@ -868,7 +868,7 @@ Le singole leggi d'imposta, nel prevedere i casi di applicazione delle sanzioni 
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
+Il [D.Lgs. 14 giugno 2024, n. 87](Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
 
 ## Art. 22. — Ipoteca e sequestro conservativo.
 
@@ -898,7 +898,7 @@ Quando la convocazione della controparte potrebbe pregiudicare l'attuazione del 
 
 5.
 
-COMMA SOPPRESSO DAL [D.LGS. 24 SETTEMBRE 2015, N. 156](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20per%20la%20revisione%20della%20disciplina%20degli%20interpelli%20e%20del%20contenzioso%20tributario%20in%20attuazione%20degli%20articoli%206%20comma%206%20e%2010%20comma%201%20lettere%20a%20e%20b%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00167.md).
+COMMA SOPPRESSO DAL [D.LGS. 24 SETTEMBRE 2015, N. 156](Misure%20per%20la%20revisione%20della%20disciplina%20degli%20interpelli%20e%20del%20contenzioso%20tributario%20in%20attuazione%20degli%20articoli%206%20comma%206%20e%2010%20comma%201%20lettere%20a%20e%20b%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00167.md).
 
 6.
 
@@ -948,13 +948,13 @@ Il [D.Lgs. 5 giugno 1998, n. 203](Disposizioni%20integrative%20e%20correttive%20
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
 
 -------------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
 
 ## Art. 24. — Riscossione della sanzione
 

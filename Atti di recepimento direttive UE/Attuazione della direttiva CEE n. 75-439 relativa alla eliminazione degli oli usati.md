@@ -84,7 +84,7 @@ Chiunque ottiene, raccoglie, riutilizza o elimina oli usati in quantitativi supe
 ## Art. 9.
 
 La vigilanza sull'applicazione del presente decreto e' demandata al Ministero dell'industria, del commercio e dell'artigianato congiuntamente al Ministero delle finanze.
- Il consorzio dovra' trasmettere al Ministero dell'industria, del commercio e dell'artigianato, entro un mese dall'approvazione, il bilancio consuntivo delle gestioni annuali sottoposto a revisione da parte di societa' a cio' autorizzate ai sensi e per gli effetti del [decreto del Presidente della Repubblica 31 marzo 1975, n. 136](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20a%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20il%20controllo%20contabile%20e%20la%20certificazione%20dei%20bilanci%20delle%20societa%20per%20azioni%20quotate%20in%20borsa.md).
+ Il consorzio dovra' trasmettere al Ministero dell'industria, del commercio e dell'artigianato, entro un mese dall'approvazione, il bilancio consuntivo delle gestioni annuali sottoposto a revisione da parte di societa' a cio' autorizzate ai sensi e per gli effetti del [decreto del Presidente della Repubblica 31 marzo 1975, n. 136](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20a%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20il%20controllo%20contabile%20e%20la%20certificazione%20dei%20bilanci%20delle%20societa%20per%20azioni%20quotate%20in%20borsa.md).
  E' inoltre in facolta' del Ministero dell'industria, del commercio e dell'artigianato delegare un proprio funzionario ad assistere alle riunioni degli organi deliberanti del consorzio.
 
 ## Art. 10.

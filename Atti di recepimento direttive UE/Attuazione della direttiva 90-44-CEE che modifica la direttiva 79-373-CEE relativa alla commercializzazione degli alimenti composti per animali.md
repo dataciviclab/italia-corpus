@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 46 della legge 19 febbraio 1992, n. 142](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), recante delega al Governo per l'attuazione della [direttiva 90/44/CEE del Consiglio del 22 gennaio 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;44), che modifica la [direttiva 79/373/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;373) relativa alla commercializzazione degli alimenti composti per animali;
+Visto l'[art. 46 della legge 19 febbraio 1992, n. 142](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), recante delega al Governo per l'attuazione della [direttiva 90/44/CEE del Consiglio del 22 gennaio 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;44), che modifica la [direttiva 79/373/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;373) relativa alla commercializzazione degli alimenti composti per animali;
 
 Viste le [direttive 91/334/CEE della Commissione del 6 giugno 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;334), [91/357/CEE della Commissione del 13 giugno 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;357) e [91/681/CEE del Consiglio del 19 dicembre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;681), concernenti l'etichettatura dei mangimi;
 
@@ -35,7 +35,7 @@ In attuazione della [direttiva del Consiglio 90/44/CEE del 22 gennaio 1990](http
 L'allegato VIII della predetta legge e' abrogato.
 
 AVVERTENZA:
- Per ragioni di urgenza si omette la pubblicazione delle note al presente decreto, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 14 marzo 1986, n. 217](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
+ Per ragioni di urgenza si omette la pubblicazione delle note al presente decreto, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
 
 ## Art. 2.
 

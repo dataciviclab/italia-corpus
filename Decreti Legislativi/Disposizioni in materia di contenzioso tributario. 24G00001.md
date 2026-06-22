@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 9 agosto 2023, n. 111](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), con la quale e' stata conferita delega al Governo per la riforma fiscale;
+Vista la [legge 9 agosto 2023, n. 111](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), con la quale e' stata conferita delega al Governo per la riforma fiscale;
 
 Visti, in particolare, gli articoli 4, comma 1, lettera h) e 19 comma 1, lettere da a) a h) recanti principi e criteri direttivi, rispettivamente, in materia di autotutela e di revisione della disciplina del contenzioso tributario;
 
@@ -191,7 +191,7 @@ Le disposizioni del presente decreto si applicano ai giudizi instaurati, in prim
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale, con sentenza 30 gennaio - 27 marzo 2025 n. 36 (in G.U. 1a s.s. 2/4/2025, n. 14) ha dichiarato "l'illegittimita' costituzionale dell'[art. 4, comma 2, del decreto legislativo 30 dicembre 2023, n. 220](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20contenzioso%20tributario.%2024G00001.md) (Disposizioni in materia di contenzioso tributario), nella parte in cui prescrive che le disposizioni di cui all'art. 1, comma 1, lettera bb), dello stesso [d.lgs. n. 220 del 2023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023;220) si applicano ai giudizi instaurati in secondo grado a decorrere dal giorno successivo alla sua entrata in vigore, anziche' ai giudizi di appello il cui primo grado sia instaurato successivamente all'entrata in vigore del medesimo decreto legislativo".
+La Corte Costituzionale, con sentenza 30 gennaio - 27 marzo 2025 n. 36 (in G.U. 1a s.s. 2/4/2025, n. 14) ha dichiarato "l'illegittimita' costituzionale dell'[art. 4, comma 2, del decreto legislativo 30 dicembre 2023, n. 220](Disposizioni%20in%20materia%20di%20contenzioso%20tributario.%2024G00001.md) (Disposizioni in materia di contenzioso tributario), nella parte in cui prescrive che le disposizioni di cui all'art. 1, comma 1, lettera bb), dello stesso [d.lgs. n. 220 del 2023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023;220) si applicano ai giudizi instaurati in secondo grado a decorrere dal giorno successivo alla sua entrata in vigore, anziche' ai giudizi di appello il cui primo grado sia instaurato successivamente all'entrata in vigore del medesimo decreto legislativo".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -89,7 +89,7 @@ I prodotti di cui all'articolo 1, comma 1, possono essere sottoposti ai trattame
 
 Si applicano le seguenti particolari disposizioni:
                         a)
-                            LETTERA SOPPRESSA DAL [D.LGS. 19 FEBBRAIO 2014, N. 20](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202012-12-UE%20che%20modifica%20la%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20e%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.%2014G00032.md);
+                            LETTERA SOPPRESSA DAL [D.LGS. 19 FEBBRAIO 2014, N. 20](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202012-12-UE%20che%20modifica%20la%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20e%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.%2014G00032.md);
                         b)
                             le diciture "da concentrato", "da concentrati", "parzialmente da concentrato" o "parzialmente da concentrati" devono figurare nell'etichettatura delle miscele di succo di frutta e di succo di frutta ottenuto da concentrato e di nettare di frutta ottenuto interamente o parzialmente da concentrato immediatamente accanto alla denominazione di vendita, in evidenza rispetto all'intero contesto e a caratteri chiaramente visibili;
                         b-bis)
@@ -136,7 +136,7 @@ Agli effetti del comma 5, se il prodotto e' fabbricato con una sola specie di fr
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 30 dicembre 2025, n. 207](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
+Il [D.Lgs. 30 dicembre 2025, n. 207](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
  Ha inoltre disposto (con l'art. 5, comma 2) che "I prodotti immessi sul mercato o etichettati anteriormente al 14 giugno 2026, in conformita' alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono essere commercializzati fino all'esaurimento delle scorte".
 
 ## Art. 5. — Abrogazione

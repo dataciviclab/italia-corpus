@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Nelle Commissioni previste dagli [articoli 56](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [57 del regio decreto 12 luglio 1923, n. 1491](../Regi%20decreti/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sulle pensioni di guerra, e successive modificazioni, e' incluso un sanitario avente la qualifica di mutilato od invalido per la lotta di liberazione o di partigiano combattente.
+Nelle Commissioni previste dagli [articoli 56](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md) e [57 del regio decreto 12 luglio 1923, n. 1491](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20tecnico-giuridica%20delle%20norme%20vigenti%20sulle%20Pensioni%20di%20guerra.%20023U1491.md), sulle pensioni di guerra, e successive modificazioni, e' incluso un sanitario avente la qualifica di mutilato od invalido per la lotta di liberazione o di partigiano combattente.
 
 ## Art. 2.
 

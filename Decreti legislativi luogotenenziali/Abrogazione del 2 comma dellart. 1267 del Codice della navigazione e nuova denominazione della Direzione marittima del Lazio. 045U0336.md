@@ -32,7 +32,7 @@ Il [2° comma dell'art. 1267 del Codice della navigazione](../Codici/Approvazion
 
 ## Art. 2.
 
-La Direzione Marittima del Lazio, prevista dalla tabella annessa al [R. decreto del 3 marzo 1938, n. 243](../Regi%20decreti/Nuove%20tabelle%20delle%20circoscrizioni%20territoriali%20della%20marina%20mercantile.%20038U0243.md), assume la denominazione di « Direzione marittima di Civitavecchia», restando invariata la circoscrizione territoriale stabilita per la Direzione stessa. 
+La Direzione Marittima del Lazio, prevista dalla tabella annessa al [R. decreto del 3 marzo 1938, n. 243](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20tabelle%20delle%20circoscrizioni%20territoriali%20della%20marina%20mercantile.%20038U0243.md), assume la denominazione di « Direzione marittima di Civitavecchia», restando invariata la circoscrizione territoriale stabilita per la Direzione stessa. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
  

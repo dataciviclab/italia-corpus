@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 22 della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), recante delega al Governo per l'attuazione della [direttiva n. 85/611/CEE del Consiglio del 20 dicembre 1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;611) e della [direttiva n. 88/220/CEE del Consiglio del 22 marzo 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;220), relative agli organismi di investimento collettivo in valori mobiliari, operanti nella forma di societa' di investimento a capitale variabile (SICAV);
+Visto l'[art. 22 della legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), recante delega al Governo per l'attuazione della [direttiva n. 85/611/CEE del Consiglio del 20 dicembre 1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;611) e della [direttiva n. 88/220/CEE del Consiglio del 22 marzo 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;220), relative agli organismi di investimento collettivo in valori mobiliari, operanti nella forma di societa' di investimento a capitale variabile (SICAV);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 gennaio 1992;
 
@@ -27,7 +27,7 @@ Sulla proposta del Ministro per il coordinamento delle politiche comunitarie, di
 
  
 AGGIORNAMENTO (2) 
-Il [D. Lgs. 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera i)) che il presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del medesimo decreto.
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera i)) che il presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del medesimo decreto.
 
 ## Art. 2.
 
@@ -38,7 +38,7 @@ Il [D. Lgs. 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20di
 
  
 AGGIORNAMENTO (2) 
-Il [D. Lgs. 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera i)) che il presente articolo e' abrogato, ma i commi 3 e 4 continuano ad essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del medesimo decreto.
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera i)) che il presente articolo e' abrogato, ma i commi 3 e 4 continuano ad essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del medesimo decreto.
 
 ## Art. 3.
 
@@ -53,7 +53,7 @@ Il [D. Lgs. 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20di
 
  
 AGGIORNAMENTO (2) 
-Il [D. Lgs. 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera i)) che il presente articolo e' abrogato, ma i commi 1 e 4 continuano ad essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del medesimo decreto.
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera i)) che il presente articolo e' abrogato, ma i commi 1 e 4 continuano ad essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del medesimo decreto.
 
 ## Art. 5.
 
@@ -64,7 +64,7 @@ Il [D. Lgs. 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20di
 
  
 AGGIORNAMENTO (2) 
-Il [D. Lgs. 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera i)) che il presente articolo e' abrogato, ma i commi 3, 6, 7, 8, 9, 10 e 11 continuano ad essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del medesimo decreto.
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera i)) che il presente articolo e' abrogato, ma i commi 3, 6, 7, 8, 9, 10 e 11 continuano ad essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del medesimo decreto.
 
 ## Art. 6.
 
@@ -75,7 +75,7 @@ Il [D. Lgs. 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20di
 
  
 AGGIORNAMENTO (2) 
-Il [D. Lgs. 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera i)) che il presente articolo e' abrogato, ma il , comma 2 continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del medesimo decreto.
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera i)) che il presente articolo e' abrogato, ma il , comma 2 continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del medesimo decreto.
 
 ## Art. 7.
 
@@ -86,7 +86,7 @@ Il [D. Lgs. 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20di
 
  
 AGGIORNAMENTO (2) 
-Il [D. Lgs. 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera i)) che il presente articolo e' abrogato, ma i , commi 1, 2, 3, 4, 5 e 6 continuano ad essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del medesimo decreto.
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera i)) che il presente articolo e' abrogato, ma i , commi 1, 2, 3, 4, 5 e 6 continuano ad essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del medesimo decreto.
 
 ## Art. 8.
 
@@ -97,7 +97,7 @@ Il [D. Lgs. 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20di
 
  
 AGGIORNAMENTO (2) 
-Il [D. Lgs. 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera i)) che il presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del medesimo decreto.
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera i)) che il presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del medesimo decreto.
 
 ## Art. 9.
 
@@ -108,7 +108,7 @@ Il [D. Lgs. 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20di
 
  
 AGGIORNAMENTO (2) 
-Il [D. Lgs. 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera i)) che il presente articolo e' abrogato, ma i commi 2 e 3 continuano ad essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del medesimo decreto.
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera i)) che il presente articolo e' abrogato, ma i commi 2 e 3 continuano ad essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del medesimo decreto.
 
 ## Art. 10.
 

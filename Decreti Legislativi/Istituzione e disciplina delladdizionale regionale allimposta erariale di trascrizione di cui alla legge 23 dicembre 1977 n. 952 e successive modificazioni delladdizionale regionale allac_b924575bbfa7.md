@@ -119,14 +119,14 @@ Le aliquote applicabili a seguito dell'entrata in vigore del presente decreto e 
 
  
 AGGIORNAMENTO (1) 
- La [L. 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md) ha disposto (con l'art. 75, comma 7) che " Le disposizioni di cui all'[articolo 6, comma 1, lettera b), della legge 14 giugno 1990, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20delega%20in%20materia%20di%20autonomia%20impositiva%20delle%20regioni%20e%20altre%20disposizioni%20concernenti%20i%20rapporti%20finanziari%20tra%20lo%20Stato%20e%20le%20regioni.md), concernente delega al Governo in materia di autonomia impositiva delle regioni, e quelle di cui all'[articolo 9 del decreto legislativo 21 dicembre 1990, n. 398](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20e%20disciplina%20delladdizionale%20regionale%20allimposta%20erariale%20di%20trascrizione%20di%20cui%20alla%20legge%2023%20dicembre%201977%20n.%20952%20e%20successive%20modificazioni%20delladdizionale%20regionale%20allac_b924575bbfa7.md), emanato in attuazione della delega anzidetta, devono intendersi rivolte ad escludere le imprese industriali ed artigiane che impiegano gas metano come combustibile sia dall'addizionale regionale all'imposta erariale di consumo sia dalla imposta regionale sostitutiva." 
+ La [L. 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md) ha disposto (con l'art. 75, comma 7) che " Le disposizioni di cui all'[articolo 6, comma 1, lettera b), della legge 14 giugno 1990, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20delega%20in%20materia%20di%20autonomia%20impositiva%20delle%20regioni%20e%20altre%20disposizioni%20concernenti%20i%20rapporti%20finanziari%20tra%20lo%20Stato%20e%20le%20regioni.md), concernente delega al Governo in materia di autonomia impositiva delle regioni, e quelle di cui all'[articolo 9 del decreto legislativo 21 dicembre 1990, n. 398](Istituzione%20e%20disciplina%20delladdizionale%20regionale%20allimposta%20erariale%20di%20trascrizione%20di%20cui%20alla%20legge%2023%20dicembre%201977%20n.%20952%20e%20successive%20modificazioni%20delladdizionale%20regionale%20allac_b924575bbfa7.md), emanato in attuazione della delega anzidetta, devono intendersi rivolte ad escludere le imprese industriali ed artigiane che impiegano gas metano come combustibile sia dall'addizionale regionale all'imposta erariale di consumo sia dalla imposta regionale sostitutiva." 
  
 ----------------
 
 
  
 AGGIORNAMENTO (3) 
- La [L. 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md) ha disposto (con l'art. 1, comma 153) che "La misura massima dell'addizionale regionale all'imposta di consumo sul gas metano e dell'imposta regionale sostitutiva per le utenze esenti di cui all'[articolo 9 del decreto legislativo 21 dicembre 1990, n. 398](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20e%20disciplina%20delladdizionale%20regionale%20allimposta%20erariale%20di%20trascrizione%20di%20cui%20alla%20legge%2023%20dicembre%201977%20n.%20952%20e%20successive%20modificazioni%20delladdizionale%20regionale%20allac_b924575bbfa7.md), e successive modificazioni e integrazioni, e' determinata in lire 60 al metro cubo di gas erogato."
+ La [L. 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md) ha disposto (con l'art. 1, comma 153) che "La misura massima dell'addizionale regionale all'imposta di consumo sul gas metano e dell'imposta regionale sostitutiva per le utenze esenti di cui all'[articolo 9 del decreto legislativo 21 dicembre 1990, n. 398](Istituzione%20e%20disciplina%20delladdizionale%20regionale%20allimposta%20erariale%20di%20trascrizione%20di%20cui%20alla%20legge%2023%20dicembre%201977%20n.%20952%20e%20successive%20modificazioni%20delladdizionale%20regionale%20allac_b924575bbfa7.md), e successive modificazioni e integrazioni, e' determinata in lire 60 al metro cubo di gas erogato."
 
 ### Art. 10.
 
@@ -134,7 +134,7 @@ AGGIORNAMENTO (3)
 
 1.
 
-I tributi di cui ai commi 1 e 2 dell'articolo 9 sono dovuti dai soggetti indicati dall'[articolo 26, commi 7](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md) e [8, del decreto legislativo 26 ottobre 1995, n. 504](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md).
+I tributi di cui ai commi 1 e 2 dell'articolo 9 sono dovuti dai soggetti indicati dall'[articolo 26, commi 7](Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md) e [8, del decreto legislativo 26 ottobre 1995, n. 504](Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md).
 
 2.
 
@@ -146,7 +146,7 @@ La dichiarazione di cui all'[articolo 26, comma 13, del decreto legislativo n. 5
 
 4.
 
-Per i termini e le modalita' di versamento dei tributi regionali a ciascuna regione, si applica quanto stabilito nell'[articolo 26 del decreto legislativo 26 ottobre 1995, n. 504](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md).
+Per i termini e le modalita' di versamento dei tributi regionali a ciascuna regione, si applica quanto stabilito nell'[articolo 26 del decreto legislativo 26 ottobre 1995, n. 504](Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md).
 
 ))
 

@@ -408,7 +408,7 @@ Le misure agevolative previste dal presente articolo tengono conto delle risorse
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Decreti%20Legislativi/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 72, comma 5) che "Per l'anno 2017, la dotazione della seconda sezione del Fondo di cui all'[articolo 9, comma 1, lettera g), della legge 6 giugno 2016, n. 106](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20del%20Terzo%20settore%20dellimpresa%20sociale%20e%20per%20la%20disciplina%20del%20servizio%20civile%20universale.%2016G00118.md), e' incrementata di 40 milioni di euro. A decorrere dall'anno 2018 la medesima dotazione e' incrementata di 20 milioni di euro annui, salvo che per l'anno 2021, per il quale e' incrementata di 3,9 milioni di euro".
+Il [D.Lgs. 3 luglio 2017, n. 117](../Decreti%20Legislativi/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha disposto (con l'art. 72, comma 5) che "Per l'anno 2017, la dotazione della seconda sezione del Fondo di cui all'[articolo 9, comma 1, lettera g), della legge 6 giugno 2016, n. 106](Delega%20al%20Governo%20per%20la%20riforma%20del%20Terzo%20settore%20dellimpresa%20sociale%20e%20per%20la%20disciplina%20del%20servizio%20civile%20universale.%2016G00118.md), e' incrementata di 40 milioni di euro. A decorrere dall'anno 2018 la medesima dotazione e' incrementata di 20 milioni di euro annui, salvo che per l'anno 2021, per il quale e' incrementata di 3,9 milioni di euro".
 
 --------------
 

@@ -116,7 +116,7 @@ Entro ventiquattro mesi dalla data di entrata in vigore dell'ultimo dei decreti 
 
 AGGIORNAMENTO (1)
 
-La [L. 2 dicembre 2025, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-02;182) ha disposto (con l'art. 50, comma 2) che "Il termine previsto all'[articolo 3, comma 1, della legge 27 ottobre 2023, n. 160](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20revisione%20del%20sistema%20degli%20incentivi%20alle%20imprese%20e%20disposizioni%20di%20semplificazione%20delle%20relative%20procedure%20nonche%20in%20materia%20di%20termini%20di%20delega%20per%20la_bd8a5c3b7ffc.md), e' prorogato al 31 marzo 2026 per l'esercizio della delega riferita all'adozione delle disposizioni di cui al comma 2, lettera a), del medesimo articolo 3".
+La [L. 2 dicembre 2025, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-02;182) ha disposto (con l'art. 50, comma 2) che "Il termine previsto all'[articolo 3, comma 1, della legge 27 ottobre 2023, n. 160](Delega%20al%20Governo%20in%20materia%20di%20revisione%20del%20sistema%20degli%20incentivi%20alle%20imprese%20e%20disposizioni%20di%20semplificazione%20delle%20relative%20procedure%20nonche%20in%20materia%20di%20termini%20di%20delega%20per%20la_bd8a5c3b7ffc.md), e' prorogato al 31 marzo 2026 per l'esercizio della delega riferita all'adozione delle disposizioni di cui al comma 2, lettera a), del medesimo articolo 3".
 
 ## Art. 4. — Principi e criteri direttivi di delega per la razionalizzazione dell'offerta di incentivi
 

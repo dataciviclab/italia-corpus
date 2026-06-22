@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-E' autorizzata, nell'esercizio finanziario 1947-1948, la spesa di due miliardi di lire per i sussidi integrativi di esercizio di cui all'[art. 27, lettera b) del regio decreto-legge 29 luglio 1938, n. 1121](../Atti%20normativi%20abrogati%20%28in%20originale%29/Unificazione%20del%20regime%20tributario%20per%20lautomobilismo%20industriale.%20038U1121.md) e all'[art. 4 del decreto legislativo luogotenenziale 12 aprile 1946, n. 338](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20per%20le%20ferrovie%20tramvie%20e%20linee%20di%20navigazione%20interna%20concesse%20allindustria%20privata%20danneggiata%20da%20circostanze%20dipendenti%20dallo%20Stato%20di%20guerra.md).
+E' autorizzata, nell'esercizio finanziario 1947-1948, la spesa di due miliardi di lire per i sussidi integrativi di esercizio di cui all'[art. 27, lettera b) del regio decreto-legge 29 luglio 1938, n. 1121](../Atti%20normativi%20abrogati%20%28in%20originale%29/Unificazione%20del%20regime%20tributario%20per%20lautomobilismo%20industriale.%20038U1121.md) e all'[art. 4 del decreto legislativo luogotenenziale 12 aprile 1946, n. 338](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20le%20ferrovie%20tramvie%20e%20linee%20di%20navigazione%20interna%20concesse%20allindustria%20privata%20danneggiata%20da%20circostanze%20dipendenti%20dallo%20Stato%20di%20guerra.md).
  Il Ministro per il tesoro e' autorizzato a provvedere alle occorrenti variazioni di bilancio.
 
 ## Art. 2.

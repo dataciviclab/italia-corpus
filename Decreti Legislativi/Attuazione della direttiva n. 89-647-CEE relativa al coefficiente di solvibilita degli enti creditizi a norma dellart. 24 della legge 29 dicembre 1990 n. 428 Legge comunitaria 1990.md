@@ -22,7 +22,7 @@ vigente: true
 
  
 AGGIORNAMENTO (2) 
- Il [D. Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) ha disposto (con l'art. 161, comma 2) che esso continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del suindicato [D.Lgs. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385).
+ Il [D. Lgs. 1 settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) ha disposto (con l'art. 161, comma 2) che esso continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del suindicato [D.Lgs. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385).
 
 ## Art. 2.
 
@@ -38,7 +38,7 @@ AGGIORNAMENTO (2)
 
  
 AGGIORNAMENTO (2) 
- Il [D. Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) ha disposto (con l'art. 161, comma 2) che esso continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del suindicato [D.Lgs. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385).
+ Il [D. Lgs. 1 settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) ha disposto (con l'art. 161, comma 2) che esso continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del suindicato [D.Lgs. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385).
 
 ## Art. 3.
 
@@ -55,7 +55,7 @@ AGGIORNAMENTO (2)
 
  
 AGGIORNAMENTO (2) 
- Il [D. Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) ha disposto (con l'art. 161, comma 2) che esso continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del suindicato [D.Lgs. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385).
+ Il [D. Lgs. 1 settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) ha disposto (con l'art. 161, comma 2) che esso continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del suindicato [D.Lgs. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385).
 
 ## Art. 4.
 
@@ -70,7 +70,7 @@ AGGIORNAMENTO (2)
 
  
 AGGIORNAMENTO (2) 
- Il [D. Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) ha disposto (con l'art. 161, comma 2) che esso continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del suindicato [D.Lgs. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385).
+ Il [D. Lgs. 1 settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) ha disposto (con l'art. 161, comma 2) che esso continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del suindicato [D.Lgs. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385).
 
 ## Art. 5.
 
@@ -86,7 +86,7 @@ AGGIORNAMENTO (2)
 
  
 AGGIORNAMENTO (2) 
- Il [D. Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) ha disposto (con l'art. 161, comma 2) che esso continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del suindicato [D.Lgs. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385).
+ Il [D. Lgs. 1 settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) ha disposto (con l'art. 161, comma 2) che esso continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del suindicato [D.Lgs. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385).
 
 ## Art. 6.
 
@@ -101,7 +101,7 @@ AGGIORNAMENTO (2)
 
  
 AGGIORNAMENTO (2) 
- Il [D. Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) ha disposto (con l'art. 161, comma 2) che esso continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del suindicato [D.Lgs. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385).
+ Il [D. Lgs. 1 settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) ha disposto (con l'art. 161, comma 2) che esso continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del suindicato [D.Lgs. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385).
 
 ## Art. 7.
 
@@ -115,7 +115,7 @@ AGGIORNAMENTO (2)
 
  
 AGGIORNAMENTO (2) 
- Il [D. Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) ha disposto (con l'art. 161, comma 2) che esso continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del suindicato [D.Lgs. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385).
+ Il [D. Lgs. 1 settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) ha disposto (con l'art. 161, comma 2) che esso continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del suindicato [D.Lgs. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385).
 
 ## Art. 8.
 
@@ -132,7 +132,7 @@ AGGIORNAMENTO (2)
 
  
 AGGIORNAMENTO (2) 
- Il [D. Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) ha disposto (con l'art. 161, comma 2) che esso continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del suindicato [D.Lgs. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385).
+ Il [D. Lgs. 1 settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) ha disposto (con l'art. 161, comma 2) che esso continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del suindicato [D.Lgs. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385).
 
 ## Art. 9.
 
@@ -148,4 +148,4 @@ AGGIORNAMENTO (2)
 
  
 AGGIORNAMENTO (2) 
- Il [D. Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) ha disposto (con l'art. 161, comma 2) che esso continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del suindicato [D.Lgs. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385).
+ Il [D. Lgs. 1 settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) ha disposto (con l'art. 161, comma 2) che esso continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del suindicato [D.Lgs. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385).

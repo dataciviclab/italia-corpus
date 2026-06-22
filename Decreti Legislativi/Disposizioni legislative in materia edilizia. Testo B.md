@@ -2025,7 +2025,7 @@ Soggetti abilitati ([legge 18 maggio 1990, n. 46, art. 2](https://www.normattiva
 
 1.
 
-Sono abilitate all'installazione, alla trasformazione, all'ampliamento e alla manutenzione degli impianti di cui all'articolo 107 tutte le imprese, singole o associate, regolarmente iscritte nel registro delle ditte di cui al [regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), e successive modificazioni ed integrazioni, o nell'albo provinciale delle imprese artigiane di cui alla [legge 8 agosto 1985, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443).
+Sono abilitate all'installazione, alla trasformazione, all'ampliamento e alla manutenzione degli impianti di cui all'articolo 107 tutte le imprese, singole o associate, regolarmente iscritte nel registro delle ditte di cui al [regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), e successive modificazioni ed integrazioni, o nell'albo provinciale delle imprese artigiane di cui alla [legge 8 agosto 1985, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443).
 
 2.
 

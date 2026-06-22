@@ -616,7 +616,7 @@ Non sono altresi' soggette all'obbligo indicato nell'articolo 25 le imprese che 
 
 L'esonero previsto dal comma 3 e' subordinato alle seguenti condizioni:
                             a)
-                                che l'impresa controllante, soggetta al diritto di uno Stato membro dell'Unione europea, rediga e sottoponga a controllo il bilancio consolidato secondo il presente decreto ovvero secondo il diritto di altro Stato membro dell'Unione europea o in conformita' ai principi contabili internazionali adottati dall'Unione europea, fermi restando gli obblighi di cui all'articolo 4 del decreto legislativo adottato in attuazione dell'[articolo 13 della legge 21 febbraio 2024, n. 15](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202022-2023.%2024G00027.md); (13) (16) ((17))
+                                che l'impresa controllante, soggetta al diritto di uno Stato membro dell'Unione europea, rediga e sottoponga a controllo il bilancio consolidato secondo il presente decreto ovvero secondo il diritto di altro Stato membro dell'Unione europea o in conformita' ai principi contabili internazionali adottati dall'Unione europea, fermi restando gli obblighi di cui all'articolo 4 del decreto legislativo adottato in attuazione dell'[articolo 13 della legge 21 febbraio 2024, n. 15](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202022-2023.%2024G00027.md); (13) (16) ((17))
                             b)
                                 che l'impresa controllata non abbia emesso valori mobiliari ammessi alla negoziazione in mercati regolamentati italiani o dell'Unione europea. (13)
 
@@ -629,7 +629,7 @@ Le ragioni dell'esonero devono essere indicate nella nota integrativa al bilanci
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ---------------
 
@@ -641,7 +641,7 @@ La [L. 23 dicembre 2021, n. 238](../Atti%20di%20recepimento%20direttive%20UE/Dis
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 6 settembre 2024, n. 125](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202022-2464-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202022%20recante%20modifica%20del%20regolamento%20537-2014-UE%20della%20direttiva%202004-109-CE%20della%20direttiv_7dec86bf6a49.md), ha disposto (con l'art. 17, comma 1, lettere a), b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano: 
+Il [D.Lgs. 6 settembre 2024, n. 125](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202022-2464-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202022%20recante%20modifica%20del%20regolamento%20537-2014-UE%20della%20direttiva%202004-109-CE%20della%20direttiv_7dec86bf6a49.md), ha disposto (con l'art. 17, comma 1, lettere a), b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano: 
  a) per gli esercizi aventi inizio il 1° gennaio 2024 o in data successiva: 
  1) alle imprese di grandi dimensioni che costituiscono enti di interesse pubblico che, alla data di chiusura del bilancio, superano il numero medio di 500 dipendenti occupati durante l'esercizio; 
  2) agli enti di interesse pubblico ai sensi dell'[articolo 16, comma 1, del decreto legislativo 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39#art_16-com1), che sono, altresi', societa' madri di un gruppo di grandi dimensioni e che, su base consolidata, alla data di chiusura del bilancio superano il criterio del numero medio di 500 dipendenti occupati durante l'esercizio; 
@@ -657,7 +657,7 @@ Il [D.Lgs. 6 settembre 2024, n. 125](../Leggi%20delega%20e%20relativi%20provvedi
 
 AGGIORNAMENTO (17)
 
-Il [D.Lgs. 6 settembre 2024, n. 125](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202022-2464-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202022%20recante%20modifica%20del%20regolamento%20537-2014-UE%20della%20direttiva%202004-109-CE%20della%20direttiv_7dec86bf6a49.md), come modificato dal [D.L. 30 giugno 2025, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-30;95), convertito con modificazioni dalla [L. 8 agosto 2025, n. 118](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%202025%20n.%20x200a95%20recante%20disposizioni%20urgenti%20per%20il%20finanziamento%20di%20attivita%20economiche%20e%20imprese%20nonche%20interventi%20di%20_5b9c67fc9dc3.md), ha disposto (con l'art. 17, comma 1, lettere b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano: 
+Il [D.Lgs. 6 settembre 2024, n. 125](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202022-2464-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202022%20recante%20modifica%20del%20regolamento%20537-2014-UE%20della%20direttiva%202004-109-CE%20della%20direttiv_7dec86bf6a49.md), come modificato dal [D.L. 30 giugno 2025, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-30;95), convertito con modificazioni dalla [L. 8 agosto 2025, n. 118](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%202025%20n.%20x200a95%20recante%20disposizioni%20urgenti%20per%20il%20finanziamento%20di%20attivita%20economiche%20e%20imprese%20nonche%20interventi%20di%20_5b9c67fc9dc3.md), ha disposto (con l'art. 17, comma 1, lettere b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano: 
  [...] 
  b) per gli esercizi aventi inizio il 1° gennaio 2027 o in data successiva: 
  1) alle imprese di grandi dimensioni diverse da quelle di cui al comma 1, lettera a), numero 1); 
@@ -670,7 +670,7 @@ Il [D.Lgs. 6 settembre 2024, n. 125](../Leggi%20delega%20e%20relativi%20provvedi
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 2 FEBBRAIO 2007, N. 32](Attuazione%20della%20direttiva%202003-51-CE%20che%20modifica%20le%20direttive%2078-660%2083-349%2086-635%20e%2091-674-CEE%20relative%20ai%20conti%20annuali%20e%20ai%20conti%20consolidati%20di%20taluni%20tipi%20di%20societa%20delle%20banche%20e_9e14ba9eb406.md).
+COMMA ABROGATO DAL [D.LGS. 2 FEBBRAIO 2007, N. 32](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-51-CE%20che%20modifica%20le%20direttive%2078-660%2083-349%2086-635%20e%2091-674-CEE%20relative%20ai%20conti%20annuali%20e%20ai%20conti%20consolidati%20di%20taluni%20tipi%20di%20societa%20delle%20banche%20e_9e14ba9eb406.md).
 
 2.
 
@@ -689,7 +689,7 @@ Possono essere escluse dal consolidamento le imprese controllate quando:
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 29. — Redazione del bilancio consolidato
 
@@ -726,13 +726,13 @@ Il bilancio consolidato puo' essere redatto in migliaia di euro. (5a)
 
 AGGIORNAMENTO (5a)
 
-Il [D.Lgs. 24 giugno 1998, n. 213](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20lintroduzione%20dellEURO%20nellordinamento%20nazionale%20a%20norma%20dellarticolo%201%20comma%201%20della%20legge%2017%20dicembre%201997%20n.%20433.md) ha disposto (con l'art. 16, comma 8) che la modifica apportata al presente articolo decorre dal 1 gennaio 2002.
+Il [D.Lgs. 24 giugno 1998, n. 213](Disposizioni%20per%20lintroduzione%20dellEURO%20nellordinamento%20nazionale%20a%20norma%20dellarticolo%201%20comma%201%20della%20legge%2017%20dicembre%201997%20n.%20433.md) ha disposto (con l'art. 16, comma 8) che la modifica apportata al presente articolo decorre dal 1 gennaio 2002.
 
 ----------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 30. — Data di riferimento del bilancio consolidato
 
@@ -784,7 +784,7 @@ COMMA ABROGATO DAL [D.L. 29 GIUGNO 1994, N. 416](https://www.normattiva.it/uri-r
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 32. — ((Struttura e contenuto dello stato patrimoniale, del conto economico e del rendiconto finanziario consolidati))
 
@@ -812,7 +812,7 @@ La parte del risultato economico consolidato corrispondente a partecipazioni di 
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 33. — Consolidamento delle partecipazioni
 
@@ -837,7 +837,7 @@ Le voci indicate nel precedente comma, i criteri utilizzati per la loro determin
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 34. — Uniformita' dei criteri di valutazione
 
@@ -855,7 +855,7 @@ A tale scopo devono essere rettificati i valori di elementi valutati con criteri
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 35. — Scelta dei criteri di valutazione
 
@@ -880,14 +880,14 @@ Quando l'entita' della partecipazione e' irrilevante ai fini indicati nel second
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 2 FEBBRAIO 2007, N. 32](Attuazione%20della%20direttiva%202003-51-CE%20che%20modifica%20le%20direttive%2078-660%2083-349%2086-635%20e%2091-674-CEE%20relative%20ai%20conti%20annuali%20e%20ai%20conti%20consolidati%20di%20taluni%20tipi%20di%20societa%20delle%20banche%20e_9e14ba9eb406.md). 
+COMMA ABROGATO DAL [D.LGS. 2 FEBBRAIO 2007, N. 32](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-51-CE%20che%20modifica%20le%20direttive%2078-660%2083-349%2086-635%20e%2091-674-CEE%20relative%20ai%20conti%20annuali%20e%20ai%20conti%20consolidati%20di%20taluni%20tipi%20di%20societa%20delle%20banche%20e_9e14ba9eb406.md). 
 (VII Direttiva, art. 33).
 
 -------------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 37. — Consolidamento proporzionale alla partecipazione
 
@@ -969,7 +969,7 @@ Ai fini dell'applicazione del comma 1, lettere o-ter), o-quater) e o-quinquies) 
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 39. — Elenchi delle imprese incluse nel bilancio consolidato e delle partecipazioni
 
@@ -1022,7 +1022,7 @@ L'analisi contiene, ove opportuno, riferimenti agli importi riportati nel bilanc
 Dalla relazione devono in ogni caso risultare:
                             a)
                                 le attivita' di ricerca e di sviluppo; 
- b)LETTERA ABROGATA DAL [D.LGS. 18 AGOSTO 2015, N. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md);(13) 
+ b)LETTERA ABROGATA DAL [D.LGS. 18 AGOSTO 2015, N. 139](Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md);(13) 
  c) l'evoluzione prevedibile della gestione; 
  d) il numero e il valore nominale delle azioni o quote dell'impresa controllante possedute da essa o da imprese controllate, anche per il tramite di societa' fiduciarie o per interposta persona, con l'indicazione della quota di capitale corrispondente. 
  d-bis) in relazione all'uso da parte delle imprese incluse nel bilancio consolidato di strumenti finanziari e se rilevanti per la valutazione della situazione patrimoniale e finanziaria e del risultato economico dell'esercizio complessivi: 
@@ -1035,20 +1035,20 @@ La relazione di cui al comma 1 e la relazione di cui all'[articolo 2428 del codi
 
 2-ter.
 
-La relazione sulla gestione redatta ai sensi per presente articolo dovra' contenere anche le informazioni di sostenibilita' di cui all'articolo 4 al decreto legislativo adottato in attuazione dell'[articolo 13 della legge 21 febbraio 2024, n. 15](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202022-2023.%2024G00027.md), ove applicabile. (16) ((17)) 
+La relazione sulla gestione redatta ai sensi per presente articolo dovra' contenere anche le informazioni di sostenibilita' di cui all'articolo 4 al decreto legislativo adottato in attuazione dell'[articolo 13 della legge 21 febbraio 2024, n. 15](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202022-2023.%2024G00027.md), ove applicabile. (16) ((17)) 
 (VII Direttiva, art. 36).
 
 -------------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 -------------
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 6 settembre 2024, n. 125](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202022-2464-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202022%20recante%20modifica%20del%20regolamento%20537-2014-UE%20della%20direttiva%202004-109-CE%20della%20direttiv_7dec86bf6a49.md), ha disposto (con l'art. 17, comma 1, lettere a), b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano: 
+Il [D.Lgs. 6 settembre 2024, n. 125](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202022-2464-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202022%20recante%20modifica%20del%20regolamento%20537-2014-UE%20della%20direttiva%202004-109-CE%20della%20direttiv_7dec86bf6a49.md), ha disposto (con l'art. 17, comma 1, lettere a), b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano: 
  a) per gli esercizi aventi inizio il 1° gennaio 2024 o in data successiva: 
  1) alle imprese di grandi dimensioni che costituiscono enti di interesse pubblico che, alla data di chiusura del bilancio, superano il numero medio di 500 dipendenti occupati durante l'esercizio; 
  2) agli enti di interesse pubblico ai sensi dell'[articolo 16, comma 1, del decreto legislativo 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39#art_16-com1), che sono, altresi', societa' madri di un gruppo di grandi dimensioni e che, su base consolidata, alla data di chiusura del bilancio superano il criterio del numero medio di 500 dipendenti occupati durante l'esercizio; 
@@ -1064,7 +1064,7 @@ Il [D.Lgs. 6 settembre 2024, n. 125](../Leggi%20delega%20e%20relativi%20provvedi
 
 AGGIORNAMENTO (17)
 
-Il [D.Lgs. 6 settembre 2024, n. 125](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202022-2464-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202022%20recante%20modifica%20del%20regolamento%20537-2014-UE%20della%20direttiva%202004-109-CE%20della%20direttiv_7dec86bf6a49.md), come modificato dal [D.L. 30 giugno 2025, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-30;95), convertito con modificazioni dalla [L. 8 agosto 2025, n. 118](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%202025%20n.%20x200a95%20recante%20disposizioni%20urgenti%20per%20il%20finanziamento%20di%20attivita%20economiche%20e%20imprese%20nonche%20interventi%20di%20_5b9c67fc9dc3.md), ha disposto (con l'art. 17, comma 1, lettere b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano: 
+Il [D.Lgs. 6 settembre 2024, n. 125](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202022-2464-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202022%20recante%20modifica%20del%20regolamento%20537-2014-UE%20della%20direttiva%202004-109-CE%20della%20direttiv_7dec86bf6a49.md), come modificato dal [D.L. 30 giugno 2025, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-30;95), convertito con modificazioni dalla [L. 8 agosto 2025, n. 118](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%202025%20n.%20x200a95%20recante%20disposizioni%20urgenti%20per%20il%20finanziamento%20di%20attivita%20economiche%20e%20imprese%20nonche%20interventi%20di%20_5b9c67fc9dc3.md), ha disposto (con l'art. 17, comma 1, lettere b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano: 
  [...] 
  b) per gli esercizi aventi inizio il 1° gennaio 2027 o in data successiva: 
  1) alle imprese di grandi dimensioni diverse da quelle di cui al comma 1, lettera a), numero 1); 
@@ -1106,7 +1106,7 @@ Una copia del bilancio consolidato e delle relazioni indicate all'art. 41, commi
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 43. — Obblighi delle imprese controllate
 
@@ -1142,7 +1142,7 @@ n) agli operatori del microcredito iscritti nell'albo di cui all'articolo 111 de
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 45. — Bilancio d'esercizio
 

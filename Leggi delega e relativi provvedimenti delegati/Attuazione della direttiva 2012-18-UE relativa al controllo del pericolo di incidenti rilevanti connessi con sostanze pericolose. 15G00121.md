@@ -1416,7 +1416,7 @@ Gli atti conclusivi dei procedimenti di valutazione del rapporto di sicurezza so
                             g)
                                 [articolo 67 del decreto legislativo 9 aprile 2008, n. 81](Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md);
                             h)
-                                [regio decreto 9 gennaio 1927, n. 147](../Regi%20decreti/Approvazione%20del%20regolamento%20speciale%20per%20limpiego%20dei%20gas%20tossici.%20027U0147.md), e dal [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
+                                [regio decreto 9 gennaio 1927, n. 147](../Regi%20decreti/Approvazione%20del%20regolamento%20speciale%20per%20limpiego%20dei%20gas%20tossici.%20027U0147.md), e dal [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
 
 Note all'[art. 31: 
  - Per il decreto legislativo 3 aprile 2006, n. 152](Norme%20in%20materia%20ambientale.md), si veda nelle note all'art. 24. 
@@ -1444,7 +1444,7 @@ Note all'[art. 31:
  4. L'obbligo di comunicazione di cui al comma 1 si applica ai luoghi di lavoro ove e' prevista la presenza di piu' di tre lavoratori. 
  5. Fino alla data di entrata in vigore del decreto di cui al comma 2 trovano applicazione le disposizioni di cui al comma 1.». 
  - Il [regio decreto 9 gennaio 1927, n. 147](../Regi%20decreti/Approvazione%20del%20regolamento%20speciale%20per%20limpiego%20dei%20gas%20tossici.%20027U0147.md) (Approvazione del regolamento speciale per l'impiego dei gas tossici) e' pubblicato nella Gazzetta Ufficiale 1° marzo 1927, n. 49. 
- - Il [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) (Approvazione del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md)) e' pubblicato nella Gazzetta Ufficiale 26 giugno 1931, n. 146.
+ - Il [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) (Approvazione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md)) e' pubblicato nella Gazzetta Ufficiale 26 giugno 1931, n. 146.
 
 ### Art. 32. — Norme finali e transitorie
 

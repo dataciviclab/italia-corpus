@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli articoli 76, 87, quinto comma, 117 e 119 della Costituzione;
 
-Vista la [legge 5 maggio 2009, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), recante delega al Governo in materia di federalismo fiscale, in attuazione dell'[articolo 119 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_119), e in particolare l'articolo 19, relativo al patrimonio di comuni, province, citta' metropolitane e regioni;
+Vista la [legge 5 maggio 2009, n. 42](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), recante delega al Governo in materia di federalismo fiscale, in attuazione dell'[articolo 119 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_119), e in particolare l'articolo 19, relativo al patrimonio di comuni, province, citta' metropolitane e regioni;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 dicembre 2009;
 
@@ -20,9 +20,9 @@ Considerato il mancato raggiungimento dell'intesa in sede di Conferenza unificat
 
 Visto il parere favorevole della Conferenza Stato-citta' ed autonomie locali espresso ai sensi dell'[articolo 9, comma 6, lettera c), del decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), nella seduta del 4 marzo 2010, sul testo concordato nel corso della medesima seduta;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 marzo 2010, di approvazione della relazione prevista dall'articolo 2, comma 3, terzo e quarto periodo, della [legge 5 maggio 2009, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md);
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 marzo 2010, di approvazione della relazione prevista dall'articolo 2, comma 3, terzo e quarto periodo, della [legge 5 maggio 2009, n. 42](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md);
 
-Visti il parere della Commissione parlamentare per l'attuazione del federalismo fiscale di cui all'[articolo 3 della legge 5 maggio 2009, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), e i pareri delle Commissioni parlamentari competenti per le conseguenze di carattere finanziario della Camera dei deputati e del Senato della Repubblica;
+Visti il parere della Commissione parlamentare per l'attuazione del federalismo fiscale di cui all'[articolo 3 della legge 5 maggio 2009, n. 42](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), e i pareri delle Commissioni parlamentari competenti per le conseguenze di carattere finanziario della Camera dei deputati e del Senato della Repubblica;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 maggio 2010;
 
@@ -80,7 +80,7 @@ Avvertenza:
  Per promuovere lo sviluppo economico, la coesione e la solidarieta' sociale, per rimuovere gli squilibri economici e sociali, per favorire l'effettivo esercizio dei diritti della persona, o per provvedere a scopi diversi dal normale esercizio delle loro funzioni, lo Stato destina risorse aggiuntive ed effettua interventi speciali in favore di determinati Comuni, Province, Citta' metropolitane e Regioni. 
  I Comuni, le Province, le Citta' metropolitane e le Regioni hanno un proprio patrimonio, attribuito secondo i principi generali determinati dalla legge dello Stato.
  Possono ricorrere all'indebitamento solo per finanziare spese di investimento. E' esclusa ogni garanzia dello Stato sui prestiti dagli stessi contratti.». 
- - Si riporta il testo dell'[art. 19 della legge 5 maggio 2009, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md) (Delega al Governo in materia di federalismo fiscale, in attuazione dell'[articolo 119 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_119)). 
+ - Si riporta il testo dell'[art. 19 della legge 5 maggio 2009, n. 42](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md) (Delega al Governo in materia di federalismo fiscale, in attuazione dell'[articolo 119 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_119)). 
  «Art. 19 (Patrimonio di comuni, province, citta' metropolitane e regioni). - 1. I decreti legislativi di cui all' articolo 2, con riguardo all'attuazione dell' [articolo 119, sesto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_119-com6), stabiliscono i principi generali per l'attribuzione a comuni, province, citta' metropolitane e regioni di un proprio patrimonio, nel rispetto dei seguenti principi e criteri direttivi: 
  a) attribuzione a titolo non oneroso ad ogni livello di governo di distinte tipologie di beni, commisurate alle dimensioni territoriali, alle capacita' finanziarie ed alle competenze e funzioni effettivamente svolte o esercitate dalle diverse regioni ed enti locali, fatta salva la determinazione da parte dello Stato di apposite liste che individuino nell'ambito delle citate tipologie i singoli beni da attribuire; 
  b) attribuzione dei beni immobili sulla base del criterio di territorialita'; 
@@ -300,10 +300,10 @@ Le risorse nette derivanti a ciascuna Regione ed ente locale dalla eventuale ali
 
 6.
 
-Nell'attuazione del presente decreto legislativo e' comunque assicurato il rispetto di quanto previsto dall'[articolo 28 della legge 5 maggio 2009, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md).
+Nell'attuazione del presente decreto legislativo e' comunque assicurato il rispetto di quanto previsto dall'[articolo 28 della legge 5 maggio 2009, n. 42](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md).
 
 Note all'art. 9: 
- - Si riporta il testo dell'[articolo 28 della legge 5 maggio 2009, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md): 
+ - Si riporta il testo dell'[articolo 28 della legge 5 maggio 2009, n. 42](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md): 
  «Art. 28 (Salvaguardia finanziaria). - 1. L'attuazione della presente legge deve essere compatibile con gli impegni finanziari assunti con il patto di stabilita' e crescita. 
  2. I decreti legislativi di cui all'articolo 2 individuano meccanismi idonei ad assicurare che: 
  a) vi sia la coerenza tra il riordino e la riallocazione delle funzioni e la dotazione delle risorse umane e finanziarie, con il vincolo che al trasferimento delle funzioni corrisponda un trasferimento del personale tale da evitare ogni duplicazione di funzioni; 

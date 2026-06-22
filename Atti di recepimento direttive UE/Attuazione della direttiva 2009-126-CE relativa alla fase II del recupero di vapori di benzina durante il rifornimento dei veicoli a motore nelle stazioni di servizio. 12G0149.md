@@ -12,15 +12,15 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76), [87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) e [117 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117);
 
-Vista la [legge 15 dicembre 2011, n. 217](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202010.%2012G0001.md), concernente disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2010, ed, in particolare, l'articolo 14;
+Vista la [legge 15 dicembre 2011, n. 217](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202010.%2012G0001.md), concernente disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2010, ed, in particolare, l'articolo 14;
 
 Vista la [direttiva 2009/126/CE del Parlamento europeo e del Consiglio, del 21 ottobre 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;126), relativa alla fase II del recupero di vapori di benzina durante il rifornimento dei veicoli a motore nelle stazioni di servizio;
 
-Visto il [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e successive modificazioni, concernente norme in materia ambientale, ed, in particolare, l'articolo 277 e l'Allegato VIII alla Parte quinta, in cui e' disciplinato il recupero di composti organici volatili (COV) prodotti durante le operazioni di rifornimento di autoveicoli presso gli impianti di distribuzione di benzina;
+Visto il [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), e successive modificazioni, concernente norme in materia ambientale, ed, in particolare, l'articolo 277 e l'Allegato VIII alla Parte quinta, in cui e' disciplinato il recupero di composti organici volatili (COV) prodotti durante le operazioni di rifornimento di autoveicoli presso gli impianti di distribuzione di benzina;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 marzo 2012;
 
-Acquisito il parere della Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), reso nella seduta del 19 aprile 2012;
+Acquisito il parere della Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), reso nella seduta del 19 aprile 2012;
 
 Acquisiti i pareri delle competenti commissioni della Camera dei deputati e del Senato della Repubblica;
 
@@ -34,24 +34,24 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Il presente decreto prevede le norme di attuazione della [direttiva 2009/126/CE del Parlamento europeo e del Consiglio, del 21 ottobre 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;126), attraverso la modifica e l'integrazione delle disposizioni del Titolo I della Parte quinta del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e successive modificazioni.
+Il presente decreto prevede le norme di attuazione della [direttiva 2009/126/CE del Parlamento europeo e del Consiglio, del 21 ottobre 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;126), attraverso la modifica e l'integrazione delle disposizioni del Titolo I della Parte quinta del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), e successive modificazioni.
 
 Avvertenza: 
  
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle legge, sull'emanazione del decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle legge, sull'emanazione del decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Per regolamenti e direttive CE vengono forniti gli estremi di pubblicazioni nella Gazzetta Ufficiale dell'Unione europea (GUUE). 
  Note alle premesse: 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) delega l'esercizio della funzione legislativa al Governo, per un periodo di tempo limitato e per oggetti definiti, previa determinazione di principi e criteri direttivi. 
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
  - L'[art. 117 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117) stabilisce che la potesta' legislativa e' esercitata dallo Stato e dalle Regioni nel rispetto della Costituzione, nonche' dei vincoli derivanti dall'ordinamento comunitario e dagli obblighi internazionali. 
- - Il testo dell'[art. 14 della legge 15 dicembre 2011, n. 217](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202010.%2012G0001.md) (Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2010), pubblicata nella Gazzetta Ufficiale 2 gennaio 2012, n. 1, cosi' recita: 
+ - Il testo dell'[art. 14 della legge 15 dicembre 2011, n. 217](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202010.%2012G0001.md) (Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2010), pubblicata nella Gazzetta Ufficiale 2 gennaio 2012, n. 1, cosi' recita: 
  «Art. 14 (Attuazione della [direttiva 2009/126/CE del Parlamento europeo e del Consiglio, del 21 ottobre 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;126), relativa alla fase II del recupero di vapori di benzina durante il rifornimento dei veicoli a motore nelle stazioni di servizio, e disciplina organica dei requisiti di installazione degli impianti di distribuzione di benzina). (In vigore dal 17 gennaio 2012). 
  1. Il Governo e' delegato ad adottare, entro quattro mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi recanti attuazione della [direttiva 2009/126/CE del Parlamento europeo e del Consiglio, del 21 ottobre 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;126), relativa alla fase II del recupero di vapori di benzina durante il rifornimento dei veicoli a motore nelle stazioni di servizio. 
- 2. I decreti legislativi di cui al comma 1 prevedono l'integrazione della disciplina della [direttiva 2009/126/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;126) nell'ambito della parte quinta del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e successive modificazioni, e sono adottati nel rispetto della procedura e dei principi e criteri direttivi di cui agli [articoli 1](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md) e [2 della legge 4 giugno 2010, n. 96](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), su proposta del Ministro per le politiche europee e del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con i Ministri degli affari esteri, dell'economia e delle finanze e della giustizia, sentito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano. 
+ 2. I decreti legislativi di cui al comma 1 prevedono l'integrazione della disciplina della [direttiva 2009/126/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;126) nell'ambito della parte quinta del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), e successive modificazioni, e sono adottati nel rispetto della procedura e dei principi e criteri direttivi di cui agli [articoli 1](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md) e [2 della legge 4 giugno 2010, n. 96](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), su proposta del Ministro per le politiche europee e del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con i Ministri degli affari esteri, dell'economia e delle finanze e della giustizia, sentito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano. 
  3. Con decreto del Ministro dell'interno, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare e con il Ministro dello sviluppo economico, sono disciplinati in modo organico i requisiti di installazione degli impianti di distribuzione di benzina anche in conformita' alla [direttiva 94/9/CE del Parlamento europeo e del Consiglio, del 23 marzo 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;9), concernente il ravvicinamento delle legislazioni degli Stati membri relative agli apparecchi e sistemi di protezione destinati ad essere utilizzati in atmosfera potenzialmente esplosiva.
- A decorrere dalla data di entrata in vigore del decreto di cui al presente comma, non si applica il punto 3 dell'allegato VIII alla parte quinta del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md).». 
+ A decorrere dalla data di entrata in vigore del decreto di cui al presente comma, non si applica il punto 3 dell'allegato VIII alla parte quinta del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md).». 
  - La [direttiva 2009/126/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;126) e' pubblicata nella G.U.U.E. 31 ottobre 2009, n. L 285. 
- - Il testo dell'[art. 277 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) e successive modificazioni (Norme in materia ambientale), pubblicato nella Gazzetta Ufficiale 14 aprile 2006, n. 88, S.O. cosi' recita: 
+ - Il testo dell'[art. 277 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) e successive modificazioni (Norme in materia ambientale), pubblicato nella Gazzetta Ufficiale 14 aprile 2006, n. 88, S.O. cosi' recita: 
  «Art. 277 (Recupero di cov prodotti durante le operazioni di rifornimento degli autoveicoli presso gli impianti di distribuzione carburanti). - 1. I distributori degli impianti di distribuzione dei carburanti devono essere attrezzati con sistemi di recupero dei vapori di benzina che si producono durante le operazioni di rifornimento degli autoveicoli. Gli impianti di distribuzione, i distributori e i sistemi di recupero dei vapori devono essere conformi alle pertinenti prescrizioni dell'Allegato VIII alla parte quinta del presente decreto, relative ai requisiti di efficienza, ai requisiti costruttivi, ai requisiti di installazione, ai controlli periodici ed agli obblighi di documentazione. 
  2. Ai fini del presente articolo si intende per: 
  a) impianti di distribuzione: ogni impianto in cui la benzina viene erogata ai serbatoi degli autoveicoli da impianti di deposito; 
@@ -65,13 +65,13 @@ Avvertenza:
  
  Note all'[art. 1: 
  - Per la direttiva 2009/126/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;126), si veda nelle note alle premesse. 
- - Per il [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), si veda nelle note alle premesse.
+ - Per il [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), si veda nelle note alle premesse.
 
 ## Art. 2. — Modifiche agli articoli 268 e 277 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
 1.
 
-All'[articolo 268, comma 1, del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), sono apportate le seguenti modificazioni:
+All'[articolo 268, comma 1, del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), sono apportate le seguenti modificazioni:
                         a)
                             la lettera tt) e' sostituita dalla seguente: 
  «tt) impianti di distribuzione: impianti in cui il carburante viene erogato ai serbatoi dei veicoli a motore da impianti di deposito; ai fini dell'applicazione dell'articolo 277 si considerano esistenti gli impianti di distribuzione di benzina gia' costruiti o la cui costruzione ed il cui esercizio sono autorizzati ai sensi della vigente normativa prima del 1° gennaio 2012 e si considerano nuovi gli impianti di distribuzione di benzina la cui costruzione ed il cui esercizio sono autorizzati ai sensi della vigente normativa dal 1° gennaio 2012; sono equiparati agli impianti nuovi gli impianti distribuzione che, a decorrere dal 1° gennaio 2012, sono oggetto di una ristrutturazione completa, intesa come il totale rinnovo o riposizionamento dei serbatoi e delle relative tubazioni;»;
@@ -92,7 +92,7 @@ All'[articolo 268, comma 1, del decreto legislativo 3 aprile 2006, n. 152](../Le
 
 2.
 
-L'[articolo 277 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e' sostituito dal seguente: 
+L'[articolo 277 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), e' sostituito dal seguente: 
  
  «Art. 277. 
  
@@ -116,7 +116,7 @@ In caso di mancata pronuncia il riconoscimento si intende negato.
 
 3.
 
-Restano ferme le sanzioni previste dall'[articolo 279, comma 7, del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e successive modificazioni, per la violazione delle prescrizioni dell'articolo 277 del medesimo decreto, come modificato dal comma 2 del presente articolo.
+Restano ferme le sanzioni previste dall'[articolo 279, comma 7, del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), e successive modificazioni, per la violazione delle prescrizioni dell'articolo 277 del medesimo decreto, come modificato dal comma 2 del presente articolo.
 
 Note all'art. 2: 
  - Il testo dell'art. 268 del citato [decreto legislativo n. 152 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152), come modificato dal presente decreto, cosi' recita: 
@@ -186,7 +186,7 @@ Note all'art. 2:
 
 1.
 
-All'allegato VIII alla parte quinta del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), sono apportate le seguenti modifiche:
+All'allegato VIII alla parte quinta del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), sono apportate le seguenti modifiche:
                         a)
                             il paragrafo 2 e' sostituito dai seguenti: 
  «2. Requisiti di efficienza dei sistemi di recupero dei vapori di fase II. 

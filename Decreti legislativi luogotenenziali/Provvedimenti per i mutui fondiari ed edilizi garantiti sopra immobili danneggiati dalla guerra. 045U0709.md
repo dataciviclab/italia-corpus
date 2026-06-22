@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sul credito fondiario approvato con [R. decreto 16 luglio 1905, n. 646](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
+Visto il testo unico delle leggi sul credito fondiario approvato con [R. decreto 16 luglio 1905, n. 646](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20testo%20unico%20delle%20leggi%20sul%20credito%20fondiario.%20005U0646.md);
 
 Ritenuta la necessita' per lo stato di guerra, di emanare disposizioni le quali permettano agli Istituti di credito fondiario di differire, se del caso, la riscossione di semestralita' dovute per mutui garantiti sopra immobili danneggiati dalla guerra;
 
@@ -42,7 +42,7 @@ Sulla proposta del Ministro per il tesoro, di concerto con il Ministro per le fi
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 20 agosto 1947, n. 1082](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-08-20;1082) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del [decreto legislativo luogotenenziale 14 settembre 1945, n. 709](Provvedimenti%20per%20i%20mutui%20fondiari%20ed%20edilizi%20garantiti%20sopra%20immobili%20danneggiati%20dalla%20guerra.%20045U0709.md), modificate a' termini dell'articolo precedente, sono estese alle Casse di risparmio e agli Istituti di credito di diritto pubblico".
+Il [D.Lgs. del Capo Provvisorio dello Stato 20 agosto 1947, n. 1082](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-08-20;1082) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del [decreto legislativo luogotenenziale 14 settembre 1945, n. 709](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20i%20mutui%20fondiari%20ed%20edilizi%20garantiti%20sopra%20immobili%20danneggiati%20dalla%20guerra.%20045U0709.md), modificate a' termini dell'articolo precedente, sono estese alle Casse di risparmio e agli Istituti di credito di diritto pubblico".
 
 ## Art. 2.
 

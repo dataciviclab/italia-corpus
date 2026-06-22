@@ -511,7 +511,7 @@ Nel [primo comma dell'art. 8 del regio decreto-legge 23 dicembre 1920, n. 1881](
 
 3.
 
-Nel [primo comma dell'art. 69 del regio decreto 9 gennaio 1927, n. 147](../Regi%20decreti/Approvazione%20del%20regolamento%20speciale%20per%20limpiego%20dei%20gas%20tossici.%20027U0147.md), le parole: "a norma dell'[art. 225 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con il [regio decreto 6 novembre 1926, n. 1848](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md)" sono sostituite dalle seguenti: "con l'arresto fino a tre mesi o con l'ammenda da lire cinquecentomila a lire due milioni".
+Nel [primo comma dell'art. 69 del regio decreto 9 gennaio 1927, n. 147](../Regi%20decreti/Approvazione%20del%20regolamento%20speciale%20per%20limpiego%20dei%20gas%20tossici.%20027U0147.md), le parole: "a norma dell'[art. 225 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con il [regio decreto 6 novembre 1926, n. 1848](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20026U1848.md)" sono sostituite dalle seguenti: "con l'arresto fino a tre mesi o con l'ammenda da lire cinquecentomila a lire due milioni".
 
 4.
 

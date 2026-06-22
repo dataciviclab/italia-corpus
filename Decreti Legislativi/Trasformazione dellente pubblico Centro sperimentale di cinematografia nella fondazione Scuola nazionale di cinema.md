@@ -62,7 +62,7 @@ Ove lo statuto non venga adottato entro il termine di centocinquanta giorni dall
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 18 novembre 1997, n. 426](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasformazione%20dellente%20pubblico%20Centro%20sperimentale%20di%20cinematografia%20nella%20fondazione%20Scuola%20nazionale%20di%20cinema.md) ha disposto (con l'art. 2, comma 3) che "All'articolo 2 del decreto, al comma 3, [...] le parole: "dell'Autorita' di Governo competente in materia di spettacolo" sono sostituite dalle seguenti: "del Ministro per i beni e le attivita' culturali"".
+Il [D.Lgs. 18 novembre 1997, n. 426](Trasformazione%20dellente%20pubblico%20Centro%20sperimentale%20di%20cinematografia%20nella%20fondazione%20Scuola%20nazionale%20di%20cinema.md) ha disposto (con l'art. 2, comma 3) che "All'articolo 2 del decreto, al comma 3, [...] le parole: "dell'Autorita' di Governo competente in materia di spettacolo" sono sostituite dalle seguenti: "del Ministro per i beni e le attivita' culturali"".
 
 ## Art. 3. — Finalita'
 
@@ -76,7 +76,7 @@ La Fondazione Centro sperimentale di cinematografia e' istituzione di alta forma
 
 2.
 
-COMMA SOPPRESSO DAL [D.LGS. 22 GENNAIO 2004, N. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2018%20novembre%201997%20n.%20426%20concernenti%20i%20compiti%20e%20lorganizzazione%20della%20Fondazione%20Centro%20sperimentale%20di%20cinematografia.md).
+COMMA SOPPRESSO DAL [D.LGS. 22 GENNAIO 2004, N. 32](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2018%20novembre%201997%20n.%20426%20concernenti%20i%20compiti%20e%20lorganizzazione%20della%20Fondazione%20Centro%20sperimentale%20di%20cinematografia.md).
 
 3.
 
@@ -162,7 +162,7 @@ Il consiglio di amministrazione, in particolare:
 
 3.
 
-COMMA SOPPRESSO DAL [D.LGS. 22 GENNAIO 2004, N. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2018%20novembre%201997%20n.%20426%20concernenti%20i%20compiti%20e%20lorganizzazione%20della%20Fondazione%20Centro%20sperimentale%20di%20cinematografia.md).
+COMMA SOPPRESSO DAL [D.LGS. 22 GENNAIO 2004, N. 32](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2018%20novembre%201997%20n.%20426%20concernenti%20i%20compiti%20e%20lorganizzazione%20della%20Fondazione%20Centro%20sperimentale%20di%20cinematografia.md).
 
 ## Art. 6-bis. — (( (Presidente). ))
 

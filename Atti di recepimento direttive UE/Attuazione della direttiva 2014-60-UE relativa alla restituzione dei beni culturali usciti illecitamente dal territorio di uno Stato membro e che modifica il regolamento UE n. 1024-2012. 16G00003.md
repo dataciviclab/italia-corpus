@@ -14,9 +14,9 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [direttiva 2014/60/UE del Parlamento europeo e del Consiglio, del 15 maggio 2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;60), relativa alla restituzione dei beni culturali usciti illecitamente dal territorio di uno Stato membro e che modifica il regolamento (UE) n. 1024/2012 (Rifusione);
 
-Visto il [decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), recante il [Codice dei beni culturali e del paesaggio](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[articolo 10 della legge 6 luglio 2002, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md), ed in particolare la parte II, titolo I, recante norme in materia di beni culturali;
+Visto il [decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), recante il [Codice dei beni culturali e del paesaggio](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[articolo 10 della legge 6 luglio 2002, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md), ed in particolare la parte II, titolo I, recante norme in materia di beni culturali;
 
-Vista la [legge 9 luglio 2015, n. 114](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202014.%2015G00127.md), recante delega al Governo per il recepimento delle direttive europee ed in particolare l'articolo 1 e l'allegato B;
+Vista la [legge 9 luglio 2015, n. 114](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202014.%2015G00127.md), recante delega al Governo per il recepimento delle direttive europee ed in particolare l'articolo 1 e l'allegato B;
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 13 novembre 2015;
 
@@ -30,7 +30,7 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dei beni
 
 1.
 
-All'[articolo 73 del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), sono apportate le seguenti modificazioni:
+All'[articolo 73 del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, la lettera a) e' sostituita dalla seguente: "a) per «regolamento CE» il regolamento (CE) n. 116/2009 del 18 dicembre 2008 del Consiglio relativo all'esportazione di beni culturali;";
                         b)
@@ -38,7 +38,7 @@ All'[articolo 73 del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20dele
 
 2.
 
-All'[articolo 74 del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), sono apportate le seguenti modificazioni:
+All'[articolo 74 del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1 le parole: "regolamento CEE" sono sostituite dalle seguenti: "regolamento CE";
                         b)
@@ -50,7 +50,7 @@ All'[articolo 74 del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20dele
 
 3.
 
-All'[articolo 75 del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), sono apportate le seguenti modificazioni:
+All'[articolo 75 del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1 le parole: "direttiva CEE" sono sostituite dalle seguenti: "direttiva UE";
                         b)
@@ -62,7 +62,7 @@ All'[articolo 75 del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20dele
 
 4.
 
-All'[articolo 76 del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), sono apportate le seguenti modificazioni:
+All'[articolo 76 del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1 le parole: "dall'articolo 3 della direttiva CEE" sono sostituite dalle seguenti: "dall'articolo 4 della direttiva UE";
                         b)
@@ -72,11 +72,11 @@ All'[articolo 76 del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20dele
 
 5.
 
-All'[articolo 77, comma 5, del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), sono aggiunte, in fine, le seguenti parole: ", utilizzando un modulo del sistema IMI stabilito dal regolamento (UE) n. 1024/2012, specificamente adattato per i beni culturali".
+All'[articolo 77, comma 5, del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), sono aggiunte, in fine, le seguenti parole: ", utilizzando un modulo del sistema IMI stabilito dal regolamento (UE) n. 1024/2012, specificamente adattato per i beni culturali".
 
 6.
 
-All'[articolo 78 del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), sono apportate le seguenti modificazioni:
+All'[articolo 78 del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1 le parole: "di un anno" sono sostituite dalle seguenti: "di tre anni" e le parole: "lo Stato" sono sostituite dalle seguenti: "l'Autorita' centrale";
                         b)
@@ -84,7 +84,7 @@ All'[articolo 78 del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20dele
 
 7.
 
-All'[articolo 79 del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), sono apportate le seguenti modificazioni:
+All'[articolo 79 del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 2 e' aggiunto, in fine, il seguente periodo: "Per determinare l'esercizio della diligenza richiesta da parte del possessore si tiene conto di tutte le circostanze dell'acquisizione, in particolare della documentazione sulla provenienza del bene, delle autorizzazioni di uscita prescritte dal diritto dello Stato membro richiedente, della qualita' delle parti, del prezzo pagato, del fatto che il possessore abbia consultato o meno i registri accessibili dei beni culturali rubati e ogni informazione pertinente che avrebbe potuto ragionevolmente ottenere o di qualsiasi altra pratica cui una persona ragionevole avrebbe fatto ricorso in circostanze analoghe.";
                         b)
@@ -92,7 +92,7 @@ All'[articolo 79 del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20dele
 
 8.
 
-All'[articolo 84 del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), sono apportate le seguenti modificazioni:
+All'[articolo 84 del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1 le parole: "Commissione delle Comunita' europee" sono sostituite dalle seguenti: "Commissione europea" e le parole: "regolamento CEE" sono sostituite dalle seguenti: "regolamento CE";
                         b)
@@ -102,26 +102,26 @@ All'[articolo 84 del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20dele
 
 9.
 
-All'[articolo 166 del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), le parole: "regolamento CEE", Ovunque ricorrono, sono sostituite dalle seguenti: "regolamento CE" e le parole "regolamento (CEE) n. 752/93, della Commissione, del 30 marzo 1993, attuativo" sono sostituite dalle seguenti: "regolamento (CE) n. 1081/2012 della Commissione, del 9 novembre 2012,recante disposizioni d'applicazione".
+All'[articolo 166 del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), le parole: "regolamento CEE", Ovunque ricorrono, sono sostituite dalle seguenti: "regolamento CE" e le parole "regolamento (CEE) n. 752/93, della Commissione, del 30 marzo 1993, attuativo" sono sostituite dalle seguenti: "regolamento (CE) n. 1081/2012 della Commissione, del 9 novembre 2012,recante disposizioni d'applicazione".
 
 10.
 
-Alla rubrica dell'allegato A del [decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), le parole: "75, comma 3, lettera a)" sono soppresse.
+Alla rubrica dell'allegato A del [decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), le parole: "75, comma 3, lettera a)" sono soppresse.
 
 11.
 
-La relazione sull'applicazione della direttiva UE, di cuiall'[articolo 84, comma 3, del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), come sostituito dal comma 8, lettera c), del presente articolo, e' presentata, per la prima volta, entro il 18 dicembre 2020.
+La relazione sull'applicazione della direttiva UE, di cuiall'[articolo 84, comma 3, del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), come sostituito dal comma 8, lettera c), del presente articolo, e' presentata, per la prima volta, entro il 18 dicembre 2020.
 
 Avvertenza: 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'articolo 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'articolo 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Per gli atti dell'Unione europea vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale dell'Unione Europea (GUUE). 
  Note alle premesse: 
  L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
  L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
  La [direttiva 2014/60/UE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;60) relativa alla restituzione dei beni culturali usciti illecitamente dal territorio di uno Stato membro e che modifica il regolamento (UE) n. 1024/2012 (Rifusione) (Testo rilevante ai fini del SEE) e' pubblicata nella G.U.U.E. 28 maggio 2014, n. L 159. 
- Il titolo I della parte II del [decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ([Codice dei beni culturali e del paesaggio](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[articolo 10 della legge 6 luglio 2002, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md)) pubblicato nella Gazzetta Ufficiale 24 febbraio 2004, n. 45, S.O., cosi' e' rubricato: 
+ Il titolo I della parte II del [decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ([Codice dei beni culturali e del paesaggio](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[articolo 10 della legge 6 luglio 2002, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md)) pubblicato nella Gazzetta Ufficiale 24 febbraio 2004, n. 45, S.O., cosi' e' rubricato: 
  "PARTE SECONDA Beni culturali, TITOLO I Tutela, Capo I Oggetto della tutela." 
- Il testo dell'articolo 1 e dell'allegato B della [legge 9 luglio 2015, n. 114](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202014.%2015G00127.md) (Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2014) pubblicata nella Gazzetta Ufficiale 31 luglio 2015, n. 176, cosi' recita: 
+ Il testo dell'articolo 1 e dell'allegato B della [legge 9 luglio 2015, n. 114](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202014.%2015G00127.md) (Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2014) pubblicata nella Gazzetta Ufficiale 31 luglio 2015, n. 176, cosi' recita: 
  "Art. 1. Delega al Governo per l'attuazione di direttive europee 
  In vigore dal 15 agosto 2015 
  1. Il Governo e' delegato ad adottare secondo le procedure, i principi e i criteri direttivi di cui agli [articoli 31](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md) e [32 della legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md), i decreti legislativi per l'attuazione delle direttive elencate negli allegati A e B alla presente legge. 
@@ -189,7 +189,7 @@ Avvertenza:
  56) (UE) 2015/413 del Parlamento europeo e del Consiglio, dell'11 marzo 2015, intesa ad agevolare lo scambio transfrontaliero di informazioni sulle infrazioni in materia di sicurezza stradale (termine di recepimento 6 maggio 2015)." 
  
  Note all'art. 1: 
- Si riporta il testo degli [artt. 73](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [75](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [76](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [77](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [79](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [84](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) e [166 del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), citato nelle note alle premesse, cosi' come modificati dal presente decreto: 
+ Si riporta il testo degli [artt. 73](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [74](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [75](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [76](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [77](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [78](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [79](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [84](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) e [166 del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), citato nelle note alle premesse, cosi' come modificati dal presente decreto: 
  "Art. 73 Denominazioni 
  In vigore dal 24 aprile 2008 
  1. Nella presente sezione e nella sezione III di questo Capo si intendono: 
@@ -248,7 +248,7 @@ Avvertenza:
  "Art. 166 Omessa restituzione di documenti per l'esportazione 
  In vigore dal 1° maggio 2004 
  1. Chi, effettuata l'esportazione di un bene culturale al di fuori del territorio dell'Unione europea ai sensi del regolamento CE, non rende al competente ufficio di esportazione l'esemplare n. 3 del formulario previsto dal regolamento (CE) n. 1081/2012, della Commissione, del 9 novembre 2012, recante disposizioni d'applicazione del regolamento CE, e' punito con la sanzione amministrativa del pagamento di una somma da euro 103,50 a euro 620.". 
- La rubrica dell'allegato A del citato [decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), come modificata dal presente decreto, cosi' recita: 
+ La rubrica dell'allegato A del citato [decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), come modificata dal presente decreto, cosi' recita: 
  "Allegato A (Integrativo della disciplina di cui agli artt. 63, comma 1; 74, commi 1 e 3".
 
 ## Art. 2. — Clausola di invarianza finanziaria

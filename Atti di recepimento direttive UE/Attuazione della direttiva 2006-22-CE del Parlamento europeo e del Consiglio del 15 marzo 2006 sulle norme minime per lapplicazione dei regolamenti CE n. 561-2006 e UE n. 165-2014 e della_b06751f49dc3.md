@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 25 febbraio 2008, n. 34](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202007.md), recante disposizioni per l'adeguamento di obblighi derivanti dall'appartenenza dell'Italia all'Unione europea - legge comunitaria 2007 - ed in particolare l'articolo 1, commi 1 e 3, e l'allegato B;
+Vista la [legge 25 febbraio 2008, n. 34](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202007.md), recante disposizioni per l'adeguamento di obblighi derivanti dall'appartenenza dell'Italia all'Unione europea - legge comunitaria 2007 - ed in particolare l'articolo 1, commi 1 e 3, e l'allegato B;
 
-Visto il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), recante nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni;
+Visto il [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), recante nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), e successive modificazioni;
 
 Visto il regolamento (CEE) n. 3821/85 del Consiglio, del 20 dicembre 1985, relativo all'apparecchio di controllo nel settore dei trasporti su strada;
 
@@ -110,7 +110,7 @@ L'applicazione dei regolamenti (CE) n. 561/2006, (UE) n. 165/2014 e della [diret
 
 2.
 
-Gli organi preposti ai controlli sono gli organi di polizia stradale di cui all'[articolo 12 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e l'Ispettorato nazionale del lavoro.
+Gli organi preposti ai controlli sono gli organi di polizia stradale di cui all'[articolo 12 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e l'Ispettorato nazionale del lavoro.
 
 3.
 
@@ -213,11 +213,11 @@ La registrazione dei periodi di "altre mansioni", quali definiti all'articolo 4,
 
 2.
 
-Salvo che il fatto costituisca reato e ferma restando l'applicazione delle sanzioni di cui agli [articoli 174](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), [178](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [179 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), il conducente che non provvede alla registrazione dei periodi di cui al comma 1 secondo le modalita' e i termini stabiliti negli atti di esecuzione di cui al medesimo comma 1 e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 150 a euro 600.
+Salvo che il fatto costituisca reato e ferma restando l'applicazione delle sanzioni di cui agli [articoli 174](../Codici/Nuovo%20codice%20della%20strada.md), [178](../Codici/Nuovo%20codice%20della%20strada.md) e [179 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), il conducente che non provvede alla registrazione dei periodi di cui al comma 1 secondo le modalita' e i termini stabiliti negli atti di esecuzione di cui al medesimo comma 1 e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 150 a euro 600.
 
 3.
 
-Alla stessa sanzione e' soggetta l'impresa che non conserva le registrazioni di cui al comma 1 secondo le modalita' e i termini previsti dagli atti di esecuzione di cui al medesimo comma 1. Si applicano le disposizioni del titolo VI e dell'[articolo 180, comma 8, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+Alla stessa sanzione e' soggetta l'impresa che non conserva le registrazioni di cui al comma 1 secondo le modalita' e i termini previsti dagli atti di esecuzione di cui al medesimo comma 1. Si applicano le disposizioni del titolo VI e dell'[articolo 180, comma 8, del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md).
 
 4.
 

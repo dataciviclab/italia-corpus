@@ -134,7 +134,7 @@ L'esenzione fiscale concessa dal [primo comma dell'art. 16 del decreto-legge 20 
 
 ## Art. 17.
 
-Nel caso di scioglimento e di liquidazione di piccole societa' a carattere immobiliare con capitale non superiore al milione, che, risultino regolarmente costituite al 14 aprile 1941 e siano composte da soci colpiti dalle disposizioni razziali, le assegnazioni, anche se si verificano a favore di soci diversi da quelli che hanno conferito i beni ed a favore dei soci azionisti, qualora trattasi di societa' per azioni ed in accomandita per azioni, sono soggette all'imposta graduale di registro di cui all'art. 89 della tariffa allegato A alla legge del registro approvata con [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md). 
+Nel caso di scioglimento e di liquidazione di piccole societa' a carattere immobiliare con capitale non superiore al milione, che, risultino regolarmente costituite al 14 aprile 1941 e siano composte da soci colpiti dalle disposizioni razziali, le assegnazioni, anche se si verificano a favore di soci diversi da quelli che hanno conferito i beni ed a favore dei soci azionisti, qualora trattasi di societa' per azioni ed in accomandita per azioni, sono soggette all'imposta graduale di registro di cui all'art. 89 della tariffa allegato A alla legge del registro approvata con [R. decreto 30 dicembre 1923, n. 3269](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md). 
  
  Le relative imposte ipotecarie sono dovute in misura fissa. 
  

@@ -44,7 +44,7 @@ Lo schema di atto, comunicato al contribuente ai fini del contraddittorio preven
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 12 febbraio 2024, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 12 febbraio 2024, n. 13](Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 2. — Definizione degli accertamenti nelle imposte sui redditi e nell'imposta sul valore aggiunto
 
@@ -58,7 +58,7 @@ Puo' essere oggetto di definizione anche la determinazione sintetica del reddito
 
 3.
 
-L'accertamento definito con adesione non e' soggetto ad impugnazione, non e' integrabile o modificabile da parte dell'ufficio e non rileva ai fini dell'imposta comunale per l'esercizio di imprese e di arti e professioni, nonche' ai fini extratributari, fatta eccezione per i contributi previdenziali e assistenziali, la cui base imponibile e' riconducibile a quella delle imposte sui redditi. La definizione esclude, anche con effetto retroattivo, in deroga all'[articolo 20 della legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4#art_20), la punibilita' per i reati previsti dal [decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20429%20recante%20norme%20per%20la%20repressione%20dellevasione%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20e%20per%20_832c3a3ade70.md), limitatamente ai fatti oggetto dell'accertamento; la definizione non esclude comunque la punibilita' per i reati di cui agli articoli 2, comma 3, e 4 del medesimo decreto-legge.
+L'accertamento definito con adesione non e' soggetto ad impugnazione, non e' integrabile o modificabile da parte dell'ufficio e non rileva ai fini dell'imposta comunale per l'esercizio di imprese e di arti e professioni, nonche' ai fini extratributari, fatta eccezione per i contributi previdenziali e assistenziali, la cui base imponibile e' riconducibile a quella delle imposte sui redditi. La definizione esclude, anche con effetto retroattivo, in deroga all'[articolo 20 della legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4#art_20), la punibilita' per i reati previsti dal [decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20429%20recante%20norme%20per%20la%20repressione%20dellevasione%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20e%20per%20_832c3a3ade70.md), limitatamente ai fatti oggetto dell'accertamento; la definizione non esclude comunque la punibilita' per i reati di cui agli articoli 2, comma 3, e 4 del medesimo decreto-legge.
 
 4.
 
@@ -206,7 +206,7 @@ Il [D.L. 30 aprile 2019, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 12 febbraio 2024, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 12 febbraio 2024, n. 13](Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 5-bis.
 
@@ -227,7 +227,7 @@ La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disp
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 12 febbraio 2024, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 12 febbraio 2024, n. 13](Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 5-quater. — (( (Adesione ai verbali di constatazione). ))
 
@@ -270,7 +270,7 @@ Sull'importo delle rate successive alla prima sono dovuti gli interessi al saggi
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 12 febbraio 2024, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 12 febbraio 2024, n. 13](Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 6. — Istanza del contribuente
 
@@ -312,7 +312,7 @@ Il [D.L. 30 aprile 2019, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 12 febbraio 2024, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 12 febbraio 2024, n. 13](Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 7. — Atto di accertamento con adesione
 
@@ -336,20 +336,20 @@ Nel caso in cui il contribuente abbia presentato istanza di accertamento con ade
 
 AGGIORNAMENTO (18)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), ha disposto (con l'art. 25, comma 5) che "Le disposizioni di cui ai commi precedenti entrano in vigore il 1° gennaio 2016, con riferimento ai periodi di imposta per i quali, alla predetta data, sono ancora pendenti i termini di cui all'[articolo 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md)". 
+Il [D.Lgs. 24 settembre 2015, n. 158](Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), ha disposto (con l'art. 25, comma 5) che "Le disposizioni di cui ai commi precedenti entrano in vigore il 1° gennaio 2016, con riferimento ai periodi di imposta per i quali, alla predetta data, sono ancora pendenti i termini di cui all'[articolo 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md)". 
  Ha inoltre disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
 
 -------------
 
 AGGIORNAMENTO (19)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
 ---------------
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 12 febbraio 2024, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 12 febbraio 2024, n. 13](Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 8. — (Adempimenti successivi).
 
@@ -396,7 +396,7 @@ Il [D.Lgs. 24 dicembre 2015, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 12 febbraio 2024, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 12 febbraio 2024, n. 13](Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 9. — Perfezionamento della definizione
 
@@ -474,7 +474,7 @@ La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disp
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 12 febbraio 2024, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 12 febbraio 2024, n. 13](Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 12. — Istanza del contribuente
 
@@ -511,7 +511,7 @@ Si applica il comma 1-quater dell'articolo 7. (23)
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 12 febbraio 2024, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 12 febbraio 2024, n. 13](Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 13. — Atto di accertamento con adesione, adempimenti
  successivi e definizione
@@ -688,7 +688,7 @@ Note all'art. 17:
  3. In calce agli atti di cui al comma 2, oltre all'indicazione prescritta dal [secondo comma dell'art. 16 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../DPR/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md), e' apposta anche la indicazione della facolta' ivi prevista".
  - Si riporta il testo degli [articoli 2 -bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-09-30;564#art_2bis) e [2 -ter del D.L. 30 settembre 1994, n. 564](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-09-30;564#art_2ter) (Disposizioni urgenti in materia fiscale), convertito, con modificazioni, dalla [legge 30 novembre 1994, n. 656](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%201994%20n.%20564%20recante%20disposizioni%20urgenti%20in%20materia%20fiscale.md), abrogati dal presente articolo:
  "Art. 2-bis (Accertamento con adesione del contribuente ai fini delle imposte sul reddito e dell'IVA). - 1. Ai fini delle imposte sul reddito e dell'imposta sul valore aggiunto, la rettifica delle dichiarazioni puo' essere definita, con unico atto, in contraddittorio e con adesione del contribuente, a norma delle disposizioni seguenti.
- 2. La definizione non e' ammessa quando sulla base degli elementi, dati e notizie a conoscenza dell'ufficio e' configurabile l'obbligo di denunzia all'autorita' giudiziaria per i reati di cui agli [articoli 1, comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_1-com1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_1-com2), [comma 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_1-com3), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_1-com3) e [4 del decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_1-com4), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20429%20recante%20norme%20per%20la%20repressione%20dellevasione%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20e%20per%20_832c3a3ade70.md), e successive modificazioni. Tale disposizione si applica anche quando per i medesimi reati risulta essere stato presentato rapporto dalla Guardia di finanza o risulta essere stata avviata l'azione penale.
+ 2. La definizione non e' ammessa quando sulla base degli elementi, dati e notizie a conoscenza dell'ufficio e' configurabile l'obbligo di denunzia all'autorita' giudiziaria per i reati di cui agli [articoli 1, comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_1-com1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_1-com2), [comma 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_1-com3), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_1-com3) e [4 del decreto-legge 10 luglio 1982, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429#art_1-com4), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20luglio%201982%20n.%20429%20recante%20norme%20per%20la%20repressione%20dellevasione%20in%20materia%20di%20imposte%20sui%20redditi%20e%20sul%20valore%20aggiunto%20e%20per%20_832c3a3ade70.md), e successive modificazioni. Tale disposizione si applica anche quando per i medesimi reati risulta essere stato presentato rapporto dalla Guardia di finanza o risulta essere stata avviata l'azione penale.
  3. La definizione ha per oggetto l'esistenza, la stima, l'inerenza e l'imputazione a periodo dei componenti positivi e negativi del reddito di impresa o di lavoro autonomo ed ha effetto anche per l'imposta sul valore aggiunto. Qualora sia stato notificato avviso di rettifica, ai fini di tale ultima imposta il contribuente puo' richiedere la definizione, anche parziale nel caso in cui ricorrano le fattispecie previste dalla [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4), e successive modificazioni, e dal relativo decreto ministeriale di attuazione del 1 settenibre 1931, la quale ha effetto, con unico atto ai sensi del comma 1 e del presente comma, anche ai fini delle imposte sul reddito. L'imposta sul valore aggiunto viene liquidata sui maggiori imponibili con l'aliquota media del contribuente, a meno che questi effettui esclusivamente operazioni esenti.
  4. Per la definizione il contribuente si puo' fare rappresentare con procura speciale non autenticata. La definizione si perfeziona con il pagamento delle maggiori somme, dovute per effetto dell'adesione, che sono versate in base alle norme sull 'autoliquidazione.
  5. L'accertamento definito con adesione non e' soggetto ad impugnazione, non e' integrabile o modificabile da parte dell'ufficio e non rileva ai fini penali ed extratributari, compreso il contributo per il Servizio sanitario nazionale.

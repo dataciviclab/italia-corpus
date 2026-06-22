@@ -22,13 +22,13 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-Il comune di San Raffaele Cimena, aggregato col [regio decreto 14 giugno 1928, n. 1523](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Bardassano%20Bussolino%20Gassinese%20Castiglione%20Torinese%20Gassino%20e%20San%20Raffaele%20e%20Cimena%20in%20un%20unico%20Comune%20con%20capoluogo%20Gassino.%20028U1523.md), a quello di Gassino Torinese, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto suddetto. 
+Il comune di San Raffaele Cimena, aggregato col [regio decreto 14 giugno 1928, n. 1523](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Bardassano%20Bussolino%20Gassinese%20Castiglione%20Torinese%20Gassino%20e%20San%20Raffaele%20e%20Cimena%20in%20un%20unico%20Comune%20con%20capoluogo%20Gassino.%20028U1523.md), a quello di Gassino Torinese, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto suddetto. 
  Il Prefetto di Torino, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni interessati.
 
 ## Art. 2.
 
 L'organico del comune di San Raffaele Cimena ed il nuovo organico del comune di Gassino Torinese, saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa.
- Il numero dei posti ed i gradi relativi non potranno essere rispettivamente superiori a quelli organicamente assegnati ai Comuni suddetti anteriormente all'entrata in vigore del [regio decreto 14 giugno 1928, n. 1523](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Bardassano%20Bussolino%20Gassinese%20Castiglione%20Torinese%20Gassino%20e%20San%20Raffaele%20e%20Cimena%20in%20un%20unico%20Comune%20con%20capoluogo%20Gassino.%20028U1523.md).
+ Il numero dei posti ed i gradi relativi non potranno essere rispettivamente superiori a quelli organicamente assegnati ai Comuni suddetti anteriormente all'entrata in vigore del [regio decreto 14 giugno 1928, n. 1523](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Bardassano%20Bussolino%20Gassinese%20Castiglione%20Torinese%20Gassino%20e%20San%20Raffaele%20e%20Cimena%20in%20un%20unico%20Comune%20con%20capoluogo%20Gassino.%20028U1523.md).
  Al personale gia' in servizio presso il comune di Gassino Torinese, che sara' inquadrato nei predetti organici, non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
 ## Art. 3.

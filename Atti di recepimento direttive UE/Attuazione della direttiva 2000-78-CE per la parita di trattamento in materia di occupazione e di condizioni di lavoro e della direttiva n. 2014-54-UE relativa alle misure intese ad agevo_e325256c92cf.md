@@ -14,11 +14,11 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [direttiva 2000/78/CE del Consiglio, del 27 novembre 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;78), che stabilisce un quadro generale per la parita' di trattamento in materia di occupazione e di condizioni di lavoro;
 
-Vista la [legge 1° marzo 2002, n. 39](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), ed in particolare l'allegato B;
+Vista la [legge 1° marzo 2002, n. 39](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), ed in particolare l'allegato B;
 
 Vista la [legge 20 maggio 1970, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300), recante "Norme sulla tutela della liberta' e dignita' dei lavoratori, della liberta' sindacale e dell'attivita' sindacale nei luoghi di lavoro e norme sul collocamento";
 
-Visto il testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, approvato con [decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md);
+Visto il testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, approvato con [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 marzo 2003;
 
@@ -48,7 +48,7 @@ Ai fini del presente decreto e salvo quanto disposto dall'articolo 3, commi da 3
 
 2.
 
-E' fatto salvo il disposto dell'articolo 43, commi 1 e 2 del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, approvato con [decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).
+E' fatto salvo il disposto dell'articolo 43, commi 1 e 2 del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, approvato con [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).
 
 3.
 
@@ -98,7 +98,7 @@ Nel rispetto dei principi di proporzionalita' e ragionevolezza e purche' la fina
 
 3-bis.
 
-Al fine di garantire il rispetto del principio della parita' di trattamento delle persone con disabilita', i datori di lavoro pubblici e privati sono tenuti ad adottare accomodamenti ragionevoli, come definiti dalla Convenzione delle Nazioni Unite sui diritti delle persone con disabilita', ratificata ai sensi della [legge 3 marzo 2009, n. 18](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20Convenzione%20delle%20Nazioni%20Unite%20sui%20diritti%20delle%20persone%20con%20disabilita%20con%20Protocollo%20opzionale%20fatta%20a%20New%20York%20il%2013%20dicembre%202006%20e%20istituzione%20dellOsser_895b3dd0dfb9.md), nei luoghi di lavoro, per garantire alle persone con disabilita' la piena eguaglianza con gli altri lavoratori. I datori di lavoro pubblici devono provvedere all'attuazione del presente comma senza nuovi o maggiori oneri per la finanza pubblica e con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
+Al fine di garantire il rispetto del principio della parita' di trattamento delle persone con disabilita', i datori di lavoro pubblici e privati sono tenuti ad adottare accomodamenti ragionevoli, come definiti dalla Convenzione delle Nazioni Unite sui diritti delle persone con disabilita', ratificata ai sensi della [legge 3 marzo 2009, n. 18](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20delle%20Nazioni%20Unite%20sui%20diritti%20delle%20persone%20con%20disabilita%20con%20Protocollo%20opzionale%20fatta%20a%20New%20York%20il%2013%20dicembre%202006%20e%20istituzione%20dellOsser_895b3dd0dfb9.md), nei luoghi di lavoro, per garantire alle persone con disabilita' la piena eguaglianza con gli altri lavoratori. I datori di lavoro pubblici devono provvedere all'attuazione del presente comma senza nuovi o maggiori oneri per la finanza pubblica e con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
 4.
 
@@ -132,7 +132,7 @@ Non costituiscono, comunque, atti di discriminazione ai sensi dell'articolo 2 qu
 
 All'[articolo 15, comma 2, della legge 20 maggio 1970, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300#art_15-com2), dopo la parola "sesso" sono aggiunte le seguenti: ", di handicap, di eta' o basata sull'orientamento sessuale o sulle convinzioni personali".
 
-((2. I giudizi civili avverso gli atti e i comportamenti di cui all'articolo 2 sono regolati dall'[articolo 28 del decreto legislativo 1° settembre 2011, n. 150](../Decreti%20Legislativi/Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md). In caso di accertamento di atti o comportamenti discriminatori, come definiti dall'articolo 2 del presente decreto, si applica, altresi', l'[articolo 44, comma 11, del decreto legislativo 25 luglio 1998, n. 286](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).))
+((2. I giudizi civili avverso gli atti e i comportamenti di cui all'articolo 2 sono regolati dall'[articolo 28 del decreto legislativo 1° settembre 2011, n. 150](../Decreti%20Legislativi/Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md). In caso di accertamento di atti o comportamenti discriminatori, come definiti dall'articolo 2 del presente decreto, si applica, altresi', l'[articolo 44, comma 11, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).))
 
 ((3))
 
@@ -214,7 +214,7 @@ I compiti dell'ufficio di cui al comma 1, con particolare riferimento alle discr
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 7 maggio 2026, n. 91](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-1499%20del%20Consiglio%20del%207%20maggio%202024%20sulle%20norme%20riguardanti%20gli%20organismi%20per%20la%20parita%20in%20materia%20di%20parita%20di%20trattamento%20tra%20le%20persone%20indipendente_adbea6396108.md), ha disposto (con l'art. 7, comma 4) che le presenti modifiche decorono dal 1 gennaio 2027.
+Il [D.Lgs. 7 maggio 2026, n. 91](Attuazione%20della%20direttiva%20UE%202024-1499%20del%20Consiglio%20del%207%20maggio%202024%20sulle%20norme%20riguardanti%20gli%20organismi%20per%20la%20parita%20in%20materia%20di%20parita%20di%20trattamento%20tra%20le%20persone%20indipendente_adbea6396108.md), ha disposto (con l'art. 7, comma 4) che le presenti modifiche decorono dal 1 gennaio 2027.
 
 ## Art. 6. — Relazione
 

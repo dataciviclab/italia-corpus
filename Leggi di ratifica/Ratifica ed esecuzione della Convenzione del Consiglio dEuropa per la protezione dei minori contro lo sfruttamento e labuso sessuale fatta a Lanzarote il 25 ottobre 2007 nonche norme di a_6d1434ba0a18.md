@@ -188,7 +188,7 @@ Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:p
 
 1.
 
-Al comma 5 dell'articolo 8 del codice delle leggi antimafia e delle misure di prevenzione, di cui al [decreto legislativo 6 settembre 2011, n. 159](../Decreti%20Legislativi/Codice%20delle%20leggi%20antimafia%20e%20delle%20misure%20di%20prevenzione%20nonche%20nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%2013%20agosto%202010%20n.%20136.%2011G0201.md), sono aggiunte, in fine, le seguenti parole: «, ovvero, con riferimento ai soggetti di cui all'articolo 1, lettera c), il divieto di avvicinarsi a determinati luoghi, frequentati abitualmente da minori».
+Al comma 5 dell'articolo 8 del codice delle leggi antimafia e delle misure di prevenzione, di cui al [decreto legislativo 6 settembre 2011, n. 159](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20delle%20leggi%20antimafia%20e%20delle%20misure%20di%20prevenzione%20nonche%20nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%2013%20agosto%202010%20n.%20136.%2011G0201.md), sono aggiunte, in fine, le seguenti parole: «, ovvero, con riferimento ai soggetti di cui all'articolo 1, lettera c), il divieto di avvicinarsi a determinati luoghi, frequentati abitualmente da minori».
 
 ### Art. 7.
 

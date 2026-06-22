@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 28 della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), recante delega al Governo per l'attuazione della [direttiva n. 88/357/CEE del Consiglio del 22 giugno 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;357), concernente il coordinamento delle disposizioni legislative regolamentari ed amministrative riguardanti l'assicurazione diretta diversa dall'assicurazione sulla vita e alla fissazione delle disposizioni volte ad agevolare l'esercizio effettivo della libera prestazione di servizi e che modifica la [direttiva n. 73/239/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1973;239);
+Visto l'[art. 28 della legge 29 dicembre 1990, n. 428](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), recante delega al Governo per l'attuazione della [direttiva n. 88/357/CEE del Consiglio del 22 giugno 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;357), concernente il coordinamento delle disposizioni legislative regolamentari ed amministrative riguardanti l'assicurazione diretta diversa dall'assicurazione sulla vita e alla fissazione delle disposizioni volte ad agevolare l'esercizio effettivo della libera prestazione di servizi e che modifica la [direttiva n. 73/239/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1973;239);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 dicembre 1991;
 
@@ -200,7 +200,7 @@ Titolo VI
 
 1.
 
-L'[art. 34 del decreto del Presidente della Repubblica 24 novembre 1970, n. 973](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2024%20dicembre%201969%20n.%20990%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md), e' sostituito dal seguente: 
+L'[art. 34 del decreto del Presidente della Repubblica 24 novembre 1970, n. 973](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2024%20dicembre%201969%20n.%20990%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md), e' sostituito dal seguente: 
  "34 (Insufficienza della riserva sinistri). - Il Ministero dell'industria, del commercio e dell'artigianato, qualora, dai dati forniti con il prospetto di cui al primo comma del precedente articolo o acquisiti dal conto consortile o da altri elementi, rilevi che la riserva sinistri, ancorche' corrispondente alla misura minima prevista dal precedente art. 32, e' inferiore all'ammontare occorrente per far fronte alla totale liquidazione dei sinistri stessi, invita l'impresa ad adottare le misure necessarie ad eliminare l'insufficienza, assegnando a tale scopo un termine non inferiore a sessanta giorni".
 
 ### Art. 39. — Struttura dell'ISVAP

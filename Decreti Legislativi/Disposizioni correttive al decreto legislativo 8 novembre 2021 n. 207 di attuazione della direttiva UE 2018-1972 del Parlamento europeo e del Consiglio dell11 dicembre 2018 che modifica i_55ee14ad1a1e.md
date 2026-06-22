@@ -16,7 +16,7 @@ Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md), recante «Norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea» e, in particolare, l'articolo 31, comma 5;
 
-Vista la [legge 22 aprile 2021, n. 53](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202019-2020.%2021G00063.md), recante «Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - legge di delegazione europea 2019-2020» e, in particolare, l'articolo 4;
+Vista la [legge 22 aprile 2021, n. 53](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202019-2020.%2021G00063.md), recante «Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - legge di delegazione europea 2019-2020» e, in particolare, l'articolo 4;
 
 Vista la [direttiva (UE) 2018/1972 del Parlamento europeo e del Consiglio, dell'11 dicembre 2018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;1972), che istituisce il codice europeo delle comunicazioni elettroniche;
 

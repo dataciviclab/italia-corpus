@@ -14,7 +14,7 @@ VISTI gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 VISTA la [direttiva 2007/2/CE del Parlamento europeo e del Consiglio, del 14 marzo 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2007;2), che istituisce un'infrastruttura per l'informazione territoriale nella Comunita' europea (INSPIRE);
 
-VISTA la [legge 7 luglio 2009, n. 88](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), recante delega al Governo per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2008, ed in particolare, l'Allegato B;
+VISTA la [legge 7 luglio 2009, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), recante delega al Governo per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2008, ed in particolare, l'Allegato B;
 
 VISTO il regolamento (CE) n. 1205/2008 della Commissione, del 3 dicembre 2008, recante attuazione della [direttiva 2007/2/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2007;2) per quanto riguarda i metadati, entrato in vigore il 24 dicembre 2008;
 

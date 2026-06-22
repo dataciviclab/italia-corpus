@@ -50,13 +50,13 @@ Il Governo della Repubblica e' delegato ad emanare entro tre mesi dalla data di 
 
 AGGIORNAMENTO (1)
 
-La [L. 13 luglio 1995, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295) ha disposto (con l'art. 6, comma 1) che "Il termine per l'esercizio della delega di cui all'[articolo 3 della legge 29 dicembre 1994, n. 747](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20atti%20concernenti%20i%20risultati%20dei%20negoziati%20dellUruguay%20Round%20adottati%20a%20Marrakech%20il%2015%20aprile%201994.md), e' prorogato al 30 ottobre 1995."
+La [L. 13 luglio 1995, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295) ha disposto (con l'art. 6, comma 1) che "Il termine per l'esercizio della delega di cui all'[articolo 3 della legge 29 dicembre 1994, n. 747](Ratifica%20ed%20esecuzione%20degli%20atti%20concernenti%20i%20risultati%20dei%20negoziati%20dellUruguay%20Round%20adottati%20a%20Marrakech%20il%2015%20aprile%201994.md), e' prorogato al 30 ottobre 1995."
 
 -----------------
 
 AGGIORNAMENTO (2)
 
-La [legge 22 febbraio 1996, n. 73](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20del%20termine%20per%20lesercizio%20della%20delega%20in%20materia%20di%20adeguamento%20alle%20prescrizioni%20dellaccordo%20Uruguay%20Round%20sui%20diritti%20di%20proprieta%20intellettuale.md) ha disposto (con l'art. 1, comma 1) che " Il termine per l'esercizio della delega di cui all'[articolo 3 della legge 29 dicembre 1994, n. 747](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20atti%20concernenti%20i%20risultati%20dei%20negoziati%20dellUruguay%20Round%20adottati%20a%20Marrakech%20il%2015%20aprile%201994.md), gia' prorogato al 30 ottobre 1995 dall'[articolo 6 della legge 13 luglio 1995, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295#art_6), e' ulteriormente prorogato al 31 marzo 1996. "
+La [legge 22 febbraio 1996, n. 73](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20del%20termine%20per%20lesercizio%20della%20delega%20in%20materia%20di%20adeguamento%20alle%20prescrizioni%20dellaccordo%20Uruguay%20Round%20sui%20diritti%20di%20proprieta%20intellettuale.md) ha disposto (con l'art. 1, comma 1) che " Il termine per l'esercizio della delega di cui all'[articolo 3 della legge 29 dicembre 1994, n. 747](Ratifica%20ed%20esecuzione%20degli%20atti%20concernenti%20i%20risultati%20dei%20negoziati%20dellUruguay%20Round%20adottati%20a%20Marrakech%20il%2015%20aprile%201994.md), gia' prorogato al 30 ottobre 1995 dall'[articolo 6 della legge 13 luglio 1995, n. 295](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295#art_6), e' ulteriormente prorogato al 31 marzo 1996. "
 
 ## Art. 4.
 

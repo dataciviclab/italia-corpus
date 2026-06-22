@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'[articolo 117 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117);
 
-((Vista la [legge 22 aprile 2021, n. 53](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202019-2020.%2021G00063.md) e, in particolare, l'articolo 1 e l'allegato A;
+((Vista la [legge 22 aprile 2021, n. 53](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202019-2020.%2021G00063.md) e, in particolare, l'articolo 1 e l'allegato A;
 
 Vista la [direttiva (UE) 2019/1024 del Parlamento europeo e del Consiglio, del 20 giugno 2019](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2019;1024), relativa all'apertura dei dati e al riutilizzo dell'informazione del settore pubblico;))
 
@@ -46,11 +46,11 @@ Visto il [decreto legislativo 7 marzo 2005, n. 82](Codice%20dellamministrazione%
 
 ((Vista la [legge 3 agosto 2007, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-08-03;124);
 
-Visto il [decreto legislativo 27 gennaio 2010, n. 32](Attuazione%20della%20direttiva%202007-2-CE%20che%20istituisce%20uninfrastruttura%20per%20linformazione%20territoriale%20nella%20Comunita%20europea%20INSPIRE.%2010G0043.md);
+Visto il [decreto legislativo 27 gennaio 2010, n. 32](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202007-2-CE%20che%20istituisce%20uninfrastruttura%20per%20linformazione%20territoriale%20nella%20Comunita%20europea%20INSPIRE.%2010G0043.md);
 
 Visto il [decreto legislativo 14 marzo 2013, n. 33](Riordino%20della%20disciplina%20riguardante%20il%20diritto%20di%20accesso%20civico%20e%20gli%20obblighi%20di%20pubblicita%20trasparenza%20e%20diffusione%20di%20informazioni%20da%20parte%20delle%20pubbliche%20amministrazioni.%2013G00076.md);
 
-Visto il [decreto legislativo 18 maggio 2015, n. 102](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-37-UE%20che%20modifica%20la%20direttiva%202003-98-CE%20relativa%20al%20riutilizzo%20dellinformazione%20del%20settore%20pubblico.%2015G00116.md);
+Visto il [decreto legislativo 18 maggio 2015, n. 102](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-37-UE%20che%20modifica%20la%20direttiva%202003-98-CE%20relativa%20al%20riutilizzo%20dellinformazione%20del%20settore%20pubblico.%2015G00116.md);
 
 Visto il [decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md);))
 
@@ -96,7 +96,7 @@ La disciplina di cui al comma 2-ter si applica anche alle imprese private di tra
 
 2-quinquies.
 
-Il presente decreto disciplina altresi' il riutilizzo dei documenti ai quali si applica il [decreto legislativo 27 gennaio 2010, n. 32](Attuazione%20della%20direttiva%202007-2-CE%20che%20istituisce%20uninfrastruttura%20per%20linformazione%20territoriale%20nella%20Comunita%20europea%20INSPIRE.%2010G0043.md), di recepimento della [direttiva 2007/2/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2007;2).
+Il presente decreto disciplina altresi' il riutilizzo dei documenti ai quali si applica il [decreto legislativo 27 gennaio 2010, n. 32](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202007-2-CE%20che%20istituisce%20uninfrastruttura%20per%20linformazione%20territoriale%20nella%20Comunita%20europea%20INSPIRE.%2010G0043.md), di recepimento della [direttiva 2007/2/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2007;2).
 
 ))
 
@@ -106,7 +106,7 @@ Il presente decreto si applica altresi' quando i documenti di cui al comma 1 son
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 18 MAGGIO 2015, N. 102](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-37-UE%20che%20modifica%20la%20direttiva%202003-98-CE%20relativa%20al%20riutilizzo%20dellinformazione%20del%20settore%20pubblico.%2015G00116.md).
+COMMA ABROGATO DAL [D.LGS. 18 MAGGIO 2015, N. 102](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-37-UE%20che%20modifica%20la%20direttiva%202003-98-CE%20relativa%20al%20riutilizzo%20dellinformazione%20del%20settore%20pubblico.%2015G00116.md).
 
 ## Art. 2. — Definizioni
 
@@ -156,7 +156,7 @@ Ai fini del presente decreto si intende per:
                         e)
                             quelli comunque nella disponibilita' degli organismi di cui ((alla legge 3 agosto 2007, n. 124));
                         f)
-                            LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md);
+                            LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md);
                         g)
                             quelli esclusi dall'accesso ai sensi dell'[articolo 24 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_24), ((nonche' ai sensi dell'articolo 5-bis del decreto legislativo 14 marzo 2013, n. 33,)) o per motivi di tutela del segreto statistico, quali disciplinati dall'articolo 9 del decreto legislativo 6 settembre 1989. n. 322;
                         h)
@@ -166,9 +166,9 @@ Ai fini del presente decreto si intende per:
                         h-ter)
                             parti di documenti contenenti solo logotipi, stemmi e distintivi;
                         h-quater)
-                            quelli il cui accesso, ai sensi delle previsioni del [regolamento UE 2016/679](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2016;679) e del [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) nonche' del [decreto legislativo 18 maggio 2018, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202016-680%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2027%20aprile%202016%20relativa%20alla%20protezione%20delle%20persone%20fisiche%20con%20riguardo%20al%20trattamento%20dei%20dati%20person_64bbd5b37b8b.md), e' escluso o limitato, ovvero risulti pregiudizievole per la tutela della vita privata e dell'integrita' degli individui, nonche' alle parti di documenti accessibili che contengono dati personali il cui riutilizzo e' stato definito per legge incompatibile con le previsioni delle suddette disposizioni normative;
+                            quelli il cui accesso, ai sensi delle previsioni del [regolamento UE 2016/679](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2016;679) e del [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) nonche' del [decreto legislativo 18 maggio 2018, n. 51](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-680%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2027%20aprile%202016%20relativa%20alla%20protezione%20delle%20persone%20fisiche%20con%20riguardo%20al%20trattamento%20dei%20dati%20person_64bbd5b37b8b.md), e' escluso o limitato, ovvero risulti pregiudizievole per la tutela della vita privata e dell'integrita' degli individui, nonche' alle parti di documenti accessibili che contengono dati personali il cui riutilizzo e' stato definito per legge incompatibile con le previsioni delle suddette disposizioni normative;
                         h-quinquies)
-                            quelli il cui accesso e' escluso o limitato per motivi di protezione delle informazioni sensibili relative alle infrastrutture critiche definite all'[articolo 2 del decreto legislativo 11 aprile 2011, n. 61](Attuazione%20della%20Direttiva%202008-114-CE%20recante%20lindividuazione%20e%20la%20designazione%20delle%20infrastrutture%20critiche%20europee%20e%20la%20valutazione%20della%20necessita%20di%20migliorarne%20la%20protezione.%2011G0101.md);
+                            quelli il cui accesso e' escluso o limitato per motivi di protezione delle informazioni sensibili relative alle infrastrutture critiche definite all'[articolo 2 del decreto legislativo 11 aprile 2011, n. 61](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20Direttiva%202008-114-CE%20recante%20lindividuazione%20e%20la%20designazione%20delle%20infrastrutture%20critiche%20europee%20e%20la%20valutazione%20della%20necessita%20di%20migliorarne%20la%20protezione.%2011G0101.md);
                         h-sexies)
                             documenti diversi da quelli di cui all'articolo 2, comma 1, lettera c-septies), nella disponibilita' di organizzazioni che svolgono attivita' di ricerca e di organizzazioni che finanziano la ricerca, comprese le organizzazioni preposte al trasferimento dei risultati della ricerca.
 
@@ -188,15 +188,15 @@ Sono fatte salve:
                         a)
                             la disciplina sulla protezione dei dati personali di cui al [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md);
                         b)
-                            la disciplina sulla protezione del diritto d'autore di cui alla [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633). Gli obblighi previsti dal presente decreto legislativo si applicano compatibilmente con le disposizioni degli accordi internazionali sulla protezione dei diritti di proprieta' intellettuale e, in particolare, della Convenzione di Berna per la protezione delle opere letterarie ed artistiche del 1886, ratificata ai sensi della [legge 20 giugno 1978, n. 399](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20di%20Berna%20per%20la%20protezione%20delle%20opere%20letterarie%20ed%20artistiche%20firmata%20il%209%20settembre%201886%20completata%20a%20Parigi%20il%204%20maggio%201896%20riveduta%20a%20Berlin_aaf093302758.md), dell'Accordo TRIPS sugli aspetti dei diritti di proprieta' intellettuale attinenti al commercio del 1994, ratificato e reso esecutivo ai sensi della [legge 29 dicembre 1994, n. 747](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20atti%20concernenti%20i%20risultati%20dei%20negoziati%20dellUruguay%20Round%20adottati%20a%20Marrakech%20il%2015%20aprile%201994.md), e del Trattato sul diritto d'autore (WCT), adottato a Ginevra il 20 dicembre 1996 ed entrato in vigore per tutti gli Stati membri dell'Unione Europea il 14 marzo 2010;
+                            la disciplina sulla protezione del diritto d'autore di cui alla [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633). Gli obblighi previsti dal presente decreto legislativo si applicano compatibilmente con le disposizioni degli accordi internazionali sulla protezione dei diritti di proprieta' intellettuale e, in particolare, della Convenzione di Berna per la protezione delle opere letterarie ed artistiche del 1886, ratificata ai sensi della [legge 20 giugno 1978, n. 399](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20di%20Berna%20per%20la%20protezione%20delle%20opere%20letterarie%20ed%20artistiche%20firmata%20il%209%20settembre%201886%20completata%20a%20Parigi%20il%204%20maggio%201896%20riveduta%20a%20Berlin_aaf093302758.md), dell'Accordo TRIPS sugli aspetti dei diritti di proprieta' intellettuale attinenti al commercio del 1994, ratificato e reso esecutivo ai sensi della [legge 29 dicembre 1994, n. 747](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20atti%20concernenti%20i%20risultati%20dei%20negoziati%20dellUruguay%20Round%20adottati%20a%20Marrakech%20il%2015%20aprile%201994.md), e del Trattato sul diritto d'autore (WCT), adottato a Ginevra il 20 dicembre 1996 ed entrato in vigore per tutti gli Stati membri dell'Unione Europea il 14 marzo 2010;
                         c)
                             la disciplina in materia di accesso ai documenti amministrativi, di cui al Capo V della [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
                         d)
-                            LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md);
+                            LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md);
                         e)
                             le disposizioni in materia di proprieta' industriale di cui al [decreto legislativo 10 febbraio 2005, n. 30](Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md);
                         f)
-                            LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md).
+                            LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md).
 
 ## Art. 5. — (( (Richiesta di riutilizzo di documenti). ))
 
@@ -447,7 +447,7 @@ I diritti di esclusiva esistenti al 17 luglio 2013 non conformi alle condizioni 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 18 maggio 2015, n. 102](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-37-UE%20che%20modifica%20la%20direttiva%202003-98-CE%20relativa%20al%20riutilizzo%20dellinformazione%20del%20settore%20pubblico.%2015G00116.md) ha disposto (con l'art. 3, comma 1) che "Gli accordi di esclusiva di cui all'articolo 1, comma 9, lettera a), del presente decreto legislativo stipulati dopo il 17 luglio 2013 sono adeguati alle disposizioni del predetto comma 9 entro il termine di sei mesi dalla data di entrata in vigore del medesimo decreto. Decorso tale termine, la durata dei predetti accordi e' ridotta, ove superiore, a dieci anni, fermo restando la possibilita' di riesame ai sensi del secondo periodo della medesima lettera a) del comma 9".
+Il [D.Lgs. 18 maggio 2015, n. 102](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-37-UE%20che%20modifica%20la%20direttiva%202003-98-CE%20relativa%20al%20riutilizzo%20dellinformazione%20del%20settore%20pubblico.%2015G00116.md) ha disposto (con l'art. 3, comma 1) che "Gli accordi di esclusiva di cui all'articolo 1, comma 9, lettera a), del presente decreto legislativo stipulati dopo il 17 luglio 2013 sono adeguati alle disposizioni del predetto comma 9 entro il termine di sei mesi dalla data di entrata in vigore del medesimo decreto. Decorso tale termine, la durata dei predetti accordi e' ridotta, ove superiore, a dieci anni, fermo restando la possibilita' di riesame ai sensi del secondo periodo della medesima lettera a) del comma 9".
 
 ## Art. 12. — (( (Regole tecniche). ))
 

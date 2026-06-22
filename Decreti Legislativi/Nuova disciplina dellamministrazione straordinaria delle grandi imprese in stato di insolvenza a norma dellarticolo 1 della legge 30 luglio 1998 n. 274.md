@@ -1275,7 +1275,7 @@ La scelta dell'acquirente e' effettuata tenendo conto, oltre che dell'ammontare 
 
 4.
 
-Nell'ambito delle consultazioni relative al trasferimento d'azienda previste dall'[articolo 47 della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), il commissario straordinario, l'acquirente e i rappresentanti 
+Nell'ambito delle consultazioni relative al trasferimento d'azienda previste dall'[articolo 47 della legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), il commissario straordinario, l'acquirente e i rappresentanti 
 dei lavoratori possono convenire il trasferimento solo parziale dei lavoratori alle dipendenze dell'acquirente e ulteriori modifiche delle condizioni di lavoro consentite dalle norme vigenti in materia.
 
 5.

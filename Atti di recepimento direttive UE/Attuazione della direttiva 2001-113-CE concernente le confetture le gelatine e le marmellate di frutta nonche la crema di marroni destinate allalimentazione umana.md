@@ -19,7 +19,7 @@ Il presente decreto si applica ai prodotti definiti all'allegato I, destinati al
 Il presente decreto non si applica ai prodotti destinati alla fabbricazione di prodotti da forno, da pasticceria e biscotteria, i quali, tuttavia, possono riportare le denominazioni di cui all'allegato I, nel rispetto dei requisiti ivi previsti.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CE vengono forniti gli estremi di pubblicazioni nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
@@ -90,7 +90,7 @@ In caso di mescolanza, i tenori minimi fissati nell'allegato I per le diverse sp
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 30 dicembre 2025, n. 207](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
+Il [D.Lgs. 30 dicembre 2025, n. 207](Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
  Ha inoltre disposto (con l'art. 5, comma 2) che "I prodotti immessi sul mercato o etichettati anteriormente al 14 giugno 2026, in conformita' alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono essere commercializzati fino all'esaurimento delle scorte".
 
 ## Art. 3. — Denominazioni di vendita e altre indicazioni
@@ -132,7 +132,7 @@ La denominazione dei prodotti di cui all'allegato I, punto 1, preparati con le m
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 30 dicembre 2025, n. 207](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
+Il [D.Lgs. 30 dicembre 2025, n. 207](Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
  Ha inoltre disposto (con l'art. 5, comma 2) che "I prodotti immessi sul mercato o etichettati anteriormente al 14 giugno 2026, in conformita' alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono essere commercializzati fino all'esaurimento delle scorte".
 
 ## Art. 4. — Abrogazione

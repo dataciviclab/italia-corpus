@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 50 della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), recante delega al Governo per l'attuazione della [direttiva 89/398/CEE del Consiglio del 3 maggio 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;398), relativa al ravvicinamento delle legislazioni degli Stati membri concernenti i prodotti alimentari destinati ad una alimentazione particolare.
+Visto l'[art. 50 della legge 29 dicembre 1990, n. 428](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), recante delega al Governo per l'attuazione della [direttiva 89/398/CEE del Consiglio del 3 maggio 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;398), relativa al ravvicinamento delle legislazioni degli Stati membri concernenti i prodotti alimentari destinati ad una alimentazione particolare.
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 luglio 1991;
 
@@ -113,7 +113,7 @@ Sulla confezione dei prodotti alimentari di cui all'art. 1, comma 2, lettere a) 
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 16 febbraio 1993, n. 77](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2090-496-CEE%20del%20Consiglio%20del%2024%20settembre%201990%20relativa%20alletichettatura%20nutrizionale%20dei%20prodotti%20alimentari.md) ha disposto (con l'art. 9, comma 2) che "Le diciture "glucidi", "protodi" e "lipidi" di cui alla [lettera h) dell'art. 4 del decreto legislativo 27 gennaio 1992, n. 111](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), sono equivalenti alle diciture "carboidrati", "proteine" e "grassi"."
+Il [D. Lgs. 16 febbraio 1993, n. 77](Attuazione%20della%20direttiva%2090-496-CEE%20del%20Consiglio%20del%2024%20settembre%201990%20relativa%20alletichettatura%20nutrizionale%20dei%20prodotti%20alimentari.md) ha disposto (con l'art. 9, comma 2) che "Le diciture "glucidi", "protodi" e "lipidi" di cui alla [lettera h) dell'art. 4 del decreto legislativo 27 gennaio 1992, n. 111](Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), sono equivalenti alle diciture "carboidrati", "proteine" e "grassi"."
 
 ## Art. 5. — Confezionamento e imballaggio
 
@@ -211,7 +211,7 @@ Con la stessa procedura di cui al comma 1 vengono indicati, in attuazione delle 
 
 1.
 
-Ai sensi dell'[articolo 2 del decreto legislativo 6 novembre 2007, n. 193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md), gli stabilimenti di produzione e confezionamento dei prodotti di cui all'articolo 1 sono riconosciuti dalle regioni, dalle province autonome di Trento e di Bolzano e dalle aziende sanitarie locali.
+Ai sensi dell'[articolo 2 del decreto legislativo 6 novembre 2007, n. 193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md), gli stabilimenti di produzione e confezionamento dei prodotti di cui all'articolo 1 sono riconosciuti dalle regioni, dalle province autonome di Trento e di Bolzano e dalle aziende sanitarie locali.
 
 2.
 
@@ -355,7 +355,7 @@ Con decreto del Presidente della Repubblica su proposta del Ministro della sanit
 
 2.
 
-Le disposizioni del [decreto del Presidente della Repubblica del 30 maggio 1953, n. 578](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2029%20marzo%201951%20n.%20327%20che%20disciplina%20la%20produzione%20e%20il%20commercio%20degli%20alimenti%20per%20la%20prima%20Infanzia%20e%20prodotti%20dietetici.md), modificato con [decreto del Presidente della Repubblica 24 gennaio 1991, n. 56](../Regolamenti%20governativi/Regolamento%20recante%20modificazione%20al%20decreto%20del%20Presidente%20della%20Repubblica%2030%20maggio%201953%20n.%20578%20concernente%20il%20regolamento%20di%20esecuzione%20della%20legge%2029%20marzo%201951%20n.%20327%20sulla%20discipli_8535a0614472.md), continuano ad applicarsi, in quanto compatibili, fino all'entrata in vigore del regolamento di esecuzione di cui al comma 1.
+Le disposizioni del [decreto del Presidente della Repubblica del 30 maggio 1953, n. 578](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2029%20marzo%201951%20n.%20327%20che%20disciplina%20la%20produzione%20e%20il%20commercio%20degli%20alimenti%20per%20la%20prima%20Infanzia%20e%20prodotti%20dietetici.md), modificato con [decreto del Presidente della Repubblica 24 gennaio 1991, n. 56](../DPR/Regolamento%20recante%20modificazione%20al%20decreto%20del%20Presidente%20della%20Repubblica%2030%20maggio%201953%20n.%20578%20concernente%20il%20regolamento%20di%20esecuzione%20della%20legge%2029%20marzo%201951%20n.%20327%20sulla%20discipli_8535a0614472.md), continuano ad applicarsi, in quanto compatibili, fino all'entrata in vigore del regolamento di esecuzione di cui al comma 1.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

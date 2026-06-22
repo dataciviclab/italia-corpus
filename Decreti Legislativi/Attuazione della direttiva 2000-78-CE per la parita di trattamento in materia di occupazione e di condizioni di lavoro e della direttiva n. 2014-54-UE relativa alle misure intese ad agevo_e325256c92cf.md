@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [direttiva 2000/78/CE del Consiglio, del 27 novembre 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;78), che stabilisce un quadro generale per la parita' di trattamento in materia di occupazione e di condizioni di lavoro;
 
-Vista la [legge 1° marzo 2002, n. 39](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), ed in particolare l'allegato B;
+Vista la [legge 1° marzo 2002, n. 39](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), ed in particolare l'allegato B;
 
 Vista la [legge 20 maggio 1970, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300), recante "Norme sulla tutela della liberta' e dignita' dei lavoratori, della liberta' sindacale e dell'attivita' sindacale nei luoghi di lavoro e norme sul collocamento";
 
@@ -98,7 +98,7 @@ Nel rispetto dei principi di proporzionalita' e ragionevolezza e purche' la fina
 
 3-bis.
 
-Al fine di garantire il rispetto del principio della parita' di trattamento delle persone con disabilita', i datori di lavoro pubblici e privati sono tenuti ad adottare accomodamenti ragionevoli, come definiti dalla Convenzione delle Nazioni Unite sui diritti delle persone con disabilita', ratificata ai sensi della [legge 3 marzo 2009, n. 18](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20Convenzione%20delle%20Nazioni%20Unite%20sui%20diritti%20delle%20persone%20con%20disabilita%20con%20Protocollo%20opzionale%20fatta%20a%20New%20York%20il%2013%20dicembre%202006%20e%20istituzione%20dellOsser_895b3dd0dfb9.md), nei luoghi di lavoro, per garantire alle persone con disabilita' la piena eguaglianza con gli altri lavoratori. I datori di lavoro pubblici devono provvedere all'attuazione del presente comma senza nuovi o maggiori oneri per la finanza pubblica e con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
+Al fine di garantire il rispetto del principio della parita' di trattamento delle persone con disabilita', i datori di lavoro pubblici e privati sono tenuti ad adottare accomodamenti ragionevoli, come definiti dalla Convenzione delle Nazioni Unite sui diritti delle persone con disabilita', ratificata ai sensi della [legge 3 marzo 2009, n. 18](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20delle%20Nazioni%20Unite%20sui%20diritti%20delle%20persone%20con%20disabilita%20con%20Protocollo%20opzionale%20fatta%20a%20New%20York%20il%2013%20dicembre%202006%20e%20istituzione%20dellOsser_895b3dd0dfb9.md), nei luoghi di lavoro, per garantire alle persone con disabilita' la piena eguaglianza con gli altri lavoratori. I datori di lavoro pubblici devono provvedere all'attuazione del presente comma senza nuovi o maggiori oneri per la finanza pubblica e con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
 4.
 
@@ -214,7 +214,7 @@ I compiti dell'ufficio di cui al comma 1, con particolare riferimento alle discr
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 7 maggio 2026, n. 91](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-1499%20del%20Consiglio%20del%207%20maggio%202024%20sulle%20norme%20riguardanti%20gli%20organismi%20per%20la%20parita%20in%20materia%20di%20parita%20di%20trattamento%20tra%20le%20persone%20indipendente_adbea6396108.md), ha disposto (con l'art. 7, comma 4) che le presenti modifiche decorono dal 1 gennaio 2027.
+Il [D.Lgs. 7 maggio 2026, n. 91](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202024-1499%20del%20Consiglio%20del%207%20maggio%202024%20sulle%20norme%20riguardanti%20gli%20organismi%20per%20la%20parita%20in%20materia%20di%20parita%20di%20trattamento%20tra%20le%20persone%20indipendente_adbea6396108.md), ha disposto (con l'art. 7, comma 4) che le presenti modifiche decorono dal 1 gennaio 2027.
 
 ## Art. 6. — Relazione
 

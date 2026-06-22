@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Veduto il [decreto legislativo 7 maggio 1948, n. 546](../Decreti%20Legislativi/Revisione%20dei%20ruoli%20organici%20del%20personale%20delle%20Biblioteche%20pubbliche%20governative.md);
+Veduto il [decreto legislativo 7 maggio 1948, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20dei%20ruoli%20organici%20del%20personale%20delle%20Biblioteche%20pubbliche%20governative.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello p
 
 ## Art. 1.
 
-Le Commissioni giudicatrici dei concorsi speciali per esami e per titoli, di cui agli [articoli 11](../Decreti%20Legislativi/Revisione%20dei%20ruoli%20organici%20del%20personale%20delle%20Biblioteche%20pubbliche%20governative.md), [12](../Decreti%20Legislativi/Revisione%20dei%20ruoli%20organici%20del%20personale%20delle%20Biblioteche%20pubbliche%20governative.md) e [13 del decreto legislativo 7 maggio 1948, n. 546](../Decreti%20Legislativi/Revisione%20dei%20ruoli%20organici%20del%20personale%20delle%20Biblioteche%20pubbliche%20governative.md), sono nominate con decreto del Ministro per la pubblica istruzione e sono composte:
+Le Commissioni giudicatrici dei concorsi speciali per esami e per titoli, di cui agli [articoli 11](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20dei%20ruoli%20organici%20del%20personale%20delle%20Biblioteche%20pubbliche%20governative.md), [12](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20dei%20ruoli%20organici%20del%20personale%20delle%20Biblioteche%20pubbliche%20governative.md) e [13 del decreto legislativo 7 maggio 1948, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20dei%20ruoli%20organici%20del%20personale%20delle%20Biblioteche%20pubbliche%20governative.md), sono nominate con decreto del Ministro per la pubblica istruzione e sono composte:
  a) per la nomina a posti del grado iniziale del ruolo bibliotecari (gruppo A) di un professore di ruolo delle Universita' della Repubblica, con funzioni di presidente, di un funzionario di carriera amministrativa del Ministero, di grado non inferiore al 6°, e di un funzionario del ruolo del gruppo A delle biblioteche pubbliche governative di grado non inferiore all'8°;
  b) per la nomina a posti del grado iniziale del ruolo aiuto-bibliotecari (gruppo B) e ragionieri (gruppo B) di un funzionario di carriera amministrativa del Ministero, di grado non inferiore al 6°, con funzioni di presidente, di un funzionario del ruolo di gruppo A delle biblioteche, di grado non inferiore all'8°, e di un professore di ruolo degli istituti medi di istruzione;
  c) per la nomina a posti del grado iniziale del ruolo coadiutori (gruppo C), di un funzionario di carriera amministrativa del Ministero, di grado non inferiore al 6°, con funzioni di presidente, di un funzionario del ruolo del gruppo A delle biblioteche, di grado non inferiore all'8°, e di un professore di ruolo degli istituti medi di istruzione.

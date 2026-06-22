@@ -70,7 +70,7 @@ Le attribuzioni di cui alle lettere b) , c) e d) del comma 1 dell'art. 1, relati
                         a)
                             le attribuzioni consultive di cui all'[art. 1- bis, comma 2, della legge 23 agosto 1988, n. 362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;362#art_1bis-com2), ai fini del parere di cui all'[art. 12, comma 5, lettera a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_12-com5-leta), e [comma 7, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_12-com7), sugli obiettivi di programmazione economica nazionale e della politica finanziaria e di bilancio;
                         b)
-                            le attribuzioni consultive in ordine agli aspetti regionali del coordinamento delle politiche comunitarie e, in particolare, i pareri sugli indirizzi generali e sui criteri di cui all'[art. 10, comma 2, della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md);
+                            le attribuzioni consultive in ordine agli aspetti regionali del coordinamento delle politiche comunitarie e, in particolare, i pareri sugli indirizzi generali e sui criteri di cui all'[art. 10, comma 2, della legge 9 marzo 1989, n. 86](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md);
                         c)
                             le attribuzioni consultive del Consiglio sanitario nazionale, di cui alla [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833), e successive modificazioni e integrazioni, in ordine agli aspetti istituzionali e ordinamentali inerenti alla gestione del Servizio sanitario nazionale, comprese la ripartizione del fondo e la politica del personale;
                         e)
@@ -139,7 +139,7 @@ In relazione al riordino delle funzioni e degli organismi di cui agli articoli 1
 
 1.
 
-Per l'esercizio delle sue attribuzioni, anche per quanto concerne la sessione comunitaria di cui all'[articolo 10 della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), e specificamente per quelle attribuite dall'art. 1, la Conferenza puo' riunirsi in comitati generali con l'intervento dei Ministri di settore.
+Per l'esercizio delle sue attribuzioni, anche per quanto concerne la sessione comunitaria di cui all'[articolo 10 della legge 9 marzo 1989, n. 86](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), e specificamente per quelle attribuite dall'art. 1, la Conferenza puo' riunirsi in comitati generali con l'intervento dei Ministri di settore.
 
 2.
 
@@ -220,7 +220,7 @@ Sono esclusi dal riordinamento di cui al presente decreto gli organismi a compos
                         o)
                             Comitato tecnico-scientifico del servizio pedagogico italiano di cui al decreto del Presidente del Consiglio dei Ministri 28 ottobre 1988;
                         p)
-                            Commissione nazionale per la protezione degli animali da allevamento e da macello di cui alla [legge 14 ottobre 1985, n. 623](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20sulla%20protezione%20degli%20animali%20negli%20allevamenti%20e%20sulla%20protezione%20degli%20animali%20da%20macello%20adottate%20a%20Strasburgo%20rispettivamente%20il%2010%20marzo%20197_266dde09f045.md);
+                            Commissione nazionale per la protezione degli animali da allevamento e da macello di cui alla [legge 14 ottobre 1985, n. 623](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20sulla%20protezione%20degli%20animali%20negli%20allevamenti%20e%20sulla%20protezione%20degli%20animali%20da%20macello%20adottate%20a%20Strasburgo%20rispettivamente%20il%2010%20marzo%20197_266dde09f045.md);
                         q)
                             Commissione tecnica per il sistema informativo sul mercato del lavoro di cui alla [legge 28 febbraio 1987, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-28;56).
 

@@ -21,7 +21,7 @@ E' convertito in legge il [decreto-legge 30 novembre 1970, n. 870](https://www.n
  All'articolo 1, al primo comma, dopo le parole: della coltivazione, sono inserite le parole: della prima trasformazione.
  Dopo l'articolo 2 e' inserito il seguente articolo 2-bis:
 
- Non costituiscono entrate imponibili ai sensi della [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e successive modificazioni, le somme introitate in dipendenza della vendita del tabacco allo stato verde, sciolto e greggio.
+ Non costituiscono entrate imponibili ai sensi della [legge 19 giugno 1940, n. 762](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e successive modificazioni, le somme introitate in dipendenza della vendita del tabacco allo stato verde, sciolto e greggio.
  Analogo trattamento di esenzione si applica per l'importazione dall'estero del detto prodotto.
  All'articolo 3, al terzo comma, al primo capoverso, dopo l'alinea, le parole: preordinati alla lavorazione del tabacco, sono sostituite con le parole: preordinati alla fabbricazione dei manufatti di tabacco.
  All'articolo 5, nel secondo capoverso, dopo l'alinea, sono soppresse le parole: di regola.

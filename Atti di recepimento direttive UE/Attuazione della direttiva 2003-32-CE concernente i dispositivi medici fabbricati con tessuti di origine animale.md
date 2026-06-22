@@ -52,7 +52,7 @@ Il presente decreto non si applica ai dispositivi medici di cui al comma 1 qualo
 
 Avvertenza:
 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale dell'Unione europea (GUUE).
 
  Note alle premesse:
@@ -208,7 +208,7 @@ Le spese relative al rilascio dei certificati complementari, di cui al comma 1 d
 
 Nota all'art. 8:
  - Si riporta il testo dell'art. 25 del citato [decreto legislativo n. 46 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;46):
- «Art. 25 (Norma di rinvio). - 1. Alle procedure di valutazione della conformita' dei dispositivi disciplinati dal presente decreto, a quelle finalizzate alla designazione degli organismi, alla vigilanza sugli organismi stessi, nonche' all'effettuazione dei controlli sui prodotti si applicano le disposizioni dell'[art. 47 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md).».
+ «Art. 25 (Norma di rinvio). - 1. Alle procedure di valutazione della conformita' dei dispositivi disciplinati dal presente decreto, a quelle finalizzate alla designazione degli organismi, alla vigilanza sugli organismi stessi, nonche' all'effettuazione dei controlli sui prodotti si applicano le disposizioni dell'[art. 47 della legge 6 febbraio 1996, n. 52](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md).».
 
 ## Art. 9. — Disposizioni finali ed entrata in vigore
 

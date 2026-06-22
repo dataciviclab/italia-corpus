@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), ed in particolare, l'articolo 56, commi 2 e 3;
+Vista la [legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), ed in particolare, l'articolo 56, commi 2 e 3;
 
 Visto il [decreto legislativo 30 gennaio 1993, n. 28](Attuazione%20delle%20direttive%2089-662-CEE%20e%2090-425-CEE%20relative%20ai%20controlli%20veterinari%20e%20zootecnici%20di%20taluni%20animali%20vivi%20e%20su%20prodotti%20di%20origine%20animale%20applicabili%20negli%20scambi%20intracomunitari.md);
 

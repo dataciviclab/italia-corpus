@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), ed in particolare l'articolo 27;
+Vista la [legge 6 febbraio 1996, n. 52](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), ed in particolare l'articolo 27;
 
 Vista la [direttiva n. 93/89/CEE, del Consiglio del 25 ottobre 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;89), concernente l'applicazione da parte degli Stati membri delle tasse su taluni autoveicoli commerciali adibiti al trasporto di merci su strada, nonche' dei pedaggi e diritti d'utenza riscossi per l'uso di alcune infrastrutture;
 
@@ -26,7 +26,7 @@ EMANA il seguente decreto legislativo:
 
 1.
 
-All'[articolo 2, primo comma, del D.P.R. 5 febbraio 1953, n. 39](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), sono apportate le seguenti modifiche:
+All'[articolo 2, primo comma, del D.P.R. 5 febbraio 1953, n. 39](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), sono apportate le seguenti modifiche:
                         a)
                             alla lettera d), le parole: "autoveicoli e" sono sostituite dalle seguenti: "autoveicoli di peso complessivo a pieno carico inferiore a 12 tonnellate e per";
                         b)
@@ -34,17 +34,17 @@ All'[articolo 2, primo comma, del D.P.R. 5 febbraio 1953, n. 39](../Testi%20Unic
 "d-bis) al peso complessivo, al numero degli assi e al tipo di sospensione dell'asse motore per gli autoveicoli per trasporto di cose di peso complessivo a pieno carico pari o superiore a 12 tonnellate;".
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'eserzio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti.
- - La [legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), riguarda: "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1994". L'art. 27 della suddetta legge cosi recita:
+ - La [legge 6 febbraio 1996, n. 52](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), riguarda: "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1994". L'art. 27 della suddetta legge cosi recita:
  "Art. 27 (Tasse sui veicoli adibiti a trasporto merci su strada: criteri di delega). - 1. L'attuazione della [direttiva 93/89/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;89) sara' informata ai seguenti principi e criteri direttivi:
  a) nel rispetto delle competenze delle regioni e delle province autonome, assicurare, eventualmente anche con la modifica degli elementi di base dell'applicazione della tassa automobilistica e dell'addizionale 5 per cento, che la tassazione complessiva sugli autoveicoli adibiti al trasporto di merci su strada relativa ai detti tributi non sia inferiore ai valori minimi indicati per categoria e sottocategoria di autoveicoli dalla direttiva, avvalendosi, in via transitoria, della facolta' di cui all'articolo 6, paragrafo 2, della direttiva medesima a condizione che venga assicurato almeno l'attuale gettito;
  b) sopprimere le esenzioni e le riduzioni della tassazione previste dalle disposizioni vigenti non comprese tra quelle consentite dalla direttiva;
  c) prevedere che per la trasformazione in valuta nazionale dei valori minimi comunitari di cui alle lettere precedenti, espressi in ECU, si applichera' in ciascun anno il valore dell'ECU del primo giorno lavorativo del mese di ottobre dell'anno precedente, pubblicato nella Gazzetta Ufficiale della Comunita' europee".
- Note all'[art. 1](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md):
- L'[art 2, primo comma, del decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), concernente il testo unico delle leggi sulle tasse automobilistiche e' cosi' formulato
+ Note all'[art. 1](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md):
+ L'[art 2, primo comma, del decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), concernente il testo unico delle leggi sulle tasse automobilistiche e' cosi' formulato
  "Art. 2 (Determinazione della tassa). - Le tasse di cui al precedente articolo sono commisurate:
  a) alla cilindrata determinata in cm3 per i velocipedi con motore ausiliario, per i motocicli leggeri, per le motocarrozzette leggere e per i motofurgoncini leggeri;
  b) alla potenza in CV dei motori, determinata con le modalita' di cui all'articolo seguente, per tutti gli alti autoveicoli adibiti al trasporto di persone, per gli autoveicoli ad uso speciale, per gli autoveicoli adibiti al trasporto promiscuo di persone e cose, e per gli autoscafi;
@@ -57,7 +57,7 @@ AVVERTENZA:
 
 1.
 
-Ai fini dell'applicazione della tassa automobilistica e della relativa addizionale erariale del 5 per cento, di seguito denomi- nate tassa, gli autoveicoli per trasporto di cose di cui all'[articolo 2, primo comma, lettera d-bis), del D.P.R. 5 febbraio 1953, n. 39](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), aggiunta dall'articolo 1, sono suddivisi nelle classi indicate nella tabella A annessa al presente decreto.
+Ai fini dell'applicazione della tassa automobilistica e della relativa addizionale erariale del 5 per cento, di seguito denomi- nate tassa, gli autoveicoli per trasporto di cose di cui all'[articolo 2, primo comma, lettera d-bis), del D.P.R. 5 febbraio 1953, n. 39](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), aggiunta dall'articolo 1, sono suddivisi nelle classi indicate nella tabella A annessa al presente decreto.
 
 2.
 
@@ -65,7 +65,7 @@ La tassa per ciascuna classe degli autoveicoli per trasporto di cose di cui al c
 
 3.
 
-L'esercizio della facolta' di cui all'[articolo 24, comma 1, del decreto legislativo 30 dicembre 1992, n. 504](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md), non puo' comportare una misura della tassa inferiore agli importi minimi di cui al comma 2.
+L'esercizio della facolta' di cui all'[articolo 24, comma 1, del decreto legislativo 30 dicembre 1992, n. 504](../Decreti%20Legislativi/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md), non puo' comportare una misura della tassa inferiore agli importi minimi di cui al comma 2.
 
 4.
 
@@ -75,8 +75,8 @@ Per gli autoveicoli per trasporto di cose muniti, all'asse o agli assi motore, d
 
 Ai fini dell'applicazione della riduzione prevista al comma 4, qualora la presenza di sospensione pneumatica o ad essa riconosciuta equivalente, sull'asse o sugli assi motore, non sia annotata sulla carta di circolazione, gli interessati dovranno avanzare apposita istanza ad un ufficio provinciale della motorizzazione civile e dei trasporti in concessione, ai fini di ottenere l'aggiornamento della carta di circolazione. La direzione generale della motorizzazione civile e dei trasporti in concessione emanera' le conseguenti disposizioni attrattive.
 
-Note all'[art. 2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md):
- - L'[art. 24, comma 1, del decreto legislativo 30 dicembre 1992, n. 504](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e' cosi formulato:
+Note all'[art. 2](../Decreti%20Legislativi/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md):
+ - L'[art. 24, comma 1, del decreto legislativo 30 dicembre 1992, n. 504](../Decreti%20Legislativi/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e' cosi formulato:
  "Art 24 (Poteri delle regioni). - 1. Entro il 10 novembre di ogni anno ciascuna regione puo' determinare con propria legge gli importi dei tributi regionali di cui all'articolo 23, con effetto dai pagamenti da eseguire dal primo gennaio successivo e relativi a periodi fissi posteriori a tale data, nella misura compresa tra il 90 ed il 110 per cento degli stessi importi vigenti nell'anno precedente".
  I punti 1 e 2 dell'allegato III al [decreto del Ministero dei trasporti del 22 gennaio 1988, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.trasporti:decreto:1988-01-22;78), aggiunto dall'art. 6 del decreto del Ministero dei trasporti del 28 settembre 1993 concernente l'attuazione della [direttiva 92/7/CEE del Consiglio del 10 Febbraio 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;7), prevedono quanto segue:
  "1. DEFINIZIONE Dl SOSPENSIONE PNEUMATICA
@@ -95,10 +95,10 @@ Note all'[art. 2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ri
 
 1.
 
-L'intestazione della tariffa "F" dell'allegato 1 al [D.P.R. 5 febbraio 1953, n. 39](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), come sostituita dell'[articolo 11 della legge 21 maggio 1955, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-05-21;463#art_11)," e' sostituita dalla seguente: "Autoveicoli per trasporto di cose di peso complessivo a pieno carico inferiore a 12 tonnellate, motocarri, quadricicli a motore e rimorchi".
+L'intestazione della tariffa "F" dell'allegato 1 al [D.P.R. 5 febbraio 1953, n. 39](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), come sostituita dell'[articolo 11 della legge 21 maggio 1955, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-05-21;463#art_11)," e' sostituita dalla seguente: "Autoveicoli per trasporto di cose di peso complessivo a pieno carico inferiore a 12 tonnellate, motocarri, quadricicli a motore e rimorchi".
 
 Nota all'art 3:
- - L'intestazione della tariffa F dell'allegato I al [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), come sostituita dall'[art. 11 della legge 21 maggio 1955, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-05-21;463#art_11), e' cosi formulata: "Autocarri, motocarri, motofurgoncini, rimorchi e motofurgoncini leggeri".
+ - L'intestazione della tariffa F dell'allegato I al [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), come sostituita dall'[art. 11 della legge 21 maggio 1955, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-05-21;463#art_11), e' cosi formulata: "Autocarri, motocarri, motofurgoncini, rimorchi e motofurgoncini leggeri".
 
 ## Art. 4. — (Norme transitorie per la
  determinazione della tassa per l'anno
@@ -106,7 +106,7 @@ Nota all'art 3:
 
 1.
 
-Per la determinazione della tassa relativa all'anno 1998, che in ogni caso dovra' garantire l'invarianza del gettito rispetto all'anno precedente, l'importo cui fare riferimento come base di calcolo ai sensi dell'[articolo 24, comma 1, del decreto legislativo 30 dicembre 1992, n. 504](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e', per ciascuna delle sette classi della tabella annessa al presente decreto, quello della tassa prevista per l'anno 1997, in ciascuna regione, per gli autocarri compresi nelle fasce di portata sottoindicate:
+Per la determinazione della tassa relativa all'anno 1998, che in ogni caso dovra' garantire l'invarianza del gettito rispetto all'anno precedente, l'importo cui fare riferimento come base di calcolo ai sensi dell'[articolo 24, comma 1, del decreto legislativo 30 dicembre 1992, n. 504](../Decreti%20Legislativi/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e', per ciascuna delle sette classi della tabella annessa al presente decreto, quello della tassa prevista per l'anno 1997, in ciascuna regione, per gli autocarri compresi nelle fasce di portata sottoindicate:
 per la classe autocarri di fascia di portata
 1 oltre 50 fino a 60 q.li
 2 " 60 " " 70 "
@@ -120,8 +120,8 @@ per la classe autocarri di fascia di portata
 
 La disposizione di cui all'[articolo 3, comma 154, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), continua ad applicarsi.
 
-Note all'[art. 4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md):
- - Per l'[art. 24, comma 1 del decreto legislativo 30 dicembre 1992, n. 504](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md), vedere note all'art. 2.
+Note all'[art. 4](../Decreti%20Legislativi/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md):
+ - Per l'[art. 24, comma 1 del decreto legislativo 30 dicembre 1992, n. 504](../Decreti%20Legislativi/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md), vedere note all'art. 2.
  - L'[art. 3, comma 154, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), concernente misure di razionalizzazione della finanza pubblica, prevede che: "154. A fronte del re- gime fiscale recato dai commi 149, 150 e 152, per compensazione e riequilibro interno dello stesso settore, in luogo dell'aumento del 6 per cento previsto dal [comma 21 dell'articolo 1 del decreto-legge 28 giugno 1995, n. 250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-28;250#art_1-com21) (215), convertito, con modificazioni, dalla [legge 8 agosto 1995, n. 349](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20giugno%201995%20n.%20250%20recante%20differimento%20di%20taluni%20termini%20ed%20altre%20disposizioni%20in%20materia%20tributaria.md), l'importo della tassa automobilistica erariale e regionale in vigore alla data del 31 dicembre 1994 e' aumentato del 7 per conto per l'anno 1996, dell'11 per cento per l'anno 1997 e del 13 per cento per l'anno 1998. A decorrere dal 10 gennaio 1996, le tasse automobilistiche erariali e regionali, comprese quelle rel- ative ai ciclomotori e ai motocicli e motocarrozzette leggeri, il cui ammontare annuo e' inferiore a lire 20 mila, sono elevate a tale importo. L'aumento si applica alla tassa il cui termine di pagamento scade successivamente al 31 dicembre 1995".
 
 ## Art. 5. — (Comunicazione dati)
@@ -132,7 +132,7 @@ I dati occorrenti per l'applicazione della tassa di cui alla tabella A annessa a
 
 Nota all'[art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-12-30;953#art_5):
  - L'[art. 5, commi 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-12-30;953#art_5-com39) e [40, del decreto-legge 30 dicembre 1982, n. 953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-12-30;953#art_5-com40), convertito nella [legge 28 febbraio 1983, n. 53](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201982%20n.%20953%20recante%20misure%20in%20materia%20tributaria.md), concernente misure in materia tributaria, prevede che: "39. Gli uffici che curano la tenuta del pubblico registro automobilistico e di altri registri di immatricolazione per veicoli e autoscafi sono tenuti a comunicare all'amministrazione finanziaria le notizie occorrenti per l'applicazione del tributo e per la individuazione del proprietario del veicolo o dell'autoscafo nonche' le relative variazioni.
- 40. Se il Ministro delle finanze si avvale della facolta' prevista dalI'articolo 4 del testo unico delle leggi sulle tasse automobilistiche, approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), le comunicazioni di cui al precedente comma devono essere inviate al competente ufficio dell'Automobile Club d'Italia".
+ 40. Se il Ministro delle finanze si avvale della facolta' prevista dalI'articolo 4 del testo unico delle leggi sulle tasse automobilistiche, approvato con [decreto del Presidente della Repubblica 5 febbraio 1953, n. 39](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), le comunicazioni di cui al precedente comma devono essere inviate al competente ufficio dell'Automobile Club d'Italia".
 
 ## Art. 6. — (Integrazione della tassa per i complessi)
 
@@ -164,10 +164,10 @@ Il valore dell'ECU per la conversione in valuta nazionale degli importi indicati
 
 1.
 
-La riduzione della tassa automobilistica prevista dall'[articolo 22 del D.P.R. 5 febbraio 1953, n. 39](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), non si applica agli autoveicoli per trasporto di cose di cui all'articolo 2, primo comma, lettera d- bis), dello stesso [D.P.R. n. 39 del 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1953;39), aggiunta dall'articolo 1.
+La riduzione della tassa automobilistica prevista dall'[articolo 22 del D.P.R. 5 febbraio 1953, n. 39](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), non si applica agli autoveicoli per trasporto di cose di cui all'articolo 2, primo comma, lettera d- bis), dello stesso [D.P.R. n. 39 del 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1953;39), aggiunta dall'articolo 1.
 
-Note all'[art. 9](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md):
- L'[art. 22 del D.P.R. 5 febbraio 1953, n. 39](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), prevede che:
+Note all'[art. 9](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md):
+ L'[art. 22 del D.P.R. 5 febbraio 1953, n. 39](../DPR/Testo%20unico%20delle%20leggi%20sulle%20tasse%20automobilistiche.md), prevede che:
  "Art. 22 (Autoveicoli destinati o speciali trasporti). - Gli autoveicoli adibiti al trasporto del latte, delle carni macellate fresche, delle immondizie e spazzature, dei generi di monopolio e i carribotte per la vuotatura dei pozzi neri sono soggetti al pagamento della tassa sulla portata, ridotta del 50 per cento".
 
 ## Art. 10. — (Entrata in vigore)

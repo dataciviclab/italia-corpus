@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico della legge comunale e provinciale approvato con il [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), sostituito dal testo unico approvato con [R. decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
+Visto il testo unico della legge comunale e provinciale approvato con il [R. decreto 4 febbraio 1915, n. 148](../Atti%20normativi%20abrogati%20%28in%20originale%29/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), sostituito dal testo unico approvato con [R. decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -62,7 +62,7 @@ Il Consiglio comunale e' composto:
 
 ### Art. 4.
 
-La Giunta municipale e' eletta dal Consiglio comunale nel suo seno con le modalita' di cui all'art. 134 del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md).
+La Giunta municipale e' eletta dal Consiglio comunale nel suo seno con le modalita' di cui all'art. 134 del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](../Atti%20normativi%20abrogati%20%28in%20originale%29/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md).
 
 ### Art. 5.
 
@@ -74,7 +74,7 @@ Il sindaco e' eletto dal Consiglio comunale nel suo seno, a scrutinio segreto, n
  ((L'elezione del sindaco non e' valida se non e' fatta con l'intervento dei due terzi dei consiglieri in carica ed a maggioranza assoluta di voti)).
  Se dopo due votazioni nessun candidato ha ottenuto la maggioranza assoluta, si procede ad una votazione di ballottaggi o fra i due candidati che hanno ottenuto nella seconda votazione maggior numero di voti, ed e' proclamato sindaco quello che ha conseguito la maggioranza assoluta dei voti.
  Quando nessun candidato abbia ottenuto la maggioranza assoluta anzidetta l'elezione e' rinviata ad altra adunanza da tenersi entro il termine di otto giorni, nella quale si procede a nuova votazione, qualunque sia il numeri dei votanti. Ove nessuno ottenga la maggioranza assoluta dei voti, si procede nella stessa seduta ad una votazione di ballottaggio, ed e' proclamato eletto chi ha conseguito il maggior numero dei voti.
- Si applica, per il resto, il disposto dell'art. 147, commi 6° 7° 8° e 9° del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md).
+ Si applica, per il resto, il disposto dell'art. 147, commi 6° 7° 8° e 9° del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](../Atti%20normativi%20abrogati%20%28in%20originale%29/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md).
 
 ### Art. 7.
 
@@ -102,7 +102,7 @@ La qualita' di consigliere e di assessore si perde, verificandosi uno degli impe
 
 ### Art. 10.
 
-Le attribuzioni ed il funzionamento degli organi previsti dal presente titolo nonche' le modalita' per la parziale rinnovazione dei Consigli comunali, sono regolati dalle norme del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), in quanto applicabili.
+Le attribuzioni ed il funzionamento degli organi previsti dal presente titolo nonche' le modalita' per la parziale rinnovazione dei Consigli comunali, sono regolati dalle norme del testo unico della legge comunale e provinciale approvato con [R. decreto 4 febbraio 1915, n. 148](../Atti%20normativi%20abrogati%20%28in%20originale%29/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), in quanto applicabili.
 
 ## ELEZIONI COMUNALI.   CAPO I. Elettorato ed eleggibilita'.
 
@@ -170,7 +170,7 @@ Il prefetto, d'intesa col primo presidente della Corte d'appello, fissa la data 
 Le candidature, raggruppate in liste comprendenti un numero di candidati non inferiore ad un quinto e non superiore ai quattro quinti del numero dei consiglieri da eleggere, devono essere presentate, per ciascun Comune, da almeno 200 elettori nei Comuni con piu' di 20.000 abitanti, 100 nei Comuni con piu' di 10.000 abitanti, 50 nei Comuni con piu' di 5000 abitanti, 30 nei Comuni con piu' di 2000 abitanti e 10 nei minori.
  Il numero dei presentatori non puo' eccedere di oltre un terzo le cifre indicate nel precedente comma.
  La popolazione del Comune e' determinata in base all'ultimo censimento ufficiale.
- I presentatori debbono essere elettori iscritti nelle liste del Comune e la loro firma e' autenticata da un notaio, o dal segretario comunale, o dal pretore, o dai giudice conciliatore. Per gli elettori che non sappiano sottoscrivere si applica il disposto dell'art. 11 del testo unico della legge elettorale politica approvato con [R. decreto 2 settembre 1919, n. 1495](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%20elettorale%20politica%20in%20sostituzione%20di%20quello%20approvato%20con%20R.%20decreto%2026%20giugno%201913%20n.%20821.%20019U1495.md).
+ I presentatori debbono essere elettori iscritti nelle liste del Comune e la loro firma e' autenticata da un notaio, o dal segretario comunale, o dal pretore, o dai giudice conciliatore. Per gli elettori che non sappiano sottoscrivere si applica il disposto dell'art. 11 del testo unico della legge elettorale politica approvato con [R. decreto 2 settembre 1919, n. 1495](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20testo%20unico%20della%20legge%20elettorale%20politica%20in%20sostituzione%20di%20quello%20approvato%20con%20R.%20decreto%2026%20giugno%201913%20n.%20821.%20019U1495.md).
  Ciascun elettore non puo' sottoscrivere piu' di una dichiarazione di presentazione di lista.
  Di tutti i candidati dev'essere indicato cognome, non paternita' e luogo di nascita.
  Con la lista devesi anche presentare la dichiarazione di accettazione di ogni candidato, autenticata dal sindaco, o da un notaio, o dal pretore, o dal giudice conciliatore e nella quale espressamente si escluda l'esistenza di qualsiasi causa di ineleggibilita' a' sensi dell'art. 13.
@@ -430,7 +430,7 @@ Contro le operazioni per la elezione dei consiglieri comunali e' ammesso il rico
  Il sindaco notifica, entro cinque giorni,- all'interessato la decisione presa dal Consiglio.
  Contro la decisione del Consiglio e' ammesso, entro il mese dalla notificazione della decisione, reclamo alla Giunta provinciale amministrativa.
  Il reclamo, a cura di chi l'ha proposto, deve essere notificato giudiziariamente, nel termine di cinque giorni, alla parte che vi ha interesse, la quale ha dieci giorni per rispondere.
- Se le controversie riguardano questioni di eleggibilita', contro le decisioni della Giunta provinciale amministrativa e' ammesso il ricorso alla Corte d'appello, a norma degli articoli 32, 33 e 34 del testo unico della legge elettorale politica approvato con [R. decreto 2 settembre 1919, n. 1495](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%20elettorale%20politica%20in%20sostituzione%20di%20quello%20approvato%20con%20R.%20decreto%2026%20giugno%201913%20n.%20821.%20019U1495.md).
+ Se le controversie riguardano questioni di eleggibilita', contro le decisioni della Giunta provinciale amministrativa e' ammesso il ricorso alla Corte d'appello, a norma degli articoli 32, 33 e 34 del testo unico della legge elettorale politica approvato con [R. decreto 2 settembre 1919, n. 1495](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20testo%20unico%20della%20legge%20elettorale%20politica%20in%20sostituzione%20di%20quello%20approvato%20con%20R.%20decreto%2026%20giugno%201913%20n.%20821.%20019U1495.md).
  Se le controversie riguardano le operazioni elettorali, e' ammesso il ricorso, anche di merito, al Consiglio di Stato.
  Il Consiglio comunale, la Giunta provinciale amministrativa, la Corte d'appello ed il Consiglio di Stato, quando accolgono reclami loro presentati, correggono, secondo i casi, il risultato delle elezioni e sostituiscono ai candidati illegalmente proclamati coloro che hanno diritto di esserlo.
 
@@ -449,7 +449,7 @@ La elezione dei consiglieri comunali nei Comuni capoluoghi di provincia e in que
 ((La lista dei candidati per ogni Comune deve essere presentata da almeno 500 elettori nei Comuni con piu' di 500.000 abitanti, 300 nei Comuni con piu' di 100.000 abitanti, 200 nei Comuni con piu' di 40.000 abitanti, 100 negli altri)).
  Il numero dei presentatori non puo' eccedere di oltre un terzo le cifre indicate nel precedente comma.
  La popolazione del Comune e' determinata in base all'ultimo censimento ufficiale.
- I presentatori debbono essere elettori iscritti nelle liste del Comune e la loro firma e' autenticata da un notaio, o dal segretario comunale, o dal pretore, o dal giudice conciliatore. Per gli elettori che non sappiano sottoscrivere, si applica il disposto dell'articolo 11 del testo unico della legge elettorale politica approvato con [R. decreto 2 settembre 1919, n. 1495](../Testi%20Unici/Che%20approva%20il%20testo%20unico%20della%20legge%20elettorale%20politica%20in%20sostituzione%20di%20quello%20approvato%20con%20R.%20decreto%2026%20giugno%201913%20n.%20821.%20019U1495.md).
+ I presentatori debbono essere elettori iscritti nelle liste del Comune e la loro firma e' autenticata da un notaio, o dal segretario comunale, o dal pretore, o dal giudice conciliatore. Per gli elettori che non sappiano sottoscrivere, si applica il disposto dell'articolo 11 del testo unico della legge elettorale politica approvato con [R. decreto 2 settembre 1919, n. 1495](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20testo%20unico%20della%20legge%20elettorale%20politica%20in%20sostituzione%20di%20quello%20approvato%20con%20R.%20decreto%2026%20giugno%201913%20n.%20821.%20019U1495.md).
  ((Nessuna lista puo' comprendere un numero di candidati superiore a quello dei consiglieri da eleggere, ne' inferiore ai due terzi)).
  Di tutti i candidati dev'essere indicato cognome, nome, paternita' e luogo di nascita, e la relativa elencazione deve recare una numerazione progressiva secondo l'ordine di presentazione.
  Nessuno puo' essere candidato in piu' di una lista di uno stesso Comune, ne' puo' presentarsi come candidato in piu' di due Comuni, qualora le elezioni avvengano nello stesso giorno. Chi e' stato gia' eletto in un Comune, non puo' presentarsi come candidato in altri Comuni.

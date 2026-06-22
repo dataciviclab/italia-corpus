@@ -26,11 +26,11 @@ Le tabelle B e C dell'allegato 1 del [decreto legislativo del Capo provvisorio d
 
 ## Art. 2.
 
-Per i concorsi di ammissione ai ruoli dei gruppi A e B dell'Amministrazione provinciale del catasto e dei servizi tecnici erariali di cui all'[art. 4 del decreto legislativo del Capo provvisorio dello Stato 31 dicembre 1947, n. 1517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-31;1517#art_4), sono ritenuti validi i titoli di studio elencati negli [articoli 8](../Regi%20decreti/Riordinamento%20dei%20ruoli%20dellAmministrazione%20provinciale%20del%20catasto%20e%20dei%20servizi%20tecnici%20erariali.%20040U0576.md) e [10 del regio decreto 16 maggio 1940, n. 576](../Regi%20decreti/Riordinamento%20dei%20ruoli%20dellAmministrazione%20provinciale%20del%20catasto%20e%20dei%20servizi%20tecnici%20erariali.%20040U0576.md).
+Per i concorsi di ammissione ai ruoli dei gruppi A e B dell'Amministrazione provinciale del catasto e dei servizi tecnici erariali di cui all'[art. 4 del decreto legislativo del Capo provvisorio dello Stato 31 dicembre 1947, n. 1517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-31;1517#art_4), sono ritenuti validi i titoli di studio elencati negli [articoli 8](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20ruoli%20dellAmministrazione%20provinciale%20del%20catasto%20e%20dei%20servizi%20tecnici%20erariali.%20040U0576.md) e [10 del regio decreto 16 maggio 1940, n. 576](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20ruoli%20dellAmministrazione%20provinciale%20del%20catasto%20e%20dei%20servizi%20tecnici%20erariali.%20040U0576.md).
 
 ## Art. 3.
 
-Le promozioni ai gradi 6° (geometra superiore), 7° (primo geometra) e 8° (geometra capo) del ruolo del personale di gruppo B dell'Amministrazione del catasto e dei servizi tecnici erariali sono conferite secondo le norme stabilite dagli [articoli 6](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [7 del regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+Le promozioni ai gradi 6° (geometra superiore), 7° (primo geometra) e 8° (geometra capo) del ruolo del personale di gruppo B dell'Amministrazione del catasto e dei servizi tecnici erariali sono conferite secondo le norme stabilite dagli [articoli 6](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md) e [7 del regio decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
  Le promozioni al grado 11° del ruolo di gruppo C, di cui alla tabella C allegato n. 4 al [decreto legislativo del Capo provvisorio dello Stato 31 dicembre 1947, n. 1517](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-31;1517), sono conferite per anzianita' congiunta al merito, su designazione del Consiglio di amministrazione, agli impiegati che abbiano compiuto almeno quattro anni di permanenza nel grado 12°.
 
 ## Art. 4.
@@ -39,7 +39,7 @@ Nella prima applicazione del [decreto legislativo del Capo provvisorio dello Sta
 
 ## Art. 5.
 
-Le disposizioni di cui all'[art. 1 del decreto del Capo provvisorio dello Stato 26 luglio 1947, n. 838](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-26;838#art_1), sono estese ai vincitori dei concorsi per titoli banditi dall'Amministrazione del catasto e dei servizi tecnici erariali, in applicazione degli [articoli 8](../Regi%20decreti/Riordinamento%20dei%20ruoli%20dellAmministrazione%20provinciale%20del%20catasto%20e%20dei%20servizi%20tecnici%20erariali.%20040U0576.md) e [9 del regio decreto 16 maggio 1940, n. 576](../Regi%20decreti/Riordinamento%20dei%20ruoli%20dellAmministrazione%20provinciale%20del%20catasto%20e%20dei%20servizi%20tecnici%20erariali.%20040U0576.md).
+Le disposizioni di cui all'[art. 1 del decreto del Capo provvisorio dello Stato 26 luglio 1947, n. 838](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-26;838#art_1), sono estese ai vincitori dei concorsi per titoli banditi dall'Amministrazione del catasto e dei servizi tecnici erariali, in applicazione degli [articoli 8](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20ruoli%20dellAmministrazione%20provinciale%20del%20catasto%20e%20dei%20servizi%20tecnici%20erariali.%20040U0576.md) e [9 del regio decreto 16 maggio 1940, n. 576](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20ruoli%20dellAmministrazione%20provinciale%20del%20catasto%20e%20dei%20servizi%20tecnici%20erariali.%20040U0576.md).
 
 ## Art. 6.
 
@@ -50,7 +50,7 @@ Le disposizioni di cui all'[art. 1 del decreto del Capo provvisorio dello Stato 
 
 AGGIORNAMENTO (1)
 
-La [L. 5 aprile 1950, n. 205](../Leggi%20di%20ratifica/Ratifica%20senza%20modificazioni%20del%20decreto%20legislativo%2031%20dicembre%201947%20n.%201517%20e%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%20732%20concernenti%20revisione%20dei%20ruoli%20organici%20del_4dd24e0916fc.md) ha disposto (con l'art. 2) che la modifica ha effetto dalla data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 732](Disposizioni%20integrative%20del%20decreto%20legislativo%2031%20dicembre%201947%20n.%201517%20sui%20ruoli%20organici%20dellAmministrazione%20finanziaria.md).
+La [L. 5 aprile 1950, n. 205](../DL%20e%20leggi%20di%20conversione/Ratifica%20senza%20modificazioni%20del%20decreto%20legislativo%2031%20dicembre%201947%20n.%201517%20e%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%20732%20concernenti%20revisione%20dei%20ruoli%20organici%20del_4dd24e0916fc.md) ha disposto (con l'art. 2) che la modifica ha effetto dalla data di entrata in vigore del [decreto legislativo 7 maggio 1948, n. 732](Disposizioni%20integrative%20del%20decreto%20legislativo%2031%20dicembre%201947%20n.%201517%20sui%20ruoli%20organici%20dellAmministrazione%20finanziaria.md).
 
 ## Art. 7.
 

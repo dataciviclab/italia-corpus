@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 22 luglio 1906, n. 623](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-22;623), sul conferimento dei banchi lotto;
 
-Visto il [R. decreto 11 maggio 1911, n. 512](../Regi%20decreti/Che%20approva%20lannesso%20nuovo%20regolamento%20pel%20Fondo%20di%20previdenza%20dei%20ricevitori%20del%20lotto.%20011U0512.md), che approva il regolamento sul «Fondo di previdenza dei ricevitori del lotto»;
+Visto il [R. decreto 11 maggio 1911, n. 512](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20nuovo%20regolamento%20pel%20Fondo%20di%20previdenza%20dei%20ricevitori%20del%20lotto.%20011U0512.md), che approva il regolamento sul «Fondo di previdenza dei ricevitori del lotto»;
 
 Visto il decreto 30 luglio 1940, n. 1282, che approva lo statuto dell'ente «Fondo di previdenza dei ricevitori del lotto»;
 

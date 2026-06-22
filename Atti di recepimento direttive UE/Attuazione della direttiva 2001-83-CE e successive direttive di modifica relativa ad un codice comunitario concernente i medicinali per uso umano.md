@@ -22,7 +22,7 @@ Vista la [direttiva 2004/27/CE del Parlamento europeo e del Consiglio, del 31 ma
 
 Vista la [direttiva 2003/94/CE della Commissione, dell'8 ottobre 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;94), che stabilisce i principi e le linee direttrici delle buone prassi di fabbricazione relative ai medicinali per uso umano e ai medicinali per uso umano in fase di sperimentazione;
 
-Visto il [decreto legislativo 29 maggio 1991, n. 178](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md), e successive modificazioni, recante recepimento delle direttive della Comunita' economica europea in materia di specialita' medicinali;
+Visto il [decreto legislativo 29 maggio 1991, n. 178](../Atti%20normativi%20abrogati%20%28in%20originale%29/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md), e successive modificazioni, recante recepimento delle direttive della Comunita' economica europea in materia di specialita' medicinali;
 
 Visto il [decreto legislativo 30 dicembre 1992, n. 538](Attuazione%20della%20direttiva%2092-25-CEE%20riguardante%20la%20distribuzione%20allingrosso%20dei%20medicinali%20per%20uso%20umano.md), e successive modificazioni, recante attuazione della [direttiva 92/25/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;25), riguardante la distribuzione all'ingrosso dei medicinali per uso umano;
 
@@ -228,7 +228,7 @@ Nell'ipotesi disciplinata dal comma 2, i titolari dell'autorizzazione all'immiss
 
 4.
 
-Resta salva la responsabilita' per danno da prodotti difettosi, prevista dal [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
+Resta salva la responsabilita' per danno da prodotti difettosi, prevista dal [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
 
 ## IMMISSIONE IN COMMERCIO  Capo I  Autorizzazione all'immissione in commercio
 
@@ -386,13 +386,13 @@ L'esecuzione degli studi e delle sperimentazioni necessari ai fini dell'applicaz
 
 10.
 
-I periodi di protezione di cui ai commi da 1 a 4 non si applicano ai medicinali di riferimento per i quali una domanda di AIC e' stata presentata prima della data di entrata in vigore del presente decreto. A tali medicinali continuano ad applicarsi le disposizioni gia' previste dall'[articolo 8, commi 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md) e [6, del decreto legislativo 29 maggio 1991, n. 178](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md), e successive modificazioni.
+I periodi di protezione di cui ai commi da 1 a 4 non si applicano ai medicinali di riferimento per i quali una domanda di AIC e' stata presentata prima della data di entrata in vigore del presente decreto. A tali medicinali continuano ad applicarsi le disposizioni gia' previste dall'[articolo 8, commi 5](../Atti%20normativi%20abrogati%20%28in%20originale%29/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md) e [6, del decreto legislativo 29 maggio 1991, n. 178](../Atti%20normativi%20abrogati%20%28in%20originale%29/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md), e successive modificazioni.
 
 Note all'art. 10:
  - Si riporta il testo dell'[art. 1-bis del decreto-legge 27 maggio 2005, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-05-27;87#art_1bis), convertito, con modificazioni, dalla [legge 26 luglio 2005, n. 149](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20maggio%202005%20n.%2087%20recante%20disposizioni%20urgenti%20per%20il%20prezzo%20dei%20farmaci%20non%20rimborsabili%20dal%20Servizio%20sanitario%20nazionale.md), recante: «Disposizioni urgenti per il prezzo dei farmaci non rimborsabili dal Servizio sanitario nazionale nonche' in materia di confezioni di prodotti farmaceutici e di attivita' libero-professionale intramuraria»:
  «Art. 1-bis. - 1. I medicinali con obbligo di prescrizione medica di cui all'[art. 7, comma 1, del decreto-legge 18 settembre 2001, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-09-18;347#art_7-com1), convertito, con modificazioni, dalla [legge 16 novembre 2001, n. 405](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20settembre%202001%20n.%20347%20recante%20interventi%20urgenti%20in%20materia%20di%20spesa%20sanitaria.md), e successive modificazioni, e di cui all'art. 1 del presente decreto, ad esclusione di quelli che hanno goduto di copertura brevettuale, sono definiti "medicinali equivalenti".
  2. Le aziende titolari dell'autorizzazione alla immissione in commercio dei medicinali equivalenti di cui al comma 1, entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, appongono nelle confezioni, sotto alla denominazione, la dicitura "medicinale equivalente".
- - L'[art. 8, commi 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md) e [6 del decreto legislativo 29 maggio 1991, n. 178](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md), citato alle premesse, cosi' recita:
+ - L'[art. 8, commi 5](../Atti%20normativi%20abrogati%20%28in%20originale%29/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md) e [6 del decreto legislativo 29 maggio 1991, n. 178](../Atti%20normativi%20abrogati%20%28in%20originale%29/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md), citato alle premesse, cosi' recita:
  «5. Il richiedente l'autorizzazione all'immissione in commercio non e' tenuto a fornire i risultati delle prove farmacologiche, tossicologiche e cliniche sul prodotto se e' in grado di dimostrare che la specialita' medicinale e' essenzialmente simile, in conformita' alle indicazioni eventualmente fornite dalle competenti autorita' CEE, a un prodotto in commercio in Italia, che risulti autorizzato da almeno dieci anni in uno Stato della Comunita' economica europea secondo le disposizioni comunitarie in vigore.
  Senza pregiudizio della normativa relativa alla tutela della proprieta' industriale e commerciale, qualora sussistano particolari motivi di tutela della salute pubblica, riconosciuti dalla Commissione unica del farmaco, il disposto del presente comma si applica anche a specialita' medicinali essenzialmente simili a un prodotto non ancora in commercio in Italia purche' gia' in commercio da almeno dieci anni in uno Stato membro dell'Unione europea.
  6. Se non sono ancora decorsi i dieci anni di cui al comma 5, l'interessato puo' non fornire i risultati delle prove farmacologiche, tossicologiche e cliniche se il responsabile dell'immissione in commercio in Italia della specialita' medicinale originale ha consentito che venga fatto ricorso, per l'esame della nuova domanda, alla documentazione relativa alla specialita' prodotta.».
@@ -1052,7 +1052,7 @@ Dopo l'espletamento della procedura di cui agli [articoli 32](https://www.normat
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 4 marzo 2014, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20paragrafi%201%205%20e%2012%20della%20direttiva%202012-26-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20per%20quanto%20riguarda%20la%20farmacovigilanza.%2014G00053.md) ha disposto (con l'art. 1, comma 2) che "Dalla data di entrata in vigore del decreto di cui all'[articolo 1, comma 344, della legge 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), e' abrogato l'[articolo 46 del decreto legislativo 24 aprile 2006, n. 219](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md)".
+Il [D.Lgs. 4 marzo 2014, n. 42](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20paragrafi%201%205%20e%2012%20della%20direttiva%202012-26-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20per%20quanto%20riguarda%20la%20farmacovigilanza.%2014G00053.md) ha disposto (con l'art. 1, comma 2) che "Dalla data di entrata in vigore del decreto di cui all'[articolo 1, comma 344, della legge 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), e' abrogato l'[articolo 46 del decreto legislativo 24 aprile 2006, n. 219](Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md)".
 
 ### Art. 47. — Variazioni delle autorizzazioni di mutuo riconoscimento e decentrate
 
@@ -1200,7 +1200,7 @@ Le prescrizioni di cui al comma 2, lettera b), non si applicano se il paese espo
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni necessarie per conformarsi all'articolo 1, comma 1, numero 6), limitatamente all'articolo 51-ter, e numeri 7, 13 e 14, del presente decreto, si applicano al piu' tardi sei anni dopo la data di applicazione degli atti delegati di cui all'[articolo 54-bis della direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83)."
+Il [D.Lgs. 19 febbraio 2014, n. 17](Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni necessarie per conformarsi all'articolo 1, comma 1, numero 6), limitatamente all'articolo 51-ter, e numeri 7, 13 e 14, del presente decreto, si applicano al piu' tardi sei anni dopo la data di applicazione degli atti delegati di cui all'[articolo 54-bis della direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83)."
 
 ### Art. 51-ter. — (( (Bollini farmaceutici o identificativi univoci). ))
 
@@ -1220,7 +1220,7 @@ c) la sostituzione dei bollini ovvero degli identificativi univoci e' effettuata
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 6 febbraio 2025, n. 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
+Il [D.Lgs. 6 febbraio 2025, n. 10](../Decreti%20Legislativi/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
 
 ### Art. 52. — Personale qualificato di cui deve dotarsi il titolare dell'autorizzazione alla produzione
 
@@ -1290,13 +1290,13 @@ La persona qualificata e' coadiuvata almeno dal personale qualificato previsto d
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni necessarie per conformarsi all'articolo 1, comma 1, numero 6), limitatamente all'articolo 51-ter, e numeri 7, 13 e 14, del presente decreto, si applicano al piu' tardi sei anni dopo la data di applicazione degli atti delegati di cui all'[articolo 54-bis della direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83)."
+Il [D.Lgs. 19 febbraio 2014, n. 17](Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni necessarie per conformarsi all'articolo 1, comma 1, numero 6), limitatamente all'articolo 51-ter, e numeri 7, 13 e 14, del presente decreto, si applicano al piu' tardi sei anni dopo la data di applicazione degli atti delegati di cui all'[articolo 54-bis della direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83)."
 
 ---------------
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 6 febbraio 2025, n. 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
+Il [D.Lgs. 6 febbraio 2025, n. 10](../Decreti%20Legislativi/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
 
 ### Art. 52-bis. — (Produzione e importazione di sostanze attive)
 
@@ -1354,7 +1354,7 @@ In via transitoria, fino alla data di validita' del certificato GMP (Good Manufa
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 3) che "Relativamente all'articolo 1, comma 1, numero 8), del presente decreto, i produttori e importatori di sostanze attive, che hanno iniziato la loro attivita' prima dell'entrata in vigore del presente decreto, presentano il modulo di registrazione di cui all'[articolo 52-bis del decreto legislativo n. 219 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;219#art_52bis), quale inserito dal presente decreto, entro due mesi dalla suddetta entrata in vigore".
+Il [D.Lgs. 19 febbraio 2014, n. 17](Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 3) che "Relativamente all'articolo 1, comma 1, numero 8), del presente decreto, i produttori e importatori di sostanze attive, che hanno iniziato la loro attivita' prima dell'entrata in vigore del presente decreto, presentano il modulo di registrazione di cui all'[articolo 52-bis del decreto legislativo n. 219 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;219#art_52bis), quale inserito dal presente decreto, entro due mesi dalla suddetta entrata in vigore".
 
 ### Art. 52-ter. — (( (Controlli su medicinali in transito).))
 
@@ -1365,7 +1365,7 @@ Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedim
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 3) che "Relativamente all'articolo 1, comma 1, numero 8), del presente decreto, i produttori e importatori di sostanze attive, che hanno iniziato la loro attivita' prima dell'entrata in vigore del presente decreto, presentano il modulo di registrazione di cui all'[articolo 52-bis del decreto legislativo n. 219 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;219#art_52bis), quale inserito dal presente decreto, entro due mesi dalla suddetta entrata in vigore."
+Il [D.Lgs. 19 febbraio 2014, n. 17](Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 3) che "Relativamente all'articolo 1, comma 1, numero 8), del presente decreto, i produttori e importatori di sostanze attive, che hanno iniziato la loro attivita' prima dell'entrata in vigore del presente decreto, presentano il modulo di registrazione di cui all'[articolo 52-bis del decreto legislativo n. 219 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;219#art_52bis), quale inserito dal presente decreto, entro due mesi dalla suddetta entrata in vigore."
 
 ### Art. 53. — Accertamenti sulla produzione di medicinali, sostanze attive ed eccipienti
 
@@ -1497,11 +1497,11 @@ Le disposizioni degli articoli 50, 51, 52 e 53 disciplinano anche l'esecuzione d
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 19 FEBBRAIO 2014, N. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md).
+COMMA ABROGATO DAL [D.LGS. 19 FEBBRAIO 2014, N. 17](Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md).
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 19 FEBBRAIO 2014, N. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md).
+COMMA ABROGATO DAL [D.LGS. 19 FEBBRAIO 2014, N. 17](Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md).
 
 3-bis.
 
@@ -1796,13 +1796,13 @@ L'AIFA assicura il rispetto delle indicazioni dettagliate previste dall'[articol
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni necessarie per conformarsi all'articolo 1, comma 1, numero 6), limitatamente all'articolo 51-ter, e numeri 7, 13 e 14, del presente decreto, si applicano al piu' tardi sei anni dopo la data di applicazione degli atti delegati di cui all'[articolo 54-bis della direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83)".
+Il [D.Lgs. 19 febbraio 2014, n. 17](Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni necessarie per conformarsi all'articolo 1, comma 1, numero 6), limitatamente all'articolo 51-ter, e numeri 7, 13 e 14, del presente decreto, si applicano al piu' tardi sei anni dopo la data di applicazione degli atti delegati di cui all'[articolo 54-bis della direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83)".
 
 ---------------
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 6 febbraio 2025, n. 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che le presenti modifiche decorrono dal 9 febbraio 2025.
+Il [D.Lgs. 6 febbraio 2025, n. 10](../Decreti%20Legislativi/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che le presenti modifiche decorrono dal 9 febbraio 2025.
 
 ### Art. 73-bis.
 
@@ -1833,13 +1833,13 @@ Ai fini della sicurezza dei pazienti, l'ambito di applicazione del sistema di pr
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni necessarie per conformarsi all'articolo 1, comma 1, numero 6), limitatamente all'articolo 51-ter, e numeri 7, 13 e 14, del presente decreto, si applicano al piu' tardi sei anni dopo la data di applicazione degli atti delegati di cui all'[articolo 54-bis della direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83)".
+Il [D.Lgs. 19 febbraio 2014, n. 17](Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 2) che "Le disposizioni necessarie per conformarsi all'articolo 1, comma 1, numero 6), limitatamente all'articolo 51-ter, e numeri 7, 13 e 14, del presente decreto, si applicano al piu' tardi sei anni dopo la data di applicazione degli atti delegati di cui all'[articolo 54-bis della direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83)".
 
 ---------------
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 6 febbraio 2025, n. 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che le presenti modifiche decorrono dal 9 febbraio 2025.
+Il [D.Lgs. 6 febbraio 2025, n. 10](../Decreti%20Legislativi/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che le presenti modifiche decorrono dal 9 febbraio 2025.
 
 ### Art. 74. — Etichettatura per blister e confezionamento primario di piccole dimensioni
 
@@ -2172,14 +2172,14 @@ La ricetta, che deve comunque contenere, stampata o apposta con timbro, la chiar
 
 1.
 
-I medicinali soggetti a prescrizione medica speciale sono i medicinali per i quali il testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e successive modificazioni, prevede specifiche modalita' di distribuzione e prescrizione.
+I medicinali soggetti a prescrizione medica speciale sono i medicinali per i quali il testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e successive modificazioni, prevede specifiche modalita' di distribuzione e prescrizione.
 
 2.
 
 Ferma restando la disciplina del testo unico richiamato al comma 1, i medicinali soggetti a prescrizione medica speciale possono essere sottoposti anche ad altre limitazioni previste dal presente decreto e dalle disposizioni che ne assicurano l'attuazione.
 
 Nota all'[art. 90:
- - Il decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), reca: «Testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza».
+ - Il decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), reca: «Testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza».
 
 ### Art. 91. — Medicinali soggetti a prescrizione medica limitativa
 
@@ -2267,7 +2267,7 @@ L'imballaggio esterno dei medicinali previsti dal presente articolo, reca un bol
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 6 febbraio 2025, n. 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
+Il [D.Lgs. 6 febbraio 2025, n. 10](../Decreti%20Legislativi/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
 
 ### Art. 97. — Pubblicazione dell'elenco dei medicinali secondo la classificazione ai fini della fornitura
 
@@ -2505,7 +2505,7 @@ Ai fini del comma 1, lettera b), se l'approvvigionamento del medicinale avviene:
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 6 febbraio 2025, n. 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che le presenti modifiche decorrono dal 9 febbraio 2025.
+Il [D.Lgs. 6 febbraio 2025, n. 10](../Decreti%20Legislativi/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che le presenti modifiche decorrono dal 9 febbraio 2025.
 
 ### Art. 105. — Dotazioni minime e fornitura dei medicinali
 
@@ -2559,7 +2559,7 @@ Per ogni operazione, il distributore all'ingrosso deve consegnare al destinatari
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 6 febbraio 2025, n. 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
+Il [D.Lgs. 6 febbraio 2025, n. 10](../Decreti%20Legislativi/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
 
 ### Art. 106. — Disposizioni concernenti medicinali particolari
 
@@ -2573,7 +2573,7 @@ Ove medicinali immunologici o medicinali derivati dal sangue risultano prodotti 
 
 3.
 
-Restano ferme le disposizioni sul commercio all'ingrosso contenute nel testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e successive modificazioni.
+Restano ferme le disposizioni sul commercio all'ingrosso contenute nel testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e successive modificazioni.
 
 Nota all'art. 106:
  - Per il decreto del Presidente della Repubblica vedi note all'art. 90.
@@ -2641,7 +2641,7 @@ Qualsiasi modifica che possa incidere sulla qualita' o sulla sicurezza delle sos
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 4) che "Relativamente all'articolo 1, comma 1, numero 21), del presente decreto, i distributori di sostanze attive, che hanno iniziato la loro attivita' prima dell'entrata in vigore del presente decreto, presentano il modulo di registrazione di cui all'[articolo 108-bis, del decreto legislativo n. 219 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;219#art_108bis), quale inserito dal presente decreto, entro due mesi dalla suddetta entrata in vigore".
+Il [D.Lgs. 19 febbraio 2014, n. 17](Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 4) che "Relativamente all'articolo 1, comma 1, numero 21), del presente decreto, i distributori di sostanze attive, che hanno iniziato la loro attivita' prima dell'entrata in vigore del presente decreto, presentano il modulo di registrazione di cui all'[articolo 108-bis, del decreto legislativo n. 219 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;219#art_108bis), quale inserito dal presente decreto, entro due mesi dalla suddetta entrata in vigore".
 
 ### Art. 109. — Ispezioni del Ministero della salute e AIFA
 
@@ -2733,7 +2733,7 @@ Il presente articolo fa salvi gli articoli 53, 109 e quanto previsto dall'[artic
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 5) che "Relativamente all'articolo 1, comma 1, numero 25), secondo capoverso, i broker di medicinali che hanno iniziato la loro attivita' prima dell'entrata in vigore del presente decreto, effettuano la registrazione presso il Ministero della salute di cui all'[articolo 112-ter del decreto legislativo n.219 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;219#art_112ter), quale inserito dal presente decreto, entro due mesi dalla suddetta entrata in vigore;".
+Il [D.Lgs. 19 febbraio 2014, n. 17](Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 5) che "Relativamente all'articolo 1, comma 1, numero 25), secondo capoverso, i broker di medicinali che hanno iniziato la loro attivita' prima dell'entrata in vigore del presente decreto, effettuano la registrazione presso il Ministero della salute di cui all'[articolo 112-ter del decreto legislativo n.219 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;219#art_112ter), quale inserito dal presente decreto, entro due mesi dalla suddetta entrata in vigore;".
 
 ## VENDITA A DISTANZA AL PUBBLICO))
 
@@ -2806,7 +2806,7 @@ Il Ministero della salute, nell'ambito delle risorse disponibili a legislazione 
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 6) che "Le disposizioni necessarie al rispetto dell'articolo 1, comma 1, numero 26), si applicano al piu' tardi un anno dopo la data di pubblicazione degli atti di esecuzione di cui all'[articolo 85-quater, paragrafo 3, della direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83)".
+Il [D.Lgs. 19 febbraio 2014, n. 17](Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 6) che "Le disposizioni necessarie al rispetto dell'articolo 1, comma 1, numero 26), si applicano al piu' tardi un anno dopo la data di pubblicazione degli atti di esecuzione di cui all'[articolo 85-quater, paragrafo 3, della direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83)".
 
 ## PUBBLICITA'
 
@@ -2947,15 +2947,15 @@ L'autorizzazione e' rilasciata dal Ministero della salute, sentita la Commission
 
 3.
 
-COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 86](../Regolamenti%20governativi/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20dalla%20leg_553cb57616f6.md).
+COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 86](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20dalla%20leg_553cb57616f6.md).
 
 4.
 
-COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 86](../Regolamenti%20governativi/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20dalla%20leg_553cb57616f6.md).
+COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 86](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20dalla%20leg_553cb57616f6.md).
 
 5.
 
-COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 86](../Regolamenti%20governativi/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20dalla%20leg_553cb57616f6.md).
+COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 86](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20dalla%20leg_553cb57616f6.md).
 
 6.
 
@@ -3007,7 +3007,7 @@ Le disposizioni dei commi 8, 9, 10, 11, 12 e 13, si applicano, altresi', ai disp
 
 AGGIORNAMENTO (13)
 
-Il [D.P.R. 28 marzo 2013, n. 44](../Regolamenti%20governativi/Regolamento%20recante%20il%20riordino%20degli%20organi%20collegiali%20ed%20altri%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20ai%20sensi%20dellarticolo%202%20comma%204%20della%20legge%204%20novembre%202010%20n.%20183.%2013G00085.md) ha disposto (con l'art. 2, comma 1, lettera e)) che sono trasferite ad un unico organo collegiale, denominato «Comitato tecnico sanitario», le funzioni in atto esercitate dalla Commissione per il rilascio delle licenze per la pubblicita' sanitaria di cui al comma 2 del presente articolo.
+Il [D.P.R. 28 marzo 2013, n. 44](../DPR/Regolamento%20recante%20il%20riordino%20degli%20organi%20collegiali%20ed%20altri%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20ai%20sensi%20dellarticolo%202%20comma%204%20della%20legge%204%20novembre%202010%20n.%20183.%2013G00085.md) ha disposto (con l'art. 2, comma 1, lettera e)) che sono trasferite ad un unico organo collegiale, denominato «Comitato tecnico sanitario», le funzioni in atto esercitate dalla Commissione per il rilascio delle licenze per la pubblicita' sanitaria di cui al comma 2 del presente articolo.
 
 ### Art. 119. — Pubblicita' presso gli operatori sanitari
 
@@ -3231,7 +3231,7 @@ Tranne che nel caso di evidenti difficolta' tecniche, sull'imballaggio esterno, 
 
 9.
 
-Non puo' essere fornito alcun campione dei medicinali disciplinati dal testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md).
+Non puo' essere fornito alcun campione dei medicinali disciplinati dal testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md).
 
 10.
 
@@ -3337,7 +3337,7 @@ Su proposta dell'AIFA, previa consultazione delle Associazioni dell'industria fa
 
 AGGIORNAMENTO (12)
 
-La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
 
 ### Art. 130. — Disposizioni concernenti il titolare dell'AIC
 
@@ -3394,7 +3394,7 @@ COMMA ABROGATO DAL [D.L. 13 SETTEMBRE 2012, N. 158](https://www.normattiva.it/ur
 
 AGGIORNAMENTO (12)
 
-La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
 
 ### Art. 131. — Responsabile del servizio di farmacovigilanza
 
@@ -3419,7 +3419,7 @@ Il responsabile del servizio di farmacovigilanza di cui al comma 4 dell'articolo
 
 AGGIORNAMENTO (12)
 
-La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
 
 ### Art. 132. — Obblighi a carico delle strutture e degli operatori sanitari e successivi adempimenti dell'AIFA
 
@@ -3464,7 +3464,7 @@ L'AIFA provvede affinche' tutte le segnalazioni di sospette reazioni avverse gra
 
 AGGIORNAMENTO (12)
 
-La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
 
 ### Art. 133. — Sospensione, revoca o modifica di una AIC per ragioni di farmacovigilanza
 
@@ -3489,7 +3489,7 @@ L'AIFA porta a conoscenza del pubblico, con i mezzi piu' opportuni, le decisioni
 
 AGGIORNAMENTO (12)
 
-La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
 
 ### Art. 134. — Accertamenti sull'osservanza delle norme di farmacovigilanza
 
@@ -3510,7 +3510,7 @@ Alle ispezioni previste dal presente articolo, si applica quanto disposto dai co
 
 AGGIORNAMENTO (12)
 
-La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
 
 ## DISPOSIZIONI SPECIALI SUI MEDICINALI DERIVATI DAL SANGUE O DAL PLASMA UMANI E SUI MEDICINALI IMMUNOLOGICI
 
@@ -3531,8 +3531,8 @@ Note all'[art. 135:
  - La [direttiva 2002/98/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;98) e' pubblicata nella G.U.C.E. 8 febbraio 2003 NL n. 33.
  - Per il [decreto legislativo 24 giugno 2003, n. 211](Attuazione%20della%20direttiva%202001-20-CE%20relativa%20allapplicazione%20della%20buona%20pratica%20clinica%20nellesecuzione%20delle%20sperimentazioni%20cliniche%20di%20medicinali%20per%20uso%20clinico.md), vedi note alle premesse.
  - Per la [direttiva 2001/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83), vedi note alle premesse.
- Nota all'[art. 147](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)
- - L'[art. 443 del Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) cosi' recita:
+ Nota all'[art. 147](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)
+ - L'[art. 443 del Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) cosi' recita:
  «Art. 443 (Commercio o somministrazione di medicinali guasti). - «Chiunque detiene per il commercio, pone in commercio o somministra medicinali guasti o imperfetti e' punito con la reclusione da sei mesi a tre anni e con la multa non inferiore a lire duecentomila.».
 
 ### Art. 136. — Autosufficienza comunitaria in materia di sangue e plasma umani
@@ -3843,7 +3843,7 @@ Le pene di cui ai commi 2, primo periodo, e 3, primo e secondo periodo, si appli
 
 7.
 
-Il produttore di medicinali o il titolare dell'AIC che immettono in commercio medicinali privi del requisito della sterilita' quando prescritto ovvero medicinali di cui al titolo X in cui sono presenti agenti patogeni suscettibili di essere trasmessi, e' soggetto alle pene previste dall'[articolo 443 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) aumentate di un terzo.
+Il produttore di medicinali o il titolare dell'AIC che immettono in commercio medicinali privi del requisito della sterilita' quando prescritto ovvero medicinali di cui al titolo X in cui sono presenti agenti patogeni suscettibili di essere trasmessi, e' soggetto alle pene previste dall'[articolo 443 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) aumentate di un terzo.
 
 ((
 
@@ -3975,7 +3975,7 @@ L'inosservanza delle disposizioni previste per i responsabili di farmacovigilanz
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 19 febbraio 2014, n. 17](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 7) che "L'autorita' competente per l'applicazione delle sanzioni amministrative di cui all'[articolo 148 del decreto legislativo n. 219 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;219#art_148), e successive modificazioni, e' l'AIFA, fatta eccezione per le disposizioni di cui ai commi da 7 a 15".
+Il [D.Lgs. 19 febbraio 2014, n. 17](Attuazione%20della%20direttiva%202011-62-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20recante%20un%20codice%20comunitario%20relativo%20ai%20medicinali%20per%20uso%20umano%20al%20fine%20di%20impedire%20lingresso%20di%20medicinali%20f_8f85e0abd5ab.md) ha disposto (con l'art. 2, comma 7) che "L'autorita' competente per l'applicazione delle sanzioni amministrative di cui all'[articolo 148 del decreto legislativo n. 219 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;219#art_148), e successive modificazioni, e' l'AIFA, fatta eccezione per le disposizioni di cui ai commi da 7 a 15".
 
 ---------------
 
@@ -3987,7 +3987,7 @@ L'aggiornamento in calce, disposto dall'art. 13, comma 1, secondo periodo del [D
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 6 febbraio 2025, n. 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
+Il [D.Lgs. 6 febbraio 2025, n. 10](../Decreti%20Legislativi/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
 
 ### Art. 149. — Estensione delle norme del presente titolo ai medicinali autorizzati con procedura centralizzata
 
@@ -4109,11 +4109,11 @@ Il produttore che non sia in possesso di un'AIC e' tenuto a fornire all'AIFA, ai
 
 1.
 
-Fatto salvo quanto previsto in materia di gestione dei rifiuti sanitari dal [decreto del Presidente della Repubblica 15 luglio 2003, n. 254](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20della%20gestione%20dei%20rifiuti%20sanitari%20a%20norma%20dellarticolo%2024%20della%20legge%2031%20luglio%202002%20n.%20179.md), con decreto del Ministro della salute, di concerto con il Ministro dell'ambiente e tutela del territorio e il Ministro delle attivita' produttive, previo parere della Conferenza permanente per i rapporti fra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono stabiliti con oneri a carico degli operatori idonei sistemi di raccolta per i medicinali inutilizzati o scaduti. Tali sistemi possono basarsi anche su accordi, a livello nazionale o territoriale, fra le parti interessate alla raccolta. PERIODO SOPPRESSO DALLA [L. 19 AGOSTO 2016, N. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-08-19;166).
+Fatto salvo quanto previsto in materia di gestione dei rifiuti sanitari dal [decreto del Presidente della Repubblica 15 luglio 2003, n. 254](../DPR/Regolamento%20recante%20disciplina%20della%20gestione%20dei%20rifiuti%20sanitari%20a%20norma%20dellarticolo%2024%20della%20legge%2031%20luglio%202002%20n.%20179.md), con decreto del Ministro della salute, di concerto con il Ministro dell'ambiente e tutela del territorio e il Ministro delle attivita' produttive, previo parere della Conferenza permanente per i rapporti fra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono stabiliti con oneri a carico degli operatori idonei sistemi di raccolta per i medicinali inutilizzati o scaduti. Tali sistemi possono basarsi anche su accordi, a livello nazionale o territoriale, fra le parti interessate alla raccolta. PERIODO SOPPRESSO DALLA [L. 19 AGOSTO 2016, N. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-08-19;166).
 
 1-bis.
 
-Con decreto del Ministro della salute, da emanare entro novanta giorni dalla data di entrata in vigore della presente disposizione, sono individuate modalita' che rendono possibile la donazione di medicinali non utilizzati a enti del Terzo settore di cui al codice del Terzo settore, di cui al [decreto legislativo 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), e l'utilizzazione dei medesimi medicinali da parte di queste, in confezioni integre, correttamente conservati e ancora nel periodo di validita', in modo tale da garantire la qualita', la sicurezza e l'efficacia originarie, con esclusione dei medicinali da conservare in frigorifero a temperature controllate, dei medicinali contenenti sostanze stupefacenti o psicotrope e dei medicinali dispensabili solo in strutture ospedaliere. Con il medesimo decreto sono definiti i requisiti dei locali e delle attrezzature idonei a garantirne la corretta conservazione e le procedure volte alla tracciabilita' dei lotti dei medicinali ricevuti e distribuiti. Agli enti del Terzo settore di cui al codice del Terzo settore, di cui al [decreto legislativo 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), e' consentita la distribuzione gratuita di medicinali non utilizzati direttamente ai soggetti indigenti o bisognosi, dietro presentazione di prescrizione medica, ove necessaria, a condizione che dispongano di personale sanitario ai sensi di quanto disposto dalla normativa vigente. Gli enti che svolgono attivita' assistenziale sono equiparati, nei limiti del servizio prestato, al consumatore finale rispetto alla detenzione e alla conservazione dei medicinali. E' vietata qualsiasi cessione a titolo oneroso dei medicinali oggetto di donazione. (20) (22) ((31))
+Con decreto del Ministro della salute, da emanare entro novanta giorni dalla data di entrata in vigore della presente disposizione, sono individuate modalita' che rendono possibile la donazione di medicinali non utilizzati a enti del Terzo settore di cui al codice del Terzo settore, di cui al [decreto legislativo 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), e l'utilizzazione dei medesimi medicinali da parte di queste, in confezioni integre, correttamente conservati e ancora nel periodo di validita', in modo tale da garantire la qualita', la sicurezza e l'efficacia originarie, con esclusione dei medicinali da conservare in frigorifero a temperature controllate, dei medicinali contenenti sostanze stupefacenti o psicotrope e dei medicinali dispensabili solo in strutture ospedaliere. Con il medesimo decreto sono definiti i requisiti dei locali e delle attrezzature idonei a garantirne la corretta conservazione e le procedure volte alla tracciabilita' dei lotti dei medicinali ricevuti e distribuiti. Agli enti del Terzo settore di cui al codice del Terzo settore, di cui al [decreto legislativo 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), e' consentita la distribuzione gratuita di medicinali non utilizzati direttamente ai soggetti indigenti o bisognosi, dietro presentazione di prescrizione medica, ove necessaria, a condizione che dispongano di personale sanitario ai sensi di quanto disposto dalla normativa vigente. Gli enti che svolgono attivita' assistenziale sono equiparati, nei limiti del servizio prestato, al consumatore finale rispetto alla detenzione e alla conservazione dei medicinali. E' vietata qualsiasi cessione a titolo oneroso dei medicinali oggetto di donazione. (20) (22) ((31))
 
 1-ter.
 
@@ -4123,19 +4123,19 @@ I farmaci ritirati sono stoccati dalla ditta titolare di AIC presso appositi mag
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md) ha disposto (con l'art. 104, comma 2) che "Le disposizioni del titolo X, salvo quanto previsto dal comma 1, si applicano agli enti iscritti nel Registro unico nazionale del Terzo settore a decorrere dal periodo di imposta successivo all'autorizzazione della Commissione europea di cui all'articolo 101, comma 10, e, comunque, non prima del periodo di imposta successivo di operativita' del predetto Registro".
+Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md) ha disposto (con l'art. 104, comma 2) che "Le disposizioni del titolo X, salvo quanto previsto dal comma 1, si applicano agli enti iscritti nel Registro unico nazionale del Terzo settore a decorrere dal periodo di imposta successivo all'autorizzazione della Commissione europea di cui all'articolo 101, comma 10, e, comunque, non prima del periodo di imposta successivo di operativita' del predetto Registro".
 
 ---------------
 
 AGGIORNAMENTO (22)
 
-Il [D.L. 16 ottobre 2017, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-10-16;148), convertito con modificazioni dalla [L. 4 dicembre 2017, n. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20ottobre%202017%20n.%20148%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20e%20per%20esigenze%20indifferibili.%20Modifica%20alla%20disciplina%20_76272513d08b.md), nel modificare l'[art. 104, comma 2 del D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "L'articolo 104 del codice di cui al [decreto legislativo 2 agosto 2017, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-08-02;117), si interpreta nel senso che i termini di decorrenza indicati nei commi 1 e 2 valgono anche ai fini dell'applicabilita' delle disposizioni fiscali che prevedono corrispondentemente modifiche o abrogazioni di disposizioni vigenti prima della data di entrata in vigore del medesimo codice di cui al [decreto legislativo n. 117 del 2017](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017;117)".
+Il [D.L. 16 ottobre 2017, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-10-16;148), convertito con modificazioni dalla [L. 4 dicembre 2017, n. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20ottobre%202017%20n.%20148%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20e%20per%20esigenze%20indifferibili.%20Modifica%20alla%20disciplina%20_76272513d08b.md), nel modificare l'[art. 104, comma 2 del D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "L'articolo 104 del codice di cui al [decreto legislativo 2 agosto 2017, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-08-02;117), si interpreta nel senso che i termini di decorrenza indicati nei commi 1 e 2 valgono anche ai fini dell'applicabilita' delle disposizioni fiscali che prevedono corrispondentemente modifiche o abrogazioni di disposizioni vigenti prima della data di entrata in vigore del medesimo codice di cui al [decreto legislativo n. 117 del 2017](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017;117)".
 
 -------------
 
 AGGIORNAMENTO (31)
 
-Il [D.Lgs. 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), come modificato dal [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-17;84), ha disposto (con l'art. 104, comma 2) che "Le disposizioni del titolo X, salvo quanto previsto dal comma 1, si applicano agli enti iscritti nel Registro unico nazionale del Terzo settore a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2025".
+Il [D.Lgs. 3 luglio 2017, n. 117](../Codici/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md), come modificato dal [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-17;84), ha disposto (con l'art. 104, comma 2) che "Le disposizioni del titolo X, salvo quanto previsto dal comma 1, si applicano agli enti iscritti nel Registro unico nazionale del Terzo settore a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2025".
 
 ## DISPOSIZIONI FINALI
 
@@ -4173,12 +4173,12 @@ Restano ferme le disposizioni del decreto del Ministro della sanita' in data 29 
 
 8.
 
-Il viaggiatore ha facolta' di portare con se', al momento dell'ingresso nel territorio nazionale, medicinali registrati in altri Paesi, purche' destinati ad un trattamento terapeutico non superiore a trenta giorni, fatte salve, limitatamente agli stupefacenti e sostanze psicotrope di cui al testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e successive modificazioni, le condizioni e le procedure che possono essere stabilite con decreto del Ministro della salute.
+Il viaggiatore ha facolta' di portare con se', al momento dell'ingresso nel territorio nazionale, medicinali registrati in altri Paesi, purche' destinati ad un trattamento terapeutico non superiore a trenta giorni, fatte salve, limitatamente agli stupefacenti e sostanze psicotrope di cui al testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e successive modificazioni, le condizioni e le procedure che possono essere stabilite con decreto del Ministro della salute.
 
 9.
 
 Le disposizioni di cui ai decreti ministeriali richiamati ai commi 6 e 7, possono essere modificate con decreto del Ministro della salute, su proposta dell'AIFA o previa consultazione della stessa.
-Resta in ogni caso ferma la necessita' dell'autorizzazione ministeriale per l'introduzione nel territorio nazionale, nelle ipotesi previste dai commi 6 e 7, di medicinali sottoposti alla disciplina del testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e successive modificazioni.
+Resta in ogni caso ferma la necessita' dell'autorizzazione ministeriale per l'introduzione nel territorio nazionale, nelle ipotesi previste dai commi 6 e 7, di medicinali sottoposti alla disciplina del testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), e successive modificazioni.
 
 10.
 
@@ -4206,7 +4206,7 @@ In caso di mancata corresponsione delle tariffe dovute, se per effetto di proced
 
 AGGIORNAMENTO (17)
 
-Il [D.L. 19 giugno 2015, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2015-06-19;78), convertito con modificazioni dalla [L. 6 agosto 2015, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20giugno%202015%20n.%2078%20recante%20disposizioni%20urgenti%20in%20materia%20di%20enti%20territoriali.%2015G00135.md) ha disposto (con l'art. 9-duodescies, comma 6) che "Il decreto del Ministro della salute di cui al [comma 12 dell'articolo 158 del decreto legislativo 24 aprile 2006, n. 219](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md), come modificato dal comma 5 del presente articolo, e' adottato entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto ed e' applicabile dal mese successivo a quello della sua entrata in vigore".
+Il [D.L. 19 giugno 2015, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2015-06-19;78), convertito con modificazioni dalla [L. 6 agosto 2015, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20giugno%202015%20n.%2078%20recante%20disposizioni%20urgenti%20in%20materia%20di%20enti%20territoriali.%2015G00135.md) ha disposto (con l'art. 9-duodescies, comma 6) che "Il decreto del Ministro della salute di cui al [comma 12 dell'articolo 158 del decreto legislativo 24 aprile 2006, n. 219](Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md), come modificato dal comma 5 del presente articolo, e' adottato entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto ed e' applicabile dal mese successivo a quello della sua entrata in vigore".
 
 ### Art. 159. — Disposizioni finanziarie
 

@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R decreto 8 novembre 1928, n. 2667](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Cannalonga%20Moio%20della%20Civitella%20Novi%20Velia%20e%20Vallo%20della%20Lucania%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Vallo%20della%20Lucania.%20028U2667.md);
+Visto il [R decreto 8 novembre 1928, n. 2667](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Cannalonga%20Moio%20della%20Civitella%20Novi%20Velia%20e%20Vallo%20della%20Lucania%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Vallo%20della%20Lucania.%20028U2667.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,13 +28,13 @@ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Abb
 
 ## Art. 1.
 
-I comuni di Cannalonga e di Novi Velia aggregati con [R. decreto 8 novembre 1928, n. 2667](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Cannalonga%20Moio%20della%20Civitella%20Novi%20Velia%20e%20Vallo%20della%20Lucania%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Vallo%20della%20Lucania.%20028U2667.md), al comune di Vallo della Lucania, sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
+I comuni di Cannalonga e di Novi Velia aggregati con [R. decreto 8 novembre 1928, n. 2667](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Cannalonga%20Moio%20della%20Civitella%20Novi%20Velia%20e%20Vallo%20della%20Lucania%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Vallo%20della%20Lucania.%20028U2667.md), al comune di Vallo della Lucania, sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
  Il Prefetto di Salerno, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i comuni di Vallo della Lucania, di Cannalonga e di Novi Velia.
 
 ## Art. 2.
 
 Gli organici dei ricostituiti comuni di Cannalonga e di Novi Velia e quello del comune di Vallo della Lucania saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa. 
- Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente a quelli organicamente assegnati ai Comuni suddetti anteriormente alla loro fusione disposta con [R. Decreto 8 novembre 1928, numero 2667](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Cannalonga%20Moio%20della%20Civitella%20Novi%20Velia%20e%20Vallo%20della%20Lucania%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Vallo%20della%20Lucania.%20028U2667.md) 
+ Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente a quelli organicamente assegnati ai Comuni suddetti anteriormente alla loro fusione disposta con [R. Decreto 8 novembre 1928, numero 2667](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Cannalonga%20Moio%20della%20Civitella%20Novi%20Velia%20e%20Vallo%20della%20Lucania%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Vallo%20della%20Lucania.%20028U2667.md) 
  Al personale gia' in servizio presso il comune di Vallo della Lucania che, eventualmente, sara' inquadrato nei predetti organici, non potranno essere attributi posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
 ## Art. 3.

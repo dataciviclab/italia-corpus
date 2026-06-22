@@ -494,7 +494,7 @@ Le istituzioni adeguano gli ordinamenti didattici dei propri corsi alle disposiz
 
 3.
 
-Gli Istituti superiori di studi musicali e coreutici possono continuare a organizzare corsi propedeutici e attivita' non curricolari di cui al decreto adottato ai sensi dell'[articolo 15 del decreto legislativo 13 aprile 2017, n. 60](../Decreti%20Legislativi/Norme%20sulla%20promozione%20della%20cultura%20umanistica%20sulla%20valorizzazione%20del%20patrimonio%20e%20delle%20produzioni%20culturali%20e%20sul%20sostegno%20della%20creativita%20a%20norma%20dellarticolo%201%20commi%20180%20e%20181%20let_20c656cb6457.md).
+Gli Istituti superiori di studi musicali e coreutici possono continuare a organizzare corsi propedeutici e attivita' non curricolari di cui al decreto adottato ai sensi dell'[articolo 15 del decreto legislativo 13 aprile 2017, n. 60](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20sulla%20promozione%20della%20cultura%20umanistica%20sulla%20valorizzazione%20del%20patrimonio%20e%20delle%20produzioni%20culturali%20e%20sul%20sostegno%20della%20creativita%20a%20norma%20dellarticolo%201%20commi%20180%20e%20181%20let_20c656cb6457.md).
 
 ))
 
@@ -524,7 +524,7 @@ Dall'attuazione del presente provvedimento non derivano nuovi o maggiori oneri p
 
 1.
 
-Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico ((generale)) di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md).
+Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico ((generale)) di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -27,7 +27,7 @@ Il [primo comma dell'art. 4 della legge 2 ottobre 1940, n. 1501](../Atti%20norma
 
 ## Art. 2.
 
-L'[art. 6 della legge 2 ottobre 1940, n. 1501](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20dellEnte%20Nazionale%20Metano.%20040U1501.md), relativa alla costituzione dell'Ente Nazionale Metano modificato con il [decreto legislativo luogotenenziale 8 maggio 1946, n. 569](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20allart.%206%20della%20legge%202%20ottobre%201940%20n.%201501%20relativa%20alla%20costituzione%20dellEnte%20Nazionale%20Metano.md), e' sostituito come segue:
+L'[art. 6 della legge 2 ottobre 1940, n. 1501](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20dellEnte%20Nazionale%20Metano.%20040U1501.md), relativa alla costituzione dell'Ente Nazionale Metano modificato con il [decreto legislativo luogotenenziale 8 maggio 1946, n. 569](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allart.%206%20della%20legge%202%20ottobre%201940%20n.%201501%20relativa%20alla%20costituzione%20dellEnte%20Nazionale%20Metano.md), e' sostituito come segue:
  Sono organi dell'Ente:
  1) il presidente;
  2) il Consiglio di amministrazione;

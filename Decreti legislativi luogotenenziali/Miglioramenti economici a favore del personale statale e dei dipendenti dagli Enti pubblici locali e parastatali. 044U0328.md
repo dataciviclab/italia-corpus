@@ -44,7 +44,7 @@ I supplementi di servizio attivo previsti per i dipendenti dalle Amministrazioni
 
 ## Art. 2.
 
-L'importo dell'assegno ad personam previsto dall'[art. 4 dal R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sara' riliquidato in base alle nuove misure degli stipendi risultanti dall'attuazione del precedente art. 1.
+L'importo dell'assegno ad personam previsto dall'[art. 4 dal R. decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sara' riliquidato in base alle nuove misure degli stipendi risultanti dall'attuazione del precedente art. 1.
 
 ## Art. 3.
 
@@ -71,7 +71,7 @@ LUOGOTENENZIALE 31 AGOSTO 1945, N. 650. (2)
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. Luogotenenziali 31 agosto 1945, n. 650](Aumento%20delle%20paghe%20dei%20graduati%20e%20militari%20di%20truppa%20delle%20Forze%20armate.%20045U0650.md), ha disposto (con l'art. 3, comma 1) che "Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno ed ha effetto dal 16 agosto 1944 per le localita' che alla data di pubblicazione del decreto stesso siano state restituite all'Amministrazione italiana". 
+Il [D.Lgs. Luogotenenziali 31 agosto 1945, n. 650](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aumento%20delle%20paghe%20dei%20graduati%20e%20militari%20di%20truppa%20delle%20Forze%20armate.%20045U0650.md), ha disposto (con l'art. 3, comma 1) che "Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno ed ha effetto dal 16 agosto 1944 per le localita' che alla data di pubblicazione del decreto stesso siano state restituite all'Amministrazione italiana". 
  Ha inoltre disposto (con l'art. 3, comma 2) che "Le disposizioni contenute nel presente decreto avranno efficacia fino a sei mesi dopo lo stato di cessazione dello stato di guerra".
 
 -----------
@@ -137,7 +137,7 @@ L'indennita' per offese belliche di cui all'[art. 2 del decreto-legge 16 dicembr
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. Luogotenenziale 13 marzo 1945, n. 116](Miglioramenti%20economici%20a%20favore%20dei%20dipendenti%20delle%20Amministrazioni%20statali%20degli%20Enti%20locali%20ed%20in%20genere%20degli%20Enti%20di%20diritto%20pubblico%20nonche%20a%20favore%20dei%20pensionati%20statali.%20045U0116.md), ha disposto: 
+Il [D.Lgs. Luogotenenziale 13 marzo 1945, n. 116](../Atti%20normativi%20abrogati%20%28in%20originale%29/Miglioramenti%20economici%20a%20favore%20dei%20dipendenti%20delle%20Amministrazioni%20statali%20degli%20Enti%20locali%20ed%20in%20genere%20degli%20Enti%20di%20diritto%20pubblico%20nonche%20a%20favore%20dei%20pensionati%20statali.%20045U0116.md), ha disposto: 
  - (con l'art. 8, comma 1) che "L'indennita' giornaliera di cui all'[art. 2 del R. decreto-legge 16 dicembre 1942, n. 1498](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvidenze%20a%20favore%20di%20personali%20dello%20Stato%20e%20degli%20Enti%20ausiliari%20in%20dipendenza%20di%20offese%20nemiche.%20042U1498.md), e quella di disagiatissima residenza di cui all'[art. 10 del decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](Miglioramenti%20economici%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20dagli%20Enti%20pubblici%20locali%20e%20parastatali.%20044U0328.md), sono soppresse"; 
  - (con l'art. 13, comma 1) che "Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 16 febbraio 1945 per il personale che alla data di pubblicazione del presente decreto risulti residente nelle provincie che alla data stessa siano gia' restituite all'Amministrazione italiana"; 
  - (con l'art. 13, comma 3) che "Il presente decreto ha efficacia fino ad un anno dopo la cessazione dello stato di guerra".
@@ -146,8 +146,8 @@ Il [D.Lgs. Luogotenenziale 13 marzo 1945, n. 116](Miglioramenti%20economici%20a%
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. Luogotenenziale 14 settembre 1945, n. 699](Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0699.md), ha disposto: 
- - (con l'art. 11, comma 1) che "L'indennita' giornaliera di cui all'[art. 2 del R. decreto-legge 16 dicembre 1942, n. 1498](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvidenze%20a%20favore%20di%20personali%20dello%20Stato%20e%20degli%20Enti%20ausiliari%20in%20dipendenza%20di%20offese%20nemiche.%20042U1498.md), e quella di disagiatissima residenza di cui agli [articoli 10 del decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](Miglioramenti%20economici%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20dagli%20Enti%20pubblici%20locali%20e%20parastatali.%20044U0328.md), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-18;3) e [7 del decreto legislativo Luogotenenziale 11 gennaio 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-11;7), [n. 3](Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0003.md), sono soppresse"; 
+Il [D.Lgs. Luogotenenziale 14 settembre 1945, n. 699](../Atti%20normativi%20abrogati%20%28in%20originale%29/Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0699.md), ha disposto: 
+ - (con l'art. 11, comma 1) che "L'indennita' giornaliera di cui all'[art. 2 del R. decreto-legge 16 dicembre 1942, n. 1498](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvidenze%20a%20favore%20di%20personali%20dello%20Stato%20e%20degli%20Enti%20ausiliari%20in%20dipendenza%20di%20offese%20nemiche.%20042U1498.md), e quella di disagiatissima residenza di cui agli [articoli 10 del decreto legislativo Luogotenenziale 18 novembre 1944, n. 328](Miglioramenti%20economici%20a%20favore%20del%20personale%20statale%20e%20dei%20dipendenti%20dagli%20Enti%20pubblici%20locali%20e%20parastatali.%20044U0328.md), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-11-18;3) e [7 del decreto legislativo Luogotenenziale 11 gennaio 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-01-11;7), [n. 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0003.md), sono soppresse"; 
  - (con l'art. 12, comma 1) che "Per le provincie che alla data di pubblicazione del presente decreto risultino gia' restituite all'Amministrazione italiana il presente decreto ha effetto dal 16 febbraio 1945, ad eccezione dalle disposizioni contenute dell'art. 5, che hanno invece effetto dal 1° maggio 1945"; 
  - (con l'art. 12, comma 4) che "Le disposizioni contenute nel presente decreto avranno efficacia fino ad un anno dopo la cessazione dello stato di guerra".
 

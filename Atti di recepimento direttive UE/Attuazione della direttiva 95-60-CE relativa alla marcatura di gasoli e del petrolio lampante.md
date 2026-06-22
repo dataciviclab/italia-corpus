@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), ed in particolare l'articolo 19;
+Vista la [legge 24 aprile 1998, n. 128](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), ed in particolare l'articolo 19;
 
 Vista la [direttiva 95/60/CE del Consiglio del 27 novembre 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;60), sulla marcatura dei gasoli e del petrolio lampante;
 
-Visto il [decreto legislativo 26 ottobre 1995, n. 504](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), recante testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative;
+Visto il [decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), recante testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 aprile 1999;
 
@@ -28,17 +28,17 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Il presente decreto si applica al petrolio lampante di cui all'[articolo 21, comma 1, lettera c), del decreto legislativo 26 ottobre 1995, n. 504](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), limitatamente al codice NC 2710 0055, ed al gasolio di cui all'articolo 21, comma 1, lettera d), dello stesso decreto legislativo, impiegati negli usi per i quali e' prevista un'aliquota di accisa agevolata rispetto all'aliquota stabilita per l'uso quale carburante, nel territorio dell'Unione europea.
+Il presente decreto si applica al petrolio lampante di cui all'[articolo 21, comma 1, lettera c), del decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), limitatamente al codice NC 2710 0055, ed al gasolio di cui all'articolo 21, comma 1, lettera d), dello stesso decreto legislativo, impiegati negli usi per i quali e' prevista un'aliquota di accisa agevolata rispetto all'aliquota stabilita per l'uso quale carburante, nel territorio dell'Unione europea.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive comunitarie vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
  Nota al titolo:
  - Per quanto concerne la [direttiva 95/60/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;60) v. note alle premesse.
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- - La [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), reca disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 1995-1997). L'art. 19 cosi' recita:
+ - La [legge 24 aprile 1998, n. 128](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), reca disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 1995-1997). L'art. 19 cosi' recita:
  "Art. 19 (Principi e criteri per l'attuazione della [direttiva 95/60/CE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;60), sulla marcatura dei gasoli e del petrolio lampante). - 1. L'attuazione della [direttiva 95/60/CE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;60) si informa ai seguenti criteri e principi direttivi:
  a) applicare una marcatura fiscale, in conformita' alle disposizioni della direttiva, a tutti i tipi di gasolio e di petrolio lampante impiegati in usi con aliquota di accisa ridotta rispetto all'aliquota normale;
  b) prevedere eventuali deroghe all'applicazione della marcatura fiscale per motivi di sanita' pubblica, di sicurezza o per altre ragioni tecniche, purche' siano contestualmente previste adeguate misure di controllo fiscale;
@@ -50,7 +50,7 @@ Avvertenza:
 
  
  Nota all'art. 1: 
- - Si riporta il testo dell'art. 21, comma 1, lettere c) e d), del citato [D.Lgs. 26 ottobre 1995, n. 504](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md): 
+ - Si riporta il testo dell'art. 21, comma 1, lettere c) e d), del citato [D.Lgs. 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md): 
  "Art. 21 (Prodotti sottoposti ad accisa). - 1. Sono sottoposti ad accisa i seguenti prodotti: 
  a)-b) (omissis); 
  c) petrolio lampante o cherosene (codice NC 2710 00 
@@ -91,10 +91,10 @@ Per i prodotti di cui all'articolo 1, destinati ad essere impiegati nel territor
 
 1.
 
-Si applicano le disposizioni di cui all'articolo 40, comma 1, lettere c), e) ed f), e commi 3, primo periodo, 4 e 6 del [decreto legislativo 26 ottobre 1995, n. 504](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md).
+Si applicano le disposizioni di cui all'articolo 40, comma 1, lettere c), e) ed f), e commi 3, primo periodo, 4 e 6 del [decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md).
 
 Nota all'art. 6:
- - Il testo dell'art. 40, comma 1, lettere c), e) ed f), e commi 3, 4 e 6 del citato [decreto legislativo 26 ottobre 1995, n. 504](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), e' il seguente:
+ - Il testo dell'art. 40, comma 1, lettere c), e) ed f), e commi 3, 4 e 6 del citato [decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), e' il seguente:
  "Art. 40 (Sottrazione all'accertamento o al pagamento dell'accisa sugli oli minerali). - 1. E' punito con la reclusione da sei mesi a tre anni e con la multa dal doppio al decuplo dell'imposta evasa, non inferiore in ogni caso a lire 15 milioni, chiunque:
  a)-b) (omissis);
  c) destina ad usi soggetti ad imposta od a maggiore imposta prodotti esenti o ammessi ad aliquote agevolate;

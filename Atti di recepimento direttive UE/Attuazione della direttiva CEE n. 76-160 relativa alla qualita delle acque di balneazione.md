@@ -66,7 +66,7 @@ Tale individuazione e' portata a conoscenza del Ministero della sanita' e del Mi
 
 AGGIORNAMENTO (4)
 
-La [L. 29 dicembre 2000, n. 422](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202000.md), ha disposto (con l'art. 18, comma 2) che le disposizioni di cui al presente articolo si applicano a decorrere dall'inizio del periodo di campionamento relativo all'anno 2001.
+La [L. 29 dicembre 2000, n. 422](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202000.md), ha disposto (con l'art. 18, comma 2) che le disposizioni di cui al presente articolo si applicano a decorrere dall'inizio del periodo di campionamento relativo all'anno 2001.
 
 ## Art. 5.
 
@@ -81,7 +81,7 @@ Ai comuni competono:
 
 AGGIORNAMENTO (4)
 
-La [L. 29 dicembre 2000, n. 422](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202000.md), ha disposto (con l'art. 18, comma 2) che le disposizioni di cui al presente articolo si applicano a decorrere dall'inizio del periodo di campionamento relativo all'anno 2001.
+La [L. 29 dicembre 2000, n. 422](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202000.md), ha disposto (con l'art. 18, comma 2) che le disposizioni di cui al presente articolo si applicano a decorrere dall'inizio del periodo di campionamento relativo all'anno 2001.
 
 ## Art. 6.
 
@@ -103,7 +103,7 @@ Tale individuazione e' comunicata al Ministero della salute ed al Ministero dell
 
 AGGIORNAMENTO (4)
 
-La [L. 29 dicembre 2000, n. 422](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202000.md), ha disposto (con l'art. 18, comma 2) che le disposizioni di cui al presente articolo si applicano a decorrere dall'inizio del periodo di campionamento relativo all'anno 2001.
+La [L. 29 dicembre 2000, n. 422](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202000.md), ha disposto (con l'art. 18, comma 2) che le disposizioni di cui al presente articolo si applicano a decorrere dall'inizio del periodo di campionamento relativo all'anno 2001.
 
 ## Art. 7.
 
@@ -121,7 +121,7 @@ Quando per due stagioni balneari consecutive i risultati dei campioni routinari 
 
 AGGIORNAMENTO (4)
 
-La [L. 29 dicembre 2000, n. 422](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202000.md), ha disposto (con l'art. 18, comma 2) che le disposizioni di cui al presente articolo si applicano a decorrere dall'inizio del periodo di campionamento relativo all'anno 2001.
+La [L. 29 dicembre 2000, n. 422](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202000.md), ha disposto (con l'art. 18, comma 2) che le disposizioni di cui al presente articolo si applicano a decorrere dall'inizio del periodo di campionamento relativo all'anno 2001.
 
 ## Art. 8.
 
@@ -129,7 +129,7 @@ La [L. 29 dicembre 2000, n. 422](../Leggi%20di%20delegazione%20europea/Disposizi
 
 1.
 
-Le regioni, per i punti non idonei alla balneazione per i quali adottano misure di miglioramento nel rispetto delle disposizioni del [decreto legislativo 11 maggio 1999, n. 152](../Decreti%20Legislativi/Disposizioni%20sulla%20tutela%20delle%20acque%20dallinquinamento%20e%20recepimento%20della%20direttiva%2091-271-CEE%20concernente%20il%20trattamento%20delle%20acque%20reflue%20urbane%20e%20della%20direttiva%2091-676-CEE%20relativa%20_2e8d984f823c.md), comunicano al Ministero dell'ambiente, ai sensi e secondo le modalita' previste dall'articolo 9, comma 2, del citato [decreto legislativo n. 152 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;152), tali misure, anche al fine di ottemperare agli obblighi comunitari. Per i casi in cui le regioni accertino che la situazione non necessiti di misure di miglioramento, le stesse dovranno darne adeguata motivazione.
+Le regioni, per i punti non idonei alla balneazione per i quali adottano misure di miglioramento nel rispetto delle disposizioni del [decreto legislativo 11 maggio 1999, n. 152](Disposizioni%20sulla%20tutela%20delle%20acque%20dallinquinamento%20e%20recepimento%20della%20direttiva%2091-271-CEE%20concernente%20il%20trattamento%20delle%20acque%20reflue%20urbane%20e%20della%20direttiva%2091-676-CEE%20relativa%20_2e8d984f823c.md), comunicano al Ministero dell'ambiente, ai sensi e secondo le modalita' previste dall'articolo 9, comma 2, del citato [decreto legislativo n. 152 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;152), tali misure, anche al fine di ottemperare agli obblighi comunitari. Per i casi in cui le regioni accertino che la situazione non necessiti di misure di miglioramento, le stesse dovranno darne adeguata motivazione.
 
 2.
 
@@ -143,7 +143,7 @@ Per i punti non idonei alla balneazione, per i quali e' necessario adottare misu
 
 AGGIORNAMENTO (4)
 
-La [L. 29 dicembre 2000, n. 422](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202000.md), ha disposto (con l'art. 18, comma 2) che le disposizioni di cui al presente articolo si applicano a decorrere dall'inizio del periodo di campionamento relativo all'anno 2001.
+La [L. 29 dicembre 2000, n. 422](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202000.md), ha disposto (con l'art. 18, comma 2) che le disposizioni di cui al presente articolo si applicano a decorrere dall'inizio del periodo di campionamento relativo all'anno 2001.
 
 ## Art. 9.
 

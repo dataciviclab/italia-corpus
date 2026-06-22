@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md);
+Vista la [legge 24 aprile 1998, n. 128](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md);
 
 Vista la [direttiva 95/25/CE del Consiglio del 22 giugno 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;25) che modifica la [direttiva 64/432/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1964;432) relativa a problemi di polizia sanitaria in materia di scambi intracomunitari di animali della specie bovina e suina;
 
@@ -63,7 +63,7 @@ Note alle premesse:
  Presiede il Consiglio superiore della magistratura.
  Puo' concedere grazia e commutare le pene.
  Conferisce le onorificenze della Repubblica".
- - La [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), reca: "Disposizioni per l'adempimento di obblighi derivanti dalla appartenenza dell'Italia alle Comunita' europee.
+ - La [legge 24 aprile 1998, n. 128](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), reca: "Disposizioni per l'adempimento di obblighi derivanti dalla appartenenza dell'Italia alle Comunita' europee.
  Legge comunitaria 1995-1997".
  - La [direttiva 95/25/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;25) e' pubblicata in G.U.C.E. n. L 243 dell'11 ottobre 1995.
  - La [direttiva 64/432/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1964;432) e' pubblicata in G.U.C.E. n. L 32 del 24 febbraio 1966.

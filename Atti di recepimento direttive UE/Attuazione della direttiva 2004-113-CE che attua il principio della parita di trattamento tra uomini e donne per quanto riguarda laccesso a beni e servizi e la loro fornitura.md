@@ -16,7 +16,7 @@ Vista la [direttiva 2004/113/CE del 13 dicembre 2004, del Consiglio](https://www
 
 Vista la [legge 25 gennaio 2006, n. 29](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202005.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2005, ed in particolare gli articoli 1, 3 e l'allegato B;
 
-Visto il [decreto legislativo 11 aprile 2006, n. 198](../Decreti%20Legislativi/Codice%20delle%20pari%20opportunita%20tra%20uomo%20e%20donna%20a%20norma%20dellarticolo%206%20della%20legge%2028%20novembre%202005%20n.%20246.md), recante [Codice delle pari opportunita' tra uomo e donna](../Decreti%20Legislativi/Codice%20delle%20pari%20opportunita%20tra%20uomo%20e%20donna%20a%20norma%20dellarticolo%206%20della%20legge%2028%20novembre%202005%20n.%20246.md);
+Visto il [decreto legislativo 11 aprile 2006, n. 198](../Codici/Codice%20delle%20pari%20opportunita%20tra%20uomo%20e%20donna%20a%20norma%20dellarticolo%206%20della%20legge%2028%20novembre%202005%20n.%20246.md), recante [Codice delle pari opportunita' tra uomo e donna](../Codici/Codice%20delle%20pari%20opportunita%20tra%20uomo%20e%20donna%20a%20norma%20dellarticolo%206%20della%20legge%2028%20novembre%202005%20n.%20246.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 luglio 2007;
 
@@ -33,7 +33,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Dopo il titolo II del libro III del [decreto legislativo 11 aprile 2006, n. 198](../Decreti%20Legislativi/Codice%20delle%20pari%20opportunita%20tra%20uomo%20e%20donna%20a%20norma%20dellarticolo%206%20della%20legge%2028%20novembre%202005%20n.%20246.md), e' aggiunto il seguente:
+Dopo il titolo II del libro III del [decreto legislativo 11 aprile 2006, n. 198](../Codici/Codice%20delle%20pari%20opportunita%20tra%20uomo%20e%20donna%20a%20norma%20dellarticolo%206%20della%20legge%2028%20novembre%202005%20n.%20246.md), e' aggiunto il seguente:
  "Titolo II 2-bis
  PARITA' DI TRATTAMENTO TRA UOMINI E DONNE NELL'ACCESSO
  A BENI E SERVIZI E LORO FORNITURA

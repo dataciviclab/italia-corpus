@@ -22,7 +22,7 @@ Il Presidente della Repubblica e' autorizzato a ratificare il trattato di estrad
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale , con sentenza 25-27 giugno 1996, n.233 (in G.U.1a s.s. 3/7/1996, n.27) ha dichiarato "l'illegittimita' costituzionale della [legge 26 maggio 1984, n. 225](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20trattato%20di%20estradizione%20tra%20il%20Governo%20della%20Repubblica%20italiana%20ed%20il%20Governo%20degli%20Stati%20Uniti%20dAmerica%20firmato%20a%20Roma%20il%2013%20ottobre%201983.md) (Ratifica ed esecuzione del trattato di estradizione tra il Governo della Repubblica italiana ed il Governo degli Stati Uniti d'America, firmato a Roma il 13 ottobre 1983), nella parte in cui da' esecuzione all'art. IX del trattato di estradizione ora citato."
+La Corte Costituzionale , con sentenza 25-27 giugno 1996, n.233 (in G.U.1a s.s. 3/7/1996, n.27) ha dichiarato "l'illegittimita' costituzionale della [legge 26 maggio 1984, n. 225](Ratifica%20ed%20esecuzione%20del%20trattato%20di%20estradizione%20tra%20il%20Governo%20della%20Repubblica%20italiana%20ed%20il%20Governo%20degli%20Stati%20Uniti%20dAmerica%20firmato%20a%20Roma%20il%2013%20ottobre%201983.md) (Ratifica ed esecuzione del trattato di estradizione tra il Governo della Repubblica italiana ed il Governo degli Stati Uniti d'America, firmato a Roma il 13 ottobre 1983), nella parte in cui da' esecuzione all'art. IX del trattato di estradizione ora citato."
 
 ## Art. 2.
 
@@ -32,7 +32,7 @@ Piena ed intera esecuzione e' data al trattato di cui all'articolo precedente a 
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale , con sentenza 25-27 giugno 1996, n.233 (in G.U. 1a s.s. 3/7/1996, n.27) ha dichiarato "l'illegittimita' costituzionale della [legge 26 maggio 1984, n. 225](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20trattato%20di%20estradizione%20tra%20il%20Governo%20della%20Repubblica%20italiana%20ed%20il%20Governo%20degli%20Stati%20Uniti%20dAmerica%20firmato%20a%20Roma%20il%2013%20ottobre%201983.md) (Ratifica ed esecuzione del trattato di estradizione tra il Governo della Repubblica italiana ed il Governo degli Stati Uniti d'America, firmato a Roma il 13 ottobre 1983), nella parte in cui da' esecuzione all'art. IX del trattato di estradizione ora citato."
+La Corte Costituzionale , con sentenza 25-27 giugno 1996, n.233 (in G.U. 1a s.s. 3/7/1996, n.27) ha dichiarato "l'illegittimita' costituzionale della [legge 26 maggio 1984, n. 225](Ratifica%20ed%20esecuzione%20del%20trattato%20di%20estradizione%20tra%20il%20Governo%20della%20Repubblica%20italiana%20ed%20il%20Governo%20degli%20Stati%20Uniti%20dAmerica%20firmato%20a%20Roma%20il%2013%20ottobre%201983.md) (Ratifica ed esecuzione del trattato di estradizione tra il Governo della Repubblica italiana ed il Governo degli Stati Uniti d'America, firmato a Roma il 13 ottobre 1983), nella parte in cui da' esecuzione all'art. IX del trattato di estradizione ora citato."
 
 ## Art. 3.
 
@@ -44,7 +44,7 @@ La presente legge entra in vigore il giorno successivo a quello della sua pubbli
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale , con sentenza 25-27 giugno 1996, n.233 (in G.U. 1 s.s. 3/7/1996, n.27) ha dichiarato "l'illegittimita' costituzionale della [legge 26 maggio 1984, n. 225](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20trattato%20di%20estradizione%20tra%20il%20Governo%20della%20Repubblica%20italiana%20ed%20il%20Governo%20degli%20Stati%20Uniti%20dAmerica%20firmato%20a%20Roma%20il%2013%20ottobre%201983.md) (Ratifica ed esecuzione del trattato di estradizione tra il Governo della Repubblica italiana ed il Governo degli Stati Uniti d'America, firmato a Roma il 13 ottobre 1983), nella parte in cui da' esecuzione all'art. IX del trattato di estradizione ora citato."
+La Corte Costituzionale , con sentenza 25-27 giugno 1996, n.233 (in G.U. 1 s.s. 3/7/1996, n.27) ha dichiarato "l'illegittimita' costituzionale della [legge 26 maggio 1984, n. 225](Ratifica%20ed%20esecuzione%20del%20trattato%20di%20estradizione%20tra%20il%20Governo%20della%20Repubblica%20italiana%20ed%20il%20Governo%20degli%20Stati%20Uniti%20dAmerica%20firmato%20a%20Roma%20il%2013%20ottobre%201983.md) (Ratifica ed esecuzione del trattato di estradizione tra il Governo della Repubblica italiana ed il Governo degli Stati Uniti d'America, firmato a Roma il 13 ottobre 1983), nella parte in cui da' esecuzione all'art. IX del trattato di estradizione ora citato."
 
  Data a Roma, addi' 26 maggio 1984
 

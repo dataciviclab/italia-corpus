@@ -68,7 +68,7 @@ Ai sensi del presente titolo si intendono:
 AGGIORNAMENTO (4)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83),convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: [...] 
- b) il [decreto legislativo 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
+ b) il [decreto legislativo 27 luglio 1999, n. 297](Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
 
 ### Art. 2. — Soggetti ammissibili
 
@@ -142,7 +142,7 @@ Le variazioni del progetto senza aumento di spesa approvate in ambito comunitari
 AGGIORNAMENTO (4)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83),convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: [...] 
- b) il [decreto legislativo 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
+ b) il [decreto legislativo 27 luglio 1999, n. 297](Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
 
 ### Art. 3. — Attivita' finanziabili
 
@@ -180,7 +180,7 @@ Il distacco avviene sulla base di intese tra le parti che regolano le funzioni, 
 AGGIORNAMENTO (4)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83),convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: [...] 
- b) il [decreto legislativo 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
+ b) il [decreto legislativo 27 luglio 1999, n. 297](Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
 
 ### Art. 4. — Strumenti
 
@@ -215,7 +215,7 @@ Per gli interventi di finanziamento previsti dal presente titolo ed erogati dal 
 AGGIORNAMENTO (4)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83),convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: [...] 
- b) il [decreto legislativo 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
+ b) il [decreto legislativo 27 luglio 1999, n. 297](Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
 
 ### Art. 5. — Fondo agevolazioni per la ricerca
 
@@ -232,7 +232,7 @@ Il Ministro del tesoro, del bilancio e della programmazione economica e' autoriz
 AGGIORNAMENTO (4)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83),convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: [...] 
- b) il [decreto legislativo 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
+ b) il [decreto legislativo 27 luglio 1999, n. 297](Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
 
 ### Art. 6. — Modalita' di attuazione
 
@@ -261,7 +261,7 @@ Il MURST iscrive i progetti approvati e i soggetti fruitori degli interventi di 
 AGGIORNAMENTO (4)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83),convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: [...] 
- b) il [decreto legislativo 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
+ b) il [decreto legislativo 27 luglio 1999, n. 297](Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
 
 ### Art. 7. — Servizi e consulenza
 
@@ -311,7 +311,7 @@ Con decreto del Ministro dell'istruzione, dell'universita' e della ricerca sono 
 AGGIORNAMENTO (4)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83),convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: [...] 
- b) il [decreto legislativo 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
+ b) il [decreto legislativo 27 luglio 1999, n. 297](Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
 
 ### Art. 8. — Monitoraggio e valutazione
 
@@ -329,7 +329,7 @@ Il MURST nell'ambito delle attivita' di monitoraggio di cui al comma 1, predispo
 AGGIORNAMENTO (4)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83),convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: [...] 
- b) il [decreto legislativo 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
+ b) il [decreto legislativo 27 luglio 1999, n. 297](Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
 
 ### Art. 9. — Norme transitorie e finali
 
@@ -381,7 +381,7 @@ A decorrere dalla data di entrata in vigore del primo decreto di cui all'articol
 AGGIORNAMENTO (4)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83),convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: [...] 
- b) il [decreto legislativo 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
+ b) il [decreto legislativo 27 luglio 1999, n. 297](Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
 
 ### Art. 10. — Norme di coordinamento con le competenze del Ministero 
 dell'industria, del commercio e dell'artigianato
@@ -417,7 +417,7 @@ Il Ministero dell'industria, del commercio e dell'artigianato e' autorizzato ad 
 AGGIORNAMENTO (4)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83),convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: [...] 
- b) il [decreto legislativo 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
+ b) il [decreto legislativo 27 luglio 1999, n. 297](Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

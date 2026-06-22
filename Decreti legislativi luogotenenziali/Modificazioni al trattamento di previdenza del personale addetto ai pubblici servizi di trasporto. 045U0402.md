@@ -20,7 +20,7 @@ Visto il [R. decreto-legge 14 aprile 1939, n. 636](https://www.normattiva.it/uri
 
 Visto il [R. decreto-legge 18 marzo 1943, n. 126](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aumento%20delle%20pensioni%20e%20dei%20contributi%20dellassicurazione%20invalidita%20e%20vecchiaia%20043U0126.md), concernente aumento delle pensioni dei contributi dell'assicurazione obbligatoria invalidita' e vecchiaia;
 
-Visto il regolamento speciale riguardante la previdenza del personale addetto ai pubblici servizi di trasporto in concessione, approvato con [R. decreto 30 settembre 1920, n. 1538](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), e successive modificazioni;
+Visto il regolamento speciale riguardante la previdenza del personale addetto ai pubblici servizi di trasporto in concessione, approvato con [R. decreto 30 settembre 1920, n. 1538](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), e successive modificazioni;
 
 Visto l'art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, 151;
 
@@ -36,7 +36,7 @@ Il contributo di cui al [secondo comma dell'art. 6 del decreto-legge Luogotenenz
  
  Tale contributo e' per il 7% a carico del personale e per il rimanente a carico delle aziende. 
  
- Sono competenze accessorie, ai sensi del primo comma del presente articolo, quelle indicate all'art. 2 del regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), ed in ogni altra disposizione di legge o di contratto collettivo.
+ Sono competenze accessorie, ai sensi del primo comma del presente articolo, quelle indicate all'art. 2 del regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), ed in ogni altra disposizione di legge o di contratto collettivo.
 
 ## Art. 2.
 
@@ -44,11 +44,11 @@ Il contributo di cui al [secondo comma dell'art. 6 del decreto-legge Luogotenenz
 
 ## Art. 3.
 
-Le prestazioni stabilite dal regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), e successive norme integrative e modificative, comprese quelle del presente decreto, sono a carico: 
+Le prestazioni stabilite dal regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), e successive norme integrative e modificative, comprese quelle del presente decreto, sono a carico: 
  1) della gestione dell'assicurazione generale obbligatoria, per la parte liquidata con le modalita' e secondo le norme stabilite dai [Regi decreti-legge 14 aprile 1939, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-14;636) (convertito, con modificazioni, nella [legge 6 luglio 1939, n. 1272), e 18 marzo 1943, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-03-18;126), in base al totale dei contributi alla stessa assegnati in conformita' della lettera a) dell'art. 2. Tali contributi sono considerati quali versamenti obbligatori anche per la quota eccedente la contribuzione massima stabilita per l'assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti; 
  2) del fondo per la previdenza del personale addetto ai pubblici servizi di trasporto, per la rimanente parte. 
  
- Nel caso che la pensione a carico dell'assicurazione generale obbligatoria, di cui al n. 1 del precedente comma,risulti superiore a quella liquidabile in base al regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), e successive norme integrative e modificative, comprese quelle del presente decreto, spettano all'agente o ai suoi aventi diritto le sole prestazioni di cui allo stesso n. 1 del precedente comma.
+ Nel caso che la pensione a carico dell'assicurazione generale obbligatoria, di cui al n. 1 del precedente comma,risulti superiore a quella liquidabile in base al regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), e successive norme integrative e modificative, comprese quelle del presente decreto, spettano all'agente o ai suoi aventi diritto le sole prestazioni di cui allo stesso n. 1 del precedente comma.
 
 ## Art. 4.
 
@@ -60,7 +60,7 @@ Le prestazioni stabilite dal regolamento approvato con [R. decreto 30 settembre 
 
 ## Art. 6.
 
-L'art. 11 del regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), e' sostituito dal seguente: 
+L'art. 11 del regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), e' sostituito dal seguente: 
  
  «L'ammontare della pensione e' calcolato sulla retribnzione base di cui all'articolo precedente in ragione di tanti quarantesimi per quanti sono gli anni di servizio riconosciuti utili ai fini della liquidazione della pensione. 
  
@@ -80,7 +80,7 @@ L'art. 11 del regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](
 
 ## Art. 9.
 
-L'art. 17 del regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), e' sostituito dal seguente: 
+L'art. 17 del regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), e' sostituito dal seguente: 
  «La pensione alla vedova e agli orfani di eta' non superiore ai 21 anni o inabili al lavoro, e' stabilita nelle seguenti aliquote della pensione gia' liquidata o che sarebbe spettata all'iscritto: 
  a) il 50% alla vedova; 
  b) il 10% a ciascun figlio, se ha diritto a pensione anche la vedova, oppure il 20% se hanno diritto a pensione soltanto i figli, salvo quanto e' disposto nei seguenti commi: 
@@ -124,7 +124,7 @@ Le pensioni liquidate con decorrenza, anteriore al 1° settembre 1942, sono aume
 
 ## Art. 12.
 
-L'art. 5, primo comma, del regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](../Regi%20decreti/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), e' modificato come segue: 
+L'art. 5, primo comma, del regolamento approvato con [R. decreto 30 settembre 1920, n. 1538](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20speciale%20riguardante%20la%20previdenza%20del%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto%20concessi%20allindustria%20privata%20Provincie%20e%20Comuni.%20020U1538.md), e' modificato come segue: 
  
  «Presso l'Istituto nazionale della previdenza sociale e' istituito il Comitato di vigilanza sulle liquidazioni degli assegni al personale addetto ai pubblici servizi, di trasporto in concessione.  
  «Il Comitato e' presieduto dal presidente dell'Istituto nazionale della previdenza sociale ed e' composto dai seguenti membri: 

@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-E' autorizzata la spesa di lire cento milioni per provvedere, a norma dell'[art. 2 del decreto legislativo luogotenenziale 5 luglio 1945, n. 429](../Decreti%20legislativi%20luogotenenziali/Impianti%20di%20cimiteri%20destinati%20alla%20inumazione%20dei%20militari%20delle%20FF.%20AA.%20delle%20Nazioni%20Unite%20caduti%20in%20territorio%20italiano%20durante%20lattuale%20guerra.%20045U0429.md), modificato con [decreto legislativo del Capo provvisorio dello Stato 29 ottobre 1947, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-10-29;1354), all'impianto dei cimiteri destinati alla inumazione dei militari delle Forze armate delle Nazioni Unite caduti in territorio italiano.
+E' autorizzata la spesa di lire cento milioni per provvedere, a norma dell'[art. 2 del decreto legislativo luogotenenziale 5 luglio 1945, n. 429](../Atti%20normativi%20abrogati%20%28in%20originale%29/Impianti%20di%20cimiteri%20destinati%20alla%20inumazione%20dei%20militari%20delle%20FF.%20AA.%20delle%20Nazioni%20Unite%20caduti%20in%20territorio%20italiano%20durante%20lattuale%20guerra.%20045U0429.md), modificato con [decreto legislativo del Capo provvisorio dello Stato 29 ottobre 1947, n. 1354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-10-29;1354), all'impianto dei cimiteri destinati alla inumazione dei militari delle Forze armate delle Nazioni Unite caduti in territorio italiano.
 
 ## Art. 2.
 

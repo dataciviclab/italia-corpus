@@ -24,7 +24,7 @@ PROMULGA Il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-E' prorogata al 31 dicembre 1947 l'efficacia, del decreto 19 settembre 1946, n. 321, relativo alla proroga, al 30 giugno 1947, delle modificazioni apportate dal [regio decreto 16 dicembre 1941, n. 1557](../Regi%20decreti/Modificazione%20per%20il%20tempo%20di%20guerra%20dellart.%2081%20del%20regolamento%20sui%20lavori%20del%20Genio%20militare%20approvato%20con%20R.%20decreto%2017%20marzo%201932-X%20n.%20365.%20041U1557.md), e dal [decreto luogotenenziale 24 agosto 1944, n. 235, all'art. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-24;235#art_81) del regolamento sui lavori del Genio militare.
+E' prorogata al 31 dicembre 1947 l'efficacia, del decreto 19 settembre 1946, n. 321, relativo alla proroga, al 30 giugno 1947, delle modificazioni apportate dal [regio decreto 16 dicembre 1941, n. 1557](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20per%20il%20tempo%20di%20guerra%20dellart.%2081%20del%20regolamento%20sui%20lavori%20del%20Genio%20militare%20approvato%20con%20R.%20decreto%2017%20marzo%201932-X%20n.%20365.%20041U1557.md), e dal [decreto luogotenenziale 24 agosto 1944, n. 235, all'art. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-24;235#art_81) del regolamento sui lavori del Genio militare.
 
 ## Art. 2.
 

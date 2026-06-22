@@ -46,7 +46,7 @@ E M A N A il seguente decreto legislativo:
 
  
 AGGIORNAMENTO (2) 
- Il [D. Lgs. 19 maggio 2000, n. 151](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-56-CE%20relativa%20alla%20commercializzazione%20dei%20materiali%20di%20moltiplicazione%20delle%20piante%20ornamentali.md) ha disposto (con l'art. 13, comma 2) che " Fino all'emanazione del decreto previsto dall'articolo 7, comma 2, si applicano le disposizioni di cui agli articoli 5, comma 1, lettera f), e 14, comma 1, del citato [decreto legislativo n. 535 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;535)."
+ Il [D. Lgs. 19 maggio 2000, n. 151](Attuazione%20della%20direttiva%2098-56-CE%20relativa%20alla%20commercializzazione%20dei%20materiali%20di%20moltiplicazione%20delle%20piante%20ornamentali.md) ha disposto (con l'art. 13, comma 2) che " Fino all'emanazione del decreto previsto dall'articolo 7, comma 2, si applicano le disposizioni di cui agli articoli 5, comma 1, lettera f), e 14, comma 1, del citato [decreto legislativo n. 535 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;535)."
 
 ## Art. 6.
 
@@ -110,7 +110,7 @@ L'ammontare dei diritti dovra' coprire tutti gli oneri necessari all'istituzione
 
  
 AGGIORNAMENTO (2) 
- Il [D. Lgs. 19 maggio 2000, n. 151](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-56-CE%20relativa%20alla%20commercializzazione%20dei%20materiali%20di%20moltiplicazione%20delle%20piante%20ornamentali.md) ha disposto (con l'art. 13, comma 2) che " Fino all'emanazione del decreto previsto dall'articolo 7, comma 2, si applicano le disposizioni di cui agli articoli 5, comma 1, lettera f), e 14, comma 1, del citato [decreto legislativo n. 535 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;535)."
+ Il [D. Lgs. 19 maggio 2000, n. 151](Attuazione%20della%20direttiva%2098-56-CE%20relativa%20alla%20commercializzazione%20dei%20materiali%20di%20moltiplicazione%20delle%20piante%20ornamentali.md) ha disposto (con l'art. 13, comma 2) che " Fino all'emanazione del decreto previsto dall'articolo 7, comma 2, si applicano le disposizioni di cui agli articoli 5, comma 1, lettera f), e 14, comma 1, del citato [decreto legislativo n. 535 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;535)."
 
 ## Art. 15.
 

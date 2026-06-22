@@ -18,7 +18,7 @@ Vista la [legge 6 febbraio 2007, n. 13](../Leggi%20di%20delegazione%20europea/Di
 
 Vista la [legge 12 agosto 1982, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576), concernente riforma della vigilanza sulle assicurazioni;
 
-Visto il [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), recante [codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md);
+Visto il [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), recante [codice delle assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 febbraio 2008;
 
@@ -30,7 +30,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-All'[articolo 1, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
+All'[articolo 1, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
                         a)
                             la lettera d) e' sostituita dalla seguente:
  «d) attivita' riassicurativa: l'assunzione e la gestione dei rischi ceduti da un'impresa di assicurazione o retrocessi da un'impresa di riassicurazione;»;
@@ -62,7 +62,7 @@ All'[articolo 1, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../D
 
 Avvertenza:
 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
 
  Note alle premesse:
@@ -79,11 +79,11 @@ Avvertenza:
 
  2005/68/CE del Parlamento europeo e del Consiglio, del 16 novembre 2005, relativa alla riassicurazione e recante modifica delle [direttive 73/239/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1973;239) e [92/49/CEE del Consiglio nonche' delle direttive](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;49) [98/78/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;78) e [2002/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;83).».
  La [legge 12 agosto 1982, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576) e' pubblicata nella Gazzetta Ufficiale del 20 agosto 1982, n. 229.
- Il [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md) e' pubblicato nella Gazzetta Ufficiale del 13 ottobre 2005, n. 239, S.O.
+ Il [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md) e' pubblicato nella Gazzetta Ufficiale del 13 ottobre 2005, n. 239, S.O.
 
  Nota all'art. 1:
- - Si riporta il testo vigente dell'art. 1, comma 1, del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
- «Art. 1 (Definizioni). - 1. Agli effetti del [codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md) si intendono per:
+ - Si riporta il testo vigente dell'art. 1, comma 1, del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
+ «Art. 1 (Definizioni). - 1. Agli effetti del [codice delle assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md) si intendono per:
  a) assicurazione contro i danni: le assicurazioni indicate all'art. 2, comma 3;
  b) assicurazione sulla vita: le assicurazioni e le operazioni indicate all'art. 2, comma 1;
  c) attivita' assicurativa: l'assunzione e la gestione dei rischi effettuata da un'impresa di assicurazione;
@@ -92,7 +92,7 @@ Avvertenza:
  f) attivita' in regime di stabilimento o rischio assunto in regime di stabilimento: l'attivita' che un'impresa esercita da uno stabilimento situato nel territorio di uno Stato membro assumendo obbligazioni con contraenti aventi il domicilio, ovvero, se persone giuridiche, la sede nello stesso Stato o il rischio che un'impresa assume da uno stabilimento situato nel territorio dello Stato membro in cui e' ubicato il rischio;
  g) autorita' di vigilanza: l'autorita' nazionale incaricata della vigilanza sulle imprese e sugli intermediari e gli altri operatori del settore assicurativo;
  h) carta verde: certificato internazionale di assicurazione emesso da un ufficio nazionale secondo la raccomandazione n. 5 adottata il 25 gennaio 1949 dal sottocomitato dei trasporti stradali del comitato dei trasporti interni della Commissione economica per l'Europa dell'Organizzazione delle Nazioni Unite;
- i) [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md): il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni;
+ i) [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md): il [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e successive modificazioni;
  l) [codice in materia di protezione dei dati personali](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md): il [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md);
  m) CONSAP: la Concessionaria servizi assicurativi pubblici S.p.A.;
  n) credito di assicurazione: ogni importo dovuto da un'impresa di assicurazione ad assicurati, contraenti, beneficiari o altre parti lese aventi diritto ad agire direttamente contro l'impresa di assicurazione e derivante da un contratto di assicurazione o da operazioni di cui all'art. 2, commi 1 e 3, nell'ambito di attivita' di assicurazione diretta, compresi gli importi detenuti in riserva per la copertura a favore dei medesimi aventi diritto allorquando alcuni elementi del debito non sono ancora conosciuti. Sono parimenti considerati crediti di assicurazione i premi detenuti da un'impresa di assicurazione, prima dell'avvio delle procedure di liquidazione dell'impresa stessa, in seguito alla mancata stipulazione o alla risoluzione dei medesimi contratti ed operazioni, in virtu' della legge applicabile a tali contratti e operazioni;
@@ -143,7 +143,7 @@ Avvertenza:
  2) disposizioni contrattuali intese a limitare il risultato economico del contratto tra le parti nel tempo, al fine di raggiungere il trasferimento del rischio previsto;
  vv-ter) societa' veicolo: qualsiasi impresa, con o senza personalita' giuridica, diversa da un'impresa di assicurazione o di riassicurazione, che assume i rischi ceduti da imprese di assicurazione o riassicurazione e che finanzia integralmente la sua esposizione a tali rischi mediante l'emissione di titoli o altri strumenti finanziari per i quali i diritti di rimborso dei detentori sono subordinati agli obblighi di riassicurazione della societa' veicolo;
  zz) stabilimento: la sede legale od una sede secondaria di un'impresa di assicurazione o di riassicurazione;
- aaa) Stato aderente allo spazio economico europeo; uno Stato aderente all'accordo di estensione della normativa dell'Unione europea in materia, fra l'altro, di circolazione delle merci, dei servizi e dei capitali agli Stati appartenenti all'Associazione europea di libero scambio firmato ad Oporto il 2 maggio 1992 e ratificato con [legge 28 luglio 1993, n. 300](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20sullo%20Spazio%20economico%20europeo%20con%20protocolli%20allegati%20e%20dichiarazioni%20fatto%20a%20Oporto%20il%202%20maggio%201992%20e%20del%20protocollo%20di%20adattamento%20di%20detto%20accordo%20_e276372f7d8a.md);
+ aaa) Stato aderente allo spazio economico europeo; uno Stato aderente all'accordo di estensione della normativa dell'Unione europea in materia, fra l'altro, di circolazione delle merci, dei servizi e dei capitali agli Stati appartenenti all'Associazione europea di libero scambio firmato ad Oporto il 2 maggio 1992 e ratificato con [legge 28 luglio 1993, n. 300](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellaccordo%20sullo%20Spazio%20economico%20europeo%20con%20protocolli%20allegati%20e%20dichiarazioni%20fatto%20a%20Oporto%20il%202%20maggio%201992%20e%20del%20protocollo%20di%20adattamento%20di%20detto%20accordo%20_e276372f7d8a.md);
  bbb) Stato membro: uno Stato membro dell'Unione europea o uno Stato aderente allo spazio economico europeo, come tale equiparato allo Stato membro dell'Unione europea;
  ccc) Stato membro dell'obbligazione: lo Stato di cui alla lettera bbb) nel quale il contraente ha il domicilio, ovvero, se il contraente e' una persona giuridica, lo Stato di cui alla lettera bbb) sede della stessa cui si riferisce il contratto;
  ddd) Stato membro di prestazione di servizi: lo Stato di cui alla lettera bbb) dell'obbligazione o in cui e' ubicato il rischio, quando l'obbligazione o il rischio e' assunto da uno stabilimento situato in un altro Stato di cui alla lettera bbb);
@@ -162,9 +162,9 @@ Avvertenza:
  2) una partecipazione, detenuta direttamente o per il tramite di societa' controllate, societa' fiduciarie o per interposta persona, almeno pari al dieci per cento del capitale o dei diritti di voto, ovvero una partecipazione che, pur restando al di sotto del limite sopra indicato, da' comunque la possibilita' di esercitare un'influenza notevole ancorche' non dominante;
  3) un legame in base al quale le stesse persone sono sottoposte al controllo del medesimo soggetto, o comunque sono sottoposte a direzione unitaria in virtu' di un contratto o di una clausola statutaria, oppure quando gli organi di amministrazione sono composti in maggioranza dalle medesime persone, oppure quando esistono legami importanti e durevoli di riassicurazione;
  4) un rapporto di carattere tecnico, organizzativo, finanziario, giuridico e familiare che possa influire in misura rilevante sulla gestione dell'impresa. L'ISVAP, con regolamento, puo' ulteriormente qualificare la definizione di stretti legami, al fine di evitare situazioni di ostacolo all'effettivo esercizio delle funzioni di vigilanza;
- lll) testo unico bancario: il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni;
- mmm) testo unico dell'intermediazione finanziaria: il [decreto legislativo 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e successive modificazioni;
- nnn) testo unico in materia di assicurazioni sugli infortuni sul lavoro e le malattie professionali: il [decreto legislativo 23 febbraio 2000, n. 38](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20assicurazione%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali%20a%20norma%20dellarticolo%2055%20comma%201%20della%20legge%2017%20maggio%201999%20n.%20144.md), e successive modificazioni;
+ lll) testo unico bancario: il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni;
+ mmm) testo unico dell'intermediazione finanziaria: il [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e successive modificazioni;
+ nnn) testo unico in materia di assicurazioni sugli infortuni sul lavoro e le malattie professionali: il [decreto legislativo 23 febbraio 2000, n. 38](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20assicurazione%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali%20a%20norma%20dellarticolo%2055%20comma%201%20della%20legge%2017%20maggio%201999%20n.%20144.md), e successive modificazioni;
  ooo) ufficio centrale italiano: l'ente costituito dalle imprese di assicurazione autorizzate ad esercitare il ramo responsabilita' civile autoveicoli che e' stato abilitato all'esercizio delle funzioni di ufficio nazionale di assicurazione nel territorio della Repubblica ed allo svolgimento degli altri compiti previsti dall'ordinamento comunitario e italiano;
  ppp) ufficio nazionale di assicurazione: l'organizzazione professionale che e' costituita, conformemente alla raccomandazione n. 5 adottata il 25 gennaio 1949 dal sottocomitato dei trasporti stradali del comitato dei trasporti interni della commissione economica per l'Europa dell'Organizzazione delle Nazioni Unite, e che raggruppa imprese di assicurazione che hanno ottenuto in uno Stato l'autorizzazione ad esercitare il ramo responsabilita' civile autoveicoli;
  qqq) unita' da diporto: il natante definito all'[art. 1, comma 3, del decreto legislativo 18 luglio 2005, n. 171](Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md), recante il [codice della nautica da diporto](Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md);
@@ -174,7 +174,7 @@ Avvertenza:
 
 1.
 
-Dopo l'[articolo 37 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente:
+Dopo l'[articolo 37 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente:
  «Art. 37-bis (Riserve tecniche del lavoro indiretto). - 1.
 L'impresa di assicurazione che esercita congiuntamente l'attivita' di riassicurazione costituisce per il lavoro indiretto le riserve tecniche alla fine di ciascun esercizio, al lordo delle retrocessioni, in relazione agli impegni assunti, nel rispetto delle disposizioni stabilite dall'ISVAP con regolamento. Si applica l'articolo 64, comma 2.
  2. Fino all'emanazione dei regolamenti di cui all'articolo 42-bis, comma 1, e 65, comma 3, le imprese costituiscono per il lavoro indiretto le riserve tecniche alla fine di ciascun esercizio, al lordo delle retrocessioni, in relazione agli impegni assunti.
@@ -184,7 +184,7 @@ L'iscrizione in bilancio delle riserve tecniche del lavoro indiretto e' effettua
 
 1.
 
-L'[articolo 38 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 38 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 1, il primo periodo e' sostituto dal seguente: «Le riserve tecniche del lavoro diretto dei rami vita e dei rami danni, nonche' le riserve di perequazione di cui all'articolo 37, comma 7, sono coperte con attivi di proprieta' dell'impresa.»;
                         b)
@@ -192,7 +192,7 @@ L'[articolo 38 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Le
 
 2.
 
-Dopo l'[articolo 42 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti:
+Dopo l'[articolo 42 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti:
  «Art. 42-bis (Attivi a copertura delle riserve tecniche del lavoro indiretto). - 1. Agli attivi a copertura delle riserve tecniche del lavoro indiretto dei rami vita e dei rami danni, nonche' delle riserve di perequazione di cui all'articolo 37, comma 7, si applicano gli articoli 38, 39, 40 e 65-bis. L'ISVAP stabilisce con regolamento le categorie di attivi, compresi gli strumenti finanziari derivati, ammessi a copertura delle riserve tecniche del lavoro indiretto, nonche' le tipologie, le modalita', i limiti di impiego e le relative quote massime.
  2. Fino all'emanazione del regolamento di cui al comma 1, gli attivi a copertura delle riserve tecniche del lavoro indiretto tengono conto del tipo di affari assunti dall'impresa ed in particolare, della natura, dell'ammontare e della cadenza dei pagamenti dei sinistri attesi, in modo tale che sia possibile realizzare condizioni di sufficienza, liquidita', sicurezza, qualita', redditivita' e correlazione degli investimenti.
  3. L'impresa e' tenuta ad una adeguata e diversificata dispersione degli attivi, in modo tale che essa possa rispondere al cambiamento delle condizioni economiche ed in particolare all'andamento dei mercati finanziari e immobiliari o all'impatto dei sinistri catastrofali.
@@ -201,7 +201,7 @@ Dopo l'[articolo 42 del decreto legislativo 7 settembre 2005, n. 209](../Decreti
  3. Fino alla data di entrata in vigore del regolamento previsto dall'articolo 65, comma 3, e comunque non oltre il 1° luglio 2008, alle imprese di cui al comma 1 si applicano le disposizioni stabilite dall'articolo 42-bis, commi 2 e 3.».
 
 Nota all'art. 3:
- - Si riporta il testo vigente dell'art. 38, del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
+ - Si riporta il testo vigente dell'art. 38, del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
  «Art. 38 (Copertura delle riserve tecniche e localizzazione delle attivita). - 1. Le riserve tecniche del lavoro diretto dei rami vita e dei rami danni, nonche' le riserve di perequazione di cui all'art. 37, comma 7, sono coperte con attivi di proprie a e impresa.
  2. L'impresa puo' coprire le riserve tecniche esclusivamente con le categorie di attivi, compresi gli strumenti finanziari derivati, che sono ammessi nel regolamento adottato dall'ISVAP. L'istituto stabilisce, nel medesimo regolamento, le tipologie, le modalita', i limiti di impiego e le relative quote massime nel rispetto delle disposizioni previste dall'ordinamento comunitario.
  3. L'ISVAP, nel caso in cui rilevi che per uno o piu' attivi non sono state osservate le regole di cui al comma 2, comunica all'impresa l'inammissibilita' ad essere destinati, in tutto o in parte, a copertura delle riserve tecniche.
@@ -213,7 +213,7 @@ Nota all'art. 3:
 
 1.
 
-L'[articolo 44 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 44 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 2, lettera b), sono aggiunte, in fine, le seguenti parole: «, ne' classificate come riserve di perequazione»;
                         b)
@@ -221,7 +221,7 @@ L'[articolo 44 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Le
 
 2.
 
-Dopo l'[articolo 44 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente:
+Dopo l'[articolo 44 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente:
  «Art. 44-bis (Margine di solvibilita' delle imprese di assicurazione vita esercenti anche attivita' riassicurative). - 1.
 L'impresa di assicurazione autorizzata all'esercizio dei rami vita che esercita congiuntamente l'attivita' di riassicurazione, limitatamente alle accettazioni in riassicurazione, per il calcolo e la costituzione del margine di solvibilita' applica gli articoli 66-bis, 66-ter, 66-quater e 66-quinquies nel caso in cui ricorra una delle seguenti condizioni:
  a) i premi di riassicurazione raccolti superano il 10 per cento dei premi totali;
@@ -230,14 +230,14 @@ L'impresa di assicurazione autorizzata all'esercizio dei rami vita che esercita 
 
 3.
 
-All'[articolo 46 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), dopo il comma 3 e' inserito il seguente:
+All'[articolo 46 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), dopo il comma 3 e' inserito il seguente:
  «3-bis. L'impresa di assicurazione autorizzata all'esercizio dei rami danni che esercita congiuntamente l'attivita' di riassicurazione dispone, rispetto a tutte le attivita' esercitate, della quota di garanzia conformemente all'articolo 66-sexies, nel caso in cui ricorra una delle seguenti condizioni:
  a) i premi di riassicurazione raccolti superano il 10 per cento dei premi totali;
  b) i premi di riassicurazione raccolti superano cinquanta milioni di euro;
  c) le riserve tecniche relative alle accettazioni in riassicurazione superano il 10 per cento delle riserve tecniche totali.».
 
 Nota all'art. 4:
- - Si riporta il testo vigente dell'art. 44 e 46 del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto.
+ - Si riporta il testo vigente dell'art. 44 e 46 del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto.
  «Art. 44 (Margine di solvibilita). - 1. L'impresa dispone costantemente di un margine di solvibilita' sufficiente per la complessiva attivita' esercitata nel territorio della Repubblica ed all'estero. L'ISVAP disciplina, con regolamento, le regole tecniche per la determinazione e il calcolo del margine di solvibilita' richiesto, secondo i rami esercitati, nel rispetto delle disposizioni del presente capo e di quelle previste dalla normativa in materia di vigilanza supplementare delle imprese appartenenti ad un conglomerato finanziario.
  2. Il margine di solvibilita' disponibile e' rappresentato dal patrimonio netto dell'impresa al netto degli elementi immateriali, libero da qualsiasi impegno prevedibile, e comprende:
  a) il capitale sociale versato o, se si tratta di societa' di mutua assicurazione, il fondo di garanzia versato;
@@ -263,7 +263,7 @@ Nota all'art. 4:
 
 1.
 
-L'[articolo 57 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 57 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 1, le parole: «, salvo quanto previsto dal comma 4» sono soppresse;
                         b)
@@ -275,7 +275,7 @@ L'[articolo 57 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Le
 
 2.
 
-Dopo l'[articolo 57 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente:
+Dopo l'[articolo 57 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente:
  «57-bis (Societa' veicolo). - 1. L'esercizio dell'attivita' nel territorio della Repubblica da parte di societa' veicolo aventi sede legale nel territorio della Repubblica e' subordinato alla preventiva autorizzazione dell'ISVAP.
  2. Con regolamento adottato ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), su proposta del Ministro dello sviluppo economico, sono stabilite le condizioni per l'accesso e per l'esercizio dell'attivita' da parte delle societa' veicolo. In particolare, il regolamento stabilisce disposizioni con riguardo a:
  a) la portata dell'autorizzazione;
@@ -287,7 +287,7 @@ Dopo l'[articolo 57 del decreto legislativo 7 settembre 2005, n. 209](../Decreti
  g) i requisiti di solvibilita' delle societa' veicolo.».
 
 Nota all'art. 5:
- - Si riporta il testo vigente dell'art. 57, del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
+ - Si riporta il testo vigente dell'art. 57, del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
  «Art. 57 (Attivita' di riassicurazione). - 1.
  L'attivita' di riassicurazione consiste nell'accettazione di rischi ceduti da un'impresa di assicurazione o da un'altra impresa di riassicurazione ed e' riservata alle imprese di riassicurazione.
  2. Le imprese di riassicurazione limitano l'oggetto sociale all'esercizio della riassicurazione ed alle operazioni connesse o strumentali. Rientrano in tali operazioni la funzione di impresa di partecipazione e le attivita' svolte nell'ambito settore finanziario ai sensi dell'art. 2, punto 8), della [direttiva 2002/87/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;87).
@@ -298,15 +298,15 @@ Nota all'art. 5:
 
 1.
 
-All'[articolo 58, comma 3, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), le parole: «, nonche' per quello degli altri Stati membri o di Stati terzi.» sono sostituite dalle seguenti: «, per quello degli altri Stati membri, nel rispetto delle disposizioni relative alle condizioni di accesso in regime di stabilimento o di prestazione di servizi, nonche' per quello degli Stati terzi, nel rispetto della legislazione di tali Stati.».
+All'[articolo 58, comma 3, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), le parole: «, nonche' per quello degli altri Stati membri o di Stati terzi.» sono sostituite dalle seguenti: «, per quello degli altri Stati membri, nel rispetto delle disposizioni relative alle condizioni di accesso in regime di stabilimento o di prestazione di servizi, nonche' per quello degli Stati terzi, nel rispetto della legislazione di tali Stati.».
 
 2.
 
-All'[articolo 59, comma 1, lettera c), del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), le parole: «euro un milione e cinquecentomila» sono sostituite dalle seguenti: «euro tre milioni».
+All'[articolo 59, comma 1, lettera c), del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), le parole: «euro un milione e cinquecentomila» sono sostituite dalle seguenti: «euro tre milioni».
 
 3.
 
-Dopo l'[articolo 59 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti:
+Dopo l'[articolo 59 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti:
  «Art. 59-bis (Estensione ad altri rami). - 1. L'impresa gia' autorizzata all'esercizio dell'attivita' riassicurativa in uno o piu' rami vita o danni che intende estendere l'attivita' ad altri rami indicati nell'articolo 2, commi 1 o 3, deve essere preventivamente autorizzata dall'ISVAP. Si applica l'articolo 59, comma 2.
  2. Per ottenere l'estensione dell'autorizzazione l'impresa da' prova di disporre interamente del capitale sociale minimo previsto per l'esercizio dei nuovi rami e di essere in regola con le disposizioni relative alle riserve tecniche, al margine di solvibilita' ed alla quota di garanzia.
  3. L'ISVAP determina, con regolamento, la procedura per l'estensione dell'autorizzazione ad altri rami e il contenuto del programma di attivita'.
@@ -326,7 +326,7 @@ L'ISVAP valuta la rilevanza delle informazioni ricevute in relazione alla perman
  3. All'impresa che intende effettuare operazioni in regime di liberta' di prestazione di servizi in uno Stato terzo si applica l'articolo 59-quater.».
 
 Nota all'art. 6:
- - Si riporta il testo vigente dell'articoli 58 e 59 del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
+ - Si riporta il testo vigente dell'articoli 58 e 59 del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
  Art. 58 (Autorizzazione). - 1. L'impresa che ha la sede legale nel territorio della Repubblica e che intende esercitare esclusivamente l'attivita' di riassicurazione e' autorizzata dall'ISVAP, con provvedimento da pubblicare nel Bollettino, alle condizioni previste dall'art. 59.
  2. L'autorizzazione e' rilasciata per uno o piu' dei rami vita o per uno o piu' dei rami danni oppure, congiuntamente, per uno o piu' dei rami vita e danni.
  3. L'autorizzazione e' valida per il territorio della Repubblica, per quello degli altri Stati membri, nel rispetto delle disposizioni relative alle condizioni di accesso in regime di stabilimento di prestazione di servizi, nonche' per quello degli Stati terzi, nel rispetto della legislazione di tali Stati.».
@@ -347,7 +347,7 @@ Nota all'art. 6:
 
 1.
 
-L'[articolo 60 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente:
+L'[articolo 60 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente:
  «Art. 60 (Attivita' in regime di stabilimento delle imprese aventi sede legale in un altro Stato membro). - 1. L'accesso all'attivita' riassicurativa in regime di stabilimento nel territorio della Repubblica, da parte di un'impresa avente la sede legale in un altro Stato membro, e' subordinato alla comunicazione all'ISVAP, da parte dell'autorita' di vigilanza di tale Stato delle informazioni e degli adempimenti previsti dalle disposizioni dell'ordinamento comunitario.
  2. Il rappresentante generale della sede secondaria deve essere munito di un mandato comprendente espressamente anche i poteri di rappresentare l'impresa in giudizio e davanti a tutte le autorita' della Repubblica, nonche' quello di concludere e sottoscrivere i contratti e gli altri atti relativi alle attivita' esercitate nel territorio della Repubblica. Il rappresentante generale deve avere domicilio all'indirizzo della sede secondaria. Qualora la rappresentanza sia conferita ad una persona giuridica, questa deve avere la sede legale nel territorio della Repubblica e deve a sua volta designare come proprio rappresentante una persona fisica che abbia domicilio in Italia e che sia munita di un mandato comprendente i medesimi poteri.
  3. L'impresa puo' insediare la sede secondaria e dare inizio all'attivita' nel territorio della Repubblica dal momento in cui riceve notizia dall'autorita' di vigilanza dello Stato di origine dell'avvenuta trasmissione all'ISVAP della comunicazione di cui al comma 1.
@@ -355,7 +355,7 @@ L'[articolo 60 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Le
 
 2.
 
-Dopo l'[articolo 60 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente:
+Dopo l'[articolo 60 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente:
  «Art. 60-bis (Attivita' in regime di stabilimento delle imprese aventi sede legale in uno Stato terzo). - 1. L'impresa avente sede legale in uno Stato terzo, qualora intenda esercitare nel territorio della Repubblica l'attivita' riassicurativa in regime di stabilimento, e' preventivamente autorizzata dall'ISVAP con provvedimento pubblicato nel Bollettino.
  2. L'autorizzazione e' efficace limitatamente al territorio nazionale, salva l'applicazione delle disposizioni sulle condizioni per l'accesso all'attivita' all'estero in regime di liberta' di prestazione di servizi.
  3. L'impresa di cui al comma 1 deve insediare nel territorio della Repubblica una sede secondaria e nominare un rappresentante generale che abbia residenza in Italia e che sia fornito dei poteri previsti dall'articolo 60, comma 2, nonche' del potere di compiere le operazioni necessarie per la costituzione ed il vincolo del deposito cauzionale previsto dal comma 5. Il rappresentante generale o, se diversa, la persona preposta alla gestione effettiva della sede secondaria deve essere in possesso, per la durata dell'incarico, dei requisiti di onorabilita' e professionalita' previsti dall'articolo 76.
@@ -365,10 +365,10 @@ Dopo l'[articolo 60 del decreto legislativo 7 settembre 2005, n. 209](../Decreti
 
 3.
 
-All'[articolo 61 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' aggiunto il seguente comma: «1-bis. Ai fini dell'esercizio dell'attivita' riassicurativa in regime di liberta' di prestazione di servizi nel territorio della Repubblica si applica l'articolo 24, comma 4.».
+All'[articolo 61 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' aggiunto il seguente comma: «1-bis. Ai fini dell'esercizio dell'attivita' riassicurativa in regime di liberta' di prestazione di servizi nel territorio della Repubblica si applica l'articolo 24, comma 4.».
 
 Nota all'art. 7:
- - Si riporta il testo vigente dell'art. 61, del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
+ - Si riporta il testo vigente dell'art. 61, del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
  «Art. 61 (Attivita' in regime di prestazione di servizi). 1. E' consentito, senza necessita' di autorizzazione, l'accesso e l'esercizio dell'attivita' di riassicurazione in regime di libera prestazione di servizi nel territorio della Repubblica da parte delle imprese aventi la sede legale in un altro Stato membro o in uno Stato terzo.
  1-bis. Ai fini dell'esercizio dell'attivita' riassicurativa in regime di liberta' di prestazione di servizi nel territorio della Repubblica si applica l'art. 24, comma 4.».
 
@@ -376,7 +376,7 @@ Nota all'art. 7:
 
 1.
 
-L'[articolo 62 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 62 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             il comma 1 e' sostituto dal seguente:
  «1. L'ISVAP determina, con regolamento, le disposizioni relative alla formazione e alla copertura delle riserve tecniche e al margine di solvibilita' per l'esercizio dell'attivita' riassicurazione nel rispetto dei principi generali previsti dagli articoli 63, 64, 65, 66, 66-bis, 66-ter, 66-quater, 66-quinquies, 66-sexies e 66-septies, avuto riguardo all'esigenza di sana e prudente gestione dell'impresa.»;
@@ -387,7 +387,7 @@ L'[articolo 62 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Le
 
 2.
 
-L'[articolo 64 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente:
+L'[articolo 64 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente:
  «Art. 64 (Riserve tecniche). - 1. L'impresa di riassicurazione costituisce riserve tecniche alla fine di ciascun esercizio, al lordo delle retrocessioni, sufficienti in relazione agli impegni assunti per l'insieme delle sue attivita'.
  2. L'ammontare delle riserve tecniche e' calcolato in conformita' agli articoli 36 e 37 ed alle relative disposizioni di attuazione. A tale fine, l'iscrizione in bilancio delle riserve tecniche e' effettuata, in linea di principio, sulla base di quanto comunicato dalle imprese cedenti.
  3. Le imprese autorizzate ad esercitare la riassicurazione nel ramo credito costituiscono una riserva di perequazione, destinata a coprire l'eventuale saldo tecnico negativo conservato del ramo credito alla fine di ciascun esercizio, calcolata secondo il metodo n. 1 di cui al punto D dell'allegato alla [direttiva 73/239/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1973;239).
@@ -395,7 +395,7 @@ L'[articolo 64 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Le
 
 3.
 
-L'[articolo 65 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente:
+L'[articolo 65 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente:
  «Art. 65 (Attivi a copertura delle riserve tecniche). - 1. Le riserve tecniche e le riserve di perequazione di cui all'articolo 64 sono coperte con attivi di proprieta' dell'impresa. Nella scelta degli attivi l'impresa:
  a) tiene conto del tipo di affari assunti e, in particolare, della natura, dell'ammontare e della cadenza dei pagamenti dei sinistri attesi, in modo da garantire condizioni di sufficienza, liquidita', sicurezza, qualita', redditivita' e correlazione degli investimenti;
  b) e' tenuta ad una adeguata e diversificata dispersione degli attivi, in modo tale che essa possa rispondere al cambiamento delle condizioni economiche ed in particolare all'andamento dei mercati finanziari e immobiliari o all'impatto dei sinistri catastrofali.
@@ -409,18 +409,18 @@ L'impresa valuta l'impatto che situazioni irregolari del mercato hanno sui suoi 
 
 4.
 
-Dopo l'[articolo 65 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente:
+Dopo l'[articolo 65 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente:
  «Art. 65-bis (Registro delle attivita' a copertura delle riserve tecniche). - 1. L'impresa di riassicurazione deve tenere un registro da cui risultano le attivita' a copertura delle riserve tecniche dei rami vita e dei rami danni. In qualsiasi momento l'importo degli attivi iscritti deve essere, tenendo conto delle annotazioni dei movimenti, almeno pari all'ammontare delle riserve tecniche.
  2. Le attivita' poste a copertura delle riserve tecniche ed iscritte nel registro sono riservate in modo esclusivo all'adempimento delle obbligazioni assunte dall'impresa di riassicurazione con i contratti ai quali le riserve stesse si riferiscono. Le attivita' di cui al presente comma costituiscono patrimonio separato rispetto alle altre attivita' detenute dall'impresa di riassicurazione e non iscritte nel registro.
  3. L'impresa di riassicurazione comunica all'ISVAP la situazione delle attivita' risultante dal registro. L'ISVAP determina, con regolamento, le disposizioni per la formazione e la tenuta del registro, con particolare riguardo all'annotazione delle operazioni effettuate, nonche' i termini, le modalita' e gli schemi per le comunicazioni periodiche.».
 
 5.
 
-All'[articolo 66, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), le parole: «e dei requisiti di adeguatezza patrimoniale» sono sostituite dalle seguenti: «e della costituzione del margine di solvibilita».
+All'[articolo 66, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), le parole: «e dei requisiti di adeguatezza patrimoniale» sono sostituite dalle seguenti: «e della costituzione del margine di solvibilita».
 
 6.
 
-Dopo l'[articolo 66 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti:
+Dopo l'[articolo 66 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti:
  «Art. 66-bis (Margine di solvibilita' disponibile). 1. L'impresa di riassicurazione dispone costantemente di un margine di solvibilita' sufficiente per la complessiva attivita' esercitata nel territorio della Repubblica ed all'estero.
  2. L'ISVAP disciplina, con regolamento, le regole tecniche per la determinazione del margine di solvibilita' disponibile nel rispetto delle disposizioni dell'ordinamento comunitario relative alla riassicurazione e di quelle previste dalla normativa in materia di vigilanza supplementare delle imprese appartenenti ad un conglomerato finanziario.
  3. Il margine di solvibilita' disponibile e' rappresentato dal patrimonio netto dell'impresa al netto degli elementi immateriali, libero da qualsiasi impegno prevedibile, e comprende gli elementi previsti dall'articolo 44, commi 2 e 3.
@@ -448,10 +448,10 @@ L'ISVAP comunica con provvedimento la misura dell'incremento.
 
 7.
 
-Il regolamento di cui all'[articolo 65, comma 3, del codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come introdotto dal comma 3 del presente articolo e' adottato entro il 1° luglio 2008. In caso di mancata adozione del regolamento di cui al periodo precedente si applicano comunque i criteri di cui ai commi 1 e 2 dello stesso articolo 65.
+Il regolamento di cui all'[articolo 65, comma 3, del codice delle assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md), come introdotto dal comma 3 del presente articolo e' adottato entro il 1° luglio 2008. In caso di mancata adozione del regolamento di cui al periodo precedente si applicano comunque i criteri di cui ai commi 1 e 2 dello stesso articolo 65.
 
 Nota all'art. 8.
- - Si riporta il testo vigente degli articoli 62 e 66, del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
+ - Si riporta il testo vigente degli articoli 62 e 66, del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
  «Art. 62 (Esercizio dell'attivita' di riassicurazione).
  - 1. L'ISVAP determina, con regolamento, le disposizioni relative alla formazione e alla copertura delle riserve tecniche e al margine di solvibilita' per l'esercizio dell'attivita' riassicurazione nel rispetto dei principi generali previsti dagli articoli 63, 64, 65, 66, 66-bis, 66-ter, 66-quater, 66-quinquies, 66-sexies e 66-septies, avuto riguardo all'esigenza di sana e prudente gestione dell'impresa.
  2. L'impresa di assicurazione che esercita congiuntamente l'attivita' di riassicurazione rimane soggetta alla disciplina di cui al titolo III.».
@@ -462,21 +462,21 @@ Nota all'art. 8.
 
 1.
 
-La rubrica del capo II del titolo VI del [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituita dalla seguente: «IMPRESE DI RIASSICURAZIONE AVENTI LA SEDE LEGALE IN UNO STATO TERZO».
+La rubrica del capo II del titolo VI del [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituita dalla seguente: «IMPRESE DI RIASSICURAZIONE AVENTI LA SEDE LEGALE IN UNO STATO TERZO».
 
 2.
 
-L'[articolo 67 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente:
+L'[articolo 67 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente:
  «Art. 67 (Attivita' in regime di stabilimento). - 1. L'ISVAP determina, con regolamento, le disposizioni relative alla formazione e alla copertura delle riserve tecniche e al margine di solvibilita' della sede secondaria, ai fini dell'esercizio dell'attivita' di riassicurazione nel territorio della Repubblica, nel rispetto dei principi generali previsti dagli articoli 63, 64, 65, 66, 66-bis, 66-ter, 66-quater, 66-quinquies, 66-sexies e 66-septies, avuto riguardo all'esigenza di sana e prudente gestione dell'impresa.».
 
 ## Art. 10. — Disposizioni in materia di bilanci
 
 1.
 
-All'[articolo 88, comma 2, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), le parole: «ed alle sedi secondarie di imprese aventi sede legale in uno Stato membro autorizzate ad esercitare nel territorio della Repubblica la sola riassicurazione» sono soppresse.
+All'[articolo 88, comma 2, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), le parole: «ed alle sedi secondarie di imprese aventi sede legale in uno Stato membro autorizzate ad esercitare nel territorio della Repubblica la sola riassicurazione» sono soppresse.
 
 Nota all'art. 10:
- - Si riporta il testo vigente dell'art. 88, del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
+ - Si riporta il testo vigente dell'art. 88, del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
  «Art. 88 (Disposizioni applicabili). - 1. Le imprese di assicurazione e di riassicurazione che hanno sede legale nel territorio della Repubblica redigono il bilancio secondo la disciplina prevista nei capi I, II e III del presente titolo.
  2. Le disposizioni sul bilancio delle imprese di assicurazione e di riassicurazione si applicano anche alle sedi secondarie di imprese aventi sede legale in uno Stato terzo autorizzate ad esercitare nel territorio della Repubblica le assicurazioni nei rami vita o nei rami danni ovvero la riassicurazione.
  3. Le disposizioni relative ai rami vita si applicano anche alle imprese di assicurazione che esercitano solo l'attivita' nel ramo malattia esclusivamente o principalmente secondo i metodi dell'assicurazione dei rami vita.».
@@ -485,11 +485,11 @@ Nota all'art. 10:
 
 1.
 
-Alla rubrica dell'[articolo 195 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), dopo la parola: «riassicurazione» e' inserita la seguente: «italiane».
+Alla rubrica dell'[articolo 195 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), dopo la parola: «riassicurazione» e' inserita la seguente: «italiane».
 
 2.
 
-L'[articolo 195 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 195 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 2, dopo la parola: «situazione» e inserita la seguente: «tecnica» e dopo le parole: «copertura delle stesse» sono aggiunte, in fine, le seguenti: «, nonche' al possesso del margine di solvibilita»;
                         b)
@@ -498,7 +498,7 @@ L'[articolo 195 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
 
 3.
 
-Dopo l'[articolo 195 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti:
+Dopo l'[articolo 195 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti:
  «Art. 195-bis (Imprese di riassicurazione di altri Stati membri). - 1. Le imprese di riassicurazione che hanno la sede legale in altri Stati membri sono soggette alla vigilanza prudenziale della autorita' dello Stato membro di origine anche per l'attivita' svolta in regime di stabilimento o in regime di liberta' di prestazione di servizi nel territorio della Repubblica.
  2. Fermo restando quanto disposto al comma 1, l'ISVAP, qualora accerti che l'impresa di riassicurazione non rispetta le disposizioni della legge italiana che e' tenuta ad osservare, ne contesta la violazione e le ordina di conformarsi alle norme di legge e di attuazione.
  3. Qualora l'impresa non si conformi alle norme di legge e di attuazione, l'ISVAP ne informa l'autorita' di vigilanza dello Stato membro di origine, chiedendo che vengano adottate le misure necessarie a far cessare le violazioni.
@@ -510,10 +510,10 @@ Dopo l'[articolo 195 del decreto legislativo 7 settembre 2005, n. 209](../Decret
 
 4.
 
-All'[articolo 197, comma 4, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), le parole: «di altri Stati membri o» sono soppresse.
+All'[articolo 197, comma 4, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), le parole: «di altri Stati membri o» sono soppresse.
 
 Nota all'art. 11:
- - Si riporta il testo vigente degli articoli 195 e 197, del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
+ - Si riporta il testo vigente degli articoli 195 e 197, del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
  «Art. 195 (Imprese di riassicurazione italiane). - 1.
  Le imprese di riassicurazione che hanno la sede legale nel territorio della Repubblica sono soggette alla vigilanza dell'ISVAP sia per l'attivita' esercitata in Italia, sia per quella svolta in regime di prestazione di servizi nel territorio degli altri Stati membri o in quello di Stati terzi.
  2. Nei confronti delle imprese di cui al comma 1, l'ISVAP esercita le funzioni di vigilanza prudenziale, avendo riguardo alla costante verifica della situazione tecnica patrimoniale e finanziaria dell'impresa, con particolare riferimento alla sufficienza delle riserve tecniche in rapporto all'insieme dell'attivita' svolta ed alla disponibilita' di attivi congrui ai fini dell'integrale copertura delle stesse, nonche' al possesso del margine di solvibilita'.
@@ -527,26 +527,26 @@ Nota all'art. 11:
 
 1.
 
-All'[articolo 198 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), nei commi 2, 3 e 5, lettera d), le parole: «delle attivita' a copertura delle riserve tecniche e» sono soppresse.
+All'[articolo 198 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), nei commi 2, 3 e 5, lettera d), le parole: «delle attivita' a copertura delle riserve tecniche e» sono soppresse.
 
 2.
 
-All'[articolo 199 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), nei commi 2, 3, lettera b), 4, lettera b) e 5, lettera b), le parole: «delle attivita' a copertura delle riserve tecniche e» sono soppresse.
+All'[articolo 199 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), nei commi 2, 3, lettera b), 4, lettera b) e 5, lettera b), le parole: «delle attivita' a copertura delle riserve tecniche e» sono soppresse.
 
 3.
 
-All'[articolo 200, comma 4, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), le parole: «delle attivita' a copertura delle riserve tecniche e» sono soppresse.
+All'[articolo 200, comma 4, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), le parole: «delle attivita' a copertura delle riserve tecniche e» sono soppresse.
 
 4.
 
-All'[articolo 201 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), nei commi 2 e 4, lettera b), le parole: «delle attivita' a copertura delle riserve tecniche e» sono soppresse.
+All'[articolo 201 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), nei commi 2 e 4, lettera b), le parole: «delle attivita' a copertura delle riserve tecniche e» sono soppresse.
 
 5.
 
-All'[articolo 202, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), le parole: «in un altro Stato membro o» e «delle attivita' a copertura delle riserve tecniche e» sono soppresse.
+All'[articolo 202, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), le parole: «in un altro Stato membro o» e «delle attivita' a copertura delle riserve tecniche e» sono soppresse.
 
 Nota all'art. 12.
- - Si riporta il testo vigente degli articoli 199, 200, 201 e 202, del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
+ - Si riporta il testo vigente degli articoli 199, 200, 201 e 202, del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
  «Art. 198 (Trasferimento del portafoglio di imprese di assicurazione italiane). - 1. Il trasferimento, parziale o totale, del portafoglio dell'impresa di assicurazione con sede legale nel territorio della Repubblica e' sottoposto, a cura della cedente, all'autorizzazione preventiva dell'ISVAP, secondo la procedura stabilita con regolamento, con provvedimento da pubblicare nel Bollettino.
  2. Se il portafoglio e' trasferito ad un'impresa di assicurazione che ha sede legale nel territorio della Repubblica, l'ISVAP verifica che l'impresa cessionaria disponga dell'autorizzazione necessaria all'esercizio delle attivita' trasferite e che disponga, tenuto conto del trasferimento, del margine di solvibilita' richiesto.
  Quando il portafoglio comprende obbligazioni e rischi assunti al di fuori del territorio della Repubblica, l'ISVAP verifica inoltre che l'impresa soddisfi le condizioni previste per l'accesso all'attivita' in regime di stabilimento o di prestazione di servizi nello Stato membro dell'impresa cedente. Se il trasferimento comprende il portafoglio di sedi secondarie situate in altri Stati membri, e' necessario il parere favorevole delle autorita' di vigilanza interessate. Se il trasferimento comprende contratti stipulati in altri Stati membri in liberta' di prestazione di servizi, e' altresi' necessario il parere favorevole delle autorita' di vigilanza degli Stati membri dell'obbligazione e di ubicazione del rischio.
@@ -598,7 +598,7 @@ Nota all'art. 12.
 
 1.
 
-L'[articolo 203 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 203 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             all'alinea del comma 1, dopo le parole: «impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
                         b)
@@ -612,15 +612,15 @@ L'[articolo 203 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
 
 2.
 
-Alla rubrica dell'[articolo 204 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione».
+Alla rubrica dell'[articolo 204 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione».
 
 3.
 
-All'[articolo 204, comma 1, lettera a), del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «impresa di assicurazione» sono inserite le seguenti: «di riassicurazione,».
+All'[articolo 204, comma 1, lettera a), del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «impresa di assicurazione» sono inserite le seguenti: «di riassicurazione,».
 
 4.
 
-L'[articolo 205 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 205 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 1, dopo le parole: «imprese di assicurazioni» sono inserite le seguenti: «o di riassicurazione»;
                         b)
@@ -628,7 +628,7 @@ L'[articolo 205 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
 
 5.
 
-L'[articolo 206 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 206 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             all'alinea del comma 1, dopo le parole: «un'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione» e dopo le parole: «dall'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
                         b)
@@ -646,7 +646,7 @@ L'[articolo 206 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
 
 6.
 
-L'[articolo 207 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 207 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 1, dopo le parole: «un'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
                         b)
@@ -654,7 +654,7 @@ L'[articolo 207 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
 
 7.
 
-L'[articolo 208 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 208 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             la lettera a) del comma 1 e' sostituita dalla seguente:
  «a) di ogni autorizzazione all'esercizio dell'attivita' assicurativa o riassicurativa rilasciata ad un'impresa di assicurazione o di riassicurazione di nuova costituzione che sia controllata, direttamente o indirettamente, da imprese di assicurazione o di riassicurazione aventi la sede legale in uno Stato terzo;»;
@@ -666,7 +666,7 @@ L'[articolo 208 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
                             al comma 4, dopo le parole: «in cui imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione», dopo le parole: «una impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione» e dopo le parole: «in imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione».
 
 Nota all'art. 13:
- - Si riporta il testo vigente degli articoli 203, 204, 205, 206, 207 e 208, del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
+ - Si riporta il testo vigente degli articoli 203, 204, 205, 206, 207 e 208, del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
  «Art. 203 (Autorizzazione relativa all'esercizio dell'attivita' assicurativa). - 1. L'ISVAP consulta in via preliminare le autorita' competenti degli altri Stati membri in merito al rilascio dell'autorizzazione all'esercizio dell'attivita' richiesta da qualsiasi impresa di assicurazione o di riassicurazione che si trovi in una delle seguenti condizioni:
  a) sia controllata da un'impresa di assicurazione o di riassicurazione autorizzata in un altro Stato membro;
  b) sia controllata da un'impresa che controlla un'altra impresa di assicurazione o di riassicurazione autorizzata in un altro Stato membro;
@@ -707,14 +707,14 @@ Nota all'art. 13:
 
 1.
 
-L'[articolo 210 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente:
+L'[articolo 210 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente:
  «Art. 210 (Ambito di applicazione). - 1. Per la vigilanza supplementare sulle imprese di assicurazione o di riassicurazione che hanno sede legale nel territorio della Repubblica e che siano controllanti o partecipanti in almeno un'impresa di assicurazione o di riassicurazione, in un'impresa di assicurazione o di riassicurazione aventi sede legale in uno Stato terzo, si applicano le disposizioni di cui all'articolo 217.
  2. Per la vigilanza supplementare sulle imprese di assicurazione o di riassicurazione che hanno sede legale nel territorio della Repubblica e che siano controllate da una impresa di partecipazione assicurativa, da un'impresa di assicurazione o di riassicurazione aventi sede legale in uno Stato terzo, si applicano le disposizioni di cui all'articolo 218.
  3. Per la vigilanza supplementare sulle sedi secondarie che sono istituite nel territorio della Repubblica da imprese di assicurazione o di riassicurazione che hanno sede legale in uno Stato terzo, si applicano le disposizioni di cui all'articolo 218, salvo, per le imprese di assicurazione, che le medesime sedi siano gia' soggette alla vigilanza complessiva di solvibilita' esercitata dall'autorita' di un altro Stato membro.».
 
 2.
 
-L'[articolo 211 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 211 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 1, dopo le parole: «sull'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
                         b)
@@ -725,7 +725,7 @@ L'[articolo 211 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
                             al comma 1, lettera c), dopo le parole: «un'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione».
 
 Nota all'art. 14.
- - Si riporta il testo vigente dell'art. 211, del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
+ - Si riporta il testo vigente dell'art. 211, del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
  «Art. 211 (Area della vigilanza supplementare). - 1.
  Sono incluse nell'area della vigilanza supplementare sull'impresa di assicurazione o di riassicurazione:
  a) le imprese controllate o partecipate dall'impresa di assicurazione o di riassicurazione di cui all'art. 210;
@@ -739,7 +739,7 @@ Nota all'art. 14.
 
 1.
 
-L'[articolo 212 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 212 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 1, sono aggiunte, in fine, le parole: «o di riassicurazione»;
                         b)
@@ -747,7 +747,7 @@ L'[articolo 212 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
 
 2.
 
-L'[articolo 213 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 213 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 1, dopo le parole: «sull'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
                         b)
@@ -755,7 +755,7 @@ L'[articolo 213 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
 
 3.
 
-L'[articolo 214 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 214 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             all'alinea del comma 1, dopo le parole: «sull'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
                         b)
@@ -770,7 +770,7 @@ L'[articolo 214 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
                             al comma 3, dopo le parole: «sull'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione».
 
 Nota all'art. 15:
- - Si riporta il testo vigente degli articoli 212, 213 e 214 del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
+ - Si riporta il testo vigente degli articoli 212, 213 e 214 del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
  «Art. 212 (Procedure di controllo interno). - 1. Le imprese di cui all'art. 210 instaurano adeguate procedure di controllo interno, individuando una funzione per la produzione dei dati e delle informazioni utili ai fini dell'esercizio della vigilanza supplementare sull'impresa di assicurazione o di riassicurazione.
  2. Le imprese di cui all'art. 211, comma 1, sono tenute a fornire alla capogruppo le informazioni da questa richieste ai fini dell'esercizio della vigilanza supplementare sull'impresa di assicurazione o di riassicurazione o sul gruppo assicurativo.».
  «Art. 213 (Vigilanza informativa). - 1. Le imprese di cui all'art. 210 trasmettono all'ISVAP, con le modalita' ed i termini da esso stabiliti con regolamento, i dati e le informazioni utili all'esercizio della vigilanza supplementare sull'impresa di assicurazione o di riassicurazione o sul gruppo assicurativo.
@@ -786,7 +786,7 @@ Nota all'art. 15:
 
 1.
 
-L'[articolo 215 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 215 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             il comma 1 e' sostituito dal seguente:
  «1. Le imprese di assicurazione e di riassicurazione che hanno sede legale nel territorio della Repubblica, le sedi secondarie istituite nel territorio della Repubblica da imprese di assicurazione o di riassicurazione aventi sede legale in uno Stato terzo, sono soggette alla vigilanza dell'ISVAP sulle operazioni infragruppo che sono realizzate tra le medesime entita' e le imprese di cui all'articolo 211, comma 1, o che intercorrono con una persona fisica che controlla o detiene una partecipazione nell'impresa di assicurazione o di riassicurazione o in un'impresa inclusa nell'area della vigilanza supplementare.»;
@@ -799,7 +799,7 @@ L'[articolo 215 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
 
 2.
 
-L'[articolo 216 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 216 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 2, le parole: «comma 3» sono sostituite dalle seguenti: «comma 4» e dopo le parole: «prestazioni assicurative» sono inserite le parole: «o per gli interessi delle imprese di assicurazione cedenti»;
                         b)
@@ -807,7 +807,7 @@ L'[articolo 216 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
  «4. L'ISVAP, qualora accerti che le operazioni soggette a comunicazione periodica successiva o quelle per le quali e' stata omessa la comunicazione preventiva producono o rischiano di produrre effetti negativi per la solvibilita' dell'impresa di assicurazione o di riassicurazione o pregiudizio per gli interessi degli assicurati e degli altri aventi diritto a prestazioni assicurative ordina all'impresa di assicurazione o di riassicurazione di porre in atto le misure idonee a rimuovere tali conseguenze negative o pregiudizievoli, assegnando a tal fine un termine congruo.».
 
 Nota all'art. 16:
- - Si riporta il testo vigente degli articoli 215 e 216, del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
+ - Si riporta il testo vigente degli articoli 215 e 216, del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
  «Art. 215 (Operazioni infragruppo rilevanti). - 1. Le imprese di assicurazione e di riassicurazione che hanno sede legale nel territorio della Repubblica, le sedi secondarie istituite nel territorio della Repubblica da imprese di assicurazione o di riassicurazione aventi sede legale in uno Stato terzo, sono soggette alla vigilanza dell'ISVAP sulle operazioni infragruppo che sono realizzate tra le medesime entita' e le imprese di cui all'art. 211, comma 1, o che intercorrono con una persona fisica che controlla o detiene una partecipazione nell'impresa di assicurazione o di riassicurazione o in un'impresa inclusa nell'area della vigilanza supplementare.
  2. Le operazioni infragruppo soggette a vigilanza in particolare riguardano:
  a) i finanziamenti;
@@ -827,7 +827,7 @@ Nota all'art. 16:
 
 1.
 
-L'[articolo 217 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 217 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 1, dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione».
                         b)
@@ -835,7 +835,7 @@ L'[articolo 217 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
 
 2.
 
-L'[articolo 218 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 218 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 1, dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
                         b)
@@ -849,7 +849,7 @@ L'[articolo 218 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
 
 3.
 
-L'[articolo 219 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 219 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 1, lettera a), dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
                         b)
@@ -859,7 +859,7 @@ L'[articolo 219 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
 
 4.
 
-L'[articolo 220 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 220 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 1, dopo le parole: «un'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
                         b)
@@ -867,7 +867,7 @@ L'[articolo 220 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
  «2. Se un'impresa di assicurazione o di riassicurazione di cui all'articolo 210, comma 2, e un'altra impresa di assicurazione o di riassicurazione con sede legale in un altro Stato membro sono controllate dalla stessa impresa di partecipazione assicurativa o dalla stessa impresa di assicurazione o di riassicurazione avente sede legale in uno Stato terzo, l'ISVAP puo' esonerare l'impresa di assicurazione o di riassicurazione di cui all'articolo 210, comma 2, dall'obbligo di effettuare la verifica della solvibilita' della controllante, se l'Istituto ha concordato con le autorita' degli altri Stati membri interessati di attribuire l'esercizio della vigilanza supplementare all'autorita' di vigilanza dell'altro Stato membro.».
 
 Nota all'art. 17:
- - Si riporta il testo vigente degli articoli 217, 218, 219 e 220, del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
+ - Si riporta il testo vigente degli articoli 217, 218, 219 e 220, del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
  «Art. 217 (Solvibilita' corretta delle imprese di assicurazione). - 1. Le imprese di assicurazione o di riassicurazione di cui all'art. 210, comma 1, calcolano la situazione di solvibilita' corretta secondo le disposizioni stabilite dall'ISVAP con regolamento.
  2. Ai fini del calcolo della situazione di solvibilita' corretta, fatta salva l'eliminazione della costituzione di capitale frutto di operazioni interne al gruppo, non si tiene conto delle imprese controllate ai sensi dell'[art. 2359, primo comma, numero 3), del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359-com1-num3).
  3. Le imprese di assicurazione o di riassicurazione di cui all'art. 210, comma 1, trasmettono all'ISVAP, unitamente al bilancio d'esercizio, un prospetto dimostrativo della situazione di solvibilita' corretta alla data di chiusura dell'esercizio al quale il bilancio si riferisce secondo il modello di cui all'art. 219, comma 1, lettera b).».
@@ -889,7 +889,7 @@ Nota all'art. 17:
 
 1.
 
-L'[articolo 221 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 221 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 1, dopo la parola: «impresa» sono inserite le seguenti: «di assicurazione o di riassicurazione»;
                         b)
@@ -897,11 +897,11 @@ L'[articolo 221 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
 
 2.
 
-All'[articolo 222, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), dopo la parola: «impresa» sono inserite le seguenti: «di assicurazione o di riassicurazione»;
+All'[articolo 222, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), dopo la parola: «impresa» sono inserite le seguenti: «di assicurazione o di riassicurazione»;
 
 3.
 
-L'[articolo 223 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 223 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 1, dopo le parole: «dell'impresa di assicurazione» sono inserite le seguenti: «o qualora i diritti delle imprese di assicurazione cedenti siano a rischio per effetto del deterioramento della posizione finanziaria dell'impresa di riassicurazione»;
                         b)
@@ -916,7 +916,7 @@ L'[articolo 223 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
 
 4.
 
-L'[articolo 224 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 224 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 1, dopo le parole: «crediti di assicurazione», sono inserite le seguenti: «o di riassicurazione» e dopo le parole: «dell'impresa» sono inserite le seguenti: «di assicurazione e di riassicurazione»;
                         b)
@@ -924,11 +924,11 @@ L'[articolo 224 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
 
 5.
 
-All'[articolo 225, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «prestazioni assicurative» sono inserite le seguenti: «, delle imprese di assicurazione cedenti» e dopo le parole: «all'impresa» sono inserite le seguenti: «di assicurazione o di riassicurazione».
+All'[articolo 225, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «prestazioni assicurative» sono inserite le seguenti: «, delle imprese di assicurazione cedenti» e dopo le parole: «all'impresa» sono inserite le seguenti: «di assicurazione o di riassicurazione».
 
 6.
 
-L'[articolo 226 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 226 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 1, dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «e di riassicurazione»;
                         b)
@@ -940,7 +940,7 @@ L'[articolo 226 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
 
 7.
 
-L'[articolo 227 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 227 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 1, dopo le parole: «all'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
                         b)
@@ -948,14 +948,14 @@ L'[articolo 227 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
 
 8.
 
-L'[articolo 228 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 228 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 1, dopo le parole: «un'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione» e dopo le parole: «all'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione»;
                         b)
                             al comma 2, lettera a), dopo le parole «dall'impresa di assicurazione» sono inserite le seguenti: «o di riassicurazione».
 
 Nota all'art. 18:
- - Si riporta il testo vigente degli articoli 221, 222, 223, 224, 225, 226, 227 e 228, del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
+ - Si riporta il testo vigente degli articoli 221, 222, 223, 224, 225, 226, 227 e 228, del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
  «Art. 221 (Violazione delle norme sulle riserve tecniche o sulle attivita' a copertura). - 1. Fatto salvo quanto previsto all'art. 184, qualora l'impresa di assicurazione o di riassicurazione, che ha sede legale nel territorio della Repubblica, non osservi le disposizioni sulle riserve tecniche e sulle attivita' a copertura delle medesime, l'ISVAP ne contesta la violazione e le ordina di conformarsi alle norme violate, assegnando un termine congruo per l'attuazione degli adempimenti richiesti, ma non pregiudizievole per la protezione degli interessi degli assicurati e degli altri aventi diritto a prestazioni assicurative.
  2. L'ISVAP, nei casi di cui al comma 1, puo' vietare all'impresa di compiere atti di disposizione sui beni esistenti nel territorio della Repubblica e successivamente puo' consentirne, con specifiche autorizzazioni, una disponibilita' limitata, comunque informando preventivamente le autorita' di vigilanza degli altri Stati membri nei quali l'impresa opera. L'ISVAP puo' inoltre chiedere alle autorita' di vigilanza degli altri Stati membri, nei quali l'impresa possiede beni, di adottare analogo provvedimento, indicando i beni da assoggettare a tale misura.
  3. Se l'impresa non ottempera nel termine assegnato all'ordine di cui al comma 1, l'ISVAP puo':
@@ -993,26 +993,26 @@ Nota all'art. 18:
 
 1.
 
-All'[articolo 229, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «dell'impresa» sono inserite le seguenti: «di assicurazione o di riassicurazione».
+All'[articolo 229, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «dell'impresa» sono inserite le seguenti: «di assicurazione o di riassicurazione».
 
 2.
 
-All'[articolo 230, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), dopo la parola: «impresa» sono inserite le seguenti: «di assicurazione o di riassicurazione».
+All'[articolo 230, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), dopo la parola: «impresa» sono inserite le seguenti: «di assicurazione o di riassicurazione».
 
 3.
 
-All'[articolo 231, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), dopo la parola: «impresa» sono inserite le seguenti: «di assicurazione o di riassicurazione».
+All'[articolo 231, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), dopo la parola: «impresa» sono inserite le seguenti: «di assicurazione o di riassicurazione».
 
 4.
 
-All'[articolo 232, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «e di riassicurazione».
+All'[articolo 232, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «e di riassicurazione».
 
 5.
 
-All'[articolo 233, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «dell'impresa» sono inserite le seguenti: «di assicurazione o di riassicurazione».
+All'[articolo 233, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «dell'impresa» sono inserite le seguenti: «di assicurazione o di riassicurazione».
 
 Nota all'art. 19:
- - Si riporta il testo vigente degli articoli 230, 231, 232 e 233 del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
+ - Si riporta il testo vigente degli articoli 230, 231, 232 e 233 del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
  «Art. 229 (Commissario per il compimento di singoli atti). 1. L'ISVAP, nel caso di grave inosservanza delle disposizioni di legge e dei relativi provvedimenti di attuazione, puo' disporre la nomina di un commissario per il compimento di singoli atti che siano necessari per rendere la gestione dell'impresa di assicurazione o di riassicurazione conforme a legge.
  2. Il provvedimento, in ogni caso, e' preceduto dalla contestazione delle violazioni accertate e puo' essere disposto decorso inutilmente il termine contestualmente assegnato per far cessare i fatti addebitati e rimuoverne gli effetti.
  3. Si applicano, in quanto compatibili, il comma 1 dell'art. 232, i commi 2, 3 e 4 dell'art. 233, il comma 1 dell'art. 236 ed i commi 1, 2 e 3 dell'art. 237.».
@@ -1040,10 +1040,10 @@ Nota all'art. 19:
 
 1.
 
-All'articolo 244, comma 3, primo periodo, del [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), le parole: «in un altro Stato membro o» sono soppresse.
+All'articolo 244, comma 3, primo periodo, del [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), le parole: «in un altro Stato membro o» sono soppresse.
 
 Nota all'art. 20:
- - S riporta il testo vigente dell'art. n. 244, del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
+ - S riporta il testo vigente dell'art. n. 244, del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
  «Art. 244 (Decadenza e revoca dell'autorizzazione rilasciata all'impresa di riassicurazione). - 1. La decadenza dall'autorizzazione rilasciata all'impresa di riassicurazione e' disposta nei casi previsti dall'art. 240, comma 1. Si applicano le disposizioni di cui agli articoli 240, commi 2, 3, 4, 5 e 6, e 241, commi 1, 2, 3 e 4, intendendosi i rinvii come riferiti alla corrispondente disciplina delle imprese di riassicurazione.
  2. La revoca dell'autorizzazione rilasciata all'impresa di riassicurazione e' disposta nei casi previsti dall'art. 242, comma 1. Si applicano le disposizioni di cui all'art. 242, commi 3, 4, 5 e 6, intendendosi i rinvii come riferiti alla corrispondente disciplina delle imprese di riassicurazione.
  3. Le disposizioni del presente articolo si applicano anche all'impresa di riassicurazione che ha sede legale in uno Stato terzo e che e' autorizzata ad operare in stabilimento nel territorio della Repubblica, fermo restando che l'efficacia dei provvedimenti adottati e' limitata alla medesima sede secondaria. Quando l'autorita' di vigilanza dell'impresa di riassicurazione ha disposto la decadenza o la revoca dell'autorizzazione all'esercizio delle attivita' riassicurative, analogo provvedimento e' adottato nei confronti della sede secondaria.».
@@ -1052,15 +1052,15 @@ Nota all'art. 20:
 
 1.
 
-All'[articolo 245, comma 7, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «e di riassicurazione».
+All'[articolo 245, comma 7, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «imprese di assicurazione» sono inserite le seguenti: «e di riassicurazione».
 
 2.
 
-La rubrica dell'[articolo 258 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituita dalla seguente «Trattamento dei crediti derivanti da contratti di assicurazione o da contratti di riassicurazione».
+La rubrica dell'[articolo 258 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituita dalla seguente «Trattamento dei crediti derivanti da contratti di assicurazione o da contratti di riassicurazione».
 
 3.
 
-L'[articolo 258 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
+L'[articolo 258 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' modificato come segue:
                         a)
                             al comma 2, dopo le parole: «impresa» sono inserite le seguenti: «di assicurazione o di riassicurazione» e dopo le parole: «crediti di assicurazione» sono inserite le seguenti: «e di riassicurazione»;
                         b)
@@ -1069,14 +1069,14 @@ L'[articolo 258 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
 
 4.
 
-La rubrica dell'[articolo 259 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituita dalla seguente: «Ulteriori disposizioni per il trattamento dei crediti derivanti da contratti di riassicurazione».
+La rubrica dell'[articolo 259 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituita dalla seguente: «Ulteriori disposizioni per il trattamento dei crediti derivanti da contratti di riassicurazione».
 
 5.
 
-All'[articolo 264, comma 2, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), le parole: «in uno Stato membro o,» sono soppresse.
+All'[articolo 264, comma 2, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), le parole: «in uno Stato membro o,» sono soppresse.
 
 Nota all'art. 21:
- - Si riporta il testo vigente degli articoli 245, 258 e 264, del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
+ - Si riporta il testo vigente degli articoli 245, 258 e 264, del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
  «Art. 245 (Liquidazione coatta amministrativa). - 1. Il Ministro delle attivita' produttive, su proposta dell'ISVAP, puo' disporre, con decreto, la revoca dell'autorizzazione all'esercizio dell'attivita' in tutti i rami e la liquidazione coatta amministrativa, anche quando ne sia in corso l'amministrazione straordinaria ovvero la liquidazione secondo le norme ordinarie, qualora le irregolarita' nell'amministrazione o le violazioni delle disposizioni legislative, amministrative o statutarie ovvero le perdite previste siano di eccezionale gravita'.
  2. La liquidazione coatta puo' essere proposta dall'ISVAP, con il medesimo procedimento indicato nel comma 1, anche a seguito di istanza motivata degli organi amministrativi, dell'assemblea straordinaria, dei commissari straordinari o dei liquidatori ricorrendo i presupposti di cui al comma 1.
  3. Il decreto del Ministro delle attivita' produttive e la proposta dell'ISVAP sono comunicati dai commissari liquidatori agli interessati, che ne facciano richiesta, non prima dell'insediamento.
@@ -1107,16 +1107,16 @@ Nota all'art. 21:
 
 1.
 
-All'[articolo 309 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), il comma 1 e' sostituito dal seguente:
+All'[articolo 309 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), il comma 1 e' sostituito dal seguente:
  «1. Le imprese che hanno sede legale nel territorio della Repubblica o in Stati terzi e che esercitano l'attivita' assicurativa oltre i limiti dell'autorizzazione in violazione degli articoli 11, 12, 13, 15, 16, 18, 21, 22, 28 e 29, sono punite con la sanzione amministrativa pecuniaria da euro diecimila ad euro centomila. Le imprese che hanno sede legale nel territorio della Repubblica o in Stati terzi e che esercitano l'attivita' riassicurativa oltre i limiti dell'autorizzazione in violazione degli articoli 57, 57-bis, 58, 59-bis, 59-ter, 59-quater, 59-quinquies e 60-bis, sono punite con la sanzione amministrativa pecuniaria da euro diecimila ad euro centomila.».
 
 2.
 
-All'[articolo 310 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), il comma 1 e' sostituito dal seguente:
+All'[articolo 310 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), il comma 1 e' sostituito dal seguente:
  «1. L'inosservanza delle disposizioni di cui agli articoli 30, 31, commi 1, 3 e 6, 32, 33, 34, commi 1, 3 e 4, 36, 37, 37-bis, 38, 39, 40, 41, 42, 42-bis, 42-ter, 43, 48, 49, 56, 57-bis, 62, 63, 64, 65, 65-bis, 66-septies, 67, 87, 119, comma 2, ultimo periodo, 189, comma 1, 190, comma 1, 191, 196, comma 2, 197, 211, 212, 213, 217, 218, 219, 348 e 349, comma 1, o delle relative norme di attuazione e' punita con la sanzione amministrativa pecuniaria da euro cinquemila ad euro cinquantamila.».
 
 Nota all'art. 22.
- - Si riporta il testo vigente degli articoli 309 e 310 del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
+ - Si riporta il testo vigente degli articoli 309 e 310 del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto:
  «Art. 309 (Attivita' oltre i limiti consentiti). - 1.
  Le imprese che hanno sede legale nel territorio della Repubblica o in Stati terzi e che esercitano l'attivita' assicurativa oltre i limiti dell'autorizzazione in violazione degli articoli 11, 12, 13, 15, 16, 18, 21, 22, 28 e 29, sono punite con la sanzione amministrativa pecuniaria da euro diecimila ad euro centomila. Le imprese che hanno sede legale nel territorio della Repubblica o in Stati terzi e che esercitano l'attivita' riassicurativa oltre i limiti dell'autorizzazione in violazione degli articoli 57, 57-bis, 58, 59-bis, 59-ter, 59-quater, 59-quinquies e 60-bis, sono punite con la sanzione amministrativa pecuniaria da euro diecimila ad euro centomila.
  2. Le mutue assicuratrici di cui all'art. 52 che esercitano l'attivita' assicurativa oltre i limiti dell'autorizzazione in violazione degli articoli 53 e 55 sono punite con la sanzione amministrativa pecuniaria da euro cinquemila ad euro cinquantamila.

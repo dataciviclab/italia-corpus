@@ -18,9 +18,9 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il Codice postale e delle telecomunicazioni, approvato con [R. decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), e successive modificazioni;
 
-Visto il [R. decreto 24 ottobre 1942, n. 1553](../Regi%20decreti/Modificazioni%20al%20Libro%20III%20della%20legge%20postale%20e%20delle%20telecomunicazioni%20e%20al%20relativo%20regolamento%20di%20esecuzione.%20042U1553.md), e il [decreto legislativo Luogotenenziale 31 agosto 1944, n. 305](Modificazioni%20nella%20costituzione%20delle%20Commissioni%20delle%20ricevitorie%20postali%20e%20telegrafiche.%20044U0305.md), coi quali furono apportate modifiche agli articoli 336 e 337 del predetto Codice postale e delle telecomunicazioni.
+Visto il [R. decreto 24 ottobre 1942, n. 1553](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20Libro%20III%20della%20legge%20postale%20e%20delle%20telecomunicazioni%20e%20al%20relativo%20regolamento%20di%20esecuzione.%20042U1553.md), e il [decreto legislativo Luogotenenziale 31 agosto 1944, n. 305](Modificazioni%20nella%20costituzione%20delle%20Commissioni%20delle%20ricevitorie%20postali%20e%20telegrafiche.%20044U0305.md), coi quali furono apportate modifiche agli articoli 336 e 337 del predetto Codice postale e delle telecomunicazioni.
 
-Visto il regolamento delle ricevitorie, delle agenzie e dei servizi rurali dell'Amministrazione postale telegrafica, approvato con [R. decreto 5 novembre 1937, numero 2161](../Regi%20decreti/Approvazione%20del%20regolamento%20delle%20Ricevitorie%20delle%20Agenzie%20e%20dei%20Servizi%20rurali%20dellAmministrazione%20postale%20telegrafica.%20037U2161.md), e successive modificazioni;
+Visto il regolamento delle ricevitorie, delle agenzie e dei servizi rurali dell'Amministrazione postale telegrafica, approvato con [R. decreto 5 novembre 1937, numero 2161](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20delle%20Ricevitorie%20delle%20Agenzie%20e%20dei%20Servizi%20rurali%20dellAmministrazione%20postale%20telegrafica.%20037U2161.md), e successive modificazioni;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

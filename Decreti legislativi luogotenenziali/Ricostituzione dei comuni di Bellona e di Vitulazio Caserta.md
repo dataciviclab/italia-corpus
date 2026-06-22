@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 9 febbraio 1928, n. 232](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Bellona%20e%20Vitulazio%20in%20un%20unico%20Comune%20denominato%20Villa%20Volturno.%20028U0232.md);
+Visto il [R. decreto 9 febbraio 1928, n. 232](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Bellona%20e%20Vitulazio%20in%20un%20unico%20Comune%20denominato%20Villa%20Volturno.%20028U0232.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,13 +28,13 @@ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Abb
 
 ## Art. 1.
 
-I comuni di Bellona e Vitulazio riuniti in unico comune denominato Villa Volturno con [R. decreto 9 febbraio 1928, n. 232](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Bellona%20e%20Vitulazio%20in%20un%20unico%20Comune%20denominato%20Villa%20Volturno.%20028U0232.md), sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
+I comuni di Bellona e Vitulazio riuniti in unico comune denominato Villa Volturno con [R. decreto 9 febbraio 1928, n. 232](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Bellona%20e%20Vitulazio%20in%20un%20unico%20Comune%20denominato%20Villa%20Volturno.%20028U0232.md), sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
  Il Prefetto di Caserta, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni suddetti.
 
 ## Art. 2.
 
 Gli organici dei ricostituiti comuni di Bellona e Vitulazio saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa. 
- Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni predetti anteriormente alla loro fusione disposta con [R. decreto 9 febbraio 1928, n. 232](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Bellona%20e%20Vitulazio%20in%20un%20unico%20Comune%20denominato%20Villa%20Volturno.%20028U0232.md). 
+ Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni predetti anteriormente alla loro fusione disposta con [R. decreto 9 febbraio 1928, n. 232](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Bellona%20e%20Vitulazio%20in%20un%20unico%20Comune%20denominato%20Villa%20Volturno.%20028U0232.md). 
  Al personale gia' in servizio presso l'unico comune di Villa Volturno che sara' inquadrato nei predetti organici, non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
 ## Art. 3.

@@ -43,7 +43,7 @@ All'[articolo 15 della legge 12 dicembre 2002, n. 273](https://www.normattiva.it
 
 1.
 
-Il termine di cui all'[articolo 1, comma 1, della legge 28 marzo 2003, n. 53](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20definizione%20delle%20norme%20generali%20sullistruzione%20e%20dei%20livelli%20essenziali%20delle%20prestazioni%20in%20materia%20di%20istruzione%20e%20formazione%20professionale.md), e' prorogato di sei mesi.
+Il termine di cui all'[articolo 1, comma 1, della legge 28 marzo 2003, n. 53](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20definizione%20delle%20norme%20generali%20sullistruzione%20e%20dei%20livelli%20essenziali%20delle%20prestazioni%20in%20materia%20di%20istruzione%20e%20formazione%20professionale.md), e' prorogato di sei mesi.
 
 ## Art. 4.
 
@@ -73,7 +73,7 @@ All'articolo 7, comma 1, alinea, e all'articolo 8, comma 1, alinea, della [legge
 
 1.
 
-Il termine di dodici mesi indicato al [comma 1 dell'articolo 16 della legge 3 maggio 2004, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20principio%20in%20materia%20di%20assetto%20del%20sistema%20radiotelevisivo%20e%20della%20RAI-Radiotelevisione%20italiana%20S.p.a.%20nonche%20delega%20al%20Governo%20per%20lemanazione%20del%20testo%20unico%20della%20radiotelevisione.md), e' prorogato di tre mesi.
+Il termine di dodici mesi indicato al [comma 1 dell'articolo 16 della legge 3 maggio 2004, n. 112](../Leggi%20contenenti%20deleghe/Norme%20di%20principio%20in%20materia%20di%20assetto%20del%20sistema%20radiotelevisivo%20e%20della%20RAI-Radiotelevisione%20italiana%20S.p.a.%20nonche%20delega%20al%20Governo%20per%20lemanazione%20del%20testo%20unico%20della%20radiotelevisione.md), e' prorogato di tre mesi.
 
 ## Art. 9.
 

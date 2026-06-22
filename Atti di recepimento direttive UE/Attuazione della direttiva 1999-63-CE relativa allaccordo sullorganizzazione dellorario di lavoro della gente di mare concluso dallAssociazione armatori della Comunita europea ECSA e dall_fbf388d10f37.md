@@ -18,7 +18,7 @@ Vista la [direttiva 1999/63/CE del Consiglio, del 21 giugno 1999](https://www.no
 
 Visto il [decreto legislativo 19 settembre 1994, n. 626](Attuazione%20delle%20direttive%2089-391-CEE%2089-654-CEE%2089-655-CEE%2089-656-CEE%2090-269-CEE%2090-270-CEE%2090-394-CEE%2090-679-CEE%2093-88-CEE%2095-63-CE%2097-42-CE%2098-24-CE%2099-38-CE%2099-92-CE%202001-45-CE%202003-1_b3516797bb41.md), e successive modificazioni;
 
-Visto il [decreto legislativo 27 luglio 1999, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20marittimi%20a%20bordo%20delle%20navi%20mercantili%20da%20pesca%20nazionali%20a%20norma%20della%20legge%2031%20dicembre%201998%20n.%20485.md);
+Visto il [decreto legislativo 27 luglio 1999, n. 271](../Decreti%20Legislativi/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20marittimi%20a%20bordo%20delle%20navi%20mercantili%20da%20pesca%20nazionali%20a%20norma%20della%20legge%2031%20dicembre%201998%20n.%20485.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione dell'11 febbraio 2005;
 
@@ -43,7 +43,7 @@ Il presente decreto legislativo si applica ai lavoratori marittimi che prestano 
 A bordo di tutte le navi mercantili di cui al comma 2 non possono essere imbarcati lavoratori di eta' inferiore a 16 anni.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubbliqa italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubbliqa italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
@@ -53,7 +53,7 @@ Avvertenza:
  - La [direttiva 1999/63/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;63), e' pubblicata in GUCE n. L. 167 del 2 luglio 1999.
  - Il [decreto legislativo 19 settembre 1994, n. 626](Attuazione%20delle%20direttive%2089-391-CEE%2089-654-CEE%2089-655-CEE%2089-656-CEE%2090-269-CEE%2090-270-CEE%2090-394-CEE%2090-679-CEE%2093-88-CEE%2095-63-CE%2097-42-CE%2098-24-CE%2099-38-CE%2099-92-CE%202001-45-CE%202003-1_b3516797bb41.md), reca:
  «Attuazione della [direttiva 89/39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1939;89) 1/CEE, della [direttiva 89/654/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;654), della [direttiva 89/655/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;655), della [direttiva 89/656/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;656), della [direttiva 90/269/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;269), della [direttiva 90/270/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;270), della [direttiva 90/394/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;394), della [direttiva 90/679/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;679), della [direttiva 93/88/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;88), della [direttiva 95/63/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;63), della [direttiva 97/42/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;42), della [direttiva 98/24/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;24), della [direttiva 99/38/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;38) e della [direttiva 99/92/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;92) riguardanti il miglioramento della sicurezza e della salute dei lavoratori durante il lavoro.».
- - Il [decreto legislativo 27 luglio 1999, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20marittimi%20a%20bordo%20delle%20navi%20mercantili%20da%20pesca%20nazionali%20a%20norma%20della%20legge%2031%20dicembre%201998%20n.%20485.md), reca: «Adeguamento della normativa sulla sicurezza e salute dei lavoratori marittimi a bordo delle navi mercantili da pesca nazionali, a norma della [legge 31 dicembre 1998, n. 485](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20sicurezza%20del%20lavoro%20nel%20settore%20portuale%20marittimo.md).».
+ - Il [decreto legislativo 27 luglio 1999, n. 271](../Decreti%20Legislativi/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20marittimi%20a%20bordo%20delle%20navi%20mercantili%20da%20pesca%20nazionali%20a%20norma%20della%20legge%2031%20dicembre%201998%20n.%20485.md), reca: «Adeguamento della normativa sulla sicurezza e salute dei lavoratori marittimi a bordo delle navi mercantili da pesca nazionali, a norma della [legge 31 dicembre 1998, n. 485](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20sicurezza%20del%20lavoro%20nel%20settore%20portuale%20marittimo.md).».
  Nota all'[art. 1:
  - Per la direttiva 1999/63/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;63), vedi note alle premesse.
 
@@ -75,7 +75,7 @@ Ai fini delle disposizioni di cui al presente decreto si intendono per:
 
 1.
 
-L'[articolo 11 del decreto legislativo 27 luglio 1999, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20marittimi%20a%20bordo%20delle%20navi%20mercantili%20da%20pesca%20nazionali%20a%20norma%20della%20legge%2031%20dicembre%201998%20n.%20485.md), e' sostituito dal seguente:
+L'[articolo 11 del decreto legislativo 27 luglio 1999, n. 271](../Decreti%20Legislativi/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20marittimi%20a%20bordo%20delle%20navi%20mercantili%20da%20pesca%20nazionali%20a%20norma%20della%20legge%2031%20dicembre%201998%20n.%20485.md), e' sostituito dal seguente:
  «Art. 11 (Orario di lavoro a bordo delle navi mercantili). - 1.
 Fatte salve le disposizioni riportate al comma 2, l'orario normale di lavoro del lavoratore marittimo, a bordo delle navi mercantili, e' basato su una durata di 8 ore giornaliere, con un giorno di riposo a settimana e riposo nei giorni festivi.
  2. I limiti dell'orario di lavoro o di quello di riposo a bordo delle navi sono cosi' stabiliti:
@@ -106,10 +106,10 @@ Ai fini di questa disposizione per «orario notturno» si deve intendere un peri
 
 2.
 
-Al [decreto legislativo 27 luglio 1999, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20marittimi%20a%20bordo%20delle%20navi%20mercantili%20da%20pesca%20nazionali%20a%20norma%20della%20legge%2031%20dicembre%201998%20n.%20485.md), e' aggiunto, in fine, l'allegato 2 di cui all'allegato A del presente decreto.
+Al [decreto legislativo 27 luglio 1999, n. 271](../Decreti%20Legislativi/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20marittimi%20a%20bordo%20delle%20navi%20mercantili%20da%20pesca%20nazionali%20a%20norma%20della%20legge%2031%20dicembre%201998%20n.%20485.md), e' aggiunto, in fine, l'allegato 2 di cui all'allegato A del presente decreto.
 
 Nota all'[art. 3:
- - Per il decreto legislativo 27 luglio 1999, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20marittimi%20a%20bordo%20delle%20navi%20mercantili%20da%20pesca%20nazionali%20a%20norma%20della%20legge%2031%20dicembre%201998%20n.%20485.md), vedi note alle premesse.
+ - Per il decreto legislativo 27 luglio 1999, n. 271](../Decreti%20Legislativi/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20marittimi%20a%20bordo%20delle%20navi%20mercantili%20da%20pesca%20nazionali%20a%20norma%20della%20legge%2031%20dicembre%201998%20n.%20485.md), vedi note alle premesse.
 
 ## Art. 4. — Registro dell'orario di lavoro a bordo delle navi mercantili
 
@@ -135,7 +135,7 @@ Il lavoratore marittimo deve ricevere a cura dell'armatore una copia del registr
 
 6.
 
-Il modello di registro deve essere esaminato e vistato in occasione delle visite di cui all'[articolo 18 del decreto legislativo 27 luglio 1999, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20marittimi%20a%20bordo%20delle%20navi%20mercantili%20da%20pesca%20nazionali%20a%20norma%20della%20legge%2031%20dicembre%201998%20n.%20485.md), effettuate dagli organi di vigilanza mediante le Commissioni territoriali indicate all'articolo 31 del citato decreto legislativo. Ove le visite periodiche non siano previste, il modello di registro va comunque vistato, a cadenza biennale, a cura dell'Autorita' marittima.
+Il modello di registro deve essere esaminato e vistato in occasione delle visite di cui all'[articolo 18 del decreto legislativo 27 luglio 1999, n. 271](../Decreti%20Legislativi/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20marittimi%20a%20bordo%20delle%20navi%20mercantili%20da%20pesca%20nazionali%20a%20norma%20della%20legge%2031%20dicembre%201998%20n.%20485.md), effettuate dagli organi di vigilanza mediante le Commissioni territoriali indicate all'articolo 31 del citato decreto legislativo. Ove le visite periodiche non siano previste, il modello di registro va comunque vistato, a cadenza biennale, a cura dell'Autorita' marittima.
 
 Nota all'art. 4:
  - Gli articoli 18 e 31 del citato [decreto legislativo n. 271 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;271), cosi' recitano:
@@ -203,7 +203,7 @@ La definizione delle tabelle di armamenti di sicurezza delle unita' di cui all'a
 
 Ai fini della verifica dell'idoneita' al lavoro, il lavoratore marittimo e' sottoposto alle seguenti visite presso le strutture sanitarie del Ministero della salute:
                         a)
-                            visita preventiva di imbarco, ai sensi di quanto previsto dall'[articolo 323 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+                            visita preventiva di imbarco, ai sensi di quanto previsto dall'[articolo 323 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
                         b)
                             visita periodica di idoneita', con frequenza biennale, ai sensi della [legge 28 ottobre 1962, n. 1602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-10-28;1602).
 
@@ -219,8 +219,8 @@ Contro le risultanze delle visite effettuate dalla Commissione medica permanente
 
 Il personale marittimo addetto ai turni di guardia che abbia problemi di salute aventi nesso riconosciuto con lo svolgimento del lavoro notturno, e' assegnato al corrispondente lavoro diurno per cui e' idoneo secondo quanto previsto dall'[articolo 15 del decreto legislativo 8 aprile 2003, n. 66](Attuazione%20delle%20direttive%2093-104-CE%20e%202000-34-CE%20concernenti%20taluni%20aspetti%20dellorganizzazione%20dellorario%20di%20lavoro.md).
 
-Note all'[art. 7](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
- - L'[art. 323 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' recita:
+Note all'[art. 7](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
+ - L'[art. 323 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' recita:
  «Art. 323 (Visita medica). - L'arruolamento degli iscritti nelle matricole della gente di mare, destinati a far parte dell'equipaggio, deve, nei casi e con le modalita' prescritte da leggi e regolamenti(2), essere preceduto da visita medica diretta ad accertare l'idoneita' della persona da arruolare in rapporto al servizio cui deve essere adibita.».
  - L'[art. 15 del decreto legislativo 8 aprile 2003, n. 66](Attuazione%20delle%20direttive%2093-104-CE%20e%202000-34-CE%20concernenti%20taluni%20aspetti%20dellorganizzazione%20dellorario%20di%20lavoro.md) (Attuazione della [direttiva 93/104/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;104) e della [direttiva 2000/34/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;34) concernenti taluni aspetti dell'organizzazione dell'orario di lavoro), cosi' recita:
  «Art. 15 (Trasferimento al lavoro diurno). - 1. Qualora sopraggiungano condizioni di salute che comportino l'inidoneita' alla prestazione di lavoro notturno, accertata dal medico competente o dalle strutture sanitarie pubbliche, il lavoratore verra' assegnato al lavoro diurno, in altre mansioni equivalenti, se esistenti e disponibili.
@@ -244,7 +244,7 @@ L'armatore della nave e' punito:
                         a)
                             con la sanzione amministrativa pecuniaria da 500 euro a 3000 euro per la violazione dell'articolo 4, commi 1, 3 e 5;
                         b)
-                            con la sanzione amministrativa pecuniaria di cui all'[articolo 1221, primo comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) per la violazione delle disposizioni di cui all'articolo 5, comma 1.
+                            con la sanzione amministrativa pecuniaria di cui all'[articolo 1221, primo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) per la violazione delle disposizioni di cui all'articolo 5, comma 1.
 
 2.
 
@@ -252,26 +252,26 @@ Il comandante della nave e' punito con l'arresto da due a quattro mesi o con l'a
 
 3.
 
-L'armatore o il comandante della nave, per la violazione delle disposizioni di cui all'articolo 1, comma 3, sono puniti con la sanzione amministrativa di cui all'[articolo 1178, primo comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), salvo che il fatto non costituisca reato.
+L'armatore o il comandante della nave, per la violazione delle disposizioni di cui all'articolo 1, comma 3, sono puniti con la sanzione amministrativa di cui all'[articolo 1178, primo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), salvo che il fatto non costituisca reato.
 
 4.
 
-L'armatore o il comandante della nave, per la violazione delle disposizioni di cui all'articolo 7, comma 1, sono puniti con la sanzione amministrativa di cui all'[articolo 1178, primo comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+L'armatore o il comandante della nave, per la violazione delle disposizioni di cui all'articolo 7, comma 1, sono puniti con la sanzione amministrativa di cui all'[articolo 1178, primo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 5.
 
 Qualora l'autorita' marittima, a seguito della verifica del registro di cui all'articolo 4 effettuata dagli organi di vigilanza, riscontri che a bordo della nave vi siano violazioni delle disposizioni relative all'orario di lavoro o ai periodi di riposo contenute nel presente decreto che comportino rischi per la sicurezza della nave e per la salute e sicurezza del lavoratore, provvede:
                         a)
-                            ai sensi dell'[articolo 181 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), non concedendo il rilascio delle spedizioni;
+                            ai sensi dell'[articolo 181 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), non concedendo il rilascio delle spedizioni;
                         b)
                             obbligando l'armatore alla revisione della tabella di armamento.
 
-Note all'[art. 9](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
- - L'[art. 1221, primo comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' recita:
+Note all'[art. 9](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
+ - L'[art. 1221, primo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' recita:
  «Art. 1221 (Inosservanza di norme sulla composizione e forza minima dell'equipaggio). - L'armatore o il comandante della nave, che non osserva le norme del regolamento e le disposizioni dell'autorita' competente sulla composizione e forza minima dell'equipaggio e' punito con l'ammenda da lire sessantamila a seicentomila.».
- - L'[art. 1178, primo comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' recita:
+ - L'[art. 1178, primo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' recita:
  «Art. 1178 (Irregolare assunzione di personale e omessa annotazione sul ruolo di equipaggio). - L'armatore o il comandante della nave o del galleggiante marittimi, che ammette a far parte dell'equipaggio una persona non appartenente alla gente di mare, ovvero arruola una persona senza regolare contratto o senza la preventiva visita medica, ovvero imbarca o sbarca un componente dell'equipaggio senza far eseguire la relativa annotazione sul ruolo di equipaggio o sulla licenza, e' punito con la sanzione amministrativa del pagamento di una somma da lire trecentomila a lire tre milioni.».
- - L'[art. 181, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' recita:
+ - L'[art. 181, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), cosi' recita:
  «Art. 181 (Rilascio delle spedizioni). - La nave non puo' partire se non ha ricevuto le spedizioni da parte del comandante del porto o dell'autorita' consolare.
  Il rilascio delle spedizioni si effettua mediante apposizione del visto - con indicazione dell'ora e della data - sulla dichiarazione integrativa di partenza che viene consegnata in copia, o trasmessa con mezzi elettronici, al comandante della nave, il quale e' tenuto a conservarla tra i documenti di bordo fino al successivo approdo.
  Le spedizioni non possono essere rilasciate qualora risulti che l'armatore o il comandante della nave non ha adempiuto agli obblighi imposti dalle norme di polizia, da quelle per la sicurezza della navigazione, nonche' agli obblighi relativi alle visite ed alle prescrizioni impartite dalle competenti autorita'. Del pari le spedizioni non possono essere rilasciate qualora risulti che l'armatore o il comandante della nave non ha compiuto gli adempimenti sanitari, fiscali e doganali ovvero non ha provveduto al pagamento dei diritti portuali o consolari, al versamento delle cauzioni eventualmente richieste a norma delle vigenti disposizioni di legge o regolamentari, nonche' in tutti gli altri casi previsti da disposizioni di legge.».

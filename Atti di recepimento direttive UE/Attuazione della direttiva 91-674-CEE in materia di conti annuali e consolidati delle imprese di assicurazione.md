@@ -14,13 +14,13 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'[articolo 20 della legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), legge comunitaria per il 1993, recante delega al Governo per l'attuazione della [direttiva 91/674/CEE, del Consiglio del 19 dicembre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;674);
 
-Vista la [legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), legge comunitaria per il 1994, ed in particolare l'articolo 6, comma 1;
+Vista la [legge 6 febbraio 1996, n. 52](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), legge comunitaria per il 1994, ed in particolare l'articolo 6, comma 1;
 
-Visto il [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md), che approva il testo unico delle leggi sull'esercizio delle assicurazioni private;
+Visto il [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md), che approva il testo unico delle leggi sull'esercizio delle assicurazioni private;
 
-Visto il decreto del Presidente della Repubblica 14 dicembre 1978, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 362 del 30 dicembre 1978, recante attuazione dell'[articolo 3 del decreto del Presidente della Repubblica 31 marzo 1975, n. 137](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20b%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20la%20disciplina%20del%20conto%20dei%20profitti%20e%20delle%20perdite%20delle%20societa%20finanziarie%20fiduciarie%20d_59020f516409.md), relativo all'approvazione di modelli di bilancio degli enti e imprese che esercitano assicurazioni;
+Visto il decreto del Presidente della Repubblica 14 dicembre 1978, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 362 del 30 dicembre 1978, recante attuazione dell'[articolo 3 del decreto del Presidente della Repubblica 31 marzo 1975, n. 137](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20b%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20la%20disciplina%20del%20conto%20dei%20profitti%20e%20delle%20perdite%20delle%20societa%20finanziarie%20fiduciarie%20d_59020f516409.md), relativo all'approvazione di modelli di bilancio degli enti e imprese che esercitano assicurazioni;
 
-Visto il [decreto del Presidente della Repubblica 24 novembre 1970, n. 973](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2024%20dicembre%201969%20n.%20990%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md), recante regolamento di esecuzione della [legge 24 dicembre 1969, n. 990](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md), sull'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti;
+Visto il [decreto del Presidente della Repubblica 24 novembre 1970, n. 973](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2024%20dicembre%201969%20n.%20990%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md), recante regolamento di esecuzione della [legge 24 dicembre 1969, n. 990](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md), sull'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti;
 
 Vista la [legge 26 febbraio 1977, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201976%20n.%20857%20concernente%20modifica%20della%20disciplina%20dellassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante_44c8f65dc800.md), recante modifica della disciplina dell'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti;
 
@@ -30,13 +30,13 @@ Visto il [decreto legislativo 17 marzo 1995, n. 174](Attuazione%20della%20dirett
 
 Visto il [decreto legislativo 17 marzo 1995, n. 175](Attuazione%20della%20direttiva%2092-49-CEE%20in%20materia%20di%20assicurazione%20diretta%20diversa%20dallassicurazione%20sulla%20vita.md), di attuazione della [direttiva 92/49/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;49) in materia di assicurazione diretta diversa dall'assicurazione sulla vita;
 
-Visto il [decreto legislativo 21 aprile 1993, n. 124](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20delle%20forme%20pensionistiche%20complementari%20a%20norma%20dellart.%203%20comma%201%20lettera%20v%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come modificato dalla [legge 8 agosto 1995, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335), recante disciplina delle forme pensionistiche complementari;
+Visto il [decreto legislativo 21 aprile 1993, n. 124](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20forme%20pensionistiche%20complementari%20a%20norma%20dellart.%203%20comma%201%20lettera%20v%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come modificato dalla [legge 8 agosto 1995, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335), recante disciplina delle forme pensionistiche complementari;
 
 Vista la [legge 12 agosto 1982, n. 572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;572), recante riforma della vigilanza sulle assicurazioni;
 
 Vista la [legge 9 gennaio 1991, n. 20](../Atti%20normativi%20abrogati%20%28in%20originale%29/Integrazioni%20e%20modifiche%20alla%20legge%2012%20agosto%201982%20n.%20576%20e%20norme%20sul%20controllo%20delle%20partecipazioni%20di%20imprese%20o%20enti%20assicurativi%20e%20in%20imprese%20o%20enti%20assicurativi.md), recante integrazioni e modifiche alla [legge 12 agosto 1982, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576), e norme sul controllo delle partecipazioni di imprese o enti assicurativi e in imprese o enti assicurativi;
 
-Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 385](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20dei%20procedimenti%20amministrativi%20in%20materia%20di%20assicurazioni%20private%20e%20di%20interesse%20collettivo%20di%20competenza%20del%20Ministero%20dellindustria%20del%20commercio%20e_549113c8088f.md), relativo al regolamento recante semplificazione del procedimento amministrativo in materia di assicurazioni private e di interesse collettivo di competenza del Ministero dell'industria, del commercio e dell'artigianato;
+Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 385](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20semplificazione%20dei%20procedimenti%20amministrativi%20in%20materia%20di%20assicurazioni%20private%20e%20di%20interesse%20collettivo%20di%20competenza%20del%20Ministero%20dellindustria%20del%20commercio%20e_549113c8088f.md), relativo al regolamento recante semplificazione del procedimento amministrativo in materia di assicurazioni private e di interesse collettivo di competenza del Ministero dell'industria, del commercio e dell'artigianato;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 dicembre 1996;
 
@@ -62,7 +62,7 @@ TITOLO I
 
 1.
 
-Le indicazioni formali relative alle voci, alle lettere, ai numeri romani ed arabi contenute nelle disposizioni di cui agli articoli 15, 16, 17, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 38, 41, 55 e 56 si intendono riferite alle corrispondenti classificazioni utilizzate nello schema del bilancio di esercizio adottato con il regolamento di cui all'[articolo 90, comma 1, del codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md).
+Le indicazioni formali relative alle voci, alle lettere, ai numeri romani ed arabi contenute nelle disposizioni di cui agli articoli 15, 16, 17, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 38, 41, 55 e 56 si intendono riferite alle corrispondenti classificazioni utilizzate nello schema del bilancio di esercizio adottato con il regolamento di cui all'[articolo 90, comma 1, del codice delle assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md).
 
 ))
 
@@ -81,7 +81,7 @@ Le attivita' e le passivita' relative ai fondi pensione gestiti dall'impresa di 
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 3.
 
@@ -128,7 +128,7 @@ Ai fini del comma 1 la nozione di controllo e' quella definita dall'[articolo 23
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 6.
 
@@ -179,7 +179,7 @@ TITOLO II
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 15. — Attivi patrimoniali ad utilizzo durevole
 
@@ -211,7 +211,7 @@ Per gli elementi dell'attivo ad utilizzo durevole consistenti in partecipazioni 
 
 5.
 
-Gli elementi dell'attivo ad utilizzo durevole consistenti in partecipazioni in imprese controllate o collegate possono essere valutati, con riferimento ad una o piu' di dette imprese, anziche' secondo il criterio del costo indicato al comma 1, per un importo pari alla corrispondente frazione del patrimonio netto risultante dall'ultimo bilancio delle imprese medesime, detratti i dividendi ed operate le rettifiche richieste dai principi di redazione del bilancio consolidato nonche' quelle necessarie per il rispetto dei principi richiamati nell'[articolo 89, comma 1, del codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md). Quando la partecipazione e' iscritta per la prima volta in base a tale metodo, il costo di acquisto superiore al valore corrispondente del patrimonio netto risultante dall'ultimo bilancio dell'impresa controllata o collegata puo' essere iscritto nell'attivo, purche' ne siano indicate le ragioni nella nota integrativa e la differenza, per la parte attribuibile a beni ammortizzabili o all'avviamento, deve essere ammortizzata. Negli esercizi successivi le plusvalenze, derivanti dall'applicazione del predetto metodo, rispetto al valore indicato nel bilancio dell'esercizio precedente, sono iscritte in una riserva non distribuibile.
+Gli elementi dell'attivo ad utilizzo durevole consistenti in partecipazioni in imprese controllate o collegate possono essere valutati, con riferimento ad una o piu' di dette imprese, anziche' secondo il criterio del costo indicato al comma 1, per un importo pari alla corrispondente frazione del patrimonio netto risultante dall'ultimo bilancio delle imprese medesime, detratti i dividendi ed operate le rettifiche richieste dai principi di redazione del bilancio consolidato nonche' quelle necessarie per il rispetto dei principi richiamati nell'[articolo 89, comma 1, del codice delle assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md). Quando la partecipazione e' iscritta per la prima volta in base a tale metodo, il costo di acquisto superiore al valore corrispondente del patrimonio netto risultante dall'ultimo bilancio dell'impresa controllata o collegata puo' essere iscritto nell'attivo, purche' ne siano indicate le ragioni nella nota integrativa e la differenza, per la parte attribuibile a beni ammortizzabili o all'avviamento, deve essere ammortizzata. Negli esercizi successivi le plusvalenze, derivanti dall'applicazione del predetto metodo, rispetto al valore indicato nel bilancio dell'esercizio precedente, sono iscritte in una riserva non distribuibile.
 
 6.
 
@@ -221,7 +221,7 @@ Gli investimenti e gli altri elementi dell'attivo non destinati a permanere dure
 
 Il valore corrente degli investimenti di cui alla classe C "investimenti dell'attivo, determinato ai sensi dei successivi articoli 17, 18 e 19, deve essere indicato nella nota integrativa a decorrere dal bilancio relativo all'esercizio 1998 salvo che per i terreni ed i fabbricati, per i quali va indicato a decorrere dall'esercizio 2000. Detto obbligo e' imposto esclusivamente a fini di comparabilita' e trasparenza e non mira a modificare il trattamento fiscale delle imprese di assicurazione. In nota integrativa sono inoltre indicati, per ciascuna categoria di strumenti finanziari derivati, il loro fair value e informazioni sulla loro entita' e natura. ((A tale fine si applicano i commi 4 e 5 dell'articolo 2426 e l'articolo 2427-bis del codice civile.)) (5) ((7)) 
  8. Gli investimenti a beneficio di assicurati dei rami vita i quali ne sopportano il rischio e gli investimenti derivanti dalla gestione dei fondi pensione di cui all'articolo 2 del presente decreto, sono iscritti al valore corrente secondo quanto disposto dagli articoli 17, 18 e 19 del presente decreto, salvo quanto previsto dall'articolo 24, comma 2, per i contratti di assicurazione ivi indicati. Nella nota integrativa e' descritto e motivato il metodo di valutazione utilizzato per ciascuna voce di detti investimenti ed indicato il valore determinato secondo il criterio del costo di acquisizione di cui ai commi precedenti. 
- 9. I crediti devono essere iscritti secondo il valore presumibile di realizzazione. Nel calcolo del valore presumibile di realizzazione dei crediti nei confronti di assicurati puo' tenersi conto della negativa evoluzione degli incassi, desunta dalle esperienze acquisite dall'impresa negli esercizi precedenti, riguardanti categorie omogenee dei crediti medesimi. Le relative svalutazioni possono essere determinate anche in modo forfettario; il loro importo e' indicato nella nota integrativa. Alle svalutazioni dei crediti nei confronti di assicurati determinate in conformita' al presente comma si applicano le disposizioni di cui all'[articolo 71, commi 3](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md) e [5, del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md). 
+ 9. I crediti devono essere iscritti secondo il valore presumibile di realizzazione. Nel calcolo del valore presumibile di realizzazione dei crediti nei confronti di assicurati puo' tenersi conto della negativa evoluzione degli incassi, desunta dalle esperienze acquisite dall'impresa negli esercizi precedenti, riguardanti categorie omogenee dei crediti medesimi. Le relative svalutazioni possono essere determinate anche in modo forfettario; il loro importo e' indicato nella nota integrativa. Alle svalutazioni dei crediti nei confronti di assicurati determinate in conformita' al presente comma si applicano le disposizioni di cui all'[articolo 71, commi 3](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md) e [5, del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md). 
  10. Le provvigioni di acquisizione liquidate anticipatamente al momento della sottoscrizione del contratto possono essere imputate interamente all'esercizio ovvero essere ammortizzate entro il periodo massimo della durata dei contratti. Nei rami vita l'ammortamento deve essere effettuato nei limiti dei caricamenti presenti in tariffa. 
  ((11. I costi di impianto e di ampliamento e i costi di sviluppo, aventi utilita' pluriennale possono essere iscritti nell'attivo con il consenso del collegio sindacale. I costi di impianto e ampliamento devono essere ammortizzati entro un periodo non superiore a cinque anni. I costi di sviluppo sono ammortizzati secondo la loro vita utile; nei casi eccezionali in cui sia impossibile determinarne la vita utile, sono ammortizzati entro un periodo non superiore a cinque anni. Fino a che l'ammortamento dei costi di impianto e ampliamento e di sviluppo non e' completato possono essere distribuiti dividendi solo se residuano riserve disponibili sufficienti a coprire l'ammontare dei costi non ammortizzati.))
                                 ((7)) 
@@ -235,19 +235,19 @@ Tuttavia tale maggior costo puo' essere ammortizzato per quote nel periodo inter
 Il minor costo dei titoli obbligazionari ad utilizzo durevole rispetto al loro prezzo di rimborso puo' essere iscritto tra i proventi per quote nello stesso periodo. Le differenze predette sono indicate separatamente nella nota integrativa. 
  ((16-bis. Fermo restando quanto disposto dal primo comma dell'articolo 2427-bis del codice civile, gli strumenti finanziari derivati, anche se incorporati in altri strumenti finanziari, sono iscritti e valutati in conformita' alle disposizioni di cui all'articolo 90, comma 1, del codice delle assicurazioni private.))
                                 ((7)) 
- 17. COMMA ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md)
+ 17. COMMA ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](../Codici/Codice%20delle%20assicurazioni%20private.md)
 
 ---------------
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 2 febbraio 2007, n. 32](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202003-51-CE%20che%20modifica%20le%20direttive%2078-660%2083-349%2086-635%20e%2091-674-CEE%20relative%20ai%20conti%20annuali%20e%20ai%20conti%20consolidati%20di%20taluni%20tipi%20di%20societa%20delle%20banche%20e_9e14ba9eb406.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi aventi inizio dalla data successiva a quella della sua entrata in vigore."
+Il [D.Lgs. 2 febbraio 2007, n. 32](Attuazione%20della%20direttiva%202003-51-CE%20che%20modifica%20le%20direttive%2078-660%2083-349%2086-635%20e%2091-674-CEE%20relative%20ai%20conti%20annuali%20e%20ai%20conti%20consolidati%20di%20taluni%20tipi%20di%20societa%20delle%20banche%20e_9e14ba9eb406.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi aventi inizio dalla data successiva a quella della sua entrata in vigore."
 
 ---------------
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md) ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md) ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 17. — Valore corrente
  degli investimenti trattati in mercati regolamentati
@@ -380,7 +380,7 @@ I titoli costituiti in deposito presso un'impresa cedente o terzi e che restano 
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md) ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md) ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 24. — Investimenti a beneficio di assicurati dei rami vita i quali ne
  sopportano il rischio
@@ -429,7 +429,7 @@ Nella nota integrativa e' fornito il dettaglio della voce di cui al comma 1 in c
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 3 novembre 2003, n. 307](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202002-12-CE%20e%202002-13-CE%20concernenti%20il%20margine%20di%20solvibilita%20delle%20imprese%20di%20assicurazione%20rispettivamente%20sulla%20vita%20e%20nei%20rami%20diversi%20dallassicurazione%20sulla%20vita.md) ha disposto (con l'art. 20, comma 1) che la suddetta modifica si applica a decorrere dal bilancio dell'esercizio 2004.
+Il [D.Lgs. 3 novembre 2003, n. 307](Attuazione%20delle%20direttive%202002-12-CE%20e%202002-13-CE%20concernenti%20il%20margine%20di%20solvibilita%20delle%20imprese%20di%20assicurazione%20rispettivamente%20sulla%20vita%20e%20nei%20rami%20diversi%20dallassicurazione%20sulla%20vita.md) ha disposto (con l'art. 20, comma 1) che la suddetta modifica si applica a decorrere dal bilancio dell'esercizio 2004.
 
 ### Art. 29. — Altre riserve
 
@@ -456,15 +456,15 @@ La voce B "passivita' subordinate" comprende i debiti, rappresentati o meno da t
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005 N. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md).
+COMMA ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005 N. 209](../Codici/Codice%20delle%20assicurazioni%20private.md).
 
 2.
 
-Le imprese che esercitano le assicurazioni nei rami danni devono costituire alla fine di ciascun esercizio le riserve tecniche ((di cui al regolamento previsto dall'articolo 90, comma 1,)) del [codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md).
+Le imprese che esercitano le assicurazioni nei rami danni devono costituire alla fine di ciascun esercizio le riserve tecniche ((di cui al regolamento previsto dall'articolo 90, comma 1,)) del [codice delle assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md).
 
 3.
 
-Le imprese che esercitano le assicurazioni nei rami vita devono costituire alla fine di ciascun esercizio le riserve tecniche previste ((dal regolamento di cui all'articolo 90, comma 1,)) del [codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md).
+Le imprese che esercitano le assicurazioni nei rami vita devono costituire alla fine di ciascun esercizio le riserve tecniche previste ((dal regolamento di cui all'articolo 90, comma 1,)) del [codice delle assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md).
 
 4.
 

@@ -277,7 +277,7 @@ Note all'art. 6:
 
 1.
 
-Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 640](../DPR/Imposta%20sugli%20spettacoli.md), come modificato dal [decreto legislativo 26 febbraio 1999, n. 60](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20dellimposta%20sugli%20intrattenimenti%20in%20attuazione%20della%20legge%203%20agosto%201998%20n.%20288%20nonche%20modifiche%20alla%20disciplina%20dellimposta%20sugli%20spettacoli%20di%20cui%20ai%20decreti%20del%20Presidente_b541acdbe1db.md), concernente l'imposta sugli intrattenimenti, sono apportate le seguenti modificazioni:
+Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 640](../DPR/Imposta%20sugli%20spettacoli.md), come modificato dal [decreto legislativo 26 febbraio 1999, n. 60](Istituzione%20dellimposta%20sugli%20intrattenimenti%20in%20attuazione%20della%20legge%203%20agosto%201998%20n.%20288%20nonche%20modifiche%20alla%20disciplina%20dellimposta%20sugli%20spettacoli%20di%20cui%20ai%20decreti%20del%20Presidente_b541acdbe1db.md), concernente l'imposta sugli intrattenimenti, sono apportate le seguenti modificazioni:
                             a)
                                 l'articolo 32 e' sostituito dal seguente: 
  "Art. 32 (Sanzioni amministrative per violazioni concernenti la fatturazione e l'annotazione delle operazioni, nonche' la presentazione della dichiarazione e il rilascio di titoli di accesso). - 1. Per l'omessa fatturazione o annotazione delle operazioni indicate nell'[articolo 1, comma 1, del decreto del Presidente della Repubblica 30 dicembre 1999, n. 544](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20materia%20di%20imposta%20sugli%20intrattenimenti.md), si applica la sanzione compresa fra il cento e il duecento per cento dell'imposta relativa all'imponibile non correttamente documentato o registrato, con un minimo di lire un milione. Alla stessa sanzione, commisurata all'imposta, e' soggetto chi indica nella documentazione o nell'annotazione un'imposta inferiore a quella dovuta. 
@@ -342,7 +342,7 @@ Note all'art. 8:
 
 1.
 
-Al [regio decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), concernente le tasse sui contratti di borsa, sono apportate le seguenti modificazioni:
+Al [regio decreto 30 dicembre 1923, n. 3278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), concernente le tasse sui contratti di borsa, sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 16, nel terzo comma, le parole "con la pena pecuniaria da lire 8.000 a lire 20.000" sono sostituite dalle seguenti: "con la sanzione amministrativa da lire duecentomila a lire un milione";
                             b)
@@ -376,7 +376,7 @@ Note all'art. 9:
  L'azione penale per le contravvenzioni agli articoli citati nel precedente comma, si prescrive col decorso di due anni, dal giorno della commessa contravvenzione.
  Alle violazioni delle disposizioni previste dal presente decreto, si applicano altresi', in quanto compatibili, le disposizioni contemplate nel titolo VI del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](../DPR/Disciplina%20dellimposta%20di%20bollo.md).".
  - Si riporta il [comma 2 dell'art. 9 del D.L. n. 417 del 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991;417#art_9-com2), convertito con modificazioni della [legge n. 66 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;66) recante disposizioni concernenti criteri di applicazione dell'imposta sul valore aggiunto, delle tasse per i contratti di trasferimento di titoli o di valori e altre disposizioni tributarie urgenti, dal testo che viene abrogato dall'art. 9 del presente decreto:
- "2. Per le violazioni alle disposizioni recate dal [R.D. 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive modificazioni, si applica quanto previsto dai titoli V e VI del [D.P.R. 26 ottobre 1972, n. 642](../DPR/Disciplina%20dellimposta%20di%20bollo.md), e successive modificazioni.".
+ "2. Per le violazioni alle disposizioni recate dal [R.D. 30 dicembre 1923, n. 3278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive modificazioni, si applica quanto previsto dai titoli V e VI del [D.P.R. 26 ottobre 1972, n. 642](../DPR/Disciplina%20dellimposta%20di%20bollo.md), e successive modificazioni.".
 
 ## Sanzioni in materia di tributi doganali e di imposte sulla produzione e sui consumi
 
@@ -427,7 +427,7 @@ Capo IV
 
 1.
 
-Al testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono apportate le seguenti 
+Al testo unico per la finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sono apportate le seguenti 
  modificazioni:
                             a)
                                 l'articolo 292 e' sostituito dal seguente: 
@@ -439,7 +439,7 @@ Al testo unico per la finanza locale, approvato con [regio decreto 14 settembre 
 Note all'art. 11:
  - Si riporta l'[art. 296 del R.D. n. 1175 del 1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;1175#art_296) in materia di finanza locale che viene abrogato dall'art. 11 del presente decreto:
  "Art. 296 (Sanzioni amministrative). - Salvo quanto e' disposto nel capo terzo del titolo terzo e salvo i casi in cui sia stabilita una pena piu' grave, le violazioni alle norme del presente testo unico riguardanti l'applicazione dei tributi e quelle dei relativi regolamenti sono punite, oltre che con le sanzioni civili comminate nei singoli casi, con la sanzione amministrativa da lire 10.000 a lire 500.000.
- Per l'accertamento e la definizione amministrativa delle contravvenzioni si osservano, in quanto applicabili, le norme degli articoli da 106 a 110 e 155 del testo unico della legge comunale e provinciale, approvata con [regio decreto 3 marzo 1934, n. 383](../Testi%20Unici/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
+ Per l'accertamento e la definizione amministrativa delle contravvenzioni si osservano, in quanto applicabili, le norme degli articoli da 106 a 110 e 155 del testo unico della legge comunale e provinciale, approvata con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
  La misura dell'oblazione entro i limiti di cui sopra e' determinata discrezionalmente dal Podesta' o dal preside a seconda della rispettiva competenza.".
 
 ### Art. 12. — Sanzioni in materia di imposta comunale sulla pubblicita' e diritto  sulle pubbliche affissioni, di tassa per l'occupazione di spazi ed aree pubbliche e di tassa per lo smaltimento dei rifiuti solidi urbani.

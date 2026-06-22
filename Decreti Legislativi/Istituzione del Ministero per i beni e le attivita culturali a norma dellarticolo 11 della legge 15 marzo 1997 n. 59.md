@@ -227,13 +227,13 @@ L'incarico di segretario generale e' conferito ai sensi dell'[articolo 19, comma
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 8 gennaio 2004, n. 3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riorganizzazione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20ai%20sensi%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), ha disposto (con l'art. 7, comma 1) che " A decorrere dalla data di entrata in vigore delle norme regolamentari di cui all'[articolo 54, comma 4, del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), come modificato dall'articolo 1 del presente decreto, e' abrogato l'[articolo 5 del decreto legislativo 20 ottobre 1998, n. 368](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md)."
+Il [D.Lgs. 8 gennaio 2004, n. 3](Riorganizzazione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20ai%20sensi%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), ha disposto (con l'art. 7, comma 1) che " A decorrere dalla data di entrata in vigore delle norme regolamentari di cui all'[articolo 54, comma 4, del decreto legislativo 30 luglio 1999, n. 300](Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), come modificato dall'articolo 1 del presente decreto, e' abrogato l'[articolo 5 del decreto legislativo 20 ottobre 1998, n. 368](Istituzione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md)."
 
 ## Art. 6. — Organizzazione del Ministero
 
 1.
 
-L'organizzazione del Ministero e' stabilita ai sensi dell'[articolo 54 del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) e successive modificazioni.
+L'organizzazione del Ministero e' stabilita ai sensi dell'[articolo 54 del decreto legislativo 30 luglio 1999, n. 300](Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) e successive modificazioni.
 
 2.
 

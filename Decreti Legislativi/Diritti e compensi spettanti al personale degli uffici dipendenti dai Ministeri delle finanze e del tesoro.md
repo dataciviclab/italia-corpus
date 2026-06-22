@@ -45,12 +45,12 @@ Le visure, le copie, i certificati e gli estratti indicati nel titolo VI della t
 ### Art. 4.
 
 La Sezione centrale per la formazione e per la conservazione dello "Schedario generale dei titoli azionari" e' tenuta a rilasciare ricevuta ai richiedenti dei diritti riscossi a norma del titolo VI della tabella, allegato A, annotandone l'importo in apposito registro.
- L'ammontare dei diritti deve essere versato mensilmente sul conto corrente postale di cui all'[art. 3 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 672](../Decreti%20legislativi%20luogotenenziali/Diritti%20e%20compensi%20spettanti%20agli%20Uffici%20distrettuali%20delle%20imposte%20dirette%20agli%20Uffici%20tecnici%20erariali%20e%20del%20catasto%20agli%20Uffici%20del%20registro%20ed%20agli%20Uffici%20dei%20registri%20immobiliari.%20045U0672.md).
+ L'ammontare dei diritti deve essere versato mensilmente sul conto corrente postale di cui all'[art. 3 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 672](../Atti%20normativi%20abrogati%20%28in%20originale%29/Diritti%20e%20compensi%20spettanti%20agli%20Uffici%20distrettuali%20delle%20imposte%20dirette%20agli%20Uffici%20tecnici%20erariali%20e%20del%20catasto%20agli%20Uffici%20del%20registro%20ed%20agli%20Uffici%20dei%20registri%20immobiliari.%20045U0672.md).
 
 ### Art. 5.
 
 Il [primo comma dell'art. 2 del decreto legislativo del Capo provvisorio dello Stato 11 maggio 1947, n. 378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-11;378#art_2-com1), e' sostituito dal seguente:
- "Il diritto di riscontro sulle quietanze indicato al titolo V della tabella prevista dall'art. 1 e' riscosso dagli esattori e l'ammontare di esso, afferente a tutti i tributi pagati fino all'ultimo giorno di ciascun mese pari, e' versato non oltre il giorno 8 del mese successivo sullo stesso conto corrente postale, al quale affiniscono i compensi disposti dal [decreto legislativo luogotenenziale 12 ottobre 1945, n. 672](../Decreti%20legislativi%20luogotenenziali/Diritti%20e%20compensi%20spettanti%20agli%20Uffici%20distrettuali%20delle%20imposte%20dirette%20agli%20Uffici%20tecnici%20erariali%20e%20del%20catasto%20agli%20Uffici%20del%20registro%20ed%20agli%20Uffici%20dei%20registri%20immobiliari.%20045U0672.md), modificato dal [decreto legislativo del Capo provvisorio dello Stato 11 maggio 1947, n. 378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-11;378) e dal presente decreto".
+ "Il diritto di riscontro sulle quietanze indicato al titolo V della tabella prevista dall'art. 1 e' riscosso dagli esattori e l'ammontare di esso, afferente a tutti i tributi pagati fino all'ultimo giorno di ciascun mese pari, e' versato non oltre il giorno 8 del mese successivo sullo stesso conto corrente postale, al quale affiniscono i compensi disposti dal [decreto legislativo luogotenenziale 12 ottobre 1945, n. 672](../Atti%20normativi%20abrogati%20%28in%20originale%29/Diritti%20e%20compensi%20spettanti%20agli%20Uffici%20distrettuali%20delle%20imposte%20dirette%20agli%20Uffici%20tecnici%20erariali%20e%20del%20catasto%20agli%20Uffici%20del%20registro%20ed%20agli%20Uffici%20dei%20registri%20immobiliari.%20045U0672.md), modificato dal [decreto legislativo del Capo provvisorio dello Stato 11 maggio 1947, n. 378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-11;378) e dal presente decreto".
 
 ## Amministrazione delle tasse e delle imposte indirette sugli affari.
 
@@ -58,7 +58,7 @@ TITOLO II
 
 ### Art. 6.
 
-La tabella D annessa al [decreto legislativo luogotenenziale 12 ottobre 1945, n. 672](../Decreti%20legislativi%20luogotenenziali/Diritti%20e%20compensi%20spettanti%20agli%20Uffici%20distrettuali%20delle%20imposte%20dirette%20agli%20Uffici%20tecnici%20erariali%20e%20del%20catasto%20agli%20Uffici%20del%20registro%20ed%20agli%20Uffici%20dei%20registri%20immobiliari.%20045U0672.md), modificato dall'[art. 8 del decreto legislativo del Capo provvisorio dello Stato 11 maggio 1947, n. 378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-11;378#art_8), e' soppressa e sostituita dalla tabella D annessa al presente decreto firmata dal Ministro per le finanze.
+La tabella D annessa al [decreto legislativo luogotenenziale 12 ottobre 1945, n. 672](../Atti%20normativi%20abrogati%20%28in%20originale%29/Diritti%20e%20compensi%20spettanti%20agli%20Uffici%20distrettuali%20delle%20imposte%20dirette%20agli%20Uffici%20tecnici%20erariali%20e%20del%20catasto%20agli%20Uffici%20del%20registro%20ed%20agli%20Uffici%20dei%20registri%20immobiliari.%20045U0672.md), modificato dall'[art. 8 del decreto legislativo del Capo provvisorio dello Stato 11 maggio 1947, n. 378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-11;378#art_8), e' soppressa e sostituita dalla tabella D annessa al presente decreto firmata dal Ministro per le finanze.
 
 ### Art. 7.
 
@@ -119,7 +119,7 @@ TITOLO IV
 
 AGGIORNAMENTO (2)
 
-La [L. 17 luglio 1951, n.575](../Leggi%20di%20ratifica/Ratifica%20senza%20modificazioni%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2011%20maggio%201947%20n.%20378%20e%20ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2028%20gennaio%201948%20n.%2076%20conc_029416ba777b.md) ha disposto (con l'art. 3, comma 2) che "I [decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76](Diritti%20e%20compensi%20spettanti%20al%20personale%20degli%20uffici%20dipendenti%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.md) e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952."
+La [L. 17 luglio 1951, n.575](../DL%20e%20leggi%20di%20conversione/Ratifica%20senza%20modificazioni%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2011%20maggio%201947%20n.%20378%20e%20ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2028%20gennaio%201948%20n.%2076%20conc_029416ba777b.md) ha disposto (con l'art. 3, comma 2) che "I [decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76](Diritti%20e%20compensi%20spettanti%20al%20personale%20degli%20uffici%20dipendenti%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.md) e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952."
 
 ## TITOLO V ((Ministero del tesoro, Corte dei conti ed uffici dipendenti))
 
@@ -143,7 +143,7 @@ Per le somme riscosse in relazione alla tabella F di cui al precedente articolo 
 
 AGGIORNAMENTO (2)
 
-La [L. 17 luglio 1951, n.575](../Leggi%20di%20ratifica/Ratifica%20senza%20modificazioni%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2011%20maggio%201947%20n.%20378%20e%20ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2028%20gennaio%201948%20n.%2076%20conc_029416ba777b.md) ha disposto (con l'art. 3, comma 2) che "I [decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76](Diritti%20e%20compensi%20spettanti%20al%20personale%20degli%20uffici%20dipendenti%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.md) e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952."
+La [L. 17 luglio 1951, n.575](../DL%20e%20leggi%20di%20conversione/Ratifica%20senza%20modificazioni%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2011%20maggio%201947%20n.%20378%20e%20ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2028%20gennaio%201948%20n.%2076%20conc_029416ba777b.md) ha disposto (con l'art. 3, comma 2) che "I [decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76](Diritti%20e%20compensi%20spettanti%20al%20personale%20degli%20uffici%20dipendenti%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.md) e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952."
 
 ### Art. 17.
 
@@ -153,7 +153,7 @@ La [L. 17 luglio 1951, n.575](../Leggi%20di%20ratifica/Ratifica%20senza%20modifi
 
 AGGIORNAMENTO (2)
 
-La [L. 17 luglio 1951, n.575](../Leggi%20di%20ratifica/Ratifica%20senza%20modificazioni%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2011%20maggio%201947%20n.%20378%20e%20ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2028%20gennaio%201948%20n.%2076%20conc_029416ba777b.md) ha disposto (con l'art. 3, comma 2) che "I [decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76](Diritti%20e%20compensi%20spettanti%20al%20personale%20degli%20uffici%20dipendenti%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.md) e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952."
+La [L. 17 luglio 1951, n.575](../DL%20e%20leggi%20di%20conversione/Ratifica%20senza%20modificazioni%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2011%20maggio%201947%20n.%20378%20e%20ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2028%20gennaio%201948%20n.%2076%20conc_029416ba777b.md) ha disposto (con l'art. 3, comma 2) che "I [decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76](Diritti%20e%20compensi%20spettanti%20al%20personale%20degli%20uffici%20dipendenti%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.md) e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952."
 
 ### Art. 18.
 
@@ -163,7 +163,7 @@ La [L. 17 luglio 1951, n.575](../Leggi%20di%20ratifica/Ratifica%20senza%20modifi
 
 AGGIORNAMENTO (2)
 
-La [L. 17 luglio 1951, n.575](../Leggi%20di%20ratifica/Ratifica%20senza%20modificazioni%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2011%20maggio%201947%20n.%20378%20e%20ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2028%20gennaio%201948%20n.%2076%20conc_029416ba777b.md) ha disposto (con l'art. 3, comma 2) che "I [decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76](Diritti%20e%20compensi%20spettanti%20al%20personale%20degli%20uffici%20dipendenti%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.md) e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952."
+La [L. 17 luglio 1951, n.575](../DL%20e%20leggi%20di%20conversione/Ratifica%20senza%20modificazioni%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2011%20maggio%201947%20n.%20378%20e%20ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2028%20gennaio%201948%20n.%2076%20conc_029416ba777b.md) ha disposto (con l'art. 3, comma 2) che "I [decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76](Diritti%20e%20compensi%20spettanti%20al%20personale%20degli%20uffici%20dipendenti%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.md) e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952."
 
 ### Art. 19.
 
@@ -173,7 +173,7 @@ La [L. 17 luglio 1951, n.575](../Leggi%20di%20ratifica/Ratifica%20senza%20modifi
 
 AGGIORNAMENTO (2)
 
-La [L. 17 luglio 1951, n.575](../Leggi%20di%20ratifica/Ratifica%20senza%20modificazioni%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2011%20maggio%201947%20n.%20378%20e%20ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2028%20gennaio%201948%20n.%2076%20conc_029416ba777b.md) ha disposto (con l'art. 3, comma 2) che "I [decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76](Diritti%20e%20compensi%20spettanti%20al%20personale%20degli%20uffici%20dipendenti%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.md) e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952."
+La [L. 17 luglio 1951, n.575](../DL%20e%20leggi%20di%20conversione/Ratifica%20senza%20modificazioni%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2011%20maggio%201947%20n.%20378%20e%20ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2028%20gennaio%201948%20n.%2076%20conc_029416ba777b.md) ha disposto (con l'art. 3, comma 2) che "I [decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76](Diritti%20e%20compensi%20spettanti%20al%20personale%20degli%20uffici%20dipendenti%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.md) e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952."
 
 ## Disposizioni finali e comuni.
 
@@ -208,7 +208,7 @@ Ad eccezione del personale del Catasto e dei Servizi tecnici erariali per il qua
 
 AGGIORNAMENTO (2)
 
-La [L. 17 luglio 1951, n.575](../Leggi%20di%20ratifica/Ratifica%20senza%20modificazioni%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2011%20maggio%201947%20n.%20378%20e%20ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2028%20gennaio%201948%20n.%2076%20conc_029416ba777b.md) ha disposto (con l'art. 3, comma 2) che "I [decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76](Diritti%20e%20compensi%20spettanti%20al%20personale%20degli%20uffici%20dipendenti%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.md) e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952."
+La [L. 17 luglio 1951, n.575](../DL%20e%20leggi%20di%20conversione/Ratifica%20senza%20modificazioni%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2011%20maggio%201947%20n.%20378%20e%20ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2028%20gennaio%201948%20n.%2076%20conc_029416ba777b.md) ha disposto (con l'art. 3, comma 2) che "I [decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76](Diritti%20e%20compensi%20spettanti%20al%20personale%20degli%20uffici%20dipendenti%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.md) e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952."
 
 ### Art. 26.
 
@@ -219,7 +219,7 @@ Il presente decreto entra in vigore il giorno successivo a quello della sua pubb
 
 AGGIORNAMENTO (2)
 
-La [L. 17 luglio 1951, n.575](../Leggi%20di%20ratifica/Ratifica%20senza%20modificazioni%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2011%20maggio%201947%20n.%20378%20e%20ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2028%20gennaio%201948%20n.%2076%20conc_029416ba777b.md) ha disposto (con l'art. 3, comma 2) che "I [decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76](Diritti%20e%20compensi%20spettanti%20al%20personale%20degli%20uffici%20dipendenti%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.md) e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952."
+La [L. 17 luglio 1951, n.575](../DL%20e%20leggi%20di%20conversione/Ratifica%20senza%20modificazioni%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2011%20maggio%201947%20n.%20378%20e%20ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2028%20gennaio%201948%20n.%2076%20conc_029416ba777b.md) ha disposto (con l'art. 3, comma 2) che "I [decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76](Diritti%20e%20compensi%20spettanti%20al%20personale%20degli%20uffici%20dipendenti%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.md) e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

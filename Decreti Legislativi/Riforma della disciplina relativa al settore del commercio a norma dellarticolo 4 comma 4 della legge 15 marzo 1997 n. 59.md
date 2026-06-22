@@ -204,7 +204,7 @@ Note all'[art. 4:
  - La [legge 18 dicembre 1970, n. 1034](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20ottobre%201970%20n.%20745%20concernente%20provvedimenti%20straordinari%20per%20la%20ripresa%20economica.md) recante: "Conversione in legge, con modificazioni, del [decreto-legge 26 ottobre 1970, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1970-10-26;745), concernente provvedimenti straordinari per la ripresa economica", e' pubblicata nella Gazzetta Ufficiale n. 323 del 23 dicembre 1970.
  - Il [decreto legislativo 11 febbraio 1998, n. 32](Razionalizzazione%20del%20sistema%20di%20distribuzione%20dei%20carburanti%20a%20norma%20dellarticolo%204%20comma%204%20lettera%20c%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante: "Razionalizzazione del sistema di distribuzione dei carburanti a norma dell'[art. 4, comma 4, lettera c), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)" e' pubblicato nella Gazzetta Ufficiale n. 53 del 5 marzo 1998.
  - Il testo dell'[art. 5, primo comma, della legge 8 agosto 1985, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443#art_5-com1), e' il seguente:
- "Art. 5 (Albo delle imprese artigiane). - E' istituito l'albo provinciale delle imprese artigiane, al quale sono tenute ad iscriversi tutte le imprese aventi i requisiti di cui agli articoli 2, 3 e 4 secondo le formalita' previste per il registro delle ditte dagli [articoli 47 e seguenti del regio decreto 20 settembre 1934, n. 2011](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md).
+ "Art. 5 (Albo delle imprese artigiane). - E' istituito l'albo provinciale delle imprese artigiane, al quale sono tenute ad iscriversi tutte le imprese aventi i requisiti di cui agli articoli 2, 3 e 4 secondo le formalita' previste per il registro delle ditte dagli [articoli 47 e seguenti del regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md).
  - Il testo dell'[art. 106 del regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267#art_106), recante: "Disciplina del fallimento, del concordato preventivo, dell'amministrazione controllata e della liquidazione coatta amministrativa", e' il seguente:
  "Art. 106 (Modalita' della vendita dei beni mobili). - Per i beni mobili, compresi i frutti naturali degli immobili,.
  Note all'[art. 4:
@@ -223,7 +223,7 @@ Ai sensi del presente decreto l'attivita' commerciale puo' essere esercitata con
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 3.
 
@@ -231,11 +231,11 @@ L'accertamento delle condizioni di cui al comma 2 e' effettuato sulla base delle
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 5.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md). 
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md). 
  6.((COMMA ABROGATO DAL D.LGS. 26 MARZO 2010, N. 59, COME MODIFICATO DAL D.LGS. 6 AGOSTO 2012, N. 147)). 
  7. Le regioni stabiliscono le modalita' di organizzazione, la durata e le materie del corso professionale di cui al comma 5, lettera a), garantendone l'effettuazione anche tramite rapporti convenzionali con soggetti idonei. A tale fine saranno considerate in via prioritaria le camere di commercio, le organizzazioni imprenditoriali del commercio piu' rappresentative e gli enti da queste costituiti. 
  8. Il corso professionale ha per oggetto materie idonee a garantire l'apprendimento delle disposizioni relative alla salute, alla sicurezza e all'informazione del consumatore. Prevede altresi' materie che hanno riguardo agli aspetti relativi alla conservazione, manipolazione e trasformazione degli alimenti, sia freschi che conservati. 
@@ -307,7 +307,7 @@ In caso di inerzia da parte del comune, le regioni provvedono in via sostitutiva
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 2.
 
@@ -556,11 +556,11 @@ Titolo VI
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 3.
 
@@ -570,11 +570,11 @@ Nella ((segnalazione certificata di inizio di attivita')) deve essere dichiarata
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 3.
 
@@ -588,7 +588,7 @@ La vendita mediante apparecchi automatici effettuata in apposito locale ad essa 
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 2.
 
@@ -608,7 +608,7 @@ Le operazioni di vendita all'asta realizzate per mezzo della televisione o di al
 
 6.
 
-Chi effettua le vendite tramite televisione per conto terzi deve essere in possesso della licenza prevista dall'[articolo 115 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
+Chi effettua le vendite tramite televisione per conto terzi deve essere in possesso della licenza prevista dall'[articolo 115 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
 
 7.
 
@@ -618,11 +618,11 @@ COMMA ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](../Codici/Codice%20del%20co
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 3.
 
@@ -1047,7 +1047,7 @@ La disciplina di cui al presente titolo non si applica ai coltivatori diretti, a
 
 5.
 
-Resta salvo il divieto di vendere sulle aree pubbliche bevande alcoliche di qualsiasi gradazione diverse da quelle poste in vendita in recipienti chiusi nei limiti e con le modalita' di cui all'articolo 176, comma 1, del regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), e successive modifiche, nonche' il divieto di vendere o esporre armi, esplosivi od oggetti preziosi. E' abolito ogni precedente divieto di vendita di merci ivi incluso quello della vendita del pane nei mercati scoperti, fatto salvo il rispetto dei requisiti igienicosanitari.
+Resta salvo il divieto di vendere sulle aree pubbliche bevande alcoliche di qualsiasi gradazione diverse da quelle poste in vendita in recipienti chiusi nei limiti e con le modalita' di cui all'articolo 176, comma 1, del regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), e successive modifiche, nonche' il divieto di vendere o esporre armi, esplosivi od oggetti preziosi. E' abolito ogni precedente divieto di vendita di merci ivi incluso quello della vendita del pane nei mercati scoperti, fatto salvo il rispetto dei requisiti igienicosanitari.
 
 6.
 
@@ -1055,7 +1055,7 @@ Sono abrogate: la [legge 28 marzo 1991, n. 112](../Atti%20normativi%20abrogati%2
 
 Note all'art. 30:
  - Per il testo della [legge 9 febbraio 1962, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-02-09;59), si fa riferimento alle note all'art. 4.
- - Il testo del primo comma dell'art. 176 del regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), modificato dall'[art. 7 della legge 11 maggio 1981, n. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-11;213#art_7), pubblicata nella Gazzetta Ufficiale n. 134 del 18 maggio 1981, e' il seguente:
+ - Il testo del primo comma dell'art. 176 del regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), modificato dall'[art. 7 della legge 11 maggio 1981, n. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-11;213#art_7), pubblicata nella Gazzetta Ufficiale n. 134 del 18 maggio 1981, e' il seguente:
  "Agli effetti dell'art. 86 della legge non si considera vendita al minuto di bevande alcoliche quella fatta in recipienti chiusi secondo le consuetudini commerciali, e da trasportarsi fuori del locale di vendita, purche' la quantita' contenuta nei singoli recipienti non sia inferiore a litri 0,200 per le bevande alcoliche di cui all'art. 89 della legge, ed a litri 0,33 per le altre. Per le bevande non alcoliche, e' considerata vendita al minuto esclusivamente quella congiunta al consumo".
  - La [legge 28 marzo 1991, n. 112](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20in%20materia%20di%20commercio%20su%20aree%20pubbliche.md), recante: "Norme in materia di commercio su aree pubbliche", e' pubblicata nella Gazzetta Ufficiale n. 82 dell'8 aprile 1991.
  - La [legge 15 novembre 1995, n. 480](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20settembre%201995%20n.%20381%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanziamento%20delle%20camere%20di%20commercio.md), recante: "Conversione in legge con modificazioni del [decreto-legge 18 settembre 1995, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-09-18;381) recante disposizioni urgenti in materia di finanziamento delle Camere di commercio", e' pubblicata nella Gazzetta Ufficiale n. 269 del 17 novembre 1995.

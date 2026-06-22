@@ -154,7 +154,7 @@ La Corte costituzionale, con la sentenza 23 giugno-7 luglio 2005, n. 207 (in G.U
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 23 dicembre 2022, n. 200](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico.%2022G00208.md) ha disposto (con l'art. 12, comma 2) che la presente modifica si applica a decorrere dal primo rinnovo del collegio sindacale.
+Il [D.Lgs. 23 dicembre 2022, n. 200](Riordino%20della%20disciplina%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico.%2022G00208.md) ha disposto (con l'art. 12, comma 2) che la presente modifica si applica a decorrere dal primo rinnovo del collegio sindacale.
 
 ### Art. 5. — Istituti non trasformati
 
@@ -218,11 +218,11 @@ Entro novanta giorni dal loro insediamento, i consigli di amministrazione delle 
 
 5.
 
-Il regime fiscale relativo alle erogazioni liberali effettuate dai soggetti privati a favore delle Fondazioni IRCCS, di cui all'articolo 2, comma 1, e' determinato, al fine di assicurare l'armonizzazione delle disposizioni recate dall'articolo 42, comma 1, lettera l), e dal com-ma 3, del medesimo articolo della [legge 16 gennaio 2003, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-01-16;3), in sede di attuazione dell'[articolo 3 della legge 7 aprile 2003, n. 80](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20del%20sistema%20fiscale%20statale.md).
+Il regime fiscale relativo alle erogazioni liberali effettuate dai soggetti privati a favore delle Fondazioni IRCCS, di cui all'articolo 2, comma 1, e' determinato, al fine di assicurare l'armonizzazione delle disposizioni recate dall'articolo 42, comma 1, lettera l), e dal com-ma 3, del medesimo articolo della [legge 16 gennaio 2003, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-01-16;3), in sede di attuazione dell'[articolo 3 della legge 7 aprile 2003, n. 80](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20del%20sistema%20fiscale%20statale.md).
 
 Nota all'[art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-01-16;3#art_7):
  - L'[art. 42 della legge 16 gennaio 2003, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-01-16;3#art_42), e' riportata nelle note alle premesse.
- - L'[art. 3 della legge 7 aprile 2003, n. 80](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20del%20sistema%20fiscale%20statale.md) (Delega al Governo per la riforma del sistema fiscale statale), e' il seguente:
+ - L'[art. 3 della legge 7 aprile 2003, n. 80](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20del%20sistema%20fiscale%20statale.md) (Delega al Governo per la riforma del sistema fiscale statale), e' il seguente:
  «Art. 3 (Imposta sul reddito). - 1. Dato l'obiettivo di ridurre a due le aliquote dell'imposta sul reddito, rispettivamente pari al 23 per cento fino a 100.000 euro e al 33 per cento oltre tale importo, nel rispetto dei principi della codificazione, la riforma dell'imposta sul reddito si articola sulla base dei seguenti principi e criteri direttivi:
  a) inclusione, tra i soggetti passivi dell'imposta, degli enti non commerciali;
  b) conservazione del regime di imposizione previsto per le societa' di persone residenti e soggetti equiparati;
@@ -541,7 +541,7 @@ La Corte costituzionale, con la sentenza 23 giugno-7 luglio 2005, n. 207 (in G.U
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 23 dicembre 2022, n. 200](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico.%2022G00208.md) ha disposto (con l'art. 12, comma 4) che "Le disposizioni di cui agli articoli 7 e 8 si applicano decorsi centottanta giorni dalla data di entrata in vigore del presente decreto e valgono anche per le istanze non ancora definite a quella data. Le medesime disposizioni si applicano alla prima conferma successiva alla data di entrata in vigore del presente decreto per gli Istituti gia' riconosciuti e comunque non prima di dodici mesi dalla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 23 dicembre 2022, n. 200](Riordino%20della%20disciplina%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico.%2022G00208.md) ha disposto (con l'art. 12, comma 4) che "Le disposizioni di cui agli articoli 7 e 8 si applicano decorsi centottanta giorni dalla data di entrata in vigore del presente decreto e valgono anche per le istanze non ancora definite a quella data. Le medesime disposizioni si applicano alla prima conferma successiva alla data di entrata in vigore del presente decreto per gli Istituti gia' riconosciuti e comunque non prima di dodici mesi dalla data di entrata in vigore del presente decreto".
 
 ### Art. 14. — Procedimento per il riconoscimento
 
@@ -580,7 +580,7 @@ In caso di revoca del riconoscimento, le Fondazioni IRCCS e gli Istituti, pubbli
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 23 dicembre 2022, n. 200](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico.%2022G00208.md) ha disposto (con l'art. 12, comma 4) che "Le disposizioni di cui agli articoli 7 e 8 si applicano decorsi centottanta giorni dalla data di entrata in vigore del presente decreto e valgono anche per le istanze non ancora definite a quella data. Le medesime disposizioni si applicano alla prima conferma successiva alla data di entrata in vigore del presente decreto per gli Istituti gia' riconosciuti e comunque non prima di dodici mesi dalla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 23 dicembre 2022, n. 200](Riordino%20della%20disciplina%20degli%20Istituti%20di%20ricovero%20e%20cura%20a%20carattere%20scientifico.%2022G00208.md) ha disposto (con l'art. 12, comma 4) che "Le disposizioni di cui agli articoli 7 e 8 si applicano decorsi centottanta giorni dalla data di entrata in vigore del presente decreto e valgono anche per le istanze non ancora definite a quella data. Le medesime disposizioni si applicano alla prima conferma successiva alla data di entrata in vigore del presente decreto per gli Istituti gia' riconosciuti e comunque non prima di dodici mesi dalla data di entrata in vigore del presente decreto".
 
 ### Art. 16. — (Vigilanza)
 

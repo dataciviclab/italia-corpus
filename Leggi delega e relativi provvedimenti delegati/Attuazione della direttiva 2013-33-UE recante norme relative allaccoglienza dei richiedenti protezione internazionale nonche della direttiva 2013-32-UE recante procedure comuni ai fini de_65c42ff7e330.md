@@ -138,53 +138,38 @@ Note all'art. 3:
  4. Il richiedente e' tempestivamente informato della decisione. Tutte le comunicazioni concernenti il procedimento per il riconoscimento della protezione internazionale sono rese al richiedente nella prima lingua da lui indicata, o, se cio' non e' possibile, in lingua inglese, francese, spagnola o araba, secondo la preferenza indicata dall'interessato. In tutte le fasi del procedimento connesse alla presentazione ed all'esame della domanda, al richiedente e' garantita, se necessario, l'assistenza di un interprete della sua lingua o di altra lingua a lui comprensibile. Ove necessario, si provvede alla traduzione della documentazione prodotta dal richiedente in ogni fase della procedura. 
  5. In caso di impugnazione della decisione in sede giurisdizionale, allo straniero, durante lo svolgimento del relativo giudizio, sono assicurate le stesse garanzie di cui al presente articolo.".
 
-### Art. 4. — Documentazione
+### Art. 4. — ((Documenti forniti al richiedente))
 
 1.
 
-Al richiedente e' rilasciato un permesso di soggiorno per richiesta asilo valido nel territorio nazionale per sei mesi, rinnovabile fino alla decisione della domanda o comunque per il tempo in cui e' autorizzato a rimanere nel territorio nazionale ai sensi dell'[articolo 35-bis, commi 3](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md) e [4, del decreto legislativo 28 gennaio 2008, n. 25](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md). Il permesso di soggiorno costituisce documento di riconoscimento ai sensi dell'[articolo 1, comma 1, lettera c), del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md). (2) (6)
-
-1-bis.
-
-Il permesso di soggiorno di cui al comma 1 non costituisce titolo per l'iscrizione anagrafica ai sensi del [decreto del Presidente della Repubblica 30 maggio 1989, n. 223, e dell'articolo 6, comma 7](../DPR/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md), del [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md). (6)
+((Al momento della registrazione della domanda, la questura o l'ufficio di polizia di frontiera rilasciano al richiedente protezione internazionale un documento nominativo, recante il codice unico d'identita', assegnato in esito alle attivita' di fotosegnalamento svolte, nonche' la fotografia e le relative generalita' dichiarate dallo straniero nel corso del fotosegnalamento. Il documento nominativo di cui al primo periodo, valido fino alla data del rilascio del documento di cui al comma 4, attesta che la domanda e' stata registrata ai sensi dell'articolo 26-bis del decreto legislativo 28 gennaio 2008, n. 25, indica la data di registrazione e consente il riconoscimento del titolare ai sensi dell'articolo 1, comma 1, lettera c), del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.))
 
 2.
 
-In caso di trattenimento ai sensi del presente decreto, la questura rilascia al richiedente un attestato nominativo, ((recante il codice unico d'identita', assegnato in esito alle attivita' di foto-segnalamento svolte, la fotografia del titolare e le generalita' dichiarate dal richiedente)). L'attestato nominativo certifica la qualita' di richiedente la protezione internazionale, attesta l'identita' dichiarata dall'interessato nel corso delle attivita' di foto-segnalamento e consente il riconoscimento del titolare ai sensi dell'[articolo 1, comma 1, lettera c), del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md).
+((In caso di trattenimento, ovvero in caso di detenzione, e' rilasciato dalla questura, al momento della formalizzazione della domanda, un attestato nominativo recante gli elementi previsti dall'articolo 29, paragrafi 4 e 8, del regolamento (UE) 2024/1348, nonche' il codice unico d'identita', assegnato in esito alle attivita' di fotosegnalamento svolte, la fotografia del titolare e le generalita' dichiarate dal richiedente. L'attestato nominativo certifica la qualita' di richiedente la protezione internazionale, attesta l'identita' dichiarata dall'interessato nel corso delle attivita' di fotosegnalamento e consente il riconoscimento del titolare ai sensi dell'articolo 1, comma 1, lettera c), del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. Al termine delle misure di cui al primo periodo, il richiedente, ricorrendone le condizioni, riceve il documento di cui al comma 4.))
 
 3.
 
-La ricevuta attestante la presentazione della richiesta di protezione internazionale rilasciata contestualmente alla verbalizzazione della domanda ai sensi dell'[articolo 26, comma 2-bis, del decreto legislativo 28 gennaio 2008, n. 25](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), e successive modificazioni, come introdotto dal presente decreto, costituisce permesso di soggiorno provvisorio.
+((I documenti di cui ai commi 1 e 2 sono definiti con decreto direttoriale adottato dal Dipartimento della pubblica sicurezza del Ministero dell'interno, entro sessanta giorni dalla data di entrata in vigore della presente disposizione.))
 
 4.
 
-L'accesso alle misure di accoglienza e il rilascio del permesso di soggiorno di cui al comma 1, non sono subordinati alla sussistenza di requisiti ulteriori rispetto a quelli espressamente richiesti dal presente decreto.
+((Al momento della formalizzazione della domanda ai sensi dell'articolo 26-ter del decreto legislativo 28 gennaio 2008, n. 25, e' rilasciato al richiedente un documento validato dalla prefettura-ufficio territoriale del Governo territorialmente competente, recante le informazioni di cui all'articolo 29, paragrafo 4, del regolamento (UE) 2024/1348 e consente il riconoscimento del titolare ai sensi dell'articolo 1, comma 1, lettera c), del citato testo unico di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. Il documento di cui al primo periodo e' definito con decreto direttoriale adottato dal Dipartimento per le liberta' civili e l'immigrazione del Ministero dell'interno entro sessanta giorni dalla data di entrata in vigore della presente disposizione.))
 
 5.
 
-La questura puo' fornire al richiedente un documento di viaggio ai sensi dell'[articolo 21 della legge 21 novembre 1967, n. 1185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-11-21;1185#art_21), quando sussistono gravi ragioni umanitarie che ne rendono necessaria la presenza in un altro Stato.
-
---------------
-
-AGGIORNAMENTO (2)
-
-Il [D.L. 17 febbraio 2017, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-02-17;13), convertito con modificazioni dalla [L. 13 aprile 2017, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20febbraio%202017%20n.%2013%20recante%20disposizioni%20urgenti%20per%20laccelerazione%20dei%20procedimenti%20in%20materia%20di%20protezione%20internazionale%20no_c487681bafc4.md), ha disposto (con l'art. 21, comma 1) che la presente modifica si applica alle cause e ai procedimenti giudiziari sorti dopo il centottantesimo giorno dalla data di entrata in vigore del suindicato D.L. Alle cause e ai procedimenti giudiziari introdotti anteriormente alla scadenza del termine di cui al periodo precedente si continuano ad applicare le disposizioni vigenti prima dell'entrata in vigore del medesimo D.L.
-
----------------
-
-AGGIORNAMENTO (6)
-
-La Corte Costituzionale, con sentenza 9 - 31 luglio 2020, n. 186 (in G.U. 1ª s.s. 5/8/2020, n. 32), ha dichiarato "l'illegittimita' costituzionale dell'[art. 4, comma 1-bis, del decreto legislativo 18 agosto 2015, n. 142](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezione%20internazionale%20nonche%20della%20direttiva%202013-32-UE%20recante%20procedure%20comuni%20ai%20fini%20de_65c42ff7e330.md) (Attuazione della [direttiva 2013/33/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2013;33) recante norme relative all'accoglienza dei richiedenti protezione internazionale, nonche' della [direttiva 2013/32/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2013;32), recante procedure comuni ai fini del riconoscimento e della revoca dello status di protezione internazionale), come introdotto dall'[art. 13, comma 1, lettera a), numero 2), del decreto-legge 4 ottobre 2018, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-10-04;113#art_13-com1-leta-num2) (Disposizioni urgenti in materia di protezione internazionale e immigrazione, sicurezza pubblica, nonche' misure per la funzionalita' del Ministero dell'interno e l'organizzazione e il funzionamento dell'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalita' organizzata), convertito, con modificazioni, nella [legge 1° dicembre 2018, n. 132](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%202018%20n.%20113%20recante%20disposizioni%20urgenti%20in%20materia%20di%20protezione%20internazionale%20e%20immigrazione%20sicurezza%20pubblica%20nonch_a2add7a24714.md)" e "in via consequenziale, ai sensi dell'[art. 27 della legge 11 marzo 1953, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;87#art_27) (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimita' costituzionale delle restanti disposizioni dell'[art. 13 del d.l. n. 113 del 2018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018;113#art_13)" (le quali hanno disposto la modifica del comma 1 del presente articolo).
+((La questura puo' fornire al richiedente protezione internazionale un documento di viaggio ai sensi dell'articolo 21 della legge 21 novembre 1967, n. 1185, secondo le modalita' previste dall'articolo 24 del decreto legislativo 19 novembre 2007, n. 251, quando sussistono gravi ragioni umanitarie o altri motivi imperativi che ne rendono necessaria la presenza in un altro Stato. La validita' del documento di cui al primo periodo e' limitata alla finalita' e alla durata necessaria in relazione ai motivi per i quali e' stato rilasciato.))
 
 ### Art. 5. — Domicilio
 
 1.
 
-Salvo quanto previsto al comma 2, l'obbligo di comunicare alla questura il proprio domicilio o residenza e' assolto dal richiedente tramite dichiarazione da riportare nella domanda di protezione internazionale. Ogni eventuale successivo mutamento del domicilio o residenza e' comunicato dal richiedente alla medesima questura e alla questura competente per il nuovo domicilio o residenza ai fini del rinnovo del permesso di soggiorno di cui all'articolo 4, comma 1.
+Salvo quanto previsto al comma 2, l'obbligo di comunicare alla questura il proprio domicilio o residenza e' assolto dal richiedente tramite dichiarazione ((resa al momento della registrazione della domanda)). Ogni eventuale successivo mutamento del domicilio o residenza e' comunicato dal richiedente alla medesima questura e alla questura competente per il nuovo domicilio o residenza ai fini del rinnovo del permesso di soggiorno di cui all'articolo 4, comma 1.
 
 2.
 
-Per il richiedente trattenuto o accolto nei centri o strutture di cui ((agli articoli 6, 9 e 11)), l'indirizzo del centro costituisce il luogo di domicilio valevole agli effetti della notifica e delle comunicazioni degli atti relativi al procedimento di esame della domanda, nonche' di ogni altro atto relativo alle procedure di trattenimento o di accoglienza di cui al presente decreto. L'indirizzo del centro ovvero il diverso domicilio di cui al comma 1 e' comunicato dalla questura alla Commissione territoriale.
+Per il richiedente trattenuto o accolto nei centri o strutture di cui agli articoli 6, 9 e 11, l'indirizzo del centro costituisce il luogo di domicilio valevole agli effetti della notifica e delle comunicazioni degli atti relativi al procedimento di esame della domanda, nonche' di ogni altro atto relativo alle procedure di trattenimento o di accoglienza di cui al presente decreto.
+L'indirizzo del centro ovvero il diverso domicilio di cui al comma 1 e' comunicato dalla questura alla Commissione territoriale.
 
 3.
 
@@ -196,7 +181,7 @@ Il prefetto competente in base al luogo di presentazione della domanda ovvero al
 
 5.
 
-Ai fini dell'applicazione nei confronti del richiedente protezione internazionale dell'[articolo 284 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_284) e degli [articoli 47-ter](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354#art_47ter), [47-quater](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354#art_47quater) e [47-quinquies della legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354#art_47quinquies), e successive modificazioni, l'autorita' giudiziaria valuta preliminarmente, sentito il prefetto competente per territorio, l'idoneita' a tal fine dei centri e delle strutture di cui ((agli articoli 6 e 9)).
+Ai fini dell'applicazione nei confronti del richiedente protezione internazionale dell'[articolo 284 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_284) e degli [articoli 47-ter](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354#art_47ter), [47-quater](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354#art_47quater) e [47-quinquies della legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354#art_47quinquies), e successive modificazioni, l'autorita' giudiziaria valuta preliminarmente, sentito il prefetto competente per territorio, l'idoneita' a tal fine dei centri e delle strutture di cui agli articoli 6 e 9.
 
 --------------
 
@@ -229,34 +214,144 @@ AGGIORNAMENTO (6)
 
 Successivamente la Corte Costituzionale, con sentenza 9 - 31 luglio 2020, n. 186 (in G.U. 1ª s.s. 5/8/2020, n. 32), ha dichiarato "in via consequenziale, ai sensi dell'[art. 27 della legge 11 marzo 1953, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;87#art_27) (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimita' costituzionale delle restanti disposizioni dell'[art. 13 del d.l. n. 113 del 2018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018;113#art_13)" (le quali hanno disposto l'abrogazione del presente articolo).
 
+### Art. 5-ter. — (( (Autorizzazione a risiedere in un luogo specifico). ))
+
+1.
+
+((Il richiedente puo' essere autorizzato a risiedere soltanto in un luogo specifico, con esclusione delle strutture destinate all'applicazione delle misure di trattenimento, per motivi di ordine pubblico oppure per prevenire efficacemente che si renda irreperibile ove vi sia un rischio di fuga, in particolare quando:))
+                            a)
+                                ((e' tenuto ad essere presente in un altro Stato membro a norma dell'articolo 17, paragrafo 4, del regolamento (UE) 2024/1351;))
+                            b)
+                                ((e' stato trasferito in Italia a norma dell'articolo 17, paragrafo 4, del regolamento (UE) 2024/1351 dopo essere fuggito in un altro Stato membro.))
+
+2.
+
+((Quando la domanda di protezione presentata dal richiedente e' esaminata a norma dell'articolo 43 del regolamento (UE) 2024/1348, l'autorizzazione di cui al comma 1 e' sempre adottata, ai sensi dell'articolo 54, paragrafo 1, del medesimo regolamento, salvo che ricorrano le condizioni per disporre il trattenimento o una misura alternativa al trattenimento.))
+
+3.
+
+((Quando, tenuto conto della situazione individuale del richiedente, e' necessario garantire l'osservanza dell'autorizzazione di cui al comma 1, al richiedente puo' essere imposto, con provvedimento adottato anche successivamente, di segnalare la propria presenza al prefetto in una data specifica o a intervalli ragionevoli. La segnalazione di cui al primo periodo e' effettuata dal richiedente in maniera attiva e volontaria con strumenti di comunicazione a distanza o con altre modalita' che consentano l'invio della propria posizione, secondo quanto disposto dal provvedimento adottato ai sensi dell'articolo 5-quater.))
+
+4.
+
+((Quando il richiedente e' autorizzato a risiedere soltanto in un luogo specifico ed e' stato ammesso a fruire delle misure materiali di accoglienza, l'erogazione di esse e' subordinata alla sua effettiva residenza in tale luogo.))
+
+5.
+
+((Il richiedente puo' chiedere di essere autorizzato a risiedere temporaneamente in un luogo diverso da quello di cui al comma 1. La decisione sulla richiesta di cui al primo periodo e' adottata in modo obiettivo e imparziale tenuto conto della situazione individuale del richiedente, e' motivata in caso di rigetto ed e' impugnabile ai sensi dell'articolo 23, comma 5.))
+
+6.
+
+((Il richiedente non e' tenuto a chiedere un permesso per comparire dinanzi alle autorita' o in giudizio quando e' richiesta la sua presenza. Il richiedente, in tal caso, informa il prefetto.))
+
+### Art. 5-quater. — (( (Provvedimento di autorizzazione a risiedere in un luogo specifico). ))
+
+1.
+
+((L'autorizzazione e la segnalazione di cui all'articolo 5-ter, commi 1 e 3, sono disposte con provvedimento del prefetto del luogo dove il richiedente si trova, nel rispetto del principio di proporzionalita' e valutata, caso per caso, la sussistenza dei presupposti di cui all'articolo 5-ter. Il provvedimento e' motivato in fatto e in diritto e contiene la durata dell'autorizzazione, in misura non eccedente la conclusione delle procedure applicate al richiedente, nonche' le modalita' della segnalazione eventualmente disposta ai sensi del comma 3 del predetto articolo 5-ter. Il provvedimento e' immediatamente comunicato all'interessato ed e' esecutivo.))
+
+2.
+
+((I provvedimenti di cui al comma 1 tengono conto delle esigenze di accoglienza particolari del richiedente e, quando sono adottati nei confronti di un minore straniero non accompagnato, il prefetto ne da' immediata comunicazione all'interessato e al tutore, anche se provvisorio o, in mancanza, al rappresentante nominato ai sensi dell'articolo 13 del regolamento (UE) 2024/1356.))
+
+3.
+
+((La violazione dei provvedimenti di cui al comma 1 puo' essere valutata ai fini dell'adozione delle misure alternative al trattenimento o del trattenimento, se continua a sussistere il rischio di fuga.))
+
+### Art. 5-quinquies. — (( (Reclamo giurisdizionale avverso il provvedimento di autorizzazione a risiedere in un luogo specifico). ))
+
+1.
+
+((L'interessato, a mezzo di difensore munito di procura speciale, puo' presentare reclamo avverso il provvedimento di autorizzazione a risiedere in un luogo specifico con ricorso al giudice del luogo in cui e' autorizzato a risiedere, nel termine di sette giorni dalla comunicazione del provvedimento. Il ricorso contiene, a pena di inammissibilita', l'indicazione dei motivi in base ai quali e' chiesta la revoca o la modifica del provvedimento impugnato.))
+
+2.
+
+((Il reclamo e' dichiarato inammissibile con decreto motivato se difettano i requisiti di cui al comma 1. In tal caso, quando il ricorrente e' ammesso al patrocinio a spese dello Stato il giudice procede alla revoca ai sensi dell'articolo 136, comma 2, del decreto del Presidente della Repubblica 30 maggio 2002, n. 115.))
+
+3.
+
+((Il giudice, se non procede ai sensi del comma 2 nomina, quando necessario, l'interprete e fissa la data dell'udienza in camera di consiglio. Il decreto di fissazione e' notificato a cura del ricorrente al prefetto almeno dieci giorni prima dell'udienza. Il prefetto puo' depositare note difensive entro cinque giorni dalla notificazione e puo' stare in giudizio personalmente, anche avvalendosi di funzionari appositamente delegati. Il ricorrente che ne fa richiesta e' sentito personalmente.))
+
+4.
+
+((L'udienza puo' svolgersi mediante collegamento audiovisivo ai sensi dell'articolo 127-bis, comma primo, del codice di procedura civile. In questo caso il provvedimento di fissazione dell'udienza contiene le disposizioni necessarie.))
+
+5.
+
+((In deroga a quanto previsto dall'articolo 196-duodecies, comma quinto, delle disposizioni per l'attuazione del codice di procedura civile, di cui al Regio decreto 18 dicembre 1941, n. 1368, l'interessato, se intende partecipare all'udienza, puo' collegarsi esclusivamente dal luogo dove si trova il difensore, il quale ne attesta l'identita'. L'autorita' che ha adottato il provvedimento puo' collegarsi dal luogo in cui si trova.))
+
+6.
+
+((Se il difensore del ricorrente non compare all'udienza fissata ai sensi del comma 3, il ricorso e' dichiarato improcedibile. Si applica il comma 2, secondo periodo.))
+
+7.
+
+((Il giudice procede nel rispetto del principio del contraddittorio e di concentrazione delle attivita' processuali e provvede con ordinanza depositata entro venti giorni.))
+
+8.
+
+((Contro il provvedimento adottato ai sensi del comma 7 e' ammesso ricorso per cassazione ai sensi dell'articolo 14.1 del decreto legislativo 25 luglio 1998, n. 286.))
+
+### Art. 5-sexies. — (( (Rischio di fuga). ))
+
+1.
+
+((Il rischio di fuga e' valutato caso per caso sulla base di una o piu' delle seguenti circostanze:))
+                            a)
+                                ((il mancato possesso del passaporto o di altro documento equipollente, in corso di validita';))
+                            b)
+                                ((la mancanza di idonea documentazione atta a dimostrare la disponibilita' di un alloggio ove possa essere agevolmente rintracciato ovvero di un indirizzo affidabile;))
+                            c)
+                                ((l'avere in precedenza dichiarato o attestato falsamente le proprie generalita', anche al solo fine di evitare l'adozione o l'esecuzione di un provvedimento di espulsione o di respingimento;))
+                            d)
+                                ((l'aver fornito, nel corso degli accertamenti o in occasione della richiesta di protezione internazionale, informazioni manifestamente tali da rallentare i controlli o le procedure in capo alle autorita' competenti;))
+                            e)
+                                ((il non avere ottemperato ad uno dei provvedimenti emessi dalla competente autorita', in applicazione degli articoli 10, 10-ter, 13 commi 2-ter, 5, 13, 13-bis e 14 del decreto legislativo 25 luglio 1998, n. 286, nonche' di quelli previsti dall'articolo 32, commi 4 e 4-bis, del decreto legislativo 28 gennaio 2008, n. 25;))
+                            f)
+                                ((l'aver violato anche una delle misure di cui agli articoli 13, comma 5.2, e 14 del decreto legislativo 25 luglio 1998, n. 286, nonche' di quelle previste dall'articolo 6-quater;))
+                            g)
+                                ((l'aver rifiutato di sottoporsi al rilevamento fotodattiloscopico e segnaletico di cui all'articolo 10-ter, comma 3, del decreto legislativo 25 luglio 1998, n. 286;))
+                            h)
+                                ((l'essere inottemperante all'obbligo di collaborazione ai fini dell'identificazione di cui all'articolo 10-ter, commi 2-bis e 2-quater, del decreto legislativo 25 luglio 1998, n. 286;))
+                            i)
+                                ((l'avere in precedenza tentato di eludere i controlli di frontiera;))
+                            l)
+                                ((l'aver violato un divieto di ingresso o di reingresso;))
+                            m)
+                                ((la volonta' di non restare a disposizione delle autorita' e di raggiungere i territori di altri Stati membri desumibile da comportamenti concretamente assunti.))
+
+2.
+
+((Ai fini della valutazione del rischio di fuga, si tiene altresi' conto di quanto previsto dall'articolo 5-quater, comma 3.))
+
 ### Art. 6. — Trattenimento
 
 1.
 
-Il richiedente non puo' essere trattenuto al solo fine di esaminare la sua domanda.
+Il richiedente non puo' essere trattenuto al solo fine di esaminare la sua domanda ((o sulla base della sua nazionalita' ovvero per il solo motivo che sia sottoposto alla procedura stabilita dal regolamento (UE) 2024/1351. Al richiedente a seguito della formalizzazione della domanda e' rilasciato l'attestato nominativo di cui all'articolo 4, comma 2)).
 
 2.
 
-Il richiedente e' trattenuto, ove possibile in appositi spazi, nei centri di cui all'[articolo 14 del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), nei limiti dei posti disponibili, sulla base di una valutazione caso per caso, quando:
+Il richiedente e' trattenuto, ove possibile in appositi spazi, nei centri di cui all'[articolo 14 del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), nei limiti dei posti disponibili ((ovvero nelle strutture presenti nei luoghi individuati ai sensi dell'articolo 54, paragrafo 3, del regolamento (UE) 2024/1348,)), sulla base di una valutazione caso per caso, quando:
                             a)
                                 si trova nelle condizioni previste dall'articolo 1, paragrafo F della Convenzione relativa allo status di rifugiato, firmata a Ginevra il 28 luglio 1951, ratificata con la [legge 24 luglio 1954, n. 722](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20relativa%20allo%20statuto%20dei%20rifugiati%20firmata%20a%20Ginevra%20il%2028%20luglio%201951.md), e modificata dal protocollo di New York del 31 gennaio 1967, ratificato con la [legge 14 febbraio 1970, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-02-14;95), o nelle condizioni di cui agli articoli 12, comma 1, lettere b) e c), e 16 del [decreto legislativo 19 novembre 2007, n. 251](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-83-CE%20recante%20norme%20minime%20sullattribuzione%20a%20cittadini%20di%20Paesi%20terzi%20o%20apolidi%20della%20qualifica%20del%20rifugiato%20o%20di%20persona%20altrimenti%20bisognosa%20di%20protezi_cf8ba63277ef.md); (7)
                             a-bis)
-                                si trova nelle condizioni di cui all'[articolo 29-bis del decreto legislativo 28 gennaio 2008, n. 25](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md); (7)
+                                ((ha presentato una domanda reiterata in fase di esecuzione di un provvedimento di allontanamento;))
                             b)
                                 si trova nelle condizioni di cui all'[articolo 13, commi 1](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md) e [2, lettera c), del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e nei casi di cui all'[articolo 3, comma 1, del decreto-legge 27 luglio 2005, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-07-27;144#art_3-com1), convertito, con modificazioni, dalla [legge 31 luglio 2005, n. 155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20luglio%202005%20n.%20144%20recante%20misure%20urgenti%20per%20il%20contrasto%20del%20terrorismo%20internazionale.md);
                             c)
                                 costituisce un pericolo per l'ordine e la sicurezza pubblica.
 Nella valutazione della pericolosita' si tiene conto di eventuali condanne, anche con sentenza non definitiva, compresa quella adottata a seguito di applicazione della pena su richiesta ai sensi dell'[articolo 444 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444), per uno dei delitti indicati dall'[articolo 380, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_380-com1) e [2, del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_380-com2) ovvero per reati inerenti agli stupefacenti, alla liberta' sessuale, al favoreggiamento dell'immigrazione clandestina o per reati diretti al reclutamento di persone da destinare alla prostituzione o allo sfruttamento della prostituzione o di minori da impiegare in attivita' illecite ovvero per i reati previsti dagli [articoli 12, comma 1, lettera c)](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-83-CE%20recante%20norme%20minime%20sullattribuzione%20a%20cittadini%20di%20Paesi%20terzi%20o%20apolidi%20della%20qualifica%20del%20rifugiato%20o%20di%20persona%20altrimenti%20bisognosa%20di%20protezi_cf8ba63277ef.md), e [16, comma 1, lettera d-bis) del decreto legislativo 19 novembre 2007, n. 251](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-83-CE%20recante%20norme%20minime%20sullattribuzione%20a%20cittadini%20di%20Paesi%20terzi%20o%20apolidi%20della%20qualifica%20del%20rifugiato%20o%20di%20persona%20altrimenti%20bisognosa%20di%20protezi_cf8ba63277ef.md); (7)
                             d)
-                                e' necessario determinare gli elementi su cui si basa la domanda di protezione internazionale che non potrebbero essere acquisiti senza il trattenimento e sussiste rischio di fuga, ai sensi dell'[articolo 13, comma 4-bis, lettere a)](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), [c)](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), [d)](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md) ed [e), del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md). La valutazione sulla sussistenza del rischio di fuga e' effettuata caso per caso.
+                                e' necessario determinare gli elementi su cui si basa la domanda di protezione internazionale che non potrebbero essere acquisiti senza il trattenimento e sussiste rischio di fuga, ai sensi dell'((articolo 5-sexies.)). La valutazione sulla sussistenza del rischio di fuga e' effettuata caso per caso.
 
 2-bis.
 
-((La mancata convalida del provvedimento di trattenimento adottato ai sensi del comma 3 nei confronti del richiedente che ha presentato la domanda in un centro di cui all'articolo 14 del decreto legislativo 25 luglio 1998, n. 286, non preclude l'eventuale successiva adozione di un provvedimento di trattenimento ai sensi del comma 2, qualora ne ricorrano i presupposti. Quando il provvedimento ai sensi del comma 2 e' adottato immediatamente o, comunque, non oltre quarantotto ore dalla comunicazione della mancata convalida di cui al primo periodo, il richiedente permane nel centro fino alla decisione sulla convalida del predetto provvedimento)).
+La mancata convalida del provvedimento di trattenimento adottato ai sensi del comma 3 nei confronti del richiedente che ha presentato la domanda in un centro di cui all'[articolo 14 del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), non preclude l'eventuale successiva adozione di un provvedimento di trattenimento ai sensi del comma 2, qualora ne ricorrano i presupposti. Quando il provvedimento ai sensi del comma 2 e' adottato immediatamente o, comunque, non oltre quarantotto ore dalla comunicazione della mancata convalida di cui al primo periodo, il richiedente permane nel centro fino alla decisione sulla convalida del predetto provvedimento.
 
 3.
 
-Al di fuori delle ipotesi di cui al comma 2, il richiedente che si trova in un centro di cui all'[articolo 14 del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), in attesa dell'esecuzione di un provvedimento di respingimento o di espulsione ai sensi degli articoli 10, 13 e 14 del medesimo decreto legislativo, rimane nel centro quando vi sono fondati motivi per ritenere che la domanda e' stata presentata al solo scopo di ritardare o impedire l'esecuzione del respingimento o dell'espulsione. ((La disposizione del primo periodo si applica anche nel caso in cui il centro sia situato in una zona di frontiera o di transito ai sensi dell'articolo 28-bis, comma 4, del decreto legislativo 28 gennaio 2008, n. 25)).
+Al di fuori delle ipotesi di cui al comma 2, il richiedente che si trova in un centro di cui all'[articolo 14 del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), in attesa dell'esecuzione di un provvedimento di respingimento o di espulsione ai sensi degli articoli 10, 13 e 14 del medesimo decreto legislativo, rimane nel centro quando vi sono fondati motivi per ritenere che la domanda e' stata presentata al solo scopo di ritardare o impedire l'esecuzione del respingimento o dell'espulsione. La disposizione del primo periodo si applica anche nel caso in cui ((la struttura sia situata in uno dei luoghi individuati ai sensi dell'articolo 54, paragrafo 3, del regolamento (UE) 2024/1348.))
 
 3-bis.
 
@@ -268,15 +363,16 @@ Lo straniero trattenuto nei centri di cui all'[articolo 14 del decreto legislati
 
 4-bis.
 
-In caso di inosservanza dell'obbligo di cooperazione di cui all'[articolo 11, comma 1, del decreto legislativo 28 gennaio 2008, n. 25](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), si applicano le disposizioni dell'[articolo 10-ter, comma 2-ter, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).
+In caso di inosservanza dell'obbligo di cooperazione di cui all'[articolo 11, comma 1, del decreto legislativo 28 gennaio 2008, n. 25](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), ((e all'articolo 10-ter, commi 2-bis e 2-quater, del decreto legislativo 25 luglio 1998, n. 286,)) si applicano le disposizioni dell'[articolo 10-ter, comma 2-ter, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).
 
 5.
 
-Il provvedimento con il quale il questore dispone il trattenimento o la proroga del trattenimento e' adottato per iscritto, e' corredato di motivazione e reca l'indicazione che il richiedente ha facolta' di presentare memorie o deduzioni personalmente o a mezzo di difensore. Il provvedimento e' trasmesso, senza ritardo e comunque entro quarantotto ore dalla sua adozione, alla corte d'appello di cui all'[articolo 5-bis del decreto-legge 17 febbraio 2017, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-02-17;13#art_5bis), convertito, con modificazioni, dalla [legge 13 aprile 2017, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20febbraio%202017%20n.%2013%20recante%20disposizioni%20urgenti%20per%20laccelerazione%20dei%20procedimenti%20in%20materia%20di%20protezione%20internazionale%20no_c487681bafc4.md). Il provvedimento e' comunicato al richiedente nella prima lingua indicata dal richiedente o in una lingua che ragionevolmente si suppone che comprenda ai sensi dell'[articolo 10, comma 4, del decreto legislativo 28 gennaio 2008, n. 25](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), e successive modificazioni. Si applica, per quanto compatibile, l'[articolo 14 del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), comprese le misure alternative di cui al comma 1-bis del medesimo articolo 14. La partecipazione del richiedente all'udienza per la convalida avviene, ove possibile, a distanza mediante un collegamento audiovisivo, tra l'aula d'udienza e il centro di cui all'[articolo 14 del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md) nel quale egli e' trattenuto. Il collegamento audiovisivo si svolge in conformita' alle specifiche tecniche stabilite con decreto direttoriale d'intesa tra i Ministeri della giustizia e dell'interno entro centottanta giorni dalla data di entrata in vigore della presente disposizione, e, in ogni caso, con modalita' tali da assicurare la contestuale, effettiva e reciproca visibilita' delle persone presenti in entrambi i luoghi e la possibilita' di udire quanto vi viene detto. E' sempre consentito al difensore, o a un suo sostituto, di essere presente nel luogo ove si trova il richiedente. Un operatore della polizia di Stato appartenente ai ruoli di cui all'[articolo 39, secondo comma, della legge 1° aprile 1981, n.121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_39-com2), e' presente nel luogo ove si trova il richiedente e ne attesta l'identita' dando atto che non sono posti impedimenti o limitazioni all'esercizio dei diritti e delle facolta' a lui spettanti. Egli da' atto dell'osservanza delle disposizioni di cui al quinto periodo del presente comma nonche', se ha luogo l'audizione del richiedente, delle cautele adottate per assicurarne la regolarita' con riferimento al luogo ove si trova. A tal fine interpella, ove occorra, il richiedente e il suo difensore. Delle operazioni svolte e' redatto verbale a cura del medesimo operatore della polizia di Stato. Quando il trattenimento e' gia' in corso al momento della presentazione della domanda, i termini previsti dall'[articolo 14, comma 5, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), si sospendono e il questore trasmette gli atti alla corte d'appello competente per la convalida del trattenimento per un periodo massimo di ulteriori sessanta giorni, per consentire l'espletamento della procedura di esame della domanda. (2) (13)
+Il provvedimento con il quale il questore dispone il trattenimento o la proroga del trattenimento e' adottato per iscritto, e' corredato di motivazione ((, precisa i motivi per i quali non siano applicabili efficacemente le misure alternative di cui all'articolo 6-quater)) e reca l'indicazione che il richiedente ha facolta' di presentare memorie o deduzioni personalmente o a mezzo di difensore. Il provvedimento e' trasmesso, senza ritardo e comunque entro quarantotto ore dalla sua adozione, alla corte d'appello di cui all'[articolo 5-bis del decreto-legge 17 febbraio 2017, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-02-17;13#art_5bis), convertito, con modificazioni, dalla [legge 13 aprile 2017, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20febbraio%202017%20n.%2013%20recante%20disposizioni%20urgenti%20per%20laccelerazione%20dei%20procedimenti%20in%20materia%20di%20protezione%20internazionale%20no_c487681bafc4.md). Il provvedimento e' comunicato al richiedente nella prima lingua indicata dal richiedente o in una lingua che ragionevolmente si suppone che comprenda ai sensi dell'[articolo 10, comma 4, del decreto legislativo 28 gennaio 2008, n. 25](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), e successive modificazioni. Si applica, per quanto compatibile, l'[articolo 14 del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), ((ad esclusione di quanto previsto sulle)) misure alternative di cui al comma 1-bis del medesimo articolo 14. La partecipazione del richiedente all'udienza per la convalida avviene, ove possibile, a distanza mediante un collegamento audiovisivo, tra l'aula d'udienza e il centro di cui all'[articolo 14 del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md) nel quale egli e' trattenuto. Il collegamento audiovisivo si svolge in conformita' alle specifiche tecniche stabilite con decreto direttoriale d'intesa tra i Ministeri della giustizia e dell'interno entro centottanta giorni dalla data di entrata in vigore della presente disposizione, e, in ogni caso, con modalita' tali da assicurare la contestuale, effettiva e reciproca visibilita' delle persone presenti in entrambi i luoghi e la possibilita' di udire quanto vi viene detto. E' sempre consentito al difensore, o a un suo sostituto, di essere presente nel luogo ove si trova il richiedente.
+Un operatore della polizia di Stato appartenente ai ruoli di cui all'[articolo 39, secondo comma, della legge 1° aprile 1981, n.121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_39-com2), e' presente nel luogo ove si trova il richiedente e ne attesta l'identita' dando atto che non sono posti impedimenti o limitazioni all'esercizio dei diritti e delle facolta' a lui spettanti. Egli da' atto dell'osservanza delle disposizioni di cui al quinto periodo del presente comma nonche', se ha luogo l'audizione del richiedente, delle cautele adottate per assicurarne la regolarita' con riferimento al luogo ove si trova. A tal fine interpella, ove occorra, il richiedente e il suo difensore. Delle operazioni svolte e' redatto verbale a cura del medesimo operatore della polizia di Stato. Quando il trattenimento e' gia' in corso al momento della presentazione della domanda, i termini previsti dall'[articolo 14, comma 5, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), si sospendono e il questore trasmette gli atti ((al giudice)) competente per la convalida del trattenimento per un periodo ((di sessanta giorni prorogabile nei limiti della durata della procedura applicata al richiedente, al fine di)) consentire l'espletamento della procedura di esame della domanda. (2) (13)
 
 5-bis.
 
-Contro i provvedimenti adottati ai sensi del comma 5 e' ammesso ricorso per cassazione ai sensi dell'[articolo 14, comma 6, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md). (13)
+Contro i provvedimenti adottati ai sensi del comma 5 e' ammesso ricorso per cassazione ((entro dieci giorni dalla pronuncia in udienza o dalla comunicazione, ai sensi dell'articolo 14.1 del decreto legislativo 25 luglio 1998, n. 286. La presentazione del ricorso non sospende l'esecuzione della misura.)). (13)
 
 6.
 
@@ -288,7 +384,7 @@ Il richiedente trattenuto ai sensi dei commi 2, 3 e 3-bis, secondo periodo che p
 
 8.
 
-Ai fini di cui al comma 7, il questore chiede la proroga del trattenimento in corso per periodi ulteriori non superiori a sessanta giorni di volta in volta prorogabili da parte della corte d'appello, finche' permangono le condizioni di cui al comma 7. In ogni caso, la durata massima del trattenimento ai sensi dei commi 5 e 7 non puo' superare complessivamente dodici mesi. (13)
+Ai fini di cui al comma 7, il questore chiede la proroga del trattenimento in corso per periodi ulteriori non superiori a sessanta giorni di volta in volta prorogabili da parte ((del giudice)), finche' permangono le condizioni di cui al comma 7. In ogni caso, la durata massima del trattenimento ai sensi dei commi 5 e 7 non puo' superare complessivamente dodici mesi. (13)
 
 9.
 
@@ -320,32 +416,41 @@ AGGIORNAMENTO (13)
 
 Il [D.L. 11 ottobre 2024, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-10-11;145), convertito con modificazioni dalla [L. 9 dicembre 2024, n. 187](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2011%20ottobre%202024%20n.%20145%20recante%20disposizioni%20urgenti%20in%20materia%20di%20ingresso%20in%20Italia%20di%20lavoratori%20stranieri%20di%20tutela%20e%20assistenz_1a3952b0cd7f.md), ha disposto (con l'art. 19, comma 1) che "Le disposizioni del capo IV si applicano decorsi trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto".
 
-### Art. 6-bis. — (Trattenimento dello straniero durante lo svolgimento della procedura in frontiera di cui all'articolo 28-bis del decreto legislativo 28 gennaio 2008, n. 25)
+### Art. 6-bis. — ((Trattenimento dello straniero durante lo svolgimento della procedura di asilo in frontiera ai sensi dell'articolo 43, del regolamento (UE) 2024/1348))
 
 1.
 
-Fuori dei casi ((di cui all'articolo 6, commi 2, 2-bis, 3 e 3-bis)), del presente decreto e nel rispetto dei criteri definiti all'articolo 14, comma 1.1, del [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), il richiedente puo' essere trattenuto durante lo svolgimento della procedura in frontiera ((di cui all'articolo 28-bis, comma 2-bis)), del [decreto legislativo 28 gennaio 2008, n. 25](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), e fino alla decisione dell'istanza di sospensione di cui all'articolo 35-ter del medesimo [decreto legislativo n. 25 del 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008;25), al solo scopo di accertare il diritto ad entrare nel territorio dello Stato.
+((Il richiedente puo' essere trattenuto per decidere, nel contesto di una procedura di frontiera in conformita' all'articolo 43 del regolamento (UE) 2024/1348, sul suo diritto di entrare nel territorio. Si applica l'articolo 10-ter, comma 1.1, del decreto legislativo 25 luglio 1998, n. 286.))
 
 2.
 
-Il trattenimento di cui al comma 1 puo' essere disposto qualora il richiedente non abbia consegnato il passaporto o altro documento equipollente in corso di validita' o non presti idonea garanzia finanziaria, ovvero nelle more del perfezionamento della procedura concernente la prestazione della garanzia finanziaria. Entro novanta giorni dalla data di entrata in vigore della presente disposizione, con decreto del Ministero dell'interno, di concerto con i Ministeri della giustizia e dell'economia e delle finanze, sono individuati l'importo e le modalita' di prestazione della predetta garanzia finanziaria.
+Il trattenimento di cui al comma 1 puo' essere disposto qualora ((non possano essere applicate efficacemente le misure alternative di cui all'articolo 6-quater, comma 1, lettere c) o d), nonche' qualora)) il richiedente non abbia consegnato il passaporto o altro documento equipollente in corso di validita' o non presti idonea garanzia finanziaria, ovvero nelle more del perfezionamento della procedura concernente la prestazione della garanzia finanziaria.
+Entro novanta giorni dalla data di entrata in vigore della presente disposizione, con decreto del Ministero dell'interno, di concerto con i Ministeri della giustizia e dell'economia e delle finanze, sono individuati l'importo e le modalita' di prestazione della predetta garanzia finanziaria. ((Si applica l'articolo 6-quater, comma 2.))
 
 2-bis.
 
-Al richiedente che non e' trattenuto ai sensi del comma 1 si applica, comunque, la procedura alla frontiera di cui all'[articolo 28-bis, comma 2-bis, del decreto legislativo 28 gennaio 2008, n. 25](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md) e, in caso di ricorso, l'articolo 35-ter del medesimo decreto. Allo stesso richiedente e' rilasciato l'attestato nominativo di cui all'articolo 4, comma 2.
+((Al richiedente sottoposto a misure alternative al trattenimento, si applica, comunque, la procedura di frontiera di cui all'articolo 43 del regolamento (UE) 2024/1348 e, in caso di ricorso, l'articolo 35-ter del decreto legislativo 28 gennaio 2008, n. 25.
+Allo stesso richiedente a seguito della formalizzazione della domanda e' rilasciato l'attestato nominativo di cui all'articolo 4, comma 2, e si applica l'articolo 10-ter, comma 1.1, del decreto legislativo 25 luglio 1998, n. 286.))
 
 3.
 
-Il trattenimento non puo' protrarsi oltre il tempo strettamente necessario per lo svolgimento della procedura in frontiera ai sensi dell'[articolo 28-bis del decreto legislativo 28 gennaio 2008, n. 25](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md).
-La convalida comporta il trattenimento nel centro per un periodo massimo, non prorogabile, di quattro settimane.
+((Il trattenimento non puo' protrarsi oltre i termini previsti dall'articolo 51 del regolamento (UE) 2024/1348, salvo che sussistano ulteriori motivi di trattenimento previsti dall'articolo 6. La convalida comporta il trattenimento nel centro per un periodo massimo, non prorogabile, di dodici settimane decorrenti dalla data di registrazione della domanda.))
+
+3-bis.
+
+((Quando, entro il termine di dodici settimane, non e' adottata una decisione, il richiedente e' autorizzato ad entrare sul territorio nazionale e il trattenimento puo' proseguire qualora sussistano le condizioni di cui all'articolo 6.))
+
+3-ter.
+
+((Se la domanda e' rigettata, nel termine di dodici settimane, il richiedente non ha piu' diritto a rimanere e non e' autorizzato a entrare nel territorio nazionale.))
 
 4.
 
-Nei casi di cui al comma 1, il richiedente e' trattenuto in appositi locali presso le strutture di cui all'[articolo 10-ter, comma 1, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), ovvero, in caso di arrivi consistenti e ravvicinati, nei centri di cui all'articolo 14 del medesimo [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), situati in prossimita' della frontiera o della zona di transito, per il tempo strettamente necessario all'accertamento del diritto ad entrare nel territorio dello Stato. Si applica in quanto compatibile l'articolo 6, comma 5.
+Nei casi di cui al comma 1, il richiedente e' trattenuto in appositi locali presso le strutture di cui all'[articolo 10-ter, comma 1, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), ovvero, in caso di arrivi consistenti e ravvicinati, nei centri di cui all'articolo 14 del medesimo [decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), situati in prossimita' della frontiera o della zona di transito, per il tempo strettamente necessario all'accertamento del diritto ad entrare nel territorio dello Stato ((e si applica l'articolo 10-ter, comma 1.1, del decreto legislativo 25 luglio 1998, n. 286.)). Si applica in quanto compatibile l'articolo 6, comma 5.
 
 4-bis.
 
-In caso di inosservanza dell'obbligo di cooperazione di cui all'[articolo 11, comma 1, del decreto legislativo 28 gennaio 2008, n. 25](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), si applicano le disposizioni dell'[articolo 10-ter, comma 2-ter, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).
+In caso di inosservanza dell'obbligo di cooperazione di cui all'[articolo 11, comma 1, del decreto legislativo 28 gennaio 2008, n. 25](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), ((nonche' dell'articolo 10-ter, commi 2-bis e 2-quater, del decreto legislativo 25 luglio 1998, n. 286,)) si applicano le disposizioni dell'[articolo 10-ter, comma 2-ter, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).
 
 ### Art. 6-ter. — (( (Trattenimento del richiedente sottoposto alla procedura Dublino di cui al regolamento (UE) n. 604/2013). ))
 
@@ -370,6 +475,28 @@ Il notevole rischio di fuga sussiste quando il richiedente si sia sottratto a un
                                 il richiedente ha fatto ricorso sistematicamente a dichiarazioni o attestazioni false sulle proprie generalita' anche al solo fine di evitare l'adozione o l'esecuzione di un provvedimento di espulsione.
 
 3. Il trattenimento non puo' protrarsi oltre il tempo strettamente necessario per l'esecuzione del trasferimento. La convalida comporta il trattenimento nel centro per un periodo complessivo di sei settimane. In presenza di gravi difficolta' relative all'esecuzione del trasferimento il giudice, su richiesta del questore, puo' prorogare il trattenimento per ulteriori trenta giorni, fino a un termine massimo di ulteriori sei settimane. Anche prima della scadenza di tale termine, il questore esegue il trasferimento dandone comunicazione senza ritardo al giudice. Si applica in quanto compatibile l'articolo 6, comma 5))
+
+### Art. 6-quater. — (( (Misure alternative al trattenimento del richiedente). ))
+
+1.
+
+((Nei casi di cui agli articoli 6, 6-bis e 6-ter, il questore, ove ritenga che possano essere applicate efficacemente, dispone, in luogo del trattenimento, una o piu' delle seguenti misure alternative:))
+                            a)
+                                ((consegna del passaporto o altro documento equipollente in corso di validita';))
+                            b)
+                                ((prestazione della idonea garanzia finanziaria stabilita ai sensi dell'articolo 6-bis, comma 2;))
+                            c)
+                                ((obbligo di dimora in un luogo preventivamente individuato, dove possa essere agevolmente rintracciato o monitorato anche con l'ausilio di strumentazioni elettroniche nel caso il richiedente abbia attivamente collaborato per la sua identificazione;))
+                            d)
+                                ((obbligo di presentazione, in giorni ed orari stabiliti, presso un ufficio della forza pubblica territorialmente competente nel caso il richiedente abbia attivamente collaborato per la sua identificazione.))
+
+2.
+
+((Nel valutare i motivi per i quali non siano applicabili efficacemente le misure alternative di cui al comma 1, il questore tiene conto del rischio di fuga, ovvero se il richiedente rientri in una delle categorie indicate al comma 2 dello stesso articolo 6.))
+
+3.
+
+((Si applica l'articolo 14, comma 1-bis, secondo, terzo, quarto, quinto, sesto e settimo periodo, del decreto legislativo 25 luglio 1998, n. 286.))
 
 ### Art. 7. — Condizioni di trattenimento
 
@@ -859,15 +986,15 @@ Note all'art. 21:
 
 1.
 
-Il permesso di soggiorno per richiesta asilo di cui all'articolo 4 consente di svolgere attivita' lavorativa, trascorsi sessanta giorni dalla presentazione della domanda, se il procedimento di esame della domanda non e' concluso ed il ritardo non puo' essere attribuito al richiedente.
+((Il documento)) di cui all'articolo 4 ((, comma 4)) consente di svolgere attivita' lavorativa, trascorsi ((novanta giorni dalla formalizzazione della domanda)), se il procedimento di esame della domanda non e' concluso ed il ritardo non puo' essere attribuito al richiedente.
 
 2.
 
-Il permesso di soggiorno di cui al comma 1 non puo' essere convertito in permesso di soggiorno per motivi di lavoro.
+((COMMA ABROGATO DAL D.L. 12 GIUGNO 2026, N. 100)).
 
 3.
 
-((COMMA ABROGATO DAL D.L. 4 OTTOBRE 2018, N. 113, CONVERTITO CON MODIFICAZIONI DALLA L. 1 DICEMBRE 2018, N. 132)).
+COMMA ABROGATO DAL [D.L. 4 OTTOBRE 2018, N. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-10-04;113), CONVERTITO CON MODIFICAZIONI DALLA [L. 1 DICEMBRE 2018, N. 132](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%202018%20n.%20113%20recante%20disposizioni%20urgenti%20in%20materia%20di%20protezione%20internazionale%20e%20immigrazione%20sicurezza%20pubblica%20nonch_a2add7a24714.md).
 
 ### Art. 22-bis. — (Partecipazione dei richiedenti protezione internazionale ad attivita' di utilita' sociale)
 
@@ -901,6 +1028,10 @@ Il prefetto della provincia in cui hanno sede le strutture di cui agli articoli 
                                 ((LETTERA ABROGATA DAL D.L. 10 MARZO 2023, N. 20, CONVERTITO CON MODIFICAZIONI DALLA L. 5 MAGGIO 2023, N. 50)).
 
 ((2. Nei casi di violazione grave o ripetuta, da parte del richiedente protezione internazionale, delle regole della struttura in cui e' accolto, ivi compreso il danneggiamento doloso di beni mobili o immobili, ovvero in caso di comportamenti gravemente violenti, anche tenuti al di fuori della struttura di accoglienza, il prefetto, fatta salva la facolta' di disporre il trasferimento del richiedente in altra struttura, adotta una o piu' delle seguenti misure:
+
+a) esclusione temporanea dalla partecipazione ad attivita' organizzate dal gestore del centro;
+
+b) esclusione temporanea dall'accesso a uno o piu' dei servizi di cui all'articolo 10, comma 1, secondo periodo, ad eccezione dell'accoglienza materiale;
 
 c) sospensione, per un periodo non inferiore a trenta giorni e non superiore a sei mesi, o revoca dei benefici economici accessori previsti nel capitolato di gara d'appalto di cui all'articolo 12))
 

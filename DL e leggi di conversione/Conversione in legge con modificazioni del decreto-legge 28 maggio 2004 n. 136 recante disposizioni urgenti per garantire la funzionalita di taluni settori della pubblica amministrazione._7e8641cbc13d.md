@@ -108,7 +108,7 @@ All'[articolo 5 del decreto legislativo 19 dicembre 2003, n. 379](../Decreti%20L
 
 AGGIORNAMENTO (1)
 
-La [L. 27 dicembre 2004, n. 306](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20novembre%202004%20n.%20266%20recante%20proroga%20o%20differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Disposizioni%20di%20proroga%20di%20_0cc04a338fda.md) ha disposto (con l'art. 9, comma 1) che il termine di cui al comma 1 del presente articolo e' prorogato al 31 dicembre 2005.
+La [L. 27 dicembre 2004, n. 306](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20novembre%202004%20n.%20266%20recante%20proroga%20o%20differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Disposizioni%20di%20proroga%20di%20_0cc04a338fda.md) ha disposto (con l'art. 9, comma 1) che il termine di cui al comma 1 del presente articolo e' prorogato al 31 dicembre 2005.
 
 ## Art. 3. — (Modifica dell'articolo 1 della legge
  21 dicembre 2001, n. 443)

@@ -150,7 +150,7 @@ Ai fini del presente decreto si applicano le seguenti definizioni:
                             m)
                                 «Stato membro d'origine»: lo Stato membro in cui il cittadino dell'Unione europea ha acquisito le proprie qualifiche professionali;
                             n)
-                                LETTERA ABROGATA DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md);
+                                LETTERA ABROGATA DAL [D.LGS. 28 GENNAIO 2016, N. 15](Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md);
                             n-bis)
                                 «tirocinio professionale»: un periodo di pratica professionale effettuato sotto supervisione, purche' costituisca una condizione per l'accesso a una professione regolamentata e che puo' svolgersi in forma di tirocinio curriculare o in forma di tirocinio extracurriculare o, laddove previsto, anche in apprendistato;
                             n-ter)
@@ -170,7 +170,7 @@ Ai fini del riconoscimento di cui al titolo II e al titolo III, capi II e IV, so
                             a)
                                 la Presidenza del Consiglio dei ministri - Ufficio per lo sport, per tutte le attivita' che riguardano il settore sportivo e per quelle esercitate con la qualifica di professionista sportivo, ad accezione di quelle di cui alla lettera l-septies), nonche' per le professioni di cui alla [legge 2 gennaio 1989, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-01-02;6);
                             b)
-                                LETTERA ABROGATA DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md);
+                                LETTERA ABROGATA DAL [D.LGS. 28 GENNAIO 2016, N. 15](Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md);
                             c)
                                 il Ministero titolare della vigilanza per le professioni che necessitano, per il loro esercizio, dell'iscrizione in Ordini, Collegi, albi, registri o elenchi, fatto salvo quanto previsto alle lettere f) e l-sexies);
                             d)
@@ -180,11 +180,11 @@ Ai fini del riconoscimento di cui al titolo II e al titolo III, capi II e IV, so
                             f)
                                 il Ministero dell'istruzione, dell'universita' e della ricerca, per i docenti di scuole dell'infanzia, primaria, secondaria di primo grado e secondaria superiore e per il personale amministrativo, tecnico e ausiliario della scuola nonche' per il personale ricercatore e per le professioni di architetto, pianificatore territoriale, paesaggista, conservatore dei beni architettonici ed ambientali, architetto junior e pianificatore junior;
                             g)
-                                LETTERA ABROGATA DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md);
+                                LETTERA ABROGATA DAL [D.LGS. 28 GENNAIO 2016, N. 15](Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md);
                             h)
                                 il Ministero dell'istruzione, dell'universita' e della ricerca per ogni altro caso relativamente a professioni che possono essere esercitate solo da chi e' in possesso di qualifiche professionali di cui all'articolo 19, comma 1, lettere d) ed e), salvo quanto previsto alla lettera c);
                             i)
-                                il Ministero dei beni e delle attivita' culturali e del turismo per le attivita' afferenti al settore del restauro e della manutenzione dei beni culturali, secondo quanto previsto dai [commi 7](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [8](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) e [9 dell'articolo 29 del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), e successive modificazioni ((...));
+                                il Ministero dei beni e delle attivita' culturali e del turismo per le attivita' afferenti al settore del restauro e della manutenzione dei beni culturali, secondo quanto previsto dai [commi 7](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [8](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) e [9 dell'articolo 29 del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), e successive modificazioni ((...));
                             l)
                                 il Ministero del lavoro e delle politiche sociali per ogni altro caso relativamente a professioni che possono essere esercitate solo da chi e' in possesso di qualifiche professionali di cui all'articolo 19, comma 1, lettere a), b) e c) nonche' per la professione di consulente del lavoro, per le professioni afferenti alla conduzione di impianti termici e di generatori di vapore;
                             l-bis)
@@ -216,7 +216,7 @@ Fino all'individuazione di cui al comma 2, sulle domande di riconoscimento provv
                             a)
                                 la Presidenza del Consiglio dei Ministri - Ufficio per lo sport, per le attivita' di cui all'allegato IV, Lista III, punto 4), limitatamente alle attivita' afferenti al settore sportivo;
                             b)
-                                LETTERA ABROGATA DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md);
+                                LETTERA ABROGATA DAL [D.LGS. 28 GENNAIO 2016, N. 15](Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md);
                             c)
                                 il Ministero dello sviluppo economico per le attivita' di cui all'allegato IV, Lista I, Lista II e Lista III e non comprese nelle lettere d), e) ed f);
                             d)
@@ -447,7 +447,7 @@ Il centro di assistenza di cui al comma 1, lettera b), curando il raccordo delle
                             a)
                                 fornisce ai cittadini e ai centri di assistenza degli altri Stati membri l'assistenza necessaria in materia di riconoscimento delle qualifiche professionali interessate dal presente decreto, incluse le informazioni sulla legislazione nazionale che disciplina le professioni e il loro esercizio, compresa la legislazione sociale ed eventuali norme deontologiche;
                             b)
-                                assiste, se del caso, i cittadini per l'ottenimento dei diritti attribuiti loro dal presente decreto, eventualmente cooperando con il centro di assistenza dello Stato membro di origine nonche' con le autorita' competenti e con il punto di contatto unico di cui all'[articolo 25 del decreto legislativo 26 marzo 2010, n. 59](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+                                assiste, se del caso, i cittadini per l'ottenimento dei diritti attribuiti loro dal presente decreto, eventualmente cooperando con il centro di assistenza dello Stato membro di origine nonche' con le autorita' competenti e con il punto di contatto unico di cui all'[articolo 25 del decreto legislativo 26 marzo 2010, n. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 Su richiesta della Commissione europea, il centro di assistenza assicura le informazioni sui risultati dell'assistenza prestata, entro due mesi dalla richiesta;
                             c)
                                 valuta le questioni di particolare rilevanza o complessita', congiuntamente con un rappresentante delle regioni e province autonome designato in sede di Conferenza Stato-regioni e province autonome di Trento e di Bolzano, nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
@@ -482,7 +482,7 @@ Le autorita' competenti di cui all'articolo 5 possono stabilire con successivi a
 
 1-sexies.
 
-In attuazione dell'[articolo 53 della direttiva 2005/36/CE del Parlamento europeo e del Consiglio, del 7 settembre 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;36), e ai sensi dell'articolo 99 del testo unico delle leggi costituzionali concernenti lo statuto speciale per il Trentino-Alto Adige/Südtirol, di cui al [decreto del Presidente della Repubblica 31 agosto 1972, n. 670](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), per quanto concerne il territorio della provincia autonoma di Bolzano, la conoscenza della lingua italiana o tedesca costituisce requisito sufficiente di conoscenza linguistica necessaria per l'esercizio delle professioni sanitarie. I controlli linguistici previsti dalla legge sono svolti in conformita' a quanto stabilito dalle disposizioni richiamate dal presente comma.
+In attuazione dell'[articolo 53 della direttiva 2005/36/CE del Parlamento europeo e del Consiglio, del 7 settembre 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;36), e ai sensi dell'articolo 99 del testo unico delle leggi costituzionali concernenti lo statuto speciale per il Trentino-Alto Adige/Südtirol, di cui al [decreto del Presidente della Repubblica 31 agosto 1972, n. 670](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20costituzionali%20concernenti%20lo%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige.md), per quanto concerne il territorio della provincia autonoma di Bolzano, la conoscenza della lingua italiana o tedesca costituisce requisito sufficiente di conoscenza linguistica necessaria per l'esercizio delle professioni sanitarie. I controlli linguistici previsti dalla legge sono svolti in conformita' a quanto stabilito dalle disposizioni richiamate dal presente comma.
 
 1-septies.
 
@@ -1015,7 +1015,7 @@ In deroga ai commi 1 e 2 del presente articolo e all'articolo 22, l'autorita' co
 
 Il riconoscimento di cui al presente capo puo' essere subordinato al compimento di un tirocinio di adattamento non superiore a tre anni o di una prova attitudinale, a scelta del richiedente, in uno dei seguenti casi:
                             a)
-                                LETTERA ABROGATA DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md);
+                                LETTERA ABROGATA DAL [D.LGS. 28 GENNAIO 2016, N. 15](Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md);
                             b)
                                 se la formazione ricevuta riguarda materie sostanzialmente diverse da quelle coperte dal titolo di formazione richiesto in Italia;
                             c)
@@ -1315,7 +1315,7 @@ Per coloro che hanno iniziato i loro studi prima del 1° gennaio 1972, la formaz
 
 5.
 
-Fermo restando il principio dell'invarianza della spesa, la formazione continua, ai sensi del [decreto legislativo 19 giugno 1999, n. 229](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20la%20razionalizzazione%20del%20Servizio%20sanitario%20nazionale%20a%20norma%20dellarticolo%201%20della%20legge%2030%20novembre%201998%20n.%20419.md), assicura la formazione professionale e l'aggiornamento permanente di coloro che hanno completato i loro studi, per tutto l'arco della vita professionale.
+Fermo restando il principio dell'invarianza della spesa, la formazione continua, ai sensi del [decreto legislativo 19 giugno 1999, n. 229](../Decreti%20Legislativi/Norme%20per%20la%20razionalizzazione%20del%20Servizio%20sanitario%20nazionale%20a%20norma%20dellarticolo%201%20della%20legge%2030%20novembre%201998%20n.%20419.md), assicura la formazione professionale e l'aggiornamento permanente di coloro che hanno completato i loro studi, per tutto l'arco della vita professionale.
 
 ### Art. 34. — Formazione medica specialistica e denominazione medica specialistica
 
@@ -1503,15 +1503,15 @@ Ai cittadini di cui all'articolo 2, comma 1, allo scopo di verificare che gli in
 
 2.
 
-COMMA SOPPRESSO DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md).
+COMMA SOPPRESSO DAL [D.LGS. 28 GENNAIO 2016, N. 15](Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md).
 
 3.
 
-COMMA SOPPRESSO DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md).
+COMMA SOPPRESSO DAL [D.LGS. 28 GENNAIO 2016, N. 15](Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md).
 
 4.
 
-COMMA SOPPRESSO DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md).
+COMMA SOPPRESSO DAL [D.LGS. 28 GENNAIO 2016, N. 15](Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md).
 
 ### Art. 40-bis. — (( (Diritti acquisiti specifici degli infermieri responsabili dell'assistenza generale che hanno completato la formazione in Romania). ))
 
@@ -1764,7 +1764,7 @@ Le condizioni di cui al comma 1 si applicano ai cittadini degli Stati membri i c
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 28 GENNAIO 2016, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md).
+COMMA ABROGATO DAL [D.LGS. 28 GENNAIO 2016, N. 15](Attuazione%20della%20direttiva%202013-55-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20recante%20modifica%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20e%20del%20re_b6d3e3ebc898.md).
 
 4.
 
@@ -2074,7 +2074,7 @@ Con decreto del Presidente del Consiglio dei Ministri, sentito il Ministro per l
 Nota all'art. 59: 
  - Si riporta il testo dell'[art. 2, comma 4, della legge 29 marzo 2001, n. 135](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20della%20legislazione%20nazionale%20del%20turismo.md), recante: «Riforma della legislazione nazionale del turismo.»: 
  «Art. 2 (Competenze). - 1.-3. (omissis) 
- 4. Entro tre mesi dalla data di entrata in vigore della presente legge il Presidente del Consiglio dei Ministri definisce, ai sensi dell'[art. 44 del decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), con proprio decreto, i principi e gli obiettivi per la valorizzazione e lo sviluppo del sistema turistico. Il decreto e' adottato d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentite le associazioni di categoria degli operatori turistici e dei consumatori. Lo schema di decreto e' trasmesso alla Camera dei deputati e al Senato della Repubblica ai fini della espressione del parere da parte delle competenti Commissioni parlamentari permanenti. Il decreto, al fine di assicurare l'unitarieta' del comparto turistico e la tutela dei consumatori, delle imprese e delle professioni turistiche, stabilisce: 
+ 4. Entro tre mesi dalla data di entrata in vigore della presente legge il Presidente del Consiglio dei Ministri definisce, ai sensi dell'[art. 44 del decreto legislativo 31 marzo 1998, n. 112](../Decreti%20Legislativi/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), con proprio decreto, i principi e gli obiettivi per la valorizzazione e lo sviluppo del sistema turistico. Il decreto e' adottato d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentite le associazioni di categoria degli operatori turistici e dei consumatori. Lo schema di decreto e' trasmesso alla Camera dei deputati e al Senato della Repubblica ai fini della espressione del parere da parte delle competenti Commissioni parlamentari permanenti. Il decreto, al fine di assicurare l'unitarieta' del comparto turistico e la tutela dei consumatori, delle imprese e delle professioni turistiche, stabilisce: 
  a) le terminologie omogenee e lo standard minimo dei servizi di informazione e di accoglienza ai turisti; 
  b) l'individuazione delle tipologie di imprese turistiche operanti nel settore e delle attivita' di accoglienza non convenzionale; 
  c) i criteri e le modalita' dell'esercizio su tutto il territorio nazionale delle imprese turistiche per le quali si ravvisa la necessita' di standard omogenei ed uniformi; 
@@ -2092,7 +2092,7 @@ Nota all'art. 59:
 
 1.
 
-Le autorita' competenti di cui all'articolo 5 garantiscono che le seguenti informazioni siano disponibili online attraverso il punto di contatto unico, di cui all'[articolo 25 del decreto legislativo 26 marzo 2010, n. 59](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md), e che siano regolarmente aggiornate:
+Le autorita' competenti di cui all'articolo 5 garantiscono che le seguenti informazioni siano disponibili online attraverso il punto di contatto unico, di cui all'[articolo 25 del decreto legislativo 26 marzo 2010, n. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md), e che siano regolarmente aggiornate:
                             a)
                                 l'elenco di tutte le professioni regolamentate, che reca gli estremi delle autorita' competenti per ciascuna professione regolamentata e dei centri di assistenza di cui all'articolo 6;
                             b)
@@ -2110,7 +2110,7 @@ Le autorita' competenti di cui all'articolo 5 garantiscono che le seguenti infor
 
 1-bis.
 
-Le autorita' competenti di cui all'articolo 5 provvedono affinche' le informazioni di cui al comma 1 del presente articolo siano fornite in modo chiaro e comprensibile agli utenti, siano facilmente accessibili mediante connessione remota e per via elettronica e siano costantemente aggiornate. Verificano altresi' che il punto di contatto unico di cui all'[articolo 25, comma 5, del decreto legislativo 26 marzo 2010, n. 59](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md), risponda tempestivamente a qualsiasi richiesta di informazione, eventualmente cooperando con il Centro di assistenza di cui all'articolo 6 del presente decreto.
+Le autorita' competenti di cui all'articolo 5 provvedono affinche' le informazioni di cui al comma 1 del presente articolo siano fornite in modo chiaro e comprensibile agli utenti, siano facilmente accessibili mediante connessione remota e per via elettronica e siano costantemente aggiornate. Verificano altresi' che il punto di contatto unico di cui all'[articolo 25, comma 5, del decreto legislativo 26 marzo 2010, n. 59](Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md), risponda tempestivamente a qualsiasi richiesta di informazione, eventualmente cooperando con il Centro di assistenza di cui all'articolo 6 del presente decreto.
 
 1-ter. Il Coordinatore nazionale di cui all'articolo 6 adotta ogni misura idonea a consentire al punto di contatto unico di fornire le informazioni di cui al comma 1 del presente articolo in un'altra lingua ufficiale dell'Unione europea))
 
@@ -2146,7 +2146,7 @@ Entro sei mesi dalla loro adozione, la Presidenza del Consiglio - Dipartimento p
 
 1.
 
-A fare data dall'entrata in vigore del presente decreto, e' abrogato il [comma 5 dell'articolo 201 del decreto legislativo 10 febbraio 2005, n. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md), recante codice della proprieta' industriale.
+A fare data dall'entrata in vigore del presente decreto, e' abrogato il [comma 5 dell'articolo 201 del decreto legislativo 10 febbraio 2005, n. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md), recante codice della proprieta' industriale.
 
 2.
 
@@ -2154,7 +2154,7 @@ A fare data dall'entrata in vigore del presente decreto sono abrogati il [decret
 
 3.
 
-Il riferimento ai [decreti legislativi 27 gennaio 1992, n. 115, e 2 maggio 1994, n. 319](Attuazione%20della%20direttiva%2092-51-CEE%20relativa%20ad%20un%20secondo%20sistema%20generale%20di%20riconoscimento%20della%20formazione%20professionale%20che%20integra%20la%20direttiva%2089-48-CEE.md), contenuto nell'[articolo 49, comma 2, del decreto del Presidente della Repubblica 31 agosto 1999, n. 394](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20attuazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero%20a%20norma%20dellarticolo%201%20comma_d0732f58b7ad.md), si intende fatto al titolo III del presente decreto; tuttavia resta attribuito all'autorita' competente di cui all'articolo 5 la scelta della eventuale misura compensativa da applicare al richiedente.
+Il riferimento ai [decreti legislativi 27 gennaio 1992, n. 115, e 2 maggio 1994, n. 319](Attuazione%20della%20direttiva%2092-51-CEE%20relativa%20ad%20un%20secondo%20sistema%20generale%20di%20riconoscimento%20della%20formazione%20professionale%20che%20integra%20la%20direttiva%2089-48-CEE.md), contenuto nell'[articolo 49, comma 2, del decreto del Presidente della Repubblica 31 agosto 1999, n. 394](../DPR/Regolamento%20recante%20norme%20di%20attuazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero%20a%20norma%20dellarticolo%201%20comma_d0732f58b7ad.md), si intende fatto al titolo III del presente decreto; tuttavia resta attribuito all'autorita' competente di cui all'articolo 5 la scelta della eventuale misura compensativa da applicare al richiedente.
 
 4.
 

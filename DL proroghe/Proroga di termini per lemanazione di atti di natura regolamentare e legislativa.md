@@ -62,7 +62,7 @@ Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propr
 
 1.
 
-All'[articolo 12, comma 8, del decreto legislativo 22 gennaio 2004, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20della%20disciplina%20in%20materia%20di%20attivita%20cinematografiche%20a%20norma%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), e successive modificazioni, le parole: "non oltre il 30 giugno 2006" sono sostituite dalle seguenti: "fino al 31 dicembre 2006".
+All'[articolo 12, comma 8, del decreto legislativo 22 gennaio 2004, n. 28](../Decreti%20Legislativi/Riforma%20della%20disciplina%20in%20materia%20di%20attivita%20cinematografiche%20a%20norma%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), e successive modificazioni, le parole: "non oltre il 30 giugno 2006" sono sostituite dalle seguenti: "fino al 31 dicembre 2006".
 
 ))
 

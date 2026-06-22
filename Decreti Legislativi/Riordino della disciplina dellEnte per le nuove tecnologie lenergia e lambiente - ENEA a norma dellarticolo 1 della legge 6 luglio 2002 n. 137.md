@@ -51,13 +51,13 @@ Il presente decreto legislativo, in attuazione della delega conferita dall'[arti
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 2. — Finalita' dell'Ente
 
@@ -74,13 +74,13 @@ L'ENEA ha personalita' giuridica di diritto pubblico, gode di autonomia scientif
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 3. — Attivita' dell'ENEA
 
@@ -128,13 +128,13 @@ L'ENEA potra', ai fini della valorizzazione ed utilizzazione dei risultati delle
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 4. — O r g a n i
 
@@ -153,13 +153,13 @@ Sono organi dell'ENEA:
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 5. — Presidente
 
@@ -192,13 +192,13 @@ In caso di assenza o impedimento, il presidente e' sostituito da un vice preside
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 6. — Consiglio di amministrazione
 
@@ -243,13 +243,13 @@ Il consiglio di amministrazione nomina il vice presidente e i membri del comitat
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 7. — Consiglio scientifico
 
@@ -278,13 +278,13 @@ Il consiglio scientifico ha compiti propositivi e consultivi relativi all'attivi
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 8. — Comitato di indirizzo e coordinamento dei progetti di industrializzazione
 
@@ -313,13 +313,13 @@ La partecipazione al comitato non comporta il percepimento di indennita' o compe
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 9. — Collegio dei revisori
 
@@ -340,13 +340,13 @@ Il collegio dei revisori realizza il controllo della regolarita' amministrativa 
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 10. — Comitato di valutazione
 
@@ -367,13 +367,13 @@ Il numero, la composizione, le modalita' di nomina e di funzionamento del comita
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 11. — Struttura organizzativa
 
@@ -398,13 +398,13 @@ Il regolamento di organizzazione e funzionamento dell'ENEA puo' prevedere l'isti
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 12. — Direttore generale
 
@@ -437,13 +437,13 @@ Il direttore generale e' responsabile della gestione dell'ENEA e partecipa alle 
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 13. — Dipartimenti
 
@@ -480,13 +480,13 @@ Con riferimento alle specifiche aree di competenza, ciascun dipartimento, second
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 14. — Direzioni centrali
 
@@ -523,13 +523,13 @@ Le direzioni centrali, secondo quanto stabilito dal regolamento di organizzazion
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 15. — Incompatibilita' ed indennita'
 
@@ -558,13 +558,13 @@ I compensi dei componenti del consiglio scientifico e del comitato di valutazion
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 16. — Piani di attivita'
 
@@ -585,13 +585,13 @@ Le proposte di piano triennale e di piano annuale dell'ente sono deliberate dal 
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 17. — Strumenti
 
@@ -624,13 +624,13 @@ Il regolamento di cui all'articolo 20 disciplina il ricorso agli strumenti di cu
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 18. — Societa' di gestione
 
@@ -651,13 +651,13 @@ La societa' di cui al comma 1 puo' assumere partecipazioni, anche di maggioranza
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 19. — Entrate
 
@@ -685,13 +685,13 @@ Le entrate dell'ENEA sono costituite:
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 20. — Regolamenti
 
@@ -732,13 +732,13 @@ Il regolamento di organizzazione e funzionamento puo' prevedere le modalita' di 
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 21. — Personale
 
@@ -759,13 +759,13 @@ L'ENEA, con proprio regolamento, adottato ai sensi dell'articolo 20 e previo par
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 22. — Vigilanza e controllo
 
@@ -793,20 +793,20 @@ I bilanci consuntivi e le relazioni del collegio dei revisori sono inviate al Mi
 
 4.
 
-L'ENEA e' soggetto al controllo della Corte dei conti previsto dall'[articolo 12 della legge 21 marzo 1958, n. 259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-21;259#art_12), e si avvale del patrocinio dell'Avvocatura generale dello Stato, ai sensi dell'[articolo 43 del regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md). 
+L'ENEA e' soggetto al controllo della Corte dei conti previsto dall'[articolo 12 della legge 21 marzo 1958, n. 259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-21;259#art_12), e si avvale del patrocinio dell'Avvocatura generale dello Stato, ai sensi dell'[articolo 43 del regio decreto 30 ottobre 1933, n. 1611](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md). 
  (1)((2))
 
 -------------
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 23. — Relazione annuale al Parlamento
 
@@ -818,13 +818,13 @@ Il Ministro delle attivita' produttive, sentito il Ministro dell'istruzione, del
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 24. — Commissariamento
 
@@ -837,13 +837,13 @@ Per gravi e motivate ragioni, inerenti il corretto funzionamento dell'Ente ed il
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 ## Art. 25. — Norme transitorie e finali
 
@@ -872,13 +872,13 @@ E' abrogato il [decreto legislativo 30 gennaio 1999, n. 36](Riordino%20dellEnte%
 
 AGGIORNAMENTO (1)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99) ha disposto (con l'art. 37, comma 3) che "L'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) svolge le rispettive funzioni con le risorse finanziarie, strumentali e di personale dell'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) di cui al [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md), che, a decorrere dalla data di insediamento dei commissari di cui al comma 5 del presente articolo, e' soppresso".
 
 -------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
+La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), come modificata dalla [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;221), ha disposto (con l'art. 37, comma 12) che "A decorrere dalla scadenza del termine di approvazione degli atti previsti al comma 7, e' abrogato il [decreto legislativo 3 settembre 2003, n. 257](Riordino%20della%20disciplina%20dellEnte%20per%20le%20nuove%20tecnologie%20lenergia%20e%20lambiente%20-%20ENEA%20a%20norma%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md)".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e farlo osservare.
 

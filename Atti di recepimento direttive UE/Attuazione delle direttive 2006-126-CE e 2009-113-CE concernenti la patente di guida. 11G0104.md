@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 7 luglio 2009, n. 88](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2008, ed in particolare l'articolo 1, commi 1 e 3, e l'allegato B;
+Vista la [legge 7 luglio 2009, n. 88](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2008, ed in particolare l'articolo 1, commi 1 e 3, e l'allegato B;
 
 Vista la [direttiva 2006/126/CE del Parlamento europeo e del Consiglio, del 20 dicembre 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;126), concernente la patente di guida;
 
@@ -20,9 +20,9 @@ Vista la [direttiva 2009/113/CE della Commissione, del 25 agosto 2009](https://w
 
 Vista altresi' la [direttiva 2002/24/CE del Parlamento europeo e del Consiglio, del 18 marzo 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;24), relativa all'omologazione dei veicoli a motore a due o tre ruote e che abroga la [direttiva 92/61/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;61);
 
-Visto il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), recante nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, di seguito denominato: «[Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)»;
+Visto il [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), recante nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), e successive modificazioni, di seguito denominato: «[Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md)»;
 
-Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), recante regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), recante regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), e successive modificazioni;
 
 Visto il [decreto del Ministro delle infrastrutture e dei trasporti in data 30 settembre 2003, n. 40T](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.infrastrutture.trasporti:decreto:2003-09-30;40), recante disposizioni in materia di patenti di guida e recepimento della [direttiva 2000/56/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;56), pubblicato nella Gazzetta Ufficiale, n. 88 del 15 aprile 2004;
 
@@ -40,7 +40,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-All'[articolo 47 del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) sono apportate le seguenti modificazioni:
+All'[articolo 47 del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) sono apportate le seguenti modificazioni:
                         a)
                             al comma 2, lettera a), le parole: «L1, L2, L3, L4 ed L5» sono sostituite dalle seguenti: «L1e, L2e, L3e, L4e ed L5e» e le parole: «50 km/h», ovunque ricorrano, sono sostituite dalle seguenti: «45 km/h»;
                         b)
@@ -49,12 +49,12 @@ All'[articolo 47 del Codice della strada](../Leggi%20delega%20e%20relativi%20pro
  - categoria L7e: i quadricicli, diversi da quelli di cui alla categoria L6e, la cui massa a vuoto e' inferiore o pari a 400 kg (550 kg per i veicoli destinati al trasporto di merci), esclusa la massa delle batterie per i veicoli elettrici, e la cui potenza massima netta del motore e' inferiore o uguale a 15 kW. Tali veicoli sono considerati come tricicli e sono conformi alle prescrizioni tecniche applicabili ai tricicli della categoria L5e salvo altrimenti disposto da specifiche disposizioni comunitarie;».
 
 Avvertenza: 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'articolo 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'articolo 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE). 
  Note alle premesse: 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
- - Il testo dell'articolo 1, commi 1 e 3, e dell'allegato B della [legge 7 luglio 2009, n.88](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), pubblicata nella Gazzetta Ufficiale 14 luglio 2009, n. 161, S.O., cosi' recita: 
+ - Il testo dell'articolo 1, commi 1 e 3, e dell'allegato B della [legge 7 luglio 2009, n.88](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), pubblicata nella Gazzetta Ufficiale 14 luglio 2009, n. 161, S.O., cosi' recita: 
  «Art. 1(Delega al Governo per l'attuazione di direttive comunitarie). - 1. Il Governo e' delegato ad adottare, entro la scadenza del termine di recepimento fissato dalle singole direttive, i decreti legislativi recanti le norme occorrenti per dare attuazione alle direttive comprese negli elenchi di cui agli allegati A e B. Per le direttive elencate negli allegati A e B il cui termine di recepimento sia gia' scaduto ovvero scada nei tre mesi successivi alla data di entrata in vigore della presente legge, il Governo e' delegato ad adottare i decreti legislativi di attuazione entro tre mesi dalla data di entrata in vigore della presente legge. Per le direttive elencate negli allegati A e B che non prevedono un termine di recepimento, il Governo e' delegato ad adottare i decreti legislativi entro dodici mesi dalla data di entrata in vigore della presente legge.  (Omissis). 
  3. Gli schemi dei decreti legislativi recanti attuazione delle direttive comprese nell'elenco di cui all'allegato B, nonche', qualora sia previsto il ricorso a sanzioni penali, quelli relativi all'attuazione delle direttive comprese nell'elenco di cui all' allegato A, sono trasmessi, dopo l'acquisizione degli altri pareri previsti dalla legge, alla Camera dei deputati e al Senato della Repubblica perche' su di essi sia espresso il parere dei competenti organi parlamentari. Decorsi quaranta giorni dalla data di trasmissione, i decreti sono emanati anche in mancanza del parere. Qualora il termine per l'espressione del parere parlamentare di cui al presente comma ovvero i diversi termini previsti dai commi 4 e 8 scadano nei trenta giorni che precedono la scadenza dei termini previsti ai commi 1 o 5 o successivamente, questi ultimi sono prorogati di novanta giorni.». 
  «Allegato B 
@@ -103,12 +103,12 @@ Avvertenza:
  - La [direttiva 2009/113/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;113) e' pubblicata nella G.U.U.E. 26 agosto 2009, n. L 223. 
  - La [direttiva 2002/24/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;24) e' pubblicata nella G.U.C.E. 9 maggio 2002, n. L 124. 
  - La [direttiva 92/61/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;61) e' pubblicata nella G.U.C.E. 10 agosto 1992, n. L 225. 
- - Il [decreto legislativo 30 aprile 1992, n.285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e' pubblicato nella Gazzetta Ufficiale 18 maggio 1992, n. 114, S.O. 
- - Il [decreto del Presidente della Repubblica 16 dicembre 1992, n.495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e' pubblicato nella Gazzetta Ufficiale 28 dicembre 1992, n. 303, S.O. 
+ - Il [decreto legislativo 30 aprile 1992, n.285](../Codici/Nuovo%20codice%20della%20strada.md), e' pubblicato nella Gazzetta Ufficiale 18 maggio 1992, n. 114, S.O. 
+ - Il [decreto del Presidente della Repubblica 16 dicembre 1992, n.495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e' pubblicato nella Gazzetta Ufficiale 28 dicembre 1992, n. 303, S.O. 
  - Il [decreto del Ministro delle infrastrutture e dei trasporti 30 settembre 2003, n.40T](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.infrastrutture.trasporti:decreto:2003-09-30;40), pubblicato nella Gazzetta Ufficiale 15 aprile 2004, n. 88, abrogato dal presente decreto, recava: «Disposizioni comunitarie in materia di patenti di guida e recepimento della [direttiva 2000/56/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;56). (Decreto n. 40T). ». 
  - La [direttiva 2000/56/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;56), (Direttiva della Commissione che modifica la [direttiva 91/439/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;439) concernente la patente di guida), e' pubblicata nella G.U.C.E. 21 settembre 2000, n. L 237. 
  Note all'art. 1: 
- - Si riporta il testo dell'[articolo 47 del decreto legislativo 30 aprile 1992, n.285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), citato nelle premesse, cosi' come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 47 del decreto legislativo 30 aprile 1992, n.285](../Codici/Nuovo%20codice%20della%20strada.md), citato nelle premesse, cosi' come modificato dal presente decreto: 
  «Art. 47(Classificazione dei veicoli). - 1. I veicoli si classificano, ai fini del presente codice, come segue: 
  a) veicoli a braccia; 
  b) veicoli a trazione animale; 
@@ -147,7 +147,7 @@ Avvertenza:
 
 1.
 
-All'[articolo 115 del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) sono apportate le seguenti modificazioni:
+All'[articolo 115 del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) sono apportate le seguenti modificazioni:
                         a)
                             il comma 1 e' sostituito dal seguente: 
  «1. Fatte salve le disposizioni specifiche in materia di carta di qualificazione del conducente, chi guida veicoli o conduce animali deve essere idoneo per requisiti fisici e psichici e aver compiuto: 
@@ -181,7 +181,7 @@ All'[articolo 115 del Codice della strada](../Leggi%20delega%20e%20relativi%20pr
 
 ## Art. 3. — Modifiche all'articolo 116 del Codice della strada, in materia di patente e di abilitazione professionale per la guida di motoveicoli e autoveicoli
 
-1. L'[articolo 116 del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' sostituito dal seguente: 
+1. L'[articolo 116 del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) e' sostituito dal seguente: 
  «Art. 116 (Patente e abilitazioni professionali per la guida di veicoli a motore). - 1. Non si possono guidare ciclomotori, motocicli, tricicli, quadricicli e autoveicoli senza aver conseguito la patente di guida ed, ove richieste, le abilitazioni professionali.
 Tali documenti sono rilasciati dal competente ufficio del Dipartimento per i trasporti, la navigazione e i sistemi informativi e statistici a soggetti che hanno la residenza in Italia ai sensi dell'articolo 118-bis. 
  2. Per sostenere gli esami di idoneita' per la patente di guida occorre presentare apposita domanda al competente ufficio del Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici ed essere in possesso dei requisiti fisici e psichici prescritti. Il Ministero delle infrastrutture e dei trasporti, con decreti dirigenziali, stabilisce il procedimento per il rilascio, l'aggiornamento e il duplicato, attraverso il proprio sistema informatico, delle patenti di guida e delle abilitazioni professionali, con l'obiettivo della massima semplificazione amministrativa, anche con il coinvolgimento dei medici di cui all'articolo 119, dei comuni, delle autoscuole di cui all'articolo 123 e dei soggetti di cui alla [legge 8 agosto 1991, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-08;264). 
@@ -244,19 +244,19 @@ Il D.P.C.M. 26 giugno 2013 (in G.U. 28/06/2013, n. 150) ha disposto (con l'art. 
 
 AGGIORNAMENTO (5)
 
-Il [D.L. 30 dicembre 2013, n. 150](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2013G00197.md), convertito con modificazioni dalla [L. 27 febbraio 2014, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202013%20n.%20150%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00026.md) ha disposto (con l'art. 4, comma 3) che "L'entrata in vigore dell'[articolo 28, comma 1, del decreto legislativo 18 aprile 2011, n. 59](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), limitatamente all'articolo 10, comma 1, dello stesso decreto, con riferimento all'articolo 3, comma 1, capoverso: Art. 116, comma 3, lettere a), b), c), d), e), h), i), n) ed o), del medesimo decreto, e' prorogata al 31 dicembre 2014".
+Il [D.L. 30 dicembre 2013, n. 150](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2013G00197.md), convertito con modificazioni dalla [L. 27 febbraio 2014, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202013%20n.%20150%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00026.md) ha disposto (con l'art. 4, comma 3) che "L'entrata in vigore dell'[articolo 28, comma 1, del decreto legislativo 18 aprile 2011, n. 59](Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), limitatamente all'articolo 10, comma 1, dello stesso decreto, con riferimento all'articolo 3, comma 1, capoverso: Art. 116, comma 3, lettere a), b), c), d), e), h), i), n) ed o), del medesimo decreto, e' prorogata al 31 dicembre 2014".
 
 -------------
 
 AGGIORNAMENTO (6)
 
-Il [D.L. 31 dicembre 2014, n. 192](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00205.md), convertito con modificazioni dalla [L. 27 febbraio 2015, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202014%20n.%20192%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2015G00031.md), ha disposto (con l'art. 8, comma 6) che "L'entrata in vigore dell'[articolo 28, comma 1, del decreto legislativo 18 aprile 2011, n. 59](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), limitatamente all'articolo 10, comma 1, dello stesso decreto, con riferimento all'articolo 3, comma 1, capoverso Art. 116, comma 3, lettere a), b), c), d), e), h), i), n) ed o), del medesimo decreto, e' prorogata al 30 giugno 2015".
+Il [D.L. 31 dicembre 2014, n. 192](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00205.md), convertito con modificazioni dalla [L. 27 febbraio 2015, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202014%20n.%20192%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2015G00031.md), ha disposto (con l'art. 8, comma 6) che "L'entrata in vigore dell'[articolo 28, comma 1, del decreto legislativo 18 aprile 2011, n. 59](Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), limitatamente all'articolo 10, comma 1, dello stesso decreto, con riferimento all'articolo 3, comma 1, capoverso Art. 116, comma 3, lettere a), b), c), d), e), h), i), n) ed o), del medesimo decreto, e' prorogata al 30 giugno 2015".
 
 ## Art. 4. — Modifiche all'articolo 117 del Codice della strada, in materia di limitazioni nella guida
 
 1.
 
-All'[articolo 117 del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) sono apportate le seguenti modificazioni:
+All'[articolo 117 del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) sono apportate le seguenti modificazioni:
                         a)
                             il comma 1 e' abrogato;
                         b)
@@ -267,10 +267,10 @@ All'[articolo 117 del Codice della strada](../Leggi%20delega%20e%20relativi%20pr
                             al comma 5, le parole: «nei primi tre anni dal conseguimento della patente di guida circola oltrepassando i limiti di guida e di velocita' di cui al presente articolo» sono sostituite dalle seguenti: «viola le disposizioni di cui ai commi 2 e 2-bis».
 
 Note all'art. 4: 
- - Si riporta il testo dell'articolo 117 del citato [decreto legislativo 30 aprile 1992, n.285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), cosi' come modificato dal presente decreto: 
+ - Si riporta il testo dell'articolo 117 del citato [decreto legislativo 30 aprile 1992, n.285](../Codici/Nuovo%20codice%20della%20strada.md), cosi' come modificato dal presente decreto: 
  «Art. 117 (Limitazioni nella guida). - 1. (abrogato). 
  2. Per i primi tre anni dal conseguimento della patente di categoria A2, A, B1 e B non e' consentito il superamento della velocita' di 100 km/h per le autostrade e di 90 km/h per le strade extraurbane principali. 
- 2-bis. Ai titolari di patente di guida di categoria B, per il primo anno dal rilascio non e' consentita la guida di autoveicoli aventi una potenza specifica, riferita alla tara, superiore a 55 kW/t. Nel caso di veicoli di categoria M1, ai fini di cui al precedente periodo si applica un ulteriore limite di potenza massima pari a 70 kW. Le limitazioni di cui al presente comma non si applicano ai veicoli adibiti al servizio di persone invalide, autorizzate ai sensi dell'articolo 188, purche' la persona invalida sia presente sul veicolo. Fatto salvo quanto previsto dall'articolo 120 del presente codice, alle persone destinatarie del divieto di cui all'articolo 75, comma 1, lettera a), del testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), il divieto di cui al presente comma ha effetto per i primi tre anni dal rilascio della patente di guida. 
+ 2-bis. Ai titolari di patente di guida di categoria B, per il primo anno dal rilascio non e' consentita la guida di autoveicoli aventi una potenza specifica, riferita alla tara, superiore a 55 kW/t. Nel caso di veicoli di categoria M1, ai fini di cui al precedente periodo si applica un ulteriore limite di potenza massima pari a 70 kW. Le limitazioni di cui al presente comma non si applicano ai veicoli adibiti al servizio di persone invalide, autorizzate ai sensi dell'articolo 188, purche' la persona invalida sia presente sul veicolo. Fatto salvo quanto previsto dall'articolo 120 del presente codice, alle persone destinatarie del divieto di cui all'articolo 75, comma 1, lettera a), del testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), il divieto di cui al presente comma ha effetto per i primi tre anni dal rilascio della patente di guida. 
  3. Nel regolamento saranno stabilite le modalita' per l'indicazione sulla carta di circolazione dei limiti di cui ai commi 2 e 2-bis. Analogamente sono stabilite norme per i veicoli in circolazione alla data di entrata in vigore del presente codice. 
  4. Le limitazioni alla guida e alla velocita' sono automatiche e decorrono dalla data di superamento dell'esame di cui all'articolo 121. 
  5. Il titolare di patente di guida italiana che viola le disposizioni di cui ai commi 2 e 2-bis e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 152 a euro 608. La violazione importa la sanzione amministrativa accessoria della sospensione della validita' della patente da due ad otto mesi, secondo le norme del capo I, sezione II, del titolo VI.».
@@ -279,7 +279,7 @@ Note all'art. 4:
 
 1.
 
-All'[articolo 118 del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) sono apportate le seguenti modificazioni:
+All'[articolo 118 del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) sono apportate le seguenti modificazioni:
                         a)
                             al comma 1 le parole: « il certificato di abilitazione professionale» sono sostituite dalle seguenti: «la carta di qualificazione del conducente per il trasporto di persone»;
                         b)
@@ -290,7 +290,7 @@ All'[articolo 118 del Codice della strada](../Leggi%20delega%20e%20relativi%20pr
                             ai commi 11 e 12, le parole: «del certificato di abilitazione professionale, quando richiesto» sono sostituite dalle seguenti: «della carta di qualificazione del conducente per il trasporto di persone».
 
 Note all'art. 5: 
- - Si riporta il testo dell'articolo 118 del citato [decreto legislativo 30 aprile 1992, n.285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), cosi' come modificato dal presente decreto: 
+ - Si riporta il testo dell'articolo 118 del citato [decreto legislativo 30 aprile 1992, n.285](../Codici/Nuovo%20codice%20della%20strada.md), cosi' come modificato dal presente decreto: 
  «Articolo 118 (Patente e certificato di idoneita' per la guida di filoveicoli). - 1. Non si possono guidare filoveicoli senza avere conseguito la patente di guida per autoveicoli, la carta di qualificazione del conducente per il trasporto di persone nel caso della guida di filoveicoli per trasporto di persone e un certificato di idoneita' rilasciato dal competente ufficio del Dipartimento per i trasporti terrestri, su proposta della azienda interessata. 
  2. La categoria della patente di guida e la carta di qualificazione del conducente per il trasporto di persone di cui devono essere muniti i conducenti di veicoli filoviari devono essere gli stessi di quelli prescritti per i corrispondenti autoveicoli. 
  3. Il certificato di idoneita' si consegue mediante esame che deve essere preceduto da un periodo di esercitazioni nella condotta di un veicolo filoviario da effettuarsi con la assistenza di un guidatore gia' autorizzato e sotto il controllo di un funzionario tecnico della azienda che intende adibire il candidato alla funzione di guidatore di filobus. 
@@ -310,7 +310,7 @@ Note all'art. 5:
 
 1.
 
-Dopo l'[articolo 118 del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' inserito il seguente: 
+Dopo l'[articolo 118 del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) e' inserito il seguente: 
  « Art. 118-bis (Requisito della residenza normale per il rilascio della patente di guida e delle abilitazioni professionali). - 1. Ai fini del rilascio di una patente di guida o di una delle abilitazioni professionali di cui all'articolo 116, nonche' dell'applicazione delle disposizioni di cui all'articolo 126, si intende per residenza, oltre quella di cui all'[articolo 43, secondo comma, del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_43-com2), anche la residenza normale in Italia di cittadini di altri Stati membri dell'Unione europea o dello Spazio economico europeo. 
  2. Per residenza normale in Italia si intende il luogo, sul territorio nazionale, in cui una persona dimora abitualmente, vale a dire per almeno centottantacinque giorni all'anno, per interessi personali e professionali o, nel caso di una persona che non abbia interessi professionali, per interessi personali, che rivelino stretti legami tra la persona e il luogo in cui essa abita. Si intende altresi' per residenza normale il luogo, sul territorio nazionale, in cui una persona, che ha interessi professionali in altro Stato comunitario o dello Spazio economico europeo, ha i propri interessi personali, a condizione che vi ritorni regolarmente. Tale condizione non e' necessaria se la persona effettua un soggiorno in Italia per l'esecuzione di una missione a tempo determinato. La frequenza di corsi universitari e scolastici non implica il trasferimento della residenza normale. 
  3. Ai fini dell'applicazione delle disposizioni del presente codice, e' equiparato alla residenza normale il possesso della qualifica di studente nel territorio nazionale, per almeno sei mesi all'anno.».
@@ -319,11 +319,11 @@ Dopo l'[articolo 118 del Codice della strada](../Leggi%20delega%20e%20relativi%2
 
 1.
 
-All'[articolo 119, comma 4, del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), dopo la lettera b) e' inserita la seguente: 
+All'[articolo 119, comma 4, del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), dopo la lettera b) e' inserita la seguente: 
  «b-bis) di coloro che abbiano superato gli ottanta anni;».
 
 Note all'art. 7: 
- - Si riporta il testo dell'articolo 119 del citato [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), cosi' come modificato dal presente decreto: 
+ - Si riporta il testo dell'articolo 119 del citato [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), cosi' come modificato dal presente decreto: 
  «Art. 119 (Requisiti fisici e psichici per il conseguimento della patente di guida). - 1. Non puo' ottenere la patente di guida o l'autorizzazione ad esercitarsi alla guida di cui all'art. 122, comma 2, chi sia affetto da malattia fisica o psichica, deficienza organica o minorazione psichica, anatomica o funzionale tale da impedire di condurre con sicurezza veicoli a motore. 
  2. L'accertamento dei requisiti fisici e psichici, tranne per i casi stabiliti nel comma 4, e' effettuato dall'ufficio della unita' sanitaria locale territorialmente competente, cui sono attribuite funzioni in materia medico-legale. L'accertamento suindicato puo' essere effettuato altresi' da un medico responsabile dei servizi di base del distretto sanitario ovvero da un medico appartenente al ruolo dei medici del Ministero della salute, o da un ispettore medico delle Ferrovie dello Stato o da un medico militare in servizio permanente effettivo o in quiescenza o da un medico del ruolo professionale dei sanitari della Polizia di Stato o da un medico del ruolo sanitario del Corpo nazionale dei vigili del fuoco o da un ispettore medico del Ministero del lavoro e delle politiche sociali. L'accertamento puo' essere effettuato dai medici di cui al periodo precedente, anche dopo aver cessato di appartenere alle amministrazioni e ai corpi ivi indicati, purche' abbiano svolto l'attivita' di accertamento negli ultimi dieci anni o abbiano fatto parte delle commissioni di cui al comma 4 per almeno cinque anni. In tutti i casi tale accertamento deve essere effettuato nei gabinetti medici. 
  2-bis. L'accertamento dei requisiti psichici e fisici nei confronti dei soggetti affetti da diabete per il conseguimento, la revisione o la conferma delle patenti di categoria A, B, BE e sottocategorie, e' effettuato dai medici specialisti nell'area della diabetologia e malattie del ricambio dell'unita' sanitaria locale che indicheranno l'eventuale scadenza entro la quale effettuare il successivo controllo medico cui e' subordinata la conferma o la revisione della patente di guida. 
@@ -351,15 +351,15 @@ Note all'art. 7:
 
 1.
 
-All'[articolo 120 del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) sono apportate le seguenti modificazioni:
+All'[articolo 120 del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: «, il certificato di abilitazione professionale per la guida di motoveicoli e il certificato di idoneita' alla guida di ciclomotori» sono soppresse;
                         b)
                             al comma 2, le parole: «, del certificato di abilitazione professionale per la guida di motoveicoli e del certificato di idoneita' alla guida di ciclomotori» sono soppresse.
 
 Note all'art. 8: 
- - Si riporta il testo dell'art. 120 del citato [decreto legislativo 30 aprile 1992, n.285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), cosi' come modificato dal presente decreto: 
- «Art. 120 (Requisiti morali per ottenere il rilascio dei titoli abilitativi di cui all'art. 116). - 1. Non possono conseguire la patente di guida i delinquenti abituali, professionali o per tendenza e coloro che sono o sono stati sottoposti a misure di sicurezza personali o alle misure di prevenzione previste dalla [legge 27 dicembre 1956, n. 1423](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md), ad eccezione di quella di cui all'[art. 2, e dalla legge 31 maggio 1965, n. 575](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20contro%20la%20mafia.md), le persone condannate per i reati di cui agli articoli 73 e 74 del testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../Testi%20Unici/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), fatti salvi gli effetti di provvedimenti riabilitativi, nonche' i soggetti destinatari dei divieti di cui agli articoli 75, comma 1, lettera a), e 75-bis, comma 1, lettera f), del medesimo testo unico di cui al [decreto del Presidente della Repubblica n. 309 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990;309) per tutta la durata dei predetti divieti. Non possono di nuovo conseguire la patente di guida le persone a cui sia applicata per la seconda volta, con sentenza di condanna per il reato di cui al terzo periodo del comma 2 dell'art. 222, la revoca della patente ai sensi del quarto periodo del medesimo comma. 
+ - Si riporta il testo dell'art. 120 del citato [decreto legislativo 30 aprile 1992, n.285](../Codici/Nuovo%20codice%20della%20strada.md), cosi' come modificato dal presente decreto: 
+ «Art. 120 (Requisiti morali per ottenere il rilascio dei titoli abilitativi di cui all'art. 116). - 1. Non possono conseguire la patente di guida i delinquenti abituali, professionali o per tendenza e coloro che sono o sono stati sottoposti a misure di sicurezza personali o alle misure di prevenzione previste dalla [legge 27 dicembre 1956, n. 1423](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md), ad eccezione di quella di cui all'[art. 2, e dalla legge 31 maggio 1965, n. 575](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20contro%20la%20mafia.md), le persone condannate per i reati di cui agli articoli 73 e 74 del testo unico di cui al [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md), fatti salvi gli effetti di provvedimenti riabilitativi, nonche' i soggetti destinatari dei divieti di cui agli articoli 75, comma 1, lettera a), e 75-bis, comma 1, lettera f), del medesimo testo unico di cui al [decreto del Presidente della Repubblica n. 309 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990;309) per tutta la durata dei predetti divieti. Non possono di nuovo conseguire la patente di guida le persone a cui sia applicata per la seconda volta, con sentenza di condanna per il reato di cui al terzo periodo del comma 2 dell'art. 222, la revoca della patente ai sensi del quarto periodo del medesimo comma. 
  2. Fermo restando quanto previsto dall'art. 75, comma 1, lettera a), del citato testo unico di cui al [decreto del Presidente della Repubblica n. 309 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990;309), se le condizioni soggettive indicate al primo periodo del comma 1 del presente articolo intervengono in data successiva al rilascio, il prefetto provvede alla revoca della patente di guida. La revoca non puo' essere disposta se sono trascorsi piu' di tre anni dalla data di applicazione delle misure di prevenzione, o di quella del passaggio in giudicato della sentenza di condanna per i reati indicati al primo periodo del medesimo comma 1 . 
  3. La persona destinataria del provvedimento di revoca di cui al comma 2 non puo' conseguire una nuova patente di guida prima che siano trascorsi almeno tre anni. 
  4. Avverso i provvedimenti di diniego di cui al comma 1 e i provvedimenti di cui al comma 2 e' ammesso il ricorso al Ministro dell'interno il quale decide, entro sessanta giorni, di concerto con il Ministro delle infrastrutture e dei trasporti. 
@@ -370,7 +370,7 @@ Note all'art. 8:
 
 1.
 
-All'[articolo 121 del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) sono apportate le seguenti modificazioni:
+All'[articolo 121 del codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) sono apportate le seguenti modificazioni:
                         a)
                             al comma 3, le parole: «, per i certificati professionali di cui all'articolo 116 e per l'idoneita' degli insegnanti e degli istruttori delle autoscuole di cui all'articolo 123 sono effettuati da dipendenti del Dipartimento per i trasporti terrestri» sono sostituite dalle seguenti: «, per le abilitazioni professionali di cui all'articolo 116 e del certificato di idoneita' professionale di cui all'articolo 118, sono effettuati da dipendenti del Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici, a seguito della frequenza di corso di qualificazione iniziale, secondo le disposizioni di cui ai commi 5 e 5-bis, ed esame di abilitazione. Il permanere nell'esercizio della funzione di esaminatore e' subordinato alla frequenza di corsi di formazione periodica, secondo le disposizioni di cui ai commi 5 e 5-bis.»;
                         b)
@@ -385,10 +385,10 @@ Il Dipartimento per i trasporti, la navigazione ed i sistemi informativi e stati
 
 2.
 
-Il Governo, entro novanta giorni dalla data di entrata in vigore del presente decreto, provvede a modificare l'articolo 332 del regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e la relativa tabella IV.I, nel senso di prevedere profili professionali adeguati agli esami relativi alle nuove categorie di patenti introdotte nel [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) ai sensi del presente decreto, e che gli stessi siano distinti in ragione che l'esaminatore sia abilitato in relazione alle prove di controllo delle cognizioni ovvero alle prove di verifica delle capacita' e dei comportamenti, assicurando, in tale ultimo caso, un livello di istruzione professionale di secondo grado conseguito a seguito di un corso di studi di almeno cinque anni.
+Il Governo, entro novanta giorni dalla data di entrata in vigore del presente decreto, provvede a modificare l'articolo 332 del regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), di cui al [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e la relativa tabella IV.I, nel senso di prevedere profili professionali adeguati agli esami relativi alle nuove categorie di patenti introdotte nel [Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) ai sensi del presente decreto, e che gli stessi siano distinti in ragione che l'esaminatore sia abilitato in relazione alle prove di controllo delle cognizioni ovvero alle prove di verifica delle capacita' e dei comportamenti, assicurando, in tale ultimo caso, un livello di istruzione professionale di secondo grado conseguito a seguito di un corso di studi di almeno cinque anni.
 
 Note all'art. 9: 
- - Si riporta il testo dell'art. 121 del citato [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), cosi' come modificato dal presente decreto: 
+ - Si riporta il testo dell'art. 121 del citato [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), cosi' come modificato dal presente decreto: 
  «Art. 121 (Esame di idoneita'). - 1. L'idoneita' tecnica necessaria per il rilascio della patente di guida si consegue superando una prova di verifica delle capacita' e dei comportamenti ed una prova di controllo delle cognizioni. 
  2. Gli esami di cui al comma 1 sono effettuati secondo direttive, modalita' e programmi stabiliti con decreto del Ministro delle infrastrutture e dei trasporti sulla base delle direttive della Comunita' europea e con il ricorso a sussidi audiovisivi, questionari d'esame e quant'altro necessario per una uniforme formulazione del giudizio. 
  3. Gli esami per la patente di guida, per le abilitazioni professionali di cui all'art. 116 e del certificato di idoneita' professionale di cui all'art. 118, sono effettuati da dipendenti del Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici, a seguito della frequenza di corso di qualificazione iniziale, secondo le disposizioni di cui ai commi 5 e 5-bis, ed esame di abilitazione. Il permanere nell'esercizio della funzione di esaminatore e' subordinato alla frequenza di corsi di formazione periodica, secondo le disposizioni di cui ai commi 5 e 5-bis. 
@@ -403,7 +403,7 @@ Note all'art. 9:
  11. Gli esami possono essere sostenuti, previa prenotazione da inoltrarsi non oltre il quinto giorno precedente la data della prova, entro il termine di validita' dell'autorizzazione per l'esercitazione di guida.
  Nel limite di detta validita' e' consentito ripetere, per una volta soltanto, la prova pratica di guida. 
  12. Contestualmente al superamento con esito favorevole dell'esame di guida, il competente ufficio del Dipartimento per i trasporti terrestri rilascia la patente di guida a chi ne ha fatto richiesta ai sensi dell'art. 116.». 
- - Il testo dell'art. 332 del citato [decreto del Presidente della Repubblica 16 dicembre 1992, n.495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), pubblicato nella Gazzetta Ufficiale 28 dicembre 1992, n. 303, S.O., cosi' recita: 
+ - Il testo dell'art. 332 del citato [decreto del Presidente della Repubblica 16 dicembre 1992, n.495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), pubblicato nella Gazzetta Ufficiale 28 dicembre 1992, n. 303, S.O., cosi' recita: 
  «Art. 332 (Art. 121 Cod. Str.) (Competenze dei dipendenti della Direzione generale della M.C.T.C. in materia di esami di idoneita'). - 1. Gli esami di idoneita' di cui agli articoli 118, 121, 128 e 168 del codice sono effettuati dai dipendenti appartenenti ai ruoli della Direzione generale della M.C.T.C. secondo il quadro di riferimento di cui alla tabella IV.1 che fa parte integrante del presente regolamento. Fermo restando il citato quadro di riferimento, possono continuare ad effettuare esami i dipendenti che abbiano conseguito l'abilitazione entro il 31 dicembre 1993. 
  2. Nell'eventualita' che i profili professionali elencati nella tabella succitata siano sostituiti da nuovi profili professionali, il Ministro dei trasporti e della navigazione, con proprio provvedimento, stabilisce l'equiparazione tra i profili professionali precedenti e quelli sostitutivi. 
  3. Nell'eventualita' di innovazioni nell'ordinamento giuridico del personale, il Ministro dei trasporti e della navigazione provvede a stabilire l'equiparazione tra i profili professionali precedenti e le figure professionali del nuovo ordinamento.».
@@ -412,7 +412,7 @@ Note all'art. 9:
 
 1.
 
-All'articolo 123, comma 7, secondo periodo, del [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), le parole: «delle patenti di categoria A, BS, BE, C, D, CE e DE e dei documenti di abilitazione e di qualificazione professionale» sono sostituite dalle seguenti: «di tutte le categorie di patenti, anche speciali, fatta eccezione per quella di categoria B, e dei documenti di abilitazione e di qualificazione professionale».(1)(4)(5) ((6))
+All'articolo 123, comma 7, secondo periodo, del [Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), le parole: «delle patenti di categoria A, BS, BE, C, D, CE e DE e dei documenti di abilitazione e di qualificazione professionale» sono sostituite dalle seguenti: «di tutte le categorie di patenti, anche speciali, fatta eccezione per quella di categoria B, e dei documenti di abilitazione e di qualificazione professionale».(1)(4)(5) ((6))
 
 ---------------
 
@@ -430,13 +430,13 @@ Il D.P.C.M. 26 giugno 2013 (in G.U. 28/06/2013, n. 150) ha disposto (con l'art. 
 
 AGGIORNAMENTO (5)
 
-Il [D.L. 30 dicembre 2013, n. 150](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2013G00197.md), convertito con modificazioni dalla [L. 27 febbraio 2014, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202013%20n.%20150%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00026.md) ha disposto (con l'art. 4, comma 3) che "L'entrata in vigore dell'[articolo 28, comma 1, del decreto legislativo 18 aprile 2011, n. 59](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), limitatamente all'articolo 10, comma 1, dello stesso decreto, con riferimento all'articolo 3, comma 1, capoverso: Art. 116, comma 3, lettere a), b), c), d), e), h), i), n) ed o), del medesimo decreto, e' prorogata al 31 dicembre 2014".
+Il [D.L. 30 dicembre 2013, n. 150](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2013G00197.md), convertito con modificazioni dalla [L. 27 febbraio 2014, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202013%20n.%20150%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00026.md) ha disposto (con l'art. 4, comma 3) che "L'entrata in vigore dell'[articolo 28, comma 1, del decreto legislativo 18 aprile 2011, n. 59](Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), limitatamente all'articolo 10, comma 1, dello stesso decreto, con riferimento all'articolo 3, comma 1, capoverso: Art. 116, comma 3, lettere a), b), c), d), e), h), i), n) ed o), del medesimo decreto, e' prorogata al 31 dicembre 2014".
 
 -----------
 
 AGGIORNAMENTO (6)
 
-Il [D.L. 31 dicembre 2014, n. 192](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00205.md), convertito con modificazioni dalla [L. 27 febbraio 2015, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202014%20n.%20192%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2015G00031.md), ha disposto (con l'art. 8, comma 6) che "L'entrata in vigore dell'[articolo 28, comma 1, del decreto legislativo 18 aprile 2011, n. 59](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), limitatamente all'articolo 10, comma 1, dello stesso decreto, con riferimento all'articolo 3, comma 1, capoverso Art. 116, comma 3, lettere a), b), c), d), e), h), i), n) ed o), del medesimo decreto, e' prorogata al 30 giugno 2015".
+Il [D.L. 31 dicembre 2014, n. 192](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00205.md), convertito con modificazioni dalla [L. 27 febbraio 2015, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202014%20n.%20192%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2015G00031.md), ha disposto (con l'art. 8, comma 6) che "L'entrata in vigore dell'[articolo 28, comma 1, del decreto legislativo 18 aprile 2011, n. 59](Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), limitatamente all'articolo 10, comma 1, dello stesso decreto, con riferimento all'articolo 3, comma 1, capoverso Art. 116, comma 3, lettere a), b), c), d), e), h), i), n) ed o), del medesimo decreto, e' prorogata al 30 giugno 2015".
 
 ## Art. 11. — (( (Modifiche all'articolo 124 del codice della strada) ))
 
@@ -453,7 +453,7 @@ Il [D.L. 31 dicembre 2014, n. 192](../DL%20proroghe/Proroga%20di%20termini%20pre
 
 1.
 
-L'[articolo 125 del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' sostituito dal seguente: 
+L'[articolo 125 del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) e' sostituito dal seguente: 
  «Art. 125 (Gradualita' ed equivalenze delle patenti di guida). - 1.
 Il rilascio della patente di guida e' subordinato alle seguenti condizioni: 
  a) la patente per le categorie C1, C, D1 o D puo' essere rilasciata unicamente ai conducenti gia' in possesso di patente di categoria B; 
@@ -488,7 +488,7 @@ Nel caso di violazione delle disposizioni del decreto di cui al comma 2, ove ado
 
 1.
 
-L'[articolo 126 del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' sostituito dal seguente: 
+L'[articolo 126 del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) e' sostituito dal seguente: 
  «Art. 126 (Durata e conferma della validita' della patente di guida). - 1. Fermo restando quanto previsto dall'articolo 119, la durata della validita' delle patenti di guida e dei certificati di abilitazione professionale di cui all'articolo 116, commi 8 e 10, e' regolata dalle disposizioni del presente articolo. La conferma della validita' delle patenti di guida e dei certificati di abilitazione professionale di cui all'articolo 116, commi 8 e 10, e' subordinata alla permanenza dei requisiti fisici e psichici di idoneita' alla guida. 
  2. Le patenti di guida delle categorie AM, A1, A2, A, B1, B e BE sono valide per dieci anni; qualora siano rilasciate o confermate a chi ha superato il cinquantesimo anno di eta' sono valide per cinque anni ed a chi ha superato il settantesimo anno di eta' sono valide per tre anni. 
  3. Le patenti di guida delle categorie C1, C1E, C e CE, sono valide per cinque anni fino al compimento del sessantacinquesimo anno di eta' e, oltre tale limite di eta', per due anni, previo accertamento dei requisiti fisici e psichici in commissione medica locale. Fatto salvo quanto previsto dall'articolo 115, comma 2, lettera a), al compimento del sessantacinquesimo ((anno)) di eta', le patenti di categoria C e CE abilitano alla guida di ((autotreni ed autoarticolati)) di massa complessiva a pieno carico non superiore a 20 t. 
@@ -506,19 +506,19 @@ L'[articolo 126 del Codice della strada](../Leggi%20delega%20e%20relativi%20prov
 
 1.
 
-All'[articolo 128 del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), dopo il comma 1-quater ((sono inseriti i seguenti)): 
+All'[articolo 128 del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), dopo il comma 1-quater ((sono inseriti i seguenti)): 
  «1-quinquies. Si procede ai sensi del comma 1-bis anche nel caso in cui i medici di cui all'articolo 119, comma 2, anche in sede di accertamenti medico-legali diversi da quelli di cui al predetto articolo, accertino la sussistenza, in soggetti gia' titolari di patente, di patologie incompatibili con l'idoneita' alla guida ai sensi della normativa vigente. 
  ((1-sexies. Puo' essere disposta la revisione della patente di guida nei confronti delle persone a cui siano state applicate le misure amministrative di cui all'articolo 75 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309. Il prefetto dispone la revisione con il provvedimento di cui all'articolo 75, comma 4, del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309)).».
 
 2.
 
-All'[articolo 129, comma 3, del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), le parole da: «e per le patenti rilasciate da uno Stato estero» fino a: «sul documento di guida» sono soppresse.
+All'[articolo 129, comma 3, del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), le parole da: «e per le patenti rilasciate da uno Stato estero» fino a: «sul documento di guida» sono soppresse.
 
 ## Art. 15. — Modifiche all'articolo 135 del Codice della strada in materia di circolazione con patenti di guida rilasciate da Stati esteri
 
 1.
 
-L'[articolo 135 del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' sostituito dal seguente: 
+L'[articolo 135 del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) e' sostituito dal seguente: 
  «Art. 135 (Circolazione con patenti di guida rilasciate da Stati non appartenenti all'Unione europea o allo Spazio economico europeo) - 1. Fermo restando quanto previsto in convenzioni internazionali, i titolari di patente di guida rilasciata da uno Stato non appartenente all'Unione europea o allo Spazio economico europeo possono condurre sul territorio nazionale veicoli alla cui guida la patente posseduta li abilita, a condizione che non siano residenti in Italia da oltre un anno e che, unitamente alla medesima patente, abbiano un permesso internazionale ovvero una traduzione ufficiale in lingua italiana della predetta patente. La patente di guida ed il permesso internazionale devono essere in corso di validita'. 
  2. Il permesso internazionale e' emesso dall'autorita' competente che ha rilasciato la patente ed e' conforme a quanto stabilito in convenzioni internazionali cui l'Italia abbia aderito. 
  3. I conducenti muniti di patente rilasciata da uno Stato non appartenente all'Unione europea o allo Spazio economico europeo nel quale, per la guida di determinati veicoli, e' prescritto il possesso di un certificato di abilitazione professionale o di altri titoli abilitativi, oltre che della patente rilasciata dallo Stato stesso, devono essere muniti, per la guida dei suddetti veicoli, dei necessari titoli abilitativi di cui sopra, concessi dall'autorita' competente dello Stato ove e' stata rilasciata la patente. 
@@ -539,7 +539,7 @@ La medesima sanzione si applica al titolare di patente di guida, rilasciata da u
 
 1.
 
-L'[articolo 136 del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' sostituito dal seguente: 
+L'[articolo 136 del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) e' sostituito dal seguente: 
  «Art. 136 (Conversioni di patenti rilasciate da uno Stato non appartenente all'Unione europea o allo Spazio economico europeo). - 1. Fermo restando quanto previsto da accordi internazionali, il titolare di patente di guida in corso di validita', rilasciata da uno Stato non appartenente all'Unione europea o allo Spazio economico europeo, che abbia acquisito residenza anagrafica in Italia, puo' richiedere, la conversione della patente posseduta in patente di guida italiana senza sostenere l'esame di idoneita' di cui all'articolo 121, se consentito in specifiche intese bilaterali, a condizioni di reciprocita'. La patente di guida italiana e' rilasciata previo controllo del possesso da parte del richiedente dei requisiti fisici e psichici stabiliti dall'articolo 119. La patente convertita e' ritirata e restituita, da parte dell'ufficio della motorizzazione che ha provveduto alla conversione, all'autorita' dello Stato che l'ha rilasciata, precisandone i motivi. Le medesime disposizioni si applicano per le abilitazioni professionali, senza peraltro provvedere al ritiro dell'eventuale documento abilitativo a se' stante. 
  2. Qualora si proceda ai sensi del comma 1, sulla patente di guida italiana convertita e' annotata l'avvenuta conversione, sia in sede di rilascio che in sede di rinnovo o di duplicazione, e, se del caso, sulla stessa e' disposto provvedimento di revisione ai sensi dell'articolo 128. 
  3. Non si procede alla conversione di patente di guida comunitaria, derivante da patente rilasciata da Stati non appartenenti all'Unione europea o allo Spazio economico europeo, con i quali lo Stato italiano non ha concluso intese bilaterali. 
@@ -549,7 +549,7 @@ L'[articolo 136 del Codice della strada](../Leggi%20delega%20e%20relativi%20prov
 
 1.
 
-Dopo l'[articolo 136 del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) sono inseriti i seguenti: 
+Dopo l'[articolo 136 del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) sono inseriti i seguenti: 
  «Art. 136-bis (Disposizioni in materia di patenti di guida e di abilitazioni professionali rilasciate da Stati dell'Unione europea o dello Spazio economico europeo). - 1. Le patenti di guida rilasciate dagli Stati membri dell'Unione europea e dello Spazio economico europeo sono equiparate alle corrispondenti patenti di guida italiane. I conducenti muniti di patente di guida rilasciata da uno Stato appartenente all'Unione europea o allo Spazio economico europeo, sono tenuti all'osservanza di tutte le disposizioni e le norme di comportamento stabilite nel presente codice; ai medesimi si applicano le sanzioni previste per i titolari di patente italiana. 
  2. Il titolare di patente di guida in corso di validita', rilasciata da uno Stato dell'Unione europea o dello Spazio economico europeo, che abbia acquisito residenza in Italia ai sensi dell'articolo 118-bis, puo' richiedere il riconoscimento della medesima da parte dello Stato italiano. Alle patenti di guida rilasciate da Stati dell'Unione europea o dello Spazio economico europeo riconosciute dall'autorita' italiana, si applica la disciplina dell'articolo 126-bis. 
  3. Il titolare di patente di guida in corso di validita', rilasciata da uno Stato dell'Unione europea o dello Spazio economico europeo, che abbia acquisito residenza in Italia ai sensi dell'articolo 118-bis, puo' richiedere la conversione della patente posseduta in patente di guida italiana, valida per le stesse categorie alle quali e' abilitato, senza sostenere l'esame di idoneita' di cui all'articolo 121. L'ufficio della motorizzazione provvede a tale fine a verificare per quale categoria la patente posseduta sia effettivamente in corso di validita'. La patente convertita e' ritirata e restituita, da parte dell'ufficio della motorizzazione che ha provveduto alla conversione, all'autorita' dello Stato che l'ha rilasciata, precisandone i motivi. Le medesime disposizioni si applicano per le abilitazioni professionali, senza peraltro provvedere al ritiro dell'eventuale documento abilitativo a se' stante. Il titolare di patente di guida, senza limiti di validita' amministrativa, trascorsi due anni dall'acquisizione della residenza normale, deve procedere alla conversione della patente posseduta. 
@@ -568,11 +568,11 @@ Qualora il conducente circoli in violazione del provvedimento emanato ai sensi d
 
 1.
 
-All'[articolo 173, comma 1, del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), le parole: «o di certificato di idoneita' alla guida dei ciclomotori» sono soppresse e le parole: «o del certificato stessi» sono sostituite dalla seguente: «stessa».
+All'[articolo 173, comma 1, del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), le parole: «o di certificato di idoneita' alla guida dei ciclomotori» sono soppresse e le parole: «o del certificato stessi» sono sostituite dalla seguente: «stessa».
 
 2.
 
-All'[articolo 180, del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), sono apportate le seguenti modificazioni:
+All'[articolo 180, del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, la lettera a) e' sostituita dalla seguente: «a) la carta di circolazione, il certificato di idoneita' tecnica alla circolazione o il certificato di circolazione, a seconda del tipo di veicolo condotto;»;
                         b)
@@ -587,10 +587,10 @@ in materia di applicazione della sospensione della patente per i neopatentati
 
 1.
 
-All'[articolo 218-bis, comma 3, del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), le parole: «di categoria A» sono sostituite dalle seguenti: «di categorie A1, A2 o A».
+All'[articolo 218-bis, comma 3, del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), le parole: «di categoria A» sono sostituite dalle seguenti: «di categorie A1, A2 o A».
 
 Note all'art. 19: 
- Si riporta il testo dell'art. 218-bis del citato [decreto legislativo 30 aprile 1992, n.285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), cosi' come modificato dal presente decreto: 
+ Si riporta il testo dell'art. 218-bis del citato [decreto legislativo 30 aprile 1992, n.285](../Codici/Nuovo%20codice%20della%20strada.md), cosi' come modificato dal presente decreto: 
  «Art. 218-bis (Applicazione della sospensione della patente per i neo-patentati). - 1. Salvo che sia diversamente disposto dalle norme del titolo V, nei primi tre anni dalla data di conseguimento della patente di categoria B, quando e' commessa una violazione per la quale e' prevista l'applicazione della sanzione amministrativa accessoria della sospensione della patente, di cui all'art. 218, la durata della sospensione e' aumentata di un terzo alla prima violazione ed e' raddoppiata per le violazioni successive. 
  2. Qualora, nei primi tre anni dalla data di conseguimento della patente di categoria B, il titolare abbia commesso una violazione per la quale e' prevista l'applicazione della sanzione amministrativa accessoria della sospensione della patente per un periodo superiore a tre mesi, le disposizioni del comma 1 si applicano per i primi cinque anni dalla data di conseguimento della patente. 
  3. Le disposizioni di cui ai commi 1 e 2 si applicano anche al conducente titolare di patente di categorie A1, A2 o A, qualora non abbia gia' conseguito anche la patente di categoria B. Se la patente di categoria B e' conseguita successivamente al rilascio della patente di categorie A1, A2 o A, le disposizioni di cui ai citati commi 1 e 2 si applicano dalla data di conseguimento della patente di categoria B.».
@@ -599,10 +599,10 @@ Note all'art. 19:
 
 1.
 
-All'[articolo 219, comma 3-bis, del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), il secondo periodo e' soppresso.
+All'[articolo 219, comma 3-bis, del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), il secondo periodo e' soppresso.
 
 Note all'art. 20: 
- - Si riporta il testo dell'art. 219 del citato [decreto legislativo 30 aprile 1992, n.285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), cosi' come modificato dal presente decreto: 
+ - Si riporta il testo dell'art. 219 del citato [decreto legislativo 30 aprile 1992, n.285](../Codici/Nuovo%20codice%20della%20strada.md), cosi' come modificato dal presente decreto: 
  «Art. 219 (Revoca della patente di guida). - 1. Quando, ai sensi del presente codice, e' prevista la revoca della patente di guida, il provvedimento e' emesso dal competente ufficio del Dipartimento per i trasporti terrestri, nei casi previsti dall'art. 130, comma 1, e dal prefetto del luogo della commessa violazione quando la stessa revoca costituisce sanzione amministrativa accessoria, nonche' nei casi previsti dall'art. 120, comma 1. 
  2. Nell'ipotesi che la revoca della patente costituisca sanzione accessoria l'organo, l'ufficio o comando, che accerta l'esistenza di una delle condizioni per le quali la legge la prevede, entro i cinque giorni successivi, ne da' comunicazione al prefetto del luogo della commessa violazione. Questi, previo accertamento delle condizioni predette, emette l'ordinanza di revoca e consegna immediata della patente alla prefettura, anche tramite l'organo di Polizia incaricato dell'esecuzione. Dell'ordinanza si da' comunicazione al competente ufficio del Dipartimento per i trasporti terrestri. 
  3. Il provvedimento di revoca della patente previsto dal presente articolo nonche' quello disposto ai sensi dell'art. 130, comma 1, nell'ipotesi in cui risulti la perdita, con carattere permanente, dei requisiti psichici e fisici prescritti, e' atto definitivo. 
@@ -614,22 +614,22 @@ Note all'art. 20:
 
 1.
 
-L'[articolo 219-bis del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' sostituito dal seguente: 
+L'[articolo 219-bis del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) e' sostituito dal seguente: 
  «Art. 219-bis (Inapplicabilita' delle sanzioni amministrative accessorie del ritiro, della sospensione e della revoca della patente ai conducenti minorenni). - 1. Nell'ipotesi in cui, ai sensi del presente codice, e' disposta la sanzione amministrativa accessoria del ritiro della sospensione o della revoca della patente di guida e la violazione da cui discende e' commessa da un conducente minorenne in luogo delle predette sanzioni si applicano le disposizioni dell'articolo 128, commi 1-ter e 2.».
 
 2.
 
-Le disposizioni dell'[articolo 219-bis del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come modificato dal comma 1, si applicano anche ai conducenti minorenni titolari di certificato di idoneita' alla guida del ciclomotore. Si applicano altresi' le disposizioni dell'[articolo 126-bis del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+Le disposizioni dell'[articolo 219-bis del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), come modificato dal comma 1, si applicano anche ai conducenti minorenni titolari di certificato di idoneita' alla guida del ciclomotore. Si applicano altresi' le disposizioni dell'[articolo 126-bis del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md).
 
 3.
 
-Nell'ipotesi in cui, ai sensi del [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e' disposta la sanzione amministrativa accessoria del ritiro, della sospensione o della revoca della patente di guida e la violazione da cui discende e' commessa alla guida del ciclomotore da un conducente maggiorenne, titolare di certificato di idoneita' alla guida del ciclomotore, le sanzioni amministrative si applicano al certificato di idoneita' posseduto, secondo le procedure degli articoli 216, 218, 219 e 223. In caso di circolazione durante il periodo di applicazione delle sanzioni accessorie si applicano le sanzioni amministrative di cui agli articoli 216, 218 e 219. Si applicano altresi' le disposizioni dell'[articolo 126-bis del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+Nell'ipotesi in cui, ai sensi del [Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), e' disposta la sanzione amministrativa accessoria del ritiro, della sospensione o della revoca della patente di guida e la violazione da cui discende e' commessa alla guida del ciclomotore da un conducente maggiorenne, titolare di certificato di idoneita' alla guida del ciclomotore, le sanzioni amministrative si applicano al certificato di idoneita' posseduto, secondo le procedure degli articoli 216, 218, 219 e 223. In caso di circolazione durante il periodo di applicazione delle sanzioni accessorie si applicano le sanzioni amministrative di cui agli articoli 216, 218 e 219. Si applicano altresi' le disposizioni dell'[articolo 126-bis del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md).
 
 ## Art. 22. — Disposizioni in materia del modello di patente
 
 1.
 
-Il modello di ((patente di guida)), di cui all'[articolo 116, comma 3, Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come modificato dall'articolo 3, comma 1, del presente decreto, e' conforme al modello ((UE)) di cui all'allegato I. La sigla distintiva delle patenti rilasciate dallo Stato italiano figura, sulle stesse, in un rettangolo di colore blu ed e' circondata da dodici stelle gialle. Con decreto del Ministro delle infrastrutture e dei trasporti, sentiti il Ministro dell'interno e il Ministro per la pubblica amministrazione e l'innovazione, possono essere apportate, previo accordo con la Commissione europea, eventuali modifiche al predetto modello, ivi comprese quelle necessarie per l'elaborazione elettronica della patente di guida.
+Il modello di ((patente di guida)), di cui all'[articolo 116, comma 3, Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), come modificato dall'articolo 3, comma 1, del presente decreto, e' conforme al modello ((UE)) di cui all'allegato I. La sigla distintiva delle patenti rilasciate dallo Stato italiano figura, sulle stesse, in un rettangolo di colore blu ed e' circondata da dodici stelle gialle. Con decreto del Ministro delle infrastrutture e dei trasporti, sentiti il Ministro dell'interno e il Ministro per la pubblica amministrazione e l'innovazione, possono essere apportate, previo accordo con la Commissione europea, eventuali modifiche al predetto modello, ivi comprese quelle necessarie per l'elaborazione elettronica della patente di guida.
 
 2.
 
@@ -647,11 +647,11 @@ Alla copertura degli eventuali nuovi o maggiori oneri derivanti dall'attuazione 
 
 1.
 
-Ai fini del conseguimento dell'idoneita' tecnica necessaria per il rilascio della patente di guida, ai sensi dell'[articolo 121, comma 1, del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), la prova di verifica delle capacita' e dei comportamenti e quella di controllo delle cognizioni si conformano ai requisiti minimi previsti dall'allegato II. Con decreto del Ministro delle infrastrutture e dei trasporti, da emanarsi entro il 30 giugno 2012, sono disciplinati i requisiti per la prova di verifica delle capacita' e dei comportamenti per il conseguimento della patente di guida di categoria AM, eventualmente prevedendo una differenziazione della suddetta prova se effettuata su veicoli di categoria L2e o L6e.
+Ai fini del conseguimento dell'idoneita' tecnica necessaria per il rilascio della patente di guida, ai sensi dell'[articolo 121, comma 1, del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), la prova di verifica delle capacita' e dei comportamenti e quella di controllo delle cognizioni si conformano ai requisiti minimi previsti dall'allegato II. Con decreto del Ministro delle infrastrutture e dei trasporti, da emanarsi entro il 30 giugno 2012, sono disciplinati i requisiti per la prova di verifica delle capacita' e dei comportamenti per il conseguimento della patente di guida di categoria AM, eventualmente prevedendo una differenziazione della suddetta prova se effettuata su veicoli di categoria L2e o L6e.
 
 2.
 
-La prova di capacita' e comportamento su veicolo specifico, di cui all'[articolo 116, comma 3, lettera f), del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come modificato dall'articolo 3, comma 1, e' disciplinata con decreto del Ministero delle infrastrutture e dei trasporti, conformemente ai requisiti minimi di cui all'allegato V.
+La prova di capacita' e comportamento su veicolo specifico, di cui all'[articolo 116, comma 3, lettera f), del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), come modificato dall'articolo 3, comma 1, e' disciplinata con decreto del Ministero delle infrastrutture e dei trasporti, conformemente ai requisiti minimi di cui all'allegato V.
 
 3.
 
@@ -659,19 +659,19 @@ La prova di verifica delle capacita' e dei comportamenti per l'accesso graduale 
 
 4.
 
-L'accertamento dei requisiti fisici e psichici previsto dall'[articolo 119 del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) si conforma almeno ai requisiti minimi previsti dall'allegato III. Sono fatte salve le disposizioni adottate con decreti del Ministro delle infrastrutture e dei trasporti in attuazione di direttive particolari in materia.
+L'accertamento dei requisiti fisici e psichici previsto dall'[articolo 119 del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) si conforma almeno ai requisiti minimi previsti dall'allegato III. Sono fatte salve le disposizioni adottate con decreti del Ministro delle infrastrutture e dei trasporti in attuazione di direttive particolari in materia.
 
 5.
 
-La disciplina dell'esame di abilitazione di cui all'[articolo 121, comma 3, del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come modificato dall'articolo 9, comma 1, lettera a), del presente decreto e' conforme a quanto previsto nel paragrafo 3, punto 3.2, dell'allegato IV, ed e' finalizzato all'acquisizione delle competenze di cui al paragrafo 1 dello stesso allegato.
+La disciplina dell'esame di abilitazione di cui all'[articolo 121, comma 3, del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), come modificato dall'articolo 9, comma 1, lettera a), del presente decreto e' conforme a quanto previsto nel paragrafo 3, punto 3.2, dell'allegato IV, ed e' finalizzato all'acquisizione delle competenze di cui al paragrafo 1 dello stesso allegato.
 
 6.
 
-La disciplina del corso di qualificazione iniziale di cui all'[articolo 121, comma 5-bis, del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come modificato dall'articolo 9, comma 1, lettera d), e' conforme ai contenuti di cui al paragrafo 3.1 dell'allegato IV. Ai fini della frequenza del corso e' necessario che il dipendente si trovi nelle condizioni di cui al paragrafo 2, punti 2.1.e 2.2, dello stesso allegato.
+La disciplina del corso di qualificazione iniziale di cui all'[articolo 121, comma 5-bis, del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), come modificato dall'articolo 9, comma 1, lettera d), e' conforme ai contenuti di cui al paragrafo 3.1 dell'allegato IV. Ai fini della frequenza del corso e' necessario che il dipendente si trovi nelle condizioni di cui al paragrafo 2, punti 2.1.e 2.2, dello stesso allegato.
 
 7.
 
-Il Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici provvede al controllo di qualita' di cui all'[articolo 121, comma 5-bis, del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come modificato dall'articolo 9, comma 1, lettera d), in conformita' a quanto previsto dal paragrafo 4, punto 4.1, dell'allegato IV, ed al corso di formazione periodica, previsto dal medesimo, secondo quanto disposto dal punto 4.2 dello stesso paragrafo.
+Il Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici provvede al controllo di qualita' di cui all'[articolo 121, comma 5-bis, del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), come modificato dall'articolo 9, comma 1, lettera d), in conformita' a quanto previsto dal paragrafo 4, punto 4.1, dell'allegato IV, ed al corso di formazione periodica, previsto dal medesimo, secondo quanto disposto dal punto 4.2 dello stesso paragrafo.
 
 ## Art. 24. — Adeguamento al progresso scientifico
 
@@ -699,7 +699,7 @@ A decorrere dalla data di applicazione delle disposizioni del presente decreto, 
 
 4.
 
-Il personale abilitato all'espletamento delle prove di cui all'[articolo 121, comma 1, del Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), che esercitano la propria funzione in forza di un'abilitazione acquisita anteriormente alla data di applicazione del presente decreto, sono soggetti unicamente alle disposizioni relative alla garanzia della qualita' e alle misure di formazione continua a carattere periodico.
+Il personale abilitato all'espletamento delle prove di cui all'[articolo 121, comma 1, del Codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), che esercitano la propria funzione in forza di un'abilitazione acquisita anteriormente alla data di applicazione del presente decreto, sono soggetti unicamente alle disposizioni relative alla garanzia della qualita' e alle misure di formazione continua a carattere periodico.
 
 ## Art. 26. — Abrogazioni
 
@@ -746,13 +746,13 @@ Il D.P.C.M. 26 giugno 2013 (in G.U. 28/06/2013, n. 150) ha disposto (con l'art. 
 
 AGGIORNAMENTO (5)
 
-Il [D.L. 30 dicembre 2013, n. 150](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2013G00197.md), convertito con modificazioni dalla [L. 27 febbraio 2014, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202013%20n.%20150%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00026.md) ha disposto (con l'art. 4, comma 3) che "L'entrata in vigore dell'[articolo 28, comma 1, del decreto legislativo 18 aprile 2011, n. 59](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), limitatamente all'articolo 10, comma 1, dello stesso decreto, con riferimento all'articolo 3, comma 1, capoverso: Art. 116, comma 3, lettere a), b), c), d), e), h), i), n) ed o), del medesimo decreto, e' prorogata al 31 dicembre 2014".
+Il [D.L. 30 dicembre 2013, n. 150](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2013G00197.md), convertito con modificazioni dalla [L. 27 febbraio 2014, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202013%20n.%20150%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00026.md) ha disposto (con l'art. 4, comma 3) che "L'entrata in vigore dell'[articolo 28, comma 1, del decreto legislativo 18 aprile 2011, n. 59](Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), limitatamente all'articolo 10, comma 1, dello stesso decreto, con riferimento all'articolo 3, comma 1, capoverso: Art. 116, comma 3, lettere a), b), c), d), e), h), i), n) ed o), del medesimo decreto, e' prorogata al 31 dicembre 2014".
 
 -----------
 
 AGGIORNAMENTO (6)
 
-Il [D.L. 31 dicembre 2014, n. 192](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00205.md), convertito con modificazioni dalla [L. 27 febbraio 2015, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202014%20n.%20192%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2015G00031.md) ha disposto (con l'art. 8, comma 6) che "L'entrata in vigore dell'[articolo 28, comma 1, del decreto legislativo 18 aprile 2011, n. 59](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), limitatamente all'articolo 10, comma 1, dello stesso decreto, con riferimento all'articolo 3, comma 1, capoverso Art. 116, comma 3, lettere a), b), c), d), e), h), i), n) ed o), del medesimo decreto, e' prorogata al 30 giugno 2015".
+Il [D.L. 31 dicembre 2014, n. 192](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00205.md), convertito con modificazioni dalla [L. 27 febbraio 2015, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202014%20n.%20192%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2015G00031.md) ha disposto (con l'art. 8, comma 6) che "L'entrata in vigore dell'[articolo 28, comma 1, del decreto legislativo 18 aprile 2011, n. 59](Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), limitatamente all'articolo 10, comma 1, dello stesso decreto, con riferimento all'articolo 3, comma 1, capoverso Art. 116, comma 3, lettere a), b), c), d), e), h), i), n) ed o), del medesimo decreto, e' prorogata al 30 giugno 2015".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

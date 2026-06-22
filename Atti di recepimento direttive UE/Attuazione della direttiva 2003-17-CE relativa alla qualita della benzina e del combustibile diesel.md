@@ -18,13 +18,13 @@ Vista la [legge 31 ottobre 2003, n. 306](../Leggi%20di%20delegazione%20europea/D
 
 Visto l'[articolo 14 della legge 17 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-17;400#art_14);
 
-Visto il [decreto legislativo 26 ottobre 1995, n. 504](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), recante testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi;
+Visto il [decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), recante testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi;
 
 Vista la [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), recante modifiche al sistema penale;
 
 Vista la deliberazione preliminare del Consiglio dei Ministri, adottata nella riunione del 17 settembre 2004;
 
-Acquisito il parere della Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), reso nella seduta del 28 ottobre 2004;
+Acquisito il parere della Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), reso nella seduta del 28 ottobre 2004;
 
 Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
 
@@ -46,7 +46,7 @@ Il presente decreto stabilisce, in aggiunta a quanto previsto al comma 1, i meto
 
 2.
 
-I combustibili utilizzati dalle imbarcazioni da diporto e dalle altre navi della navigazione interna, quando le stesse sono in mare, sono soggetti alle disposizioni del titolo III alla parte quinta del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e successive modificazioni, relative ai combustibili marittimi delle navi.
+I combustibili utilizzati dalle imbarcazioni da diporto e dalle altre navi della navigazione interna, quando le stesse sono in mare, sono soggetti alle disposizioni del titolo III alla parte quinta del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), e successive modificazioni, relative ai combustibili marittimi delle navi.
 
 ## Art. 2. — Definizioni
 
@@ -167,7 +167,7 @@ Il Decreto 31 dicembre 2015 (in G.U. 02/02/2016, n. 26) ha disposto (con l'art. 
 
 1.
 
-E' vietata la commercializzazione di combustibile diesel non conforme alle specifiche di cui all'Allegato II. E' fatto salvo quanto previsto dall'[articolo 8, comma 1, del decreto legislativo 30 maggio 2005, n. 128](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202003-30-CE%20relativa%20alla%20promozione%20delluso%20dei%20biocarburanti%20o%20di%20altri%20carburanti%20rinnovabili%20nei%20trasporti.md).
+E' vietata la commercializzazione di combustibile diesel non conforme alle specifiche di cui all'Allegato II. E' fatto salvo quanto previsto dall'[articolo 8, comma 1, del decreto legislativo 30 maggio 2005, n. 128](Attuazione%20della%20direttiva%202003-30-CE%20relativa%20alla%20promozione%20delluso%20dei%20biocarburanti%20o%20di%20altri%20carburanti%20rinnovabili%20nei%20trasporti.md).
 
 2.
 
@@ -190,7 +190,7 @@ E' vietato, sulle imbarcazioni da diporto e sulle altre navi della navigazione i
 
 1.
 
-Con decreto del Presidente del Consiglio dei Ministri, da adottare su proposta del Ministro dell'ambiente e della tutela del territorio, di concerto con il Ministro della salute e con il Ministro delle attivita' produttive, e sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), la commercializzazione di combustibili destinati a tutte o ad alcune categorie di veicoli puo' essere sottoposta, presso alcune zone, a specifiche piu' severe di quelle previste dal presente decreto, al fine di tutelare la salute della popolazione presso determinati agglomerati urbani o l'ambiente presso determinate aree critiche sotto il profilo ecologico, nei casi in cui l'inquinamento atmosferico o delle acque freatiche costituisca o possa presumibilmente costituire un problema serio e ricorrente per la salute umana o per l'ambiente.
+Con decreto del Presidente del Consiglio dei Ministri, da adottare su proposta del Ministro dell'ambiente e della tutela del territorio, di concerto con il Ministro della salute e con il Ministro delle attivita' produttive, e sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), la commercializzazione di combustibili destinati a tutte o ad alcune categorie di veicoli puo' essere sottoposta, presso alcune zone, a specifiche piu' severe di quelle previste dal presente decreto, al fine di tutelare la salute della popolazione presso determinati agglomerati urbani o l'ambiente presso determinate aree critiche sotto il profilo ecologico, nei casi in cui l'inquinamento atmosferico o delle acque freatiche costituisca o possa presumibilmente costituire un problema serio e ricorrente per la salute umana o per l'ambiente.
 
 2.
 
@@ -200,8 +200,8 @@ Il decreto di cui al comma 1 e' adottato previa autorizzazione della Commissione
 
 Il Ministero dell'ambiente e della tutela del territorio, di concerto con il Ministero della salute, provvede altresi' a trasmettere alla Commissione europea le osservazioni relative alle richieste di deroga presentate da altri Stati.
 
-Nota all'[art. 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md):
- - Per l'[art. 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), si veda nelle note alle premesse.
+Nota all'[art. 5](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md):
+ - Per l'[art. 8 del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), si veda nelle note alle premesse.
 
 ## Art. 6. — Cambiamenti nell'approvvigionamento di oli greggi o prodotti petroliferi
 
@@ -253,7 +253,7 @@ Entro il 31 agosto di ogni anno, il Ministero dell'ambiente e della tutela del t
 
 1.
 
-L'accertamento delle infrazioni di cui all'articolo 9, commi 1 e 2, e' effettuato, ai sensi degli [articoli 13 e seguenti della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_13), anche avvalendosi dei poteri previsti dall'[articolo 18 del decreto legislativo 26 ottobre 1995, n. 504](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), dagli uffici dell'Agenzia delle dogane competenti per territorio e dal Corpo della guardia di finanza.
+L'accertamento delle infrazioni di cui all'articolo 9, commi 1 e 2, e' effettuato, ai sensi degli [articoli 13 e seguenti della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_13), anche avvalendosi dei poteri previsti dall'[articolo 18 del decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), dagli uffici dell'Agenzia delle dogane competenti per territorio e dal Corpo della guardia di finanza.
 
 2.
 
@@ -294,7 +294,7 @@ Salvo che il fatto costituisca reato, ai gestori degli impianti di distribuzione
 
 3.
 
-Salvo che il fatto costituisca reato, si applica una sanzione amministrativa da 10.000 a 30.000 euro ai soggetti tenuti ad assicurare ((o dall'articolo 4, comma 2,)) se le stesse non sono rispettate. Se gli elenchi previsti dall'articolo 3, comma 2, ((o dall'articolo 4, comma 3,)) non sono trasmessi nei termini prescritti si applica l'[articolo 650 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Salvo che il fatto costituisca reato, si applica una sanzione amministrativa da 10.000 a 30.000 euro ai soggetti tenuti ad assicurare ((o dall'articolo 4, comma 2,)) se le stesse non sono rispettate. Se gli elenchi previsti dall'articolo 3, comma 2, ((o dall'articolo 4, comma 3,)) non sono trasmessi nei termini prescritti si applica l'[articolo 650 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 4.
 
@@ -310,11 +310,11 @@ Salvo che il fatto costituisca reato, si applica una sanzione amministrativa da 
 
 7.
 
-In caso di violazione del divieto previsto dall'articolo 4, comma 5, si applica la sanzione prevista dall'[articolo 296, comma 5, del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e successive modificazioni, alla cui irrogazione provvedono le regioni o la diversa autorita' indicata dalla legge regionale ai sensi degli [articoli 17 e seguenti della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_17).
+In caso di violazione del divieto previsto dall'articolo 4, comma 5, si applica la sanzione prevista dall'[articolo 296, comma 5, del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), e successive modificazioni, alla cui irrogazione provvedono le regioni o la diversa autorita' indicata dalla legge regionale ai sensi degli [articoli 17 e seguenti della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_17).
 
 8.
 
-Nel caso in cui i gestori dei depositi fiscali non trasmettano nei termini i dati da inviare ai sensi dell'articolo 10, comma 2, il Ministro dell'ambiente e della tutela del territorio e del mare, anche ai fini di quanto previsto dall'[articolo 650 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ordina al gestore di provvedere.
+Nel caso in cui i gestori dei depositi fiscali non trasmettano nei termini i dati da inviare ai sensi dell'articolo 10, comma 2, il Ministro dell'ambiente e della tutela del territorio e del mare, anche ai fini di quanto previsto dall'[articolo 650 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ordina al gestore di provvedere.
 
 9.
 
@@ -375,7 +375,7 @@ Il decreto del Ministro dell'ambiente e della tutela del territorio 3 febbraio 2
 
 3.
 
-Con appositi regolamenti, da emanare ai sensi dell'[articolo 17, comma 3, della legge 17 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-17;400#art_17-com3), su proposta del Ministro dell'ambiente e della tutela del territorio, di concerto con il Ministro della salute, con il Ministro delle attivita' produttive e con il Ministro dell'economia e delle finanze, sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), si provvede alla modifica degli Allegati III, IV e V, relativamente alle modalita' esecutive delle procedure ivi disciplinate.
+Con appositi regolamenti, da emanare ai sensi dell'[articolo 17, comma 3, della legge 17 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-17;400#art_17-com3), su proposta del Ministro dell'ambiente e della tutela del territorio, di concerto con il Ministro della salute, con il Ministro delle attivita' produttive e con il Ministro dell'economia e delle finanze, sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), si provvede alla modifica degli Allegati III, IV e V, relativamente alle modalita' esecutive delle procedure ivi disciplinate.
 
 4.
 

@@ -18,7 +18,7 @@ Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/
 
 Vista la [legge 9 luglio 2015, n. 114](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202014.%2015G00127.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2014 e in, particolare, l'art. 8, recante principi e criteri direttivi per il recepimento della [direttiva 2014/59/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;59);
 
-Visto il testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
+Visto il testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 10 settembre 2015;
 
@@ -181,7 +181,7 @@ Ai fini del presente decreto si intende per:
  qqq) «strumenti di capitale aggiuntivo di classe 1»: gli strumenti di cui all'articolo 52, paragrafo 1, del Regolamento (UE) n. 575/2013 o alla [direttiva 2006/48/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;48) e relative disposizioni di attuazione; 
  qqq-bis) «strumenti subordinati computabili»: gli strumenti che soddisfano tutte le condizioni previste dall'articolo 72-bis del regolamento (UE) n. 575/2013, fatta eccezione per l'articolo 72-ter, paragrafi 3, 4 e 5 del medesimo regolamento; 
  rrr) «succursale significativa»: una succursale considerata significativa nello Stato membro nel quale essa e' stabilita ai sensi dell'[articolo 51, paragrafo 1, della direttiva 2013/36/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2013;36); 
- sss) «Testo Unico Bancario»: il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385); 
+ sss) «Testo Unico Bancario»: il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md); 
  uuu) «Testo Unico della Finanza»: il [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md); 
  vvv) «titoli di debito»: le obbligazioni e altre forme di debito trasferibile, gli strumenti che creano o riconoscono un debito e quelli che conferiscono diritti di acquistare titoli di debito.
 

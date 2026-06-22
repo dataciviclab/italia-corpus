@@ -26,7 +26,7 @@ Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/
 
 Vista la [legge 9 luglio 2015, n. 114](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202014.%2015G00127.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2014, e, in particolare, l'articolo 4, recante delega al Governo per l'adeguamento della normativa nazionale al regolamento (UE) n. 1024/2013 del Consiglio, del 15 ottobre 2013, che attribuisce alla Banca centrale europea compiti specifici in merito alle politiche in materia di vigilanza prudenziale degli enti creditizi;
 
-Visto il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), recante testo unico delle leggi in materia bancaria e creditizia;
+Visto il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), recante testo unico delle leggi in materia bancaria e creditizia;
 
 Visto il [decreto legislativo 18 aprile 2006, n. 171](../Decreti%20Legislativi/Ricognizione%20dei%20principi%20fondamentali%20in%20materia%20di%20casse%20di%20risparmio%20casse%20rurali%20aziende%20di%20credito%20a%20carattere%20regionale%20enti%20di%20credito%20fondiario%20e%20agrario%20a%20carattere%20regionale.md), recante ricognizione dei principi fondamentali in materia di casse di risparmio, casse rurali, aziende di credito a carattere regionale, enti di credito fondiario e agrario a carattere regionale;
 
@@ -44,7 +44,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-All'[articolo 1, comma 1, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_1-com1), sono apportate le seguenti modificazioni:
+All'[articolo 1, comma 1, del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono apportate le seguenti modificazioni:
                         a)
                             dopo la lettera e), sono inserite le seguenti: 
  «e-bis) "MVU" indica il Meccanismo di vigilanza unica, ossia il sistema di vigilanza finanziaria composto dalla BCE e dalle autorita' nazionali competenti degli Stati membri che vi partecipano; 
@@ -55,13 +55,13 @@ All'[articolo 1, comma 1, del decreto legislativo 1° settembre 1993, n. 385](ht
 
 2.
 
-All'[articolo 1, comma 2, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_1-com2), la lettera d) e' sostituita dalle seguenti: 
+All'[articolo 1, comma 2, del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), la lettera d) e' sostituita dalle seguenti: 
  «d) "soggetto significativo": i soggetti definiti dall'articolo 2, n. 16, del regolamento (UE) n. 468/2014, sui quali la BCE esercita la vigilanza diretta in conformita' delle disposizioni del MVU; 
  d-bis) "soggetto meno significativo": i soggetti, sottoposti a vigilanza nell'ambito del MVU, diversi da quelli di cui alla lettera d);».
 
 3.
 
-All'[articolo 6 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_6), sono apportate le seguenti modificazioni:
+All'[articolo 6 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono apportate le seguenti modificazioni:
                         a)
                             nella rubrica sono aggiunte, in fine, le seguenti parole: «e nel MVU»;
                         b)
@@ -73,7 +73,7 @@ All'[articolo 6 del decreto legislativo 1° settembre 1993, n. 385](https://www.
 
 4.
 
-Dopo l'[articolo 6, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_6), e' inserito il seguente: 
+Dopo l'[articolo 6, del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' inserito il seguente: 
  «Art. 6-bis (Partecipazione al MVU e poteri della Banca d'Italia).
 - 1. Nelle materie disciplinate dalle disposizioni del MVU, i poteri attribuiti alla Banca d'Italia dal presente decreto sono esercitati dalla Banca d'Italia stessa nei limiti e secondo le modalita' stabilite dalle disposizioni del MVU che disciplinano l'esercizio di compiti di vigilanza sulle banche prevedendo, tra l'altro, differenti modalita' di cooperazione tra la BCE e le autorita' nazionali per i soggetti significativi e per quelli meno significativi. 
  2. Ai sensi del comma 1, la Banca d'Italia, in particolare: 
@@ -89,7 +89,7 @@ Dopo l'[articolo 6, del decreto legislativo 1° settembre 1993, n. 385](https://
 
 5.
 
-All'[articolo 7 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_7), sono apportate le seguenti modificazioni:
+All'[articolo 7 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 2, sono aggiunte, in fine, le seguenti parole: «Restano ferme le disposizioni del MVU in materia di comunicazione delle informazioni alla BCE.»;
                         b)
@@ -97,12 +97,12 @@ All'[articolo 7 del decreto legislativo 1° settembre 1993, n. 385](https://www.
 
 6.
 
-All'[articolo 13 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_13), il comma 1 e' sostituito dal seguente: 
+All'[articolo 13 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), il comma 1 e' sostituito dal seguente: 
  «1. Fermo restando quanto previsto dalle disposizioni del MVU in tema di pubblicazione dell'elenco dei soggetti vigilati, la Banca d'Italia iscrive in un apposito albo le banche italiane e le succursali in Italia di banche extracomunitarie, nonche' le succursali delle banche comunitarie stabilite nel territorio della Repubblica.».
 
 7.
 
-All'[articolo 14 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_14), sono apportate le seguenti modificazioni:
+All'[articolo 14 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: «La Banca d'Italia autorizza l'attivita' bancaria» sono sostituite dalle seguenti: «L'autorizzazione all'attivita' bancaria e' rilasciata»;
                         b)
@@ -119,7 +119,7 @@ All'[articolo 14 del decreto legislativo 1° settembre 1993, n. 385](https://www
 
 8.
 
-All'[articolo 15 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_15), sono apportate le seguenti modificazioni:
+All'[articolo 15 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono apportate le seguenti modificazioni:
                         a)
                             prima del comma 1, e' inserito il seguente: 
  «01. Le banche italiane possono stabilire succursali nel territorio della Repubblica e degli altri Stati comunitari in conformita' delle procedure previste dalle disposizioni del MVU. Le banche degli altri Stati comunitari possono stabilire succursali nel territorio della Repubblica in conformita' delle procedure previste dalle disposizioni del MVU e, per le banche degli Stati comunitari non partecipanti al MVU, del comma 3.»;
@@ -133,15 +133,15 @@ All'[articolo 15 del decreto legislativo 1° settembre 1993, n. 385](https://www
 
 9.
 
-Al [comma 1 dell'articolo 16 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_16-com1), dopo le parole: «succursali,» sono inserite le seguenti: «secondo quanto stabilito dalle disposizioni del MVU e».
+Al [comma 1 dell'articolo 16 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), dopo le parole: «succursali,» sono inserite le seguenti: «secondo quanto stabilito dalle disposizioni del MVU e».
 
 10.
 
-Al [comma 1 dell'articolo 18 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_18-com1), le parole: «dell'articolo 15, comma 1» sono sostituite dalle seguenti: «dell'articolo 15, commi 01 e 1».
+Al [comma 1 dell'articolo 18 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), le parole: «dell'articolo 15, comma 1» sono sostituite dalle seguenti: «dell'articolo 15, commi 01 e 1».
 
 11.
 
-All'[articolo 19 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_19), sono apportate le seguenti modificazioni:
+All'[articolo 19 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: «La Banca d'Italia autorizza preventivamente» sono sostituite dalle seguenti: «E' soggetta ad autorizzazione preventiva»;
                         b)
@@ -166,59 +166,59 @@ All'[articolo 19 del decreto legislativo 1° settembre 1993, n. 385](https://www
 
 12.
 
-All'[articolo 52 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_52), dopo il comma 4, e' aggiunto il seguente: 
+All'[articolo 52 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), dopo il comma 4, e' aggiunto il seguente: 
  «4-bis. La Banca d'Italia trasmette alla BCE le informazioni ricevute ai sensi del presente articolo, nei casi e secondo le modalita' stabiliti dalle disposizioni del MVU.».
 
 13.
 
-All'[articolo 52-ter del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_52ter), dopo il comma 4, e' aggiunto il seguente: 
+All'[articolo 52-ter del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), dopo il comma 4, e' aggiunto il seguente: 
  «4-bis. La Banca d'Italia inoltra alla BCE le segnalazioni ricevute, quando esse riguardano soggetti significativi o violazioni di regolamenti o decisioni della BCE. La Banca d'Italia puo' ricevere dalla BCE le segnalazioni relative a soggetti meno significativi. Nei casi previsti dal presente comma, la Banca d'Italia e la BCE scambiano informazioni nei modi e per le finalita' stabiliti dalle disposizioni del MVU.».
 
 14.
 
-Al [comma 1, lettera d), dell'articolo 53-bis del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_53bis-com1-letd), le parole: «la Banca d'Italia puo' inoltre fissare» sono sostituite dalle seguenti: «possono inoltre essere fissati».
+Al [comma 1, lettera d), dell'articolo 53-bis del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), le parole: «la Banca d'Italia puo' inoltre fissare» sono sostituite dalle seguenti: «possono inoltre essere fissati».
 
 15.
 
-L'[articolo 53-ter del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_53ter), e' sostituito dal seguente: 
+L'[articolo 53-ter del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' sostituito dal seguente: 
  «Art. 53-ter (Misure macroprudenziali). - 1. La Banca d'Italia e' autorita' nazionale designata per l'adozione delle misure richiamate dall'articolo 5 del regolamento (UE) n. 1024/2013. 
  2. I poteri di vigilanza attribuiti alla Banca d'Italia dal presente decreto legislativo possono essere esercitati, per finalita' macroprudenziali, anche nei confronti di soggetti significativi.».
 
 16.
 
-Al [comma 1 dell'articolo 57 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_57-com1), dopo le parole: «sana e prudente gestione» sono inserite le seguenti: «; l'autorizzazione non e' necessaria quando l'operazione richiede l'autorizzazione della BCE ai sensi dell'articolo 14».
+Al [comma 1 dell'articolo 57 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), dopo le parole: «sana e prudente gestione» sono inserite le seguenti: «; l'autorizzazione non e' necessaria quando l'operazione richiede l'autorizzazione della BCE ai sensi dell'articolo 14».
 
 17.
 
-Al [comma 1, lettera d), dell'articolo 67-ter, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_67ter-com1-letd), le parole: «la Banca d'Italia puo' inoltre fissare» sono sostituite dalle seguenti: «possono inoltre essere fissati».
+Al [comma 1, lettera d), dell'articolo 67-ter, del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), le parole: «la Banca d'Italia puo' inoltre fissare» sono sostituite dalle seguenti: «possono inoltre essere fissati».
 
 18.
 
-Al [comma 5 dell'articolo 70 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_70-com5), le parole: «un anno» sono sostituite dalle seguenti: «sino ad un anno» e le parole: «o la Banca d'Italia ne autorizzi la chiusura anticipata» sono soppresse.
+Al [comma 5 dell'articolo 70 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), le parole: «un anno» sono sostituite dalle seguenti: «sino ad un anno» e le parole: «o la Banca d'Italia ne autorizzi la chiusura anticipata» sono soppresse.
 
 19.
 
-Al [comma 3 dell'articolo 96-quinquies del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_96quinquies-com3), dopo le parole: «all'attivita' bancaria» sono inserite le seguenti: «a decorrere dal termine fissato dalla Banca d'Italia nell'accertamento di cui al comma 1».
+Al [comma 3 dell'articolo 96-quinquies del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), dopo le parole: «all'attivita' bancaria» sono inserite le seguenti: «a decorrere dal termine fissato dalla Banca d'Italia nell'accertamento di cui al comma 1».
 
 20.
 
-Al [comma 1 dell'articolo 110 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_110-com1), sono aggiunte, in fine, le seguenti parole: «I provvedimenti previsti nell'articolo 19 sono adottati dalla Banca d'Italia.».
+Al [comma 1 dell'articolo 110 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono aggiunte, in fine, le seguenti parole: «I provvedimenti previsti nell'articolo 19 sono adottati dalla Banca d'Italia.».
 
 21.
 
-Al [comma 4 dell'articolo 113-ter del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_113ter-com4), le parole: «, fatto salvo quanto previsto dal comma 3,» sono soppresse.
+Al [comma 4 dell'articolo 113-ter del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), le parole: «, fatto salvo quanto previsto dal comma 3,» sono soppresse.
 
 22.
 
-Al comma 1 dell'articolo 114-quinquies.3 del [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), dopo il primo periodo sono inserite le seguenti parole: «I provvedimenti previsti nell'articolo 19 sono adottati dalla Banca d'Italia.».
+Al comma 1 dell'articolo 114-quinquies.3 del [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), dopo il primo periodo sono inserite le seguenti parole: «I provvedimenti previsti nell'articolo 19 sono adottati dalla Banca d'Italia.».
 
 23.
 
-Al [comma 1 dell'articolo 114-undecies del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_114undecies-com1), dopo il primo periodo sono inserite le seguenti parole: «I provvedimenti previsti nell'articolo 19 sono adottati dalla Banca d'Italia.».
+Al [comma 1 dell'articolo 114-undecies del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), dopo il primo periodo sono inserite le seguenti parole: «I provvedimenti previsti nell'articolo 19 sono adottati dalla Banca d'Italia.».
 
 24.
 
-Dopo l'[articolo 144-sexies del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_144sexies), e' inserito il seguente: 
+Dopo l'[articolo 144-sexies del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' inserito il seguente: 
  «Art. 144-septies (Applicazione delle sanzioni nell'ambito del MVU). - 1. Il presente articolo si applica in caso di violazioni commesse dai soggetti significativi o dai loro soci, esponenti o personale in materie inerenti l'esercizio dei compiti attribuiti alla BCE dalle disposizioni del MVU. 
  2. Con riferimento ai soggetti indicati al comma 1, la Banca d'Italia puo' applicare le sanzioni amministrative previste nel presente Titolo esclusivamente su richiesta della BCE, quando ricorre una o piu' delle seguenti condizioni: 
  a) la violazione ha ad oggetto disposizioni diverse da quelle dell'Unione europea direttamente applicabili; 
@@ -230,7 +230,7 @@ Dopo l'[articolo 144-sexies del decreto legislativo 1° settembre 1993, n. 385](
 
 25.
 
-All'[articolo 159 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_159), dopo il comma 4 e' aggiunto il seguente: 
+All'[articolo 159 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), dopo il comma 4 e' aggiunto il seguente: 
  «4-bis. Le competenze delle regioni di cui al presente articolo sono esercitate nei limiti derivanti dalle disposizioni del MVU e in armonia con esse.».
 
 N O T E 
@@ -250,15 +250,15 @@ N O T E
  - Il testo dell'[articolo 4 della legge 9 luglio 2015, n. 114](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202014.%2015G00127.md) (Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2014) pubblicata nella Gazzetta Ufficiale 31 luglio 2015, n. 176, cosi' recita: 
  «Art. 4. (Delega al Governo per l'adeguamento della normativa nazionale al regolamento (UE) n. 1024/2013 del Consiglio, del 15 ottobre 2013, che attribuisce alla Banca centrale europea compiti specifici in merito alle politiche in materia di vigilanza prudenziale degli enti creditizi).
  - 1. Il Governo e' delegato ad adottare, entro dodici mesi dalla data di entrata in vigore della presente legge, con le procedure di cui all'articolo 1, comma 1, un decreto legislativo recante le norme occorrenti all'adeguamento della normativa nazionale al regolamento (UE) n. 1024/2013 del Consiglio, del 15 ottobre 2013, che attribuisce alla Banca centrale europea compiti specifici in merito alle politiche in materia di vigilanza prudenziale degli enti creditizi. Nell'esercizio della delega il Governo e' tenuto a seguire, oltre ai principi e criteri direttivi di cui all'articolo 1, comma 1, in quanto compatibili, anche i seguenti principi e criteri direttivi specifici: 
- a) apportare al testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e al [decreto legislativo 30 maggio 2005, n. 142](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202002-87-CE%20relativa%20alla%20vigilanza%20supplementare%20sugli%20enti%20creditizi%20sulle%20imprese%20di%20assicurazione%20e%20sulle%20imprese%20di%20investimento%20appartenenti%20ad%20un%20conglome_cf7693fa1744.md), le modifiche e le integrazioni necessarie ad assicurarne la coerenza con il regolamento; 
- b) coordinare la disciplina delle sanzioni previste dal testo unico di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), con quanto previsto dall'articolo 18 del regolamento; 
+ a) apportare al testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e al [decreto legislativo 30 maggio 2005, n. 142](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202002-87-CE%20relativa%20alla%20vigilanza%20supplementare%20sugli%20enti%20creditizi%20sulle%20imprese%20di%20assicurazione%20e%20sulle%20imprese%20di%20investimento%20appartenenti%20ad%20un%20conglome_cf7693fa1744.md), le modifiche e le integrazioni necessarie ad assicurarne la coerenza con il regolamento; 
+ b) coordinare la disciplina delle sanzioni previste dal testo unico di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), con quanto previsto dall'articolo 18 del regolamento; 
  c) apportare alla normativa vigente tutte le modifiche e integrazioni occorrenti ad assicurare il coordinamento con le disposizioni emanate in attuazione del presente articolo. 
  2. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica e le amministrazioni interessate vi provvedono con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.». 
- - Il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) (Testo unico delle leggi in materia bancaria e creditizia) e' pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, S.O. 
+ - Il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia) e' pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, S.O. 
  - Il [decreto legislativo 18 aprile 2006, n. 171](../Decreti%20Legislativi/Ricognizione%20dei%20principi%20fondamentali%20in%20materia%20di%20casse%20di%20risparmio%20casse%20rurali%20aziende%20di%20credito%20a%20carattere%20regionale%20enti%20di%20credito%20fondiario%20e%20agrario%20a%20carattere%20regionale.md) (Ricognizione dei principi fondamentali in materia di casse di risparmio, casse rurali, aziende di credito a carattere regionale, enti di credito fondiario e agrario a carattere regionale) e' pubblicato nella Gazzetta Ufficiale 12 maggio 2006, n. 109. 
  
  Note all'art. 1: 
- - Il testo dell'art. 1, comma 1, del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 1, comma 1, del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 1. (Definizioni). In vigore dal 16 novembre 2015.
  - 1. Nel presente decreto legislativo l'espressione: 
  a) "autorita' creditizie" indica il Comitato interministeriale per il credito e il risparmio, il Ministro dell'economia e delle finanze e la Banca d'Italia; 
@@ -286,7 +286,7 @@ N O T E
  i) "[legge fallimentare](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267)" indica il [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267). 
  l) "autorita' competenti" indica, a seconda dei casi, uno o piu' fra le autorita' di vigilanza sulle banche, sulle imprese di investimento, sugli organismi di investimento collettivo del risparmio, sulle imprese di assicurazione e sui mercati finanziari; 
  m).». 
- - Il testo dell'art. 1, comma 2, del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 1, comma 2, del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «2. Nel presente decreto legislativo si intendono per: 
  a) "banca italiana": la banca avente sede legale in Italia; 
  b) "banca comunitaria": la banca avente sede legale e amministrazione centrale in un medesimo Stato comunitario diverso dall'Italia; 
@@ -333,13 +333,13 @@ N O T E
  h-septies) "istituti di pagamento comunitari": gli istituti di pagamento aventi sede legale e amministrazione centrale in uno stesso Stato comunitario diverso dall'Italia; 
  h-octies) "succursale di un istituto di pagamento": una sede che costituisce parte, sprovvista di personalita' giuridica, di un istituto di pagamento e che effettua direttamente, in tutto o in parte, l'attivita' dell'istituto di pagamento; 
  h-novies) "personale": i dipendenti e coloro che comunque operano sulla base di rapporti che ne determinano l'inserimento nell'organizzazione aziendale, anche in forma diversa dal rapporto di lavoro subordinato.». 
- - Il testo dell'art. 6 del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 6 del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 6. (Rapporti con il diritto dell'Unione europea e integrazione nel SEVIF e nel MVU). - 1. Le autorita' creditizie esercitano i poteri loro attribuiti in armonia con le disposizioni dell'Unione europea, applicano i regolamenti e le decisioni dell'Unione europea e provvedono in merito alle raccomandazioni in materia creditizia e finanziaria. 
  2. Nei casi e nei modi previsti dalle disposizioni dell'Unione europea, le autorita' creditizie adempiono agli obblighi di comunicazione nei confronti delle autorita' e dei comitati che compongono il SEVIF ,della BCE e delle altre autorita' e istituzioni indicate dalle disposizioni dell'Unione europea. 
  3. La Banca d'Italia, nell'esercizio delle funzioni di vigilanza, e' parte del SEVIF e del MVU e partecipa alle attivita' che essi svolgono, tenendo conto della convergenza degli strumenti e delle prassi di vigilanza in ambito europeo. 
  3-bis. Le autorita' creditizie esercitano i poteri d'intervento a esse attribuiti dal presente decreto legislativo anche per assicurare il rispetto del regolamento (UE) n. 575/2013, delle relative norme tecniche di regolamentazione e di attuazione emanate dalla Commissione europea ai sensi degli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::2010;1093#art_10) e 15 del regolamento (CE) n. 1093/2010, ovvero in caso di inosservanza degli atti dell'ABE direttamente applicabili adottati ai sensi di quest'ultimo regolamento. 
  4. Nei casi e nei modi previsti dalle disposizioni dell'Unione europea, la Banca d'Italia puo' concludere accordi con l'ABE e con le autorita' di vigilanza di altri Stati membri che prevedano anche la ripartizione di compiti e la delega di funzioni nonche' ricorrere all'ABE per la risoluzione delle controversie con le autorita' di vigilanza degli altri Stati membri in situazioni transfrontaliere.». 
- - Il testo dell'art. 7 del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 7 del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 7. (Segreto d'ufficio e collaborazione tra autorita'). In vigore dal 16 novembre 2015. - 1. Tutte le notizie, le informazioni e i dati in possesso della Banca d'Italia in ragione della sua attivita' di vigilanza sono coperti da segreto d'ufficio anche nei confronti delle pubbliche amministrazioni, a eccezione del Ministro dell'economia e delle finanze, Presidente del CICR. Il segreto non puo' essere opposto all'autorita' giudiziaria quando le informazioni richieste siano necessarie per le indagini, o i procedimenti relativi a violazioni sanzionate penalmente. 
  2. I dipendenti della Banca d'Italia, nell'esercizio delle funzioni di vigilanza, sono pubblici ufficiali e hanno l'obbligo di riferire esclusivamente al Direttorio tutte le irregolarita' constatate, anche quando assumano la veste di reati. Restano ferme le disposizioni del MVU in materia di comunicazione delle informazioni alla BCE. 
  3. I dipendenti della Banca d'Italia sono vincolati dal segreto d'ufficio. 
@@ -351,10 +351,10 @@ N O T E
  8. La Banca d'Italia puo' scambiare informazioni con autorita' amministrative o giudiziarie nell'ambito di procedimenti di liquidazione o di fallimento, in Italia o all'estero, relativi a banche, succursali di banche italiane all'estero o di banche comunitarie o extracomunitarie in Italia, nonche' relativi a soggetti inclusi nell'ambito della vigilanza consolidata. Nei rapporti con le autorita' extracomunitarie lo scambio di informazioni avviene con le modalita' di cui al comma 7. 
  9. La Banca d'Italia puo' comunicare ai sistemi di garanzia italiani e, a condizione che sia assicurata la riservatezza, a quelli esteri informazioni e dati in suo possesso necessari al funzionamento dei sistemi stessi. 
  10. Nel rispetto delle condizioni previste dalle disposizioni dell'Unione europea, la Banca d'Italia scambia informazioni con tutte le altre autorita' e soggetti esteri indicati dalle disposizioni medesime.». 
- - Il testo dell'art. 13 del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 13 del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 13. (Albo). - 1. Fermo restando quanto previsto dalle disposizioni del MVU in tema di pubblicazione dell'elenco dei soggetti vigilati, la Banca d'Italia iscrive in un apposito albo le banche italiane e le succursali in Italia di banche extracomunitarie, nonche' le succursali delle banche comunitarie stabilite nel territorio della Repubblica. 
  2. Le banche indicano negli atti e nella corrispondenza l'iscrizione nell'albo.». 
- - Il testo dell'art. 14 del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 14 del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 14. (Autorizzazione all'attivita' bancaria). In vigore dal 27 giugno 2015. - 1. L'autorizzazione all'attivita' bancaria e' rilasciata quando ricorrano le seguenti condizioni: 
  a) sia adottata la forma di societa' per azioni o di societa' cooperativa per azioni a responsabilita' limitata; 
  a-bis) la sede legale e la direzione generale siano situate nel territorio della Repubblica; 
@@ -373,26 +373,26 @@ N O T E
  3-ter. La revoca dell'autorizzazione e' inoltre disposta dalla BCE, su proposta della Banca d'Italia, nei casi di liquidazione coatta amministrativa ai sensi dell'art. 80. 
  4. Lo stabilimento in Italia della prima succursale di una banca extracomunitaria e' autorizzato dalla Banca d'Italia, sentito il Ministero degli affari esteri, subordinatamente al rispetto di condizioni corrispondenti a quelle del comma 1, lettere b), c) ed e). L'autorizzazione e' rilasciata tenendo anche conto della condizione di reciprocita'. 
  4-bis. La Banca d'Italia emana disposizioni attuative del presente articolo.». 
- - Il testo dell'art. 15 del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 15 del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 15. (Succursali). - 01. Le banche italiane possono stabilire succursali nel territorio della Repubblica e degli altri Stati comunitari in conformita' delle procedure previste dalle disposizioni del MVU. Le banche degli altri Stati comunitari possono stabilire succursali nel territorio della Repubblica in conformita' delle procedure previste dalle disposizioni del MVU e, per le banche degli Stati comunitari non partecipanti al MVU, del comma 3. 
  1. Fermo restando quanto previsto dal comma 01, la Banca d'Italia puo' vietare lo stabilimento di una nuova succursale di un soggetto italiano meno significativo per motivi attinenti all'adeguatezza delle strutture organizzative o della situazione finanziaria, economica e patrimoniale del soggetto. 
  2. Le banche italiane possono stabilire succursali in uno Stato terzo previa autorizzazione della Banca d'Italia. 
  3. Per le banche degli Stati comunitari non partecipanti al MVU che intendono stabilire succursali nel territorio della Repubblica, il primo insediamento e' preceduto da una comunicazione alla Banca d'Italia da parte dell'autorita' competente dello Stato di appartenenza; la succursale inizia l'attivita' decorsi due mesi dalla comunicazione. Il primo insediamento e' preceduto da una comunicazione alla Banca d'Italia da parte dell'autorita' competente dello Stato di appartenenza; la succursale inizia l'attivita' decorsi due mesi dalla comunicazione. La Banca d'Italia e la CONSOB, nell'ambito delle rispettive competenze, indicano, se del caso, all'autorita' competente dello Stato comunitario non partecipante al MVU e alla banca le condizioni alle quali, per motivi di interesse generale, e' subordinato l'esercizio dell'attivita' della succursale. 
  4. Le banche extracomunitarie gia' operanti nel territorio della Repubblica con una succursale possono stabilire altre succursali previa autorizzazione della Banca d'Italia. 
  5. La Banca d'Italia, nei casi in cui sia previsto l'esercizio di attivita' di intermediazione mobiliare, da' notizia alla CONSOB delle comunicazioni ricevute ai sensi dei commi 01 e 3 e dell'apertura di succursali all'estero da parte di banche italiane.". 
- - Il testo dell'art. 16 del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 16 del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 16. (Libera prestazione di servizi). In vigore dal 16 novembre 2015. - 1. Le banche italiane possono esercitare le attivita' ammesse al mutuo riconoscimento in uno Stato comunitario senza stabilirvi succursali secondo quanto stabilito dalle disposizioni del MVU e nel rispetto delle procedure fissate dalla Banca d'Italia.». 
  2. Le banche italiane possono operare in uno Stato terzo senza stabilirvi succursali previa autorizzazione della Banca d'Italia. 
  3. Le banche comunitarie possono esercitare le attivita' previste dal comma 1 nel territorio della Repubblica senza stabilirvi succursali dopo che la Banca d'Italia sia stata informata dall'autorita' competente dello Stato di appartenenza. 
  4. Le banche extracomunitarie possono operare in Italia senza stabilirvi succursali previa autorizzazione della Banca d'Italia, rilasciata sentita la CONSOB per quanto riguarda le attivita' di intermediazione mobiliare. 
  5. La Banca d'Italia, nei casi in cui sia previsto l'esercizio di attivita' di intermediazione mobiliare, da' notizia alla CONSOB delle comunicazioni ricevute ai sensi del comma 3 e della prestazione all'estero di servizi da parte di banche italiane.». 
- - Il testo dell'art. 18 del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 18 del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 18. (Societa' finanziarie ammesse al mutuo riconoscimento). In vigore dal 27 giugno 2015. - 1. Le disposizioni dell'art. 15, commi 01 e 1, e dell'art. 16, comma 1, si applicano anche alle societa' finanziarie con sede legale in Italia sottoposte a forme di vigilanza prudenziale, quando la partecipazione di controllo e' detenuta da una o piu' banche italiane e ricorrono le condizioni stabilite dalla Banca d'Italia. 
  2. Le disposizioni dell'art. 15, comma 3, e dell'art. 16, comma 3, si applicano, in armonia con la normativa comunitaria, anche alle societa' finanziarie aventi sede legale in uno Stato comunitario quando la partecipazione di controllo e' detenuta da una o piu' banche aventi sede legale nel medesimo Stato. 
  3. La Banca d'Italia, nei casi in cui sia previsto l'esercizio di attivita' di intermediazione mobiliare, comunica alla CONSOB le societa' finanziarie ammesse al mutuo riconoscimento ai sensi dei commi 1 e 2. 
  4. Alle societa' finanziarie ammesse al mutuo riconoscimento ai sensi dei commi 1 e 2 si applicano le disposizioni previste dall'art. 54, commi 1, 2 e 3. 
  5. Alle societa' finanziarie ammesse al mutuo riconoscimento ai sensi del comma 2 si applicano altresi' le disposizioni previste dall'art. 79, commi 1, 3 e 4.». 
- - Il testo dell'art. 19 del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 19 del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 19. (Autorizzazioni). In vigore dal 16 novembre 2015. - 1. E' soggetta ad autorizzazione preventiva l'acquisizione a qualsiasi titolo in una banca di partecipazioni che comportano il controllo o la possibilita' di esercitare un'influenza notevole sulla banca stessa o che attribuiscono una quota dei diritti di voto o del capitale almeno pari al 10 per cento, tenuto conto delle azioni o quote gia' possedute. 
  2. Sono soggette ad autorizzazione preventiva le variazioni delle partecipazioni quando la quota dei diritti di voto o del capitale raggiunge o supera il 20 per cento, 30 per cento o 50 per cento e, in ogni caso, quando le variazioni comportano il controllo sulla banca stessa. 
  3. L'autorizzazione e' necessaria anche per l'acquisizione del controllo di una societa' che detiene le partecipazioni indicate al comma 1. 
@@ -405,20 +405,20 @@ N O T E
  8. La Banca d'Italia da' notizia al Ministro dell'Economia e delle Finanze, Presidente del CICR, delle domande di autorizzazione di cui ai commi 1, 2 e 3. 
  8-bis. Le autorizzazioni previste dal presente articolo si applicano anche all'acquisizione, in via diretta o indiretta, del controllo derivante da un contratto con la banca o da una clausola del suo statuto. 
  9. La Banca d'Italia adotta disposizioni attuative del presente articolo, individuando, tra l'altro: i soggetti tenuti a richiedere l'autorizzazione quando i diritti derivanti dalle partecipazioni indicate ai commi 1 e 2 spettano o sono attribuiti ad un soggetto diverso dal titolare delle partecipazioni stesse; i criteri di calcolo dei diritti di voto rilevanti ai fini dell'applicazione delle soglie previste ai commi 1 e 2, ivi inclusi i casi in cui i diritti di voto non sono computati ai fini dell'applicazione dei medesimi commi; i criteri per l'individuazione dei casi di influenza notevole; le modalita' e i termini del procedimento di valutazione dell'acquisizione ai sensi dei commi 5, 5-bis e 5-ter.». 
- - Il testo dell'art. 52 del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 52 del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 52. (Comunicazioni del collegio sindacale e dei soggetti incaricati della revisione legale dei conti). In vigore dal 7 aprile 2010. - 1. Il collegio sindacale informa senza indugio la Banca d'Italia di tutti gli atti o i fatti, di cui venga a conoscenza nell'esercizio dei propri compiti, che possano costituire una irregolarita' nella gestione delle banche o una violazione delle norme disciplinanti l'attivita' bancaria. A tali fini lo statuto della banca, indipendentemente dal sistema di amministrazione e controllo adottato, assegna all'organo che svolge la funzione di controllo i relativi compiti e poteri. 
  2. Il soggetto incaricato della revisione legale dei conti comunica senza indugio alla Banca d'Italia gli atti o i fatti, rilevati nello svolgimento dell'incarico, che possano costituire una grave violazione delle norme disciplinanti l'attivita' bancaria ovvero che possano pregiudicare la continuita' dell'impresa o comportare un giudizio negativo, un giudizio con rilievi o una dichiarazione di impossibilita' di esprimere un giudizio sul bilancio. Tale soggetto invia alla Banca d'Italia ogni altro dato o documento richiesto. 
  2-bis. Lo statuto delle banche di credito cooperativo puo' prevedere che il controllo contabile sia affidato al collegio sindacale. 
  3. I commi 1, primo periodo, e 2 si applicano anche ai soggetti che esercitano i compiti ivi previsti presso le societa' che controllano le banche o che sono da queste controllate ai sensi dell'art. 23. 
  4. La Banca d'Italia stabilisce modalita' e termini per la trasmissione delle informazioni previste dai commi 1 e 2. 
  4-bis. La Banca d'Italia trasmette alla BCE le informazioni ricevute ai sensi del presente articolo, nei casi e secondo le modalita' stabiliti dalle disposizioni del MVU.». 
- - Il testo dell'art. 52-ter del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 52-ter del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 52-ter. (Segnalazione di violazioni alla Banca d'Italia). In vigore dal 27 giugno 2015. - 1. La Banca d'Italia riceve, da parte del personale delle banche e delle relative capogruppo, segnalazioni che si riferiscono a violazioni riguardanti norme del titolo II e III, nonche' atti dell'Unione europea direttamente applicabili nelle stesse materie. 
  2. La Banca d'Italia tiene conto dei criteri di cui all'art. 52-bis, comma 2, lettere a) e b), e puo' stabilire condizioni, limiti e procedure per la ricezione delle segnalazioni. 
  3. La Banca d'Italia si avvale delle informazioni contenute nelle segnalazioni, ove rilevanti, esclusivamente nell'esercizio delle funzioni di vigilanza e per il perseguimento delle finalita' previste dall'art. 5. 
  4. Nel caso di accesso ai sensi degli articoli 22, e seguenti, della [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), l'ostensione del documento e' effettuata con modalita' che salvaguardino comunque la riservatezza del segnalante. Si applica l'art. 52-bis, commi 3 e 4. 
  4-bis. La Banca d'Italia inoltra alla BCE le segnalazioni ricevute, quando esse riguardano soggetti significativi o violazioni di regolamenti o decisioni della BCE. La Banca d'Italia puo' ricevere dalla BCE le segnalazioni relative a soggetti meno significativi. Nei casi previsti dal presente comma, la Banca d'Italia e la BCE scambiano informazioni nei modi e per le finalita' stabiliti dalle disposizioni del MVU.». 
- - Il testo dell'art. 53-bis del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 53-bis del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 53-bis. (Poteri di intervento). In vigore dal 27 giugno 2015. - 1. La Banca d'Italia puo': 
  a) convocare gli amministratori, i sindaci e il personale delle banche; 
  b) ordinare la convocazione degli organi collegiali delle banche, fissandone l'ordine del giorno, e proporre l'assunzione di determinate decisioni; 
@@ -426,12 +426,12 @@ N O T E
  d) adottare per le materie indicate nell'art. 53, comma 1, ove la situazione lo richieda, provvedimenti specifici nei confronti di una o piu' banche o dell'intero sistema bancario riguardanti anche: la restrizione delle attivita' o della struttura territoriale; il divieto di effettuare determinate operazioni, anche di natura societaria, e di distribuire utili o altri elementi del patrimonio, nonche', con riferimento a strumenti finanziari computabili nel patrimonio a fini di vigilanza, il divieto di pagare interessi; la fissazione di limiti all'importo totale della parte variabile delle remunerazioni nella banca, quando sia necessario per il mantenimento di una solida base patrimoniale; per le banche che beneficiano di eccezionali interventi di sostegno pubblico, possono inoltre essere fissati limiti alla remunerazione complessiva degli esponenti aziendali; 
  e) disporre, qualora la loro permanenza in carica sia di pregiudizio per la sana e prudente gestione della banca, la rimozione di uno o piu' esponenti aziendali; la rimozione non e' disposta ove ricorrano gli estremi per pronunciare la decadenza ai sensi dell'art. 26, salvo che sussista urgenza di provvedere. 
  2. La Banca d'Italia puo' altresi' convocare gli amministratori, i sindaci e il personale dei soggetti ai quali siano state esternalizzate funzioni aziendali essenziali o importanti.». 
- - Il testo dell'art. 57 del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 57 del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 57. (Fusioni e scissioni). In vigore dal 29 febbraio 2004. - 1. La Banca d'Italia autorizza le fusioni e le scissioni alle quali prendono parte banche quando non contrastino con il criterio di una sana e prudente gestione; l'autorizzazione non e' necessaria quando l'operazione richiede l'autorizzazione della BCE ai sensi dell'art. 14. E' fatta salva l'applicazione delle disposizioni previste dal [decreto legislativo 20 novembre 1990, n. 356](../Decreti%20Legislativi/Disposizioni%20per%20la%20ristrutturazione%20e%20per%20la%20disciplina%20del%20gruppo%20creditizio.md). 
  2. Non si puo' dare corso all'iscrizione nel registro delle imprese del progetto di fusione o di scissione e della deliberazione assembleare che abbia apportato modifiche al relativo progetto se non consti l'autorizzazione di cui al comma 1. 
  3. Il termine previsto dall'[art. 2503, primo comma, del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2503-com1) e' ridotto a quindici giorni. 
  4. I privilegi e le garanzie di qualsiasi tipo, da chiunque prestate o comunque esistenti, a favore di banche incorporate da altre banche, di banche partecipanti a fusioni con costituzione di nuove banche ovvero di banche scisse conservano la loro validita' e il loro grado, senza bisogno di alcuna formalita' o annotazione, a favore, rispettivamente, della banca incorporante, della banca risultante dalla fusione o della banca beneficiaria del trasferimento per scissione.». 
- - Il testo dell'art. 67-ter del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 67-ter del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 67-ter. (Poteri di intervento). - 1. La Banca d'Italia puo': 
  a) convocare gli amministratori, i sindaci e il personale della capogruppo; 
  b) ordinare la convocazione degli organi collegiali della capogruppo, fissandone l'ordine del giorno, e proporre l'assunzione di determinate decisioni; 
@@ -439,7 +439,7 @@ N O T E
  d) impartire le disposizioni previste dall'art. 67 anche con provvedimenti di carattere particolare; questi possono essere indirizzati anche a piu' gruppi bancari o all'intero sistema bancario e riguardare anche: la restrizione delle attivita' o della struttura territoriale del gruppo; il divieto di effettuare determinate operazioni e di distribuire utili o altri elementi del patrimonio, nonche', con riferimento a strumenti finanziari computabili nel patrimonio a fini di vigilanza, il divieto di pagare interessi; la fissazione di limiti all'importo totale della parte variabile delle remunerazioni nella banca, quando sia necessario per il mantenimento di una solida base patrimoniale; per le capogruppo che beneficiano di eccezionali interventi di sostegno pubblico, possono inoltre essere fissati limiti alla remunerazione complessiva degli esponenti aziendali; 
  e) disporre, qualora la loro permanenza in carica sia di pregiudizio per la sana e prudente gestione del gruppo, la rimozione di uno o piu' esponenti aziendali della capogruppo; la rimozione non e' disposta ove ricorrano gli estremi per pronunciare la decadenza ai sensi dell'art. 26, salvo che sussista urgenza di provvedere. 
  2. La Banca d'Italia puo' altresi' convocare gli amministratori, i sindaci e il personale dei soggetti ai quali la capogruppo abbia esternalizzato funzioni aziendali essenziali o importanti.». 
- - Il testo dell'art. 70 del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 70 del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 70. (Provvedimento). In vigore dal 16 novembre 2015. - 1. La Banca d'Italia puo' disporre lo scioglimento degli organi con funzioni di amministrazione e di controllo delle banche quando ricorrono le violazioni o le irregolarita' di cui all'art. 69-octiesdecies, comma 1, lettera b), oppure sono previste gravi perdite del patrimonio ovvero quando lo scioglimento e' richiesto con istanza motivata dagli organi amministrativi ovvero dall'assemblea straordinaria. 
  2. Le funzioni delle assemblee e degli altri organi diversi da quelli indicati nel comma 1 sono sospese per effetto del provvedimento di amministrazione straordinaria, salvo quanto previsto dall'art. 72, comma 6. 
  3. Il provvedimento e' comunicato dai commissari nominati ai sensi dell'art. 71 agli interessati, che ne facciano richiesta, non prima dell'insediamento ai sensi dell'art. 73. 
@@ -447,17 +447,17 @@ N O T E
  5. L'amministrazione straordinaria dura un anno, salvo che il provvedimento previsto dal comma 1 preveda un termine piu' breve. La procedura puo' essere prorogata per lo stesso periodo sino ad un anno, anche per piu' di una volta, se sussistono i presupposti indicati nel comma 1. Il provvedimento di proroga e' pubblicato per estratto nella Gazzetta Ufficiale della Repubblica italiana. 
  6. 
  7. Alle banche non si applica il titolo IV della [legge fallimentare e l'art. 2409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267#art_2409) del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262). Se vi e' fondato sospetto che i soggetti con funzioni di amministrazione, in violazione dei propri doveri, abbiano compiuto gravi irregolarita' nella gestione che possono arrecare danno alla banca o ad una o piu' societa' controllate, l'organo con funzioni di controllo od i soci che il [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) o lo statuto abilitano a presentare denuncia al tribunale, possono denunciare i fatti alla Banca d'Italia, che decide con provvedimento motivato.». 
- - Il testo dell'art. 96-quinquies del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 96-quinquies del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 96-quinquies. (Liquidazione ordinaria). In vigore dal 6 agosto 2004. - 1. Le banche informano tempestivamente la Banca d'Italia del verificarsi di una causa di scioglimento della societa'. La Banca d'Italia accerta la sussistenza dei presupposti per un regolare svolgimento della procedura di liquidazione. 
  2. Non si puo' dar corso all'iscrizione nel registro delle imprese degli atti che deliberano o dichiarano lo scioglimento della societa' se non consti l'accertamento di cui al comma 1. 
  3. L'iscrizione di cui al comma 2 comporta la decadenza dall'autorizzazione all'attivita' bancaria a decorrere dal termine fissato dalla Banca d'Italia nell'accertamento di cui al comma 1. La decadenza non impedisce, previa autorizzazione della Banca d'Italia, la prosecuzione di attivita' ai sensi dell'[art. 2487 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2487). 
  4. Nei confronti della societa' in liquidazione restano fermi i poteri delle autorita' creditizie previsti nel presente decreto.». 
- - Il testo dell'art. 110 del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 110 del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 110. (Rinvio). In vigore dal 27 giugno 2015. - 1.
  Agli intermediari finanziari si applicano, in quanto compatibili, le disposizioni contenute negli articoli 19, 20, 21, 22, 23, 24, 47, 52, 61, commi 4 e 5, 62, 63, 64, 78 e 82. I provvedimenti previsti nell'art. 19 sono adottati dalla Banca d'Italia. 
  1-bis. Ai soggetti che svolgono funzioni di amministrazione, direzione e controllo presso intermediari finanziari si applica l'art. 26, ad eccezione del comma 3, lettere c) ed e); il decreto di cui all'art. 26 puo' prevedere l'applicazione dei criteri di competenza definiti ai sensi del medesimo articolo, comma 3, lettera c), avuto riguardo alla complessita' operativa, dimensionale e organizzativa degli intermediari, nonche' alla natura specifica dell'attivita' svolta. 
  1-ter. Ai titolari delle partecipazioni indicate all'art. 19 in intermediari finanziari si applica l'art. 25, ad eccezione del comma 2, lettera b); il decreto di cui all'art. 25 puo' prevedere l'applicazione dei criteri di competenza definiti ai sensi del medesimo articolo, comma 2, lettera b), avuto riguardo alla complessita' operativa, dimensionale e organizzativa degli intermediari, nonche' alla natura specifica dell'attivita' svolta.». 
- - Il testo dell'art. 113-ter del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 113-ter del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 113-ter. (Revoca dell'autorizzazione e liquidazione). In vigore dal 16 novembre 2015. - 1. Fermo restando quanto previsto dall'art. 113-bis, la Banca d'Italia, puo' disporre la revoca dell'autorizzazione di cui all'art. 107, comma 1, quando: 
  a) risultino irregolarita' eccezionalmente gravi nell'amministrazione, ovvero violazioni eccezionalmente gravi delle disposizioni legislative, amministrative o statutarie che regolano l'attivita' dell'intermediario; 
  b) siano previste perdite del patrimonio di eccezionale gravita'; 
@@ -475,19 +475,19 @@ N O T E
  7. Le disposizioni di cui al presente articolo si applicano anche alle succursali di intermediari finanziari aventi sede legale all'estero ammessi all'esercizio, in Italia, delle attivita' di cui all'art. 106 comma 1. La Banca d'Italia comunica i provvedimenti adottati all'Autorita' competente. 
  8. Resta fermo quanto previsto dall'art.
  114-terdecies.». 
- - Il testo dell'art. 114-quinquies.3 del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 114-quinquies.3 del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 114-quinquies.3. (Rinvio). In vigore dal 27 giugno 2015. - 1. Agli istituti di moneta elettronica si applicano, in quanto compatibili, le disposizioni contenute negli articoli 19, 20, 21, 22, 23, 24, 52, 139 e 140 nonche' nel titolo VI. I provvedimenti previsti nell'art. 19 sono adottati dalla Banca d'Italia. Agli emittenti che agiscono in veste di pubblica autorita' si applicano solo gli articoli 114-ter e 126-novies nonche', relativamente a queste disposizioni, gli [articoli 39](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202007-64-CE%20relativa%20ai%20servizi%20di%20pagamento%20nel%20mercato%20interno%20recante%20modifica%20delle%20direttive%2097-7-CE%202002-65-CE%202005-60-CE%202006-48-CE%20e%20che%20abroga%20la%20dirett_c4c951d397e9.md) e [40 del decreto legislativo 27 gennaio 2010, n. 11](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202007-64-CE%20relativa%20ai%20servizi%20di%20pagamento%20nel%20mercato%20interno%20recante%20modifica%20delle%20direttive%2097-7-CE%202002-65-CE%202005-60-CE%202006-48-CE%20e%20che%20abroga%20la%20dirett_c4c951d397e9.md). 
  1-bis. Ai soggetti che svolgono funzioni di amministrazione, direzione e controllo presso istituti di moneta elettronica si applica l'art. 26, ad eccezione del comma 3, lettere c) ed e); il decreto di cui all'art. 26 puo' prevedere l'applicazione dei criteri di competenza definiti ai sensi del medesimo articolo, comma 3, lettera c), avuto riguardo alla complessita' operativa, dimensionale e organizzativa degli istituti, nonche' alla natura specifica dell'attivita' svolta. 
  1-ter. Ai titolari delle partecipazioni indicate all'art. 19 in istituti di moneta elettronica si applica l'art. 25, ad eccezione del comma 2, lettera b); il decreto di cui all'art. 25 puo' prevedere l'applicazione dei criteri di competenza definiti ai sensi del medesimo articolo, comma 2, lettera b), avuto riguardo alla complessita' operativa, dimensionale e organizzativa degli istituti, nonche' alla natura specifica dell'attivita' svolta. 
  2. Agli istituti di moneta elettronica che non esercitano attivita' imprenditoriali diverse dall'emissione di moneta elettronica o dalla prestazione di servizi di pagamento, si applicano altresi' gli articoli 78, 82, 113-bis e 113-ter. 
  3. La Banca d'Italia puo' dettare disposizioni attuative ai fini dell'applicazione delle norme di cui al presente articolo.». 
- - Il testo dell'art. 114-undecies del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 114-undecies del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 114-undecies. (Rinvio). In vigore dal 27 giugno 2015. - 1. Agli istituti di pagamento si applicano, in quanto compatibili, le disposizioni contenute negli articoli 19, 20, 21, 22, 23, 24, 52, 139 e 140 nonche' nel titolo VI. I provvedimenti previsti nell'art. 19 sono adottati dalla Banca d'Italia. 
  1-bis.Ai soggetti che svolgono funzioni di amministrazione, direzione e controllo presso istituti di -pagamento si applica l'art. 26, ad eccezione del comma 3, lettere c) ed e); il decreto di cui all'art. 26 puo' prevedere l'applicazione dei criteri di competenza definiti ai sensi del medesimo articolo, comma 3, lettera c), avuto riguardo alla complessita' operativa, dimensionale e organizzativa degli istituti, nonche' alla natura specifica dell'attivita' svolta. 
  1-ter.Ai titolari delle partecipazioni indicate all'art. 19 in istituti di pagamento si applica l'art. 25, ad eccezione del comma 2, lettera b); il decreto di cui all'art. 25 puo' prevedere l'applicazione dei criteri di competenza definiti ai sensi del medesimo articolo, comma 2, lettera b), avuto riguardo alla complessita' operativa, dimensionale e organizzativa degli istituti, nonche' alla natura specifica dell'attivita' svolta. 
  2. Agli istituti di pagamento che non esercitino attivita' imprenditoriali diverse dalla prestazione dei servizi di pagamento ai sensi dell'art. 114-novies, comma 4, si applicano altresi' gli articoli 78, 82, 113-bis e 113-ter, ad eccezione del comma 7, 114-quinquies.2, commi 6-bis e 6-ter. 
  3. La Banca d'Italia puo' dettare disposizioni attuative ai fini dell'applicazione delle norme di cui al presente articolo.". 
- - Il testo dell'art. 159 del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 159 del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 159. (Regioni a statuto speciale). In vigore dal 27 giugno 2015. - 1. Le valutazioni di vigilanza sono riservate alla Banca d'Italia. 
  2. Nei casi in cui i provvedimenti previsti dagli articoli 14, 31, 36, 56 e 57 sono attribuiti alla competenza delle regioni, la Banca d'Italia esprime, a fini di vigilanza, un parere vincolante. 
  3. Sono inderogabili e prevalgono sulle contrarie disposizioni gia' emanate le norme dettate dai commi 1 e 2 nonche' dagli articoli 15, 16, 26 e 47. 
@@ -509,7 +509,7 @@ Dopo l'articolo 3, e' inserito il seguente:
 Note all'art. 2: 
  - Il testo dell'[art. 3, comma 3, del decreto legislativo 18 aprile 2006, n. 171](../Decreti%20Legislativi/Ricognizione%20dei%20principi%20fondamentali%20in%20materia%20di%20casse%20di%20risparmio%20casse%20rurali%20aziende%20di%20credito%20a%20carattere%20regionale%20enti%20di%20credito%20fondiario%20e%20agrario%20a%20carattere%20regionale.md) (Ricognizione dei principi fondamentali in materia di casse di risparmio, casse rurali, aziende di credito a carattere regionale, enti di credito fondiario e agrario a carattere regionale), citato nelle note alle premesse, come modificato dal presente decreto, cosi' recita: 
  «Art. 3. (Principi fondamentali). - 1. Le regioni esercitano la potesta' legislativa concorrente in materia di banche a carattere regionale nel rispetto della Costituzione, dei vincoli derivanti dall'ordinamento comunitario, nonche' dalle norme e dagli obblighi internazionali e nei limiti dei principi fondamentali individuati dal presente decreto. 
- 2. Costituiscono principi fondamentali le disposizioni contenute nell'art. 159 del testo unico delle disposizioni in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385). 
+ 2. Costituiscono principi fondamentali le disposizioni contenute nell'art. 159 del testo unico delle disposizioni in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md). 
  3. In applicazione di quanto previsto al comma 2, la legge regionale puo', in particolare, disciplinare: 
  a) l'istituzione di un albo delle banche a carattere regionale; 
  b) l'adozione, previo parere vincolante della Banca d'Italia a fini di vigilanza, dei provvedimenti relativi alle modifiche statutarie, ivi comprese quelle dipendenti da trasformazioni, fusioni e scissioni; 

@@ -59,7 +59,7 @@ Ai sensi del presente decreto legislativo si intende:
 
 AGGIORNAMENTO (2)
 
-La [L. 30 dicembre 2010, n. 240](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
+La [L. 30 dicembre 2010, n. 240](../Leggi%20contenenti%20deleghe/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
 
 ## Art. 2. — Oggetto
 
@@ -72,7 +72,7 @@ Il presente decreto legislativo disciplina le procedure per il conseguimento del
 
 AGGIORNAMENTO (2)
 
-La [L. 30 dicembre 2010, n. 240](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
+La [L. 30 dicembre 2010, n. 240](../Leggi%20contenenti%20deleghe/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
 
 ## Art. 3. — Idoneita' scientifica nazionale
 
@@ -97,7 +97,7 @@ Ai fini della partecipazione alle procedure di reclutamento, la durata dell'idon
 
 AGGIORNAMENTO (2)
 
-La [L. 30 dicembre 2010, n. 240](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
+La [L. 30 dicembre 2010, n. 240](../Leggi%20contenenti%20deleghe/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
 
 ## Art. 4. — Numero massimo di idoneita' scientifiche
 
@@ -122,7 +122,7 @@ Per ciascun settore deve in ogni caso essere bandito ogni cinque anni almeno un 
 
 AGGIORNAMENTO (2)
 
-La [L. 30 dicembre 2010, n. 240](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
+La [L. 30 dicembre 2010, n. 240](../Leggi%20contenenti%20deleghe/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
 
 ## Art. 5. — Quote riservate per la fascia dei professori ordinari
 
@@ -136,7 +136,7 @@ Nei giudizi di idoneita' per la fascia dei professori ordinari il numero massimo
 
 AGGIORNAMENTO (2)
 
-La [L. 30 dicembre 2010, n. 240](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
+La [L. 30 dicembre 2010, n. 240](../Leggi%20contenenti%20deleghe/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
 
 ## Art. 6. — Liste di commissari nazionali
 
@@ -177,7 +177,7 @@ L'eventuale sostituzione, per qualunque causa, dei commissari inseriti nelle lis
 
 AGGIORNAMENTO (2)
 
-La [L. 30 dicembre 2010, n. 240](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
+La [L. 30 dicembre 2010, n. 240](../Leggi%20contenenti%20deleghe/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
 
 ## Art. 7. — Commissioni di valutazione
 
@@ -218,7 +218,7 @@ Le modifiche dello stato giuridico intervenute successivamente al decreto di nom
 
 AGGIORNAMENTO (2)
 
-La [L. 30 dicembre 2010, n. 240](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
+La [L. 30 dicembre 2010, n. 240](../Leggi%20contenenti%20deleghe/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
 
 ## Art. 8. — Sedi delle procedure
 
@@ -239,7 +239,7 @@ Gli oneri relativi al funzionamento di ciascuna commissione di valutazione sono 
 
 AGGIORNAMENTO (2)
 
-La [L. 30 dicembre 2010, n. 240](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
+La [L. 30 dicembre 2010, n. 240](../Leggi%20contenenti%20deleghe/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
 
 ## Art. 9. — Lavori delle commissioni di valutazione
 
@@ -300,7 +300,7 @@ Al termine dei lavori la commissione, previa valutazione comparativa, con delibe
 
 AGGIORNAMENTO (2)
 
-La [L. 30 dicembre 2010, n. 240](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
+La [L. 30 dicembre 2010, n. 240](../Leggi%20contenenti%20deleghe/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
 
 ## Art. 10. — Controllo di legittimita' degli atti
 
@@ -329,7 +329,7 @@ Gli atti sono approvati con decreto ministeriale e resi pubblici anche per via t
 
 AGGIORNAMENTO (2)
 
-La [L. 30 dicembre 2010, n. 240](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
+La [L. 30 dicembre 2010, n. 240](../Leggi%20contenenti%20deleghe/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
 
 ## Art. 11. — Limite di ammissibilita' ai giudizi idoneativi
 
@@ -342,7 +342,7 @@ Coloro che partecipano a tre procedure idoneative e non conseguono l'idoneita' n
 
 AGGIORNAMENTO (2)
 
-La [L. 30 dicembre 2010, n. 240](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
+La [L. 30 dicembre 2010, n. 240](../Leggi%20contenenti%20deleghe/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
 
 ## Art. 12. — Bandi di indizione dei giudizi idoneativi
 
@@ -367,7 +367,7 @@ Per ciascuna procedura idoneativa l'universita' nomina, ai sensi della [legge 7 
 
 AGGIORNAMENTO (2)
 
-La [L. 30 dicembre 2010, n. 240](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
+La [L. 30 dicembre 2010, n. 240](../Leggi%20contenenti%20deleghe/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
 
 ## Art. 13. — Procedure per la chiamata dei professori universitari
 
@@ -380,7 +380,7 @@ Le universita' disciplinano con propri regolamenti, adottati ai sensi dell'[arti
 
 AGGIORNAMENTO (2)
 
-La [L. 30 dicembre 2010, n. 240](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
+La [L. 30 dicembre 2010, n. 240](../Leggi%20contenenti%20deleghe/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
 
 ## Art. 14. — Disposizioni transitorie e finali
 
@@ -414,7 +414,7 @@ Ai sensi dell'articolo 1, comma 25, della legge, dall'attuazione delle disposizi
 
 AGGIORNAMENTO (2)
 
-La [L. 30 dicembre 2010, n. 240](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
+La [L. 30 dicembre 2010, n. 240](../Leggi%20contenenti%20deleghe/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md) ha disposto (con l'art. 29, comma 12) che "A decorrere dalla data di entrata in vigore dei regolamenti di cui all'articolo 16, comma 2, della presente legge, e' abrogato il [decreto legislativo 6 aprile 2006, n. 164](Riordino%20della%20disciplina%20del%20reclutamento%20dei%20professori%20universitari%20a%20norma%20dellarticolo%201%20comma%205%20della%20legge%204%20novembre%202005%20n.%20230.md)".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

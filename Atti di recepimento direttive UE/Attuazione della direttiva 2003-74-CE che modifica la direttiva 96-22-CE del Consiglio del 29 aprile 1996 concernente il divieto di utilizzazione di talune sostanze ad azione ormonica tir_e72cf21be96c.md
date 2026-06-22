@@ -24,7 +24,7 @@ Visto il Regolamento (CE) n. 882/2004 del Parlamento europeo e del Consiglio, de
 
 Visto il [decreto legislativo 27 gennaio 1992, n. 119](Attuazione%20delle%20direttive%20n.%2081-851-CEE%20n.%2081-852-CEE%20n.%2087-20-CEE%20e%20n.%2090-676-CEE%20relative%20ai%20medicinali%20veterinari.md), e successive modificazioni;
 
-Visto il [decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md);
+Visto il [decreto legislativo 31 marzo 1998, n. 112](../Decreti%20Legislativi/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 10 novembre 2005;
 
@@ -48,7 +48,7 @@ Il presente decreto riguarda il divieto di utilizzazione di talune sostanze ad a
 
 2.
 
-Ai fini del presente decreto si applicano le definizioni previste dal regolamento (CE) n. 178/2002, dal regolamento (CE) n. 852/2004, dal regolamento (CE) n. 853/2004, dal [decreto legislativo 6 aprile 2006, n. 193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-28-CE%20recante%20codice%20comunitario%20dei%20medicinali%20veterinari.md), dal [regolamento (UE) 2016/429](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2016;429), dal [regolamento (UE) 2017/625](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2017;625), dal [regolamento (UE) 2019/6](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2019;6), dal [regolamento (UE) 2019/2090](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2019;2090). Nel presente decreto, qualsiasi riferimento al termine «azienda», deve intendersi riferito al termine: «stabilimento» di cui al [regolamento (UE) 2016/429](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2016;429) e «tempo di sospensione» deve intendersi riferito al termine: «tempo di attesa» di cui al [decreto legislativo 6 aprile 2006, n. 193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-28-CE%20recante%20codice%20comunitario%20dei%20medicinali%20veterinari.md).
+Ai fini del presente decreto si applicano le definizioni previste dal regolamento (CE) n. 178/2002, dal regolamento (CE) n. 852/2004, dal regolamento (CE) n. 853/2004, dal [decreto legislativo 6 aprile 2006, n. 193](Attuazione%20della%20direttiva%202004-28-CE%20recante%20codice%20comunitario%20dei%20medicinali%20veterinari.md), dal [regolamento (UE) 2016/429](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2016;429), dal [regolamento (UE) 2017/625](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2017;625), dal [regolamento (UE) 2019/6](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2019;6), dal [regolamento (UE) 2019/2090](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2019;2090). Nel presente decreto, qualsiasi riferimento al termine «azienda», deve intendersi riferito al termine: «stabilimento» di cui al [regolamento (UE) 2016/429](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2016;429) e «tempo di sospensione» deve intendersi riferito al termine: «tempo di attesa» di cui al [decreto legislativo 6 aprile 2006, n. 193](Attuazione%20della%20direttiva%202004-28-CE%20recante%20codice%20comunitario%20dei%20medicinali%20veterinari.md).
 
 ))
 
@@ -131,7 +131,7 @@ In deroga ai divieti di cui all'articolo 3, e' consentito somministrare ad anima
                         c)
                             sostanze (ß)-agoniste, alle vacche al momento del parto, sotto forma di un'iniezione per l'induzione della tocolisi;
                         d)
-                            LETTERA SOPPRESSA DAL [D.LGS. 29 OTTOBRE 2009, N. 148](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-97-CE%20che%20modifica%20la%20direttiva%2096-22-CE%20concernente%20il%20divieto%20di%20utilizzazione%20di%20talune%20sostanze%20ad%20azione%20ormonica%20tireostatica%20e%20delle%20sostanze%20beta-a_d66fdf11a025.md).
+                            LETTERA SOPPRESSA DAL [D.LGS. 29 OTTOBRE 2009, N. 148](Attuazione%20della%20direttiva%202008-97-CE%20che%20modifica%20la%20direttiva%2096-22-CE%20concernente%20il%20divieto%20di%20utilizzazione%20di%20talune%20sostanze%20ad%20azione%20ormonica%20tireostatica%20e%20delle%20sostanze%20beta-a_d66fdf11a025.md).
 
 2.
 
@@ -171,7 +171,7 @@ In deroga al divieto di cui all'articolo 3, comma 1, lettera a), e fatto salvo i
                         b)
                             il trattamento di avannotti d'acquacoltura a scopo di inversione sessuale durante i primi tre mesi di vita con medicinali veterinari contenenti sostanze ad azione androgena;
                         c)
-                            LETTERA SOPPRESSA DAL [D.LGS. 29 OTTOBRE 2009, N. 148](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-97-CE%20che%20modifica%20la%20direttiva%2096-22-CE%20concernente%20il%20divieto%20di%20utilizzazione%20di%20talune%20sostanze%20ad%20azione%20ormonica%20tireostatica%20e%20delle%20sostanze%20beta-a_d66fdf11a025.md).
+                            LETTERA SOPPRESSA DAL [D.LGS. 29 OTTOBRE 2009, N. 148](Attuazione%20della%20direttiva%202008-97-CE%20che%20modifica%20la%20direttiva%2096-22-CE%20concernente%20il%20divieto%20di%20utilizzazione%20di%20talune%20sostanze%20ad%20azione%20ormonica%20tireostatica%20e%20delle%20sostanze%20beta-a_d66fdf11a025.md).
 
 2.
 
@@ -323,7 +323,7 @@ L'allevatore registra elettronicamente nella banca dati centrale, finalizzata a 
 
 3.
 
-Il registro di cui ai commi 1 e 2 puo' coincidere con il registro previsto dall'[articolo 79 del decreto legislativo 6 aprile 2006, n. 193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-28-CE%20recante%20codice%20comunitario%20dei%20medicinali%20veterinari.md). In caso di annotazione cartacea il registro deve essere vidimato dall'autorita' competente e detenuto in azienda e conservato, a cura del titolare della stessa, almeno per cinque anni.
+Il registro di cui ai commi 1 e 2 puo' coincidere con il registro previsto dall'[articolo 79 del decreto legislativo 6 aprile 2006, n. 193](Attuazione%20della%20direttiva%202004-28-CE%20recante%20codice%20comunitario%20dei%20medicinali%20veterinari.md). In caso di annotazione cartacea il registro deve essere vidimato dall'autorita' competente e detenuto in azienda e conservato, a cura del titolare della stessa, almeno per cinque anni.
 
 4.
 

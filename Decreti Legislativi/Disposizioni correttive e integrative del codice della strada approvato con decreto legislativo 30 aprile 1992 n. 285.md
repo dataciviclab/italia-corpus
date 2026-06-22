@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 13 giugno 1991, n. 190](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md);
+Vista la [legge 13 giugno 1991, n. 190](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md);
 
 Visto il [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md);
 
@@ -20,7 +20,7 @@ Visto il [decreto legislativo 28 giugno 1993, n. 214](Differimento%20dei%20termi
 
 Vista la prima approvazione dello schema del testo del presente decreto legislativo in data 25 giugno 1993 da parte del Consiglio dei Ministri;
 
-Uditi i pareri resi, a norma dell'[articolo 4, comma 2, della legge 13 giugno 1991, n. 190](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), dalla competente Commissione della Camera dei Deputati, in data 5 agosto 1993 e da quella del Senato della Repubblica, in data 3 agosto 1993;
+Uditi i pareri resi, a norma dell'[articolo 4, comma 2, della legge 13 giugno 1991, n. 190](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), dalla competente Commissione della Camera dei Deputati, in data 5 agosto 1993 e da quella del Senato della Repubblica, in data 3 agosto 1993;
 
 Vista la deliberazione del Consiglio dei Ministri adottata nella riunione del 7 settembre 1993;
 
@@ -1284,7 +1284,7 @@ All'[articolo 207, del decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codic
 
 All'[articolo 208 del decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md), il comma 2 e' cosi' sostituito:
  "2. I proventi di cui al comma 1, spettanti allo Stato, sono destinati:
- a) al Ministero dei lavori pubblici - Ispettorato generale per la circolazione e la sicurezza stradale, nella misura dell'ottanta per cento del totale annuo, definito a norma dell'[articolo 2, lettera x), della legge 13 giugno 1991, n. 190](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), per studi, ricerche e propaganda ai fini della sicurezza stradale, attuata anche attraverso il Centro di coordinamento delle informazioni sul traffico, sulla viabilita' e sulla sicurezza stradale (CCISS), istituito con [legge 30 dicembre 1988, n. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20novembre%201988%20n.%20465%20recante%20misure%20urgenti%20e%20straordinarie%20per%20la%20realizzazione%20di%20strutture%20turistiche%20ricettive%20e%20tecnologiche.md), per la redazione dei piani urbani di traffico, per finalita' di educazione stradale e per l'assistenza e previdenza del personale della Polizia di Stato, dell'Arma dei carabinieri e della Guardia di finanza;
+ a) al Ministero dei lavori pubblici - Ispettorato generale per la circolazione e la sicurezza stradale, nella misura dell'ottanta per cento del totale annuo, definito a norma dell'[articolo 2, lettera x), della legge 13 giugno 1991, n. 190](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), per studi, ricerche e propaganda ai fini della sicurezza stradale, attuata anche attraverso il Centro di coordinamento delle informazioni sul traffico, sulla viabilita' e sulla sicurezza stradale (CCISS), istituito con [legge 30 dicembre 1988, n. 556](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20novembre%201988%20n.%20465%20recante%20misure%20urgenti%20e%20straordinarie%20per%20la%20realizzazione%20di%20strutture%20turistiche%20ricettive%20e%20tecnologiche.md), per la redazione dei piani urbani di traffico, per finalita' di educazione stradale e per l'assistenza e previdenza del personale della Polizia di Stato, dell'Arma dei carabinieri e della Guardia di finanza;
  b) alla Direzione generale della M.C.T.C. nella misura del venti per cento del totale annuo sopra richiamato, per studi e ricerche sulla sicurezza del veicolo.".
 
 ## Art. 110.

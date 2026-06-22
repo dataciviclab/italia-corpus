@@ -86,7 +86,7 @@ Ai fini del presente decreto s'intendono per:
                         c-duodecies)
                             "Stato membro ospitante": lo Stato membro il cui diritto della sicurezza sociale e del lavoro pertinente in materia di schemi pensionistici aziendali o professionali si applica al rapporto tra l'impresa promotrice e gli aderenti o i beneficiari;
                         c-terdecies)
-                            "Stato aderente allo Spazio economico europeo": uno Stato aderente all'accordo di estensione della normativa dell'Unione europea in materia, fra l'altro, di circolazione delle merci, dei servizi e dei capitali agli Stati appartenenti all'Associazione europea di libero scambio firmato ad Oporto il 2 maggio 1992 e ratificato con [legge 28 luglio 1993, n. 300](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20sullo%20Spazio%20economico%20europeo%20con%20protocolli%20allegati%20e%20dichiarazioni%20fatto%20a%20Oporto%20il%202%20maggio%201992%20e%20del%20protocollo%20di%20adattamento%20di%20detto%20accordo%20_e276372f7d8a.md);
+                            "Stato aderente allo Spazio economico europeo": uno Stato aderente all'accordo di estensione della normativa dell'Unione europea in materia, fra l'altro, di circolazione delle merci, dei servizi e dei capitali agli Stati appartenenti all'Associazione europea di libero scambio firmato ad Oporto il 2 maggio 1992 e ratificato con [legge 28 luglio 1993, n. 300](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellaccordo%20sullo%20Spazio%20economico%20europeo%20con%20protocolli%20allegati%20e%20dichiarazioni%20fatto%20a%20Oporto%20il%202%20maggio%201992%20e%20del%20protocollo%20di%20adattamento%20di%20detto%20accordo%20_e276372f7d8a.md);
                         c-quaterdecies)
                             "attivita' transfrontaliera": l'attivita' che comporta la gestione di uno schema pensionistico in cui il rapporto tra impresa promotrice e gli aderenti e i beneficiari e' disciplinato dal diritto della sicurezza sociale e del lavoro pertinente in materia di schemi pensionistici aziendali o professionali di uno Stato membro diverso dallo Stato membro di origine;
                         c-quinquiesdecies)
@@ -176,7 +176,7 @@ L'esercizio dell'attivita' dei fondi pensione di cui all'articolo 3, comma 1, le
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 5.
 
@@ -311,19 +311,19 @@ Ai componenti dell'organo di controllo di cui al comma 1, si applicano gli [arti
 
 9.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 10.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 11.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 12.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 ## Art. 5-bis. — (( (Funzioni fondamentali). ))
 
@@ -610,7 +610,7 @@ Alle prestazioni di cui all'articolo 11 erogate sotto forma di rendita i fondi p
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 5.
 
@@ -671,7 +671,7 @@ Con delibera della COVIP, assunta previo parere dell'autorita' di vigilanza sui 
 
 11.
 
-COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
+COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-41-CE%20in%20tema%20di%20attivita%20e%20di%20supervisione%20degli%20enti%20pensionistici%20aziendali%20o%20professionali.md).
 
 12.
 
@@ -1745,7 +1745,7 @@ Il [D.L. 29 dicembre 2010, n. 225](../DL%20proroghe/Proroga%20di%20termini%20pre
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 24) che "Le disposizioni dei commi da 13 a 23 esplicano effetto a decorrere dal 1° gennaio 2012."
+Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 24) che "Le disposizioni dei commi da 13 a 23 esplicano effetto a decorrere dal 1° gennaio 2012."
 
 -------------
 
@@ -1988,7 +1988,7 @@ I soggetti di cui al comma 2 che, in relazione alle rispettive competenze:
                         a)
                             non osservano le disposizioni di cui agli articoli 5, 6, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 7, 8, 9, 10, 11, paragrafi 1, 2, 3, 4, 5, 6, 7, 8, 9 e 10, 12, 13, 14, 16, paragrafi 1 e 2, 17, 18, paragrafi 1 e 2, 19, paragrafi 1, 3 e 4, 24, 25, 26, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 27, 28, paragrafi 2, 3, 4, 5, 6, 7 e 8, 29, 30, paragrafi 1, 2, 3 e 4, e 31, paragrafo 12, del regolamento (UE) 2022/2554, del Parlamento europeo e del Consiglio, del 14 dicembre 2022, e delle relative norme tecniche di regolamentazione e attuazione, sono puniti con la sanzione amministrativa pecuniaria di cui al comma 2, lettera b);
                         b)
-                            omettono di collaborare o di dare seguito nell'ambito di un'indagine, di un'ispezione o di una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'[articolo 16 della legge 21 febbraio 2024, n. 15](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202022-2023.%2024G00027.md), sono puniti con la sanzione amministrativa di cui al comma 2, lettera a).
+                            omettono di collaborare o di dare seguito nell'ambito di un'indagine, di un'ispezione o di una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'[articolo 16 della legge 21 febbraio 2024, n. 15](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202022-2023.%2024G00027.md), sono puniti con la sanzione amministrativa di cui al comma 2, lettera a).
 
 2-ter.
 

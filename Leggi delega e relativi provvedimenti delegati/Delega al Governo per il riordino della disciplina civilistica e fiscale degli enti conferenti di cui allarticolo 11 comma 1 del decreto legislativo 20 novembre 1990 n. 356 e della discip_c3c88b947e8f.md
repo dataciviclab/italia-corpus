@@ -165,7 +165,7 @@ Le societa' conferitarie indicate al comma 1, lettera c), dell'articolo 1, posso
 
 Note all'art. 5:
  - Il titolo della [legge 25 gennaio 1994, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-25;86), e': "Istituzione e disciplina dei fondi comuni di investimento immobiliare chiusi".
- - Il testo dell'[art. 59 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_59) (testo unico delle leggi in materia bancaria e creditizia), e' il seguente:
+ - Il testo dell'[art. 59 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (testo unico delle leggi in materia bancaria e creditizia), e' il seguente:
  "Art. 59 (Definizioni). - 1. Ai fini del presente capo:
  a) il controllo sussiste nei casi previsti dall'[art. 2359, commi primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359-com1) e [secondo, del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359-com2). Si applica l'art. 23, comma 2;
  b) per "societa' finanziarie" si intendono le societa' che esercitano, in via esclusiva o prevalente: l'attivita' di assunzione di partecipazioni aventi le caratteristiche indicate dalla Banca d'Italia in conformita' delle delibere del CICR; una o piu' delle attivita' previste dall'art. 1, comma 2, lettera f), numeri da 2 a 12; altre attivita' finanziarie previste ai sensi del numero 15 della medesima lettera;

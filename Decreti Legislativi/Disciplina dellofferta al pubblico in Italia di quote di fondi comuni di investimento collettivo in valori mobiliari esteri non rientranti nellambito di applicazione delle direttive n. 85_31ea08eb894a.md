@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 22, comma 1, lettera h), della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), concernente la disciplina autorizzatoria e dei controlli relativa agli organismi esteri di investimento collettivo in valori mobiliari, non rientranti nell'applicazione delle [direttive n. 85/611/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;611) e [n. 88/220/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;220);
+Visto l'[art. 22, comma 1, lettera h), della legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), concernente la disciplina autorizzatoria e dei controlli relativa agli organismi esteri di investimento collettivo in valori mobiliari, non rientranti nell'applicazione delle [direttive n. 85/611/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;611) e [n. 88/220/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;220);
 
 Vista le deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 gennaio 1992;
 
@@ -28,7 +28,7 @@ E M A N A il seguente decreto legislativo:
 -------------
  
 AGGIORNAMENTO (1) 
-Il [D. Lgs. 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera j)) che "Sono abrogati, ma continuano a essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del presente decreto:(...) 
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera j)) che "Sono abrogati, ma continuano a essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del presente decreto:(...) 
 j) gli [articoli 1](Disciplina%20dellofferta%20al%20pubblico%20in%20Italia%20di%20quote%20di%20fondi%20comuni%20di%20investimento%20collettivo%20in%20valori%20mobiliari%20esteri%20non%20rientranti%20nellambito%20di%20applicazione%20delle%20direttive%20n.%2085_31ea08eb894a.md) e [2, comma 2, lettera a), del decreto legislativo 27 gennaio 1992, n. 86](Disciplina%20dellofferta%20al%20pubblico%20in%20Italia%20di%20quote%20di%20fondi%20comuni%20di%20investimento%20collettivo%20in%20valori%20mobiliari%20esteri%20non%20rientranti%20nellambito%20di%20applicazione%20delle%20direttive%20n.%2085_31ea08eb894a.md)."
 
 ## Art. 2.
@@ -39,7 +39,7 @@ j) gli [articoli 1](Disciplina%20dellofferta%20al%20pubblico%20in%20Italia%20di%
 -------------
  
 AGGIORNAMENTO (1) 
-Il [D. Lgs. 24 febbraio 1998, n. 58](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera j)) che "Sono abrogati, ma continuano a essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del presente decreto:(...) 
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera j)) che "Sono abrogati, ma continuano a essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del presente decreto:(...) 
 j) gli [articoli 1](Disciplina%20dellofferta%20al%20pubblico%20in%20Italia%20di%20quote%20di%20fondi%20comuni%20di%20investimento%20collettivo%20in%20valori%20mobiliari%20esteri%20non%20rientranti%20nellambito%20di%20applicazione%20delle%20direttive%20n.%2085_31ea08eb894a.md) e [2, comma 2, lettera a), del decreto legislativo 27 gennaio 1992, n. 86](Disciplina%20dellofferta%20al%20pubblico%20in%20Italia%20di%20quote%20di%20fondi%20comuni%20di%20investimento%20collettivo%20in%20valori%20mobiliari%20esteri%20non%20rientranti%20nellambito%20di%20applicazione%20delle%20direttive%20n.%2085_31ea08eb894a.md)."
 
 ## Art. 3.

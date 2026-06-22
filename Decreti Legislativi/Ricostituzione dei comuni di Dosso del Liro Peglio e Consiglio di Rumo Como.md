@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Art. 1.
 
-I comuni di Dosso del Liro, Peglio e Consiglio di Rumo, aggregati a quello di Gravedona, rispettivamente con i [regi decreti 18 marzo 1928, n. 658](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Dosso%20del%20Liro%20Peglio%20e%20Traversa%20al%20comune%20di%20Gravedona.%20028U0658.md) e [25 ottobre 1928, n. 2523](../Regi%20decreti/Aggregazione%20del%20comune%20di%20Consiglio%20di%20Rumo%20a%20quello%20di%20Gravedona.%20028U2523.md), sono ricostituiti con la circoscrizione preesistente all'entrata in vigore dei decreti medesimi.
+I comuni di Dosso del Liro, Peglio e Consiglio di Rumo, aggregati a quello di Gravedona, rispettivamente con i [regi decreti 18 marzo 1928, n. 658](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20dei%20comuni%20di%20Dosso%20del%20Liro%20Peglio%20e%20Traversa%20al%20comune%20di%20Gravedona.%20028U0658.md) e [25 ottobre 1928, n. 2523](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20del%20comune%20di%20Consiglio%20di%20Rumo%20a%20quello%20di%20Gravedona.%20028U2523.md), sono ricostituiti con la circoscrizione preesistente all'entrata in vigore dei decreti medesimi.
  Il Prefetto di Como, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni suddetti.
 
 ## Art. 2.

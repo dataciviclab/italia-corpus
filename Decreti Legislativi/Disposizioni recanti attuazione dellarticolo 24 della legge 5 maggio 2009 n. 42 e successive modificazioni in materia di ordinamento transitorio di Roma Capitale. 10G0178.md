@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli articoli 76, 87, quinto comma, 117 e 119, della Costituzione;
 
-Vista la [legge 5 maggio 2009, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), recante delega al Governo in materia di federalismo fiscale, in attuazione dell'[articolo 119 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_119), e in particolare l'articolo 24, relativo all'ordinamento transitorio di Roma Capitale ai sensi dell'[articolo 114, terzo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_114-com3);
+Vista la [legge 5 maggio 2009, n. 42](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), recante delega al Governo in materia di federalismo fiscale, in attuazione dell'[articolo 119 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_119), e in particolare l'articolo 24, relativo all'ordinamento transitorio di Roma Capitale ai sensi dell'[articolo 114, terzo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_114-com3);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 giugno 2010;
 
@@ -20,13 +20,13 @@ Sentiti la Regione Lazio, la Provincia di Roma e il Comune di Roma;
 
 Vista l'intesa sancita in sede di Conferenza unificata ai sensi dell'[articolo 3 del decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), nella riunione del 29 luglio 2010;
 
-Visti il parere della Commissione parlamentare per l'attuazione del federalismo fiscale di cui all'[articolo 3 della legge 5 maggio 2009, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), e i pareri delle Commissioni parlamentari competenti per le conseguenze di carattere finanziario della Camera dei deputati e del Senato della Repubblica;
+Visti il parere della Commissione parlamentare per l'attuazione del federalismo fiscale di cui all'[articolo 3 della legge 5 maggio 2009, n. 42](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), e i pareri delle Commissioni parlamentari competenti per le conseguenze di carattere finanziario della Camera dei deputati e del Senato della Repubblica;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 settembre 2010;
 
 Sulla proposta del Ministro dell'economia e delle finanze, del Ministro per le riforme per il federalismo, del Ministro per la semplificazione normativa, del Ministro per i rapporti con le regioni e per la coesione territoriale e del Ministro per le politiche europee, di concerto con i Ministri dell'interno e per la pubblica amministrazione e l'innovazione;
 
-Ritenuto di dover adottare, nell'ambito di quanto previsto dall'[articolo 24 della legge 5 maggio 2009, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), un primo decreto legislativo concernente esclusivamente l'assetto istituzionale di Roma Capitale;
+Ritenuto di dover adottare, nell'ambito di quanto previsto dall'[articolo 24 della legge 5 maggio 2009, n. 42](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), un primo decreto legislativo concernente esclusivamente l'assetto istituzionale di Roma Capitale;
 
 Emana il seguente decreto legislativo:
 
@@ -34,7 +34,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Il presente decreto reca disposizioni fondamentali dell'ordinamento di Roma Capitale ai sensi dell'[articolo 24 della legge 5 maggio 2009, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), e successive modificazioni.
+Il presente decreto reca disposizioni fondamentali dell'ordinamento di Roma Capitale ai sensi dell'[articolo 24 della legge 5 maggio 2009, n. 42](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), e successive modificazioni.
 
 2.
 
@@ -44,7 +44,7 @@ NOTE
  Avvertenza: 
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art.10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n.1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Note all'art. 1: 
- - Si riporta il testo dell'[art. 24 della legge 5 maggio 2009, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md) (Delega al Governo in materia di federalismo fiscale, in attuazione dell'articolo 119 della Costituzione.): 
+ - Si riporta il testo dell'[art. 24 della legge 5 maggio 2009, n. 42](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md) (Delega al Governo in materia di federalismo fiscale, in attuazione dell'articolo 119 della Costituzione.): 
  «Art. 24 (Ordinamento transitorio di Roma capitale ai sensi dell'[art. 114, terzo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_114-com3)). - 1.
  In sede di prima applicazione, fino all'attuazione della disciplina delle citta' metropolitane, il presente articolo detta norme transitorie sull'ordinamento, anche finanziario, di Roma capitale. 
  2. Roma capitale e' un ente territoriale, i cui attuali confini sono quelli del comune di Roma, e dispone di speciale autonomia, statutaria, amministrativa e finanziaria, nei limiti stabiliti dalla Costituzione.
@@ -92,7 +92,7 @@ Al Presidente sono attribuiti i poteri di convocazione e direzione dei lavori e 
 
 4.
 
-L'Assemblea capitolina, dopo l'entrata in vigore del decreto legislativo di cui all'[articolo 24, comma 5, lettera a), della legge 5 maggio 2009, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), disciplina con propri regolamenti l'esercizio delle funzioni di cui al [comma 3 dell'articolo 24 della legge 5 maggio 2009, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), in conformita' al principio di funzionalita' rispetto alle attribuzioni di Roma Capitale, secondo quanto previsto dal comma 4 del citato articolo 24.
+L'Assemblea capitolina, dopo l'entrata in vigore del decreto legislativo di cui all'[articolo 24, comma 5, lettera a), della legge 5 maggio 2009, n. 42](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), disciplina con propri regolamenti l'esercizio delle funzioni di cui al [comma 3 dell'articolo 24 della legge 5 maggio 2009, n. 42](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), in conformita' al principio di funzionalita' rispetto alle attribuzioni di Roma Capitale, secondo quanto previsto dal comma 4 del citato articolo 24.
 
 5.
 
@@ -108,7 +108,7 @@ Lo statuto stabilisce i casi di decadenza dei Consiglieri per la non giustificat
 
 8.
 
-Lo statuto ed i regolamenti di cui al comma 4 prevedono e disciplinano, nei limiti delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente e nel rispetto di quanto previsto dall'articolo 6, forme di monitoraggio e controllo da affidare ad organismi posti in posizione di autonomia rispetto alla Giunta capitolina, finalizzate a garantire, nell'esercizio delle funzioni riconducibili ai livelli essenziali delle prestazioni e delle funzioni fondamentali, il rispetto degli standard e degli obiettivi di servizio definiti dai decreti legislativi di cui all'[articolo 2 della legge 5 maggio 2009, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), nonche' l'efficace tutela dei diritti dei cittadini.
+Lo statuto ed i regolamenti di cui al comma 4 prevedono e disciplinano, nei limiti delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente e nel rispetto di quanto previsto dall'articolo 6, forme di monitoraggio e controllo da affidare ad organismi posti in posizione di autonomia rispetto alla Giunta capitolina, finalizzate a garantire, nell'esercizio delle funzioni riconducibili ai livelli essenziali delle prestazioni e delle funzioni fondamentali, il rispetto degli standard e degli obiettivi di servizio definiti dai decreti legislativi di cui all'[articolo 2 della legge 5 maggio 2009, n. 42](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), nonche' l'efficace tutela dei diritti dei cittadini.
 
 9.
 
@@ -134,8 +134,8 @@ Il Sindaco di Roma Capitale nomina, ((nel rispetto del principio di pari opportu
 
 5.
 
-Gli Assessori sono nominati dal Sindaco, anche al di fuori dei componenti dell'Assemblea capitolina, fra i cittadini in possesso dei requisiti di candidabilita', eleggibilita' e compatibilita' alla carica di consigliere dell'Assemblea. PERIODO ABROGATO DAL [D.LGS. 18 APRILE 2012, N. 61](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20recanti%20attuazione%20dellarticolo%2024%20della%20legge%205%20maggio%202009%20n.%2042%20in%20materia%20di%20ordinamento%20di%20Roma%20Capitale.%2012G0082.md). PERIODO ABROGATO DAL [D.LGS. 18 APRILE 2012, N.
-61](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20recanti%20attuazione%20dellarticolo%2024%20della%20legge%205%20maggio%202009%20n.%2042%20in%20materia%20di%20ordinamento%20di%20Roma%20Capitale.%2012G0082.md).
+Gli Assessori sono nominati dal Sindaco, anche al di fuori dei componenti dell'Assemblea capitolina, fra i cittadini in possesso dei requisiti di candidabilita', eleggibilita' e compatibilita' alla carica di consigliere dell'Assemblea. PERIODO ABROGATO DAL [D.LGS. 18 APRILE 2012, N. 61](Ulteriori%20disposizioni%20recanti%20attuazione%20dellarticolo%2024%20della%20legge%205%20maggio%202009%20n.%2042%20in%20materia%20di%20ordinamento%20di%20Roma%20Capitale.%2012G0082.md). PERIODO ABROGATO DAL [D.LGS. 18 APRILE 2012, N.
+61](Ulteriori%20disposizioni%20recanti%20attuazione%20dellarticolo%2024%20della%20legge%205%20maggio%202009%20n.%2042%20in%20materia%20di%20ordinamento%20di%20Roma%20Capitale.%2012G0082.md).
 
 6.
 

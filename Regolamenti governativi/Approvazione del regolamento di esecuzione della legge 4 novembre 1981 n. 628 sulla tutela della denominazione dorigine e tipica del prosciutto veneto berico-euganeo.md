@@ -489,7 +489,7 @@ In caso di accertata violazione alle disposizioni previste dalla legge e dal pre
 
 1.
 
-L'espletamento dei compiti di vigilanza affidati ad un consorzio volontario di produzione, a norma dell'art. 11 della legge, e' svolto da ispettori cui sia stata riconosciuta dal prefetto di Padova la qualifica di guardia particolare, ai sensi degli [articoli 133](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [138 del regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e del relativo regolamento.
+L'espletamento dei compiti di vigilanza affidati ad un consorzio volontario di produzione, a norma dell'art. 11 della legge, e' svolto da ispettori cui sia stata riconosciuta dal prefetto di Padova la qualifica di guardia particolare, ai sensi degli [articoli 133](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [138 del regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e del relativo regolamento.
 Essi sono obbligati al segreto dei fatti di cui hanno comunque conoscenza, a cagione del loro ufficio.
 
 2.
@@ -497,7 +497,7 @@ Essi sono obbligati al segreto dei fatti di cui hanno comunque conoscenza, a cag
 Il consorzio deve emanare il regolamento organico del personale di vigilanza e di quello comunque addetto alle operazioni previste dal presente regolamento.
 
 Nota all'[art. 24:
- Il R.D. n. 773/1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;773#art_24) approva il [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
+ Il R.D. n. 773/1931](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931;773#art_24) approva il [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
 
 ## Art. 25.
 

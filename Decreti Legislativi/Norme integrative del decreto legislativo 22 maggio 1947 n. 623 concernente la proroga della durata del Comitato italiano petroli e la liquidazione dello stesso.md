@@ -43,7 +43,7 @@ Il Comitato di vigilanza ed ogni suo membro possono sempre ispezionare i documen
 
 ## Art. 6.
 
-Il controllo contabile sugli atti della liquidazione e' esercitato dal Collegio dei revisori dei conti, previsto nell'[art. 7 del decreto legislativo luogotenenziale 1 marzo 1945, n. 138](../Decreti%20legislativi%20luogotenenziali/Costituzione%20del%20Comitato%20Italiano%20Petroli%20C.I.P..%20045U0138.md).
+Il controllo contabile sugli atti della liquidazione e' esercitato dal Collegio dei revisori dei conti, previsto nell'[art. 7 del decreto legislativo luogotenenziale 1 marzo 1945, n. 138](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20del%20Comitato%20Italiano%20Petroli%20C.I.P..%20045U0138.md).
 
 ## Art. 7.
 

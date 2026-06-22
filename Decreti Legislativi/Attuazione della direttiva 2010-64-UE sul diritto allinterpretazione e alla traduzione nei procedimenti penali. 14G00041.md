@@ -22,7 +22,7 @@ Visto il [decreto legislativo 28 luglio 1989, n. 271](Norme%20di%20attuazione%20
 
 Visto il [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md), recante [testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md);
 
-Vista la [legge 6 agosto 2013, n. 96](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013.%2013G00137.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea, ed in particolare, l'allegato B;
+Vista la [legge 6 agosto 2013, n. 96](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013.%2013G00137.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea, ed in particolare, l'allegato B;
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 3 dicembre 2013;
 

@@ -66,9 +66,9 @@ Sono condonate le sanzioni stabilite dagli [articoli 25](../Regi%20decreti/Appro
 
 Sono condonate le sopratasse o le pene pecuniarie stabilite dalle seguenti leggi e successive aggiunte e modificazioni: 
  
- a) [R. decreto 24 marzo 1907, n. 237](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20sulla%20conservazione%20degli%20antichi%20catasti%20dei%20terreni%20e%20di%20quello%20urbano.%20007U0237.md), relativo alla conservazione degli antichi catasti; 
+ a) [R. decreto 24 marzo 1907, n. 237](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%20sulla%20conservazione%20degli%20antichi%20catasti%20dei%20terreni%20e%20di%20quello%20urbano.%20007U0237.md), relativo alla conservazione degli antichi catasti; 
  
- b) [R. decreto 8 ottobre 1931, n. 1572](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20nuovo%20catasto.%20031U1572.md), relativo al nuovo catasto terreni; 
+ b) [R. decreto 8 ottobre 1931, n. 1572](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20nuovo%20catasto.%20031U1572.md), relativo al nuovo catasto terreni; 
  
  c) [R. decreto 8 dicembre 1938, n. 2153](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20conservazione%20del%20nuovo%20Catasto%20dei%20terreni.%20038U2153.md), relativo alla conservazione del nuovo catasto terreni.
 
@@ -76,29 +76,29 @@ Sono condonate le sopratasse o le pene pecuniarie stabilite dalle seguenti leggi
 
 Sono condonate le sopratasse e le pene pecuniarie per coloro che siano incorsi in violazioni delle leggi appresso indicate o delle rispettive leggi modificative ed integrative: 
  
- a) [R. decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), concernente la, tassa di bollo; 
+ a) [R. decreto 30 dicembre 1923, n. 3268](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md), concernente la, tassa di bollo; 
  
- b) [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), concernente l'imposta di registro compresa la cessata imposta speciale di cui al R. decreto-legge 14 giugno 1940, 643, convertito nella [legge 21 Ottobre 1940, n. 1511](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2014%20giugno%201940-XVIII%20n.%20643%20riguardante%20ladeguamento%20dellimposta%20di%20registro%20al%20plusvalore%20dei%20beni%20immobili%20nei%20trasferimenti%20_4497505da65d.md). 
+ b) [R. decreto 30 dicembre 1923, n. 3269](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), concernente l'imposta di registro compresa la cessata imposta speciale di cui al R. decreto-legge 14 giugno 1940, 643, convertito nella [legge 21 Ottobre 1940, n. 1511](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2014%20giugno%201940-XVIII%20n.%20643%20riguardante%20ladeguamento%20dellimposta%20di%20registro%20al%20plusvalore%20dei%20beni%20immobili%20nei%20trasferimenti%20_4497505da65d.md). 
  
  Sono comprese nell'esenzione le sopratasse richiamate nell'art. 110 della sopracitata legge sulle imposte di registro, fermo peraltro l'obbligo del pagamento delle imposte ordinarie; 
  
  c) [R. decreto-legge 30 dicembre 1923, n. 3270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;3270), sull'imposta di successione; 
  
- d) [R. decreto 30 dicembre 1923, n. 3271](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20tributaria%20sulla%20manomorta.%20023U3271.md), sull'imposta di manomorta ; 
+ d) [R. decreto 30 dicembre 1923, n. 3271](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20tributaria%20sulla%20manomorta.%20023U3271.md), sull'imposta di manomorta ; 
  
- e) [R. decreto 30 dicembre 1923, n. 3272](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ipotecarie.%20023U3272.md), sull'imposta ipotecaria; 
+ e) [R. decreto 30 dicembre 1923, n. 3272](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ipotecarie.%20023U3272.md), sull'imposta ipotecaria; 
  
- f) [R. decreto 30 dicembre 1923, n. 3275](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20di%20bollo%20sul%20trasporti.%20023U3275.md), concernente bollo sui documenti di trasporto; 
+ f) [R. decreto 30 dicembre 1923, n. 3275](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20di%20bollo%20sul%20trasporti.%20023U3275.md), concernente bollo sui documenti di trasporto; 
  
- g) [R. decreto 30 dicembre 1923, n. 3276](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20dei%20diritti%20erariali%20sugli%20spettacoli.%20023U3276.md), sui diritti erariali sugli spettacoli; 
+ g) [R. decreto 30 dicembre 1923, n. 3276](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20dei%20diritti%20erariali%20sugli%20spettacoli.%20023U3276.md), sui diritti erariali sugli spettacoli; 
  
- h) [R. decreto 30 dicembre 1923, n. 3279](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20concessioni%20governative.%20023U3279.md), concessioni governative; 
+ h) [R. decreto 30 dicembre 1923, n. 3279](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20concessioni%20governative.%20023U3279.md), concessioni governative; 
  
- i) [R. decreto 30 dicembre 1923, n. 3280](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20in%20surrogazione%20del%20bollo%20e%20del%20registro.%20023U3280.md) sulle imposte in surrogazione del bollo e del registro e [R. decreto-legge 15 dicembre 1938, n. 1975](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20vigente%20regime%20dellimposta%20di%20negoziazione%20sui%20titoli%20delle%20societa.%20038U1975.md), sulla imposta di negoziazione, convertito nella [legge 2 giugno 1939 n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md); 
+ i) [R. decreto 30 dicembre 1923, n. 3280](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20in%20surrogazione%20del%20bollo%20e%20del%20registro.%20023U3280.md) sulle imposte in surrogazione del bollo e del registro e [R. decreto-legge 15 dicembre 1938, n. 1975](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20vigente%20regime%20dellimposta%20di%20negoziazione%20sui%20titoli%20delle%20societa.%20038U1975.md), sulla imposta di negoziazione, convertito nella [legge 2 giugno 1939 n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md); 
  
- l) [R. decreto 30 dicembre 1923, n. 3281](../Regi%20decreti/Approvazione%20del%20testo%20della%20legge%20tributaria%20sulle%20assicurazioni.%20023U3281.md), sulle assicurazioni e sui contratti vitalizi; 
+ l) [R. decreto 30 dicembre 1923, n. 3281](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20della%20legge%20tributaria%20sulle%20assicurazioni.%20023U3281.md), sulle assicurazioni e sui contratti vitalizi; 
  
- m) [R. decreto 30 dicembre 1923, n. 3283](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), sulle tasse automobilistiche; 
+ m) [R. decreto 30 dicembre 1923, n. 3283](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20sulle%20tasse%20ciclistiche%20e%20automobilistiche.%20023U3283.md), sulle tasse automobilistiche; 
  
  n) [Legge 28 luglio 1930, n. 1011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-07-28;1011), sull'abolita tassa di scambio; 
  
@@ -106,7 +106,7 @@ Sono condonate le sopratasse e le pene pecuniarie per coloro che siano incorsi i
  
  p) [Legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), istitutiva di una imposta generale sull'entrata e [R. decreto-legge 3 giugno 1943, n. 452](../Atti%20normativi%20abrogati%20%28in%20originale%29/Addizionale%20straordinaria%20di%20guerra%20allimposta%20generale%20sullentrata.%20043U0452.md), istitutivo di una addizionale straordinaria di guerra; 
  
- q) [R. decreto 9 marzo 1942, n. 357](../Testi%20Unici/Testo%20unico%20delle%20disposizioni%20in%20materia%20dimposta%20sul%20plusvalore%20e%20di%20sovrimposta%20di%20negoziazione%20dei%20titoli%20azionari%20e%20nuova%20aliquota%20dellimposta%20di%20negoziazione.%20042U0357.md), portante norme sull'imposta sul plusvalore e sovrimposta di negoziazione dei titoli azionari; 
+ q) [R. decreto 9 marzo 1942, n. 357](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20in%20materia%20dimposta%20sul%20plusvalore%20e%20di%20sovrimposta%20di%20negoziazione%20dei%20titoli%20azionari%20e%20nuova%20aliquota%20dellimposta%20di%20negoziazione.%20042U0357.md), portante norme sull'imposta sul plusvalore e sovrimposta di negoziazione dei titoli azionari; 
  
  r) [R. decreto-legge 4 maggio 1942, n. 434](../Atti%20normativi%20abrogati%20%28in%20originale%29/Imposta%20sul%20valore%20netto%20globale%20delle%20successioni.%20042U0434.md), concernente l'imposta sul valore netto globale delle successioni, convertito nella, [legge 18 ottobre 1942, n. 1220](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20maggio%201942-XX%20n.%20434%20concernente%20limposta%20sul%20valore%20netto%20globale%20delle%20successioni.%20042U1220.md).
 
@@ -114,7 +114,7 @@ Sono condonate le sopratasse e le pene pecuniarie per coloro che siano incorsi i
 
 E' condonata la pena pecuniaria: 
  
- a) per coloro che anteriormente alla data del presente decreto siano incorsi in violazioni degli articoli 111, esclusa la lettera e) , 112, 113 e 114 del regolamento per la coltivazione dei tabacco, approvato con [R. decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), modificato con, [R. decreto 24 novembre 1932, n. 1571](../Regi%20decreti/Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20032U1571.md); 
+ a) per coloro che anteriormente alla data del presente decreto siano incorsi in violazioni degli articoli 111, esclusa la lettera e) , 112, 113 e 114 del regolamento per la coltivazione dei tabacco, approvato con [R. decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), modificato con, [R. decreto 24 novembre 1932, n. 1571](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20032U1571.md); 
  
  b) per i magazzinieri ed i rivenditori di generi di monopolio, che siano incorsi in violazioni delle norma sull'ordinamento dei servizi.
 

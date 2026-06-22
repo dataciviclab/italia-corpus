@@ -167,7 +167,7 @@ Il Decreto 31 dicembre 2015 (in G.U. 02/02/2016, n. 26) ha disposto (con l'art. 
 
 1.
 
-E' vietata la commercializzazione di combustibile diesel non conforme alle specifiche di cui all'Allegato II. E' fatto salvo quanto previsto dall'[articolo 8, comma 1, del decreto legislativo 30 maggio 2005, n. 128](Attuazione%20della%20direttiva%202003-30-CE%20relativa%20alla%20promozione%20delluso%20dei%20biocarburanti%20o%20di%20altri%20carburanti%20rinnovabili%20nei%20trasporti.md).
+E' vietata la commercializzazione di combustibile diesel non conforme alle specifiche di cui all'Allegato II. E' fatto salvo quanto previsto dall'[articolo 8, comma 1, del decreto legislativo 30 maggio 2005, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-30-CE%20relativa%20alla%20promozione%20delluso%20dei%20biocarburanti%20o%20di%20altri%20carburanti%20rinnovabili%20nei%20trasporti.md).
 
 2.
 

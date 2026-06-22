@@ -18,7 +18,7 @@ Promulga la seguente legge:
 
 1.
 
-Il [decreto-legge 12 giugno 2001, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-06-12;217), recante modificazioni al [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), nonche' alla [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), in materia di organizzazione del Governo, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 12 giugno 2001, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-06-12;217), recante modificazioni al [decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), nonche' alla [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), in materia di organizzazione del Governo, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
 2.
 

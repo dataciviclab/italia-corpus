@@ -10,103 +10,103 @@ vigente: true
 
 ## Art. 1.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 2.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 3.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 4.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 5.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 6.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 7.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 8.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 9.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 10.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 11.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 12.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 13.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 14.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 15.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 16.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 17.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 18.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 19.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 20.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 21.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 22.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 23.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 24.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 25.
 
-((IL [D.LGS. 6 NOVEMBRE 2007, N.193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 6 NOVEMBRE 2007, N.193](Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Art. 26.
 

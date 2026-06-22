@@ -656,7 +656,7 @@ sei mesi dalla data di entrata in vigore della presente legge."
 
  
 AGGIORNAMENTO (7) 
-La [L. 24 aprile 1998, n. 128](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md) ha disposto (con l'art. 51, comma 2) che il numero 2) della lettera g) del comma 1 del presente articolo "deve intendersi nel senso che gli oneri derivanti dalle attivita' di informazione, consulenza ed assistenza in materia antinfortunistica e di prevenzione svolte da istituzioni ed enti pubblici di formazione in detta materia sono a carico del datore di lavoro; qualora il datore di lavoro sia un'amministrazione pubblica, ai predetti oneri si provvede con le ordinarie risorse di bilancio dell'amministrazione interessata".
+La [L. 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md) ha disposto (con l'art. 51, comma 2) che il numero 2) della lettera g) del comma 1 del presente articolo "deve intendersi nel senso che gli oneri derivanti dalle attivita' di informazione, consulenza ed assistenza in materia antinfortunistica e di prevenzione svolte da istituzioni ed enti pubblici di formazione in detta materia sono a carico del datore di lavoro; qualora il datore di lavoro sia un'amministrazione pubblica, ai predetti oneri si provvede con le ordinarie risorse di bilancio dell'amministrazione interessata".
 
 ### Art. 44. — (Sostanze e preparati pericolosi: criteri di delega)
 
@@ -958,11 +958,11 @@ L'attuazione della [direttiva del Consiglio 89/104/CEE](https://www.normattiva.i
 
 2.
 
-Ai fini dell'attuazione della direttiva di cui al comma 1, saranno apportate le necessarie modifiche alle norme del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), alle disposizioni di cui al [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), alle disposizioni approvate con [decreto del Presidente della Repubblica 8 maggio 1948, n. 795](../DPR/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20marchi%20registrati.md), nonche' ad ogni altra disposizione incompatibile.
+Ai fini dell'attuazione della direttiva di cui al comma 1, saranno apportate le necessarie modifiche alle norme del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), alle disposizioni di cui al [regio decreto 21 giugno 1942, n. 929](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), alle disposizioni approvate con [decreto del Presidente della Repubblica 8 maggio 1948, n. 795](../DPR/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20marchi%20registrati.md), nonche' ad ogni altra disposizione incompatibile.
 
 3.
 
-Le disposizioni transitorie dovranno tener conto. oltreche' dei criteri fissati nella direttiva, di quelli derivanti dagli [articoli 81 e seguenti del regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), in quanto applicabili.
+Le disposizioni transitorie dovranno tener conto. oltreche' dei criteri fissati nella direttiva, di quelli derivanti dagli [articoli 81 e seguenti del regio decreto 21 giugno 1942, n. 929](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), in quanto applicabili.
 
 ### Art. 63. — (Transito di energia elettrica sulle grandi reti)
 

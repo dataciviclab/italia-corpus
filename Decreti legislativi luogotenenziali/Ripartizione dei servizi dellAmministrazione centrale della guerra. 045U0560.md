@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 9 marzo 1942, n. 335](../Regi%20decreti/Riordinamento%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20042U0335.md), e successive modificazioni;
+Visto il [R. decreto 9 marzo 1942, n. 335](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20042U0335.md), e successive modificazioni;
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n.100](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per la guerra, di concerto col Ministro per il tesor
 
 ## Art. 1.
 
-L'[art. 1 del R. decreto 9 marzo 1942, n. 335](../Regi%20decreti/Riordinamento%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20042U0335.md), quale risulta modificato dal [R. decreto 18 maggio 1943, n. 650](../Regi%20decreti/Modificazione%20del%20decreto%209%20marzo%201942-XX%20n.%20335%20riguardante%20il%20riordinamento%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20043U0650.md), e dal [decreto Luogotenenziale 7 settembre 1944, n. 274](Riordinamento%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20044U0274.md), e' sostituito dal seguente: 
+L'[art. 1 del R. decreto 9 marzo 1942, n. 335](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20042U0335.md), quale risulta modificato dal [R. decreto 18 maggio 1943, n. 650](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20del%20decreto%209%20marzo%201942-XX%20n.%20335%20riguardante%20il%20riordinamento%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20043U0650.md), e dal [decreto Luogotenenziale 7 settembre 1944, n. 274](Riordinamento%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20044U0274.md), e' sostituito dal seguente: 
  
  «La ripartizione dei servizi dell'Amministrazione centrale della guerra e' la seguente: 
  
@@ -65,7 +65,7 @@ L'[art. 1 del R. decreto 9 marzo 1942, n. 335](../Regi%20decreti/Riordinamento%2
 
 AGGIORNAMENTO (1)
 
-Il [Decreto del Capo Provvisorio dello Stato 21 novembre 1946, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-11-21;425) ha disposto (con l'art. 1, comma 1) che " Nella ripartizione dei servizi dell'Amministrazione centrale della guerra di cui all'[art. 1 del decreto luogotenenziale 31 luglio 1945, n. 560](Ripartizione%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20045U0560.md), e' soppressa la Direzione generale di artiglieria e della motorizzazione e sono costituiti la Direzione generale di artiglieria e l'ispettorato generale della motorizzazione".
+Il [Decreto del Capo Provvisorio dello Stato 21 novembre 1946, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-11-21;425) ha disposto (con l'art. 1, comma 1) che " Nella ripartizione dei servizi dell'Amministrazione centrale della guerra di cui all'[art. 1 del decreto luogotenenziale 31 luglio 1945, n. 560](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ripartizione%20dei%20servizi%20dellAmministrazione%20centrale%20della%20guerra.%20045U0560.md), e' soppressa la Direzione generale di artiglieria e della motorizzazione e sono costituiti la Direzione generale di artiglieria e l'ispettorato generale della motorizzazione".
 
 ## Art. 2.
 

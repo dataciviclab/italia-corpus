@@ -16,7 +16,7 @@ Vista la [legge 29 marzo 1983, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn
 
 Visto l'[art. 2 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md);
 
-Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modifiche ed integrazioni;
+Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modifiche ed integrazioni;
 
 Visto il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, di cui al [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e relative modifiche ed integrazioni;
 
@@ -126,7 +126,7 @@ Non possono essere assunti nelle pubbliche amministrazioni coloro che siano stat
 
 AGGIORNAMENTO (6)
 
-Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69) convertito con modificazioni dalla [L. 9 agosto 2013, n. 98](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%202013%20n.%2069%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20delleconomia.%2013G00140.md) ha disposto (con l'art. 42, comma 1, lettera d)) che, fermi restando gli obblighi di certificazione previsti dal [decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md) per i lavoratori soggetti a sorveglianza sanitaria, e' abrogata la disposizione concernente l'obbligo del certificato di idoneita' fisica per l'assunzione nel pubblico impiego di cui al numero 3), comma 1 del presente articolo.
+Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69) convertito con modificazioni dalla [L. 9 agosto 2013, n. 98](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%202013%20n.%2069%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20delleconomia.%2013G00140.md) ha disposto (con l'art. 42, comma 1, lettera d)) che, fermi restando gli obblighi di certificazione previsti dal [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md) per i lavoratori soggetti a sorveglianza sanitaria, e' abrogata la disposizione concernente l'obbligo del certificato di idoneita' fisica per l'assunzione nel pubblico impiego di cui al numero 3), comma 1 del presente articolo.
 
 ### Art. 3. — (( (Bando di concorso). ))
 
@@ -183,7 +183,7 @@ Ciascuna amministrazione, inoltre, deve garantire un servizio di assistenza di t
 
 1.
 
-Alle procedure di concorso si partecipa esclusivamente previa registrazione nel Portale unico del reclutamento, di cui all'[articolo 35-ter del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), di seguito denominato Portale, disponibile all'indirizzo www.InPA.gov.it sviluppato dal Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri, che ne cura la gestione. La registrazione allo stesso e' gratuita e puo' essere realizzata esclusivamente mediante i sistemi di identificazione SPID, CIE e CNS di cui all'articolo 64, commi 2-quater e 2-nonies, del [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md) ovvero mediante un'identita' digitale basata su credenziali di livello almeno significativo nell'ambito di un regime di identificazione elettronica oggetto di notifica, conclusa con esito positivo, ai sensi dell'articolo 9 del regolamento (UE), n. 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014.
+Alle procedure di concorso si partecipa esclusivamente previa registrazione nel Portale unico del reclutamento, di cui all'[articolo 35-ter del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), di seguito denominato Portale, disponibile all'indirizzo www.InPA.gov.it sviluppato dal Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri, che ne cura la gestione. La registrazione allo stesso e' gratuita e puo' essere realizzata esclusivamente mediante i sistemi di identificazione SPID, CIE e CNS di cui all'articolo 64, commi 2-quater e 2-nonies, del [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md) ovvero mediante un'identita' digitale basata su credenziali di livello almeno significativo nell'ambito di un regime di identificazione elettronica oggetto di notifica, conclusa con esito positivo, ai sensi dell'articolo 9 del regolamento (UE), n. 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014.
 
 2.
 
@@ -211,7 +211,7 @@ All'atto della registrazione al Portale l'interessato compila il proprio curricu
 
 3.
 
-La registrazione al Portale comporta il consenso al trattamento dei dati personali nel rispetto della disciplina del regolamento (UE) n. 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, e del [decreto legislativo 30 giugno 2003, n. 196](../Decreti%20Legislativi/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md).
+La registrazione al Portale comporta il consenso al trattamento dei dati personali nel rispetto della disciplina del regolamento (UE) n. 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, e del [decreto legislativo 30 giugno 2003, n. 196](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md).
 
 4.
 
@@ -249,7 +249,7 @@ Qualora tra i concorrenti dichiarati idonei nella graduatoria di merito ve ne si
                             a)
                                 riserva di posti a favore di coloro che appartengono alle categorie di cui alla [legge 12 marzo 1999, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68), o equiparate;
                             b)
-                                riserva di posti ai sensi degli [articoli 1014](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) e [678 del codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+                                riserva di posti ai sensi degli [articoli 1014](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) e [678 del codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 4. A parita' di titoli e di merito, e in assenza di ulteriori benefici previsti da leggi speciali, l'ordine di preferenza dei titoli e' il seguente:
 
@@ -760,7 +760,7 @@ L'ufficio provinciale o l'ufficio regionale del lavoro, entro dieci giorni dalla
 
 3.
 
-Le amministrazioni e gli enti richiedenti indicano nella richiesta di avviamento il numero dei posti riservati ai lavoratori aventi diritto ai sensi degli [articoli 678](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) e [1014 del codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+Le amministrazioni e gli enti richiedenti indicano nella richiesta di avviamento il numero dei posti riservati ai lavoratori aventi diritto ai sensi degli [articoli 678](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) e [1014 del codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 ))
 

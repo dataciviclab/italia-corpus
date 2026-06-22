@@ -14,7 +14,7 @@ VISTI gli articoli 76 e 87 della Costituzione;
 
 VISTA la [direttiva (UE) 2018/1972, del Parlamento europeo e del Consiglio, dell'11 dicembre 2018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;1972), che istituisce il Codice europeo delle comunicazioni elettroniche;
 
-VISTA la [legge 22 aprile 2021, n. 53](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202019-2020.%2021G00063.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2019-2020 e, in particolare, l'articolo 4;
+VISTA la [legge 22 aprile 2021, n. 53](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202019-2020.%2021G00063.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2019-2020 e, in particolare, l'articolo 4;
 
 VISTO il [decreto legislativo 1° agosto 2003, n. 259](Codice%20delle%20comunicazioni%20elettroniche.md), recante [codice delle comunicazioni elettroniche](Codice%20delle%20comunicazioni%20elettroniche.md);
 

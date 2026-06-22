@@ -17,7 +17,7 @@ vigente: true
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 13 aprile 2017, n. 66](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20la%20promozione%20dellinclusione%20scolastica%20degli%20studenti%20con%20disabilita%20a%20norma%20dellarticolo%201%20commi%20180%20e%20181%20lettera%20c%20della%20legge%2013%20luglio%202015%20n.%20107.%2017G00074.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 18, comma 1, lettera b)) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1° gennaio 2019 al 1° settembre 2019.
+Il [D.Lgs. 13 aprile 2017, n. 66](../Decreti%20Legislativi/Norme%20per%20la%20promozione%20dellinclusione%20scolastica%20degli%20studenti%20con%20disabilita%20a%20norma%20dellarticolo%201%20commi%20180%20e%20181%20lettera%20c%20della%20legge%2013%20luglio%202015%20n.%20107.%2017G00074.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 18, comma 1, lettera b)) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1° gennaio 2019 al 1° settembre 2019.
 
 ## Art. 2.
 
@@ -28,7 +28,7 @@ Il [D.Lgs. 13 aprile 2017, n. 66](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 13 aprile 2017, n. 66](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20la%20promozione%20dellinclusione%20scolastica%20degli%20studenti%20con%20disabilita%20a%20norma%20dellarticolo%201%20commi%20180%20e%20181%20lettera%20c%20della%20legge%2013%20luglio%202015%20n.%20107.%2017G00074.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 18, comma 1, lettera b)) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1° gennaio 2019 al 1° settembre 2019.
+Il [D.Lgs. 13 aprile 2017, n. 66](../Decreti%20Legislativi/Norme%20per%20la%20promozione%20dellinclusione%20scolastica%20degli%20studenti%20con%20disabilita%20a%20norma%20dellarticolo%201%20commi%20180%20e%20181%20lettera%20c%20della%20legge%2013%20luglio%202015%20n.%20107.%2017G00074.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 18, comma 1, lettera b)) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1° gennaio 2019 al 1° settembre 2019.
 
 ## Art. 3.
 
@@ -39,7 +39,7 @@ Il [D.Lgs. 13 aprile 2017, n. 66](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 13 aprile 2017, n. 66](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20la%20promozione%20dellinclusione%20scolastica%20degli%20studenti%20con%20disabilita%20a%20norma%20dellarticolo%201%20commi%20180%20e%20181%20lettera%20c%20della%20legge%2013%20luglio%202015%20n.%20107.%2017G00074.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 18, comma 1, lettera b)) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1° gennaio 2019 al 1° settembre 2019.
+Il [D.Lgs. 13 aprile 2017, n. 66](../Decreti%20Legislativi/Norme%20per%20la%20promozione%20dellinclusione%20scolastica%20degli%20studenti%20con%20disabilita%20a%20norma%20dellarticolo%201%20commi%20180%20e%20181%20lettera%20c%20della%20legge%2013%20luglio%202015%20n.%20107.%2017G00074.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 18, comma 1, lettera b)) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1° gennaio 2019 al 1° settembre 2019.
 
 ## Art. 4.
 
@@ -50,7 +50,7 @@ Il [D.Lgs. 13 aprile 2017, n. 66](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 13 aprile 2017, n. 66](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20la%20promozione%20dellinclusione%20scolastica%20degli%20studenti%20con%20disabilita%20a%20norma%20dellarticolo%201%20commi%20180%20e%20181%20lettera%20c%20della%20legge%2013%20luglio%202015%20n.%20107.%2017G00074.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 18, comma 1, lettera b)) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1° gennaio 2019 al 1° settembre 2019.
+Il [D.Lgs. 13 aprile 2017, n. 66](../Decreti%20Legislativi/Norme%20per%20la%20promozione%20dellinclusione%20scolastica%20degli%20studenti%20con%20disabilita%20a%20norma%20dellarticolo%201%20commi%20180%20e%20181%20lettera%20c%20della%20legge%2013%20luglio%202015%20n.%20107.%2017G00074.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 18, comma 1, lettera b)) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1° gennaio 2019 al 1° settembre 2019.
 
 ## Art. 5.
 
@@ -61,4 +61,4 @@ Il [D.Lgs. 13 aprile 2017, n. 66](../Leggi%20delega%20e%20relativi%20provvedimen
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 13 aprile 2017, n. 66](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20la%20promozione%20dellinclusione%20scolastica%20degli%20studenti%20con%20disabilita%20a%20norma%20dellarticolo%201%20commi%20180%20e%20181%20lettera%20c%20della%20legge%2013%20luglio%202015%20n.%20107.%2017G00074.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 18, comma 1, lettera b)) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1° gennaio 2019 al 1° settembre 2019.
+Il [D.Lgs. 13 aprile 2017, n. 66](../Decreti%20Legislativi/Norme%20per%20la%20promozione%20dellinclusione%20scolastica%20degli%20studenti%20con%20disabilita%20a%20norma%20dellarticolo%201%20commi%20180%20e%20181%20lettera%20c%20della%20legge%2013%20luglio%202015%20n.%20107.%2017G00074.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 18, comma 1, lettera b)) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1° gennaio 2019 al 1° settembre 2019.

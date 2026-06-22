@@ -55,13 +55,13 @@ Il presente decreto non preclude le negoziazioni volontarie e paritetiche relati
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), non prevede piu' (con l'art. 41, comma 1) che la modifica di cui al comma 2 del presente articolo si applica a decorrere dal 30 giugno 2023.
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), non prevede piu' (con l'art. 41, comma 1) che la modifica di cui al comma 2 del presente articolo si applica a decorrere dal 30 giugno 2023.
 
 ## DEL PROCEDIMENTO DI MEDIAZIONE
 
@@ -89,13 +89,13 @@ La mediazione puo' svolgersi secondo modalita' telematiche previste dal regolame
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), non prevede piu' (con l'art. 41, comma 1) che le modifiche di cui ai commi 1, 2 e 4 del presente articolo si applicano a decorrere dal 30 giugno 2023.
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), non prevede piu' (con l'art. 41, comma 1) che le modifiche di cui ai commi 1, 2 e 4 del presente articolo si applicano a decorrere dal 30 giugno 2023.
 
 ### Art. 4. — Accesso alla mediazione
 
@@ -127,13 +127,13 @@ Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che il comma 3 del presente articolo si applica a decorrere dal 30 giugno 2023 e non prevede piu' che le modifiche di cui ai commi 1 e 2 si applicano a decorrere dal 30 giugno 2023.
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che il comma 3 del presente articolo si applica a decorrere dal 30 giugno 2023 e non prevede piu' che le modifiche di cui ai commi 1 e 2 si applicano a decorrere dal 30 giugno 2023.
 
 ### Art. 5. — (Condizione di procedibilita' e rapporti con il processo)
 
@@ -206,31 +206,31 @@ Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 6 agosto 2015, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
+Il [D.Lgs. 6 agosto 2015, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-11-UE%20sulla%20risoluzione%20alternativa%20delle%20controversie%20dei%20consumatori%20che%20modifica%20il%20regolamento%20CE%20n.%202006-2004%20e%20la%20direttiva%202009-22-CE%20direttiva%20sull_9fb80112dd9d.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto, concernenti l'attuazione del regolamento (UE) n. 524/2013 del Parlamento europeo e del Consiglio, del 21 maggio 2013, relativo alla risoluzione delle controversie online dei consumatori, si applicano a decorrere dal 9 gennaio 2016".
 
 -------------
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 21 maggio 2018, n. 68](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202016-97%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20gennaio%202016%20relativa%20alla%20distribuzione%20assicurativa.%2018G00095.md) ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla [direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;411), che modifica la [direttiva (UE) 2016/97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2016;97) per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+Il [D.Lgs. 21 maggio 2018, n. 68](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-97%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20gennaio%202016%20relativa%20alla%20distribuzione%20assicurativa.%2018G00095.md) ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla [direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;411), che modifica la [direttiva (UE) 2016/97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2016;97) per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
 
 -------------
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 10 marzo 2023, n. 28](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
+Il [D.Lgs. 10 marzo 2023, n. 28](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202020-1828%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202020%20relativa%20alle%20azioni%20rappresentative%20a%20tutela%20degli%20interessi%20collettivi%20dei%20consumator_1964ae97a0e7.md), ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
 
 ### Art. 5-bis. — (Procedimento di opposizione a decreto ingiuntivo)
 
@@ -244,13 +244,13 @@ Quando l'azione di cui all'articolo 5, comma 1, e' stata introdotta con ricorso 
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ### Art. 5-ter. — (Legittimazione in mediazione dell'amministratore di condominio)
 
@@ -264,13 +264,13 @@ L'amministratore del condominio e' legittimato ad attivare un procedimento di me
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ### Art. 5-quater. — (Mediazione demandata dal giudice)
 
@@ -292,13 +292,13 @@ All'udienza di cui al comma 1, quando la mediazione non risulta esperita, il giu
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ### Art. 5-quinquies. — (Formazione del magistrato, valutazione del contenzioso definito con mediazione demandata e collaborazione)
 
@@ -324,13 +324,13 @@ Il capo dell'ufficio giudiziario puo' promuovere, senza nuovi o maggiori oneri p
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ### Art. 5-sexies. — (Mediazione su clausola contrattuale o statutaria)
 
@@ -348,13 +348,13 @@ La domanda di mediazione e' presentata all'organismo indicato dalla clausola se 
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ### Art. 6. — (( (Durata). ))
 
@@ -380,7 +380,7 @@ Nei casi di cui al comma 2, le parti comunicano al giudice la proroga del termin
 
 AGGIORNAMENTO (12)
 
-Il [D.Lgs. 27 dicembre 2024, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2010%20ottobre%202022%20n.%20149%20in%20materia%20di%20mediazione%20civile%20e%20commerciale%20e%20negoziazione%20assistita.%2025G00003.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni di cui all'[articolo 6 del decreto legislativo 4 marzo 2010, n. 28](Attuazione%20dellarticolo%2060%20della%20legge%2018%20giugno%202009%20n.%2069%20in%20materia%20di%20mediazione%20finalizzata%20alla%20conciliazione%20delle%20controversie%20civili%20e%20commerciali.%2010G0050.md), come sostituito dall'articolo 1, comma 1, lettera e), del presente decreto, si applicano ai procedimenti di mediazione per i quali alla data di entrata in vigore del presente decreto non e' stato depositato il verbale conclusivo della mediazione".
+Il [D.Lgs. 27 dicembre 2024, n. 216](Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2010%20ottobre%202022%20n.%20149%20in%20materia%20di%20mediazione%20civile%20e%20commerciale%20e%20negoziazione%20assistita.%2025G00003.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni di cui all'[articolo 6 del decreto legislativo 4 marzo 2010, n. 28](Attuazione%20dellarticolo%2060%20della%20legge%2018%20giugno%202009%20n.%2069%20in%20materia%20di%20mediazione%20finalizzata%20alla%20conciliazione%20delle%20controversie%20civili%20e%20commerciali.%2010G0050.md), come sostituito dall'articolo 1, comma 1, lettera e), del presente decreto, si applicano ai procedimenti di mediazione per i quali alla data di entrata in vigore del presente decreto non e' stato depositato il verbale conclusivo della mediazione".
 
 ### Art. 7. — Effetti sulla ragionevole durata del processo
 
@@ -404,13 +404,13 @@ Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ### Art. 8. — (Procedimento)
 
@@ -466,13 +466,13 @@ Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ### Art. 8-bis.
 
@@ -533,13 +533,13 @@ Rispetto alle dichiarazioni rese e alle informazioni acquisite nel corso delle s
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), non prevede piu' (con l'art. 41, comma 1) che la modifica di cui al comma 1 del presente articolo si applica a decorrere dal 30 giugno 2023.
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), non prevede piu' (con l'art. 41, comma 1) che la modifica di cui al comma 1 del presente articolo si applica a decorrere dal 30 giugno 2023.
 
 ### Art. 10. — Inutilizzabilita' e segreto professionale
 
@@ -622,13 +622,13 @@ Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), non prevede piu' (con l'art. 41, comma 1) che la modifica di cui al presente articolo si applica a decorrere dal 30 giugno 2023.
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), non prevede piu' (con l'art. 41, comma 1) che la modifica di cui al presente articolo si applica a decorrere dal 30 giugno 2023.
 
 ### Art. 11-bis. — (Accordo di conciliazione sottoscritto dalle amministrazioni pubbliche)
 
@@ -642,13 +642,13 @@ Ai rappresentanti delle amministrazioni pubbliche, di cui all'[articolo 1, comma
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), non prevede piu' (con l'art. 41, comma 1) che la modifica di cui al presente articolo si applica a decorrere dal 30 giugno 2023.
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), non prevede piu' (con l'art. 41, comma 1) che la modifica di cui al presente articolo si applica a decorrere dal 30 giugno 2023.
 
 ### Art. 12. — Efficacia esecutiva ed esecuzione
 
@@ -672,13 +672,13 @@ Con l'omologazione l'accordo costituisce titolo esecutivo per l'espropriazione f
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), non prevede piu' (con l'art. 41, comma 1) che le modifiche di cui ai commi 1, 1-bis e 2 del presente articolo si applicano a decorrere dal 30 giugno 2023.
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), non prevede piu' (con l'art. 41, comma 1) che le modifiche di cui ai commi 1, 1-bis e 2 del presente articolo si applicano a decorrere dal 30 giugno 2023.
 
 ### Art. 12-bis. — (Conseguenze processuali della mancata partecipazione al procedimento di mediazione)
 
@@ -704,13 +704,13 @@ Quando provvede ai sensi del comma 2, il giudice trasmette copia del provvedimen
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), non prevede piu' (con l'art. 41, comma 1) che la modifica di cui al presente articolo si applica a decorrere dal 30 giugno 2023.
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), non prevede piu' (con l'art. 41, comma 1) che la modifica di cui al presente articolo si applica a decorrere dal 30 giugno 2023.
 
 ### Art. 13. — Spese processuali in caso di rifiuto della proposta di conciliazione
 
@@ -745,13 +745,13 @@ Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), non prevede piu' (con l'art. 41, comma 1) che le modifiche di cui al comma 1 e rubrica del presente articolo si applicano a decorrere dal 30 giugno 2023.
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), non prevede piu' (con l'art. 41, comma 1) che le modifiche di cui al comma 1 e rubrica del presente articolo si applicano a decorrere dal 30 giugno 2023.
 
 ### Art. 14. — Obblighi del mediatore
 
@@ -779,13 +779,13 @@ Su istanza di parte, il responsabile dell'organismo provvede alla eventuale sost
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), non prevede piu' (con l'art. 41, comma 1) che le modifiche di cui al comma 2 del presente articolo si applicano a decorrere dal 30 giugno 2023.
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), non prevede piu' (con l'art. 41, comma 1) che le modifiche di cui al comma 2 del presente articolo si applicano a decorrere dal 30 giugno 2023.
 
 ### Art. 15. — Mediazione nell'azione di classe
 
@@ -797,13 +797,13 @@ Quando e' esercitata l'azione di classe prevista dall'[articolo 840-bis del codi
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), non prevede piu' (con l'art. 41, comma 1) che la modifica di cui al comma 1 del presente articolo si applica a decorrere dal 30 giugno 2023.
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), non prevede piu' (con l'art. 41, comma 1) che la modifica di cui al comma 1 del presente articolo si applica a decorrere dal 30 giugno 2023.
 
 ## (Disposizioni sul patrocinio a spese dello Stato nella
 mediazione civile e commerciale) ))
@@ -826,13 +826,13 @@ L'ammissione al patrocinio e' esclusa nelle controversie per cessione di crediti
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ### Art. 15-ter. — (Condizioni reddituali per l'ammissione)
 
@@ -846,13 +846,13 @@ Puo' essere ammesso al patrocinio chi e' titolare di un reddito imponibile ai fi
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ### Art. 15-quater. — (Istanza per l'ammissione anticipata)
 
@@ -874,13 +874,13 @@ Per i redditi prodotti all'estero, il cittadino di Stato non appartenente all'Un
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ### Art. 15-quinquies. — (Organo competente a ricevere l'istanza per l'ammissione anticipata e nomina dell'avvocato)
 
@@ -914,19 +914,19 @@ Chi e' ammesso al patrocinio puo' nominare un avvocato scelto tra gli iscritti n
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ---------------
 
 AGGIORNAMENTO (12)
 
-Il [D.Lgs. 27 dicembre 2024, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2010%20ottobre%202022%20n.%20149%20in%20materia%20di%20mediazione%20civile%20e%20commerciale%20e%20negoziazione%20assistita.%2025G00003.md) ha disposto (con l'art. 1, comma 1, lettera p)) che "Al [decreto legislativo 4 marzo 2010, n. 28](Attuazione%20dellarticolo%2060%20della%20legge%2018%20giugno%202009%20n.%2069%20in%20materia%20di%20mediazione%20finalizzata%20alla%20conciliazione%20delle%20controversie%20civili%20e%20commerciali.%2010G0050.md), sono apportate le seguenti modificazioni: [...] p) all'articolo 15-quinquies: [...] 3) al comma 3, le parole: «, istituiti presso i consigli dell'ordine del luogo del distretto dove ha sede l'organismo di mediazione competente individuato in conformita' all'articolo 4, comma 1» sono soppresse".
+Il [D.Lgs. 27 dicembre 2024, n. 216](Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2010%20ottobre%202022%20n.%20149%20in%20materia%20di%20mediazione%20civile%20e%20commerciale%20e%20negoziazione%20assistita.%2025G00003.md) ha disposto (con l'art. 1, comma 1, lettera p)) che "Al [decreto legislativo 4 marzo 2010, n. 28](Attuazione%20dellarticolo%2060%20della%20legge%2018%20giugno%202009%20n.%2069%20in%20materia%20di%20mediazione%20finalizzata%20alla%20conciliazione%20delle%20controversie%20civili%20e%20commerciali.%2010G0050.md), sono apportate le seguenti modificazioni: [...] p) all'articolo 15-quinquies: [...] 3) al comma 3, le parole: «, istituiti presso i consigli dell'ordine del luogo del distretto dove ha sede l'organismo di mediazione competente individuato in conformita' all'articolo 4, comma 1» sono soppresse".
 
 ### Art. 15-sexies. — (Ricorso avverso il rigetto dell'istanza per l'ammissione anticipata)
 
@@ -940,13 +940,13 @@ Contro il rigetto dell'istanza per l'ammissione anticipata, l'interessato puo' p
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ### Art. 15-septies. — (Effetti dell'ammissione anticipata e sua conferma)
 
@@ -976,19 +976,19 @@ L'avvocato non puo' chiedere ne' percepire dal proprio assistito compensi o rimb
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ### Art. 15-octies. — (Determinazione, liquidazione e pagamento dell'onorario e delle spese dell'avvocato)
 
 1.
 
-Con decreto del Ministro della giustizia, adottato di concerto con il Ministro dell'economia e delle finanze, entro sei mesi dalla data di entrata in vigore delle disposizioni attuative della [legge 26 novembre 2021, n. 206](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa%20delle%20controversie%20e%20misure%20urgenti%20di%20razionalizzazio_cd650e23dbab.md), sono stabiliti gli importi spettanti all'avvocato della parte ammessa al patrocinio a spese dello Stato a titolo di onorario e spese. Con il medesimo decreto sono stabilite le modalita' di liquidazione e di pagamento, anche mediante riconoscimento di credito di imposta o di compensazione, delle somme determinate ai sensi del presente articolo, nonche' le modalita' e i contenuti della relativa richiesta e i controlli applicabili, anche di autenticita'. 
+Con decreto del Ministro della giustizia, adottato di concerto con il Ministro dell'economia e delle finanze, entro sei mesi dalla data di entrata in vigore delle disposizioni attuative della [legge 26 novembre 2021, n. 206](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa%20delle%20controversie%20e%20misure%20urgenti%20di%20razionalizzazio_cd650e23dbab.md), sono stabiliti gli importi spettanti all'avvocato della parte ammessa al patrocinio a spese dello Stato a titolo di onorario e spese. Con il medesimo decreto sono stabilite le modalita' di liquidazione e di pagamento, anche mediante riconoscimento di credito di imposta o di compensazione, delle somme determinate ai sensi del presente articolo, nonche' le modalita' e i contenuti della relativa richiesta e i controlli applicabili, anche di autenticita'. 
  
  (9) ((10))
 
@@ -996,13 +996,13 @@ Con decreto del Ministro della giustizia, adottato di concerto con il Ministro d
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ### Art. 15-novies. — (Revoca del provvedimento di ammissione e ricorso avverso il relativo decreto)
 
@@ -1028,13 +1028,13 @@ Contro il provvedimento di revoca l'interessato puo' proporre ricorso, entro ven
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ### Art. 15-decies. — (Sanzioni e controlli da parte della Guardia di finanza)
 
@@ -1052,19 +1052,19 @@ Si applica l'[articolo 88 del decreto del Presidente della Repubblica 30 maggio 
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ### Art. 15-undecies. — (Disposizioni finanziarie)
 
 1.
 
-All'onere derivante dall'attuazione delle disposizioni di cui al presente capo, valutato in 2.082.780 annui euro a decorrere dall'anno 2023, si provvede mediante corrispondente riduzione del Fondo per l'attuazione della delega per l'efficienza del processo civile di cui all'[articolo 1, comma 39, della legge 26 novembre 2021, n. 206](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa%20delle%20controversie%20e%20misure%20urgenti%20di%20razionalizzazio_cd650e23dbab.md). 
+All'onere derivante dall'attuazione delle disposizioni di cui al presente capo, valutato in 2.082.780 annui euro a decorrere dall'anno 2023, si provvede mediante corrispondente riduzione del Fondo per l'attuazione della delega per l'efficienza del processo civile di cui all'[articolo 1, comma 39, della legge 26 novembre 2021, n. 206](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa%20delle%20controversie%20e%20misure%20urgenti%20di%20razionalizzazio_cd650e23dbab.md). 
  
  (9) ((10))
 
@@ -1072,13 +1072,13 @@ All'onere derivante dall'attuazione delle disposizioni di cui al presente capo, 
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ## ORGANISMI DI MEDIAZIONE ((ed enti di formazione))
 
@@ -1142,13 +1142,13 @@ Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ### Art. 16-bis. — (Enti di formazione)
 
@@ -1170,13 +1170,13 @@ Il decreto di cui all'articolo 16, comma 2, stabilisce altresi' i requisiti di q
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ### Art. 17. — (Risorse, regime tributario e indennita')
 
@@ -1230,7 +1230,7 @@ Agli oneri per l'attuazione delle disposizioni di cui ai commi 1 e 2, valutati i
                             a)
                                 quanto a 5,9 milioni di euro per l'anno 2010 e 7,018 milioni di euro a decorrere dall'anno 2011 mediante corrispondente riduzione della quota delle risorse del «Fondo unico giustizia» di cui all'[articolo 2, comma 7, lettera b) del decreto-legge 16 settembre 2008, n. 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-09-16;143#art_2-com7-letb), convertito, con modificazioni, dalla [legge 13 novembre 2008, n. 181](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20settembre%202008%20n.%20143%20recante%20interventi%20urgenti%20in%20materia%20di%20funzionalita%20del%20sistema%20giudiziario.md), che, a tale fine, resta acquisita all'entrata del bilancio dello Stato;
                             b)
-                                quanto a 6,08 milioni di euro annui a decorrere dall'anno 2023, mediante corrispondente riduzione del Fondo per l'attuazione della delega per l'efficienza del processo civile di cui all'[articolo 1, comma 39, della legge 26 novembre 2021, n. 206](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa%20delle%20controversie%20e%20misure%20urgenti%20di%20razionalizzazio_cd650e23dbab.md). 
+                                quanto a 6,08 milioni di euro annui a decorrere dall'anno 2023, mediante corrispondente riduzione del Fondo per l'attuazione della delega per l'efficienza del processo civile di cui all'[articolo 1, comma 39, della legge 26 novembre 2021, n. 206](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa%20delle%20controversie%20e%20misure%20urgenti%20di%20razionalizzazio_cd650e23dbab.md). 
  
  (9) (10)
 
@@ -1250,13 +1250,13 @@ Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ### Art. 18. — Organismi presso i tribunali
 
@@ -1306,11 +1306,11 @@ Agli organismi di mediazione e' riconosciuto un credito d'imposta commisurato al
 
 5.
 
-Con decreto del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, da adottare entro sei mesi dalla data di entrata in vigore delle disposizioni attuative della [legge 26 novembre 2021, n. 206](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa%20delle%20controversie%20e%20misure%20urgenti%20di%20razionalizzazio_cd650e23dbab.md), recante delega al Governo per l'efficienza del processo civile e per la revisione della disciplina degli strumenti di risoluzione alternativa delle controversie e misure urgenti di razionalizzazione dei procedimenti in materia di diritti delle persone e delle famiglie nonche' in materia di esecuzione forzata, sono stabilite le modalita' di riconoscimento dei crediti d'imposta di cui al presente articolo, la documentazione da esibire a corredo della richiesta e i controlli sull'autenticita' della stessa, nonche' le modalita' di trasmissione in via telematica all'Agenzia delle entrate dell'elenco dei beneficiari e dei relativi importi a ciascuno comunicati.
+Con decreto del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, da adottare entro sei mesi dalla data di entrata in vigore delle disposizioni attuative della [legge 26 novembre 2021, n. 206](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa%20delle%20controversie%20e%20misure%20urgenti%20di%20razionalizzazio_cd650e23dbab.md), recante delega al Governo per l'efficienza del processo civile e per la revisione della disciplina degli strumenti di risoluzione alternativa delle controversie e misure urgenti di razionalizzazione dei procedimenti in materia di diritti delle persone e delle famiglie nonche' in materia di esecuzione forzata, sono stabilite le modalita' di riconoscimento dei crediti d'imposta di cui al presente articolo, la documentazione da esibire a corredo della richiesta e i controlli sull'autenticita' della stessa, nonche' le modalita' di trasmissione in via telematica all'Agenzia delle entrate dell'elenco dei beneficiari e dei relativi importi a ciascuno comunicati.
 
 6.
 
-All'onere derivante dall'attuazione delle disposizioni di cui al presente articolo, valutato in euro 51.821.400 annui a decorrere dall'anno 2023, si provvede mediante corrispondente riduzione del Fondo per l'attuazione della delega per l'efficienza del processo civile di cui all'[articolo 1, comma 39, della legge 26 novembre 2021, n. 206](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa%20delle%20controversie%20e%20misure%20urgenti%20di%20razionalizzazio_cd650e23dbab.md).
+All'onere derivante dall'attuazione delle disposizioni di cui al presente articolo, valutato in euro 51.821.400 annui a decorrere dall'anno 2023, si provvede mediante corrispondente riduzione del Fondo per l'attuazione della delega per l'efficienza del processo civile di cui all'[articolo 1, comma 39, della legge 26 novembre 2021, n. 206](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa%20delle%20controversie%20e%20misure%20urgenti%20di%20razionalizzazio_cd650e23dbab.md).
 
 7.
 
@@ -1322,13 +1322,13 @@ Il Ministero della giustizia provvede annualmente al versamento dell'importo cor
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7 si applicano a decorrere dal 30 giugno 2023".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
 ### Art. 21. — Informazioni al pubblico
 
@@ -1360,10 +1360,10 @@ Note all'art. 22:
  d) alle societa' di gestione dei sistemi di compensazione e garanzia delle operazioni in strumenti finanziari; 
  e) alle seguenti attivita', il cui esercizio resta subordinato al possesso di licenze, da autorizzazioni, iscrizioni in albi o registri, ovvero alla preventiva dichiarazione di inizio di attivita' specificamente richieste dalle norme a fianco di esse riportate: 
  1) commercio, comprese l'esportazione e l'importazione, di oro per finalita' industriali o di investimento, per il quale e' prevista la dichiarazione di cui all'[art. 1 della legge 17 gennaio 2000, n. 7](../Atti%20di%20recepimento%20direttive%20UE/Nuova%20disciplina%20del%20mercato%20delloro%20anche%20in%20adeguamento%20al%20regolamento%20UE%202018-1672%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2023%20ottobre%202018.md); 
- 2) fabbricazione, mediazione e commercio, comprese l'esportazione e l'importazione di oggetti preziosi, per il quale e' prevista la licenza di cui all'[art. 127 del TULPS](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md); 
+ 2) fabbricazione, mediazione e commercio, comprese l'esportazione e l'importazione di oggetti preziosi, per il quale e' prevista la licenza di cui all'[art. 127 del TULPS](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md); 
  3) fabbricazione di oggetti preziosi da parte di imprese artigiane, all'iscrizione nel registro degli assegnatari dei marchi di identificazione tenuto dalle camere di commercio, industria, artigianato e agricoltura; 
- 4) commercio di cose antiche di cui alla dichiarazione preventiva prevista dall'[art. 126 del TULPS](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md); 
- 5) esercizio di case d'asta o galleria d'arte per il quale e' prevista alla licenza prevista dall'[art. 115 del TULPS](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md); 
+ 4) commercio di cose antiche di cui alla dichiarazione preventiva prevista dall'[art. 126 del TULPS](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md); 
+ 5) esercizio di case d'asta o galleria d'arte per il quale e' prevista alla licenza prevista dall'[art. 115 del TULPS](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md); 
  f) alle succursali italiane dei soggetti indicati nelle lettere precedenti aventi sede legale in uno stato estero; 
  g) agli uffici della pubblica amministrazione. 
  5-bis) mediazione, ai sensi dell'[art. 60 della legge 18 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69#art_60).».

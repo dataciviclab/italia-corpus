@@ -793,7 +793,7 @@ I bilanci consuntivi e le relazioni del collegio dei revisori sono inviate al Mi
 
 4.
 
-L'ENEA e' soggetto al controllo della Corte dei conti previsto dall'[articolo 12 della legge 21 marzo 1958, n. 259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-21;259#art_12), e si avvale del patrocinio dell'Avvocatura generale dello Stato, ai sensi dell'[articolo 43 del regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md). 
+L'ENEA e' soggetto al controllo della Corte dei conti previsto dall'[articolo 12 della legge 21 marzo 1958, n. 259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-21;259#art_12), e si avvale del patrocinio dell'Avvocatura generale dello Stato, ai sensi dell'[articolo 43 del regio decreto 30 ottobre 1933, n. 1611](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md). 
  (1)((2))
 
 -------------

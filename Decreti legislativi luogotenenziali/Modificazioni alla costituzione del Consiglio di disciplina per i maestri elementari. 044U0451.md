@@ -30,7 +30,7 @@ Sulla proposta del Ministro segretario di Stato per la pubblica istruzione; Abbi
 
 ## Articolo unico.
 
-L'[art. 8 del R. decreto-legge 21 novembre 1938, numero 2163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20nomina%20e%20le%20attribuzioni%20dei%20Regi%20provveditori%20agli%20studi%20e%20per%20listituzione%20del%20Consiglio%20provinciale%20delleducazione%20e%20del%20Consiglio%20di%20disciplina%20per%20gli%20insegnanti%20elementari.%20038U2163.md), e l'[art. 9 del R. decreto 13 settembre 1940, n. 1469](../Regi%20decreti/Regolamento%20sulle%20punizioni%20e%20sul%20giudizi%20disciplinari%20degli%20insegnanti%20elementari.%20040U1469.md), sono sostituiti dal seguente: 
+L'[art. 8 del R. decreto-legge 21 novembre 1938, numero 2163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20nomina%20e%20le%20attribuzioni%20dei%20Regi%20provveditori%20agli%20studi%20e%20per%20listituzione%20del%20Consiglio%20provinciale%20delleducazione%20e%20del%20Consiglio%20di%20disciplina%20per%20gli%20insegnanti%20elementari.%20038U2163.md), e l'[art. 9 del R. decreto 13 settembre 1940, n. 1469](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20sulle%20punizioni%20e%20sul%20giudizi%20disciplinari%20degli%20insegnanti%20elementari.%20040U1469.md), sono sostituiti dal seguente: 
  
  Presso ogni Regio provveditorato agli studi e' istituito un Consiglio di disciplina per gli insegnanti elementari di Stato e parificati, composto come segue: 
  

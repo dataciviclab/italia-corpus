@@ -22,7 +22,7 @@ Visto l'[articolo 2 della legge 26 luglio 1965, n. 966](https://www.normattiva.i
 
 Visto il [decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md);
 
-Visto il [decreto legislativo 19 settembre 1994, n. 626](../Decreti%20Legislativi/Attuazione%20delle%20direttive%2089-391-CEE%2089-654-CEE%2089-655-CEE%2089-656-CEE%2090-269-CEE%2090-270-CEE%2090-394-CEE%2090-679-CEE%2093-88-CEE%2095-63-CE%2097-42-CE%2098-24-CE%2099-38-CE%2099-92-CE%202001-45-CE%202003-1_b3516797bb41.md);
+Visto il [decreto legislativo 19 settembre 1994, n. 626](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%2089-391-CEE%2089-654-CEE%2089-655-CEE%2089-656-CEE%2090-269-CEE%2090-270-CEE%2090-394-CEE%20e%2090-679-CEE%20riguardanti%20il%20miglioramento%20della%20sicurezza%20e%20della%20salute%20dei%20lavora_f68a06b7f59f.md);
 
 Visto il progetto di regola tecnica approvato dal Comitato centrale tecnico scientifico per la prevenzione incendi di cui all'[articolo 10 del decreto del Presidente della Repubblica 29 luglio 1982, n. 577](Approvazione%20del%20regolamento%20concernente%20lespletamento%20dei%20servizi%20di%20prevenzione%20e%20di%20vigilanza%20antincendi.md);
 
@@ -30,7 +30,7 @@ Visto l'articolo 11 del citato [decreto del Presidente della Repubblica 29 lugli
 
 Visto il [decreto del Presidente della Repubblica 12 gennaio 1998, n. 37](Regolamento%20recante%20disciplina%20dei%20procedimenti%20relativi%20alla%20prevenzione%20incendi%20a%20norma%20dellarticolo%2020%20comma%208%20della%20legge%2015%20marzo%201997%20n.%2059.md), che approva il regolamento di prevenzione incendi;
 
-Visto il [decreto legislativo 11 febbraio 1998, n. 32](../Decreti%20Legislativi/Razionalizzazione%20del%20sistema%20di%20distribuzione%20dei%20carburanti%20a%20norma%20dellarticolo%204%20comma%204%20lettera%20c%20della%20legge%2015%20marzo%201997%20n.%2059.md), come modificato dal [decreto legislativo 8 settembre 1999, n. 346](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2013%20febbraio%201998%20n.%2032%20concernente%20razionalizzazione%20del%20sistema%20di%20distribuzione%20dei%20carburanti%20a%20norma%20dellarticolo%204%20comma%204%20della%20legg_92ccdfccd6fd.md);
+Visto il [decreto legislativo 11 febbraio 1998, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20del%20sistema%20di%20distribuzione%20dei%20carburanti%20a%20norma%20dellarticolo%204%20comma%204%20lettera%20c%20della%20legge%2015%20marzo%201997%20n.%2059.md), come modificato dal [decreto legislativo 8 settembre 1999, n. 346](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2013%20febbraio%201998%20n.%2032%20concernente%20razionalizzazione%20del%20sistema%20di%20distribuzione%20dei%20carburanti%20a%20norma%20dellarticolo%204%20comma%204%20della%20legg_92ccdfccd6fd.md);
 
 Ritenuto di dover modificare ed aggiornare la vigente normativa di sicurezza per gli impianti di distribuzione stradale di gas di petrolio liquefatto per autotrazione;
 

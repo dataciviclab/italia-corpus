@@ -50,7 +50,7 @@ I concorsi per l'assunzione nel ruoli dell'Avvocatura, dello Stato o per le prom
 
 ## Art. 4.
 
-Gli aggiunti procuratori di 2ª classe sono nominati esclusivamente in seguito a concorso per esami, a norma del secondo comma dell'art. 32 del testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md).
+Gli aggiunti procuratori di 2ª classe sono nominati esclusivamente in seguito a concorso per esami, a norma del secondo comma dell'art. 32 del testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md).
 
 ## Art. 5.
 
@@ -74,7 +74,7 @@ Gli avvocati e i procuratori dello Stato che abbiano riportata una sanzione disc
 ## Art. 7.
 
 ((La Commissione permanente per gli avvocati e procuratori dello Stato e' composta dell'avvocato generale dello Stato, che la presiede, e dei quattro vice avvocati generali dello Stato piu' anziani)).
- Quando si debba procedere alle nomine in conformita' dell'art. 31 del testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md), fa parte della Commissione un magistrato di grado non inferiore a quello di consigliere di Corte di cassazione, designato dal Ministro per la grazia e giustizia.
+ Quando si debba procedere alle nomine in conformita' dell'art. 31 del testo unico approvato con [regio decreto 30 ottobre 1933, n. 1611](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20sulla%20rappresentanza%20e%20difesa%20in%20giudizio%20dello%20Stato%20e%20sullordinamento%20dellAvvocatura%20dello%20Stato.%20033U1611.md), fa parte della Commissione un magistrato di grado non inferiore a quello di consigliere di Corte di cassazione, designato dal Ministro per la grazia e giustizia.
  Il Segretario generale dell'Avvocatura dello Stato interviene nella Commissione come segretario; ha voto deliberativo negli affari relativi al personale d'ordine e subalterno, ed ha voto consultivo negli altri affari.
  In caso di assenza o di impedimento dell'Avvocato generale dello Stato, la Commissione e' presieduta dal Vice avvocato generale piu' anziano.
 

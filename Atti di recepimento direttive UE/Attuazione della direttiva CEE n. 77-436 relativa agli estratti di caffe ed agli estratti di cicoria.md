@@ -74,7 +74,7 @@ Il Ministro della sanita' puo' autorizzare con proprio decreto, sentito il Consi
 
 1.
 
-Agli estratti di caffe' ed agli estratti di cicoria si applicano le disposizioni del [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), e successive modificazioni. Tuttavia:
+Agli estratti di caffe' ed agli estratti di cicoria si applicano le disposizioni del [decreto legislativo 27 gennaio 1992, n. 109](Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), e successive modificazioni. Tuttavia:
                         a)
                             la denominazione di vendita e' completata dalla dicitura:
  1) "in pasta o "in forma pastosa per i prodotti di cui all'allegato I, punto 1, lettera b) e all'allegato II, punto 1, lettera b);
@@ -96,7 +96,7 @@ Agli estratti di caffe' ed agli estratti di cicoria si applicano le disposizioni
 
 ## Art. 7.
 
-Le disposizioni del [decreto del Presidente della Repubblica 16 febbraio 1973, n. 470](../Regolamenti%20governativi/Regolamento%20per%20la%20disciplina%20igienica%20della%20produzione%20e%20del%20commercio%20del%20caffe%20e%20dei%20suoi%20derivati.md), incompatibili con quelle contenute nel presente decreto sono abrogate.
+Le disposizioni del [decreto del Presidente della Repubblica 16 febbraio 1973, n. 470](../DPR/Regolamento%20per%20la%20disciplina%20igienica%20della%20produzione%20e%20del%20commercio%20del%20caffe%20e%20dei%20suoi%20derivati.md), incompatibili con quelle contenute nel presente decreto sono abrogate.
 
 ## Art. 8.
 

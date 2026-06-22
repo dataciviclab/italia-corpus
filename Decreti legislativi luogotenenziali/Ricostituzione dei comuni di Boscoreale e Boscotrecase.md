@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto 29 marzo 1928, n. 686](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Boscoreale%20e%20Boscotrecase%20al%20comune%20di%20Torre%20Annunziata.%20028U0686.md);
+Visto il [R. decreto 29 marzo 1928, n. 686](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20dei%20comuni%20di%20Boscoreale%20e%20Boscotrecase%20al%20comune%20di%20Torre%20Annunziata.%20028U0686.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944 n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -28,13 +28,13 @@ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Abb
 
 ## Art. 1.
 
-I comuni di Boscoreale e di Boscotrecase, uniti con [R. decreto 29 marzo 1928, n. 686](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Boscoreale%20e%20Boscotrecase%20al%20comune%20di%20Torre%20Annunziata.%20028U0686.md), al comune di Torre Annunziata sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
+I comuni di Boscoreale e di Boscotrecase, uniti con [R. decreto 29 marzo 1928, n. 686](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20dei%20comuni%20di%20Boscoreale%20e%20Boscotrecase%20al%20comune%20di%20Torre%20Annunziata.%20028U0686.md), al comune di Torre Annunziata sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
  Il Prefetto di Napoli, sentita la Giunta provinciale amministrativa provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni suindicati.
 
 ## Art. 2.
 
 Gli organici dei ricostituiti comuni di Boscoreale e di Boscotrecase e quello del comune di Torres Annunziata saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa. 
- Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente a quelli organicamente assegnati ai Comuni predetti anteriormente alla loro aggregazione al comune di Torre Annunziata, disposta con [R. decreto 29 marzo 1928, n. 686](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Boscoreale%20e%20Boscotrecase%20al%20comune%20di%20Torre%20Annunziata.%20028U0686.md). 
+ Il numero dei posti ed i gradi relativi non potranno essere superiori rispettivamente a quelli organicamente assegnati ai Comuni predetti anteriormente alla loro aggregazione al comune di Torre Annunziata, disposta con [R. decreto 29 marzo 1928, n. 686](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20dei%20comuni%20di%20Boscoreale%20e%20Boscotrecase%20al%20comune%20di%20Torre%20Annunziata.%20028U0686.md). 
  Al personale gia' in servizio presso il comune di Torre Annunziata e che eventualmente sara' inquadrato nei predetti organici, non potranno esser attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
 ## Art. 3.

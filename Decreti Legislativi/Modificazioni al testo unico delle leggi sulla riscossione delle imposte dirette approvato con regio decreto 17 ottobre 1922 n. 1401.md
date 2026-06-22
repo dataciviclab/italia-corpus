@@ -36,7 +36,7 @@ In tal caso la trascrizione dei pagamenti deve farsi su registri numerati prima 
 
 ## Art. 2.
 
-Il secondo comma dell'art. 44 del testo unico delle leggi sulla riscossione delle imposte dirette, approvato col [regio decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), modificato dall'[art. 16 della legge 16 giugno 1939, n. 942](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20R.%20decreto%2017%20ottobre%201922%20n.%201401%20e%20successive%20modificazioni.%20039U0942.md), e' sostituito dal seguente:
+Il secondo comma dell'art. 44 del testo unico delle leggi sulla riscossione delle imposte dirette, approvato col [regio decreto 17 ottobre 1922, n. 1401](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), modificato dall'[art. 16 della legge 16 giugno 1939, n. 942](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20testo%20unico%20di%20leggi%20sulla%20riscossione%20delle%20imposte%20dirette%20approvato%20con%20R.%20decreto%2017%20ottobre%201922%20n.%201401%20e%20successive%20modificazioni.%20039U0942.md), e' sostituito dal seguente:
 
  Il prezzo d'asta viene determinato moltiplicando per 200 il tributo diretto verso lo Stato, secondo il disposto dell'[art. 15 del Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_15). Ove tale prezzo sia ritenuto notevolmente inferiore al valore attuale dei beni, l'Intendente di finanza puo' disporre che il prezzo stesso sia determinato in base a perizia dell'Ufficio tecnico erariale. Le spese di perizia sono anticipate dall'Amministrazione finanziaria e saranno recuperate dall'esattore o dal ricevitore provinciale, unitamente al debito di imposta.
 
@@ -50,7 +50,7 @@ Il quarto comma dell'art. 80 del testo unico sulla riscossione delle imposte dir
 
 ## Art. 4.
 
-L'art. 87 del testo unico delle leggi sulla riscossione delle imposte dirette, approvato dal [regio decreto 17 ottobre 1922, n. 1401](../Testi%20Unici/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e' sostituito dal seguente:
+L'art. 87 del testo unico delle leggi sulla riscossione delle imposte dirette, approvato dal [regio decreto 17 ottobre 1922, n. 1401](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20per%20la%20riscossione%20delle%20imposte%20dirette.%20022U1401.md), e' sostituito dal seguente:
  L'esattore ha diritto al rimborso delle imposte o sovrimposte iscritte nei ruoli che non ha conseguito, purche' faccia constare:
  che la esecuzione non ha potuto aver luogo per assoluta mancanza di beni mobili del debitore;
  oppure che la esecuzione e' tornata inutile o insufficiente.

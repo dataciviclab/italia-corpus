@@ -40,7 +40,7 @@ Vista la [legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md), recante norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea;
 
-Vista la [legge 6 agosto 2013, n. 96](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013.%2013G00137.md), recante la delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013;
+Vista la [legge 6 agosto 2013, n. 96](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013.%2013G00137.md), recante la delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 novembre 2013;
 
@@ -113,8 +113,8 @@ Ai fini del presente decreto si intende per:
  1) gli accordi preventivi, diversi da quelli indicati nella lettera h-ter), stipulati ai sensi dell'[articolo 31-ter, comma 1, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md); 
  2) gli accordi preventivi connessi all'utilizzo dei beni immateriali stipulati ai sensi dell'[articolo 1, commi da 37](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) [a 45, della legge 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md), aventi ad oggetto una operazione transfrontaliera; 
  3) i pareri resi su istanze di interpello presentate ai sensi dell'articolo 11, comma 1, lettere a) e c), della legge 27 luglio del 2000, n. 212, aventi ad oggetto l'interpretazione o l'applicazione di norme, anche di origine convenzionale, concernenti il trattamento fiscale di una operazione transfrontaliera; 
- 4) i pareri resi su istanze di interpello presentate ai sensi dell'[articolo 6, comma 2, del decreto legislativo 5 agosto 2015, n. 128](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20sulla%20certezza%20del%20diritto%20nei%20rapporti%20tra%20fisco%20e%20contribuente%20in%20attuazione%20degli%20articoli%205%206%20e%208%20comma%202%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00146.md), aventi ad oggetto l'interpretazione o l'applicazione di norme, anche di origine convenzionale, concernenti il trattamento fiscale di una operazione transfrontaliera; 
- 5) i pareri resi su istanze di interpello, presentate ai sensi dell'[articolo 2 del decreto legislativo 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md), aventi ad oggetto l'interpretazione o l'applicazione di norme, anche di origine convenzionale, concernenti il trattamento fiscale di una operazione transfrontaliera; 
+ 4) i pareri resi su istanze di interpello presentate ai sensi dell'[articolo 6, comma 2, del decreto legislativo 5 agosto 2015, n. 128](Disposizioni%20sulla%20certezza%20del%20diritto%20nei%20rapporti%20tra%20fisco%20e%20contribuente%20in%20attuazione%20degli%20articoli%205%206%20e%208%20comma%202%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00146.md), aventi ad oggetto l'interpretazione o l'applicazione di norme, anche di origine convenzionale, concernenti il trattamento fiscale di una operazione transfrontaliera; 
+ 5) i pareri resi su istanze di interpello, presentate ai sensi dell'[articolo 2 del decreto legislativo 14 settembre 2015, n. 147](Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md), aventi ad oggetto l'interpretazione o l'applicazione di norme, anche di origine convenzionale, concernenti il trattamento fiscale di una operazione transfrontaliera; 
  6) ogni altro accordo o parere reso su istanze di interpello con effetti simili alle categorie elencate ai numeri da 1 a 5, presentate ai sensi di una normativa emanata in data successiva all'entrata in vigore del presente decreto. (1)
                         h-ter)
                             accordo preventivo sui prezzi di trasferimento: gli accordi per la preventiva definizione in contraddittorio dei metodi di calcolo del valore normale delle operazioni di cui all'articolo 110, comma 7, del testo unico delle imposte sui redditi approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e gli accordi per l'applicazione ad un caso concreto di norme, anche di origine convenzionale, concernenti l'attribuzione di utili e perdite alla stabile organizzazione in un altro Stato di un'impresa o un ente residente ovvero alla stabile organizzazione in Italia di un soggetto non residente, stipulati ai sensi dell'[articolo 31-ter, comma 1, lettere a)](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md) e [b), del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md); (1)
@@ -135,7 +135,7 @@ Ai fini del presente decreto si intende per:
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 15 marzo 2017, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-2376%20recante%20modifica%20della%20direttiva%202011-16-UE%20per%20quanto%20riguarda%20lo%20scambio%20automatico%20obbligatorio%20di%20informazioni%20nel%20settore%20fiscale.%2017G00046.md) ha disposto (con l'art. 4, comma 2) che le presenti modifiche hanno effetto a decorrere dal 1° gennaio 2017.
+Il [D.Lgs. 15 marzo 2017, n. 32](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-2376%20recante%20modifica%20della%20direttiva%202011-16-UE%20per%20quanto%20riguarda%20lo%20scambio%20automatico%20obbligatorio%20di%20informazioni%20nel%20settore%20fiscale.%2017G00046.md) ha disposto (con l'art. 4, comma 2) che le presenti modifiche hanno effetto a decorrere dal 1° gennaio 2017.
 
 ## Art. 3. — Organizzazione
 
@@ -155,11 +155,11 @@ I servizi di collegamento, ciascuno secondo le competenze stabilite con il provv
 
 ((2))
 
-((3-ter. Nel caso in cui i documenti, i dati e le informazioni di cui al comma 3-bis siano nella disponibilita' dei soggetti di cui all'[articolo 3 del decreto legislativo 21 novembre 2007, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-21;231#art_3), diversi da quelli previsti dall'[articolo 4 della legge 18 giugno 2015, n. 95](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellAccordo%20tra%20il%20Governo%20della%20Repubblica%20italiana%20e%20il%20Governo%20degli%20Stati%20Uniti%20dAmerica%20finalizzato%20a%20migliorare%20la%20compliance%20fiscale%20internazionale%20e%20ad%20appl_f1821a54a9dd.md), l'Agenzia delle entrate si avvale della Guardia di finanza; a tal fine l'Agenzia delle entrate e la Guardia di finanza stipulano apposita convenzione per la definizione dei termini e delle modalita' di esecuzione, nonche' dei livelli dei servizi))
+((3-ter. Nel caso in cui i documenti, i dati e le informazioni di cui al comma 3-bis siano nella disponibilita' dei soggetti di cui all'[articolo 3 del decreto legislativo 21 novembre 2007, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-21;231#art_3), diversi da quelli previsti dall'[articolo 4 della legge 18 giugno 2015, n. 95](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellAccordo%20tra%20il%20Governo%20della%20Repubblica%20italiana%20e%20il%20Governo%20degli%20Stati%20Uniti%20dAmerica%20finalizzato%20a%20migliorare%20la%20compliance%20fiscale%20internazionale%20e%20ad%20appl_f1821a54a9dd.md), l'Agenzia delle entrate si avvale della Guardia di finanza; a tal fine l'Agenzia delle entrate e la Guardia di finanza stipulano apposita convenzione per la definizione dei termini e delle modalita' di esecuzione, nonche' dei livelli dei servizi))
 
 ((2))
 
-((3-quater. L'accesso ai documenti, ai dati e alle informazioni di cui al comma 3-bis e' altresi' consentito nello svolgimento dei controlli finalizzati alla verifica del corretto adempimento delle procedure di adeguata verifica ai fini fiscali, previste in attuazione della [legge 18 giugno 2015, n. 95](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellAccordo%20tra%20il%20Governo%20della%20Repubblica%20italiana%20e%20il%20Governo%20degli%20Stati%20Uniti%20dAmerica%20finalizzato%20a%20migliorare%20la%20compliance%20fiscale%20internazionale%20e%20ad%20appl_f1821a54a9dd.md).))
+((3-quater. L'accesso ai documenti, ai dati e alle informazioni di cui al comma 3-bis e' altresi' consentito nello svolgimento dei controlli finalizzati alla verifica del corretto adempimento delle procedure di adeguata verifica ai fini fiscali, previste in attuazione della [legge 18 giugno 2015, n. 95](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellAccordo%20tra%20il%20Governo%20della%20Repubblica%20italiana%20e%20il%20Governo%20degli%20Stati%20Uniti%20dAmerica%20finalizzato%20a%20migliorare%20la%20compliance%20fiscale%20internazionale%20e%20ad%20appl_f1821a54a9dd.md).))
 
 ((2))
 
@@ -183,7 +183,7 @@ L'ufficio centrale di collegamento e i servizi di collegamento indicati al comma
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 18 maggio 2018, n. 60](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202016-2258-UE%20del%20Consiglio%20del%206%20dicembre%202016%20recante%20modifica%20della%20direttiva%202011-16-UE%20del%20Consiglio%20del%2015%20febbraio%202011%20per%20quanto%20riguarda%20laccesso%20da%20pa_74ed73b49974.md) ha disposto (con l'art. 3, comma 2) che le presenti modifiche si applicano alle richieste di accesso alle informazioni formulate dalla Guardia di finanza e dall'Agenzia delle entrate a decorrere dal 1° gennaio 2018.
+Il [D.Lgs. 18 maggio 2018, n. 60](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202016-2258-UE%20del%20Consiglio%20del%206%20dicembre%202016%20recante%20modifica%20della%20direttiva%202011-16-UE%20del%20Consiglio%20del%2015%20febbraio%202011%20per%20quanto%20riguarda%20laccesso%20da%20pa_74ed73b49974.md) ha disposto (con l'art. 3, comma 2) che le presenti modifiche si applicano alle richieste di accesso alle informazioni formulate dalla Guardia di finanza e dall'Agenzia delle entrate a decorrere dal 1° gennaio 2018.
 
 ## Art. 4. — Scambio di informazioni su richiesta
 
@@ -261,13 +261,13 @@ Le informazioni che devono essere comunicate ai sensi del comma 1-bis sono trasm
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 15 marzo 2017, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202015-2376%20recante%20modifica%20della%20direttiva%202011-16-UE%20per%20quanto%20riguarda%20lo%20scambio%20automatico%20obbligatorio%20di%20informazioni%20nel%20settore%20fiscale.%2017G00046.md) ha disposto (con l'art. 4, comma 2) che le presenti modifiche hanno effetto a decorrere dal 1° gennaio 2017.
+Il [D.Lgs. 15 marzo 2017, n. 32](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-2376%20recante%20modifica%20della%20direttiva%202011-16-UE%20per%20quanto%20riguarda%20lo%20scambio%20automatico%20obbligatorio%20di%20informazioni%20nel%20settore%20fiscale.%2017G00046.md) ha disposto (con l'art. 4, comma 2) che le presenti modifiche hanno effetto a decorrere dal 1° gennaio 2017.
 
 ---------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 10 dicembre 2025, n. 194](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202023-2226-UE%20del%20Consiglio%20del%2017%20ottobre%202023%20recante%20modifica%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale.%2025G00201.md), ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
+Il [D.Lgs. 10 dicembre 2025, n. 194](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202023-2226-UE%20del%20Consiglio%20del%2017%20ottobre%202023%20recante%20modifica%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale.%2025G00201.md), ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
 
 ## Art. 5-bis. — ((Rilevazione e comunicazione del numero di identificazione fiscale rilasciato da uno Stato membro o giurisdizione estera))
 
@@ -292,7 +292,7 @@ Il [D.Lgs. 10 dicembre 2025, n. 194](../Leggi%20delega%20e%20relativi%20provvedi
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 10 dicembre 2025, n. 194](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202023-2226-UE%20del%20Consiglio%20del%2017%20ottobre%202023%20recante%20modifica%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale.%2025G00201.md), ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
+Il [D.Lgs. 10 dicembre 2025, n. 194](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202023-2226-UE%20del%20Consiglio%20del%2017%20ottobre%202023%20recante%20modifica%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale.%2025G00201.md), ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
 
 ## Art. 6. — Scambio spontaneo di informazioni
 

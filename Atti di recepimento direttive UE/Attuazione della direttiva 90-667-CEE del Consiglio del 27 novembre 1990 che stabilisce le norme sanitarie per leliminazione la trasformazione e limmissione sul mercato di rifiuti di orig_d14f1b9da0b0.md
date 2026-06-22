@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 47 della legge 19 febbraio 1992, n. 142](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), recante delega al Governo per l'attuazione della [direttiva 90/667/CEE del Consiglio del 27 novembre 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;667), che stabilisce le norme sanitarie per l'eliminazione, la trasformazione e l'immissione sul mercato dei rifiuti di origine animale e la protezione degli agenti patogeni degli alimenti per animali di origine animale o a base di pesce e che modifica la [direttiva 90/425/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;425);
+Visto l'[art. 47 della legge 19 febbraio 1992, n. 142](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), recante delega al Governo per l'attuazione della [direttiva 90/667/CEE del Consiglio del 27 novembre 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;667), che stabilisce le norme sanitarie per l'eliminazione, la trasformazione e l'immissione sul mercato dei rifiuti di origine animale e la protezione degli agenti patogeni degli alimenti per animali di origine animale o a base di pesce e che modifica la [direttiva 90/425/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;425);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 10 dicembre 1992;
 
@@ -96,7 +96,7 @@ I materiali di cui al comma 1, possono essere trasformati soltanto in uno stabil
 
 3.
 
-Salvo quanto specificatamente previsto dal Regolamento di polizia veterinaria e successive modifiche, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), l'autorita' sanitaria locale decide, se necessario, che i materiali ad alto rischio siano eliminati, mediante incenerimento o mediante sotterramento secondo che:
+Salvo quanto specificatamente previsto dal Regolamento di polizia veterinaria e successive modifiche, approvato con [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), l'autorita' sanitaria locale decide, se necessario, che i materiali ad alto rischio siano eliminati, mediante incenerimento o mediante sotterramento secondo che:
                             a)
                                 il trasporto fino allo stabilimento piu' vicino di trasformazione di materiali ad alto rischio di animali colpiti da una malattia epizootica o che si sospetta ne siano colpiti e' rifiutato a causa del (( pericolo )) che si propaghino rischi sanitari;
                             b)

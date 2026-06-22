@@ -56,7 +56,7 @@ AVVERTENZA:
  Il testo delle note qui pubblicato e' stato redatto ai
  sensi dell'art. 10, commi 2 e 3, del testo unico approvato
  con [decreto del Presidente della Repubblica 28 dicembre
- 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle
+ 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle
  disposizioni di legge modificate o alle quali e' operato il
  rinvio. Restano invariati il valore e l'efficacia degli
  atti legislativi qui trascritti.
@@ -108,11 +108,11 @@ Per quanto concerne le esclusioni di cui all'[art. 1 paragrafo 2, della direttiv
 
 ## Art. 4.
 
-1. Per gli ascensori in servizio privato di nuova costruzione da installarsi in edifici preesistenti alla data di entrata in vigore del presente decreto possono essere consentite deroghe all'osservanza delle norme di cui all'allegato I del presente decreto la cui applicazione trovi ostacolo nella configurazione dei luoghi, purche' siano adottate misure di sicurezza non inferiori a quelle previste dal [Decreto del Presidente della Repubblica 29 maggio 1963, n. 1497](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20gli%20ascensori%20ed%20i%20montacarichi%20in%20servizio%20privato.md), da approvarsi con la procedura di cui all'art. 4 dello stesso decreto del Presidente della Repubblica. 
+1. Per gli ascensori in servizio privato di nuova costruzione da installarsi in edifici preesistenti alla data di entrata in vigore del presente decreto possono essere consentite deroghe all'osservanza delle norme di cui all'allegato I del presente decreto la cui applicazione trovi ostacolo nella configurazione dei luoghi, purche' siano adottate misure di sicurezza non inferiori a quelle previste dal [Decreto del Presidente della Repubblica 29 maggio 1963, n. 1497](../DPR/Approvazione%20del%20regolamento%20per%20gli%20ascensori%20ed%20i%20montacarichi%20in%20servizio%20privato.md), da approvarsi con la procedura di cui all'art. 4 dello stesso decreto del Presidente della Repubblica. 
 2. Le disposizioni di cui al comma 1 si applicano anche gli ascensori in servizio pubblico, osservate le procedure previste dal [decreto del Presidente della Repubblica 11 luglio 1980 n. 753](../DPR/Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md).
 
 Note all'[art. 4:
- - Il D.P.R. 29 maggio 1963, n. 1497](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20gli%20ascensori%20ed%20i%20montacarichi%20in%20servizio%20privato.md), concerne
+ - Il D.P.R. 29 maggio 1963, n. 1497](../DPR/Approvazione%20del%20regolamento%20per%20gli%20ascensori%20ed%20i%20montacarichi%20in%20servizio%20privato.md), concerne
  l'approvazione del regolamento per gli ascensori ed i
  montacarichi in servizio privato. Il relativo art. 4
  prevede:
@@ -140,11 +140,11 @@ Note all'[art. 4:
 
 1.
 
-Gli ascensori di nuova costruzione in servizio privato sono soggetti, salvo quanto diversamente disposto nel presente decreto, a quanto previsto per gli ascensori categoria A e categoria B della [legge 24 ottobre 1942, n. 1415](../Atti%20normativi%20abrogati%20%28in%20originale%29/Impianto%20ed%20esercizio%20di%20ascensori%20e%20di%20montacarichi%20in%20servizio%20privato.%20042U1415.md), e sue modificazioni e nel [decreto del Presidente della Repubblica 24 dicembre 1951, n. 1767](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2024%20ottobre%201942%20n.%201415%20concernente%20limpianto%20e%20lesercizio%20di%20ascensori%20e%20di%20montacarichi%20in%20servizio%20privato.md) e sue modificazioni.
+Gli ascensori di nuova costruzione in servizio privato sono soggetti, salvo quanto diversamente disposto nel presente decreto, a quanto previsto per gli ascensori categoria A e categoria B della [legge 24 ottobre 1942, n. 1415](../Atti%20normativi%20abrogati%20%28in%20originale%29/Impianto%20ed%20esercizio%20di%20ascensori%20e%20di%20montacarichi%20in%20servizio%20privato.%20042U1415.md), e sue modificazioni e nel [decreto del Presidente della Repubblica 24 dicembre 1951, n. 1767](../DPR/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2024%20ottobre%201942%20n.%201415%20concernente%20limpianto%20e%20lesercizio%20di%20ascensori%20e%20di%20montacarichi%20in%20servizio%20privato.md) e sue modificazioni.
 
 2.
 
-La targa di immatricolazione di cui all'[art. 5 del Decreto del Presidente della Repubblica 24 dicembre 1951, n. 1767](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2024%20ottobre%201942%20n.%201415%20concernente%20limpianto%20e%20lesercizio%20di%20ascensori%20e%20di%20montacarichi%20in%20servizio%20privato.md) deve portare le seguenti indicazioni:
+La targa di immatricolazione di cui all'[art. 5 del Decreto del Presidente della Repubblica 24 dicembre 1951, n. 1767](../DPR/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2024%20ottobre%201942%20n.%201415%20concernente%20limpianto%20e%20lesercizio%20di%20ascensori%20e%20di%20montacarichi%20in%20servizio%20privato.md) deve portare le seguenti indicazioni:
                         a)
                             organo competente per le verifiche tecniche;
                         b)
@@ -160,7 +160,7 @@ La targa di immatricolazione di cui all'[art. 5 del Decreto del Presidente della
 
 3.
 
-Non e' richiesta l'applicazione delle targhe di cui all'[art. 5 del decreto del Presidente della Repubblica del 24 dicembre 1951 n. 1767](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2024%20ottobre%201942%20n.%201415%20concernente%20limpianto%20e%20lesercizio%20di%20ascensori%20e%20di%20montacarichi%20in%20servizio%20privato.md) alle funi di sospensione.
+Non e' richiesta l'applicazione delle targhe di cui all'[art. 5 del decreto del Presidente della Repubblica del 24 dicembre 1951 n. 1767](../DPR/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2024%20ottobre%201942%20n.%201415%20concernente%20limpianto%20e%20lesercizio%20di%20ascensori%20e%20di%20montacarichi%20in%20servizio%20privato.md) alle funi di sospensione.
 
 4.
 
@@ -171,7 +171,7 @@ Note all'[art. 6:
  - La legge 24 ottobre 1942, n. 1415](../Atti%20normativi%20abrogati%20%28in%20originale%29/Impianto%20ed%20esercizio%20di%20ascensori%20e%20di%20montacarichi%20in%20servizio%20privato.%20042U1415.md), concerne l'impianto ed
  esercizio di ascensori e di montacarichi in servizio
  privato.
- - Il [D.P.R. 24 dicembre 1951, n. 1767](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2024%20ottobre%201942%20n.%201415%20concernente%20limpianto%20e%20lesercizio%20di%20ascensori%20e%20di%20montacarichi%20in%20servizio%20privato.md), approva il
+ - Il [D.P.R. 24 dicembre 1951, n. 1767](../DPR/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2024%20ottobre%201942%20n.%201415%20concernente%20limpianto%20e%20lesercizio%20di%20ascensori%20e%20di%20montacarichi%20in%20servizio%20privato.md), approva il
  regolamento per l'esecuzione della predetta [legge 24
  ottobre 1942, n. 1415](../Atti%20normativi%20abrogati%20%28in%20originale%29/Impianto%20ed%20esercizio%20di%20ascensori%20e%20di%20montacarichi%20in%20servizio%20privato.%20042U1415.md). Il relativo art. 5 e' cosi'
  formulato:

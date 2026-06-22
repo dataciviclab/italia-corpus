@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 1, comma 1, lettera b)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), e l'[articolo 2, comma 1, lettere a)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), [b)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), [c)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md) e [d)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), e [comma 2, lettera b), della legge 1° marzo 2005, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md);
+Visto l'[articolo 1, comma 1, lettera b)](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), e l'[articolo 2, comma 1, lettere a)](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), [b)](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), [c)](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md) e [d)](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), e [comma 2, lettera b), della legge 1° marzo 2005, n. 32](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md);
 
 Vista la [legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), ed in particolare l'articolo 1, commi 1 e 3, e l'allegato B;
 
@@ -42,7 +42,7 @@ Capo I
 
 1.
 
-Il presente Capo ha per oggetto la liberalizzazione regolata dell'esercizio dell'attivita' di autotrasporto di cose per conto di terzi ed il contestuale raccordo con la disciplina delle condizioni e dei prezzi dei servizi di autotrasporto di merci per conto di terzi, in attuazione della delega di cui all'[articolo 1, comma 1, lettera b), della legge 1° marzo 2005, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), sulla base dei principi e criteri direttivi generali previsti dall'articolo 2, comma 1 e dei principi e criteri direttivi specifici previsti dall'articolo 2, comma 2, lettera b), della medesima legge.
+Il presente Capo ha per oggetto la liberalizzazione regolata dell'esercizio dell'attivita' di autotrasporto di cose per conto di terzi ed il contestuale raccordo con la disciplina delle condizioni e dei prezzi dei servizi di autotrasporto di merci per conto di terzi, in attuazione della delega di cui all'[articolo 1, comma 1, lettera b), della legge 1° marzo 2005, n. 32](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), sulla base dei principi e criteri direttivi generali previsti dall'articolo 2, comma 1 e dei principi e criteri direttivi specifici previsti dall'articolo 2, comma 2, lettera b), della medesima legge.
 
 Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
@@ -50,7 +50,7 @@ Avvertenza:
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- - Si riporta il testo dell'art.1, comma 1, lettera b) e l'art. 2, comma 1, lettere a), b) c), e d), e [comma 2, lettera b), della legge 1° marzo 2005, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), recante: «Delega al Governo per il riassetto normativo del settore dell'autotrasporto di persone e cose».
+ - Si riporta il testo dell'art.1, comma 1, lettera b) e l'art. 2, comma 1, lettere a), b) c), e d), e [comma 2, lettera b), della legge 1° marzo 2005, n. 32](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), recante: «Delega al Governo per il riassetto normativo del settore dell'autotrasporto di persone e cose».
  «Art. 1 (Delega al Governo per il riassetto normativo in materia di autotrasporto di persone e cose). - 1. Il Governo e' delegato ad adottare, entro il termine di sei mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi per il riassetto delle disposizioni vigenti in materia di:
  a) (omissis);
  b) liberalizzazione regolata secondo i principi e i criteri direttivi di cui all'art. 2 dell'esercizio dell'attivita' di autotrasporto e contestuale raccordo con la disciplina delle condizioni e dei prezzi dei servizi di autotrasporto di merci per conto di terzi.».
@@ -118,7 +118,7 @@ Avvertenza:
  - Il [decreto legislativo 30 aprile 1992, n 285](Nuovo%20codice%20della%20strada.md), e' pubblicato nella Gazzetta Ufficiale 18 maggio 1992, n. 114, supplemento ordinario.
  - Il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e' pubblicato nella Gazzetta Ufficiale 28 dicembre 1992, n. 303, supplemento ordinario.
  Nota all'[art. 1:
- - Per la legge 1° marzo 2005, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md) e gli articoli 1, comma 1, lettera b) e 2, comma 2, lettera b), vedi note alle premesse.
+ - Per la legge 1° marzo 2005, n. 32](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md) e gli articoli 1, comma 1, lettera b) e 2, comma 2, lettera b), vedi note alle premesse.
 
 ### Art. 2. — Definizioni
 
@@ -203,7 +203,7 @@ Elementi essenziali degli accordi di cui al presente articolo sono:
                                 previsione dell'obbligo di subordinare la stipula dei
 contratti alla condizione del regolare esercizio, da parte del vettore, dell'attivita' di autotrasporto;
                             d)
-                                previsione della responsabilita' soggettiva del vettore e, se accertata, del committente, del caricatore e del proprietario della merce, nei termini di cui alla [legge 1° marzo 2005, n. 32, articolo 2, comma 2, lettera b), numero 3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md)), nei casi di violazione della normativa in materia di sicurezza della circolazione, con particolare riguardo a quelle relative al carico dei veicoli, ai tempi di guida e di riposo dei conducenti e alla velocita' massima consentita;
+                                previsione della responsabilita' soggettiva del vettore e, se accertata, del committente, del caricatore e del proprietario della merce, nei termini di cui alla [legge 1° marzo 2005, n. 32, articolo 2, comma 2, lettera b), numero 3](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md)), nei casi di violazione della normativa in materia di sicurezza della circolazione, con particolare riguardo a quelle relative al carico dei veicoli, ai tempi di guida e di riposo dei conducenti e alla velocita' massima consentita;
                             e)
                                 previsione della dichiarazione, da parte dell'impresa di autotrasporto, con riferimento all'operato dei suoi conducenti, dell'osservanza dei contratti collettivi ed individuali di lavoro, della normativa in materia previdenziale ed assistenziale, e di quella in materia di autotrasporto di merci per conto di terzi, nonche' per la perdita, i danni o l'avaria delle merci trasportate;
                             f)
@@ -226,7 +226,7 @@ Gli accordi entrano in vigore dieci giorni dopo la notifica degli stessi, da eff
 Gli accordi collettivi nazionali di settore, stipulati, ai sensi della disciplina tariffaria dettata dalla [legge 6 giugno 1974, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-06;298), e relative disposizioni attuative, prima della data di entrata in vigore dei decreti dirigenziali di cui agli articoli 6, 11 e 12, mantengono la loro validita' fino alla scadenza indicata negli stessi, e comunque non oltre il 31 dicembre 2006.
 
 Note all'[art. 5:
- - Per la legge 1° marzo 2005, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), e l'art. 2, comma 2, lettera b), n. 3, vedi note alle premesse.
+ - Per la legge 1° marzo 2005, n. 32](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), e l'art. 2, comma 2, lettera b), n. 3, vedi note alle premesse.
  - Per la [legge 6 giugno 1974, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-06;298), vedi note all'art. 3.
 
 ### Art. 6. — Forma dei contratti
@@ -447,7 +447,7 @@ Qualora il committente e il destinatario della merce si siano accordati per la r
 
 3.
 
-Per l'esercizio dell'attivita' di commercio di tutte le unita' di movimentazione usate si applicano le disposizioni degli [articoli 126](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [128 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), di cui al [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
+Per l'esercizio dell'attivita' di commercio di tutte le unita' di movimentazione usate si applicano le disposizioni degli [articoli 126](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [128 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), di cui al [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
 
 4.
 
@@ -490,7 +490,7 @@ Il presente Capo ha per oggetto il recepimento della [direttiva n. 2003/59/CE](h
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 14. — (Qualificazione iniziale e formazione periodica dei conducenti)
 
@@ -502,7 +502,7 @@ L'attivita' di guida su strada aperta all'uso pubblico per mezzo di veicoli ((ad
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 15. — (( (Ambito di applicazione). ))
 
@@ -510,7 +510,7 @@ Il [D.Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%2
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 16. — (( (Deroghe). ))
 
@@ -560,7 +560,7 @@ Ai fini della lettera c) del comma 2, si intende:
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 17. — (( (Esenzioni) ))
 
@@ -568,7 +568,7 @@ Il [D.Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%2
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 18. — (Qualificazione iniziale)
 
@@ -615,7 +615,7 @@ I titolari di carta di qualificazione del conducente per il trasporto di cose ch
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 19. — Carta di qualificazione del conducente comprovante la qualificazioneiniziale
 
@@ -663,13 +663,13 @@ Con decreto del Ministro delle infrastrutture e dei trasporti e' dettata la disc
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 22 dicembre 2008, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2021%20novembre%202005%20n.%20286%20recante%20disposizioni%20per%20il%20riassetto%20normativo%20in%20materia%20di%20liberalizzazione%20regolata%20dellesercizio%20dellattivita_b3e50d48d43f.md) ha disposto (con l'art. 2, comma 5) che "Il decreto di cui al [comma 2-bis dell'articolo 19 del decreto legislativo n. 286 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;286#art_19-com2bis), introdotto dall'articolo 2, comma 2, lettera b), e' adottato entro tre mesi dalla data di entrata in vigore del presente decreto legislativo".
+Il [D.Lgs. 22 dicembre 2008, n. 214](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2021%20novembre%202005%20n.%20286%20recante%20disposizioni%20per%20il%20riassetto%20normativo%20in%20materia%20di%20liberalizzazione%20regolata%20dellesercizio%20dellattivita_b3e50d48d43f.md) ha disposto (con l'art. 2, comma 5) che "Il decreto di cui al [comma 2-bis dell'articolo 19 del decreto legislativo n. 286 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;286#art_19-com2bis), introdotto dall'articolo 2, comma 2, lettera b), e' adottato entro tre mesi dalla data di entrata in vigore del presente decreto legislativo".
 
 -------------
 
 AGGIORNAMENTO (6)
 
-Il [D. Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
+Il [D. Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 20. — (( (Formazione periodica). ))
 
@@ -693,7 +693,7 @@ I corsi di formazione sono organizzati da uno dei soggetti di cui all'articolo 1
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 21. — (( (Luogo di svolgimento della qualificazione iniziale e della formazione periodica). ))
 
@@ -701,7 +701,7 @@ Il [D.Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%2
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 22. — Codice unionale
 
@@ -765,7 +765,7 @@ All'atto del rilascio della patente, sulla stessa e' apposto il codice unionale 
 
 AGGIORNAMENTO (6)
 
-Il [D. Lgs. 16 gennaio 2013, n. 2](Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 13, comma 1) che "Nel capo II del [decreto legislativo 21 novembre 2005, n. 286](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20il%20riassetto%20normativo%20in%20materia%20di%20liberalizzazione%20regolata%20dellesercizio%20dellattivita%20di%20autotrasportatore.md), e successive modificazioni, ivi compresi negli allegati che ne costituiscono parte integrante, la parola "merci", ovunque ricorra, e' sostituita dalla seguente: "cose"". 
+Il [D. Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 13, comma 1) che "Nel capo II del [decreto legislativo 21 novembre 2005, n. 286](Disposizioni%20per%20il%20riassetto%20normativo%20in%20materia%20di%20liberalizzazione%20regolata%20dellesercizio%20dellattivita%20di%20autotrasportatore.md), e successive modificazioni, ivi compresi negli allegati che ne costituiscono parte integrante, la parola "merci", ovunque ricorra, e' sostituita dalla seguente: "cose"". 
  Ha inoltre disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 22-bis. — (( (Assistenza reciproca degli Stati dell'Unione europea e dello Spazio economico europeo). ))

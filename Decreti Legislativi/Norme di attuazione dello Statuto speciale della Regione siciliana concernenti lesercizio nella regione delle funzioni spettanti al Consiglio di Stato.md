@@ -72,7 +72,7 @@ In relazione all'assegnazione di sede e al collocamento fuori ruolo dei magistra
 
 4.
 
-Il Presidente del Consiglio di giustizia amministrativa, all'inizio di ciascun anno, assegna quattro consiglieri di Stato alla Sezione giurisdizionale e due alla Sezione consultiva. Ove manchi in una Sezione per un'udienza o adunanza il numero di consiglieri o di componenti necessario per deliberare, il Presidente del Consiglio di giustizia amministrativa provvede ai sensi dell'[articolo 12, secondo comma, del regio decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md).
+Il Presidente del Consiglio di giustizia amministrativa, all'inizio di ciascun anno, assegna quattro consiglieri di Stato alla Sezione giurisdizionale e due alla Sezione consultiva. Ove manchi in una Sezione per un'udienza o adunanza il numero di consiglieri o di componenti necessario per deliberare, il Presidente del Consiglio di giustizia amministrativa provvede ai sensi dell'[articolo 12, secondo comma, del regio decreto 26 giugno 1924, n. 1054](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md).
 
 5.
 

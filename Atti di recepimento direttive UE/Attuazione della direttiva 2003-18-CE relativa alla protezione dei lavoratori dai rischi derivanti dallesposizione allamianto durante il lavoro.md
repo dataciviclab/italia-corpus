@@ -38,7 +38,7 @@ Il titolo del [decreto legislativo 19 settembre 1994, n. 626](Attuazione%20delle
 
 Avvertenza:
 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
 
  Note alle premesse:
@@ -119,7 +119,7 @@ PROTEZIONE DEI LAVORATORI CONTRO I RISCHI CONNESSI ALL'ESPOSIZIONE AD AMIANTO
  c) incapsulamento e confinamento di materiali contenenti amianto che si trovano in buono stato;
  d) sorveglianza e controllo dell'aria e prelievo dei campioni ai fini dell'individuazione della presenza di amianto in un determinato materiale.
  3. Il datore di lavoro effettua nuovamente la valutazione ogni qualvolta si verifichino modifiche che possono comportare un mutamento significativo dell'esposizione dei lavoratori alla polvere proveniente dall'amianto o dai materiali contenenti amianto.
- 4. La Commissione consultiva permanente di cui all'[articolo 393 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), provvede a definire orientamenti pratici per la determinazione delle esposizioni sporadiche e di debole intensita', di cui al comma 2.
+ 4. La Commissione consultiva permanente di cui all'[articolo 393 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), provvede a definire orientamenti pratici per la determinazione delle esposizioni sporadiche e di debole intensita', di cui al comma 2.
 
  Art. 59-sexies.
  Notifica

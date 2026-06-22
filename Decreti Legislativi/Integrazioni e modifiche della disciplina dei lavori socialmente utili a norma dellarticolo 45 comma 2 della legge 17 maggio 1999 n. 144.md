@@ -406,7 +406,7 @@ b) articolo 2, commi 2, 4, 6, 7 e 8;
 
 AGGIORNAMENTO (1)
 
-La [L. 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) ha disposto (con l'art. 78, comma 1) che "La data di presentazione della domanda di ammissione alla contribuzione volontaria di cui all'[articolo 10, comma 1, del decreto legislativo 28 febbraio 2000, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Integrazioni%20e%20modifiche%20della%20disciplina%20dei%20lavori%20socialmente%20utili%20a%20norma%20dellarticolo%2045%20comma%202%20della%20legge%2017%20maggio%201999%20n.%20144.md), e' differita al 30 aprile 2001, fermo restando il possesso, alla data del 31 dicembre 1999, dei relativi requisiti."
+La [L. 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) ha disposto (con l'art. 78, comma 1) che "La data di presentazione della domanda di ammissione alla contribuzione volontaria di cui all'[articolo 10, comma 1, del decreto legislativo 28 febbraio 2000, n. 81](Integrazioni%20e%20modifiche%20della%20disciplina%20dei%20lavori%20socialmente%20utili%20a%20norma%20dellarticolo%2045%20comma%202%20della%20legge%2017%20maggio%201999%20n.%20144.md), e' differita al 30 aprile 2001, fermo restando il possesso, alla data del 31 dicembre 1999, dei relativi requisiti."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

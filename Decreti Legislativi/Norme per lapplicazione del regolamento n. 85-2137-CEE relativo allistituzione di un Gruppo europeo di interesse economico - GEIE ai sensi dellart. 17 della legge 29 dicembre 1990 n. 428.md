@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 29 dicembre 1990, n. 428, che all'art. 17](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md) prevede l'emanazione di un decreto legislativo per dare attuazione al regolamento del Consiglio delle Comunita' europee n. 2137/85 relativo all'istituzione di un Gruppo europeo di interesse economico;
+Vista la [legge 29 dicembre 1990, n. 428, che all'art. 17](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md) prevede l'emanazione di un decreto legislativo per dare attuazione al regolamento del Consiglio delle Comunita' europee n. 2137/85 relativo all'istituzione di un Gruppo europeo di interesse economico;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 luglio 1991;
 

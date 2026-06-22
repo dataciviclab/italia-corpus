@@ -36,7 +36,7 @@ Con decreto del Presidente della Repubblica, su proposta dei Ministri per l'Afri
 
 ## Art. 3.
 
-Sino a quando non sara' provveduto in conformita' dell'art. 2 del presente decreto, restano in vigore, in quanto non contrastanti col presente decreto, le norme contenute nello statuto dell'Ente autonomo "Mostra triennale delle terre italiane d'oltremare", approvato con [regio decreto 4 aprile 1938, n. 2215](../Regi%20decreti/Statuto%20dellEnte%20autonomo%20Mostra%20triennale%20delle%20terre%20italiane%20doltremare.%20038U2215.md).
+Sino a quando non sara' provveduto in conformita' dell'art. 2 del presente decreto, restano in vigore, in quanto non contrastanti col presente decreto, le norme contenute nello statuto dell'Ente autonomo "Mostra triennale delle terre italiane d'oltremare", approvato con [regio decreto 4 aprile 1938, n. 2215](../Atti%20normativi%20abrogati%20%28in%20originale%29/Statuto%20dellEnte%20autonomo%20Mostra%20triennale%20delle%20terre%20italiane%20doltremare.%20038U2215.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

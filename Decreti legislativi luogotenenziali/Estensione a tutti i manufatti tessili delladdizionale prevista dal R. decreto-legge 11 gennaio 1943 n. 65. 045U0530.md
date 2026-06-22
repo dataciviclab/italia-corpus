@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il R. decreto-legge 11 gemano 1943, n. 65;
 
-Visto il testo unico approvato con [R. decreto 14 settembre 1931, n. 1175](../Testi%20Unici/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sulla finanza locale e successive modificazioni;
+Visto il testo unico approvato con [R. decreto 14 settembre 1931, n. 1175](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), sulla finanza locale e successive modificazioni;
 
 Vista la [legge 7 gennaio 1929, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4);
 

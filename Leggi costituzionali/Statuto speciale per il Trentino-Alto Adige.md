@@ -612,7 +612,7 @@ TITOLO VII
 ### Art. 77.
 
 Il Commissario del Governo provvede al mantenimento dell'ordine pubblico, del quale risponde verso il Ministro per l'interno.
- A tale fine egli puo' avvalersi degli organi e delle forze di polizia dello Stato, richiedere l'impiego delle altre forze armate ai termini delle vigenti leggi e adottare i provvedimenti previsti nell'[art. 2 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
+ A tale fine egli puo' avvalersi degli organi e delle forze di polizia dello Stato, richiedere l'impiego delle altre forze armate ai termini delle vigenti leggi e adottare i provvedimenti previsti nell'[art. 2 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
  Restano ferme le attribuzioni devolute dalle leggi vigenti al Ministero dell'interno.
 
 ### Art. 77-bis.

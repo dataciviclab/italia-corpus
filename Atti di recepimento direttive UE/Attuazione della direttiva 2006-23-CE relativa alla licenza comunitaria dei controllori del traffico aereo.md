@@ -18,7 +18,7 @@ Vista la [legge 6 febbraio 2007, n. 13](../Leggi%20di%20delegazione%20europea/Di
 
 Visti i regolamenti (CE) del Parlamento europeo e del Consiglio, del 10 marzo 2004, rispettivamente n. 549/2004, che stabilisce i principi generali per l'istituzione del cielo unico europeo, e n. 550/2004, sulla fornitura di servizi di navigazione aerea nel cielo unico europeo;
 
-Visto il [decreto-legge 8 settembre 2004, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-09-08;237), convertito, con modificazioni, dalla [legge 9 novembre 2004, n. 265](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20settembre%202004%20n.%20237%20recante%20interventi%20urgenti%20nel%20settore%20dellaviazione%20civile.%20Delega%20al%20Governo%20per%20lemanazione%20di%20disposiz_ae0b5d9b97cf.md), recante interventi urgenti nel settore dell'aviazione civile, ed in particolare l'articolo 1, che attribuisce all'ENAC le funzioni di regolazione tecnica, controllo, certificazione e rilascio di licenze in materia di fornitura dei servizi della navigazione aerea;
+Visto il [decreto-legge 8 settembre 2004, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-09-08;237), convertito, con modificazioni, dalla [legge 9 novembre 2004, n. 265](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20settembre%202004%20n.%20237%20recante%20interventi%20urgenti%20nel%20settore%20dellaviazione%20civile.%20Delega%20al%20Governo%20per%20lemanazione%20di%20disposiz_ae0b5d9b97cf.md), recante interventi urgenti nel settore dell'aviazione civile, ed in particolare l'articolo 1, che attribuisce all'ENAC le funzioni di regolazione tecnica, controllo, certificazione e rilascio di licenze in materia di fornitura dei servizi della navigazione aerea;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 febbraio 2008;
 
@@ -39,7 +39,7 @@ Emana il seguente decreto legislativo:
 Il presente decreto legislativo istituisce la licenza comunitaria di controllore del traffico aereo, al fine di aumentare i livelli di sicurezza e migliorare il funzionamento del sistema di controllo del traffico aereo generale.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
 
  Note alle premesse:
@@ -81,7 +81,7 @@ Avvertenza:
  2006/49/CE del Parlamento europeo e del Consiglio, del 14 giugno 2006, relativa all'adeguatezza patrimoniale delle imprese di investimento e degli enti creditizi (rifusione). 2006/54/CE del Parlamento europeo e del Consiglio, del 5 luglio 2006, riguardante l'attuazione del principio delle pari opportunita' e della parita' di trattamento fra uomini e donne in materia di occupazione e impiego (rifusione).».
  - Il regolamento CE 549/2004/CE e' pubblicato nella G.U.U.E. 31 marzo 2004, n. L 96.
  - Il regolamento CE 550/2004/CE e pubblicato nella G.U.U.E. 31 marzo 2004, n. L 96.
- - Il testo dell'[art. 1 del decreto legge 8 settembre 2004, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-09-08;237#art_1) pubblicato nella Gazzetta Ufficiale 10 settembre 2004, n. 213 e convertito in legge, con modificazioni, dall'[art. 1, della legge 9 novembre 2004, n. 265](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20settembre%202004%20n.%20237%20recante%20interventi%20urgenti%20nel%20settore%20dellaviazione%20civile.%20Delega%20al%20Governo%20per%20lemanazione%20di%20disposiz_ae0b5d9b97cf.md), e' il seguente:
+ - Il testo dell'[art. 1 del decreto legge 8 settembre 2004, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-09-08;237#art_1) pubblicato nella Gazzetta Ufficiale 10 settembre 2004, n. 213 e convertito in legge, con modificazioni, dall'[art. 1, della legge 9 novembre 2004, n. 265](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20settembre%202004%20n.%20237%20recante%20interventi%20urgenti%20nel%20settore%20dellaviazione%20civile.%20Delega%20al%20Governo%20per%20lemanazione%20di%20disposiz_ae0b5d9b97cf.md), e' il seguente:
  «Art. 1 (Vigilanza sulla fornitura dei servizi di navigazione aerea e di traffico aereo). - 1. L'Ente nazionale per l'aviazione civile (E.N.A.C.) svolge, quale unico ente regolatore e garante dell'uniforme applicazione delle norme, in applicazione dell'art. 4 del regolamento (CE) n. 549/2004 del Parlamento europeo e del Consiglio, del 10 marzo 2004, le funzioni di regolazione tecnica, controllo, certificazione e rilascio di licenze in materia di fornitura dei servizi di navigazione aerea. Sono salve le attribuzioni del Ministero della difesa in materia di difesa e sicurezza nazionale, nonche' quelle di indirizzo, vigilanza e controllo del Ministero delle infrastrutture e dei trasporti, ivi inclusa la stipula dei contratti di programma e di servizio con E.N.A.C. e ENAV S.p.A. e l'approvazione delle tariffe.
  2. Restano attribuite all'Ente nazionale di assistenza al volo (ENAV S.p.A.) e all'Aeronautica militare le funzioni di istruzione, addestramento e aggiornamento professionale del proprio personale. ENAV S.p.A. garantisce la conformita' degli apparati e dei sistemi di radio-navigazione alle regolamentazioni tecniche internazionali e nazionali vigenti, nonche' il loro mantenimento in efficienza, anche mediante controlli e misurazioni in volo. Le attivita' di radiomisure, salvo quelle svolte direttamente dall'Aeronautica militare, devono essere effettuate da soggetti certificati dall'E.N.A.C.
  3. Per il corretto esercizio delle funzioni di cui al comma 1, l'E.N.A.C. promuove la stipula di appositi atti di intesa, rispettivamente con ENAV S.p.A. e con l'Aeronautica militare, da sottoporre all'approvazione del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro della difesa per le intese con l'Aeronautica militare e con il Ministro dell'economia e delle finanze.».
@@ -160,7 +160,7 @@ Nota all'art. 4:
 
 1.
 
-L'ENAC, ai sensi all'[articolo 734 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), provvede con proprio regolamento a definire i requisiti e le modalita' per il rilascio, il mantenimento, la sospensione e la revoca della licenza di studente o di controllore del traffico aereo.
+L'ENAC, ai sensi all'[articolo 734 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), provvede con proprio regolamento a definire i requisiti e le modalita' per il rilascio, il mantenimento, la sospensione e la revoca della licenza di studente o di controllore del traffico aereo.
 
 2.
 
@@ -344,7 +344,7 @@ Le specializzazioni di istruttore operativo, esaminatore e valutatore sono valid
 
 1.
 
-La certificazione medica e' rilasciata da un organo sanitario o da medici esaminatori riconosciuti dall'ENAC, in conformita' a quanto previsto all'[articolo 734 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+La certificazione medica e' rilasciata da un organo sanitario o da medici esaminatori riconosciuti dall'ENAC, in conformita' a quanto previsto all'[articolo 734 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 2.
 
@@ -371,7 +371,7 @@ I fornitori di servizi del traffico aereo istituiscono procedure affinche' i con
 Il titolare di una licenza si sottopone agli accertamenti sanitari per verificare l'assenza di assunzione di sostanze stupefacenti secondo le modalita' previste dalla normativa vigente.
 
 Note all'art. 11:
- - Per il testo dell'[art. 734 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) si veda la nota all'art. 5.
+ - Per il testo dell'[art. 734 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) si veda la nota all'art. 5.
  - Il [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) recante «[Codice in materia di protezione dei dati personali](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)» e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 29 luglio 2003, n. 174.
 
 ## Art. 12. — Certificazione delle organizzazioni di formazione
@@ -456,7 +456,7 @@ L'ENAC e' l'organismo responsabile dell'accertamento e dell'irrogazione delle sa
 
 8.
 
-Le previsioni di cui al presente articolo non si applicano all'Aeronautica militare, quale fornitore di servizio di controllo del traffico aereo, ai sensi dell'[articolo 21, comma 1 del codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), nonche' al personale militare, che sono soggetti alle norme proprie dell'ordinamento militare.
+Le previsioni di cui al presente articolo non si applicano all'Aeronautica militare, quale fornitore di servizio di controllo del traffico aereo, ai sensi dell'[articolo 21, comma 1 del codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), nonche' al personale militare, che sono soggetti alle norme proprie dell'ordinamento militare.
 
 ))
 
@@ -474,10 +474,10 @@ Con decreto del Ministro della giustizia, di concerto con i Ministri dell'econom
 
 1.
 
-Il [decreto del Presidente della Repubblica 10 maggio 2000, n. 223](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20licenze%20attestati%20e%20abilitazioni%20per%20il%20personale%20addetto%20al%20controllo%20del%20traffico%20aereo.md), recante norme di licenze, attestati e abilitazioni per il personale addetto al controllo del traffico aereo, e' abrogato.
+Il [decreto del Presidente della Repubblica 10 maggio 2000, n. 223](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20licenze%20attestati%20e%20abilitazioni%20per%20il%20personale%20addetto%20al%20controllo%20del%20traffico%20aereo.md), recante norme di licenze, attestati e abilitazioni per il personale addetto al controllo del traffico aereo, e' abrogato.
 
 Nota all'[art. 17:
- - Il decreto del Presidente della Repubblica 10 maggio 2000, n. 223](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20licenze%20attestati%20e%20abilitazioni%20per%20il%20personale%20addetto%20al%20controllo%20del%20traffico%20aereo.md) recante «Regolamento recante norme di licenze, attestati e abilitazioni per il personale addetto al controllo del traffico aereo» e' pubblicato nella Gazzetta Ufficiale 9 agosto 2000, n. 185.
+ - Il decreto del Presidente della Repubblica 10 maggio 2000, n. 223](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20licenze%20attestati%20e%20abilitazioni%20per%20il%20personale%20addetto%20al%20controllo%20del%20traffico%20aereo.md) recante «Regolamento recante norme di licenze, attestati e abilitazioni per il personale addetto al controllo del traffico aereo» e' pubblicato nella Gazzetta Ufficiale 9 agosto 2000, n. 185.
 
 ## Art. 18. — Disposizioni finanziarie
 

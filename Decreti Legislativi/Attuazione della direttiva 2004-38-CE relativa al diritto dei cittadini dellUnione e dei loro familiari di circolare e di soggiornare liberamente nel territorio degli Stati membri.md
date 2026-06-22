@@ -500,7 +500,7 @@ I titolari del diritto di soggiorno permanente di cui all'articolo 14 possono es
 
 7.
 
-I beneficiari del diritto di soggiorno che hanno soggiornato nel territorio nazionale nei precedenti dieci anni o che siano minorenni possono essere allontanati solo per motivi di sicurezza dello Stato o per motivi imperativi di pubblica sicurezza, salvo l'allontanamento sia necessario nell'interesse stesso del minore, secondo quanto previsto dalla Convenzione sui diritti del fanciullo del 20 novembre 1989, ratificata con [legge 27 maggio 1991, n. 176](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sui%20diritti%20del%20fanciullo%20fatta%20a%20New%20York%20il%2020%20novembre%201989.md).
+I beneficiari del diritto di soggiorno che hanno soggiornato nel territorio nazionale nei precedenti dieci anni o che siano minorenni possono essere allontanati solo per motivi di sicurezza dello Stato o per motivi imperativi di pubblica sicurezza, salvo l'allontanamento sia necessario nell'interesse stesso del minore, secondo quanto previsto dalla Convenzione sui diritti del fanciullo del 20 novembre 1989, ratificata con [legge 27 maggio 1991, n. 176](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20sui%20diritti%20del%20fanciullo%20fatta%20a%20New%20York%20il%2020%20novembre%201989.md).
 
 8.
 

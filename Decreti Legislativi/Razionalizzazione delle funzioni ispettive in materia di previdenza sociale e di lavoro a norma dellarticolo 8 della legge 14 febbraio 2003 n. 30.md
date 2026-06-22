@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 febbraio 2003, n. 30](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro.md), ed in particolare l'articolo 8;
+Vista la [legge 14 febbraio 2003, n. 30](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro.md), ed in particolare l'articolo 8;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 gennaio 2004;
 
@@ -481,7 +481,7 @@ Il [D.Lgs. 1 settembre 2011, n. 150](Disposizioni%20complementari%20al%20codice%
 
 AGGIORNAMENTO (6)
 
-La Corte Costituzionale con sentenza 3 - 5 giugno 2013, n. 119 (in G.U. 1a s.s. 12/06/2013, n. 24) ha dichiarato l'illegittimita' costituzionale dell'[articolo 17, comma 3, del decreto legislativo 23 aprile 2004, n. 124](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20delle%20funzioni%20ispettive%20in%20materia%20di%20previdenza%20sociale%20e%20di%20lavoro%20a%20norma%20dellarticolo%208%20della%20legge%2014%20febbraio%202003%20n.%2030.md), nel testo vigente prima dell'entrata in vigore del [decreto legislativo 1°settembre 2011, n. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md), nella parte in cui dispone che il ricorso al Comitato regionale per i rapporti di lavoro sospende anziche' interrompe il termine di cui all'[art. 22 della legge n. 689 del 1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;689#art_22).
+La Corte Costituzionale con sentenza 3 - 5 giugno 2013, n. 119 (in G.U. 1a s.s. 12/06/2013, n. 24) ha dichiarato l'illegittimita' costituzionale dell'[articolo 17, comma 3, del decreto legislativo 23 aprile 2004, n. 124](Razionalizzazione%20delle%20funzioni%20ispettive%20in%20materia%20di%20previdenza%20sociale%20e%20di%20lavoro%20a%20norma%20dellarticolo%208%20della%20legge%2014%20febbraio%202003%20n.%2030.md), nel testo vigente prima dell'entrata in vigore del [decreto legislativo 1°settembre 2011, n. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md), nella parte in cui dispone che il ricorso al Comitato regionale per i rapporti di lavoro sospende anziche' interrompe il termine di cui all'[art. 22 della legge n. 689 del 1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;689#art_22).
 
 ------------
 

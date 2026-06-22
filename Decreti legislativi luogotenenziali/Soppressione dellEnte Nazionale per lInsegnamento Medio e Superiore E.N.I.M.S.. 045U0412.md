@@ -97,7 +97,7 @@ In considerazione dello stato attuale bellico e in deroga al disposto dell'[art.
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 30 agosto 1946, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-08-30;212), ha disposto (con l'art. 3, comma 1) che "E' prorogata all'anno scolastico 1945-46 la disposizione dell'[art. 8 del decreto legislativo luogotenenziale 24 maggio 1945, n. 412](Soppressione%20dellEnte%20Nazionale%20per%20lInsegnamento%20Medio%20e%20Superiore%20E.N.I.M.S..%20045U0412.md), col quale fui consentito che riconoscimenti legali concessi nell'anno scolastico 1944-1945 avessero effetto a decorrere dall'inizio dello stesso anno scolastico 1944-45."
+Il [D.Lgs. del Capo Provvisorio dello Stato 30 agosto 1946, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-08-30;212), ha disposto (con l'art. 3, comma 1) che "E' prorogata all'anno scolastico 1945-46 la disposizione dell'[art. 8 del decreto legislativo luogotenenziale 24 maggio 1945, n. 412](../Atti%20normativi%20abrogati%20%28in%20originale%29/Soppressione%20dellEnte%20Nazionale%20per%20lInsegnamento%20Medio%20e%20Superiore%20E.N.I.M.S..%20045U0412.md), col quale fui consentito che riconoscimenti legali concessi nell'anno scolastico 1944-1945 avessero effetto a decorrere dall'inizio dello stesso anno scolastico 1944-45."
 
 ## Art. 9.
 

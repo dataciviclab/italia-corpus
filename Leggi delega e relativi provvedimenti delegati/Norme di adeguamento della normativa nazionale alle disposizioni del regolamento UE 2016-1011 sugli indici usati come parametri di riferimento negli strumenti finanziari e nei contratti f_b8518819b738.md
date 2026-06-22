@@ -113,7 +113,7 @@ NOTE
  - Il testo dell'[art. 1, comma 1, del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), citato nelle note alle premesse, come modificato dal presente decreto, cosi' recita: 
  «Art. 1 (Definizioni). - 1. Nel presente decreto legislativo si intendono per: 
  a) "[legge fallimentare](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267)": il [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267) e successive modificazioni; 
- b) "Testo Unico bancario" (T.U. bancario): il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) e successive modificazioni; 
+ b) "Testo Unico bancario" (T.U. bancario): il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) e successive modificazioni; 
  c) "CONSOB": la Commissione nazionale per le societa' e la borsa; 
  c-bis) "COVIP": la Commissione di vigilanza sui fondi pensione; 
  d) 'IVASS': L'Istituto per la Vigilanza sulle Assicurazioni; 

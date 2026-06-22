@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [direttiva 1999/70/CE del Consiglio, del 28 giugno 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;70), relativa all'accordo quadro sul lavoro a tempo determinato concluso dalla CES, dall'UNICE e dal CEEP;
 
-Vista la [legge 29 dicembre 2000, n. 422](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202000.md), ed, in particolare, l'articolo 1, commi 1 e 3, e l'allegato B;
+Vista la [legge 29 dicembre 2000, n. 422](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202000.md), ed, in particolare, l'articolo 1, commi 1 e 3, e l'allegato B;
 
 Vista la deliberazione preliminare del Consiglio dei Ministri, adottata nella riunione del 28 giugno 2001;
 

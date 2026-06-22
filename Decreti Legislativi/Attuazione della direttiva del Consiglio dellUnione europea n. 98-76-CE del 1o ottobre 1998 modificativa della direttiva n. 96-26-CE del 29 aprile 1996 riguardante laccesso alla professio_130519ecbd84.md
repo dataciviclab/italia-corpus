@@ -14,7 +14,7 @@ VISTI gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 VISTO l'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_14), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
 
-VISTO l'articolo 1, comma 1 e comma 2 e l'allegato A della [legge 21 dicembre 1999, n. 526](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md), recante "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee " (Legge comunitaria 1999);
+VISTO l'articolo 1, comma 1 e comma 2 e l'allegato A della [legge 21 dicembre 1999, n. 526](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md), recante "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee " (Legge comunitaria 1999);
 
 VISTA la [direttiva del Consiglio dell'Unione Europea n. 98/76/CE del 1 ottobre 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;76) che modifica la [direttiva del Consiglio dell'Unione Europea n. 96/26/CE del 29 aprile 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;26);
 
@@ -598,7 +598,7 @@ A decorrere dalla data del 1 luglio 2001 e fino alla data del ((31 dicembre 2007
 
 1-ter.
 
-Fino all'entrata in vigore del regolamento di cui all'articolo 21 continuano ad applicarsi le disposizioni contenute nei [decreti del Ministro dei trasporti 16 maggio 1991, n. 198](../Regolamenti%20ministeriali/Regolamento%20di%20attuazione%20della%20direttiva%20del%20Consiglio%20delle%20Comunita%20europee%20n.%20438%20del%2021%20giugno%201989%20che%20modifica%20la%20direttiva%20del%20Consiglio%20n.%20561%20del%2012%20novembre%201974%20riguardante%20la_4a6a1c91c64e.md), e [20 dicembre 1991, n. 448](../Regolamenti%20ministeriali/Regolamento%20di%20attuazione%20della%20direttiva%20del%20Consiglio%20delle%20Comunita%20europee%20n.%20438%20del%2021%20giugno%201989%20che%20modifica%20la%20direttiva%20del%20Consiglio%20n.%20562%20del%2012%20novembre%201974%20riguardante%20la_a1a3936615b3.md). (2)
+Fino all'entrata in vigore del regolamento di cui all'articolo 21 continuano ad applicarsi le disposizioni contenute nei [decreti del Ministro dei trasporti 16 maggio 1991, n. 198](../Regolamenti%20ministeriali/Regolamento%20di%20attuazione%20della%20direttiva%20del%20Consiglio%20delle%20Comunita%20europee%20n.%20438%20del%2021%20giugno%201989%20che%20modifica%20la%20direttiva%20del%20Consiglio%20n.%20561%20del%2012%20novembre%201974%20riguardante%20la_4a6a1c91c64e.md), e [20 dicembre 1991, n. 448](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20di%20attuazione%20della%20direttiva%20del%20Consiglio%20delle%20Comunita%20europee%20n.%20438%20del%2021%20giugno%201989%20che%20modifica%20la%20direttiva%20del%20Consiglio%20n.%20562%20del%2012%20novembre%201974%20riguardante%20la_a1a3936615b3.md). (2)
 
 ---------------
 

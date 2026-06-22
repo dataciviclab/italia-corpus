@@ -22,7 +22,7 @@ VITTORIO EMANUELE III
  
  Articolo unico. 
  
- E' convertito in legge il R. decreto-legge 24 gennaio 1935-XIII, n. 88, che apporta alcune aggiunte e modificazioni al testo unico delle leggi sul nuovo catasto, approvato con [R. decreto 8 ottobre 1931, n. 1572](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20nuovo%20catasto.%20031U1572.md). 
+ E' convertito in legge il R. decreto-legge 24 gennaio 1935-XIII, n. 88, che apporta alcune aggiunte e modificazioni al testo unico delle leggi sul nuovo catasto, approvato con [R. decreto 8 ottobre 1931, n. 1572](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20nuovo%20catasto.%20031U1572.md). 
  
  Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
  

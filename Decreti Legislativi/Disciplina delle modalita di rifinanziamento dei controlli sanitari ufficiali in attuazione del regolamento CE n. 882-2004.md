@@ -17,7 +17,7 @@ vigente: true
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
+Il [D.Lgs. 2 febbraio 2021, n. 32](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
 
 ## Art. 2.
 
@@ -28,7 +28,7 @@ Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedime
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
+Il [D.Lgs. 2 febbraio 2021, n. 32](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
 
 ## Art. 3.
 
@@ -39,7 +39,7 @@ Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedime
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
+Il [D.Lgs. 2 febbraio 2021, n. 32](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
 
 ## Art. 4.
 
@@ -50,7 +50,7 @@ Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedime
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
+Il [D.Lgs. 2 febbraio 2021, n. 32](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
 
 ## Art. 5.
 
@@ -61,7 +61,7 @@ Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedime
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
+Il [D.Lgs. 2 febbraio 2021, n. 32](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
 
 ## Art. 6.
 
@@ -72,7 +72,7 @@ Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedime
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
+Il [D.Lgs. 2 febbraio 2021, n. 32](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
 
 ## Art. 7.
 
@@ -83,7 +83,7 @@ Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedime
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
+Il [D.Lgs. 2 febbraio 2021, n. 32](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
 
 ## Art. 8.
 
@@ -94,7 +94,7 @@ Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedime
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
+Il [D.Lgs. 2 febbraio 2021, n. 32](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
 
 ## Art. 9.
 
@@ -105,7 +105,7 @@ Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedime
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
+Il [D.Lgs. 2 febbraio 2021, n. 32](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
 
 ## Art. 10.
 
@@ -116,7 +116,7 @@ Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedime
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
+Il [D.Lgs. 2 febbraio 2021, n. 32](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
 
 ## Art. 11.
 
@@ -127,7 +127,7 @@ Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedime
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
+Il [D.Lgs. 2 febbraio 2021, n. 32](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
 
 ## Art. 12.
 
@@ -138,7 +138,7 @@ Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedime
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
+Il [D.Lgs. 2 febbraio 2021, n. 32](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
 
 ## Art. 13.
 
@@ -149,7 +149,7 @@ Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedime
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
+Il [D.Lgs. 2 febbraio 2021, n. 32](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
 
 ## Art. 14.
 
@@ -160,7 +160,7 @@ Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedime
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
+Il [D.Lgs. 2 febbraio 2021, n. 32](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
 
 ## Art. 15.
 
@@ -171,7 +171,7 @@ Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedime
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
+Il [D.Lgs. 2 febbraio 2021, n. 32](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
 
 ## Art. 16.
 
@@ -182,7 +182,7 @@ Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedime
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
+Il [D.Lgs. 2 febbraio 2021, n. 32](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
 
 ## Art. 17.
 
@@ -193,4 +193,4 @@ Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedime
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 2 febbraio 2021, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".
+Il [D.Lgs. 2 febbraio 2021, n. 32](Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%202017-625%20ai%20sensi%20dellarticolo%2012%20comma%203%20lettera%20g%20della%20legge%204%20ottobre%202019%20n.%20117.%2021G00035.md) ha disposto (con l'art. 21, comma 2) che "Fino alla data del 31 dicembre 2021 continuano ad applicarsi le disposizioni e le tariffe di competenza delle regioni e province autonome e delle Aziende sanitarie locali di cui al [decreto legislativo 19 novembre 2008, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20modalita%20di%20rifinanziamento%20dei%20controlli%20sanitari%20ufficiali%20in%20attuazione%20del%20regolamento%20CE%20n.%20882-2004.md)".

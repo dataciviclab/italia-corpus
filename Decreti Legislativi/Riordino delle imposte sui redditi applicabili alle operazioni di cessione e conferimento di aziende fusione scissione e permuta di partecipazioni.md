@@ -30,37 +30,37 @@ Capo I
 
 ### Art. 1.
 
-ARTICOLO ABROGATO DAL [D.LGS. 12 DICEMBRE 2003, N. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) (3) ((4))
+ARTICOLO ABROGATO DAL [D.LGS. 12 DICEMBRE 2003, N. 344](Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) (3) ((4))
 
 --------------
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
+Il [D.Lgs. 12 dicembre 2003, n. 344](Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
 
 --------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), come modificato dal [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md), ha confermato (con l'art. 3, comma 2) l'abrogazione del presente articolo.
- Inoltre, il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 18, comma 6) che l'abrogazione si applica alle operazioni effettuate nel periodo d'imposta in corso al 1° gennaio 2004 e a partire da quest'ultima data.
+Il [D.Lgs. 12 dicembre 2003, n. 344](Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), come modificato dal [D.Lgs. 18 novembre 2005, n. 247](Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md), ha confermato (con l'art. 3, comma 2) l'abrogazione del presente articolo.
+ Inoltre, il [D.Lgs. 18 novembre 2005, n. 247](Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 18, comma 6) che l'abrogazione si applica alle operazioni effettuate nel periodo d'imposta in corso al 1° gennaio 2004 e a partire da quest'ultima data.
 
 ### Art. 2.
 
-ARTICOLO ABROGATO DAL [D.LGS. 12 DICEMBRE 2003, N. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) (3) ((4))
+ARTICOLO ABROGATO DAL [D.LGS. 12 DICEMBRE 2003, N. 344](Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) (3) ((4))
 
 --------------
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
+Il [D.Lgs. 12 dicembre 2003, n. 344](Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
 
 --------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), come modificato dal [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md), ha confermato (con l'art. 3, comma 2) l'abrogazione del presente articolo.
- Inoltre, il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 18, comma 6) che l'abrogazione si applica alle operazioni effettuate nel periodo d'imposta in corso al 1° gennaio 2004 e a partire da quest'ultima data.
+Il [D.Lgs. 12 dicembre 2003, n. 344](Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), come modificato dal [D.Lgs. 18 novembre 2005, n. 247](Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md), ha confermato (con l'art. 3, comma 2) l'abrogazione del presente articolo.
+ Inoltre, il [D.Lgs. 18 novembre 2005, n. 247](Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 18, comma 6) che l'abrogazione si applica alle operazioni effettuate nel periodo d'imposta in corso al 1° gennaio 2004 e a partire da quest'ultima data.
 
 ### Art. 3. — Conferimenti di aziende o di partecipazioni
  di controllo o di collegamento
@@ -81,13 +81,13 @@ Qualora il conferimento abbia ad oggetto l'unica azienda dell'imprenditore indiv
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
+Il [D.Lgs. 12 dicembre 2003, n. 344](Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
 
 --------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), come modificato dal [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md), ha disposto (con l'art. 3, comma 2) l'abrogazione dei soli artt. 1, 2 e 6 del presente decreto, con conseguente ripristino del presente articolo.
+Il [D.Lgs. 12 dicembre 2003, n. 344](Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), come modificato dal [D.Lgs. 18 novembre 2005, n. 247](Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md), ha disposto (con l'art. 3, comma 2) l'abrogazione dei soli artt. 1, 2 e 6 del presente decreto, con conseguente ripristino del presente articolo.
 
 ### Art. 4. — Regimi fiscali del soggetto conferente
  e del soggetto conferitario
@@ -109,7 +109,7 @@ Qualora non sia esercitata l'opzione di cui al comma 2, l'aumento di patrimonio 
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
+Il [D.Lgs. 12 dicembre 2003, n. 344](Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
 
 ### Art. 5. — Scambi di partecipazioni
 
@@ -126,30 +126,30 @@ Le azioni o quote ricevute a seguito di conferimenti in societa', mediante i qua
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
+Il [D.Lgs. 12 dicembre 2003, n. 344](Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
 
 --------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), come modificato dal [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md), ha disposto (con l'art. 3, comma 2) l'abrogazione dei soli artt. 1, 2 e 6 del presente decreto, con conseguente ripristino del presente articolo.
+Il [D.Lgs. 12 dicembre 2003, n. 344](Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), come modificato dal [D.Lgs. 18 novembre 2005, n. 247](Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md), ha disposto (con l'art. 3, comma 2) l'abrogazione dei soli artt. 1, 2 e 6 del presente decreto, con conseguente ripristino del presente articolo.
 
 ### Art. 6.
 
-ARTICOLO ABROGATO DAL [D.LGS. 12 DICEMBRE 2003, N. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) (3) ((4))
+ARTICOLO ABROGATO DAL [D.LGS. 12 DICEMBRE 2003, N. 344](Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) (3) ((4))
 
 --------------
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
+Il [D.Lgs. 12 dicembre 2003, n. 344](Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
 
 --------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), come modificato dal [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md), ha confermato (con l'art. 3, comma 2) l'abrogazione del presente articolo.
- Inoltre, il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 18, comma 6) che l'abrogazione si applica alle operazioni effettuate nel periodo d'imposta in corso al 1° gennaio 2004 e a partire da quest'ultima data.
+Il [D.Lgs. 12 dicembre 2003, n. 344](Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), come modificato dal [D.Lgs. 18 novembre 2005, n. 247](Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md), ha confermato (con l'art. 3, comma 2) l'abrogazione del presente articolo.
+ Inoltre, il [D.Lgs. 18 novembre 2005, n. 247](Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 18, comma 6) che l'abrogazione si applica alle operazioni effettuate nel periodo d'imposta in corso al 1° gennaio 2004 e a partire da quest'ultima data.
 
 ## DISPOSIZIONI IN MATERIA DI COMPORTAMENTI ELUSIVI
 

@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'[articolo 20 della legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), legge comunitaria per il 1993, recante delega al Governo per l'attuazione della [direttiva 91/674/CEE, del Consiglio del 19 dicembre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;674);
 
-Vista la [legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), legge comunitaria per il 1994, ed in particolare l'articolo 6, comma 1;
+Vista la [legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), legge comunitaria per il 1994, ed in particolare l'articolo 6, comma 1;
 
 Visto il [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md), che approva il testo unico delle leggi sull'esercizio delle assicurazioni private;
 
@@ -81,7 +81,7 @@ Le attivita' e le passivita' relative ai fondi pensione gestiti dall'impresa di 
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 3.
 
@@ -128,7 +128,7 @@ Ai fini del comma 1 la nozione di controllo e' quella definita dall'[articolo 23
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 6.
 
@@ -179,7 +179,7 @@ TITOLO II
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 15. — Attivi patrimoniali ad utilizzo durevole
 
@@ -241,13 +241,13 @@ Il minor costo dei titoli obbligazionari ad utilizzo durevole rispetto al loro p
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 2 febbraio 2007, n. 32](Attuazione%20della%20direttiva%202003-51-CE%20che%20modifica%20le%20direttive%2078-660%2083-349%2086-635%20e%2091-674-CEE%20relative%20ai%20conti%20annuali%20e%20ai%20conti%20consolidati%20di%20taluni%20tipi%20di%20societa%20delle%20banche%20e_9e14ba9eb406.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi aventi inizio dalla data successiva a quella della sua entrata in vigore."
+Il [D.Lgs. 2 febbraio 2007, n. 32](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-51-CE%20che%20modifica%20le%20direttive%2078-660%2083-349%2086-635%20e%2091-674-CEE%20relative%20ai%20conti%20annuali%20e%20ai%20conti%20consolidati%20di%20taluni%20tipi%20di%20societa%20delle%20banche%20e_9e14ba9eb406.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi aventi inizio dalla data successiva a quella della sua entrata in vigore."
 
 ---------------
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md) ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md) ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 17. — Valore corrente
  degli investimenti trattati in mercati regolamentati
@@ -380,7 +380,7 @@ I titoli costituiti in deposito presso un'impresa cedente o terzi e che restano 
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md) ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md) ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 24. — Investimenti a beneficio di assicurati dei rami vita i quali ne
  sopportano il rischio
@@ -429,7 +429,7 @@ Nella nota integrativa e' fornito il dettaglio della voce di cui al comma 1 in c
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 3 novembre 2003, n. 307](Attuazione%20delle%20direttive%202002-12-CE%20e%202002-13-CE%20concernenti%20il%20margine%20di%20solvibilita%20delle%20imprese%20di%20assicurazione%20rispettivamente%20sulla%20vita%20e%20nei%20rami%20diversi%20dallassicurazione%20sulla%20vita.md) ha disposto (con l'art. 20, comma 1) che la suddetta modifica si applica a decorrere dal bilancio dell'esercizio 2004.
+Il [D.Lgs. 3 novembre 2003, n. 307](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202002-12-CE%20e%202002-13-CE%20concernenti%20il%20margine%20di%20solvibilita%20delle%20imprese%20di%20assicurazione%20rispettivamente%20sulla%20vita%20e%20nei%20rami%20diversi%20dallassicurazione%20sulla%20vita.md) ha disposto (con l'art. 20, comma 1) che la suddetta modifica si applica a decorrere dal bilancio dell'esercizio 2004.
 
 ### Art. 29. — Altre riserve
 

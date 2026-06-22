@@ -151,7 +151,7 @@ Le disposizioni di cui al comma 1 si applicano a decorrere dalla data di entrata
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 29 ottobre 1999, n. 419](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20del%20sistema%20degli%20enti%20pubblici%20nazionali%20a%20norma%20degli%20articoli%2011%20e%2014%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 6, comma 7) che "In deroga a quanto previsto dall'[articolo 3, comma 1, del decreto legislativo 4 giugno 1997, n. 143](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20alle%20regioni%20delle%20funzioni%20amministrative%20in%20materia%20di%20agricoltura%20e%20pesca%20e%20riorganizzazione%20dellAmministrazione%20centrale.md), l'Agecontrol s.p.a. continua a svolgere i propri compiti sino al termine previsto dal regolamento (CEE) n. 2262/84 del Consiglio, come prorogato dal regolamento (CE) n. 150/99 del Consiglio, del 19 gennaio 1999".
+Il [D.Lgs. 29 ottobre 1999, n. 419](Riordinamento%20del%20sistema%20degli%20enti%20pubblici%20nazionali%20a%20norma%20degli%20articoli%2011%20e%2014%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 6, comma 7) che "In deroga a quanto previsto dall'[articolo 3, comma 1, del decreto legislativo 4 giugno 1997, n. 143](Conferimento%20alle%20regioni%20delle%20funzioni%20amministrative%20in%20materia%20di%20agricoltura%20e%20pesca%20e%20riorganizzazione%20dellAmministrazione%20centrale.md), l'Agecontrol s.p.a. continua a svolgere i propri compiti sino al termine previsto dal regolamento (CEE) n. 2262/84 del Consiglio, come prorogato dal regolamento (CE) n. 150/99 del Consiglio, del 19 gennaio 1999".
 
 ## Art. 4. — Trasferimento di risorse alle regioni
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 27 luglio 2005, n. 154](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20disciplina%20dellordinamento%20della%20carriera%20dirigenziale%20penitenziaria.md), recante delega al Governo per la disciplina dell'ordinamento della carriera dirigenziale penitenziaria;
+Vista la [legge 27 luglio 2005, n. 154](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20disciplina%20dellordinamento%20della%20carriera%20dirigenziale%20penitenziaria.md), recante delega al Governo per la disciplina dell'ordinamento della carriera dirigenziale penitenziaria;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 dicembre 2005;
 
@@ -32,13 +32,13 @@ Capo I
 
 1.
 
-Il presente decreto legislativo disciplina la carriera dirigenziale penitenziaria individuata dalla [legge 27 luglio 2005, n. 154](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20disciplina%20dellordinamento%20della%20carriera%20dirigenziale%20penitenziaria.md), e da' attuazione alla delega legislativa al Governo contenuta nella stessa legge.
+Il presente decreto legislativo disciplina la carriera dirigenziale penitenziaria individuata dalla [legge 27 luglio 2005, n. 154](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20disciplina%20dellordinamento%20della%20carriera%20dirigenziale%20penitenziaria.md), e da' attuazione alla delega legislativa al Governo contenuta nella stessa legge.
 
 2.
 
 Ai fini del presente decreto legislativo, si intendono:
                             a)
-                                per legge, la [legge 27 luglio 2005, n. 154](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20disciplina%20dellordinamento%20della%20carriera%20dirigenziale%20penitenziaria.md);
+                                per legge, la [legge 27 luglio 2005, n. 154](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20disciplina%20dellordinamento%20della%20carriera%20dirigenziale%20penitenziaria.md);
                             b)
                                 per decreto, il presente decreto legislativo;
                             c)
@@ -72,7 +72,7 @@ Avvertenza:
  Puo' concedere grazia e commutare le pene.
  Conferisce le onorificenze della Repubblica.».
  Note all'[art. 1:
- - La legge 27 luglio 2005, n. 154](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20disciplina%20dellordinamento%20della%20carriera%20dirigenziale%20penitenziaria.md) reca: «Delega al Governo per la disciplina dell'ordinamento della carriera dirigenziale penitenziaria».
+ - La legge 27 luglio 2005, n. 154](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20disciplina%20dellordinamento%20della%20carriera%20dirigenziale%20penitenziaria.md) reca: «Delega al Governo per la disciplina dell'ordinamento della carriera dirigenziale penitenziaria».
 
 ### Art. 2. — Funzioni dirigenziali
 
@@ -721,7 +721,7 @@ Note all'[art. 28:
 
 All'onere derivante dall'applicazione del presente decreto, valutato complessivamente in euro 5.868.825 annui, si provvede:
                             a)
-                                quanto a euro 4.021.784 annui, a decorrere dall'anno 2006, a valere sull'autorizzazione di spesa di cui all'[articolo 5 della legge 27 luglio 2005, n. 154](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20disciplina%20dellordinamento%20della%20carriera%20dirigenziale%20penitenziaria.md);
+                                quanto a euro 4.021.784 annui, a decorrere dall'anno 2006, a valere sull'autorizzazione di spesa di cui all'[articolo 5 della legge 27 luglio 2005, n. 154](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20disciplina%20dellordinamento%20della%20carriera%20dirigenziale%20penitenziaria.md);
                             b)
                                 quanto a euro 1.847.041 annui, a decorrere dall'anno 2006, a valere sulle risorse di cui all'[articolo 50, comma 9, lettera d), della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), nonche' mediante riduzione della dotazione organica delle aree funzionali in un numero di posti tale da determinare una riduzione di spesa di ammontare equivalente; ai predetti fini si puo' procedere all'inquadramento progressivo nella qualifica di dirigente penitenziario di tutti i soggetti in possesso dei requisiti prescritti contestualmente alle cessazioni del personale delle predette aree funzionali.
 
@@ -738,7 +738,7 @@ Il Ministero dell'economia e delle finanze provvede al monitoraggio dell'attuazi
 Visto, il Guardasigilli: Castelli
 
 Note all'art. 29:
- - Si riporta il testo dell'art. 5 della citata [legge 27 luglio 2005, n. 154](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20disciplina%20dellordinamento%20della%20carriera%20dirigenziale%20penitenziaria.md):
+ - Si riporta il testo dell'art. 5 della citata [legge 27 luglio 2005, n. 154](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20disciplina%20dellordinamento%20della%20carriera%20dirigenziale%20penitenziaria.md):
  «Art. 5 (Copertura finanziaria). - 1. Agli oneri derivanti dall'attuazione delle disposizioni di cui agli articoli 1 e 4, valutati in euro 4.021.784 annui per le differenze stipendiali connesse ai passaggi di qualifica e determinati nel limite massimo di euro 1.240.505 annui per le maggiori prestazioni di lavoro straordinario, e' autorizzata la spesa complessiva di euro 5.262.289 annui a decorrere dall'anno 2005.
  2. Per l'attuazione delle disposizioni di cui all'art. 1, comma 1, lettera g), e' autorizzata la spesa nel limite massimo di euro 70.711 annui a decorrere dall'anno 2005.
  3. All'onere complessivo di cui commi 1 e 2 si provvede mediante corrispondente riduzione, a decorrere dall'anno 2005, dell'autorizzazione di spesa di cui all'[art. 33, comma 7, della legge 27 dicembre 2002, n. 289](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md).

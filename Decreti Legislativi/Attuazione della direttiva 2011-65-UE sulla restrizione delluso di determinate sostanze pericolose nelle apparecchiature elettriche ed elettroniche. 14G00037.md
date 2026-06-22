@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 6 agosto 2013, n. 96](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013.%2013G00137.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013;
+Vista la [legge 6 agosto 2013, n. 96](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013.%2013G00137.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013;
 
 Vista la [direttiva 2011/65/UE del Parlamento europeo e del Consiglio, dell'8 giugno 2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2011;65), sulla restrizione dell'uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche;
 
@@ -62,7 +62,7 @@ Avvertenza:
  Note alle premesse: 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
- - La [legge n. 96 del 6 agosto 2013](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013.%2013G00137.md) (Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013) e' pubblicata nella Gazzetta Ufficiale del 20 agosto 2013, n. 194. 
+ - La [legge n. 96 del 6 agosto 2013](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013.%2013G00137.md) (Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013) e' pubblicata nella Gazzetta Ufficiale del 20 agosto 2013, n. 194. 
  - La [direttiva 2011/65/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2011;65) e' pubblicata nella G.U.U.E. 1° luglio 2011, n. L 174. 
  - La [direttive 2012/50/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2012;50) e [2012/51/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2012;51) sono pubblicate nella G.U.U.E. 18 dicembre 2012, n. L 348. 
  - La decisione n. 768/2008/CE e' pubblicata nella G.U.U.E. 2 ottobre 2008, n. L 263. 

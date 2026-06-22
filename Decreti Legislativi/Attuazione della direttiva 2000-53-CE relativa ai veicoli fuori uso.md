@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 1° marzo 2002, n. 39](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), ed in particolare l'articolo 1, commi 1, 3 e 5, e l'allegato B;
+Vista la [legge 1° marzo 2002, n. 39](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), ed in particolare l'articolo 1, commi 1, 3 e 5, e l'allegato B;
 
 Vista la [direttiva 2000/53/CE del Parlamento europeo e del Consiglio, del 18 settembre 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;53), relativa ai veicoli fuori uso;
 
@@ -388,7 +388,7 @@ Fermo restando il rispetto delle norme vigenti in materia di riservatezza commer
 
 2.
 
-COMMA SOPPRESSO DAL [D.LGS. 23 FEBBRAIO 2006, N. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2024%20giugno%202003%20n.%20209%20recante%20attuazione%20della%20direttiva%202000-53-CE%20in%20materia%20di%20veicoli%20fuori%20uso.md).
+COMMA SOPPRESSO DAL [D.LGS. 23 FEBBRAIO 2006, N. 149](Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2024%20giugno%202003%20n.%20209%20recante%20attuazione%20della%20direttiva%202000-53-CE%20in%20materia%20di%20veicoli%20fuori%20uso.md).
 
 3.
 

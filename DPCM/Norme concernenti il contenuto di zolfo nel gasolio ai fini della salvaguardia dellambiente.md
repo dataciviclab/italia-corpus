@@ -16,7 +16,7 @@ Visto l'[art. 2, comma 2, della legge 8 luglio 1986, n. 349](https://www.normatt
 
 Vista la [legge 13 luglio 1966, n. 615](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20contro%20linquinamento%20atmosferico.md);
 
-Visto il [decreto del Presidente della Repubblica 8 giugno 1982, n. 400](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2075-716%20relativa%20al%20tenore%20di%20zolfo%20di%20taluni%20combustibili%20liquidi.md);
+Visto il [decreto del Presidente della Repubblica 8 giugno 1982, n. 400](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2075-716%20relativa%20al%20tenore%20di%20zolfo%20di%20taluni%20combustibili%20liquidi.md);
 
 Visto il decreto del Presidente del Consiglio dei Ministri 28 marzo 1983, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 145 del 28 maggio 1983;
 
@@ -41,7 +41,7 @@ Sulla proposta del Ministro dell'ambiente, di concerto con il Ministro della san
 Ai sensi del presente decreto si intende per gasolio qualsiasi prodotto petrolifero definito nella sottovoce 27.10 CI della tariffa doganale comune, edizione 10 dicembre 1984, o che, per i suoi limiti di distillazione, fa parte dei distillati medi destinati ad essere utilizzati come combustibili o carburanti e di cui almeno l'85% in volume, comprese le perdite di distillazione, distilla a 350 C.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - La [legge n. 349/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;349) concerne l'istituzione del Ministero dell'ambiente e norme in materia di danno ambientale. Il comma 2 dell'art. 2 cosi' recita: "2. Con decreti del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'ambiente, di concerto con il Ministro della sanita' e sentito il Ministro dell'industria, del commercio e dell'artigianato, sono stabilite per l'intero territorio nazionale e per zone particolari dello stesso le caratteristiche merceologiche, aventi rilievo ai fini dell'inquinamento atmosferico, dei combustibili e dei carburanti, nonche' le caratteristiche tecnologiche degli impianti di combustione".
  - La [legge n. 615/1966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966;615) concerne provvedimenti contro l'inquinamento atmosferico.
@@ -78,7 +78,7 @@ L'immissione in commercio e l'utilizzazione del gasolio con contenuto di zolfo m
 
 1.
 
-Il sindaco dei comuni di cui all'art. 4, qualora, a causa di un mutamento improvviso nell'approvvigionamento di petrolio e di prodotti petroliferi, sopravvengano difficolta' alla disponibilita' di gasolio con contenuto di zolfo pari allo 0,2% in peso, puo' introdurre deroghe a quanto previsto dall'art. 4 del presente decreto per un periodo di tempo non superiore ad un mese, fermo restando il disposto dell'[art. 2 del decreto del Presidente della Repubblica 8 giugno 1982, n. 400](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2075-716%20relativa%20al%20tenore%20di%20zolfo%20di%20taluni%20combustibili%20liquidi.md).
+Il sindaco dei comuni di cui all'art. 4, qualora, a causa di un mutamento improvviso nell'approvvigionamento di petrolio e di prodotti petroliferi, sopravvengano difficolta' alla disponibilita' di gasolio con contenuto di zolfo pari allo 0,2% in peso, puo' introdurre deroghe a quanto previsto dall'art. 4 del presente decreto per un periodo di tempo non superiore ad un mese, fermo restando il disposto dell'[art. 2 del decreto del Presidente della Repubblica 8 giugno 1982, n. 400](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2075-716%20relativa%20al%20tenore%20di%20zolfo%20di%20taluni%20combustibili%20liquidi.md).
 
 2.
 

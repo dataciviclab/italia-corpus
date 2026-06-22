@@ -16,15 +16,15 @@ Vista la [legge 31 dicembre 1998, n. 485](../Leggi%20delega%20e%20relativi%20pro
 
 Vista la [legge 16 giugno 1939, n. 1045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-16;1045), inerente le condizioni di igiene ed abitabilita' degli equipaggi a bordo delle navi mercantili nazionali;
 
-Vista la [legge 2 agosto 1952, n. 1305](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20di%20ventisette%20convenzioni%20internazionali%20del%20lavoro.md), inerente la ratifica ed esecuzione delle convenzioni internazionali del lavoro n. 68 sul servizio di alimentazione a bordo delle navi e n. 69 concernente il diploma di capacita' professionale dei cuochi di bordo;
+Vista la [legge 2 agosto 1952, n. 1305](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20di%20ventisette%20convenzioni%20internazionali%20del%20lavoro.md), inerente la ratifica ed esecuzione delle convenzioni internazionali del lavoro n. 68 sul servizio di alimentazione a bordo delle navi e n. 69 concernente il diploma di capacita' professionale dei cuochi di bordo;
 
-Vista la [legge 10 aprile 1981, n. 157](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%2074%20109%20129%20132%20134%20135%20136%20137%20138%20e%20139%20dellOrganizzazione%20internazionale%20del%20lavoro.md), inerente la ratifica ed esecuzione delle convenzioni internazionali del lavoro n. 109 relativa alla durata del lavoro a bordo e gli effettivi dell'equipaggio, n. 134 sulla prevenzione degli infortuni della gente di mare e n. 139 sulla prevenzione ed il controllo dei rischi professionali causati da sostanze ed agenti cancerogeni;
+Vista la [legge 10 aprile 1981, n. 157](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%2074%20109%20129%20132%20134%20135%20136%20137%20138%20e%20139%20dellOrganizzazione%20internazionale%20del%20lavoro.md), inerente la ratifica ed esecuzione delle convenzioni internazionali del lavoro n. 109 relativa alla durata del lavoro a bordo e gli effettivi dell'equipaggio, n. 134 sulla prevenzione degli infortuni della gente di mare e n. 139 sulla prevenzione ed il controllo dei rischi professionali causati da sostanze ed agenti cancerogeni;
 
 Vista la Convenzione di Londra sulla salvaguardia della vita umana in mare di cui alla [legge 23 maggio 1980, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-05-23;313), e successivi emendamenti di seguito denominata Convenzione Solas;
 
-Vista la [legge 10 aprile 1981, n. 158](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%2092%20133%20e%20143%20dellOrganizzazione%20internazionale%20del%20lavoro.md), inerente la ratifica ed esecuzione delle convenzioni internazionali del lavoro n. 92 e n. 133 sugli alloggi dell'equipaggio a bordo delle navi;
+Vista la [legge 10 aprile 1981, n. 158](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%2092%20133%20e%20143%20dellOrganizzazione%20internazionale%20del%20lavoro.md), inerente la ratifica ed esecuzione delle convenzioni internazionali del lavoro n. 92 e n. 133 sugli alloggi dell'equipaggio a bordo delle navi;
 
-Vista la [legge 10 aprile 1981, n. 159](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%20145%20146%20e%20147%20adottate%20a%20Ginevra%20il%2028%20e%2029%20ottobre%201976%20dalla%2062ª%20sessione%20della%20Conferenza%20Internazionale%20del%20lavoro.md), inerente la ratifica ed esecuzione della convenzione internazionale del lavoro n. 147 relativa alle norme minime di sicurezza da osservare sulle navi mercantili;
+Vista la [legge 10 aprile 1981, n. 159](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%20145%20146%20e%20147%20adottate%20a%20Ginevra%20il%2028%20e%2029%20ottobre%201976%20dalla%2062ª%20sessione%20della%20Conferenza%20Internazionale%20del%20lavoro.md), inerente la ratifica ed esecuzione della convenzione internazionale del lavoro n. 147 relativa alle norme minime di sicurezza da osservare sulle navi mercantili;
 
 Visto il [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md), concernente regolamento per la sicurezza della navigazione e della vita umana in mare;
 
@@ -113,11 +113,11 @@ AVVERTENZA:
  bordo delle navi mercantili nazionali" e' pubblicato nel
  supplemento ordinario alla Gazzetta Ufficiale 31 luglio
  1939, n. 177".
- - Il testo della [legge 2 agosto 1952, n. 1305](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20di%20ventisette%20convenzioni%20internazionali%20del%20lavoro.md), recante:
+ - Il testo della [legge 2 agosto 1952, n. 1305](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20di%20ventisette%20convenzioni%20internazionali%20del%20lavoro.md), recante:
  "Ratifica ed esecuzione di ventisette convenzioni
  internazionali del lavoro" e' pubblicato nel supplemento
  ordinario alla Gazzetta Ufficiale 17 ottobre 1952, n. 242".
- - Il testo della [legge 10 aprile 1981, n.157](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%2074%20109%20129%20132%20134%20135%20136%20137%20138%20e%20139%20dellOrganizzazione%20internazionale%20del%20lavoro.md), recante:
+ - Il testo della [legge 10 aprile 1981, n.157](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%2074%20109%20129%20132%20134%20135%20136%20137%20138%20e%20139%20dellOrganizzazione%20internazionale%20del%20lavoro.md), recante:
  "Ratifica ed esecuzione delle convenzioni numeri 74, 109,
  129, 132, 134, 135, 136, 137, 138 e 139 dell'Organizzazione
  internazionale del lavoro" e' pubblicato nel supplemento
@@ -128,12 +128,12 @@ AVVERTENZA:
  alla firma a Londra il 1 novembre 1974, e sua esecuzione"
  e' pubblicato nel supplemento ordinario alla Gazzetta
  Ufficiale 12 luglio 1980, n. 190".
- - Il testo della [legge 10 aprile 1981, n. 158](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%2092%20133%20e%20143%20dellOrganizzazione%20internazionale%20del%20lavoro.md), recante:
+ - Il testo della [legge 10 aprile 1981, n. 158](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%2092%20133%20e%20143%20dellOrganizzazione%20internazionale%20del%20lavoro.md), recante:
  "Ratifica ed esecuzione delle convenzioni numeri 92, 133 e
  143 dell'Organizzazione internazionale del lavoro" e'
  pubblicato nel supplemento ordinario alla Gazzetta
  Ufficiale 29 aprile 1981, n.116".
- - Il testo della [legge 10 aprile 1981, n. 159](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%20145%20146%20e%20147%20adottate%20a%20Ginevra%20il%2028%20e%2029%20ottobre%201976%20dalla%2062ª%20sessione%20della%20Conferenza%20Internazionale%20del%20lavoro.md), recante:
+ - Il testo della [legge 10 aprile 1981, n. 159](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%20145%20146%20e%20147%20adottate%20a%20Ginevra%20il%2028%20e%2029%20ottobre%201976%20dalla%2062ª%20sessione%20della%20Conferenza%20Internazionale%20del%20lavoro.md), recante:
  "Ratifica ed esecuzione delle convenzioni numeri 145, 146 e
  147, adottate a Ginevra il 28 e 29 ottobre 1976 dalla 62a
  sessione della Conferenza internazionale del lavoro", e'
@@ -630,7 +630,7 @@ Non appena possibile dopo che e' stata ripristinata la normale condizione di nav
 
 AGGIORNAMENTO (3)
 
-La [L. 6 agosto 2013, n. 97](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20degli%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20allUnione%20europea%20-%20Legge%20europea%202013.%2013G00138.md) ha disposto (con l'art. 11, comma 2) che "I contratti collettivi stipulati a decorrere dal 24 novembre 2010 che abbiano stabilito deroghe ai sensi dell'[articolo 11, comma 7, del decreto legislativo 27 luglio 1999, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20marittimi%20a%20bordo%20delle%20navi%20mercantili%20da%20pesca%20nazionali%20a%20norma%20della%20legge%2031%20dicembre%201998%20n.%20485.md), nel testo vigente prima della data di entrata in vigore della presente legge, devono essere sottoposti all'autorizzazione di cui al medesimo [articolo 11, comma 7, del decreto legislativo n. 271 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;271#art_11-com7), come sostituito dal comma 1 del presente articolo, entro sei mesi dalla data di entrata in vigore della presente legge. Qualora l'autorizzazione non venga richiesta, ovvero non venga concessa, le clausole dei contratti collettivi, le quali abbiano stabilito le deroghe di cui al primo periodo, perdono efficacia".
+La [L. 6 agosto 2013, n. 97](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20degli%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20allUnione%20europea%20-%20Legge%20europea%202013.%2013G00138.md) ha disposto (con l'art. 11, comma 2) che "I contratti collettivi stipulati a decorrere dal 24 novembre 2010 che abbiano stabilito deroghe ai sensi dell'[articolo 11, comma 7, del decreto legislativo 27 luglio 1999, n. 271](Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20marittimi%20a%20bordo%20delle%20navi%20mercantili%20da%20pesca%20nazionali%20a%20norma%20della%20legge%2031%20dicembre%201998%20n.%20485.md), nel testo vigente prima della data di entrata in vigore della presente legge, devono essere sottoposti all'autorizzazione di cui al medesimo [articolo 11, comma 7, del decreto legislativo n. 271 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;271#art_11-com7), come sostituito dal comma 1 del presente articolo, entro sei mesi dalla data di entrata in vigore della presente legge. Qualora l'autorizzazione non venga richiesta, ovvero non venga concessa, le clausole dei contratti collettivi, le quali abbiano stabilito le deroghe di cui al primo periodo, perdono efficacia".
 
 ## Art. 12. — Servizio di prevenzione e protezione - criteri generali
 
@@ -942,10 +942,10 @@ L'Autorita' di cui al comma 1, entro un mese dalla fine dell'anno di riferimento
 
 3.
 
-I dati statistici forniti saranno elaborati a cura del Ministero e, ai fini della prevenzione degli infortuni, annualmente sara' predisposto un rapporto informativo che sara' inviato al Ministero del lavoro e della previdenza sociale, al Ministero della sanita', alle parti sociali interessate e, per conoscenza, all'Ufficio internazionale del lavoro ai sensi della [legge 10 aprile 1981, n.157](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%2074%20109%20129%20132%20134%20135%20136%20137%20138%20e%20139%20dellOrganizzazione%20internazionale%20del%20lavoro.md).
+I dati statistici forniti saranno elaborati a cura del Ministero e, ai fini della prevenzione degli infortuni, annualmente sara' predisposto un rapporto informativo che sara' inviato al Ministero del lavoro e della previdenza sociale, al Ministero della sanita', alle parti sociali interessate e, per conoscenza, all'Ufficio internazionale del lavoro ai sensi della [legge 10 aprile 1981, n.157](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%2074%20109%20129%20132%20134%20135%20136%20137%20138%20e%20139%20dellOrganizzazione%20internazionale%20del%20lavoro.md).
 
 Nota all'art. 26:
- - Per il testo della [legge 10 aprile 1981 n. 157](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%2074%20109%20129%20132%20134%20135%20136%20137%20138%20e%20139%20dellOrganizzazione%20internazionale%20del%20lavoro.md), vedi note alle premesse.
+ - Per il testo della [legge 10 aprile 1981 n. 157](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%2074%20109%20129%20132%20134%20135%20136%20137%20138%20e%20139%20dellOrganizzazione%20internazionale%20del%20lavoro.md), vedi note alle premesse.
 
 ## Art. 27. — Informazione e formazione dei lavoratori marittimi
 
@@ -1172,7 +1172,7 @@ Dopo il rilascio del certificato, l'Autorita' marittima, sentita l'Azienda unita
 
 1.
 
-Con regolamento da adottare, ai sensi dell'[articolo 17 della legge 24 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-24;400#art_17) entro 90 giorni dall'entrata in vigore del presente decreto, dal Ministro dei trasporti e della Navigazione di concerto con il Ministro del lavoro e della previdenza sociale, della sanita', e' emanata la normativa tecnica per la costruzione e le sistemazioni relative all'ambiente di lavoro a bordo delle navi mercantili e da pesca nazionali, in conformita' anche con le disposizioni di cui alle convenzioni dell'Organizzazione internazionale del lavoro (OIL) n.109, n.134 ratificate e rese esecutive con la [legge 10 aprile 1981, n.157, nonche' n.92 e n.133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-10;133) ratificate e rese esecutive con la [legge 10 aprile 1981, n.158](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%2092%20133%20e%20143%20dellOrganizzazione%20internazionale%20del%20lavoro.md).
+Con regolamento da adottare, ai sensi dell'[articolo 17 della legge 24 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-24;400#art_17) entro 90 giorni dall'entrata in vigore del presente decreto, dal Ministro dei trasporti e della Navigazione di concerto con il Ministro del lavoro e della previdenza sociale, della sanita', e' emanata la normativa tecnica per la costruzione e le sistemazioni relative all'ambiente di lavoro a bordo delle navi mercantili e da pesca nazionali, in conformita' anche con le disposizioni di cui alle convenzioni dell'Organizzazione internazionale del lavoro (OIL) n.109, n.134 ratificate e rese esecutive con la [legge 10 aprile 1981, n.157, nonche' n.92 e n.133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-10;133) ratificate e rese esecutive con la [legge 10 aprile 1981, n.158](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%2092%20133%20e%20143%20dellOrganizzazione%20internazionale%20del%20lavoro.md).
 
 2.
 
@@ -1195,8 +1195,8 @@ Note all'art. 34:
  c) previsione di strumenti di verifica periodica dell'organizzazione e dei risultati;
  d) indicazione e revisione periodica della consistenza delle piante organiche:
  e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali".
- - Per il testo della [legge 10 aprile 1981, n. 157](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%2074%20109%20129%20132%20134%20135%20136%20137%20138%20e%20139%20dellOrganizzazione%20internazionale%20del%20lavoro.md), si veda note alle premesse.
- - Per il testo della [legge 10 aprile 1981, n. 158](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%2092%20133%20e%20143%20dellOrganizzazione%20internazionale%20del%20lavoro.md), si veda note alle premesse.
+ - Per il testo della [legge 10 aprile 1981, n. 157](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%2074%20109%20129%20132%20134%20135%20136%20137%20138%20e%20139%20dellOrganizzazione%20internazionale%20del%20lavoro.md), si veda note alle premesse.
+ - Per il testo della [legge 10 aprile 1981, n. 158](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20numeri%2092%20133%20e%20143%20dellOrganizzazione%20internazionale%20del%20lavoro.md), si veda note alle premesse.
  - Per il testo della [legge 16 giugno 1939, n. 1045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-16;1045), si veda note alle premesse.
 
 ## Art. 35. — Sanzioni relative agli obblighi dell'armatore e del comandante
