@@ -32,7 +32,7 @@ Vista la [legge 27 dicembre 2002, n. 289](../Leggi%20finanziarie%20e%20di%20bila
 
 Vista la [legge 1° agosto 2003, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;206), ed in particolare l'articolo 3, concernente l'assegnazione in comodato gratuito in favore degli oratori di immobili di proprieta' statale;
 
-Visto il [decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), recante il [codice dei beni culturali e del paesaggio](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md);
+Visto il [decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), recante il [codice dei beni culturali e del paesaggio](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md);
 
 Udito il parere interlocutorio del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'Adunanza del 7 febbraio 2005;
 
@@ -98,7 +98,7 @@ Avvertenza:
  - La [legge 27 dicembre 2002, n. 289](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - [legge finanziaria 2003](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md)), pubblicata nella Gazzetta Ufficiale n. 305 del 31 dicembre 2002, supplemento ordinario.
  - Si riporta il testo dell'[art. 3 della legge 1° agosto 2003, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-01;206#art_3) (Disposizioni per il riconoscimento della funzione sociale svolta dagli oratori e dagli enti che svolgono attivita' similari e per la valorizzazione del loro ruolo), pubblicata nella Gazzetta Ufficiale n. 181 del 6 agosto 2003:
  «Art. 3. - 1. Ai fini della realizzazione delle finalita' di cui alla presente legge, lo Stato, le regioni, gli enti locali, nonche' le comunita' montane possono concedere in comodato, ai soggetti di cui all'art. 1, comma 1, beni mobili e immobili, senza oneri a carico della finanza pubblica.».
- - Il [decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ([Codice dei beni culturali e del paesaggio](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[art. 10 della legge 6 luglio 2002, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md)), e' pubblicato nella Gazzetta Ufficiale n. 45 del 24 febbraio 2004, supplemento ordinario e cosi' corretto con Comunicato 26 febbraio 2004 (Gazzetta Ufficiale, 26 febbraio 2004, n. 47).
+ - Il [decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ([Codice dei beni culturali e del paesaggio](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[art. 10 della legge 6 luglio 2002, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md)), e' pubblicato nella Gazzetta Ufficiale n. 45 del 24 febbraio 2004, supplemento ordinario e cosi' corretto con Comunicato 26 febbraio 2004 (Gazzetta Ufficiale, 26 febbraio 2004, n. 47).
  Note all'art. 1:
  - Si riporta il testo dell'art. 19, commi da 01 a 10 della citata [legge 23 dicembre 1998, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-23;448):
  «Art. 19 (Beni immobili statali). - 01. Le amministrazioni dello Stato, i comuni ed altri soggetti pubblici o privati possono proporre al Ministero delle fmanze e all'Agenzia del demanio, dalla data di piena operativita' della stessa, determinata ai sensi dell'[art. 73, comma 4, del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), lo sviluppo, la valorizzazione o l'utilizzo di determinati beni o complessi immobiliari appartenenti a qualsiasi titolo allo Stato, presentando un apposito progetto.
@@ -272,10 +272,10 @@ Sono a carico del concessionario o locatario gli oneri della manutenzione ordina
 
 2.
 
-Qualora l'immobile oggetto della concessione faccia parte del demanio artistico, storico o archeologico per le opere di ordinaria manutenzione deve essere rilasciata la prescritta autorizzazione di cui all'[articolo 21, comma 4, del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md).
+Qualora l'immobile oggetto della concessione faccia parte del demanio artistico, storico o archeologico per le opere di ordinaria manutenzione deve essere rilasciata la prescritta autorizzazione di cui all'[articolo 21, comma 4, del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md).
 
 Nota all'art. 7:
- - Si riporta il testo dell'art. 21, comma 4 del citato [decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md):
+ - Si riporta il testo dell'art. 21, comma 4 del citato [decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md):
  «Art. 21 (Interventi soggetti ad autorizzazione). - 1.
  - 3. (Omissis).
  4. Fuori dei casi di cui ai commi precedenti, l'esecuzione di opere e lavori di qualunque genere su beni culturali e' subordinata ad autorizzazione del soprintendente.».
@@ -298,7 +298,7 @@ Capo III
 Possono essere oggetto di concessione ovvero di locazione, in favore dei soggetti di cui agli articoli 10 e 11, rispettivamente a titolo gratuito ovvero a canone agevolato, per finalita' di interesse pubblico o di particolare rilevanza sociale, gli immobili di cui all'articolo 1, gestiti dall'Agenzia del demanio nonche' gli edifici scolastici e gli immobili costituenti strutture sanitarie pubbliche o ospedaliere. Ove si tratti di immobili di cui sia stato verificato l'interesse culturale ovvero di immobili per i quali operi, in attesa della verifica, il regime cautelare previsto dall'[articolo 12, comma 1, del decreto legislativo n. 42 del 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004;42#art_12-com1), il provvedimento di concessione o di locazione e' rilasciato previa autorizzazione del Ministero per i beni e le attivita' culturali.
 
 Nota all'art. 9:
- - Si riporta il testo dell'art. 12, comma 1 del citato [decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md):
+ - Si riporta il testo dell'art. 12, comma 1 del citato [decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md):
  «Art. 12 (Verifica dell'interesse culturale). - 1. Le cose immobili e mobili indicate all'art. 10, comma 1, che siano opera di autore non piu' vivente e la cui esecuzione risalga ad oltre cinquanta anni, sono sottoposte alle disposizioni del presente Titolo fino a quando non sia stata effettuata la verifica di cui al comma 2.».
 
 ### Art. 10. — Soggetti beneficiari a titolo gratuito
@@ -406,7 +406,7 @@ Quando l'immobile appartiene al demanio artistico, storico o archeologico, per l
 La competente filiale dell'Agenzia del demanio procede a verifica periodica triennale per accertare lo stato dell'immobile concesso o locato e per indicare le eventuali opere di manutenzione di cui l'immobile necessiti nonche' per le finalita' di vigilanza di cui al [decreto del Presidente della Repubblica 13 luglio 1998, n. 367](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20del%20procedimento%20di%20presa%20in%20consegna%20di%20immobili%20e%20compiti%20di%20sorveglianza%20sugli%20immobili%20demaniali%20di%20cui%20al%20n.%206%20dellallegato%201%20della%20l_1b0dd06b992a.md).
 
 Note all'art. 15:
- - Per il testo dell'[art. 21, comma 4, del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) si veda in note all'art. 7.
+ - Per il testo dell'[art. 21, comma 4, del decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) si veda in note all'art. 7.
  - Per il [decreto del Presidente della Repubblica 13 luglio 1998, n. 367](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20del%20procedimento%20di%20presa%20in%20consegna%20di%20immobili%20e%20compiti%20di%20sorveglianza%20sugli%20immobili%20demaniali%20di%20cui%20al%20n.%206%20dellallegato%201%20della%20l_1b0dd06b992a.md), si veda in note all'art. 5.
 
 ### Art. 16. — Beni di interesse storico-artistico
@@ -416,7 +416,7 @@ Note all'art. 15:
 Nel provvedimento di concessione sono indicate le misure per la tutela dei beni prescritte dal Soprintendente regionale per i beni e le attivita' culturali ai fini del rilascio dell'autorizzazione di cui al [decreto legislativo n. 42 del 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004;42).
 
 Nota all'[art. 16:
- - Per il decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) si veda in note alle premesse.
+ - Per il decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) si veda in note alle premesse.
 
 ### Art. 17. — Decadenza e revoca della concessione
 
@@ -443,7 +443,7 @@ Alle concessioni e locazioni di cui al presente capo e' applicabile la disposizi
 I soggetti aventi titolo interessati al conseguimento della concessione o locazione, presentano alla competente Filiale dell'Agenzia del demanio una domanda nella quale, oltre ai propri dati identificativi, sono indicati i dati identificativi dell'immobile, l'oggetto dell'attivita' da svolgere, le finalita' di utilizzo, l'autorizzazione del competente organo dell'ente richiedente che garantisca la disponibilita' delle risorse finanziarie, nonche', per il beni di interesse storico artistico, gli elementi necessari ai fini dell'autorizzazione di cui al [decreto legislativo n. 42 del 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004;42).
 
 Nota all'[art. 20:
- - Per il decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) si veda in note alle premesse.
+ - Per il decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) si veda in note alle premesse.
 
 ### Art. 21. — Istruttoria del procedimento
 

@@ -1885,7 +1885,7 @@ Il gasolio commerciale usato come carburante e' assoggettato ad accisa con l'app
 
 2.
 
-Per gasolio commerciale usato come carburante si intende il gasolio impiegato da veicoli, ad eccezione di quelli ((di categoria euro 3 o inferiore e, a decorrere dal 1° gennaio 2021, ad eccezione dei veicoli di categoria euro 4 o inferiore)), utilizzati dal proprietario o in virtu' di altro titolo che ne garantisca l'esclusiva disponibilita', per i seguenti scopi: ((78))
+Per gasolio commerciale usato come carburante si intende il gasolio impiegato da veicoli, ad eccezione di quelli di categoria euro 3 o inferiore e, a decorrere dal 1° gennaio 2021, ad eccezione dei veicoli di categoria euro 4 o inferiore, utilizzati dal proprietario o in virtu' di altro titolo che ne garantisca l'esclusiva disponibilita', per i seguenti scopi: (78)
                             a)
                                 attivita' di trasporto di merci con veicoli di massa massima complessiva pari o superiore a 7,5 tonnellate esercitata da: 
  1) persone fisiche o giuridiche iscritte nell'albo nazionale degli autotrasportatori di cose per conto di terzi; 
@@ -1908,7 +1908,8 @@ Il rimborso dell'onere conseguente alla maggiore accisa applicata al gasolio com
 
 5.
 
-Il credito spettante ai sensi del comma 4 del presente articolo e' riconosciuto, mediante la compensazione di cui all'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md), entro il 31 dicembre dell'anno solare successivo a quello in cui il medesimo credito e' sorto per effetto del provvedimento di accoglimento o del decorso del termine di sessanta giorni dal ricevimento della dichiarazione.
+Il credito spettante ai sensi del comma 4 del presente articolo e' riconosciuto, mediante la compensazione di cui all'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md), entro il 31 dicembre dell'anno solare successivo a quello in cui il medesimo credito e' sorto per effetto del provvedimento di accoglimento o del decorso del termine di ((trenta)) giorni dal ricevimento della dichiarazione. ((Per la fruizione del rimborso con la modalita' di cui al presente comma, la dichiarazione di cui al comma 4 e' presentata esclusivamente in forma telematica.))
+                                ((143))
 
 6.
 
@@ -1925,6 +1926,12 @@ Il [D.L. 26 ottobre 2019, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 AGGIORNAMENTO (78)
 
 La [L. 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), ha disposto (con l'art. 1, comma 630) che la presente modifica decorre dal 1° gennaio 2020.
+
+--------------
+
+AGGIORNAMENTO (143)
+
+Il [D.L. 22 maggio 2026, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-05-22;89) ha disposto (con l'art. 2, comma 7, lettera b)) che "La disposizione di cui al presente comma ha effetto a decorrere dal 1° ottobre 2026".
 
 ### Art. 25. — Deposito e circolazione di prodotti energetici assoggettati ad accisa 
  (Artt. 1, 3, 4, 5, 7, 16 ed art. 23 D.L. n. 271/1957 - 

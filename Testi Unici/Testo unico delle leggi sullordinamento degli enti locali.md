@@ -2727,7 +2727,7 @@ d) il rendiconto della gestione predisposto secondo lo schema di cui all'allegat
 
 AGGIORNAMENTO (75)
 
-La [L. 27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md) ha disposto (con l'art. 1, comma 550) che la presente modifica si applica alle aziende speciali, alle istituzioni e alle societa' partecipate dalle pubbliche amministrazioni locali indicate nell'elenco di cui all'[articolo 1, comma 3, della legge 31 dicembre 2009, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196#art_1-com3). Sono esclusi gli intermediari finanziari di cui all'articolo 106 del testo unico di cui al [decreto legislativo 1º settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), nonche' le societa' emittenti strumenti finanziari quotati nei mercati regolamentati e le loro controllate.
+La [L. 27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md) ha disposto (con l'art. 1, comma 550) che la presente modifica si applica alle aziende speciali, alle istituzioni e alle societa' partecipate dalle pubbliche amministrazioni locali indicate nell'elenco di cui all'[articolo 1, comma 3, della legge 31 dicembre 2009, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196#art_1-com3). Sono esclusi gli intermediari finanziari di cui all'articolo 106 del testo unico di cui al [decreto legislativo 1º settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), nonche' le societa' emittenti strumenti finanziari quotati nei mercati regolamentati e le loro controllate.
 
 --------------
 
@@ -5419,7 +5419,7 @@ TITOLO V
 
 Gli enti locali hanno un servizio di tesoreria che puo' essere affidato:
                             a)
-                                per i comuni capoluoghi di provincia, le province, le citta' metropolitane, ad una banca autorizzata, a svolgere l'attivita' di cui all'[articolo 10 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_10);
+                                per i comuni capoluoghi di provincia, le province, le citta' metropolitane, ad una banca autorizzata, a svolgere l'attivita' di cui all'[articolo 10 del decreto legislativo 1 settembre 1993, n. 385](Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
                             b)
                                 per i comuni non capoluoghi di provincia, le comunita' montane e le unioni di comuni, anche a societa' per azioni regolarmente costituite con capitale sociale interamente versato non inferiore a ((cinquecentomila euro)), aventi per oggetto la gestione del servizio di tesoreria e la riscossione dei tributi degli enti locali e che alla data del 25 febbraio 1995 erano incaricate dello svolgimento del medesimo servizio a condizione che il capitale sociale risulti adeguato a quello minimo richiesto dalla normativa vigente per le banche di credito cooperativo; ((83))
                             c)

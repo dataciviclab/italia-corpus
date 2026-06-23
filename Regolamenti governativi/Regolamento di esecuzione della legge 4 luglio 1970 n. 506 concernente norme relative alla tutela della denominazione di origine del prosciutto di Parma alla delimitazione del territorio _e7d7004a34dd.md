@@ -217,7 +217,7 @@ Contro i provvedimenti adottati dall'organismo abilitato ai sensi della legge e 
 
 ## Art. 24.
 
-L'espletamento dei compiti di vigilanza affidati a un consorzio volontario di produzione, a norma dell'art. 7 della legge, e' svolto da ispettori, cui sia stata riconosciuta dal prefetto di Parma la qualifica di guardia particolare, ai sensi degli [articoli 133](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [138 del regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e del relativo regolamento.
+L'espletamento dei compiti di vigilanza affidati a un consorzio volontario di produzione, a norma dell'art. 7 della legge, e' svolto da ispettori, cui sia stata riconosciuta dal prefetto di Parma la qualifica di guardia particolare, ai sensi degli [articoli 133](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [138 del regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e del relativo regolamento.
 Essi sono obbligati al segreto dei fatti di cui hanno comunque conoscenza, a cagione del loro ufficio.
  Il consorzio deve emanare il regolamento organico del personale di vigilanza e di quello comunque addetto alle operazioni previste dal presente decreto.
  Il personale decade dalla qualifica di guardia particolare per estinzione del rapporto di lavoro con il consorzio stesso.

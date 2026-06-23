@@ -288,7 +288,7 @@ Sono requisiti d'ordine speciale in base ai quali e' operata l'attribuzione dell
 
 Il livello di capacita' economica e finanziaria e' dimostrato attraverso:
                         a)
-                            referenze rilasciate da istituto bancario o intermediario finanziario autorizzato ai sensi del [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
+                            referenze rilasciate da istituto bancario o intermediario finanziario autorizzato ai sensi del [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
                         b)
                             fatturato, riferito al quinquennio fiscale antecedente alla presentazione della domanda di iscrizione, non inferiore a 1,5 volte l'importo della classifica di iscrizione richiesta.
 
@@ -341,7 +341,7 @@ Le imprese che presentano istanza per l'iscrizione alla classifica I non sono te
 Costituisce, altresi', condizione per l'iscrizione all'albo la produzione, da parte del legale rappresentante dell'impresa, della dichiarazione con la quale la medesima impresa assume l'impegno a sottoscrivere, in relazione alle singole commesse che le vengono affidate, polizze assicurative per responsabilita' civile verso terzi per l'attivita' di bonifica, con massimale commisurato al rischio dell'intervento.
 
 Note all'[art. 9: 
- - Il decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_9) (Testo unico delle leggi in materia bancaria e creditizia) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 30 settembre 1993, n. 230.
+ - Il decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 30 settembre 1993, n. 230.
 
 ## Art. 10. — Iscrizione di imprese stabilite in Stati diversi dall'Italia
 

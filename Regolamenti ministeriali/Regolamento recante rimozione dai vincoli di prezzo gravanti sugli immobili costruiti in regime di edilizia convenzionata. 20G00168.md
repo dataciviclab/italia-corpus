@@ -147,7 +147,7 @@ N O T E
 
 1.
 
-Su richiesta di parte, il comune concede una dilazione di pagamento del corrispettivo, maggiorato degli interessi legali, previa presentazione di una garanzia fideiussoria rilasciata da imprese bancarie o assicurative che rispondano ai requisiti di solvibilita' previsti dalle norme che ne disciplinano le rispettive attivita' o rilasciata da intermediari finanziari iscritti all'albo di cui all'[articolo 106 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_106), che abbiano i requisiti minimi di solvibilita' richiesti dalla vigente normativa bancaria assicurativa.
+Su richiesta di parte, il comune concede una dilazione di pagamento del corrispettivo, maggiorato degli interessi legali, previa presentazione di una garanzia fideiussoria rilasciata da imprese bancarie o assicurative che rispondano ai requisiti di solvibilita' previsti dalle norme che ne disciplinano le rispettive attivita' o rilasciata da intermediari finanziari iscritti all'albo di cui all'[articolo 106 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), che abbiano i requisiti minimi di solvibilita' richiesti dalla vigente normativa bancaria assicurativa.
 
 2.
 
@@ -158,7 +158,7 @@ La garanzia a prima richiesta deve espressamente prevedere la rinuncia al benefi
 In caso di concessione della dilazione di pagamento, la stipulazione e la trascrizione della convenzione di rimozione del vincolo, presso l'ufficio dell'Agenzia delle entrate territorialmente competente, ai sensi dell'[articolo 2645-quater del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2645quater), possono essere effettuate dopo il pagamento della prima rata.
 
 Note all'art. 2: 
- - Si riporta il testo vigente dell'[art. 106 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_106) (Testo unico delle leggi in materia bancaria e creditizia): 
+ - Si riporta il testo vigente dell'[art. 106 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia): 
  «Art. 106 (Albo degli intermediari finanziari). - 1.
  L'esercizio nei confronti del pubblico dell'attivita' di concessione di finanziamenti sotto qualsiasi forma e' riservato agli intermediari finanziari autorizzati, iscritti in un apposito albo tenuto dalla Banca d'Italia. 
  2. Oltre alle attivita' di cui al comma 1 gli intermediari finanziari possono: 

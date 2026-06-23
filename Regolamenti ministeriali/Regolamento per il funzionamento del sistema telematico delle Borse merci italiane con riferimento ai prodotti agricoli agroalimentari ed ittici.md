@@ -68,7 +68,7 @@ Agli effetti del presente regolamento si intende per:
                             m)
                                 «Societa' di intermediazione mobiliare (SIM)»: l'impresa, diversa dalle banche e dagli intermediari finanziari iscritti nell'elenco previsto dall'articolo 107 del Testo unico bancario, autorizzata a svolgere servizi di investimento, avente sede legale e Direzione generale in Italia;
                             n)
-                                «Testo unico bancario (T.U. bancario)»: il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) e successive modificazioni;
+                                «Testo unico bancario (T.U. bancario)»: il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) e successive modificazioni;
                             o)
                                 «mercati»: i mercati telematici disciplinati dai regolamenti speciali di prodotto approvati dalla deputazione nazionale su proposta della societa' di gestione;
                             p)

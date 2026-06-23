@@ -133,7 +133,7 @@ Ai fini della concessione del contributo, le cooperative, i consorzi e le societ
                         f)
                             ((LETTERA SOPPRESSA DAL DECRETO 9 GENNAIO 1996, N. 43 ));
                         g)
-                            documentazione comprovante l'iscrizione nell'apposita sezione dell'elenco previsto dall'[art. 106 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_106).
+                            documentazione comprovante l'iscrizione nell'apposita sezione dell'elenco previsto dall'[art. 106 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 2.
 

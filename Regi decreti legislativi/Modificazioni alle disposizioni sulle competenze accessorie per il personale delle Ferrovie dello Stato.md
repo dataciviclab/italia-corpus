@@ -339,7 +339,7 @@ e di 3ª classe a. p. e di 3ª classe............................L. 360 1° e 2�
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 luglio 1952, n. 767](../DPR/Maggiorazione%20delle%20competenze%20spettanti%20ai%20dipendenti%20statali%20in%20relazione%20al%20ripristino%20delle%20ritenute%20erariali.md) ha disposto (con l'art. 5, comma 2) che "E' altresi' elevata al 15 per cento la maggiorazione del 10 per cento prevista dall'[art. 2 del regio decreto legislativo 24 maggio 1946, n. 454](Modificazioni%20alle%20disposizioni%20sulle%20competenze%20accessorie%20per%20il%20personale%20delle%20Ferrovie%20dello%20Stato.md), concernente la determinazione del compenso per lavoro straordinario per il personale dell'Amministrazione delle ferrovie dello Stato"; ha inoltre disposto (con l'art. 11, comma 1) che la presente modifica ha effetto dal 1 gennaio 1952.
+Il [D.P.R. 11 luglio 1952, n. 767](../DPR/Maggiorazione%20delle%20competenze%20spettanti%20ai%20dipendenti%20statali%20in%20relazione%20al%20ripristino%20delle%20ritenute%20erariali.md) ha disposto (con l'art. 5, comma 2) che "E' altresi' elevata al 15 per cento la maggiorazione del 10 per cento prevista dall'[art. 2 del regio decreto legislativo 24 maggio 1946, n. 454](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alle%20disposizioni%20sulle%20competenze%20accessorie%20per%20il%20personale%20delle%20Ferrovie%20dello%20Stato.md), concernente la determinazione del compenso per lavoro straordinario per il personale dell'Amministrazione delle ferrovie dello Stato"; ha inoltre disposto (con l'art. 11, comma 1) che la presente modifica ha effetto dal 1 gennaio 1952.
 
 ## Art. 3.
 

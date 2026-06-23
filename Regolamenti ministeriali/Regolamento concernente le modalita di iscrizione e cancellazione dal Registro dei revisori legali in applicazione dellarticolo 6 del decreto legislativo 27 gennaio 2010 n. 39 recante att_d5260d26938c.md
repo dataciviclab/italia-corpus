@@ -205,7 +205,7 @@ Avvertenza:
  o) «revisore di un Paese terzo»: una persona fisica che effettua la revisione dei conti annuali o dei conti consolidati di una societa' avente sede in un Paese non appartenente all'Unione europea; 
  p) «revisore del gruppo»: il revisore legale o la societa' di revisione legale incaricati della revisione legale dei conti consolidati; 
  q) «societa' di revisione legale»: una societa' abilitata a esercitare la revisione legale ai sensi delle disposizioni del presente decreto legislativo e iscritta nel Registro ovvero un'impresa abilitata a esercitare la revisione legale in un altro Stato membro dell'Unione europea ai sensi delle disposizioni di attuazione della [direttiva 2006/43/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;43) vigenti in tale Stato membro; 
- r) «TUB»: il testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385); 
+ r) «TUB»: il testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md); 
  s) «TUIF»: il testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md).".
 
 ### Art. 2. — Requisiti per l'iscrizione al Registro dei revisori legali

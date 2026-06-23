@@ -1685,7 +1685,7 @@ Note all'[art. 40:
 
 1.
 
-Il servizio di cassa e' affidato, in base ad apposita convenzione, a imprese autorizzate all'esercizio dell'attivita' bancaria, ai sensi del [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e successive modificazioni, ovvero alla Societa' poste italiane S.p.a.
+Il servizio di cassa e' affidato, in base ad apposita convenzione, a imprese autorizzate all'esercizio dell'attivita' bancaria, ai sensi del [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni, ovvero alla Societa' poste italiane S.p.a.
 
 2.
 

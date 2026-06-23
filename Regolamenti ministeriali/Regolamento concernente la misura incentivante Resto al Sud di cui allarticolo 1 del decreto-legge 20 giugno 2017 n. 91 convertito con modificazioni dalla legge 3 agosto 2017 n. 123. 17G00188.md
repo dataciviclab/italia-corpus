@@ -64,7 +64,7 @@ Adotta il seguente regolamento:
 
 Ai fini del presente regolamento, sono adottate le seguenti definizioni:
                         a)
-                            «Banca finanziatrice»: la banca italiana o la succursale di banca estera comunitaria o extracomunitaria operante in Italia e autorizzata all'esercizio dell'attivita' bancaria di cui all'[articolo 13 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_13) e successive modificazioni e integrazioni, recante Testo unico delle leggi in materia bancaria e creditizia, aderente alla Convenzione di cui al [comma 14, articolo 1 del decreto-legge 20 giugno 2017 n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-06-20;91#art_1-com14);
+                            «Banca finanziatrice»: la banca italiana o la succursale di banca estera comunitaria o extracomunitaria operante in Italia e autorizzata all'esercizio dell'attivita' bancaria di cui all'[articolo 13 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) e successive modificazioni e integrazioni, recante Testo unico delle leggi in materia bancaria e creditizia, aderente alla Convenzione di cui al [comma 14, articolo 1 del decreto-legge 20 giugno 2017 n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-06-20;91#art_1-com14);
                         b)
                             «Capo Dipartimento»: Capo Dipartimento per le politiche di coesione presso la Presidenza del Consiglio dei ministri;
                         c)

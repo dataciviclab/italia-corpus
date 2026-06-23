@@ -179,7 +179,7 @@ Chiunque partecipa in una societa' di gestione o in una societa' di gestione acc
 
 2.
 
-Il comma 1 si applica anche a chiunque, indipendentemente dall'entita' della partecipazione posseduta, controlla la societa' di gestione o la societa' di gestione accentrata ai sensi dell'[articolo 23 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_23). In tal caso, il divieto di esercizio del diritto di voto interessa l'intera partecipazione.
+Il comma 1 si applica anche a chiunque, indipendentemente dall'entita' della partecipazione posseduta, controlla la societa' di gestione o la societa' di gestione accentrata ai sensi dell'[articolo 23 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md). In tal caso, il divieto di esercizio del diritto di voto interessa l'intera partecipazione.
 
 3.
 
@@ -194,7 +194,7 @@ Note all'art. 5:
  - Per il titolo della [legge n. 575/1965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965;575), si veda nelle note all'art. 3.
  - Per il titolo XI del libro V del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), si veda nelle note all'art. 3.
  - Per il titolo del [regio decreto n. 267/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;267), si veda nelle note all'art. 3.
- - Il testo dell'[art. 23 del D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_23), e' il seguente:
+ - Il testo dell'[art. 23 del D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' il seguente:
  "Art. 23 (Nozione di controllo). - 1. A fini del presente capo il controllo sussiste, anche con riferimento a soggetti diversi dalle societa', nei casi previsti dall'[art. 2359, commi primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359-com1) e [secondo, del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359-com2).
  2. Il controllo si considera esistente nella forma dell'influenza dominante, salvo prova contraria, allorche' ricorra una delle seguenti situazioni:
  1) esistenza di un soggetto che, in base ad accordi con altri soci, ha il diritto di nominare o revocare la maggioranza degli amministratori ovvero dispone da solo della maggioranza dei voti esercitabili nell'assemblea ordinaria;

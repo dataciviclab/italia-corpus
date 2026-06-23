@@ -18,7 +18,7 @@ Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bila
 
 Visto l'[articolo 14 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md);
 
-Visto l'[articolo 7 del regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
+Visto l'[articolo 7 del regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 febbraio 1994;
 
@@ -66,7 +66,7 @@ AVVERTENZA:
  b) riduzione dei termini attualmente prescritti per la conclusione del procedimento;
  c) regolazione uniforme dei procedimenti dello stesso tipo, che si svolgono presso diverse amministrazioni, ovvero presso diversi uffici della medesima amministrazione e, uniformazione dei relativi tempi di conclusione;
  d) riduzione del numero dei procedimenti amministrativi e accorpamento dei procedimenti che si riferiscono alla medesima attivita';
- e) semplificazione e accelerazione delle procedure di spesa e contabili, anche mediante adozione, ed estensione alle fasi procedimentali di integrazione dell'efficacia degli atti, di disposizioni analoghe a quelle di cui all'[articolo 51, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni;
+ e) semplificazione e accelerazione delle procedure di spesa e contabili, anche mediante adozione, ed estensione alle fasi procedimentali di integrazione dell'efficacia degli atti, di disposizioni analoghe a quelle di cui all'[articolo 51, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni;
  f) unificazione a livello regionale, oppure provinciale su espressa delega, dei procedimenti amministrativi per il rilascio delle autorizzazioni previste dalla legislazione vigente nelle materie dell'inquinamento acustico, dell'acqua, dell'aria e dello smaltimento dei rifiuti;
  g) snellimento per le piccole imprese operanti nei diversi comparti produttivi degli adempimenti amministrativi previsti dalla vigente legislazione per la tutela ambientale;
  h) individuazione delle responsabilita' e delle proce- dure di verifica e controllo.

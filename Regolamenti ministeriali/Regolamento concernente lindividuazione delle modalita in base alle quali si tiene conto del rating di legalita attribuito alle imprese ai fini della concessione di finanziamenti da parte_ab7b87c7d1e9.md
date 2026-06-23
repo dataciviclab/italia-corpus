@@ -50,7 +50,7 @@ Ai fini del presente regolamento, si intendono per:
                             b)
                                 "concessione di finanziamento ad un'impresa": la concessione da parte di una pubblica amministrazione ad un'impresa di un beneficio ai sensi dell'[articolo 7, comma 1, del decreto legislativo 31 marzo 1998, n. 123](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20degli%20interventi%20di%20sostegno%20pubblico%20alle%20imprese%20a%20norma%20dellarticolo%204%20comma%204%20lettera%20c%20della%20legge%2015%20marzo%201997%20n.%2059.md);
                             c)
-                                "banca": l'impresa autorizzata all'esercizio dell'attivita' bancaria di cui all'[articolo 1, comma 1, lettera b) del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_1-com1-letb);
+                                "banca": l'impresa autorizzata all'esercizio dell'attivita' bancaria di cui all'[articolo 1, comma 1, lettera b) del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
                             d)
                                 "impresa": l'impresa (in forma individuale o collettiva): 
  (i) avente sede operativa nel territorio nazionale; 
@@ -107,7 +107,7 @@ Avvertenza:
  - Si riporta il testo vigente del comma 1 dell'articolo 7 del citato [decreto legislativo n. 123 del 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;123): 
  «Art. 7 (Procedure di erogazione). - 1. I benefici determinati dagli interventi sono attribuiti in una delle seguenti forme: credito d'imposta, bonus fiscale, secondo i criteri e le procedure previsti dall'[articolo 1 del decreto-legge 23 giugno 1995, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244#art_1) , convertito, con modificazioni dalla [legge 8 agosto 1995, n. 341](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20giugno%201995%20n.%20244%20recante%20misure%20dirette%20ad%20accelerare%20il%20completamento%20degli%20interventi%20pubblici%20e%20la%20realizzazione%20dei%20nuovi_e8c9b0ef35b3.md), concessione di garanzia, contributo in conto capitale, contributo in conto interessi, finanziamento agevolato. 
  2-9...(Omissis).». 
- - Si riporta il testo vigente del [comma 1 dell'articolo 1 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_1-com1) (Testo unico delle leggi in materia bancaria e creditizia): 
+ - Si riporta il testo vigente del [comma 1 dell'articolo 1 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia): 
  «Art. 1 (Definizioni). - 1. Nel presente decreto legislativo l'espressione: 
  a) "autorita' creditizie" indica il Comitato interministeriale per il credito e il risparmio, il Ministro dell'economia e delle finanze e la Banca d'Italia; 
  b) "banca" indica l'impresa autorizzata all'esercizio dell'attivita' bancaria; 

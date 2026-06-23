@@ -122,7 +122,7 @@ Il [D.Lgs. 19 novembre 2004, n. 286](../Leggi%20delega%20e%20relativi%20provvedi
 
 1.
 
-L'incarico di direttore e' conferito con contratto a tempo determinato di durata triennale, rinnovabile, a persona in possesso di specifiche competenze amministrative, di organizzazione del lavoro e inerenti l'attivita' dell'Istituto, in base a criteri fissati con deliberazione del Consiglio di amministrazione. Esso puo' essere conferito ai dipendenti delle amministrazioni di cui all'[articolo 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e ad estranei alla pubblica amministrazione. Il conferimento dell'incarico a personale in servizio presso le predette amministrazioni comporta il collocamento fuori ruolo.
+L'incarico di direttore e' conferito con contratto a tempo determinato di durata triennale, rinnovabile, a persona in possesso di specifiche competenze amministrative, di organizzazione del lavoro e inerenti l'attivita' dell'Istituto, in base a criteri fissati con deliberazione del Consiglio di amministrazione. Esso puo' essere conferito ai dipendenti delle amministrazioni di cui all'[articolo 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e ad estranei alla pubblica amministrazione. Il conferimento dell'incarico a personale in servizio presso le predette amministrazioni comporta il collocamento fuori ruolo.
 
 2.
 
@@ -203,7 +203,7 @@ Il [D.Lgs. 19 novembre 2004, n. 286](../Leggi%20delega%20e%20relativi%20provvedi
 
 1.
 
-Il personale dell'Istituto e' compreso, ai fini della contrattazione collettiva, nel comparto individuato a norma dell'[articolo 45 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+Il personale dell'Istituto e' compreso, ai fini della contrattazione collettiva, nel comparto individuato a norma dell'[articolo 45 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 2.
 
@@ -345,7 +345,7 @@ Tutto il personale in posizione di comando presso l'Istituto, in servizio alla d
 
 3.
 
-E', inoltre, confermato il personale utilizzato presso l'Istituto nell'anno scolastico 1999-2000, ai sensi dell'[articolo 453 del decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), e delle successive norme contrattuali che hanno disciplinato la materia.
+E', inoltre, confermato il personale utilizzato presso l'Istituto nell'anno scolastico 1999-2000, ai sensi dell'[articolo 453 del decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), e delle successive norme contrattuali che hanno disciplinato la materia.
 
 4.
 

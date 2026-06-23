@@ -84,7 +84,7 @@ Nota all'art. 2:
  l'indicazione, per ciascuna impresa consorziata insolvente, dell'ammontare dell'insolvenza nonche' dell'inizio delle eventuali azioni di recupero o, altrimenti, delle ragioni che giustificano il loro mancato esperimento;
  il proprio impegno a comunicare al Mediocredito centrale e all'Artigiancassa le restituzioni conseguenti all'esaurimento delle relative procedure coattive o all'intervento dei fondi di cui all'[art. 20 della legge n. 675/1977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977;675#art_20), all'[art. 7 della legge n. 517/1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;517#art_7) e all'[art. 1 della legge n. 1068/1964](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964;1068#art_1);
  f) (soppressa);
- g) documentazione comprovante l'iscrizione nell'apposita sezione dell'elenco previsto dall'[art. 106 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_106).
+ g) documentazione comprovante l'iscrizione nell'apposita sezione dell'elenco previsto dall'[art. 106 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
  2. Il Mediocredito centrale e l'Artigiancassa possono richiedere la presentazione da parte dei soggetti di cui al comma 1 del bilancio relativo all'esercizio cui si riferiscono le domande di reintegro".
 
 ## Art. 3.

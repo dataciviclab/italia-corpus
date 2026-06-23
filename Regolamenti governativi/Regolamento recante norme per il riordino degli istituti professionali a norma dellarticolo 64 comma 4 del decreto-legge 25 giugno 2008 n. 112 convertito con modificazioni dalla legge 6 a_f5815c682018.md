@@ -20,7 +20,7 @@ Visto il [decreto-legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-re
 
 Visto il piano programmatico predisposto dal Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministro dell'economia e delle finanze, ai sensi dell'articolo 64, comma 3, del citato [decreto-legge n. 112 del 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008;112), convertito, con modificazioni, dalla [legge n. 133 del 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008;133);
 
-Visto il testo unico delle leggi in materia di istruzione di cui al [decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md) e successive modificazioni;
+Visto il testo unico delle leggi in materia di istruzione di cui al [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md) e successive modificazioni;
 
 Visto il [decreto legislativo 15 aprile 2005, n. 76](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20delle%20norme%20generali%20sul%20diritto-dovere%20allistruzione%20e%20alla%20formazione%20a%20norma%20dellarticolo%202%20comma%201%20lettera%20c%20della%20legge%2028%20marzo%202003%20n.%2053.md), recante definizione delle norme generali sul diritto-dovere all'istruzione e alla formazione, a norma dell'[articolo 2, comma 1, lettera c), della legge 28 marzo 2003, n. 53](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20definizione%20delle%20norme%20generali%20sullistruzione%20e%20dei%20livelli%20essenziali%20delle%20prestazioni%20in%20materia%20di%20istruzione%20e%20formazione%20professionale.md);
 
@@ -414,7 +414,7 @@ Il [D.Lgs. 13 aprile 2017, n. 61](../Leggi%20delega%20e%20relativi%20provvedimen
 
 1.
 
-A decorrere dalla data di entrata in vigore del presente regolamento, all'[articolo 191, comma 3, del decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), e successive modificazioni, sono apportate le seguenti modificazioni:
+A decorrere dalla data di entrata in vigore del presente regolamento, all'[articolo 191, comma 3, del decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), e successive modificazioni, sono apportate le seguenti modificazioni:
                         a)
                             al primo periodo, le parole: «gli istituti professionali hanno per fine precipuo quello di fornire la specifica preparazione teorico-pratica per l'esercizio di mansioni qualificate nei settori commerciale e dei servizi, industriale e artigiano, agrario e nautico» sono soppresse;
                         b)

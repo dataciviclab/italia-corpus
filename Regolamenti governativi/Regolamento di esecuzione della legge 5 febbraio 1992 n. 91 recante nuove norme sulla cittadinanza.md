@@ -85,7 +85,7 @@ Note alle premesse:
  - In relazione al comma 2, lettera b), del decreto qui pubblicato si trascrive il testo degli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972;772#art_1) e [5 della legge n. 772/1972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972;772#art_5) (Norme per il riconoscimento dell'obiezione di coscienza):
  "Art. 1. - Gli obbligati alla leva che dichiarino di essere contrari in ogni circostanza all'uso personale delle armi per imprescindibili motivi di coscienza, possono essere ammessi a soddisfare l'obbligo del servizio militare nei modi previsti dalla presente legge.
  I motivi di coscienza addotti debbono essere attinenti ad una concezione generale della vita basata su profondi convincimenti religiosi o filosofici o morali professati dal soggetto.
- Non sono comunque ammessi ad avvalersi della presente legge coloro che al momento della domanda risulteranno titolari di licenze o autorizzazioni relative alle armi in- dicate, rispettivamente negli articoli 28 o 30 del [testo unico della legge di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) o siano stati condannati per detenzione o porto abusivo di armi".
+ Non sono comunque ammessi ad avvalersi della presente legge coloro che al momento della domanda risulteranno titolari di licenze o autorizzazioni relative alle armi in- dicate, rispettivamente negli articoli 28 o 30 del [testo unico della legge di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) o siano stati condannati per detenzione o porto abusivo di armi".
  "Art. 5. - I giovani ammessi ai benefici della presente legge devono prestare servizio militare non armato, o servizio sostitutivo civile, per un tempo superiore di otto mesi alla durata del servizio di leva cui sarebbero tenuti (3/a).
  Il Governo della Repubblica e' autorizzato ad emanare le norme regolamentari relative all'attuazione della presente legge.
  Qualora l'interessato opti per il servizio sostitutivo civile il Ministro per la difesa, nell'attesa dell'istituzione del servizio civile nazionale, distacca gli ammessi presso enti, organizzazioni o corpi di assistenza, di istruzione, di protezione civile e di tutela e incremento del patrimonio forestale, previa stipulazione ove occorra, di speciali convenzioni con gli enti, organizzazioni o corpi presso i quali avviene il distacco".
@@ -479,7 +479,7 @@ Note all'art. 18:
 
 1.
 
-E' abrogato il [regio decreto 2 agosto 1912, n. 949](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20vengono%20approvate%20le%20norme%20per%20la%20esecuzione%20della%20legge%2013%20giugno%201912%20n.%20555%20sulla%20cittadinanza%20italiana.%20012U0949.md), dalla data di entrata in vigore del presente regolamento.
+E' abrogato il [regio decreto 2 agosto 1912, n. 949](../Regi%20decreti/Col%20quale%20vengono%20approvate%20le%20norme%20per%20la%20esecuzione%20della%20legge%2013%20giugno%201912%20n.%20555%20sulla%20cittadinanza%20italiana.%20012U0949.md), dalla data di entrata in vigore del presente regolamento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

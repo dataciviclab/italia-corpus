@@ -136,10 +136,10 @@ Nel caso di presentazione eseguita secondo le modalita' di cui all'articolo 2, c
 
 3.
 
-Resta fermo quanto previsto dall'[articolo 120 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_120) (Testo Unico Bancario).
+Resta fermo quanto previsto dall'[articolo 120 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo Unico Bancario).
 
 Note all'art. 3: 
- Si riporta il testo vigente dell'[articolo 120 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_120) (Testo unico delle leggi in materia bancaria e creditizia": 
+ Si riporta il testo vigente dell'[articolo 120 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia": 
  "Art. 120. (Decorrenza delle valute e calcolo degli interessi). - 01. Il titolare del conto corrente ha la disponibilita' economica delle somme relative agli assegni circolari o bancari versati sul suo conto, rispettivamente emessi da o tratti su una banca insediata in Italia, entro i quattro giorni lavorativi successivi al versamento. 
  1. Gli interessi sul versamento di assegni presso una banca sono conteggiati fino al giorno del prelevamento e con le seguenti valute: 
  a) dal giorno in cui e' effettuato il versamento, per gli assegni circolari emessi dalla stessa banca e per gli assegni bancari tratti sulla stessa banca presso la quale e' effettuato il versamento; 

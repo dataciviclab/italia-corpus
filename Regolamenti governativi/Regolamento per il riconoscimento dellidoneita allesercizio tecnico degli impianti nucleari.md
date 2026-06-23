@@ -95,7 +95,7 @@ Gli aspiranti all'attestato di idoneita' debbono aver compiuto, alla data di pre
 
 AGGIORNAMENTO (2)
 
-Il [D.lgs. 26 maggio 2000, n. 241](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-29-EURATOM%20in%20materia%20di%20protezione%20sanitaria%20della%20popolazione%20e%20dei%20lavoratori%20contro%20i%20rischi%20derivanti%20dalle%20radiazioni%20ionizzanti.md), ha disposto (con l'art. 42, comma 1) che la presente modifica si applica a partire dal 1 gennaio dell'anno successivo alla sua pubblicazione nella Gazzetta Ufficiale
+Il [D.lgs. 26 maggio 2000, n. 241](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2096-29-EURATOM%20in%20materia%20di%20protezione%20sanitaria%20della%20popolazione%20e%20dei%20lavoratori%20contro%20i%20rischi%20derivanti%20dalle%20radiazioni%20ionizzanti.md), ha disposto (con l'art. 42, comma 1) che la presente modifica si applica a partire dal 1 gennaio dell'anno successivo alla sua pubblicazione nella Gazzetta Ufficiale
 
 ### Art. 10. — Domanda e documentazione per l'attestato di idoneita'
 
@@ -146,7 +146,7 @@ Gli aspiranti alla patente di primo e di secondo grado debbono aver compiuto all
 
 AGGIORNAMENTO (2)
 
-Il [D.lgs. 26 maggio 2000, n. 241](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-29-EURATOM%20in%20materia%20di%20protezione%20sanitaria%20della%20popolazione%20e%20dei%20lavoratori%20contro%20i%20rischi%20derivanti%20dalle%20radiazioni%20ionizzanti.md), ha disposto (con l'art. 42, comma 1) che la presente modifica si applica a partire dal 1 gennaio dell'anno successivo alla sua pubblicazione nella Gazzetta Ufficiale
+Il [D.lgs. 26 maggio 2000, n. 241](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2096-29-EURATOM%20in%20materia%20di%20protezione%20sanitaria%20della%20popolazione%20e%20dei%20lavoratori%20contro%20i%20rischi%20derivanti%20dalle%20radiazioni%20ionizzanti.md), ha disposto (con l'art. 42, comma 1) che la presente modifica si applica a partire dal 1 gennaio dell'anno successivo alla sua pubblicazione nella Gazzetta Ufficiale
 
 ### Art. 16. — Condizioni per il conseguimento delle patenti
 

@@ -326,7 +326,7 @@ Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20d
 
 1.
 
-L'ufficio di direttore dell'Istituto e' conferito, ai sensi e con le modalita' di cui all'[art. 21 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ad una personalita' scientifica, con esperienza nei settori di competenza dell'Istituto stesso.
+L'ufficio di direttore dell'Istituto e' conferito, ai sensi e con le modalita' di cui all'[art. 21 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ad una personalita' scientifica, con esperienza nei settori di competenza dell'Istituto stesso.
 
 2.
 
@@ -482,7 +482,7 @@ Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20d
 
 1.
 
-Gli impegni di spesa sono assunti dai dirigenti amministrativi secondo la rispettiva competenza sulla base delle assegnazioni disposte dal direttore dell'Istituto ai sensi del [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
+Gli impegni di spesa sono assunti dai dirigenti amministrativi secondo la rispettiva competenza sulla base delle assegnazioni disposte dal direttore dell'Istituto ai sensi del [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
 
 2.
 

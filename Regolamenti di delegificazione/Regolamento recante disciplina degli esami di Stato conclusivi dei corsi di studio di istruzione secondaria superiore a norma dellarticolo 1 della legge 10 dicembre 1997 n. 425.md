@@ -16,7 +16,7 @@ Vista la [legge 10 dicembre 1997, n. 425](https://www.normattiva.it/uri-res/N2Ls
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Visto il testo unico delle leggi in materia di istruzione, approvato con [decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md);
+Visto il testo unico delle leggi in materia di istruzione, approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md);
 
 Considerati gli ordini del giorno presentati alla Camera dei deputati ed al Senato della Repubblica ed accolti dal Governo, rispettivamente, nelle sedute del 24 settembre 1997, del 25-26 giugno 1997 e del 2 dicembre 1997;
 
@@ -233,7 +233,7 @@ Il [D.Lgs. 13 aprile 2017, n. 62](../Leggi%20delega%20e%20relativi%20provvedimen
 
 1.
 
-Ai fini di quanto previsto dall'[articolo 16, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-03;104#art_16-com3) e [4, della legge 3 febbraio 1992, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-03;104#art_16-com4), confluito nell'articolo 318 del testo unico approvato con [decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), la commissione d'esame, sulla base della documentazione fornita dal consiglio di classe, relativa alle attivita' svolte, alle valutazioni effettuate e all'assistenza prevista per l'autonomia e la comunicazione, predispone prove equipollenti a quelle predisposte per gli altri candidati e che possono consistere nell'utilizzo di mezzi tecnici o modi diversi, ovvero nello sviluppo di contenuti culturali e professionali differenti. In ogni caso le prove equipollenti devono consentire di verificare che il candidato abbia raggiunto una preparazione culturale e professionale idonea per il rilascio del diploma attestante il superamento dell'esame. Per la predisposizione delle prove d'esame, la commissione d'esame puo' avvalersi di personale esperto; per il loro svolgimento la stessa si avvale, se necessario, dei medesimi operatori che hanno seguito l'alunno durante l'anno scolastico.
+Ai fini di quanto previsto dall'[articolo 16, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-03;104#art_16-com3) e [4, della legge 3 febbraio 1992, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-03;104#art_16-com4), confluito nell'articolo 318 del testo unico approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), la commissione d'esame, sulla base della documentazione fornita dal consiglio di classe, relativa alle attivita' svolte, alle valutazioni effettuate e all'assistenza prevista per l'autonomia e la comunicazione, predispone prove equipollenti a quelle predisposte per gli altri candidati e che possono consistere nell'utilizzo di mezzi tecnici o modi diversi, ovvero nello sviluppo di contenuti culturali e professionali differenti. In ogni caso le prove equipollenti devono consentire di verificare che il candidato abbia raggiunto una preparazione culturale e professionale idonea per il rilascio del diploma attestante il superamento dell'esame. Per la predisposizione delle prove d'esame, la commissione d'esame puo' avvalersi di personale esperto; per il loro svolgimento la stessa si avvale, se necessario, dei medesimi operatori che hanno seguito l'alunno durante l'anno scolastico.
 
 2.
 
@@ -276,11 +276,11 @@ Il [D.Lgs. 13 aprile 2017, n. 62](../Leggi%20delega%20e%20relativi%20provvedimen
 
 1.
 
-Sede d'esame per i candidati interni sono gli istituti statali, i licei linguistici di cui all'articolo 363, comma 1, lettere a), b), c), d) ed e), del testo unico approvato con [decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), e, limitatamente ai candidati di cui all'articolo 2, comma 1, lettere c) e d), gli istituti pareggiati e legalmente riconosciuti.
+Sede d'esame per i candidati interni sono gli istituti statali, i licei linguistici di cui all'articolo 363, comma 1, lettere a), b), c), d) ed e), del testo unico approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), e, limitatamente ai candidati di cui all'articolo 2, comma 1, lettere c) e d), gli istituti pareggiati e legalmente riconosciuti.
 
 2.
 
-Sede d'esame dei candidati esterni, salvo quanto previsto dall'articolo 362, comma 3, del testo unico approvato con [decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), sono soltanto gli istituti statali ed i licei linguistici di cui al comma 1.
+Sede d'esame dei candidati esterni, salvo quanto previsto dall'articolo 362, comma 3, del testo unico approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), sono soltanto gli istituti statali ed i licei linguistici di cui al comma 1.
 
 3.
 
@@ -317,7 +317,7 @@ Il [D.Lgs. 13 aprile 2017, n. 62](../Leggi%20delega%20e%20relativi%20provvedimen
 
 1.
 
-La comissione d'esame e' nominata dal Ministero della pubblica istruzione ed e' composta da non piu' di otto membri, dei quali il 50 per cento interni e il restante 50 per cento esterni all'istituto, piu' il presidente esterno; le materie affidate ai membri esterni sono scelte annualmente con le modalita' e nei termini stabiliti con decreto del Ministro della pubblica istruzione, adottato a norma dell'articolo 205 del testo unico approvato con [decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md). ((2))
+La comissione d'esame e' nominata dal Ministero della pubblica istruzione ed e' composta da non piu' di otto membri, dei quali il 50 per cento interni e il restante 50 per cento esterni all'istituto, piu' il presidente esterno; le materie affidate ai membri esterni sono scelte annualmente con le modalita' e nei termini stabiliti con decreto del Ministro della pubblica istruzione, adottato a norma dell'articolo 205 del testo unico approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md). ((2))
 
 2.
 
@@ -549,7 +549,7 @@ Sono fatte salve le competenze delle province autonome di Trento e di Bolzano pr
 
 12.
 
-In relazione a quanto previsto dall'articolo 2, commi 2 e 3, si intendono abrogati i commi 1 e 2 dell'art. 199 del testo unico approvato con [decreto legislativo 16 aprile 1994, n. 297](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md).
+In relazione a quanto previsto dall'articolo 2, commi 2 e 3, si intendono abrogati i commi 1 e 2 dell'art. 199 del testo unico approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md).
 
 ((2))
 

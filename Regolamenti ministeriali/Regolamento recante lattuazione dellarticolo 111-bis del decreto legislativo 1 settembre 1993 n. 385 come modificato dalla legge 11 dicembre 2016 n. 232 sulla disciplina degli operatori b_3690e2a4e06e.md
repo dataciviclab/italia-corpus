@@ -12,7 +12,7 @@ IL MINISTRO DELL'ECONOMIA
 
 E DELLE FINANZE
 
-Visto l'articolo 111-bis del testo unico delle leggi in materia bancaria e creditizia di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), che stabilisce che sono operatori bancari di finanza etica e sostenibile le banche che conformano la propria attivita' ai principi ivi indicati e, in particolare, i commi 2 e 4 che dispongono, in favore degli operatori bancari di finanza etica e sostenibile, la non concorrenza alla formazione del reddito determinato ai sensi dell'articolo 81 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), di una quota pari al 75 per cento delle somme destinate a incremento del capitale proprio, nel rispetto dei limiti di cui al regolamento (UE) n. 1407/2013 della Commissione, del 18 dicembre 2013, relativo all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea agli aiuti «de minimis».
+Visto l'articolo 111-bis del testo unico delle leggi in materia bancaria e creditizia di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), che stabilisce che sono operatori bancari di finanza etica e sostenibile le banche che conformano la propria attivita' ai principi ivi indicati e, in particolare, i commi 2 e 4 che dispongono, in favore degli operatori bancari di finanza etica e sostenibile, la non concorrenza alla formazione del reddito determinato ai sensi dell'articolo 81 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), di una quota pari al 75 per cento delle somme destinate a incremento del capitale proprio, nel rispetto dei limiti di cui al regolamento (UE) n. 1407/2013 della Commissione, del 18 dicembre 2013, relativo all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea agli aiuti «de minimis».
 
 Visto, altresi', il comma 3 del citato articolo 111-bis, ai sensi del quale il Ministro dell'economia e delle finanze, sentita la Banca d'Italia, stabilisce, con proprio decreto, le norme di attuazione delle disposizioni dell'articolo 111-bis dalle quali non possono derivare oneri a carico della finanza pubblica superiori a 1 milione di euro in ragione annua a decorrere dall'anno 2017;
 
@@ -38,7 +38,7 @@ Ai fini del presente decreto si intende per:
                         c)
                             remunerazione: ogni forma di pagamento o beneficio, incluse eventuali componenti accessorie, corrisposto, direttamente o indirettamente, in contanti, strumenti finanziari o servizi o beni in natura, in cambio delle prestazioni di lavoro o dei servizi professionali resi dal personale alla banca o ad altre societa' del gruppo bancario. Non sono considerati remunerazione i pagamenti o benefici marginali, accordati al personale su base non discrezionale, che rientrano in una politica generale della banca e che non producono effetti sul piano degli incentivi all'assunzione o al controllo dei rischi;
                         d)
-                            TUB: il testo unico delle leggi in materia bancaria e creditizia di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385).
+                            TUB: il testo unico delle leggi in materia bancaria e creditizia di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 N O T E 
  
@@ -46,7 +46,7 @@ N O T E
  - Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art.10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n.1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  - Per gli atti dell'Unione europea vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale dell'Unione Europea (GUUE). 
  Note alle premesse 
- - Si riporta il testo dell'[articolo 111-bis, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_111bis) (Testo unico delle leggi in materia bancaria e creditizia): 
+ - Si riporta il testo dell'[articolo 111-bis, del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia): 
  «Art. 111-bis (Finanza etica e sostenibile). - 1.
  Sono operatori bancari di finanza etica e sostenibile le banche che conformano la propria attivita' ai seguenti principi: 
  a) valutano i finanziamenti erogati a persone giuridiche secondo standard di rating etico internazionalmente riconosciuti, con particolare attenzione all'impatto sociale e ambientale; 
@@ -82,7 +82,7 @@ N O T E
  4-ter. Con regolamenti da emanare ai sensi del comma 1 del presente articolo, si provvede al periodico riordino delle disposizioni regolamentari vigenti, alla ricognizione di quelle che sono state oggetto di abrogazione implicita e all'espressa abrogazione di quelle che hanno esaurito la loro funzione o sono prive di effettivo contenuto normativo o sono comunque obsolete.» 
  
  Note all'[art. 1: 
- - Il decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_1) (Testo unico delle leggi in materia bancaria e creditizia) e' pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, S.O.
+ - Il decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia) e' pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, S.O.
 
 ## Art. 2. — Oggetto
 
@@ -95,7 +95,7 @@ Il presente decreto individua:
                             la procedura per la richiesta e il riconoscimento della agevolazione fiscale.
 
 Note all'art. 2: 
- - Il riferimento al testo dell'[art. 111-bis, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_111bis) e' riportato nelle note alle premesse.
+ - Il riferimento al testo dell'[art. 111-bis, del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) e' riportato nelle note alle premesse.
 
 ## Art. 3. — Operatori bancari di finanza etica e sostenibile
 
@@ -138,7 +138,7 @@ La sussistenza dei requisiti di cui al comma 1 e' dichiarata, altresi', dall'org
 Gli operatori bancari di finanza etica e sostenibile danno comunicazione alla Banca d'Italia dell'avvenuta attestazione rilasciata ai sensi del comma 2; la comunicazione ha esclusivamente finalita' informative, non e' condizione per la concessione dell'agevolazione fiscale e da essa non discendono adempimenti a carico della Banca d'Italia.
 
 Note all'art. 3: 
- - Il riferimento al testo dell'[art. 111-bis, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_111bis) e' riportato nelle note alle premesse. 
+ - Il riferimento al testo dell'[art. 111-bis, del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) e' riportato nelle note alle premesse. 
  - Si riporta il testo degli [articoli 45](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md) e [104 del decreto legislativo 3 luglio 2017, n. 117](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20del%20Terzo%20settore%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20b%20della%20legge%206%20giugno%202016%20n.%20106.%2017G00128.md) recante Codice del Terzo settore, a norma dell'[art. 1, comma 2, lettera b), della legge 6 giugno 2016, n. 106](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20del%20Terzo%20settore%20dellimpresa%20sociale%20e%20per%20la%20disciplina%20del%20servizio%20civile%20universale.%2016G00118.md): 
  «Art. 45 (Registro unico nazionale del Terzo settore). - 1. Presso il Ministero del lavoro e delle politiche sociali e' istituito il Registro unico nazionale del Terzo settore, operativamente gestito su base territoriale e con modalita' informatiche in collaborazione con ciascuna Regione e Provincia autonoma, che, a tal fine, individua, entro centottanta giorni dalla data di entrata in vigore del presente decreto, la struttura competente.
  Presso le Regioni, la struttura di cui al periodo precedente e' indicata come «Ufficio regionale del Registro unico nazionale del Terzo settore». Presso le Province autonome la stessa assume la denominazione di «Ufficio provinciale del Registro unico nazionale del Terzo settore». Il Ministero del lavoro e delle politiche sociali individua nell'ambito della dotazione organica dirigenziale non generale disponibile a legislazione vigente la propria struttura competente di seguito indicata come «Ufficio statale del Registro unico nazionale del Terzo settore». 
@@ -232,7 +232,7 @@ L'attestazione della destinazione degli utili prevista al comma 2 e l'attestazio
 Per quanto non espressamente disciplinato dal presente decreto, si applicano le disposizioni in materia di liquidazione, accertamento, riscossione e contenzioso previste per le imposte sui redditi.
 
 Note all'art. 4: 
- - Il riferimento al testo dell'[art. 111-bis, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_111bis) e' riportato nelle note alle premesse. 
+ - Il riferimento al testo dell'[art. 111-bis, del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) e' riportato nelle note alle premesse. 
  - Il riferimento al regolamento (UE) n. 1407/2013 della Commissione, del 18 dicembre 2013 e' riportato nelle note alle premesse.
 
 ## Art. 5. — Organismo di certificazione

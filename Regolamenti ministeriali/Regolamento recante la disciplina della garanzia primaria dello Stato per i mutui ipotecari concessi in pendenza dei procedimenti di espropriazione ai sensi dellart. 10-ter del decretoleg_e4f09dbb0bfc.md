@@ -18,7 +18,7 @@ Visto, altresi', il comma 6 del citato [articolo 6 della legge n. 179 del 1992](
 
 Visto l'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4);
 
-Visto il [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), recante: "Testo unico delle leggi in materia bancaria e creditizia";
+Visto il [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), recante: "Testo unico delle leggi in materia bancaria e creditizia";
 
 Udito il parere del Consiglio di Stato espresso nell'adunanza della sezione consultiva per gli atti normativi del 9 giugno 1997;
 
@@ -52,7 +52,7 @@ Avvertenza:
  - Il testo dell'[art. 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), e' il seguente:
  "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' subordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.
  4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale".
- - Il [d.lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) (Testo unico delle leggi in materia bancaria e creditizia) definisce, all'art. 1, lettera b), "banca" l'impresa autorizzata all'esercizio dell'attivita' bancaria.
+ - Il [d.lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia) definisce, all'art. 1, lettera b), "banca" l'impresa autorizzata all'esercizio dell'attivita' bancaria.
  Nota all'art. 1:
  - Il testo dell'[art. 6, commi 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179#art_6-com5) e [6, della legge 17 febbraio 1992, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179#art_6-com6), e' riportato nelle note alle premesse.
 

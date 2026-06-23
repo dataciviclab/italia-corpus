@@ -450,7 +450,7 @@ Si considerano appartenenti al gruppo del soggetto che ha richiesto l'iscrizione
                                 controllano il predetto soggetto, ovvero ne siano controllati;
                             b)
                                 sono controllati dallo stesso soggetto che controlla il soggetto che ha richiesto l'scrizione.
- 2. Ai fini dell'individuazione del rapporto di controllo si applica l'[articolo 23 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_23). (R).
+ 2. Ai fini dell'individuazione del rapporto di controllo si applica l'[articolo 23 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md). (R).
 
 4.
 

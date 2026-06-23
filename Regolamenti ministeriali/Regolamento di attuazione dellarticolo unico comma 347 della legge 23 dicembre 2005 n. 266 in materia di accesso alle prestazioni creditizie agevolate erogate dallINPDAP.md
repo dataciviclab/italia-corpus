@@ -53,7 +53,7 @@ Avvertenza:
  a) all'art. 1:
  1) al primo comma, dopo le parole: "salve le eccezioni stabilite nei seguenti articoli" sono inserite le seguenti: "ed in altre disposizioni di legge";
  2) sono aggiunti, in fine, i seguenti commi:
- "I pensionati pubblici e privati possono contrarre con banche e intermediari finanziari di cui all'art. 106 del testo unico di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), prestiti da estinguersi con cessione di quote della pensione fino al quinto della stessa, valutato al netto delle ritenute fiscali e per periodi non superiori a dieci anni.
+ "I pensionati pubblici e privati possono contrarre con banche e intermediari finanziari di cui all'art. 106 del testo unico di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), prestiti da estinguersi con cessione di quote della pensione fino al quinto della stessa, valutato al netto delle ritenute fiscali e per periodi non superiori a dieci anni.
  Possono essere cedute ai sensi del precedente comma le pensioni o le indennita' che tengono luogo di pensione corrisposte dallo Stato o dai singoli enti, gli assegni equivalenti a carico di speciali casse di previdenza, le pensioni e gli assegni di invalidita' e vecchiaia corrisposti dall'Istituto nazionale della previdenza sociale, gli assegni vitalizi e i capitali a carico di istituti e fondi in dipendenza del rapporto di lavoro.
  I prestiti devono avere la garanzia dell'assicurazione sulla vita che ne assicuri il recupero del residuo credito in caso di decesso del mutuatario";
  b) all'art. 52:

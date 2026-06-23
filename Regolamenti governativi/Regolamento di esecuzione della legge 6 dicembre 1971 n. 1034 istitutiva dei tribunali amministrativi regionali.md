@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto l'[art. 52 della legge 6 dicembre 1971, n. 1034](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1034#art_52), istitutiva dei tribunali amministrativi regionali, che demanda al Governo l'emanazione delle norme regolamentari relative alle norme di attuazione e alle modalita' di svolgimento dei concorsi previsti dall'art. 14 della legge medesima;
 
-Sentito il Consiglio di Stato che ha predisposto a tal fine uno schema di regolamento in esito ad apposito incarico conferitogli ai sensi dell'art. 14 del testo unico approvato con [regio decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md);
+Sentito il Consiglio di Stato che ha predisposto a tal fine uno schema di regolamento in esito ad apposito incarico conferitogli ai sensi dell'art. 14 del testo unico approvato con [regio decreto 26 giugno 1924, n. 1054](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md);
 
 Sentito il Consiglio dei Ministri;
 

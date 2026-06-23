@@ -64,7 +64,7 @@ Avvertenza:
  b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale;
  c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;
  d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge;
- e) abrogato dall'[art. 74 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md)".
+ e) abrogato dall'[art. 74 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md)".
  Nota all'art. 1:
  - Si riporta il testo dell'[art. 109 del decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)):
  "Art. 109 (Riordino di strutture e del Corpo nazionale dei vigili del fuoco). - 1. Nell'ambito del riordino di cui all'art. 9, sono ricompresi, in particolare:
@@ -99,10 +99,10 @@ Capo II
 
 1.
 
-Le attribuzioni di cui all'articolo 2, lettera a), sono espletate dalla Direzione generale, in attesa del decentramento di funzioni in base alla riorganizzazione del Corpo nazionale dei vigili del fuoco, secondo quanto previsto dal [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni.
+Le attribuzioni di cui all'articolo 2, lettera a), sono espletate dalla Direzione generale, in attesa del decentramento di funzioni in base alla riorganizzazione del Corpo nazionale dei vigili del fuoco, secondo quanto previsto dal [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni.
 
 Nota all'[art. 3:
- - Il decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), reca: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione delle discipline in materia di pubblico impiego e norme dell'[art. 2 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)".
+ - Il decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), reca: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione delle discipline in materia di pubblico impiego e norme dell'[art. 2 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)".
 
 ### Art. 4. — Emolumenti accessori
 
@@ -437,7 +437,7 @@ La gestione dei consegnatari di cui al comma 1, sono sottoposte al controllo del
 
 7.
 
-I conti giudiziali della gestione dei consegnatari di cui al comma 1, lettere a), b) e c), sono altresi' soggetti al controllo della Corte dei conti, ai sensi del testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), e successive modificazioni.
+I conti giudiziali della gestione dei consegnatari di cui al comma 1, lettere a), b) e c), sono altresi' soggetti al controllo della Corte dei conti, ai sensi del testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), e successive modificazioni.
 
 Nota all'art. 28:
  - Si riporta il testo dell'[art. 20 della legge 13 luglio 1966, n. 559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-13;559#art_20), recante: "Nuovo ordinamento dell'Istituto Poligrafico dello Stato":
@@ -458,7 +458,7 @@ Nota all'art. 28:
  3) a curare l'esatta ed uniforme interpretazione ed applicazione delle disposizioni della contabilita' generale dello Stato;
  4) ad accertare il regolare adempimento delle funzioni sindacali e di revisione presso enti, istituti o societa', da parte dei designati dal Ministro del tesoro, e a riassumere e coordinare i risultati.
  Il ragioniere generale dello Stato sottopone al Ministro del tesoro le proposte per le designazioni alle funzioni sindacali e di revisione predette".
- - Il [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), reca: "Approvazione del testo unico delle leggi sulla Corte dei conti".
+ - Il [regio decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), reca: "Approvazione del testo unico delle leggi sulla Corte dei conti".
 
 ### Art. 29. — Disposizioni particolari
 

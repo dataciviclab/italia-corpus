@@ -88,7 +88,7 @@ Il controllo e la riscossione delle tasse automobilistiche sono effettuati diret
 
 2.
 
-Ai fini dell'affidamento delle attivita' di controllo e riscossione delle tasse automobilistiche ai concessionari, in possesso del requisito di onorabilita' di cui all'[articolo 25 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_25), si tiene conto dei seguenti elementi:
+Ai fini dell'affidamento delle attivita' di controllo e riscossione delle tasse automobilistiche ai concessionari, in possesso del requisito di onorabilita' di cui all'[articolo 25 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), si tiene conto dei seguenti elementi:
                         a)
                             capacita' finanziaria, da valutare anche ai fini della garanzia patrimoniale generale;
                         b)
@@ -113,7 +113,7 @@ Il pagamento delle tasse automobilistiche puo' essere effettuato anche tramite g
 I concessionari ed i soggetti abilitati alla riscossione rilasciano al contribuente una attestazione recante l'indicazione dei dati identificativi del veicolo, dell'importo e della data di versamento, della regione competente e della data di scadenza della tassa pagata.
 
 Nota all'art. 2:
- - Si riporta il testo dell'[art. 25 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_25), con il quale e' stato emanato il testo unico delle leggi in materia bancaria e creditizia:
+ - Si riporta il testo dell'[art. 25 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), con il quale e' stato emanato il testo unico delle leggi in materia bancaria e creditizia:
  "Art. 25 (Requisiti di onorabilita' dei partecipanti).
  - 1. Il Ministro del tesoro, sentita la Banca d'Italia, determina, con regolamento emanato a sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), i requisiti di onorabilita' dei partecipanti al capitale delle banche.
  2. Con il regolamento previsto dal comma 1 il Ministro del tesoro stabilisce la quota del capitale che deve essere posseduta per l'applicazione del medesimo comma 1. A questo fine si considerano anche le azioni o quote possedute per il tramite di societa' controllate, di societa' fiduciarie o per interposta persona.

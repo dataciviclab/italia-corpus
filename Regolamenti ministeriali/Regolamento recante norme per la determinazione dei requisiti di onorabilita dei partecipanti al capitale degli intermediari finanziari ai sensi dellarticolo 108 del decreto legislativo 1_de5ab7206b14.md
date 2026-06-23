@@ -12,7 +12,7 @@ IL MINISTRO DEL TESORO, DEL BILANCIO
 
 E DELLA PROGRAMMAZIONE ECONOMICA
 
-Visto il testo unico delle leggi in materia bancaria e creditizia (di seguito "testo unico") emanato con [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
+Visto il testo unico delle leggi in materia bancaria e creditizia (di seguito "testo unico") emanato con [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
 
 Visto l'articolo 108, comma 1, del testo unico, in base al quale i partecipanti al capitale degli intermediari iscritti nell'elenco previsto dall'articolo 106 del testo unico medesimo (di seguito "intermediari finanziari") devono possedere i requisiti di onorabilita' stabiliti con regolamento del Ministro del tesoro, adottato sentiti la Banca d'Italia e l'U.I.C.;
 
@@ -68,8 +68,8 @@ Avvertenza:
  Nota al titolo:
  - Per il testo dell'[art. 108 del D.Lgs. n. 385/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;385#art_108), v. nelle note alle premesse.
  Note alle premesse:
- - Il [D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), reca: "Testo unico delle leggi in materia bancaria e creditizia".
- - Il testo dell'art. 106 del citato [D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e' il seguente:
+ - Il [D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), reca: "Testo unico delle leggi in materia bancaria e creditizia".
+ - Il testo dell'art. 106 del citato [D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' il seguente:
  "1. L'esercizio nei confronti del pubblico delle attivita' di assunzione di partecipazioni, di concessione di finanziamenti sotto qualsiasi forma, di prestazione di servizi di pagamento e di intermediazione in cambi e' riservato a intermediari finanziari iscritti in un apposito elenco tenuto dal Ministro del tesoro, che si avvale dell'U.I.C.
  2. Gli intermediari finanziari indicati nel comma 1 possono svolgere esclusivamente attivita' finanziarie, fatte salve le riserve di attivita' previste dalla legge.
  3. L'iscrizione nell'elenco e' subordinata al ricorrere delle seguenti condizioni:
@@ -84,7 +84,7 @@ Avvertenza:
  l'U.I.C. da' comunicazione delle iscrizioni alla Banca d'Italia e alla Consob.
  6. L'U.I.C. puo' chiedere agli intermediari finanziari la comunicazione di dati e notizie per verificare il permanere delle condizioni per l'iscrizione nell'elenco.
  7. I soggetti che svolgono funzioni di amministrazione, direzione e controllo presso gli intermediari finanziari comunicano all'U.I.C., con le modalita' dallo stesso stabilite, le cariche analoghe ricoperte presso altre societa' ed enti di qualsiasi natura".
- - Il testo dell'[art. 108, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_108-com1) e [2, del D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_108-com2), e' il seguente:
+ - Il testo dell'[art. 108, commi 1](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) e [2, del D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' il seguente:
  "1. Il Ministro del tesoro, sentiti la Banca d'Italia e l'U.I.C., determina, con regolamento emanato ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), i requisiti di onorabilita' dei partecipanti al capitale degli intermediari finanziari.
  2. Con il regolamento previsto dal comma 1 il Ministro del tesoro stabilisce la quota del capitale che deve essere posseduta per l'applicazione del medesimo comma 1. A questo fine si considerano anche le azioni o quote possedute per il tramite di societa' controllate, societa' fiduciarie o per interposta persona".
  - Il testo dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), recante: "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri", e' il seguente:
@@ -93,7 +93,7 @@ Avvertenza:
  - La legge 27 dicembre 1956, n. 1423](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md), reca: "Misure di prevenzione nei confronti delle persone pericolose per la sicurezza e per la pubblica moralita'".
  - La [legge 31 maggio 1965, n. 575](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20contro%20la%20mafia.md), reca: "Disposizioni contro la mafia".
  - Il titolo XI del libro V del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) recita: "Disposizioni penali in materia di societa' e di consorzi", e il [regio decreto del 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), recita: "Disciplina del fallimento, del concordato preventivo, della amministrazione controllata e della liquidazione coatta amministrativa".
- - Il testo dell'art 23 del citato [D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e' il seguente:
+ - Il testo dell'art 23 del citato [D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' il seguente:
  "Art. 23. - 1. Ai fini del presente capo il controllo sussiste, anche con riferimento a soggetti diversi dalle societa', nei casi previsti dall'[art. 2359, commi primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359-com1) e [secondo, del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359-com2).
  2. Il controllo si considera esistente nella forma dell'influenza dominante, salvo prova contraria, allorche' ricorra una delle seguenti situazioni:
  1) esistenza di un soggetto che, in base ad accordi con altri soci, ha il diritto di nominare o revocare la maggioranza degli amministratori ovvero dispone da solo della maggioranza dei voti esercitabili nell'assemblea ordinaria;

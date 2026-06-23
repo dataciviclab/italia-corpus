@@ -12,9 +12,9 @@ IL MINISTRO DELL'ECONOMIA
 
 E DELLE FINANZE
 
-Visto il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), recante «Testo unico delle leggi in materia bancaria e creditizia», e, in particolare l'articolo 111, comma 5, in base al quale il Ministro dell'economia e delle finanze, sentita la Banca d'Italia, emana disposizioni attuative dello stesso articolo;
+Visto il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), recante «Testo unico delle leggi in materia bancaria e creditizia», e, in particolare l'articolo 111, comma 5, in base al quale il Ministro dell'economia e delle finanze, sentita la Banca d'Italia, emana disposizioni attuative dello stesso articolo;
 
-Vista la [legge 30 dicembre 2021, n. 234](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202022%20e%20bilancio%20pluriennale%20per%20il%20triennio%202022-2024.%2021G00256.md), recante «Bilancio di previsione dello Stato per l'anno finanziario 2022 e bilancio pluriennale per il triennio 2022-2024» e, in particolare, l'articolo 1, comma 914, che apporta modifiche all'articolo 111 del testo unico di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
+Vista la [legge 30 dicembre 2021, n. 234](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202022%20e%20bilancio%20pluriennale%20per%20il%20triennio%202022-2024.%2021G00256.md), recante «Bilancio di previsione dello Stato per l'anno finanziario 2022 e bilancio pluriennale per il triennio 2022-2024» e, in particolare, l'articolo 1, comma 914, che apporta modifiche all'articolo 111 del testo unico di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -32,7 +32,7 @@ Adotta il seguente regolamento:
 
 1.
 
-Al [decreto del Ministro dell'economia e delle finanze del 17 ottobre 2014, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.economia.finanze:decreto:2014-10-17;176), recante disciplina del microcredito, in attuazione dell'[articolo 111, comma 5, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_111-com5), sono apportate le seguenti modificazioni:
+Al [decreto del Ministro dell'economia e delle finanze del 17 ottobre 2014, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.economia.finanze:decreto:2014-10-17;176), recante disciplina del microcredito, in attuazione dell'[articolo 111, comma 5, del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono apportate le seguenti modificazioni:
                         a)
                             la rubrica del titolo I e' sostituita dalla seguente: «Microcredito per l'avvio o l'esercizio di attivita' di lavoro autonomo o di microimpresa»;
                         b)
@@ -75,7 +75,7 @@ N O T E
  Avvertenza: 
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art.10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n.1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Note alle premesse: 
- - Si riporta il testo dell'[articolo 111, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_111), recante «Testo unico delle leggi in materia bancaria e creditizia», pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, Supplemento ordinario: 
+ - Si riporta il testo dell'[articolo 111, del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), recante «Testo unico delle leggi in materia bancaria e creditizia», pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, Supplemento ordinario: 
  «Art. 111 (Microcredito). - 1. In deroga all'articolo 106, comma 1, i soggetti iscritti in un apposito elenco, possono concedere finanziamenti a persone fisiche o societa' di persone o societa' a responsabilita' limitata semplificata di cui all'[articolo 2463-bis codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2463bis) o associazioni o societa' cooperative, per l'avvio o l'esercizio di attivita' di lavoro autonomo o di microimpresa, a condizione che i finanziamenti concessi abbiano le seguenti caratteristiche: 
  a) siano di ammontare non superiore a euro 75.000,00 e non siano assistiti da garanzie reali; 
  b) 
@@ -97,7 +97,7 @@ N O T E
  d) le informazioni da fornire alla clientela. 
  5-bis. L'utilizzo del sostantivo microcredito e' subordinato alla concessione di finanziamenti secondo le caratteristiche di cui ai commi 1 e 3.». 
  - Si riporta il [comma 914 dell'articolo 1 della legge 30 dicembre 2021, n. 234](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202022%20e%20bilancio%20pluriennale%20per%20il%20triennio%202022-2024.%2021G00256.md), recante «Bilancio di previsione dello Stato per l'anno finanziario 2022 e bilancio pluriennale per il triennio 2022-2024», pubblicata nella Gazzetta Ufficiale 31 dicembre 2021, n. 310, Supplemento ordinario: 
- «914. All'articolo 111 del testo unico di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), sono apportate le seguenti modificazioni: 
+ «914. All'articolo 111 del testo unico di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), sono apportate le seguenti modificazioni: 
  a) al comma 1, lettera a), la cifra: "40.000,00" e' sostituita dalla seguente: "75.000,00"; 
  b) al comma 1, la lettera b) e' abrogata; 
  c) dopo il comma 1 e' inserito il seguente: 
@@ -124,7 +124,7 @@ N O T E
  4-ter. Con regolamenti da emanare ai sensi del comma 1 del presente articolo, si provvede al periodico riordino delle disposizioni regolamentari vigenti, alla ricognizione di quelle che sono state oggetto di abrogazione implicita e all'espressa abrogazione di quelle che hanno esaurito la loro funzione o sono prive di effettivo contenuto normativo o sono comunque obsolete.». 
  
  Note all'art. 1: 
- - Si riporta il testo degli articoli 1, 4, 5, 10, 13, 14, 15, e 16 del [decreto del Ministro dell'economia e delle finanze del 17 ottobre 2014, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.economia.finanze:decreto:2014-10-17;176), recante disciplina del microcredito, in attuazione dell'[articolo 111, comma 5, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_111-com5), pubblicato nella Gazzetta Ufficiale 1° dicembre 2014, n. 279, come modificato dal seguente regolamento: 
+ - Si riporta il testo degli articoli 1, 4, 5, 10, 13, 14, 15, e 16 del [decreto del Ministro dell'economia e delle finanze del 17 ottobre 2014, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.economia.finanze:decreto:2014-10-17;176), recante disciplina del microcredito, in attuazione dell'[articolo 111, comma 5, del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), pubblicato nella Gazzetta Ufficiale 1° dicembre 2014, n. 279, come modificato dal seguente regolamento: 
  «Art. 1 (Beneficiari e caratteristiche dell'attivita'). - 1. Rientra nell'attivita' di microcredito disciplinata dal presente titolo l'attivita' di finanziamento finalizzata a sostenere l'avvio o l'esercizio di un'attivita' di lavoro autonomo o di microimpresa, organizzata in forma individuale, di associazione, di societa' di persone, di societa' a responsabilita' limitata, semplificata o di societa' cooperativa. 
  2. Sono esclusi i finanziamenti ai seguenti soggetti: 
  a) (abrogata) 

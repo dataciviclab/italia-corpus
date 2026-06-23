@@ -198,7 +198,7 @@ Avvertenza:
  i) "impresa di investimento extracomunitaria": l'impresa, diversa dalla banca, autorizzata a svolgere servizi di investimento, avente sede legale in uno Stato extracomunitario; 
  l) "imprese di investimento": le SIM e le imprese di investimento comunitarie ed extracomunitarie; 
  m) "Societa' di intermediazione mobiliare (SIM)": l'impresa, diversa dalle banche e dagli intermediari finanziari iscritti nell'elenco previsto dall'art. 107 del Testo unico bancario, autorizzata a svolgere servizi di investimento, avente sede legale e Direzione generale in Italia; 
- n) "Testo unico bancario (T.U. bancario)": il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) e successive modificazioni; 
+ n) "Testo unico bancario (T.U. bancario)": il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) e successive modificazioni; 
  o) "mercati": i mercati telematici disciplinati dai regolamenti speciali di prodotto approvati dalla deputazione nazionale su proposta della societa' di gestione; 
  p) "Regolamento": il presente provvedimento; 
  q) "Regolamenti speciali di prodotto": disciplinari che indicano le condizioni di negoziazione telematica, le caratteristiche specifiche del prodotto, le condizioni di pagamento e di consegna/ritiro e qualsiasi altro evento o fatto successivo alla conclusione del contratto che possa incidere sull'esecuzione del medesimo; 

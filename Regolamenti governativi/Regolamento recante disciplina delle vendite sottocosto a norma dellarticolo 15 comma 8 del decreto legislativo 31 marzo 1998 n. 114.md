@@ -66,7 +66,7 @@ Non puo' essere effettuata una vendita sottocosto se non e' decorso almeno un pe
 
 6.
 
-Fatta salva l'applicazione del [decreto legislativo 25 gennaio 1992, n. 74](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2084-450-CEE%20in%20materia%20di%20pubblicita%20ingannevole.md), indipendentemente dalla effettiva esecuzione della vendita sottocosto, sono vietati gli annunci e i messaggi pubblicitari, effettuati con qualsiasi mezzo, relativi ad operazioni non consentite dal presente decreto.
+Fatta salva l'applicazione del [decreto legislativo 25 gennaio 1992, n. 74](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2084-450-CEE%20come%20modificata%20dalla%20direttiva%2097-55-CE%20in%20materia%20di%20pubblicita%20ingannevole%20e%20comparativa.md), indipendentemente dalla effettiva esecuzione della vendita sottocosto, sono vietati gli annunci e i messaggi pubblicitari, effettuati con qualsiasi mezzo, relativi ad operazioni non consentite dal presente decreto.
 
 7.
 
@@ -107,7 +107,7 @@ Avvertenza:
  L'influenza si presume quando nell'assemblea ordinaria puo' essere esercitato almeno un quinto dei voti ovvero un decimo se la societa' ha azioni quotate in borsa.".
  - Il testo dell'[art 15, comma 1, del decreto legislativo 31 marzo 1998, n. 114](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20della%20disciplina%20relativa%20al%20settore%20del%20commercio%20a%20norma%20dellarticolo%204%20comma%204%20della%20legge%2015%20marzo%201997%20n.%2059.md), e' il seguente:
  "1. Per vendite straordinarie si intendono le vendite di liquidazione, le vendite di fine stagione e le vendite promozionali nelle quali l'esercente dettagliante offre condizioni favorevoli, reali ed effettive, di acquisto dei propri prodotti.
- Il [decreto legislativo 25 gennaio 1992, n. 74](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2084-450-CEE%20in%20materia%20di%20pubblicita%20ingannevole.md), recante "Attuazione della [direttiva 84/450/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1984;450), come modificata dalla [direttiva 97/55/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;55) in materia di pubblicita' ingannevole e comparativa" e' pubblicato nella Gazzetta Ufficiale n. 36 del 13 febbraio 1992.
+ Il [decreto legislativo 25 gennaio 1992, n. 74](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2084-450-CEE%20come%20modificata%20dalla%20direttiva%2097-55-CE%20in%20materia%20di%20pubblicita%20ingannevole%20e%20comparativa.md), recante "Attuazione della [direttiva 84/450/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1984;450), come modificata dalla [direttiva 97/55/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;55) in materia di pubblicita' ingannevole e comparativa" e' pubblicato nella Gazzetta Ufficiale n. 36 del 13 febbraio 1992.
 
 ## Art. 2. — Ammissibilita'
 
@@ -117,7 +117,7 @@ E' comunque consentito effettuare la vendita sottocosto:
                         a)
                             dei prodotti alimentari freschi e deperibili;
                         b)
-                            dei prodotti alimentari qualora manchino meno di tre giorni alla data di scadenza o meno di quindici giorni alla data del termine minimo di conservazione, nel rispetto delle disposizioni del [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md);
+                            dei prodotti alimentari qualora manchino meno di tre giorni alla data di scadenza o meno di quindici giorni alla data del termine minimo di conservazione, nel rispetto delle disposizioni del [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md);
                         c)
                             dei prodotti tipici delle festivita' tradizionali, qualora sia trascorsa la ricorrenza o la data della loro celebrazione;
                         d)
@@ -134,7 +134,7 @@ E' altresi' consentito effettuare la vendita sottocosto in caso di ricorrenza de
 Le vendite sottocosto di cui al presente articolo non sono soggette alla comunicazione di cui all'articolo 1, comma 4.
 
 Nota all'[art. 2:
- Il decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), recante : "Attuazione delle [direttive 89/395/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;395) e [89/396/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;396) concernenti l'etichettatura, la presentazione e la pubblicita' dei prodotti alimentari", e' pubblicato nella Gazzetta Ufficiale n. 39 del 17 febbraio 1992.
+ Il decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), recante : "Attuazione delle [direttive 89/395/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;395) e [89/396/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;396) concernenti l'etichettatura, la presentazione e la pubblicita' dei prodotti alimentari", e' pubblicato nella Gazzetta Ufficiale n. 39 del 17 febbraio 1992.
 
 ## Art. 3. — Obblighi di informazione al consumatore
 
@@ -157,7 +157,7 @@ Sono considerate ingannevoli, ai sensi del [decreto legislativo n. 74 del 1992](
 Note all'art. 3:
  - Il testo dell'art. 15, comma 5, del citato [decreto legislativo n. 114/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;114) e' il seguente:
  "5. Nelle vendite disciplinate dal presente articolo lo sconto o il ribasso effettuato deve essere espresso in percentuale sul prezzo normale di vendita che deve essere comunque esposto.".
- L'argomento del [decreto legislativo 25 gennaio 1992, n. 74](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2084-450-CEE%20in%20materia%20di%20pubblicita%20ingannevole.md), e' riportato in note all'art. 1.
+ L'argomento del [decreto legislativo 25 gennaio 1992, n. 74](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2084-450-CEE%20come%20modificata%20dalla%20direttiva%2097-55-CE%20in%20materia%20di%20pubblicita%20ingannevole%20e%20comparativa.md), e' riportato in note all'art. 1.
 
 ## Art. 4. — Monitoraggio vendite sottocosto
 
@@ -220,7 +220,7 @@ Resta ferma la competenza dell'Autorita' garante della concorrenza e del mercato
 Le disposizioni contenute nel presente decreto sono applicate a decorrere dal centoventesimo giorno dalla data di entrata in vigore.
 
 Note all'art. 6:
- L'argomento del [decreto legislativo 25 gennaio 1992, n. 74](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2084-450-CEE%20in%20materia%20di%20pubblicita%20ingannevole.md), e' riportato in note all'art. 1.
+ L'argomento del [decreto legislativo 25 gennaio 1992, n. 74](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2084-450-CEE%20come%20modificata%20dalla%20direttiva%2097-55-CE%20in%20materia%20di%20pubblicita%20ingannevole%20e%20comparativa.md), e' riportato in note all'art. 1.
  Il testo dell'art. 3 della citata [legge n. 287/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;287), e' il seguente:
  "Art. 3 (Abuso di posizione dominante). - 1. E' vietato l'abuso da parte di una o piu' imprese di una posizione dominante all'interno del mercato nazionale o in una sua parte rilevante, ed inoltre e' vietato:
  a) imporre direttamente o indirettamente prezzi di aquisto, di vendita o altre condizioni contrattuali ingiustificatamente gravose;

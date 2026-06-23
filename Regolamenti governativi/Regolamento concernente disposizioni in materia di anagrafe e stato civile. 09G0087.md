@@ -22,7 +22,7 @@ Visto l'[articolo 2, comma 12, della legge 15 maggio 1997, n. 127](https://www.n
 
 Visto il [decreto del Presidente della Repubblica 3 novembre 2000, n. 396](Regolamento%20per%20la%20revisione%20e%20la%20semplificazione%20dellordinamento%20dello%20stato%20civile%20a%20norma%20dellarticolo%202%20comma%2012%20della%20legge%2015%20maggio%201997%20n.%20127.md), e successive modificazioni;
 
-Visto il testo unico delle leggi sull'ordinamento degli enti locali, di cui al [decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), e successive modificazioni;
+Visto il testo unico delle leggi sull'ordinamento degli enti locali, di cui al [decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), e successive modificazioni;
 
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 16 marzo 2009;
 
@@ -62,7 +62,7 @@ Avvertenza:
  f) regolazione uniforme dei procedimenti dello stesso tipo che si svolgono presso diverse amministrazioni o presso diversi uffici della medesima amministrazione;
  g) riduzione del numero di procedimenti amministrativi e accorpamento dei procedimenti che si riferiscono alla medesima attivita', anche riunendo in una unica fonte regolamentare, ove cio' non ostacoli la conoscibilita' normativa, disposizioni provenienti da fonti di rango diverso, ovvero che richiedano particolari procedure, fermo restando l'obbligo di porre in essere le procedure stesse.».
  - Il [decreto del Presidente della Repubblica 3 novembre 2000, n. 396](Regolamento%20per%20la%20revisione%20e%20la%20semplificazione%20dellordinamento%20dello%20stato%20civile%20a%20norma%20dellarticolo%202%20comma%2012%20della%20legge%2015%20maggio%201997%20n.%20127.md), recante regolamento per la revisione e la semplificazione dell'ordinamento dello stato civile, a norma dell'[art. 2, comma 12, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_2-com12), e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 30 dicembre 2000, n. 303.
- - Il [decreto legislativo 18 agosto 2000, n. 267](../Testi%20Unici/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), recante testo unico delle leggi sull'ordinamento degli enti locali, e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 28 settembre 2000, n. 227.
+ - Il [decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), recante testo unico delle leggi sull'ordinamento degli enti locali, e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 28 settembre 2000, n. 227.
  Nota all'art. 1:
  - Si trascrive il testo vigente dell'[art. 2 del decreto del Presidente della Repubblica 30 maggio 1989, n. 223](Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md) (Approvazione del nuovo regolamento anagrafico della popolazione residente), come modificato dall'art. 1 del presente regolamento:
  «Art. 2 (Delega delle funzioni di ufficiale di anagrafe). - 1. Il sindaco puo' delegare e revocare in tutto o in parte le funzioni di ufficiale di anagrafe ad un assessore, al segretario comunale o ad impiegati di ruolo del comune ritenuti idonei.

@@ -26,7 +26,7 @@ Visto l'articolo 29, comma 1, del citato [decreto legislativo n. 460 del 1997](h
 
 Visto il successivo comma 2 dell'articolo 29 del predetto [decreto legislativo n. 460 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;460), il quale prevede che, con il medesimo decreto interministeriale, sono stabiliti i soggetti abilitati all'emissione dei predetti titoli, le condizioni, i limiti, compresi quelli massimi relativi ai tassi effettivamente praticati e ogni altra disposizione necessaria per l'attuazione del sopracitato articolo 29;
 
-Visto il testo unico delle leggi in materia bancaria e creditizia, emanato con [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
+Visto il testo unico delle leggi in materia bancaria e creditizia, emanato con [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -71,7 +71,7 @@ Avvertenza:
  192. L'organismo di controllo ha, altresi', il compito di assicurare la tutela da abusi da parte di enti che svolgono attivita' di raccolta di fondi e di sollecitazione della fede pubblica attraverso l'impiego dei mezzi di comunicazione.
  192-bis. Con decreto del Presidente del Consiglio dei Ministri, su proposta dei Ministri delle finanze, del lavoro e della previdenza sociale e per la solidarieta' sociale, da adottare ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), sono stabiliti la sede, l'organizzazione interna, il funzionamento, il numero dei componenti e i relativi compensi, i poteri e le modalita' di finanziamento dell'organismo di controllo di cui al comma 190".
  - Per il testo dell'[art. 29, commi 1](../Decreti%20Legislativi/Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md) e [2, del D.Lgs. 4 dicembre 1997, n. 460](../Decreti%20Legislativi/Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md), vedi nota all'art. 1.
- - Il [D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) (Testo unico delle leggi in materia bancaria e creditizia), e' stato pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 230 del 30 settembre 1993.
+ - Il [D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia), e' stato pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 230 del 30 settembre 1993.
  - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
  Nota all'art. 1:
  - Si trascrive il testo dell'[art. 29 del D.Lgs. 4 dicembre 1997, n. 460](../Decreti%20Legislativi/Riordino%20della%20disciplina%20tributaria%20degli%20enti%20non%20commerciali%20e%20delle%20organizzazioni%20non%20lucrative%20di%20utilita%20sociale.md):
@@ -89,7 +89,7 @@ Il limite massimo del tasso effettivamente praticato al momento dell'emissione d
 1.
 
 Sono abilitati all'emissione dei titoli di solidarieta':
- le banche come definite dal [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
+ le banche come definite dal [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
  gli intermediari finanziari di cui all'articolo 107, del medesimo decreto legislativo.
 
 2.
@@ -105,7 +105,7 @@ I soggetti di cui al precedente comma hanno l'obbligo di:
 Le disposizioni di cui alla lettera b) del comma 2 valgono anche per gli intermediari bancari e finanziari di cui alla lettera a) del medesimo comma.
 
 Note all'art. 3:
- - Si riporta il testo dell'[art. 1, comma 1, lettera b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_1-com1-letb), e dell'[art. 107 del D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_107):
+ - Si riporta il testo dell'[art. 1, comma 1, lettera b)](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e dell'[art. 107 del D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md):
  "Art. 1 (Definizioni). - 1. Nel presente decreto legislativo l'espressione:
  a) (omissis);
  b) ''banca'' indica l'impresa autorizzata all'esercizio dell'attivita' bancaria".

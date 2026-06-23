@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti gli articoli 1, secondo comma, e 4 del testo unico approvato con [regio decreto 26 giugno 1924, numero 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md), sulle leggi sul Consiglio di Stato, e successive modificazioni;
+Visti gli articoli 1, secondo comma, e 4 del testo unico approvato con [regio decreto 26 giugno 1924, numero 1054](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md), sulle leggi sul Consiglio di Stato, e successive modificazioni;
 
 Udito il parere del Consiglio di Stato;
 

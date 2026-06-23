@@ -14,7 +14,7 @@ Visto l'[art. 36 della legge 2 giugno 1961, n. 454](https://www.normattiva.it/ur
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto il [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), recante: "Testo unico delle leggi in materia bancaria e creditizia";
+Visto il [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), recante: "Testo unico delle leggi in materia bancaria e creditizia";
 
 Visto, in particolare, l'art. 45, comma 2, il quale prevede che il Ministro del tesoro, sentito il Ministro delle risorse agricole, alimentari e forestali, individua le operazioni alle quali si applica la garanzia del predetto Fondo interbancario e determina i criteri ed i limiti degli interventi, nonche' l'entita' delle contribuzioni ad esso dovute da parte delle banche, in rapporto all'ammontare dei finanziamenti assistiti dalla garanzia;
 
@@ -42,7 +42,7 @@ Il Fondo risponde nei limiti delle proprie disponibifita' finanziarie.
 
 3.
 
-Sono assistibili dalla garanzia sussidiaria del Fondo le operazioni di credito agrario ai sensi dell'[art. 43 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_43), di durata superiore a 18 mesi, di importo (( da euro 5.200 e fino a euro 1.550.000 )), destinate alla realizzazione di investimenti aziendali, all'acquisto di proprieta' coltivatrice, nonche' al consolidamento di passivita' onerose, quando erogate in favore di operatori agricoli, cooperative agricole e loro consorzi ed associazioni di produttori riconosciute.
+Sono assistibili dalla garanzia sussidiaria del Fondo le operazioni di credito agrario ai sensi dell'[art. 43 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), di durata superiore a 18 mesi, di importo (( da euro 5.200 e fino a euro 1.550.000 )), destinate alla realizzazione di investimenti aziendali, all'acquisto di proprieta' coltivatrice, nonche' al consolidamento di passivita' onerose, quando erogate in favore di operatori agricoli, cooperative agricole e loro consorzi ed associazioni di produttori riconosciute.
 I finanziamenti in favore di societa' di capitali sono garantiti se il capitale sociale e' detenuto da cooperative agricole e/o loro consorzi per almeno il 60%. Per le operazioni di cui al presente comma, ad eccezione di quelle di consolidamento di passivita' la garanzia si esplica (( nella misura del 75% della perdita subita. ))
 
 4.
@@ -71,7 +71,7 @@ La garanzia del Fondo opera anche nel caso in cui i finanziamenti vengano prorog
 
 1.
 
-Le banche che effettuano operazioni ai sensi dell'[art. 43 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_43), versano al Fondo, al termine di ciascun trimestre solare, una somma pari allo 0,30% dell'importo originario dei finanziamenti garantibili erogati nei tre mesi precedenti. Tale percentuale e' ridotta allo 0,25% per i finanziamenti di investimento oltre i 60 mesi. La contribuzione ha carattere obbligatorio e viene versata da tutte le banche che effettuano operazioni di credito agrario garantibili dal Fondo. La contribuzione stessa e' a carico dei beneficiari dei finanziamenti ed e' integrata dallo 0,05% dell'importo complessivo del credito erogato e garantito dal Fondo nel trimestre di riferimento, restando l'onere relativo a carico delle banche finanziatrici a titolo di concorso nelle spese di funzionamento del Fondo stesso. L'aliquota dello 0,05% e' elevata per un anno allo 0,15% per le banche che hanno fatto registrare nell'anno precedente un rapporto tra rimborsi ricevuti, al netto dei recuperi conseguiti, e contribuzioni versate superiore all'unita', salvo il caso in cui la differenza fra i due valori anzidetti e' inferiore ad una cifra da stabilirsi dal Fondo ai sensi dell'art. 9 del presente regolamento.
+Le banche che effettuano operazioni ai sensi dell'[art. 43 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), versano al Fondo, al termine di ciascun trimestre solare, una somma pari allo 0,30% dell'importo originario dei finanziamenti garantibili erogati nei tre mesi precedenti. Tale percentuale e' ridotta allo 0,25% per i finanziamenti di investimento oltre i 60 mesi. La contribuzione ha carattere obbligatorio e viene versata da tutte le banche che effettuano operazioni di credito agrario garantibili dal Fondo. La contribuzione stessa e' a carico dei beneficiari dei finanziamenti ed e' integrata dallo 0,05% dell'importo complessivo del credito erogato e garantito dal Fondo nel trimestre di riferimento, restando l'onere relativo a carico delle banche finanziatrici a titolo di concorso nelle spese di funzionamento del Fondo stesso. L'aliquota dello 0,05% e' elevata per un anno allo 0,15% per le banche che hanno fatto registrare nell'anno precedente un rapporto tra rimborsi ricevuti, al netto dei recuperi conseguiti, e contribuzioni versate superiore all'unita', salvo il caso in cui la differenza fra i due valori anzidetti e' inferiore ad una cifra da stabilirsi dal Fondo ai sensi dell'art. 9 del presente regolamento.
 
 2.
 
@@ -87,7 +87,7 @@ Il versamento delle trattenute viene effettuato con accredito su di un conto ind
 Sulle somme versate in data successiva si applicano gli interessi al tasso legale.
 
 Nota agli articoli 1 e 2:
- - Il testo dell'[art. 43 del D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_43) (Testo unico delle leggi in materia bancaria e creditizia) e' il seguente:
+ - Il testo dell'[art. 43 del D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia) e' il seguente:
  "Art. 43. - 1. Il credito agrario ha per oggetto la concessione, da parte di banche, di finanziamenti destinati alle attivita' agricole e zootecniche nonche' a quelle ad esse connesse o collaterali.
  2. I1 credito peschereccio ha per oggetto la concessione, da parte di banche, di finanziamenti destinati alle attivita' di pesca e acquacoltura nonche' a quelle ad esse connesse o collaterali.
  3. Sono attivita' connesse o collaterali l'agriturismo, la manipolazione, conservazione, trasformazione, commercializzazione e valorizzazione dei prodotti, nonche' le altre attivita' individuate dal CICR (8/b).
@@ -113,7 +113,7 @@ Nei casi in cui la procedura di escussione della garanzia primaria e' giudicata 
 
 2.
 
-La richiesta della banca va corredata dalla documentazione necessaria nonche' da tutte le informazioni rese con riferimento all'[art. 137, comma 2, del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_137-com2), atte a consentire l'istruttoria della pratica.
+La richiesta della banca va corredata dalla documentazione necessaria nonche' da tutte le informazioni rese con riferimento all'[art. 137, comma 2, del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), atte a consentire l'istruttoria della pratica.
 
 3.
 
@@ -165,7 +165,7 @@ La garanzia del Fondo non e' operante quando la perdita sofferta dalla banca e' 
 
 La garanzia del Fondo non e' inoltre operante nei casi in cui, all'atto dell'erogazione del finanziamento, non e' stata acquisita la documentazione prevista per legge, ovvero ricorre almeno una delle seguenti circostanze:
                         a)
-                            mancata acquisizione di una dichiarazione del richiedente, resa ai sensi dell'[art. 137, comma 1, del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_137-com1), attestante la veridicita' delle informazioni fornite e dalla quale risulti in particolare che non esistono operazioni in sospeso da oltre sei mesi, eccezione fatta per quelle ammesse a consolidamento bancario;
+                            mancata acquisizione di una dichiarazione del richiedente, resa ai sensi dell'[art. 137, comma 1, del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), attestante la veridicita' delle informazioni fornite e dalla quale risulti in particolare che non esistono operazioni in sospeso da oltre sei mesi, eccezione fatta per quelle ammesse a consolidamento bancario;
                         b)
                             presenza di segnalazioni alla voce sofferenze, ovvero di significativi e ingiustificati sconfinamenti in essere da oltre sei mesi, rilevabili dalla visura alla centrale rischi disponibile nel mese precedente l'erogazione del finanziamento, salvo il caso di primo affidamento nel quale e' valida la prima informazione richiesta;
                         c)
@@ -189,7 +189,7 @@ Sono, inoltre, motivi di decadenza dalla garanzia del Fondo:
                         d)
                             l'omessa querela in danno del custode dei beni sottoposti a sequestro o pignoramento nel caso di distruzione, sottrazione o alienazione degli stessi;
                         e)
-                            le cessioni del credito, salvo quelle effettuate nei confronti di banche o di intermediari finanziari iscritti nell'elenco speciale previsto dall'[articolo 107 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_107), ovvero in forza di disposizioni di legge.
+                            le cessioni del credito, salvo quelle effettuate nei confronti di banche o di intermediari finanziari iscritti nell'elenco speciale previsto dall'[articolo 107 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), ovvero in forza di disposizioni di legge.
 
 4.
 

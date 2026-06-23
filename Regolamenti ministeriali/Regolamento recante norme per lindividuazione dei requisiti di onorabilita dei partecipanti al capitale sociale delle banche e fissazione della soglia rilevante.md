@@ -12,7 +12,7 @@ IL MINISTRO DEL TESORO, DEL BILANCIO
 
 E DELLA PROGRAMMAZIONE ECONOMICA
 
-Visto il [decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385);
+Visto il [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md);
 
 Visto in particolare l'articolo 25, comma 1, del citato decreto legislativo, in base al quale i partecipanti al capitale delle banche devono possedere i requisiti di onorabilita' stabiliti con regolamento del Ministro del tesoro, adottato sentita la Banca d'Italia;
 
@@ -46,7 +46,7 @@ Chiunque partecipa in una banca in misura superiore al cinque per cento del capi
 
 2.
 
-Il comma 1 si applica anche a chiunque, indipendentemente dall'entita' della partecipazione posseduta, controlla la banca ai sensi dell'[articolo 23 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_23). In tal caso la sospensione del diritto di voto interessa l'intera partecipazione.
+Il comma 1 si applica anche a chiunque, indipendentemente dall'entita' della partecipazione posseduta, controlla la banca ai sensi dell'[articolo 23 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md). In tal caso la sospensione del diritto di voto interessa l'intera partecipazione.
 
 3.
 
@@ -58,7 +58,7 @@ Con riferimento alle fattispecie disciplinate da ordinamenti stranieri, la verif
 
 5.
 
-In sede di rilascio dell'autorizzazione prevista dall'[articolo 14 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_14), la sussistenza dei requisiti indicati nel comma 1 non preclude alla Banca d'Italia di valutare ogni precedente penale o indagine penale a carico di coloro che partecipano al capitale della banca anche in misura non superiore al cinque per cento.
+In sede di rilascio dell'autorizzazione prevista dall'[articolo 14 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), la sussistenza dei requisiti indicati nel comma 1 non preclude alla Banca d'Italia di valutare ogni precedente penale o indagine penale a carico di coloro che partecipano al capitale della banca anche in misura non superiore al cinque per cento.
 
 6.
 
@@ -68,7 +68,7 @@ Avvertenza:
  Il testo delle note pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Nota alle premesse:
- - Il testo dell'[art. 25, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_25-com1) e [2, del D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_25-com2) e' il seguente:
+ - Il testo dell'[art. 25, commi 1](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) e [2, del D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) e' il seguente:
  "Art. 25 (Requisiti di onorabilita' dei partecipanti).
  - 1. Il Ministro del tesoro, sentita la Banca d'Italia, determina, con regolamento emanato ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), i requisiti di onorabilita' dei partecipanti al capitale delle banche.
  2. Con il regolamento previsto dal comma 1 il Ministro del tesoro stabilisce la quota del capitale che deve essere posseduta per l'applicazione del medesimo comma 1. A questo fine si considerano anche le azioni o quote possedute per il tramite di societa' controllate, di societa' fiduciarie o per interposta persona".
@@ -77,7 +77,7 @@ Avvertenza:
  - La [legge 31 maggio 1965, n. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;474), recita: "Disposizioni contro la mafia".
  - Il titolo XI del libro V del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) recita: "Disposizioni penali in materia di societa' e di consorzi".
  - Il [R.D. del 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), recita "Disciplina del fallimento, del concordato preventivo, della amministrazione controllata e della liquidazione coatta amministrativa".
- - Il testo dell'[art. 23 del D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_23), e' il seguente:
+ - Il testo dell'[art. 23 del D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' il seguente:
  "Art. 23 (Nozione di controllo). - 1. Ai fini del presente capo il controllo sussiste, anche con riferimento a soggetti diversi dalle societa', nei casi previsti dall'[art. 2359, commi primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359-com1) e [secondo, del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359-com2).
  2. Il controllo si considera esistente nella forma dell'influenza dominante, salvo' prova contraria, allorche' ricorra una delle seguenti situazioni:
  1) esistenza di un soggetto che, in base ad accordi con altri soci, ha il diritto di nominare o revocate la maggioranza degli amministratori ovvero dispone da solo della maggioranza dei voti esercitabili nell'assemblea ordinaria;
@@ -88,7 +88,7 @@ Avvertenza:
  c) l'attribuzione di poteri maggiori rispetto a quelli derivanti dalle azioni o dalle quote possedute;
  d) l'attribuzione a soggetti diversi da quelli legittimati in base all'assetto proprietario di poteri nella scelta di amministratori e dei dirigenti delle imprese;
  4) assoggettamento a direzione comune, in base alla composizione degli organi amministrativi o per altri concordanti elementi".
- - Il testo dell'[art. 14 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_14), e' il seguente:
+ - Il testo dell'[art. 14 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' il seguente:
  "Art. 14 (Autorizzazione all'attivita' bancaria). - 1.
  La Banca d'Italia autorizza l'attivita' bancaria quando ricorrano le seguenti condizioni:
  a) sia adottata la forma di societa' per azioni o di societa' cooperativa per azioni a responsabilita' limitata;

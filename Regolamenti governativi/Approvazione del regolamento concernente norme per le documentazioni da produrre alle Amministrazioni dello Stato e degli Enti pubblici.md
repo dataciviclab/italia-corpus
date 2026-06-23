@@ -20,7 +20,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri; Decreta:
 
 ## Art. 1.
 
-Nelle documentazioni che i privati sono tenuti a produrre ai pubblici uffici in base a disposizioni regolamentari o interne, la presentazione dell'atto o certificato di nascita, del certificato di cittadinanza, del certificato attestante lo stato di celibe, vedovo o coniugato e del certificato di residenza puo' essere sostituita dall'esibizione della carta di identita' rilasciata ai sensi dell'[art. 3 del testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [regio decreto 18 giugno 1931, n. 773](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
+Nelle documentazioni che i privati sono tenuti a produrre ai pubblici uffici in base a disposizioni regolamentari o interne, la presentazione dell'atto o certificato di nascita, del certificato di cittadinanza, del certificato attestante lo stato di celibe, vedovo o coniugato e del certificato di residenza puo' essere sostituita dall'esibizione della carta di identita' rilasciata ai sensi dell'[art. 3 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
 
 ## Art. 2.
 

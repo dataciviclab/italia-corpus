@@ -48,7 +48,7 @@ Chiunque partecipa in una societa' di intermediazione mobiliare (di seguito "SIM
 
 2.
 
-Il comma 1 si applica anche a chiunque, indipendentemente dall'entita' della partecipazione posseduta, controlla la SIM ai sensi dell'[articolo 23 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_23). In tal caso, il divieto di esercizio del diritto di voto interessa l'intera partecipazione.
+Il comma 1 si applica anche a chiunque, indipendentemente dall'entita' della partecipazione posseduta, controlla la SIM ai sensi dell'[articolo 23 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md). In tal caso, il divieto di esercizio del diritto di voto interessa l'intera partecipazione.
 
 3.
 
@@ -71,7 +71,7 @@ Avvertenza:
  - La legge 27 dicembre 1956, n. 1423](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md), recita: "Misure di prevenzione nei confronti delle persone pericolose per la sicurezza e per la pubblica moralita'", e la [legge 31 maggio 1965, n. 575](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20contro%20la%20mafia.md), recita: 
  "Disposizioni contro la mafia". 
  - Il titolo XI del libro V del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) recita: "Disposizioni penali in materia di societa' e di consorzi", e il [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267), recita: "Disciplina del fallimento, del concordato preventivo, della amministrazione controllata e della liquidazione coatta amministrativa". 
- - Il testo dell'[art. 23 del D.Lgs. 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_23), e' il seguente: 
+ - Il testo dell'[art. 23 del D.Lgs. 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' il seguente: 
  "Art. 23 (Nozione di controllo). - 1. Ai fini del presente capo il controllo sussiste, anche con riferimento a soggetti diversi dalle societa', nei casi previsti dall'[art. 2359, commi primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359-com1) e [secondo, del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359-com2). 
  2. Il controllo si considera esistente nella forma dell'influenza dominante, salvo prova contraria, allorche' ricorra una delle seguenti situazioni: 
  1) esistenza di un soggetto che, in base ad accordi con altri soci, ha il diritto di nominare o revocare la maggioranza degli amministratori ovvero dispone da solo della maggioranza dei voti esercitabili nell'assemblea ordinaria; 

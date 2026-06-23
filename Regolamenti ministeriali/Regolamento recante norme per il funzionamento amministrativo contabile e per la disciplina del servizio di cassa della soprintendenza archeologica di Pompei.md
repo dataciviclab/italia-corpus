@@ -380,7 +380,7 @@ L'istituto di credito tesoriere o cassiere della soprintendenza e' incaricato:
 
 Note all'[art. 12:
  - La legge 29 ottobre 1984, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720#art_12), e' relativa alla "Istituzione del sistema di tesoreria unica per enti ed organismi pubblici".
- - Il testo dell'[art. 13 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_13), e' il seguente:
+ - Il testo dell'[art. 13 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e' il seguente:
  "Art. 13. - 1. La Banca d'Italia iscrive in un apposito albo le banche autorizzate in Italia e le succursali delle banche comunitarie stabilite nel territorio della Repubblica.
  2. Le banche indicano negli atti e nella corrispondenza l'iscrizione nell'albo".
 

@@ -48,7 +48,7 @@ Nel presente regolamento s'intendono per:
                             a)
                                 «Testo Unico della Finanza (TUF)»: il [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) e successive modificazioni;
                             b)
-                                «Testo Unico Bancario (TUB)»: il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) e successive modificazioni;
+                                «Testo Unico Bancario (TUB)»: il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) e successive modificazioni;
                             c)
                                 «Oicr»: l'organismo di investimento collettivo del risparmio come definito dall'articolo 1, comma 1, lettera k), del TUF;
                             d)
@@ -510,7 +510,7 @@ Gli Oicr garantiti possono essere sia di tipo aperto sia di tipo chiuso.
 Il regolamento dell'Oicr stabilisce le modalita' per la prestazione della garanzia di cui al comma 1.
 
 Note all'art. 15: 
- - Si riporta il testo vigente dell'art. 106 del citato [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) e successive modificazioni: 
+ - Si riporta il testo vigente dell'art. 106 del citato [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) e successive modificazioni: 
  «Art. 106 (Albo degli intermediari finanziari). - 1.
  L'esercizio nei confronti del pubblico dell'attivita' di concessione di finanziamenti sotto qualsiasi forma e' riservato agli intermediari finanziari autorizzati, iscritti in un apposito albo tenuto dalla Banca d'Italia. 
  2. Oltre alle attivita' di cui al comma 1 gli intermediari finanziari possono: 

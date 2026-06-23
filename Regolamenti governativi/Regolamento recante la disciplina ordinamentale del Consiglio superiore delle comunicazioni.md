@@ -32,11 +32,11 @@ Visto il [decreto-legge 12 giugno 2001, n. 217](https://www.normattiva.it/uri-re
 
 Visto il [decreto legislativo 30 dicembre 2003, n. 366](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2030%20luglio%201999%20n.%20300%20concernenti%20le%20funzioni%20e%20la%20struttura%20organizzativa%20del%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%201%20della%20_bcb5105b5285.md);
 
-Visto il [decreto legislativo 1° agosto 2003, n. 259](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md);
+Visto il [decreto legislativo 1° agosto 2003, n. 259](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md);
 
 Vista la [legge 3 maggio 2004, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20principio%20in%20materia%20di%20assetto%20del%20sistema%20radiotelevisivo%20e%20della%20RAI-Radiotelevisione%20italiana%20S.p.a.%20nonche%20delega%20al%20Governo%20per%20lemanazione%20del%20testo%20unico%20della%20radiotelevisione.md);
 
-Visto il testo unico della radiotelevisione, di cui al [decreto legislativo 31 luglio 2005, n. 177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20della%20radiotelevisione.md);
+Visto il testo unico della radiotelevisione, di cui al [decreto legislativo 31 luglio 2005, n. 177](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Testo%20unico%20dei%20servizi%20di%20media%20audiovisivi%20e%20radiofonici.md);
 
 Sentite le organizzazioni sindacali in data 8 giugno 2004;
 

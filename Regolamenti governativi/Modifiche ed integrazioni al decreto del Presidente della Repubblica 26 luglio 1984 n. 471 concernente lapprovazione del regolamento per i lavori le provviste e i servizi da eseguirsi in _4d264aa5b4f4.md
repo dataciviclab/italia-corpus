@@ -16,7 +16,7 @@ Visti l'[art. 8 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/N
 
 Visto il [decreto del Presidente della Repubblica 30 novembre 1979, n. 718](Approvazione%20del%20regolamento%20per%20le%20gestioni%20dei%20cassieri%20e%20dei%20consegnatari%20delle%20amministrazioni%20dello%20Stato.md), di approvazione del regolamento per le gestioni affidate ai consegnatari-cassieri delle amministrazioni dello Stato;
 
-Visto il testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md);
+Visto il testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md);
 
 Vista la [legge 21 dicembre 1961, n. 1345](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-12-21;1345);
 

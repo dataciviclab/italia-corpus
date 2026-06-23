@@ -120,7 +120,7 @@ L'immobile da acquistare per essere adibito ad abitazione principale non deve ri
 
 Possono effettuare le operazioni di erogazione dei mutui garantiti dal Fondo i seguenti soggetti (di seguito: «finanziatori»):
                         a)
-                            le banche iscritte all'albo di cui all'[articolo 13 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_13) e successive modificazioni ed integrazioni;
+                            le banche iscritte all'albo di cui all'[articolo 13 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) e successive modificazioni ed integrazioni;
                         b)
                             gli intermediari finanziari iscritti nell'elenco ((di cui all'articolo 106)) del medesimo decreto legislativo.
 

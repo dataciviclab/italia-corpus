@@ -34,7 +34,7 @@ Visto il [decreto legislativo 20 ottobre 1998, n. 368](../Leggi%20delega%20e%20r
 
 Visto il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante «Riforma dell'organizzazione del Governo»;
 
-Visto il [decreto legislativo 29 ottobre 1999, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md), recante «testo unico delle disposizioni legislative in materia di beni culturali e ambientali»;
+Visto il [decreto legislativo 29 ottobre 1999, n. 490](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md), recante «testo unico delle disposizioni legislative in materia di beni culturali e ambientali»;
 
 Visto il [decreto del Presidente della Repubblica 29 dicembre 2000, n. 441](Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali.md), concernente il «Regolamento recante norme di organizzazione del Ministero per i beni e le attivita' culturali»;
 

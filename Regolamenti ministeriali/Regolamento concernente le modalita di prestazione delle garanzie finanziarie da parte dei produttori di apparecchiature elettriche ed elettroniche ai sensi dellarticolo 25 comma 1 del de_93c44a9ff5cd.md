@@ -36,7 +36,7 @@ Vista la [legge 10 giugno 1982, n. 348](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), recante «Nuove norme sul procedimento amministrativo»;
 
-Visto il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), recante «Testo unico delle leggi in materia bancaria e creditizia»;
+Visto il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), recante «Testo unico delle leggi in materia bancaria e creditizia»;
 
 Visto il [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), recante «Norme in materia ambientale» ed, in particolare, la Parte quarta relativa alla gestione dei rifiuti;
 
@@ -123,7 +123,7 @@ N O T E
  - Il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827) (Regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato) e' pubblicato nella Gazzetta Ufficiale del 3 giugno 1924, n. 130, S.O. 
  - La [legge 10 giugno 1982, n. 348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-06-10;348) (Costituzione di cauzioni con polizze fidejussorie a garanzia di obbligazioni verso lo Stato ed altri enti pubblici) e' pubblicata nella Gazzetta Ufficiale del 14 giugno 1982, n. 161. 
  - La [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241) (Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi) e' pubblicata nella Gazzetta Ufficiale 18 agosto 1990, n. 192. 
- - Il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385) (Testo unico delle leggi in materia bancaria e creditizia) e' pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, S.O. 
+ - Il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) (Testo unico delle leggi in materia bancaria e creditizia) e' pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, S.O. 
  - La Parte quarta del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), (Norme in materia ambientale), pubblicato nella Gazzetta Ufficiale del 14 aprile 2006, n. 88 - S.O.
  n. 96, reca: «Norme in materia di gestione dei rifiuti e di bonifica dei siti inquinati». 
  - Si riporta il testo dell'art. 17-bis della citata [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241): 
@@ -241,11 +241,11 @@ La garanzia finanziaria e' prestata secondo una delle seguenti modalita':
                         a)
                             reale e valida cauzione, ai sensi dell'articolo 54 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
                         b)
-                            fidejussione bancaria rilasciata da banche autorizzate ai sensi della normativa vigente, ovvero da consorzi di garanzia collettiva dei fidi iscritti nell'albo degli intermediari finanziari, previsto dall'articolo 106 del testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1º settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), e sottoposti alla vigilanza della Banca d'Italia ai sensi dell'articolo 108 del medesimo testo unico;
+                            fidejussione bancaria rilasciata da banche autorizzate ai sensi della normativa vigente, ovvero da consorzi di garanzia collettiva dei fidi iscritti nell'albo degli intermediari finanziari, previsto dall'articolo 106 del testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1º settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e sottoposti alla vigilanza della Banca d'Italia ai sensi dell'articolo 108 del medesimo testo unico;
                         c)
                             polizza assicurativa rilasciata da imprese di assicurazione debitamente autorizzate all'esercizio del ramo cauzioni ed operanti nel territorio della Repubblica italiana in regime di liberta' di stabilimento o di liberta' di prestazione di servizi;
                         d)
-                            garanzia finanziaria rilasciata da intermediari finanziari regolarmente iscritti nell'elenco di cui all'[articolo 106, comma 1 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_106-com1).
+                            garanzia finanziaria rilasciata da intermediari finanziari regolarmente iscritti nell'elenco di cui all'[articolo 106, comma 1 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
 2.
 

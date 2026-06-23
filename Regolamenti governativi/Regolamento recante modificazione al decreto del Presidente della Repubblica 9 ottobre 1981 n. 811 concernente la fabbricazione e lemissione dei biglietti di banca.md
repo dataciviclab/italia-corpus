@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti gli articoli 4, secondo comma, e 109 del testo unico sugli istituti di emissione e sulla circolazione dei biglietti di banca, approvato con [regio decreto 28 aprile 1910, n. 204](../Testi%20Unici/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md);
+Visti gli articoli 4, secondo comma, e 109 del testo unico sugli istituti di emissione e sulla circolazione dei biglietti di banca, approvato con [regio decreto 28 aprile 1910, n. 204](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sugli%20Istituiti%20demissione%20e%20sulla%20circolazione%20dei%20biglietti%20di%20Banca.%20010U0204.md);
 
 Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), concernente le nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, ed il relativo regolamento, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 

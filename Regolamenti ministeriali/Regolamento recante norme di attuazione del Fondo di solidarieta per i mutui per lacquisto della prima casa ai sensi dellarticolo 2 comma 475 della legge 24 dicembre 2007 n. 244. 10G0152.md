@@ -75,7 +75,7 @@ La sospensione del pagamento delle rate di mutuo si applica anche ai mutui:
                         a)
                             oggetto di operazioni di emissione di obbligazioni bancarie garantite ovvero di cartolarizzazione ai sensi della [legge 30 aprile 1999, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-30;130);
                         b)
-                            erogati per portabilita' tramite surroga ai sensi dell'articolo 120-quater del testo unico di cui al [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), che costituiscono mutui di nuova erogazione alla data di perfezionamento dell'operazione di surroga;
+                            erogati per portabilita' tramite surroga ai sensi dell'articolo 120-quater del testo unico di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), che costituiscono mutui di nuova erogazione alla data di perfezionamento dell'operazione di surroga;
                         c)
                             che hanno gia' fruito di altre misure di sospensione del pagamento delle rate purche' tali misure non determinino complessivamente una sospensione dell'ammortamento superiore a 18 mesi.
 

@@ -14,7 +14,7 @@ Visti gli [articoli 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:leg
 
 Vista la delibera del Comitato direttivo della Sezione speciale del Fondo interbancario di garanzia del 12 luglio 1994;
 
-Visto l'[articolo 45, comma 2, del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_45-com2), secondo il quale il Ministro dell'economia e delle finanze, sentito il Ministro delle politiche agricole e forestali, individua le operazioni alle quali si applica la garanzia e determina i criteri e i limiti degli interventi del Fondo, nonche' l'entita' delle contribuzioni a esso dovute da parte delle banche, in rapporto all'ammontare dei finanziamenti assistiti dalla garanzia;
+Visto l'[articolo 45, comma 2, del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), secondo il quale il Ministro dell'economia e delle finanze, sentito il Ministro delle politiche agricole e forestali, individua le operazioni alle quali si applica la garanzia e determina i criteri e i limiti degli interventi del Fondo, nonche' l'entita' delle contribuzioni a esso dovute da parte delle banche, in rapporto all'ammontare dei finanziamenti assistiti dalla garanzia;
 
 Sentito il Ministro delle politiche agricole e forestali;
 
@@ -30,7 +30,7 @@ Adotta il seguente regolamento:
 
 1.
 
-Sono assistibili dalla fideiussione della Sezione le operazioni di credito agrario di cui all'[articolo 43 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_43), di durata non inferiore a mesi diciotto, aventi per oggetto la concessione, da parte delle banche, di finanziamenti destinati alle attivita' agricole e zootecniche nonche' a quelle ad esse connesse o collaterali. ((1))
+Sono assistibili dalla fideiussione della Sezione le operazioni di credito agrario di cui all'[articolo 43 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), di durata non inferiore a mesi diciotto, aventi per oggetto la concessione, da parte delle banche, di finanziamenti destinati alle attivita' agricole e zootecniche nonche' a quelle ad esse connesse o collaterali. ((1))
 
 ---------------
 

@@ -15,8 +15,8 @@ IL PRESIDENTE DELLA REPUBBLICA
  Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
  Visti l'[art. 8 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), concernente nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, ed il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), di approvazione del relativo regolamento;
  Visto il [decreto del Presidente della Repubblica 30 novembre 1979, n. 718](Approvazione%20del%20regolamento%20per%20le%20gestioni%20dei%20cassieri%20e%20dei%20consegnatari%20delle%20amministrazioni%20dello%20Stato.md), di approvazione del regolamento per le gestioni affidate ai consegnatari-cassieri delle amministrazioni dello Stato;
- Visto il testo unico delle leggi sul Consiglio di Stato, approvato con [regio decreto 26 giugno 1924, n. 1054](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md);
- Visto il [decreto legislativo 5 maggio 1948, n. 642](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20accelerare%20i%20giudizi%20presso%20le%20Sezioni%20giurisdizionali%20del%20Consiglio%20di%20Stato.md);
+ Visto il testo unico delle leggi sul Consiglio di Stato, approvato con [regio decreto 26 giugno 1924, n. 1054](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md);
+ Visto il [decreto legislativo 5 maggio 1948, n. 642](../Decreti%20Legislativi/Provvedimenti%20per%20accelerare%20i%20giudizi%20presso%20le%20Sezioni%20giurisdizionali%20del%20Consiglio%20di%20Stato.md);
  Vista la [legge 27 aprile 1982, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-27;186);
  Udito il parere del Consiglio di Stato;
  Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 3 gennaio 1986;

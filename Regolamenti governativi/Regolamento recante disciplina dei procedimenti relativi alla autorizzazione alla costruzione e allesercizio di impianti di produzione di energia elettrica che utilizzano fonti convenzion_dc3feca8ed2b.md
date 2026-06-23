@@ -54,7 +54,7 @@ Le procedure previste dal presente regolamento per il rilascio dell'autorizzazio
 
 3.
 
-Fatto comunque salvo quanto disposto dall'[articolo 22, comma 11, del decreto legislativo 5 febbraio 1997, n. 22](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%2091-156-CEE%20sui%20rifiuti%2091-689-CEE%20sui%20rifiuti%20pericolosi%20e%2094-62-CE%20sugli%20imballaggi%20e%20sui%20rifiuti%20di%20imballaggio.md), resta fermo che:
+Fatto comunque salvo quanto disposto dall'[articolo 22, comma 11, del decreto legislativo 5 febbraio 1997, n. 22](../Decreti%20Legislativi/Attuazione%20delle%20direttive%2091-156-CEE%20sui%20rifiuti%2091-689-CEE%20sui%20rifiuti%20pericolosi%20e%2094-62-CE%20sugli%20imballaggi%20e%20sui%20rifiuti%20di%20imballaggio.md), resta fermo che:
                         a)
                             non sono soggetti all'autorizzazione di cui al comma 1, lettera c), l'installazione e l'esercizio di gruppi elettrogeni funzionanti di continuo con potenza nominale non superiore a 3 MW se alimentati a metano o GPL e potenza termica non superiore a 1 MW se alimentati a benzina o gasolio, nonche' di gruppi elettrogeni per la produzione di energia elettrica che utilizzano fonti rinnovabili e che non comportano emissioni in atmosfera;
                         b)
@@ -267,10 +267,10 @@ Avvertenza:
  [art. 14, legge 24 dicembre 1979, n. 650](../Atti%20normativi%20abrogati%20%28in%20originale%29/Integrazioni%20e%20modifiche%20delle%20leggi%2016%20aprile%201973%20n.%20171%20e%2010%20maggio%201976%20n.%20319%20in%20materia%20di%20tutela%20delle%20acque%20dallinquinamento.md) (scarico acque);
  [art. 48, decreto del Presidente della Repubblica 19 marzo 1956, n. 303](../DPR/Norme%20generali%20per%20ligiene%20del%20lavoro.md) (igiene del lavoro);
  [art. 17, legge 24 dicembre 1976, n. 898](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuova%20regolamentazione%20delle%20servitu%20militari.md) (servitu' militare);
- [art. 714, regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (segnalazione ostacoli al volo);
+ [art. 714, regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (segnalazione ostacoli al volo);
  [art. 7, legge 29 giugno 1939, n. 1497](../Atti%20normativi%20abrogati%20%28in%20originale%29/Protezione%20delle%20bellezze%20naturali.%20039U1497.md), e [art. 82, comma nono, decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), come introdotto dalla [legge 8 agosto 1985, n. 431](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;431) (costruzione in zone di particolare interesse paesistico);
  [art. 6, legge 8 luglio 1986, n. 349 (parere](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349#art_6) di conformita' ambientale);
- [art. 55, regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (costruzione in fascia di rispetto);
+ [art. 55, regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (costruzione in fascia di rispetto);
  [art. 221, regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) (licenza di agibilita' comunale);
  [art. 216, regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) (attivazione impianto industriale).
  Art. 13. - 1. Le modifiche del progetto di massima autorizzato con il decreto di cui all'art. 11 debbono essere autorizzate, ai fini della costruzione e dell'esercizio, dal Ministero dell'industria, del commercio e dell'artigianato su istanza dell'Enel, in adempimento dei commi successivi.

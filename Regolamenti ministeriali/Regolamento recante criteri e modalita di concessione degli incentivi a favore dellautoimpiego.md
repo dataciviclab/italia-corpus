@@ -323,10 +323,10 @@ Non sono ammissibili le spese concernenti le seguenti voci:
 
 1.
 
-I contributi di cui all'articolo 15, lettere a) e b), del decreto legislativo non possono essere ceduti da parte dei beneficiari. E' consentito il rilascio di procure all'incasso in favore di banche e di intermediari finanziari iscritti nell'elenco generale di cui all'[articolo 106 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_106), in relazione ad anticipazioni connesse alla realizzazione dell'iniziativa agevolata.
+I contributi di cui all'articolo 15, lettere a) e b), del decreto legislativo non possono essere ceduti da parte dei beneficiari. E' consentito il rilascio di procure all'incasso in favore di banche e di intermediari finanziari iscritti nell'elenco generale di cui all'[articolo 106 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), in relazione ad anticipazioni connesse alla realizzazione dell'iniziativa agevolata.
 
 Nota all'art. 10:
- - Si riporta il testo dell'[art. 106 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_106):
+ - Si riporta il testo dell'[art. 106 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md):
  "Art. 106 (Elenco generale). - 1. L'esercizio nei confronti del pubblico delle attivita' di assunzione di partecipazioni, di concessione di finanziamenti sotto qualsiasi forma, di prestazione di servizi di pagamento e di intermediazione in cambi e' riservato a intermediari finanziari iscritti in un apposito elenco tenuto dall'UIC.
  2. Gli intermediari finanziari indicati nel comma 1 possono svolgere esclusivamente attivita' finanziarie, fatte salve le riserve di attivita' previste dalla legge.
  3. L'iscrizione nell'elenco e' subordinata al ricorrere delle seguenti condizioni:

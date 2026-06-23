@@ -99,7 +99,7 @@ Avvertenza:
  4. L'immobile da acquistare per essere adibito ad abitazione principale non deve rientrare nelle categorie catastali A1, A8 e A9, non deve avere una superficie utile superiore a 95 metri quadrati e non deve avere le caratteristiche di lusso indicate nel decreto del Ministero dei lavori pubblici in data 2 agosto 1969. Salvo quanto previsto dal comma 3, lettera b), nella concessione della garanzia viene data priorita' ai casi nei quali l'immobile sia situato nei comuni ad alta tensione abitativa, ai sensi della [delibera Cipe n. 87 del 13 novembre 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:comitato.interministeriale.programmazione.economica:delibera:2003-11-13;87), pubblicata sulla Gazzetta Ufficiale 18 febbraio 2004, n. 40." 
  "Art. 3. Soggetti finanziatori 
  1. Possono effettuare le operazioni di erogazione dei mutui garantiti dal Fondo i seguenti soggetti (di seguito: «finanziatori»): 
- a) le banche iscritte all'albo di cui all'[articolo 13 del decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_13) e successive modificazioni ed integrazioni; 
+ a) le banche iscritte all'albo di cui all'[articolo 13 del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md) e successive modificazioni ed integrazioni; 
  b) gli intermediari finanziari iscritti nell'elenco di cui all'articolo 106 del medesimo decreto legislativo. 
  2. I finanziatori stipulano con il Dipartimento apposite convenzioni il cui schema e' stabilito da un Protocollo d'intesa tra il Dipartimento e l'Associazione Bancaria Italiana (ABI). 
  3. Con il Protocollo si disciplinano: 

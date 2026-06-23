@@ -220,7 +220,7 @@ Ai componenti del Comitato non e' dovuto alcun compenso ne' rimborso spese.
 
 2.
 
-Ai sensi dell'articolo 6, comma 2, della legge, l'assegnazione del numero dei seggi alle singole ripartizioni e' effettuata, sulla base dei dati piu' recenti dell'elenco aggiornato di cui all'articolo 5 pubblicati ai sensi del comma 1, con i decreti del Presidente della Repubblica di cui all'articolo 3 del testo unico per l'elezione della Camera dei deputati e all'articolo 1, comma 1, del testo unico delle leggi recanti norme per l'elezione del Senato della Repubblica, di cui al [decreto legislativo 20 dicembre 1993, n. 533](../Testi%20Unici/Testo%20unico%20delle%20leggi%20recanti%20norme%20per%20lelezione%20del%20Senato%20della%20Repubblica.md), e successive modificazioni.
+Ai sensi dell'articolo 6, comma 2, della legge, l'assegnazione del numero dei seggi alle singole ripartizioni e' effettuata, sulla base dei dati piu' recenti dell'elenco aggiornato di cui all'articolo 5 pubblicati ai sensi del comma 1, con i decreti del Presidente della Repubblica di cui all'articolo 3 del testo unico per l'elezione della Camera dei deputati e all'articolo 1, comma 1, del testo unico delle leggi recanti norme per l'elezione del Senato della Repubblica, di cui al [decreto legislativo 20 dicembre 1993, n. 533](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20recanti%20norme%20per%20lelezione%20del%20Senato%20della%20Repubblica.md), e successive modificazioni.
 
 ## Art. 8. — Svolgimento della campagna elettorale
 

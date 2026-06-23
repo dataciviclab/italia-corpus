@@ -71,7 +71,7 @@ N O T E
  - Si riporta il testo dell'art. 1 del citato decreto n. 228 del 1999, come modificato dal presente decreto: 
  «Art. 1 (Definizioni). - 1. Nel presente regolamento s'intendono per: 
  a) "Testo Unico": il [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md); 
- b) "Testo Unico Bancario": il [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385); 
+ b) "Testo Unico Bancario": il [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md); 
  c) "fondo": il fondo comune di investimento come definito dall'art. 1 comma 1, lettera j) del Testo Unico; 
  d) "fondi armonizzati": i fondi comuni di investimento rientranti nell'ambito di applicazione delle direttive comunitarie in materia e che possono essere commercializzati nel territorio dell'Unione Europea in regime di mutuo riconoscimento; 
  d-bis) "fondi immobiliari": i fondi che investono esclusivamente o prevalentemente in beni immobili, diritti reali immobiliari, ivi inclusi quelli derivanti da contratti di leasing immobiliare con natura traslativa e da rapporti concessori, partecipazioni in societa' immobiliari, parti di altri fondi immobiliari, anche esteri; 

@@ -21,7 +21,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Decreta:
 
- Il n. 1) del primo comma dell'art. 105 del regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), e' sostituito dal seguente:
+ Il n. 1) del primo comma dell'art. 105 del regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), e' sostituito dal seguente:
  "1) non lavorare di notte.
  E' in facolta' del Ministero dell'interno consentire, previo parere del Ministero del lavoro e della previdenza sociale e sentita la commissione consultiva per le sostanze esplosive ed infiammabili di cui all'art. 84, il lavoro notturno nelle fabbriche di materie esplodenti secondo le modalita' determinate con apposito decreto ministeriale di integrazione dell'allegato B ai sensi dell'art. 83 ultimo comma;".
 
