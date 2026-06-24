@@ -25,11 +25,20 @@ RE_TIPO = re.compile(
 RE_OGGETTO = re.compile(
     r'^={3,}\s*$\s*^(.+?)\s*$\s*^-{3,}', re.MULTILINE | re.DOTALL,
 )
-RE_VIGORE = re.compile(
-    r'Entrata in vigore\s+(?:del\s+)?(?:provvedimento:|del decreto:)?\s*(\d{1,2}/\d{1,2}/\d{4})'
+# Atti UE: singolari e plurali, con/senza (UE), n., delegato/di esecuzione
+# Cattura 3 gruppi: (tipo_parola, anno, numero)
+# L'anno è il primo gruppo di 4 cifre prima dello slash; in formato
+# "n. 1025/2012" l'anno è DOPO lo slash e viene scambiato in _estrai_riferimento_ue.
+RE_DOC_UE = re.compile(
+    r'(?:direttiva|regolamento|decisione|direttive|regolamenti|decisioni)\s*'
+    r'(?:delegat[oa]\s*|di\s+esecuzione\s*)?'
+    r'(?:\(?\s*UE\s*\)?\s*)?'
+    r'(?:n\.?\s*)?'
+    r'\(?(\d{4})\)?\s*[/-]\s*(\d+)',
+    re.IGNORECASE,
 )
-RE_CELEX = re.compile(r'CELEX:([A-Z0-9]+)')
-RE_DIR_ANNO = re.compile(r'direttiva\s+(\d{4})\s*[/-]\s*\d+', re.IGNORECASE)
+_TIPO_CELEX = {"direttiva": "L", "regolamento": "R", "decisione": "D",
+               "direttive": "L", "regolamenti": "R", "decisioni": "D"}
 
 MESI = {
     "gennaio": "01", "febbraio": "02", "marzo": "03", "aprile": "04",
@@ -39,7 +48,7 @@ MESI = {
 
 FIELDNAMES = [
     "collezione", "filename", "tipo", "data", "numero",
-    "oggetto", "entrata_vigore", "celex",
+    "oggetto", "celex",
     "anno_atto", "anno_dir", "ritardo",
     "vigente", "urn", "codice_redazionale",
 ]
@@ -49,30 +58,64 @@ def _parse_data(g: str, m: str, a: str) -> str:
     return f"{a}-{MESI.get(m.lower(), '00')}-{g.zfill(2)}"
 
 
-def _anno_dir(oggetto: str) -> int | None:
-    m = RE_DIR_ANNO.search(oggetto or "")
-    if m:
-        a = int(m.group(1))
-        return a if 1950 <= a <= 2030 else None
-    return None
-
-
-def _anno_da_celex(celex: str) -> int | None:
-    """Estrae l'anno dal CELEX di tipo L (direttiva) o R (regolamento) più recente.
-
-    Tra CELEX multipli sceglie il più recente, non il primo ordinato.
-    Formato: 3YYYYLXXXX (L=directive) o 3YYYYRXXXX (regulation).
+def _estrai_riferimento_ue(oggetto: str) -> tuple[str | None, int | None]:
+    """Estrae tipo, anno e numero del PRIMO riferimento UE non secondario.
+    
+      'direttiva 2019/944' -> (32019L0944, 2019)
+      'regolamento (UE) n. 1025/2012' -> (32012R1025, 2012)
+    
+    Riferimenti secondari (preceduti da 'abroga', 'modifica', ecc.)
+    vengono saltati in favore del primo match principale.
+    Se anno catturato non è nel range 1950-2030 (es. formato
+    'n. 1025/2012'), anno e numero vengono scambiati.
     """
-    if not celex:
-        return None
-    anni = []
-    for c in celex.split(";"):
-        c = c.strip()
-        if len(c) >= 6 and c[1:5].isdigit() and c[5:6] in ("L", "R"):
-            anno = int(c[1:5])
-            if 1950 <= anno <= 2030:
-                anni.append(anno)
-    return max(anni) if anni else None
+    matches = list(RE_DOC_UE.finditer(oggetto or ""))
+    if not matches:
+        return "", None
+
+    parole_secondarie = frozenset(['abroga', 'abrogata', 'sostituisce',
+        'sostituita', 'modifica', 'deroga', 'derogata'])
+
+    def _e_principale(m) -> bool:
+        """True se il match NON è preceduto da parole secondarie."""
+        start = max(0, m.start() - 60)
+        prefix = (oggetto or "")[start:m.start()].lower()
+        return not any(w in prefix for w in parole_secondarie)
+
+    # Cerca il primo match principale
+    target = None
+    for m in matches:
+        if _e_principale(m):
+            target = m
+            break
+    if target is None:
+        target = matches[0]  # fallback: primo match assoluto
+
+    # Identifica il tipo (direttiva/regolamento/decisione) dalla parola matchata
+    full_text = target.group(0).lower()
+    tipo = None
+    for t in _TIPO_CELEX:
+        if full_text.startswith(t):
+            tipo = t
+            break
+    if not tipo:
+        return "", None
+
+    anno_candidato = int(target.group(1))
+    num = target.group(2)
+
+    # Se l'anno candidato non è valido, swap (formato 'n. 1025/2012')
+    if not (1950 <= anno_candidato <= 2030):
+        anno_valido = int(num)
+        if not (1950 <= anno_valido <= 2030):
+            return "", None
+        celex = f"3{anno_valido:04d}{_TIPO_CELEX.get(tipo, 'X')}{anno_candidato:04d}"
+        return celex, anno_valido
+
+    anno = anno_candidato
+    codice = _TIPO_CELEX.get(tipo, "X")
+    celex = f"3{anno:04d}{codice}{int(num):04d}"
+    return celex, anno
 
 
 def _extract_body_fields(raw: str, filepath: Path) -> dict | None:
@@ -94,31 +137,8 @@ def _extract_body_fields(raw: str, filepath: Path) -> dict | None:
     }
 
 
-def _extract_celex_vigore(raw: str) -> tuple[str, str]:
-    """CELEX + entrata in vigore dal body (comune a frontmatter e legacy)."""
-    m3 = RE_VIGORE.search(raw)
-    vigore = ""
-    if m3:
-        gg, mm, aa = m3.group(1).split("/")
-        vigore = f"{aa}-{mm.zfill(2)}-{gg.zfill(2)}"
-    celex_list = sorted(set(RE_CELEX.findall(raw)))
-    celex = ";".join(celex_list)
-    return celex, vigore
-
-
 def extract(filepath: Path, collezione: str = "") -> dict | None:
     raw = filepath.read_text("utf-8", errors="replace")
-
-    # ── Ramo BASE64 (file con nome data_nome) ──
-    if re.match(r'^\d{4}-\d{2}-\d{2}_', filepath.name):
-        celex = RE_CELEX.findall(raw)
-        if not celex:
-            return None
-        return {"collezione": collezione, "filename": filepath.name,
-                "tipo": "BASE64", "data": "", "numero": "",
-                "oggetto": filepath.name[:300], "entrata_vigore": "",
-                "celex": ";".join(sorted(set(celex))),
-                "vigente": None, "urn": "", "codice_redazionale": ""}
 
     # ── Fast path: frontmatter YAML ──
     fm = parse_frontmatter(raw)
@@ -130,14 +150,13 @@ def extract(filepath: Path, collezione: str = "") -> dict | None:
         vigente = bool(fm.get("vigente", True))
         urn = str(fm.get("urn", ""))
         codice_redazionale = str(fm.get("codice_redazionale", ""))
-        celex, vigore = _extract_celex_vigore(raw)
         anno_atto = int(data[:4]) if len(data) >= 4 and data[:4].isdigit() else 0
-        anno = _anno_dir(oggetto) or _anno_da_celex(celex)
+        celex, anno = _estrai_riferimento_ue(oggetto)
         ritardo = (anno_atto - anno) if anno and anno <= anno_atto < anno + 100 else None
         return {"collezione": collezione, "filename": filepath.name,
                 "tipo": tipo, "data": data, "numero": numero,
-                "oggetto": oggetto[:500], "entrata_vigore": vigore,
-                "celex": celex, "anno_atto": anno_atto,
+                "oggetto": oggetto[:500],
+                "celex": celex or "", "anno_atto": anno_atto,
                 "anno_dir": anno or 0, "ritardo": ritardo,
                 "vigente": vigente, "urn": urn,
                 "codice_redazionale": codice_redazionale}
@@ -146,13 +165,12 @@ def extract(filepath: Path, collezione: str = "") -> dict | None:
     body = _extract_body_fields(raw, filepath)
     if not body:
         return None
-    celex, vigore = _extract_celex_vigore(raw)
-    anno = _anno_dir(body.get("oggetto", "")) or _anno_da_celex(celex)
+    celex, anno = _estrai_riferimento_ue(body.get("oggetto", ""))
     ritardo = (int(body["anno_atto"]) - anno) if anno and anno <= int(body["anno_atto"]) < anno + 100 else None
     return {"collezione": collezione, "filename": filepath.name,
             "tipo": body["tipo"], "data": body["data"], "numero": body["numero"],
-            "oggetto": body["oggetto"][:500], "entrata_vigore": vigore,
-            "celex": celex, "anno_atto": body["anno_atto"],
+            "oggetto": body["oggetto"][:500],
+            "celex": celex or "", "anno_atto": body["anno_atto"],
             "anno_dir": anno or 0, "ritardo": ritardo,
             "vigente": None, "urn": "", "codice_redazionale": ""}
 

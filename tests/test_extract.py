@@ -4,7 +4,7 @@ from pathlib import Path
 
 import pytest
 
-from lab_tools.extract import extract, _anno_da_celex, _dedup
+from lab_tools.extract import extract, _estrai_riferimento_ue, _dedup
 
 FIXTURES = Path(__file__).resolve().parent / "fixtures"
 
@@ -12,20 +12,20 @@ FIXTURES = Path(__file__).resolve().parent / "fixtures"
 # ─── file legacy (senza frontmatter, regex fallback) ─────────────
 
 
-def test_con_celex():
-    """File completo (legacy): tipo, data, numero, entrata vigore, CELEX,
-    anno_dir da CELEX, collezione."""
+def test_con_celex_body():
+    """File legacy (senza frontmatter): estrae tipo/data/numero/entrata_vigore dal body.
+    CELEX non estraibile dall'oggetto (nessun riferimento UE nell'oggetto)."""
     result = extract(FIXTURES / "con_celex.md")
     assert result is not None
     assert result["tipo"] == "DECRETO LEGISLATIVO"
     assert result["data"] == "2020-03-15"
     assert result["numero"] == "45"
     assert result["oggetto"] == "con_celex"
-    assert result["entrata_vigore"] == "2020-04-01"
-    assert result["celex"] == "32018L1234"
+    # CELEX non presente nell'oggetto (solo nel body, non più estratto)
+    assert result["celex"] == ""
     assert result["anno_atto"] == 2020
-    assert result["anno_dir"] == 2018
-    assert result["ritardo"] == 2
+    assert result["anno_dir"] == 0
+    assert result["ritardo"] is None
     assert result["collezione"] == ""
     # Nuovi campi frontmatter: legacy → None/ignoto
     assert result["vigente"] is None
@@ -48,7 +48,6 @@ def test_senza_celex():
     assert result["data"] == "2021-01-10"
     assert result["numero"] == "1"
     assert result["celex"] == ""
-    assert result["entrata_vigore"] == ""
     assert result["anno_dir"] == 0
     assert result["ritardo"] is None
     assert result["vigente"] is None
@@ -60,14 +59,13 @@ def test_senza_celex():
 
 def test_con_celex_frontmatter():
     """File con frontmatter: tipo, data, titolo dal frontmatter,
-    CELEX/entrata vigore dal body."""
+    CELEX costruito dal riferimento UE nell'oggetto."""
     result = extract(FIXTURES / "con_celex_fm.md")
     assert result is not None
     assert result["tipo"] == "DECRETO LEGISLATIVO"
     assert result["data"] == "2020-03-15"
     assert result["numero"] == "45"
     assert "Attuazione direttiva" in result["oggetto"]
-    assert result["entrata_vigore"] == "2020-04-01"
     assert result["celex"] == "32018L1234"
     assert result["anno_atto"] == 2020
     assert result["anno_dir"] == 2018
@@ -80,38 +78,66 @@ def test_con_celex_frontmatter():
 # ─── helper unitari ──────────────────────────────────────────────
 
 
-def test_anno_da_celex_piu_recente():
-    """_anno_da_celex sceglie il CELEX L/R più recente, non il primo ordinato."""
-    assert _anno_da_celex("31950L2008;32015L2193;31990R1234") == 2015
-    assert _anno_da_celex("32015L2193;31950L2008") == 2015
-    assert _anno_da_celex("31950L2008") == 1950
+def test_estrai_riferimento_ue():
+    """_estrai_riferimento_ue costruisce CELEX da riferimenti UE nell'oggetto."""
+    # Direttiva → L
+    assert _estrai_riferimento_ue("Attuazione della direttiva 2019/944") == ("32019L0944", 2019)
+    # Regolamento → R
+    assert _estrai_riferimento_ue("Attuazione del regolamento (UE) 2023/1113") == ("32023R1113", 2023)
+    # Decisione → D
+    assert _estrai_riferimento_ue("Attuazione della decisione 2020/135") == ("32020D0135", 2020)
+    # Formato con trattino
+    assert _estrai_riferimento_ue("Attuazione della direttiva UE 2018-1972") == ("32018L1972", 2018)
+    # Senza riferimento
+    assert _estrai_riferimento_ue("Disposizioni in materia") == ("", None)
+    assert _estrai_riferimento_ue("") == ("", None)
+    assert _estrai_riferimento_ue(None) == ("", None)
 
+    # ── Casi problematici dalla review ──
 
-def test_anno_da_celex_senza_l():
-    """CELEX senza tipo L o R: nessun anno (es. trattati)."""
-    assert _anno_da_celex("12008E") is None
-    assert _anno_da_celex("") is None
-    assert _anno_da_celex(None) is None
+    # regolamento (UE) n. — anno dopo slash
+    assert _estrai_riferimento_ue(
+        "regolamento (UE) n. 2018/1727"
+    ) == ("32018R1727", 2018)
 
+    # regolamento (UE) n. con anno prima dello slash (formato invertito)
+    assert _estrai_riferimento_ue(
+        "regolamento (UE) n. 1025/2012"
+    ) == ("32012R1025", 2012)
 
-# ─── BASE64 ──────────────────────────────────────────────────────
+    # direttiva di esecuzione
+    assert _estrai_riferimento_ue(
+        "direttiva di esecuzione 2014/111/UE recante modifica della direttiva 2009/15/CE"
+    ) == ("32014L0111", 2014)
 
+    # plurali: prende la prima del gruppo, salta la secondaria
+    assert _estrai_riferimento_ue(
+        "direttive 2006/17/CE e 2006/86/CE, che attuano la direttiva 2004/23/CE"
+    ) == ("32006L0017", 2006)
 
-def test_base64():
-    """File con nome data_nome: solo CELEX, campi ridotti (no tipo/numero)."""
-    result = extract(FIXTURES / "2020-06-01_test_base64.md")
-    assert result is not None
-    assert result["tipo"] == "BASE64"
-    assert result["data"] == ""
-    assert result["numero"] == ""
-    assert "test_base64" in result["oggetto"]
-    assert result["celex"] == "32018L1234;32019L2121"
-    assert result["entrata_vigore"] == ""
-    assert result["vigente"] is None
-    assert result["urn"] == ""
+    # riferimenti multipli: salta 'abroga la decisione ...'
+    assert _estrai_riferimento_ue(
+        "regolamento (UE) n. 2018/1727 ... che abroga la decisione 2002/187/GAI"
+    ) == ("32018R1727", 2018)
+
+    # regolamento delegato
+    assert _estrai_riferimento_ue(
+        "regolamento delegato (UE) 2023/2631"
+    ) == ("32023R2631", 2023)
 
 
 # ─── edge cases ──────────────────────────────────────────────────
+
+
+def test_base64_ignorato():
+    """Il formato BASE64 (nomi data_nome) non è più gestito — ramo rimosso.
+    I file con solo testo libero senza struttura tornano None."""
+    dummy = FIXTURES / "_dummy_base64.md"
+    dummy.write_text("Testo senza struttura riconoscibile", encoding="utf-8")
+    try:
+        assert extract(dummy) is None
+    finally:
+        dummy.unlink()
 
 
 def test_file_inesistente():
