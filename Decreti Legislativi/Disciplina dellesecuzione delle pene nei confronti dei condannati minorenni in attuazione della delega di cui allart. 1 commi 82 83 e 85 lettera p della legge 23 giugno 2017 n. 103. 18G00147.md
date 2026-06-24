@@ -18,7 +18,7 @@ Vista la [legge 23 giugno 2017, n. 103](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la [legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354), recante «Norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta'»;
 
-Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante «Approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447)»;
+Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante «Approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447)»;
 
 Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 448](../DPR/Approvazione%20delle%20disposizioni%20sul%20processo%20penale%20a%20carico%20di%20imputati%20minorenni.md), recante «Approvazione delle disposizioni sul processo penale a carico di imputati minorenni»;
 
@@ -690,7 +690,7 @@ Fermo quanto previsto dall'[articolo 77 del decreto del Presidente della Repubbl
 
 2.
 
-Le sanzioni del rimprovero verbale e scritto sono deliberate dal direttore dell'istituto, mentre per le altre e' competente il consiglio di disciplina composto dal direttore dell'istituto o, in caso di legittimo impedimento, dall'impiegato piu' alto in grado con funzioni di presidente, da uno dei magistrati onorari esperti addetti al tribunale per le persone, per i minorenni e per le famiglie designato dal presidente, e da un educatore. (2)(6) ((9))
+Le sanzioni del rimprovero verbale e scritto sono deliberate dal direttore dell'istituto, mentre per le altre e' competente il consiglio di disciplina composto dal direttore dell'istituto o, in caso di legittimo impedimento, dall'impiegato piu' alto in grado con funzioni di presidente, da uno dei magistrati onorari esperti addetti al tribunale per le persone, per i minorenni e per le famiglie designato dal presidente, e da un educatore. (2)(6) (9) ((10))
 
 ---------------
 
@@ -707,6 +707,12 @@ Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%2
 ---------------
 
 AGGIORNAMENTO (9)
+
+Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dal [D.L. 8 agosto 2025, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-08-08;117), ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi quattro anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
+
+---------------
+
+AGGIORNAMENTO (10)
 
 Il [D.Lgs. 10 ottobre 2022, n. 149](Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dal [D.L. 8 agosto 2025, n. 117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-08-08;117), ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi quattro anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
