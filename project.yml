@@ -10,5 +10,7 @@ upstream:
   repo: ahmeabd/italia-corpus
   sync: manual
 datasets:
-  - normativa_recepimento_ue
+  - normativa  # dataset principale, generato da lab_tools.extract
+datasets_deprecated:
+  - normativa_recepimento_ue  # subset storico, non più aggiornabile (nessun CELEX upstream)
 maintainer: DataCivicLab

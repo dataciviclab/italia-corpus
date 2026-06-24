@@ -28,9 +28,9 @@ Tre tool per agenti AI:
 
 ### Estrattore metadati (`lab_tools/extract.py`)
 
-Parsa tutti i file Markdown delle 20 collezioni ed estrae: tipo atto, data, numero, oggetto, entrata in vigore, CELEX, anno direttiva (dal CELEX più recente L/R), ritardo di recepimento.
+Parsa tutti i file Markdown delle 20 collezioni ed estrae: tipo atto, data, numero, oggetto, URN, codice redazionale, vigente, CELEX (costruito dal riferimento UE nell'oggetto), anno direttiva e ritardo di recepimento.
 
-Output: `data/derived/normativa.parquet` (20.711 atti deduplicati, 2.867 con CELEX).
+Output: `data/derived/normativa.parquet` (20.703 atti, 755 con CELEX).
 
 ```sh
 pip install -e ".[dev]"
@@ -55,11 +55,13 @@ python -m lab_tools.extract
 | `data` | str | Data atto (ISO) |
 | `numero` | str | Numero atto |
 | `oggetto` | str | Oggetto / titolo |
-| `entrata_vigore` | str | Data entrata in vigore (ISO, se disponibile) |
-| `celex` | str | Riferimenti CELEX separati da `;` |
+| `celex` | str | CELEX costruito dal riferimento UE nell'oggetto (es. `32019L0944`) |
 | `anno_atto` | int | Anno di pubblicazione |
-| `anno_dir` | int | Anno della direttiva/regolamento UE collegato (dal CELEX L/R più recente, 0 se assente) |
-| `ritardo` | float | Gap anni tra atto e direttiva (solo se anno_dir > 0) |
+| `anno_dir` | int | Anno della direttiva/regolamento/decisione UE collegato (0 se assente) |
+| `ritardo` | float | Gap anni tra atto e atto UE (solo se anno_dir > 0) |
+| `vigente` | bool | True se l'atto risulta vigente secondo Normattiva |
+| `urn` | str | URN Normattiva (es. `urn:nir:stato:decreto.legislativo:2021-11-08;207`) |
+| `codice_redazionale` | str | Codice redazionale Normattiva (es. `21G00230`) |
 
 ## Manutenzione
 
