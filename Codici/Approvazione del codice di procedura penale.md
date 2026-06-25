@@ -7009,29 +7009,19 @@ COMMA ABROGATO DALLA [L. 8 AGOSTO 1995, N. 332](https://www.normattiva.it/uri-re
 
 1-ter.
 
-- Quando e' necessario, nella richiesta sono riprodotti soltanto i brani essenziali delle comunicazioni e conversazioni intercettate ((, in ogni caso senza indicare i dati personali dei soggetti diversi dalle parti, salvo che cio' sia indispensabile per la compiuta esposizione)). (253) (260) (263) (270) (275)
-
-((
+- Quando e' necessario, nella richiesta sono riprodotti soltanto i brani essenziali delle comunicazioni e conversazioni intercettate , in ogni caso senza indicare i dati personali dei soggetti diversi dalle parti, salvo che cio' sia indispensabile per la compiuta esposizione. (253) (260) (263) (270) (275)
 
 1-quater.
 
 Fermo il disposto dell'articolo 289, comma 2, secondo periodo, prima di disporre la misura, il giudice procede all'interrogatorio della persona sottoposta alle indagini preliminari con le modalita' indicate agli articoli 64 e 65, salvo che sussista taluna delle esigenze cautelari di cui all'articolo 274, comma 1, lettere a) e b), oppure l'esigenza cautelare di cui all'articolo 274, comma 1, lettera c), in relazione ad uno dei delitti indicati all'articolo 407, comma 2, lettera a), o all'articolo 362, comma 1-ter, ovvero a gravi delitti commessi con uso di armi o con altri mezzi di violenza personale.
 
-))
+1-quinquies.
 
-((1-quinquies. Nel caso di cui all'articolo 328, comma 1-quinquies, all'interrogatorio procede il presidente del collegio o uno dei componenti da lui delegato.))
-
-((318))
-
-((
+Nel caso di cui all'articolo 328, comma 1-quinquies, all'interrogatorio procede il presidente del collegio o uno dei componenti da lui delegato. (318) ((344))
 
 1-sexies.
 
 L'invito a presentarsi per rendere l'interrogatorio e' comunicato al pubblico ministero e notificato alla persona sottoposta alle indagini preliminari e al suo difensore almeno cinque giorni prima di quello fissato per la comparizione, salvo che, per ragioni d'urgenza, il giudice ritenga di abbreviare il termine, purche' sia lasciato il tempo necessario per comparire. Il giudice provvede comunque sulla richiesta del pubblico ministero quando la persona sottoposta alle indagini preliminari non compare senza addurre un legittimo impedimento, oppure quando la persona sottoposta alle indagini preliminari non e' stata rintracciata e il giudice ritiene le ricerche esaurienti, anche con riferimento ai luoghi di cui all'articolo 159, comma 1.
-
-))
-
-((
 
 1-septies.
 
@@ -7045,17 +7035,13 @@ L'invito contiene:
                             d)
                                 l'avviso della facolta' di nominare un difensore di fiducia e di essere ammesso al patrocinio a spese dello Stato nei casi previsti dalla legge; del diritto di ottenere informazioni in merito all'accusa; del diritto all'interprete e alla traduzione di atti fondamentali; del diritto di avvalersi della facolta' di non rispondere; del diritto di informare le autorita' consolari e di dare avviso ai familiari; della facolta' di accedere ai programmi di giustizia riparativa.
 
-))
-
-((
-
 1-octies.
 
 L'invito di cui al comma 1-sexies contiene altresi' l'avviso di deposito nella cancelleria del giudice della richiesta di applicazione della misura cautelare e degli atti presentati ai sensi del comma 1, nonche' della facolta' di prendere visione ed estrarre copia di tutti gli atti depositati, ivi compresi i verbali delle comunicazioni e delle conversazioni intercettate, con diritto alla trasposizione delle relative registrazioni su supporto idoneo alla riproduzione dei dati.
 
-))
+1-novies.
 
-((1-novies. L'interrogatorio di cui al comma 1-quater deve essere documentato integralmente, a pena di inutilizzabilita', secondo le modalita' di cui all'articolo 141-bis))
+L'interrogatorio di cui al comma 1-quater deve essere documentato integralmente, a pena di inutilizzabilita', secondo le modalita' di cui all'articolo 141-bis.
 
 2.
 
@@ -7108,6 +7094,12 @@ Il [D.Lgs. 29 dicembre 2017, n. 216](../Decreti%20Legislativi/Disposizioni%20in%
 AGGIORNAMENTO (318)
 
 La [L. 9 agosto 2024, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-08-09;114), ha disposto (con l'art. 9, comma 1) che la presente modifica si applica decorsi due anni dalla data di entrata in vigore della presente legge.
+
+--------------
+
+AGGIORNAMENTO (344)
+
+La L. 9 agosto 224, n. 114, come modificata dal [D.L. 12 giugno 2026, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-06-12;100), ha disposto (con l'art. 9, comma 1) che "Le disposizioni di cui all'articolo 2, comma 1, lettere e), numero 2), limitatamente al capoverso 1-quinquies, g), numero 2), h), l) e m), e di cui all'articolo 4 si applicano a decorrere dal 28 febbraio 2027".
 
 ### Art. 292. — Ordinanza del giudice
 
@@ -7291,7 +7283,7 @@ Il [D.L. 30 dicembre 2019, n. 161](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 1.
 
-Fino alla dichiarazione di apertura del dibattimento, il giudice che ha deciso in ordine all'applicazione della misura cautelare se non vi ha proceduto ((ai sensi dell'articolo 291, comma 1-quater, oppure)) nel corso dell'udienza di convalida dell'arresto o del fermo di indiziato di delitto procede all'interrogatorio della persona in stato di custodia cautelare in carcere immediatamente e comunque non oltre cinque giorni dall'inizio dell'esecuzione della custodia, salvo il caso in cui essa sia assolutamente impedita. PERIODO ABROGATO DALLA [L. 8 AGOSTO 1995, N. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;332). (82) (101)
+Fino alla dichiarazione di apertura del dibattimento, il giudice che ha deciso in ordine all'applicazione della misura cautelare se non vi ha proceduto ai sensi dell'articolo 291, comma 1-quater, oppure nel corso dell'udienza di convalida dell'arresto o del fermo di indiziato di delitto procede all'interrogatorio della persona in stato di custodia cautelare in carcere immediatamente e comunque non oltre cinque giorni dall'inizio dell'esecuzione della custodia, salvo il caso in cui essa sia assolutamente impedita. PERIODO ABROGATO DALLA [L. 8 AGOSTO 1995, N. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;332). (82) (101)
 
 1-bis.
 
@@ -7315,7 +7307,7 @@ Ai fini di quanto previsto dal comma 3, l'interrogatorio e' condotto dal giudice
 
 4-bis.
 
-Quando la misura cautelare e' stata disposta ((dal collegio di cui all'articolo 328, comma 1-quinquies,)) dalla corte di assise o dal tribunale, all'interrogatorio procede il presidente del collegio o uno dei componenti da lui delegato.((318))
+Quando la misura cautelare e' stata disposta dal collegio di cui all'articolo 328, comma 1-quinquies, dalla corte di assise o dal tribunale, all'interrogatorio procede il presidente del collegio o uno dei componenti da lui delegato.(318) ((344))
 
 5.
 
@@ -7333,19 +7325,24 @@ Alla documentazione dell'interrogatorio si procede anche con mezzi di riproduzio
 
 AGGIORNAMENTO (82)
 
-La Corte costituzionale, con sentenza 24 marzo-3 aprile 1997, n. 77 (in G.U. 1a s.s. 09/04/1997, n. 15) ha dichiarato l'illegittimita' costituzionale del comma 1 del presente articolo "nella parte in cui non prevede che, fino alla trasmissione degli atti al giudice del dibattimento, il giudice proceda all'interrogatorio della persona in stato di custodia cautelare in carcere immediatamente e comunque non oltre cinque giorni dall'inizio di esecuzione della custodia".
-
+La Corte costituzionale, con sentenza 24 marzo-3 aprile 1997, n. 77 (in G.U. 1a s.s. 09/04/1997, n. 15) ha dichiarato l'illegittimita' costituzionale del comma 1 del presente articolo "nella parte in cui non prevede che, fino alla trasmissione degli atti al giudice del dibattimento, il giudice proceda all'interrogatorio della persona in stato di custodia cautelare in carcere immediatamente e comunque non oltre cinque giorni dall'inizio di esecuzione della custodia". 
+ 
 ----------------
-
-AGGIORNAMENTO (101)
-
-La Corte costituzionale, con sentenza 10-17 febbraio 1999, n. 32 (in G.U. 1a s.s. 24/02/1999, n. 8) ha dichiarato l'illegittimita' costituzionale del comma 1 del presente articolo "nella parte in cui non prevede che fino all'apertura del dibattimento il giudice proceda all'interrogatorio della persona in stato di custodia cautelare in carcere."
+ 
+AGGIORNAMENTO (101) 
+ La Corte costituzionale, con sentenza 10-17 febbraio 1999, n. 32 (in G.U. 1a s.s. 24/02/1999, n. 8) ha dichiarato l'illegittimita' costituzionale del comma 1 del presente articolo "nella parte in cui non prevede che fino all'apertura del dibattimento il giudice proceda all'interrogatorio della persona in stato di custodia cautelare in carcere."
 
 --------------
 
 AGGIORNAMENTO (318)
 
 La [L. 9 agosto 2024, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-08-09;114), ha disposto (con l'art. 9, comma 1) che la presente modifica si applica decorsi due anni dalla data di entrata in vigore della presente legge.
+
+--------------
+
+AGGIORNAMENTO (344)
+
+La L. 9 agosto 224, n. 114, come modificata dal [D.L. 12 giugno 2026, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-06-12;100), ha disposto (con l'art. 9, comma 1) che "Le disposizioni di cui all'articolo 2, comma 1, lettere e), numero 2), limitatamente al capoverso 1-quinquies, g), numero 2), h), l) e m), e di cui all'articolo 4 si applicano a decorrere dal 28 febbraio 2027".
 
 ### Art. 295. — Verbale di vane ricerche
 
@@ -7499,7 +7496,7 @@ Salvo quanto previsto dall' art. 275, comma 3, quando le esigenze cautelari risu
 
 2-bis.
 
-I provvedimenti di cui ai commi 1 e 2 ((nonche' quelli che autorizzano il distacco temporaneo dello strumento elettronico di controllo)) relativi alle misure previste dagli articoli 282-bis, 282-ter, 283, 284, 285 e 286, applicate nei procedimenti aventi ad oggetto delitti commessi con violenza alla persona, devono essere immediatamente comunicati, a cura della polizia giudiziaria, ai servizi socio-assistenziali e alla persona offesa e, ove nominato, al suo difensore. ((La medesima comunicazione e' effettuata ai prossimi congiunti della persona offesa laddove questa sia deceduta in conseguenza del reato per cui si procede, sempre che costoro ne abbiano fatto richiesta all'autorita' giudiziaria procedente, indicando il recapito, anche telematico, presso il quale intendono ricevere la comunicazione)).
+I provvedimenti di cui ai commi 1 e 2 ((nonche' quelli che autorizzano il distacco temporaneo dello strumento elettronico di controllo)) relativi alle misure previste dagli articoli 282-bis, 282-ter, 283, 284, 285 e 286, applicate nei procedimenti aventi ad oggetto delitti commessi con violenza alla persona, devono essere immediatamente comunicati, a cura della polizia giudiziaria, ai servizi socio-assistenziali e alla persona offesa e, ove nominato, al suo difensore. La medesima comunicazione e' effettuata ai prossimi congiunti della persona offesa laddove questa sia deceduta in conseguenza del reato per cui si procede, sempre che costoro ne abbiano fatto richiesta all'autorita' giudiziaria procedente, indicando il recapito, anche telematico, presso il quale intendono ricevere la comunicazione.
 
 2-ter.
 
@@ -7523,7 +7520,7 @@ Il giudice, valutati gli elementi addotti per la revoca o la sostituzione delle 
 
 4.
 
-Fermo quanto previsto dall'articolo 276, quando le esigenze cautelari risultano aggravate, il giudice, su richiesta del pubblico ministero, sostituisce la misura applicata con un'altra piu' grave ovvero ne dispone l'applicazione con modalita' piu' gravose o applica congiuntamente altra misura coercitiva o interdittiva.In questo caso, se ritiene che l'aggravamento debba comportare l'applicazione della misura della custodia cautelare in carcere, il giudice per le indagini preliminari rimette la decisione al collegio di cui all'articolo 328, comma 1-quinquies. (318)
+Fermo quanto previsto dall'articolo 276, quando le esigenze cautelari risultano aggravate, il giudice, su richiesta del pubblico ministero, sostituisce la misura applicata con un'altra piu' grave ovvero ne dispone l'applicazione con modalita' piu' gravose o applica congiuntamente altra misura coercitiva o interdittiva.In questo caso, se ritiene che l'aggravamento debba comportare l'applicazione della misura della custodia cautelare in carcere, il giudice per le indagini preliminari rimette la decisione al collegio di cui all'articolo 328, comma 1-quinquies. (318) ((344)
 
 4-bis.
 
@@ -7542,6 +7539,12 @@ Si applicano altresi' le disposizioni di cui all'articolo 286-bis, comma 3.
 AGGIORNAMENTO (318)
 
 La [L. 9 agosto 2024, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-08-09;114), ha disposto (con l'art. 9, comma 1) che la presente modifica si applica decorsi due anni dalla data di entrata in vigore della presente legge.
+
+--------------
+
+AGGIORNAMENTO (344)
+
+La L. 9 agosto 224, n. 114, come modificata dal [D.L. 12 giugno 2026, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-06-12;100), ha disposto (con l'art. 9, comma 1) che "Le disposizioni di cui all'articolo 2, comma 1, lettere e), numero 2), limitatamente al capoverso 1-quinquies, g), numero 2), h), l) e m), e di cui all'articolo 4 si applicano a decorrere dal 28 febbraio 2027".
 
 ### Art. 300.
 
@@ -8024,7 +8027,7 @@ PMT114 PMP118
 
 1.
 
-Il giudice provvede con ordinanza a norma dell'articolo 292, previo accertamento sulla pericolosita' sociale dell'imputato. Ove non sia stato possibile procedere all'interrogatorio della persona sottoposta alle indagini prima della pronuncia del provvedimento, si applica la disposizione dell'articolo 294.((Il giudice per le indagini preliminari procede nella composizione collegiale di cui all'articolo 328, comma 1-quinquies, quando deve essere applicata una misura di sicurezza detentiva)).((318))
+Il giudice provvede con ordinanza a norma dell'articolo 292, previo accertamento sulla pericolosita' sociale dell'imputato. Ove non sia stato possibile procedere all'interrogatorio della persona sottoposta alle indagini prima della pronuncia del provvedimento, si applica la disposizione dell'articolo 294. Il giudice per le indagini preliminari procede nella composizione collegiale di cui all'articolo 328, comma 1-quinquies, quando deve essere applicata una misura di sicurezza detentiva. (318) ((344))
 
 2.
 
@@ -8039,6 +8042,12 @@ Ai fini delle impugnazioni, la misura prevista dall'articolo 312 e' equiparata a
 AGGIORNAMENTO (318)
 
 La [L. 9 agosto 2024, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-08-09;114), ha disposto (con l'art. 9, comma 1) che la presente modifica si applica decorsi due anni dalla data di entrata in vigore della presente legge.
+
+--------------
+
+AGGIORNAMENTO (344)
+
+La L. 9 agosto 224, n. 114, come modificata dal [D.L. 12 giugno 2026, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-06-12;100), ha disposto (con l'art. 9, comma 1) che "Le disposizioni di cui all'articolo 2, comma 1, lettere e), numero 2), limitatamente al capoverso 1-quinquies, g), numero 2), h), l) e m), e di cui all'articolo 4 si applicano a decorrere dal 28 febbraio 2027".
 
 ## Capo VIII RIPARAZIONE PER L'INGIUSTA DETENZIONE
 
@@ -8440,9 +8449,9 @@ COMMA ABROGATO DAL [D.L. 23 MAGGIO 2008, N. 92](https://www.normattiva.it/uri-re
 
 Quando si tratta di procedimenti per i delitti indicati nell'articolo 51,comma 3-quinquies, le funzioni di giudice per le indagini preliminari e le funzioni di giudice per l'udienza preliminare sono esercitate, salve specifiche disposizioni di legge, da un magistrato del tribunale del capoluogo del distretto nel cui ambito ha sede il giudice competente.
 
-((1-quinquies. Il giudice per le indagini preliminari decide in composizione collegiale l'applicazione della misura della custodia cautelare in carcere))
+1-quinquies.
 
-((318))
+Il giudice per le indagini preliminari decide in composizione collegiale l'applicazione della misura della custodia cautelare in carcere. (318) ((344))
 
 ---------------
 
@@ -8461,6 +8470,12 @@ Il [D.L. 18 ottobre 2001, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 AGGIORNAMENTO (318)
 
 La [L. 9 agosto 2024, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-08-09;114), ha disposto (con l'art. 9, comma 1) che la presente modifica si applica decorsi due anni dalla data di entrata in vigore della presente legge.
+
+--------------
+
+AGGIORNAMENTO (344)
+
+La L. 9 agosto 224, n. 114, come modificata dal [D.L. 12 giugno 2026, n. 100](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-06-12;100), ha disposto (con l'art. 9, comma 1) che "Le disposizioni di cui all'articolo 2, comma 1, lettere e), numero 2), limitatamente al capoverso 1-quinquies, g), numero 2), h), l) e m), e di cui all'articolo 4 si applicano a decorrere dal 28 febbraio 2027".
 
 ### Art. 329. — Obbligo del segreto
 

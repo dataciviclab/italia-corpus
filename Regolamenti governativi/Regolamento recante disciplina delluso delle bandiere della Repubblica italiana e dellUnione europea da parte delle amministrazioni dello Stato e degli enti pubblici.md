@@ -56,7 +56,7 @@ Le bandiere vengono inoltre esposte sugli altri edifici sede di uffici pubblici 
 
 3.
 
-Ai fini dell'applicazione dell'articolo 2, comma 1, lettera d), della legge, per "uffici giudiziari" s'intendono le sedi di tutti gli uffici giudicanti previsti dall'[articolo 1 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_1), e di tutti gli uffici del pubblico ministero costituiti presso di essi ai sensi dell'articolo 2 della stessa legge.
+Ai fini dell'applicazione dell'articolo 2, comma 1, lettera d), della legge, per "uffici giudiziari" s'intendono le sedi di tutti gli uffici giudicanti previsti dall'[articolo 1 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e di tutti gli uffici del pubblico ministero costituiti presso di essi ai sensi dell'articolo 2 della stessa legge.
 
 4.
 

@@ -18,7 +18,7 @@ Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Decre
 
 Visto il [R. decreto legislativo 10 maggio 1946, numero 262](Intestazione%20dei%20decreti%20da%20emanarsi%20dal%20Capo%20dello%20Stato%20nonche%20delle%20decisioni%20giudiziarie%20e%20degli%20atti%20da%20formarsi%20in%20suo%20nome.md);
 
-Visto l'ordinamento giudiziario approvato con [Regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12);
+Visto l'ordinamento giudiziario approvato con [Regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md);
 
 Visto il [decreto legislativo Luogotenenziale 8 febbraio 1945, n. 114](../Decreti%20legislativi%20luogotenenziali/Soppressione%20della%20Commissione%20centrale%20prevista%20dallart.%20220%20dellOrdinamento%20giudiziario.%20045U0114.md);
 
@@ -37,7 +37,7 @@ I magistrati non possono essere privati delle funzioni e dello stipendio, colloc
 ### Art. 2. — (Inamovibilita' della sede)
 
 I magistrati di grado non inferiore a giudice, sostituto procuratore del Regno o pretore, non possono essere trasferiti ad altra sede o destinati ad altre funzioni, se non col loro consenso. 
- Essi tuttavia possono, anche senza il loro consenso, essere trasferiti ad altra sede o destinati ad altre funzioni, previo parere del Consiglio superiore della magistratura, quando si trovino in uno dei casi di incompatibilita' previsti dagli articoli 16, 18 e 19 dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), o quando, per qualsiasi causa indipendente da loro colpa non possono, nella sede occupata, svolgere le proprie funzioni con piena indipendenza e imparzialita'. Il parere del Consiglio superiore e' vincolante quando si tratta di magistrati giudicanti. (11) 
+ Essi tuttavia possono, anche senza il loro consenso, essere trasferiti ad altra sede o destinati ad altre funzioni, previo parere del Consiglio superiore della magistratura, quando si trovino in uno dei casi di incompatibilita' previsti dagli articoli 16, 18 e 19 dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), o quando, per qualsiasi causa indipendente da loro colpa non possono, nella sede occupata, svolgere le proprie funzioni con piena indipendenza e imparzialita'. Il parere del Consiglio superiore e' vincolante quando si tratta di magistrati giudicanti. (11) 
  In caso di soppressione di un ufficio giudiziario, i magistrati che ne fanno parte, se non possono essere assegnati ad altro ufficio giudiziario nella stessa sede, sono destinati a posti vacanti del loro grado ad altra sede. (8) (8a) ((13)) 
  Qualora venga ridotto l'organico di un ufficio giudiziario, i magistrati meno anziani che risultino in soprannumero, se non possono essere assegnati ad altro ufficio della stessa sede, sono destinati ai posti vacanti del loro grado in altra sede. 
  Nei casi previsti dai due precedenti commi si tiene conto, in quanto possibile, delle aspirazioni dei magistrati da trasferire.
@@ -287,18 +287,18 @@ TITOLO III
 
 ### Art. 39. — (Funzioni del pubblico ministero)
 
-L'art. 69 dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e' sostituito dal seguente:
+L'art. 69 dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e' sostituito dal seguente:
  "Il pubblico ministero esercita, sotto la vigilanza del Ministro per la grazia e giustizia, le funzioni che la legge gli attribuisce".
 
 ### Art. 40. — (Ammissioni straordinarie nella magistratura delle Corti)
 
-Il secondo comma dell'art. 122 dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e' sostituito dal seguente:
+Il secondo comma dell'art. 122 dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e' sostituito dal seguente:
  "Per la nomina occorre il motivato parere conforme del Consiglio superiore della magistratura, a sezioni unite".
  E' soppresso il terzo comma del suddetto art. 122.
 
 ### Art. 41. — Promozioni al grado 3
 
-L'art. 188 dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e' sostituito dal seguente:
+L'art. 188 dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e' sostituito dal seguente:
  Le promozioni a primo presidente di Corte di appello e gradi parificati sono conferite, su proposta del Ministro per la grazia e giustizia, e previa deliberazione del Consiglio dei Ministri, a magistrati aventi almeno cinque anni di grado di consigliere di Corte di cassazione od equiparato scelti fra coloro che, per il modo col quale hanno esercitato le loro funzioni, per i precedenti di carriera, e per speciali incarichi assolti, risultano non solo distinti per cultura giuridica, ma anche particolarmente adatti a funzioni direttive.
  La proposta del Ministro per la grazia e giustizia deve essere preceduta dal parere motivato del Consiglio superiore della magistratura".
 
@@ -309,7 +309,7 @@ Fino al 31 dicembre 1947 e' data facolta' al Ministro per la grazia e giustizia 
 
 ### Art. 43. — (Abrogazione di disposizioni contrarie o incompatibili)
 
-Sono abrogati i titoli sesto, settimo ed ottavo dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), ed ogni altra disposizione contraria od incompatibile con quelle del presente decreto.
+Sono abrogati i titoli sesto, settimo ed ottavo dell'Ordinamento giudiziario approvato con [R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), ed ogni altra disposizione contraria od incompatibile con quelle del presente decreto.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 
