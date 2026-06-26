@@ -772,7 +772,7 @@ Al fine di assicurare il raggiungimento degli obiettivi di smaltimento delle pen
 
 4.
 
-Fino al 31 dicembre 2024, il periodo di tempo non superiore a sei mesi di cui all'[articolo 34 della legge 4 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1#art_34), e il termine di sei mesi di cui all'articolo 10-bis, terzo comma, secondo periodo, del [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), concernenti l'assunzione delle funzioni in caso di tramutamenti successivi, sono elevati a un anno.
+Fino al 31 dicembre 2024, il periodo di tempo non superiore a sei mesi di cui all'[articolo 34 della legge 4 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-01-04;1#art_34), e il termine di sei mesi di cui all'articolo 10-bis, terzo comma, secondo periodo, del [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), concernenti l'assunzione delle funzioni in caso di tramutamenti successivi, sono elevati a un anno.
 
 4-bis.
 

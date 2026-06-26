@@ -35,7 +35,7 @@ all'Erario per la partecipazione agli esami forensi per la nomina a revisori dei
  15 novembre 1946, n. 355 - Ordinamento degli uffici di conciliazione della Valle d'Aosta.
  30 ottobre 1946, n. 395 - Aumento degli onorari per le prestazioni professionali di avvocato nelle cause davanti al giudice conciliatore ed al pretore.
  1 novembre 1946, n. 397 - Disposizioni temporanee sui concorsi per esame per la nomina a notaio.
- 13 settembre 1946, n. 403 - Modificazione dell'articolo 139 dell'Ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12).
+ 13 settembre 1946, n. 403 - Modificazione dell'articolo 139 dell'Ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md).
  6 dicembre 1946, n. 424 - Disciplina delle locazioni degli immobili adibiti ad uso di albergo, pensione o locanda.
  6 dicembre 1946, n. 428 - Proroga dei termini in materia di locazioni di immobili urbani.
  4 dicembre 1946, n. 439 - Disposizioni circa l'assegnazione in soprannumero di notai in esercizio.

@@ -5317,7 +5317,7 @@ Ai magistrati ausiliari e' attribuito, a titolo di rimborso spese forfettario, u
 
 980.
 
-Per il perseguimento delle finalita' di cui al comma 961, sino alla scadenza del terzo anno successivo alla data di entrata in vigore dei commi da 961 a 981 i magistrati ordinari addetti all'ufficio del massimario e del ruolo della Corte di cassazione in possesso dei requisiti di cui al terzo comma dell'articolo 115 dell'ordinamento giudiziario, di cui al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), sono applicati, a norma del predetto comma, esclusivamente alla sezione alla quale sono devoluti i procedimenti di cui al comma 961.
+Per il perseguimento delle finalita' di cui al comma 961, sino alla scadenza del terzo anno successivo alla data di entrata in vigore dei commi da 961 a 981 i magistrati ordinari addetti all'ufficio del massimario e del ruolo della Corte di cassazione in possesso dei requisiti di cui al terzo comma dell'articolo 115 dell'ordinamento giudiziario, di cui al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), sono applicati, a norma del predetto comma, esclusivamente alla sezione alla quale sono devoluti i procedimenti di cui al comma 961.
 
 981.
 

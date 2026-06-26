@@ -439,7 +439,7 @@ Sezione VI
 
 1.
 
-((. . .)) i giudici onorari ed i vice procuratori onorari ((, nonche' i giudici onorari presso i tribunali per i minorenni,)) che esercitano le funzioni alla data di entrata in vigore del presente decreto e il cui mandato scade entro il 31 dicembre 2007 e per i quali non e' consentita un'ulteriore conferma secondo quanto previsto dall'articolo 42-quinquies, primo comma, dell'ordinamento giudiziario , di cui al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), sono ulteriormente prorogati nell'esercizio delle rispettive funzioni ((fino alla riforma organica della magistratura onoraria e, comunque, non oltre il 31 dicembre 2009.))
+((. . .)) i giudici onorari ed i vice procuratori onorari ((, nonche' i giudici onorari presso i tribunali per i minorenni,)) che esercitano le funzioni alla data di entrata in vigore del presente decreto e il cui mandato scade entro il 31 dicembre 2007 e per i quali non e' consentita un'ulteriore conferma secondo quanto previsto dall'articolo 42-quinquies, primo comma, dell'ordinamento giudiziario , di cui al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), sono ulteriormente prorogati nell'esercizio delle rispettive funzioni ((fino alla riforma organica della magistratura onoraria e, comunque, non oltre il 31 dicembre 2009.))
 
 ### Art. 14-bis. — ((Dirigenti dell'amministrazione giudiziaria))
 
@@ -508,7 +508,7 @@ Per le societa' con azioni quotate in mercati regolamentati, con partecipazione 
 
 1.
 
-In deroga agli articoli 104, 108 e 109 dell'ordinamento giudiziario di cui al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e successive modificazioni, in caso di mancanza del titolare, i magistrati di cui all'[articolo 5, comma 3, della legge 30 luglio 2007, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-07-30;111#art_5-com3), in servizio presso lo stesso ufficio, reggono il tribunale, la corte di appello, le sezioni di tribunale o quelle di corte di appello, ovvero la procura generale della Repubblica o la procura della Repubblica, per il periodo massimo di sei mesi, a decorrere dalla data di entrata in vigore del presente decreto.
+In deroga agli articoli 104, 108 e 109 dell'ordinamento giudiziario di cui al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e successive modificazioni, in caso di mancanza del titolare, i magistrati di cui all'[articolo 5, comma 3, della legge 30 luglio 2007, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-07-30;111#art_5-com3), in servizio presso lo stesso ufficio, reggono il tribunale, la corte di appello, le sezioni di tribunale o quelle di corte di appello, ovvero la procura generale della Repubblica o la procura della Repubblica, per il periodo massimo di sei mesi, a decorrere dalla data di entrata in vigore del presente decreto.
 
 2.
 

@@ -43,7 +43,7 @@ La Corte Costituzionale, con sentenza 3 - 24 luglio 2013, n. 237 (in G.U. 1a s.s
 
 1.
 
-Al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), sono apportate le seguenti modificazioni:
+Al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), sono apportate le seguenti modificazioni:
                         a)
                             la tabella A e' sostituita dalla tabella di cui all'allegato 1 del presente decreto;
                         b)
@@ -95,7 +95,7 @@ I magistrati assegnati agli uffici giudiziari soppressi entrano di diritto a far
 
 2.
 
-L'assegnazione prevista dal comma 1 non costituisce assegnazione ad altro ufficio giudiziario o destinazione ad altra sede ai sensi dell'[articolo 2, terzo comma, del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md), ne' costituisce trasferimento ad altri effetti e, in particolare, agli effetti previsti dall'[articolo 194 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_194), e dall'[articolo 13 della legge 2 aprile 1979, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-02;97#art_13), come sostituito dall'[articolo 6 della legge 19 febbraio 1981, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-02-19;27#art_6). Sono tuttavia fatti salvi i diritti attribuiti dalla [legge 18 dicembre 1973, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;836), e dalla [legge 26 luglio 1978, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-26;417), alle condizioni ivi stabilite, nel caso di fissazione della residenza in una sede di servizio diversa da quella precedente determinata dall'applicazione delle disposizioni del presente decreto.
+L'assegnazione prevista dal comma 1 non costituisce assegnazione ad altro ufficio giudiziario o destinazione ad altra sede ai sensi dell'[articolo 2, terzo comma, del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md), ne' costituisce trasferimento ad altri effetti e, in particolare, agli effetti previsti dall'[articolo 194 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e dall'[articolo 13 della legge 2 aprile 1979, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-02;97#art_13), come sostituito dall'[articolo 6 della legge 19 febbraio 1981, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-02-19;27#art_6). Sono tuttavia fatti salvi i diritti attribuiti dalla [legge 18 dicembre 1973, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;836), e dalla [legge 26 luglio 1978, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-26;417), alle condizioni ivi stabilite, nel caso di fissazione della residenza in una sede di servizio diversa da quella precedente determinata dall'applicazione delle disposizioni del presente decreto.
 
 3.
 
@@ -109,7 +109,7 @@ Con decreto del Ministro della giustizia, sentito il Consiglio superiore della m
 
 4-bis.
 
-Al fine della prima copertura del settantacinque per cento dell'organico del personale di magistratura del tribunale di Napoli nord e della procura della Repubblica presso il medesimo tribunale non e' richiesto il requisito del termine triennale di cui all'[articolo 194, primo comma, del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_194-com1). In ogni caso, il Consiglio superiore della magistratura stabilisce i criteri di legittimazione e di selezione per la copertura dell'organico degli uffici giudiziari di cui al primo periodo.
+Al fine della prima copertura del settantacinque per cento dell'organico del personale di magistratura del tribunale di Napoli nord e della procura della Repubblica presso il medesimo tribunale non e' richiesto il requisito del termine triennale di cui all'[articolo 194, primo comma, del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md). In ogni caso, il Consiglio superiore della magistratura stabilisce i criteri di legittimazione e di selezione per la copertura dell'organico degli uffici giudiziari di cui al primo periodo.
 
 ))
 
@@ -133,7 +133,7 @@ Con decreto del Ministro della giustizia, da adottarsi entro il 31 dicembre 2012
 
 1.
 
-Entro centottanta giorni dalla data di entrata in vigore del presente decreto, i magistrati titolari dei posti di presidente di tribunale, presidente di sezione, procuratore della Repubblica e procuratore aggiunto negli uffici destinati alla soppressione possono chiedere, in deroga al disposto dell'[articolo 194 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_194), l'assegnazione a posti vacanti pubblicati.
+Entro centottanta giorni dalla data di entrata in vigore del presente decreto, i magistrati titolari dei posti di presidente di tribunale, presidente di sezione, procuratore della Repubblica e procuratore aggiunto negli uffici destinati alla soppressione possono chiedere, in deroga al disposto dell'[articolo 194 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), l'assegnazione a posti vacanti pubblicati.
 
 2.
 
@@ -158,7 +158,7 @@ Le eventuali nuove destinazioni sono considerate come trasferimenti a domanda a 
 In deroga al disposto dell'[articolo 2, terzo comma, del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md), successivamente alla data di efficacia di cui all'articolo 11, comma 2, i magistrati titolari dei posti di presidente di tribunale, presidente di sezione, procuratore della Repubblica e procuratore aggiunto, in attesa di essere destinati ai nuovi incarichi o funzioni a norma dei commi 1 e 2, esercitano le funzioni di presidente di sezione o di procuratore aggiunto presso gli uffici cui sono state trasferite le funzioni degli uffici soppressi. I magistrati titolari dei posti soppressi di presidente di tribunale e di procuratore della Repubblica collaborano con il presidente del tribunale e con il procuratore della Repubblica per la risoluzione, in particolare, dei problemi di organizzazione degli uffici.
 
 Note all'art. 6: 
- - Per il testo dell'[articolo 194 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_194), dell'[articolo 13 della legge 2 aprile 1979, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-02;97#art_13) e dell'[articolo 2 del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md) si vedano le note all'articolo 5.
+ - Per il testo dell'[articolo 194 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), dell'[articolo 13 della legge 2 aprile 1979, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-02;97#art_13) e dell'[articolo 2 del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md) si vedano le note all'articolo 5.
 
 ## Art. 7. — Personale di polizia giudiziaria
 
@@ -228,7 +228,7 @@ L'istituzione del tribunale di Napoli nord non determina effetti sulla competenz
 
 3.
 
-Compatibilmente con l'organico del personale effettivamente in servizio e con la migliore organizzazione del lavoro, i capi degli uffici giudiziari di cui alla tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), cosi' come sostituita dall'articolo 2, assicurano che i procedimenti penali in relazione ai quali sia gia' stata dichiarata l'apertura del dibattimento proseguano dinanzi agli stessi giudici.
+Compatibilmente con l'organico del personale effettivamente in servizio e con la migliore organizzazione del lavoro, i capi degli uffici giudiziari di cui alla tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), cosi' come sostituita dall'articolo 2, assicurano che i procedimenti penali in relazione ai quali sia gia' stata dichiarata l'apertura del dibattimento proseguano dinanzi agli stessi giudici.
 
 4.
 

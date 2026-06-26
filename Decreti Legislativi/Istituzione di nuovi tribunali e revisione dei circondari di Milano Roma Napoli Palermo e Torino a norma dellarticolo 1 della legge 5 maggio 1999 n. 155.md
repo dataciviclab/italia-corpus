@@ -39,11 +39,11 @@ Nel distretto della corte di appello di Roma sono istituiti il tribunale ordinar
 
 2.
 
-Nel circondario del tribunale di Tivoli sono istituite la sezione distaccata di Palestrina, avente giurisdizione sul territorio dei comuni attualmente ricompresi, ai sensi della tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), nella sezione distaccata del tribunale di Roma, e la sezione distaccata di Castelnuovo di Porto, avente giurisdizione sul territorio dei comuni di Campagnano di Roma, Capena, Castelnuovo di Porto, Civitella San Paolo, Formello, Magliano Romano, Mazzano Romano, Monterotondo, Morlupo, Riano, Rignano Flaminio, Sacrofano, Sant'Oreste.
+Nel circondario del tribunale di Tivoli sono istituite la sezione distaccata di Palestrina, avente giurisdizione sul territorio dei comuni attualmente ricompresi, ai sensi della tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), nella sezione distaccata del tribunale di Roma, e la sezione distaccata di Castelnuovo di Porto, avente giurisdizione sul territorio dei comuni di Campagnano di Roma, Capena, Castelnuovo di Porto, Civitella San Paolo, Formello, Magliano Romano, Mazzano Romano, Monterotondo, Morlupo, Riano, Rignano Flaminio, Sacrofano, Sant'Oreste.
 
 3.
 
-Al circondario del tribunale di Velletri e' altresi' attribuito il territorio dei comuni attualmente ricompresi, ai sensi della tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), nella sezione distaccata di Frascati del tribunale di Roma; nel circondario del tribunale di Velletri e' altresi' istituita la sezione distaccata di Frascati, avente giurisdizione sul predetto territorio. Al circondario di Velletri e altresi' attribuito il territorio dei comuni di Ardea e di Pomezia.
+Al circondario del tribunale di Velletri e' altresi' attribuito il territorio dei comuni attualmente ricompresi, ai sensi della tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), nella sezione distaccata di Frascati del tribunale di Roma; nel circondario del tribunale di Velletri e' altresi' istituita la sezione distaccata di Frascati, avente giurisdizione sul predetto territorio. Al circondario di Velletri e altresi' attribuito il territorio dei comuni di Ardea e di Pomezia.
 
 4.
 
@@ -55,11 +55,11 @@ Nel circondario del tribunale di Rieti e istituita la sezione distaccata di Pogg
 
 6.
 
-Al circondario del tribunale di Civitavecchia e' altresi' attribuito il territorio dei comuni attualmente ricompresi, al sensi della tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), nella sezione distaccata di Bracciano del tribunale di Roma, nonche' il territorio del comune di Fiumicino.
+Al circondario del tribunale di Civitavecchia e' altresi' attribuito il territorio dei comuni attualmente ricompresi, al sensi della tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), nella sezione distaccata di Bracciano del tribunale di Roma, nonche' il territorio del comune di Fiumicino.
 
 7.
 
-Nel circondario del tribunale di Civitavecchia e' istituita la sezione distaccata di Bracciano, avente giurisdizione sul territorio attualmente individuato ai sensi della tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12).
+Nel circondario del tribunale di Civitavecchia e' istituita la sezione distaccata di Bracciano, avente giurisdizione sul territorio attualmente individuato ai sensi della tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md).
 
 8.
 
@@ -85,7 +85,7 @@ Avvertenza:
  - Si riporta il testo dell'[art. 1, comma 4, della legge 16 luglio 1997, n. 254](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20del%20giudice%20unico%20di%20primo%20grado.md):
  "4. Entro due anni dalla data di entrata in vigore di ciascuno dei decreti legislativi, il Governo puo' emanare disposizioni correttive nel rispetto dei criteri di cui al comma 1 e con la procedura di cui al comma 3".
  Nota all'art. 1:
- - La tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12) (Ordinamento giudiziario), prevede il numero delle sedi delle corti di appello, dei tribunali e delle preture della Repubblica.
+ - La tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) (Ordinamento giudiziario), prevede il numero delle sedi delle corti di appello, dei tribunali e delle preture della Repubblica.
 
 ### Art. 2. — Istituzione del tribunale ordinario di Giugliano in Campania e
 revisione del circondario dei tribunali compresi nel distretto della corte d'appello di Napoli.
@@ -96,7 +96,7 @@ Nel distretto della corte di appello di Napoli sono istituiti il tribunale ordin
 
 2.
 
-Nel circondario del tribunale di Giugliano in Campania sono istituite la sezione distaccata di Marano, avente giurisdizione sul territorio dei comuni di Calvizzano, Marano di Napoli, Melito di Napoli, Mugnano di Napoli, e la sezione distaccata di Pozzuoli, avente giurisdizione sul territorio dei comuni attualmente ricompresi, ai sensi della tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), nella sezione distaccata del tribunale di Napoli di Pozzuoli.
+Nel circondario del tribunale di Giugliano in Campania sono istituite la sezione distaccata di Marano, avente giurisdizione sul territorio dei comuni di Calvizzano, Marano di Napoli, Melito di Napoli, Mugnano di Napoli, e la sezione distaccata di Pozzuoli, avente giurisdizione sul territorio dei comuni attualmente ricompresi, ai sensi della tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), nella sezione distaccata del tribunale di Napoli di Pozzuoli.
 
 3.
 
@@ -169,10 +169,10 @@ Nota redazionale
 
 1.
 
-Il Ministro della giustizia apporta alle tabelle A e B allegate al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), le variazioni di cui al presente decreto.
+Il Ministro della giustizia apporta alle tabelle A e B allegate al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), le variazioni di cui al presente decreto.
 
 Nota all'art. 6:
- - La tabella B allegata al citato [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), individua la circoscrizione territoriale delle preture, distinta per corti di appello e per tribunali. Per quanto concerne la tabella A allegata al suddetto [regio decreto n. 12/1941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941;12), vedasi in nota all'art. 1.
+ - La tabella B allegata al citato [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), individua la circoscrizione territoriale delle preture, distinta per corti di appello e per tribunali. Per quanto concerne la tabella A allegata al suddetto [regio decreto n. 12/1941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941;12), vedasi in nota all'art. 1.
 
 ## Disposizioni relative al personale
 
@@ -210,14 +210,14 @@ Campania e delle procure della Repubblica presso i medesimi tribunali.
 
 1.
 
-Alla copertura dell'organico dei magistrati dei tribunali di Tivoli e di Giugliano in Campania e delle procure della Repubblica presso i medesimi tribunali, nonche' dei tribunali e delle procure della Repubblica il cui circondario e' modificato dal presente decreto, si provvede mediante le ordinarie procedure di trasferimento; l'assegnazione in atto, alla data di cui all'articolo 7, comma 5, anche se non in via esclusiva, alle sezioni distaccate di tribunale oggetto di revisione ai sensi del presente decreto costituisce titolo di preferenza assoluta per il tramutamento ai rispettivi circondari cui le stesse sono state attribuite. In tal caso non si applica l'[articolo 194 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_194).
+Alla copertura dell'organico dei magistrati dei tribunali di Tivoli e di Giugliano in Campania e delle procure della Repubblica presso i medesimi tribunali, nonche' dei tribunali e delle procure della Repubblica il cui circondario e' modificato dal presente decreto, si provvede mediante le ordinarie procedure di trasferimento; l'assegnazione in atto, alla data di cui all'articolo 7, comma 5, anche se non in via esclusiva, alle sezioni distaccate di tribunale oggetto di revisione ai sensi del presente decreto costituisce titolo di preferenza assoluta per il tramutamento ai rispettivi circondari cui le stesse sono state attribuite. In tal caso non si applica l'[articolo 194 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md).
 
 2.
 
 Alla copertura dell'organico del personale amministrativo dei tribunali di Tivoli e di Giugliano in Campania e delle procure della Repubblica presso i medesimi tribunali, dei tribunali e delle procure delle Repubblica oggetto della presente revisione, nonche' delle relative sezioni distaccate, si provvede, nei limiti della dotazione organica, mediante assegnazione del personale gia' in servizio negli stessi uffici giudiziari alla data di cui all'articolo 7, comma 5; quanto agli eventuali esuberi o carenze di organico, si provvede mediante le ordinarie procedure di trasferimento nel rispetto dei principi enunciati dal [decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
 
 Note all'art. 8:
- - Si trascrive il testo dell'art. 194 del citato [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12):
+ - Si trascrive il testo dell'art. 194 del citato [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md):
  "Art. 194 (Tramutamenti successivi). - Il magistrato destinato, per trasferimento o per conferimento di funzioni, ad una sede da lui chiesta, non puo' essere trasferito ad altre sedi o assegnato ad altre funzioni prima di tre anni dal giorno in cui ha assunto effettivo possesso dell'ufficio, salvo che ricorrano gravi motivi di salute ovvero gravi ragioni di servizio o di famiglia".
  - Il [decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), reca: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)".
 

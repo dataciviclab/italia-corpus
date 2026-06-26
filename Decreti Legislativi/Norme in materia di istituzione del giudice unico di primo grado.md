@@ -36,12 +36,12 @@ L'ufficio del pretore e' soppresso, fatta salva l'attivita' necessaria per l'esa
 
 2.
 
-Nel [primo comma dell'articolo 1 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_1-com1) e' soppressa la lettera b).
+Nel [primo comma dell'articolo 1 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' soppressa la lettera b).
 
 Avvertenza: 
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Nota all'art. 1: 
- - Il testo vigente dell'[art. 1 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_1) (Ordinamento giudiziario), come modificato dal presente decreto legislativo, e' il seguente: 
+ - Il testo vigente dell'[art. 1 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) (Ordinamento giudiziario), come modificato dal presente decreto legislativo, e' il seguente: 
  "Art. 1. - La giustizia, nelle materie civile e penale, e' amministrata: 
  a) dal giudice di pace; 
  c) dal tribunale ordinario; 
@@ -60,21 +60,21 @@ L'ufficio del pubblico ministero presso la pretura circondariale e' soppresso. L
 
 2.
 
-L'[articolo 2 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_2) e' sostituito dal seguente:
+L'[articolo 2 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' sostituito dal seguente:
  "Art. 2. (Del pubblico ministero). - Presso la corte di cassazione, le corti di appello, i tribunali ordinari e i tribunali per i minorenni e' costituito l'ufficio del pubblico ministero.".
 
 ### Art. 3.
 
 1.
 
-L'[articolo 3 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_3) e' cosi' modificato:
+L'[articolo 3 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' cosi' modificato:
                             a)
                                 nel primo comma, le parole ", pretura" sono soppresse;
                             b)
                                 nel secondo comma, le parole "Alle corti, ai tribunali ed alle preture" sono sostituite dalle parole "Alle corti e ai tribunali".
 
 Nota all'art. 3:
- - Il testo vigente dell'[art. 3 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_3) (Ordinamento giudiziario) come modificato dal presente decreto legislativo, e' il seguente:
+ - Il testo vigente dell'[art. 3 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) (Ordinamento giudiziario) come modificato dal presente decreto legislativo, e' il seguente:
  "Art. 3. - Ogni corte, tribunale ed ufficio di conciliazione ha una cancelleria ed ogni ufficio del pubblico ministero ha una segreteria. L'ufficio di cancelleria o di segreteria puo' essere costituito anche presso le sezioni distaccate di cui alla tabella B annessa al presente ordinamento.
  Alle corti e ai tribunali sono adetti ufficiali giudiziari, aiutanti ufficiali giudiziari e coadiutori degli uffici notificazioni, esecuzioni e protesti. Tale personale puo' essere addetto anche alle sezioni distaccate di cui alla tabella B annessa al presente ordinamento.
  Negli uffici di conciliazione le funzioni di ufficiale giudiziario sono esercitate nei modi indicati nell'art. 28.
@@ -84,14 +84,14 @@ Nota all'art. 3:
 
 1.
 
-L'[articolo 4 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_4) e' cosi' modificato:
+L'[articolo 4 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' cosi' modificato:
                             a)
                                 nel primo comma, le parole "delle preture," sono soppresse;
                             b)
                                 nel secondo comma, le parole "i vice pretori" sono sostituite dalle parole "i giudici onorari di tribunale".
 
 Nota all'art. 4:
- - Il testo vigente dell'[art. 4 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_4) (Ordinamento giudiziario), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
+ - Il testo vigente dell'[art. 4 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) (Ordinamento giudiziario), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
  "Art. 4. - L'ordine giudiziario e' costituto dagli uditori, dai giudici di ogni grado dei tribunali e delle corti e dai magistrati del pubblico Ministero.
  Appartengono all'ordine giudiziario come magistrati onorati i giudici conciliatori, i vice conciliatori, i giudici onorari di tribunale, i vice procuratori, gli esperti del tribunale ordinario e della sezione di corte di appello per i minorenni ed, inoltre, gli assessori della corte di assise e gli esperti della magistratura del lavoro nell'esercizio delle loro funzioni giudiziarie.
  Il personale delle cancellerie e segreterie giudiziarie di ogni gruppo e grado fa parte dell'ordine giudiziario.
@@ -101,11 +101,11 @@ Nota all'art. 4:
 
 1.
 
-Il [primo comma dell'articolo 7-bis del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_7bis-com1) e' sostituito dal seguente:
+Il [primo comma dell'articolo 7-bis del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' sostituito dal seguente:
  "La ripartizione degli uffici giudiziari di cui all'articolo 1 in sezioni, la destinazione dei singoli magistrati alle sezioni e alle corti di assise, l'assegnazione alle sezioni dei presidenti, la designazione dei magistrati che hanno la direzione di sezioni a norma dell'articolo 47-bis, secondo comma, l'attribuzione degli incarichi di cui agli articoli 47-ter, terzo comma, 47-quater, secondo comma, e 50-bis, il conferimento delle specifiche attribuzioni processuali individuate dalla legge e la formazione dei collegi giudicanti sono stabiliti ogni biennio con decreto del Ministro di grazia e giustizia in conformita' delle deliberazioni del Consiglio superiore della magistratura assunte sulle proposte dei presidenti delle corti di appello, sentiti i consigli giudiziari. Decorso il biennio, l'efficacia del decreto e' prorogata fino a che non sopravvenga un altro decreto.".
 
 Nota all'art. 5:
- - Il testo vigente dell'[art. 7-bis del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_7bis) (Ordinamento giudiziario), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
+ - Il testo vigente dell'[art. 7-bis del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) (Ordinamento giudiziario), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
  "Art. 7-bis. - 1. La ripartizione degli uffici giudiziari di cui all'art. 1 in sezioni, la destinazione dei singoli magistrati alle sezioni e alle corti di assise, l'assegnazione alle sezioni dei presidenti, la designazione dei magistrati che hanno la direzione di sezioni a norma dell'art. 47-bis, secondo comma, l'attribuzione degli incarichi di cui agli articoli 47-ter, terzo comma, 47-quater, secondo comma, e 50-bis, il conferimento delle specifiche attribuzioni processuali individuate dalla legge e la formazione dei collegi giudicanti sono stabiliti ogni biennio con decreto del Ministro di grazia e giustizia in conformita' delle deliberazioni del Consiglio superiore della magistratura assunte sulle proposte dei presidenti delle corti di appello, sentiti i consigli giudiziari.
  Decorso il biennio, l'efficacia del decreto e' prorogata fino a che non sopravvenga un altro decreto.
  2. Le deliberazioni di cui al comma 1 sono adottate dal Consiglio superiore della magistratura, valutate le eventuali osservazioni formulate dal Ministro di grazia e giustizia ai sensi dell'[art. 11 della legge 24 marzo 1958, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-24;195#art_11), e possono essere variate nel corso del biennio per sopravvenute esigenze degli uffici giudiziari, sulle proposte dei presidenti delle corti di appello, sentiti i consigli giudiziari. I provvedimenti in via di urgenza, concernenti le tabelle, adottati dai dirigenti degli uffici sulla assegnazione dei magistrati, sono immediatamente esecutivi, salva la deliberazione del Consiglio superiore della magistratura per la relativa variazione tabellare.
@@ -115,7 +115,7 @@ Nota all'art. 5:
 
 1.
 
-L'[articolo 7-ter del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_7ter) e' cosi' modificato:
+L'[articolo 7-ter del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' cosi' modificato:
                             a)
                                 il secondo periodo del primo comma e' sostituito dal seguente: "Nel determinare i criteri per l'assegnazione degli affari penali al giudice per le indagini preliminari, il Consiglio superiore della magistratura stabilisce la concentrazione, ove possibile, in capo allo stesso giudice dei provvedimenti relativi al medesimo procedimento e la designazione di un giudice diverso per lo svolgimento delle funzioni di giudice dell'udienza preliminare.";
                             b)
@@ -123,7 +123,7 @@ L'[articolo 7-ter del regio decreto 30 gennaio 1941, n. 12](https://www.normatti
  "Il Consiglio superiore della magistratura determina i criteri generali per l'organizzazione degli uffici del pubblico ministero e per l'eventuale ripartizione di essi in gruppi di lavoro.".
 
 Nota all'art. 6:
- - Il testo vigente dell'[art. 7-ter del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_7ter) (Ordinamento giudiziario), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
+ - Il testo vigente dell'[art. 7-ter del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) (Ordinamento giudiziario), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
  "Art. 7-ter. - 1. L'assegnazione degli affari penali e' operata, secondo criteri obiettivi e predeterminati indicati in via generale dal Consiglio superiore della magistratura ed approvati contestualmente alle tabelle degli uffici e con la medesima procedura, dal dirigente dell'ufficio alle singole sezioni e dal presidente della sezione ai singoli collegi e giudici. Nel determinare i criteri per l'assegnazione degli affari penali al giudice per le indagini preliminari, il Consiglio superiore della magistratura stabilisce la concentrazione, ove possibile, in capo allo stesso giudice dei provvedimenti relativi al medesimo procedimento e la designazione di un giudice diverso per lo svolgimento delle funzioni di giudice dell'udienza preliminare.
  Qualora il dirigente dell'ufficio o il presidente della sezione revochino la precedente assegnazione ad una sezione o ad un collegio o ad un giudice, copia del relativo provvedimento motivato viene comunicata al presidente della sezione e al magistrato interessato.
  2. Il Consiglio superiore della magistratura stabilisce altresi' i criteri per la sostituzione del giudice astenuto, ricusato o impedito.
@@ -133,10 +133,10 @@ Nota all'art. 6:
 
 1.
 
-Nell'[articolo 18 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_18) le parole "ed i magistrati delle preture," sono soppresse.
+Nell'[articolo 18 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) le parole "ed i magistrati delle preture," sono soppresse.
 
 Nota all'art. 7:
- - Il testo vigente dell'[art. 18 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_18) (Ordinamento giudiziario), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
+ - Il testo vigente dell'[art. 18 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) (Ordinamento giudiziario), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
  "Art. 18. - I magistrati giudicanti e requirenti delle corti di appello e dei tribunali ordinari, non possono appartenere ad uffici giudiziari nelle sedi nelle quali i loro parenti fino al secondo grado, o gli affini in primo grado, sono iscritti negli albi professionali di avvocato o di procuratore, ne', comunque, ad uffici giudiziari avanti i quali i loro parenti od affini nei gradi indicati esercitano abitualmente la professione di avvocato o di procuratore.".
 
 ## Disposizioni relative al tribunale ordinario
@@ -147,7 +147,7 @@ Capo II
 
 1.
 
-Dopo l'[articolo 42 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_42) sono inseriti i seguenti:
+Dopo l'[articolo 42 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) sono inseriti i seguenti:
  "Art. 42-bis. (Composizione dell'ufficio del tribunale ordinario).
 - Il tribunale ordinario e' diretto dal presidente del tribunale e ad esso sono addetti piu' giudici. Al tribunale ordinario possono essere addetti uno o piu' presidenti di sezione.
  Al tribunale ordinario possono essere addetti giudici onorari.
@@ -196,7 +196,7 @@ negli istituti superiori statali;
 
 1.
 
-L'[articolo 43 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_43) e' sostituito dal seguente:
+L'[articolo 43 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' sostituito dal seguente:
  "Art. 43. (Funzioni ed attribuzioni del tribunale ordinario). - Il tribunale ordinario:
  a) esercita la giurisdizione in primo grado e in appello, contro le sentenze pronunciate dal giudice di pace, in materia civile;
  b) esercita la giurisdizione in primo grado in materia penale;
@@ -207,7 +207,7 @@ L'[articolo 43 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.
 
 1.
 
-Dopo l'[articolo 43 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_43) e' inserito il seguente:
+Dopo l'[articolo 43 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' inserito il seguente:
  "Art. 43-bis. (Funzioni dei giudici ordinari ed onorari addetti al tribunale ordinario). - I giudici ordinari ed onorari svolgono presso il tribunale ordinario il lavoro giudiziario loro assegnato dal presidente del tribunale o, se il tribunale e' costituito in sezioni, dal presidente o altro magistrato che dirige la sezione.
  I giudici onorari di tribunale non possono tenere udienza se non nei casi di impedimento o di mancanza dei giudici ordinari.
  Nell'assegnazione prevista dal primo comma, e' seguito il criterio di non affidare ai giudici onorari:
@@ -218,7 +218,7 @@ Dopo l'[articolo 43 del regio decreto 30 gennaio 1941, n. 12](https://www.normat
 
 1.
 
-L'[articolo 46 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_46) e' sostituito dal seguente:
+L'[articolo 46 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' sostituito dal seguente:
  "Art. 46. (Costituzione delle sezioni). - Il tribunale ordinario puo' essere costituito in piu sezioni.
  Nei tribunali ordinari costituiti in sezioni sono biennalmente designate le sezioni alle quali sono devoluti, promiscuamente o separatamente, gli affari civili, gli affari penali e i giudizi in grado di appello, nonche', separatamente, le controversie in materia di lavoro e di previdenza e assistenza obbligatorie.
  In ogni tribunale ordinario costituito in sezioni e' istituita una sezione dei giudici incaricati dei provvedimenti previsti dal [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) per la fase delle indagini preliminari e per l'udienza preli-minare.
@@ -228,14 +228,14 @@ L'[articolo 46 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.
 
 1.
 
-L'[articolo 47 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_47) e' sostituito dal seguente:
+L'[articolo 47 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' sostituito dal seguente:
  "Art. 47. (Attribuzioni del presidente del tribunale). - Il presidente del tribunale dirige l'ufficio e, nei tribunali costituiti in sezioni, distribuisce il lavoro tra le sezioni, salvi i compiti del presidente di sezione. Esercita le altre funzioni che gli sono attribuite dalla legge nei modi da questa stabiliti.".
 
 ### Art. 13.
 
 1.
 
-Dopo l'[articolo 47 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_47) sono inseriti i seguenti:
+Dopo l'[articolo 47 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) sono inseriti i seguenti:
  "Art. 47-bis. (Direzione delle sezioni). - Nei tribunali costituiti in sezioni e nei quali sono istituiti posti di presidente di sezione, la direzione delle sezioni e' attribuita ad un presidente di sezione.
 Nei tribunali nei quali non sono istituiti posti di presidente di
 sezione, dell'organizzazione del lavoro della sezione e' incaricato il magistrato designato nelle tabelle formate ai sensi dell'articolo 7-bis.
@@ -253,7 +253,7 @@ sezione, dell'organizzazione del lavoro della sezione e' incaricato il magistrat
 
 1.
 
-L'[articolo 48 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_48) e' sostituito dal seguente:
+L'[articolo 48 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' sostituito dal seguente:
  "Art. 48. (Composizione dell'organo giudicante). - In materia civile e penale il tribunale giudica in composizione monocratica e, nei casi previsti dalla legge, in composizione collegiale.
  Sull'applicazione delle misure di prevenzione personali e patrimoniali il tribunale giudica sempre in composizione collegiale.
  Salve le disposizioni relative alla composizione delle sezioni specializzate, il tribunale, quando giudica in composizione collegiale, decide con il numero invariabile di tre componenti.".
@@ -262,7 +262,7 @@ L'[articolo 48 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.
 
 1.
 
-Dopo la sezione I del capo III del titolo II del [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12) e' inserita la seguente:
+Dopo la sezione I del capo III del titolo II del [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' inserita la seguente:
  "Sezione I-bis
  Delle sezioni distaccate di tribunale
  Art. 48-bis. (Sezioni distaccate del tribunale ordinario). - Nei comuni indicati nella tabella B annessa al presente ordinamento sono istituite sezioni distaccate del tribunale ordinario con la circoscrizione stabilita per ciascuna di esse.
@@ -281,14 +281,14 @@ Dopo la sezione I del capo III del titolo II del [regio decreto 30 gennaio 1941,
 
 1.
 
-La tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12) e' modificata, relativamente ai comuni compresi in ciascun circondario, dalla tabella A allegata al presente decreto.
+La tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' modificata, relativamente ai comuni compresi in ciascun circondario, dalla tabella A allegata al presente decreto.
 
 2.
 
-La tabella B allegata al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12) e' sostituita dalla tabella B allegata al presente decreto.
+La tabella B allegata al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' sostituita dalla tabella B allegata al presente decreto.
 
 Nota all'art. 16:
- - La tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12) (Ordinamento giudiziario) modificata dalla tabella A allegata al presente decreto, era relativa al numero delle sedi delle corti d'appello, dei tribunali e delle preture del Regno.
+ - La tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) (Ordinamento giudiziario) modificata dalla tabella A allegata al presente decreto, era relativa al numero delle sedi delle corti d'appello, dei tribunali e delle preture del Regno.
 
 ### Art. 17.
 
@@ -304,10 +304,10 @@ Capo III
 
 1.
 
-Nella [lettera a) del primo comma dell'articolo 53 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_53-com1-leta) le parole "e dai pretori in materia penale" sono soppresse.
+Nella [lettera a) del primo comma dell'articolo 53 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) le parole "e dai pretori in materia penale" sono soppresse.
 
 Nota all'art. 18:
- - Il testo vigente dell'[art. 53 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_53) (Ordinamento giudiziario), come modificato dal presente decreto legislativo, e' il seguente:
+ - Il testo vigente dell'[art. 53 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) (Ordinamento giudiziario), come modificato dal presente decreto legislativo, e' il seguente:
  "Art. 53. - La corte di appello:
  a) esercita la giurisdizione nelle cause di appello delle sentenze pronunciate in primo grado dai tribunali in materia civile e penale;
  b) esercita inoltre le funzioni a essa deferite dal [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) diverse da quelle del giudizio di appello avverso le sentenze pronunciate nel dibattimento di primo grado; delibera in camera di consiglio nei casi previsti dal [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443) e conosce degli altri affari ad essi deferiti dalle leggi.".
@@ -316,10 +316,10 @@ Nota all'art. 18:
 
 1.
 
-Nel [terzo comma dell'articolo 54 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_54-com3) le parole "la sezione che funziona da magistratura del lavoro" sono sostituite dalle parole "la sezione incaricata esclusivamente della trattazione delle controversie in materia di lavoro e di previdenza e assistenza obbligatorie".
+Nel [terzo comma dell'articolo 54 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) le parole "la sezione che funziona da magistratura del lavoro" sono sostituite dalle parole "la sezione incaricata esclusivamente della trattazione delle controversie in materia di lavoro e di previdenza e assistenza obbligatorie".
 
 Nota all'art. 19:
- - Il testo vigente dell'[art. 54 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_54) (Ordinamento giudiziario), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
+ - Il testo vigente dell'[art. 54 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) (Ordinamento giudiziario), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
  "Art. 54. - Nella formazione delle tabelle ai sensi dell'art. 7-bis sono designati i presidenti e i consiglieri che fanno parte di ciascuna sezione e i supplenti.
  Si osserva per le corti di appello il disposto dell'art. 46, in quanto applicabile.
  Sono altresi' designate le sezioni in funzione di corte di assise, la sezione incaricata esclusivamente della trattazione delle controversie in materia di lavoro e di previdenza e assistenza obbligatorie, la sezione per i minorenni ed eventualmente quella che funziona da tribunale regionale delle acque pubbliche.".
@@ -332,11 +332,11 @@ Capo IV
 
 1.
 
-Il [primo comma dell'articolo 70 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_70-com1) e' sostituito dal seguente:
+Il [primo comma dell'articolo 70 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' sostituito dal seguente:
  "Le funzioni del pubblico ministero sono esercitate dal procuratore generale presso la corte di cassazione, dai procuratori generali della Repubblica presso le corti di appello, dai procuratori della Repubblica presso i tribunali per i minorenni e dai procuratori della Repubblica presso i tribunali ordinari. Negli uffici delle procure della Repubblica presso i tribunali ordinari sono istituiti posti di procuratore aggiunto in numero non superiore a quello risultante dalla proporzione di un procuratore aggiunto per ogni quindici sostituti addetti all'ufficio.".
 
 Nota all'art. 20:
- - Il testo vigente dell'[art. 70 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_70) (Ordinamento giudiziario), come modificato dal presente decreto legislativo, e' il seguente:
+ - Il testo vigente dell'[art. 70 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) (Ordinamento giudiziario), come modificato dal presente decreto legislativo, e' il seguente:
  "Art. 70. - 1. Le funzioni del pubblico ministero sono esercitate dal procuratore generale presso la corte di cassazione, dai procuratori generali della Repubblica presso le corti di appello, dai procuratori della Repubblica presso i tribunali per i minorenni e dai procuratori della Repubblica presso i tribunali ordinari.
  Negli uffici delle procure della Repubblica presso i tribunali ordinari sono istituiti posti di procuratore aggiunto in numero non superiore a quello risultante dalla proporzione di un procuratore aggiunto per ogni quindici sostituti addetti all'ufficio.
  2. Presso le sezioni distaccate di corte di appello le funzioni del procuratore generale sono esercitate dall'avvocato generale, a norma dell'art. 59.
@@ -350,7 +350,7 @@ Nota all'art. 20:
 
 1.
 
-L'[articolo 71 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_71) e' sostituito dal seguente:
+L'[articolo 71 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' sostituito dal seguente:
  "Art. 71. (Nomina e funzioni dei magistrati onorari della procura della Repubblica presso il tribunale ordinario). - Alle procure della Repubblica presso i tribunali ordinari possono essere addetti magistrati onorari in qualita' di vice procuratori per l'espletamento delle funzioni indicate nell'articolo 72 e delle altre ad essi specificamente attribuite dalla legge.
  I vice procuratori onorari sono nominati con le modalita' previste per la nomina dei giudici onorari di tribunale. Ad essi si applicano le disposizioni di cui agli articoli 42-ter, 42-quater, 42-quinquies e 42-sexies.".
 
@@ -358,7 +358,7 @@ L'[articolo 71 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.
 
 1.
 
-Dopo l'[articolo 71 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_71) e' inserito il seguente:
+Dopo l'[articolo 71 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' inserito il seguente:
  "Art. 71-bis. (Esercizio delle funzioni di vice procuratore onorario presso la sola sede principale o sezione distaccata). - Il procuratore della Repubblica puo' stabilire che determinati vice procuratori onorari addetti al suo ufficio esercitino le funzioni del pubblico ministero soltanto presso la sede principale del tribunale o presso una o piu' sezioni distaccate, ovvero presso la sede principale e una o piu' sezioni distaccate.
  In tal caso, per i vice procuratori onorari che esercitano la professione forense l'incompatibilita' di cui all'articolo 42-quater, secondo comma, e' riferita unicamente all'ufficio o agli uffici presso i quali sono svolte le funzioni.".
 
@@ -366,7 +366,7 @@ Dopo l'[articolo 71 del regio decreto 30 gennaio 1941, n. 12](https://www.normat
 
 1.
 
-L'[articolo 72 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_72) e' sostituito dal seguente:
+L'[articolo 72 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' sostituito dal seguente:
  "Art. 72. (Delegati del procuratore della Repubblica presso il tribunale ordinario). - Nei procedimenti sui quali il tribunale giudica in composizione monocratica, le funzioni del pubblico ministero possono essere svolte, per delega nominativa del procuratore della Repubblica presso il tribunale ordinario:
  a) nell'udienza dibattimentale, da uditori giudiziari, da vice procuratori onorari addetti all'ufficio, da ufficiali di polizia giudiziaria diversi da coloro che hanno preso parte alle indagini preliminari o da laureati in giurisprudenza che frequentano il secondo anno della scuola biennale di specializzazione per le professioni legali di cui all'[articolo 16 del decreto legislativo 17 novembre 1997, n. 398](Modifica%20alla%20disciplina%20del%20concorso%20per%20uditore%20giudiziario%20e%20norme%20sulle%20scuole%20di%20specializzazione%20per%20le%20professioni%20legali%20a%20norma%20dellarticolo%2017%20commi%20113%20e%20114%20della%20legge%2015%20mag_3663dfbc15a6.md);
  b) nell'udienza di convalida dell'arresto o del fermo, da uditori giudiziari che abbiano compiuto un periodo di tirocinio di almeno sei mesi, nonche', limitatamente alla convalida dell'arresto nel giudizio direttissimo, da vice procuratori onorari addetti all'ufficio in servizio da almeno sei mesi;
@@ -380,10 +380,10 @@ L'[articolo 72 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.
 
 1.
 
-Nel [secondo comma dell'articolo 74 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_74-com2) le parole "delle corti, dei tribunali ordinari e delle preture" sono sostituite dalle parole "delle corti e dei tribunali ordinari".
+Nel [secondo comma dell'articolo 74 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) le parole "delle corti, dei tribunali ordinari e delle preture" sono sostituite dalle parole "delle corti e dei tribunali ordinari".
 
 Nota all'art. 24:
- - Il testo vigente dell'[art. 74 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_74) (Ordinamento giudiziario), come modificato dal presente decreto legislativo, e' il seguente:
+ - Il testo vigente dell'[art. 74 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) (Ordinamento giudiziario), come modificato dal presente decreto legislativo, e' il seguente:
  "Art. 74. - Il pubblico ministero inizia ed esercita l'azione penale.
  Un rappresentante del pubblico ministero interviene a tutte le udienze penali delle corti e dei tribunali ordinari. In mancanza del suo intervento, l'udienza non puo' aver luogo.
  Le attribuzioni del pubblico ministero negli atti preliminari del giudizio e nelle udienze della corte d'assise spettano al procuratore generale della Repubblica presso la corte d'appello, il quale le esercita personalmente o per mezzo di un altro magistrato addetto al suo ufficio.
@@ -398,10 +398,10 @@ Capo V
 
 1.
 
-Nel [secondo comma dell'articolo 90 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_90-com2) il secondo periodo e' soppresso.
+Nel [secondo comma dell'articolo 90 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) il secondo periodo e' soppresso.
 
 Nota all'art. 25:
- - Il testo vigente dell'[art. 90 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_90) (Ordinamento giudiziario), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
+ - Il testo vigente dell'[art. 90 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) (Ordinamento giudiziario), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
  "Art. 90. - I magistrati che esercitano funzioni giudiziarie hanno un periodo annuale di ferie di quarantacinque giorni.
  Per i magistrati della corte suprema di cassazione, delle corti di appello e dei tribunali ordinari nonche' per i magistrati addetti ai commissariati degli usi civici, ai tribunali ordinari delle acque pubbliche, il periodo e' fissato al principio di ogni anno con decreto ministeriale.".
 
@@ -409,10 +409,10 @@ Nota all'art. 25:
 
 1.
 
-Nel [primo comma dell'articolo 110 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_110-com1) le parole "alle preture circondariali," sono soppresse.
+Nel [primo comma dell'articolo 110 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) le parole "alle preture circondariali," sono soppresse.
 
 Nota all'art. 26:
- - Il testo vigente dell'[art. 110 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_110) (Ordinamento giudiziario), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
+ - Il testo vigente dell'[art. 110 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) (Ordinamento giudiziario), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
  "Art. 110. - 1. Possono essere applicati ai tribunali ordinari, ai tribunali per i minorenni e di sorveglianza, alle corti di appello, indipendentemente dalla integrale copertura del relativo organico, quando le esigenze di servizio in tali uffici sono imprescindibili e prevalenti, uno o piu' magistrati in servizio presso gli organi giudicanti del medesimo o di altro distretto; per gli stessi motivi possono essere applicati a tutti gli uffici del pubblico ministero di cui all'art. 70, comma 1, sostituti procuratori in servizio presso uffici di procura del medesimo o di altro distretto. I magistrati di tribunale possono essere applicati per svolgere funzioni, anche direttive, di magistrato di corte d'appello.
  2. La scelta dei magistrati da applicare e' operata secondo criteri obiettivi e predeterminati indicati in via generale dal Consiglio superiore della magistratura ed approvati contestualmente alle tabelle degli uffici e con la medesima procedura. L'applicazione e' disposta con decreto motivato, sentito il consiglio giudiziario, dal presidente della corte di appello per i magistrati in servizio presso organi giudicanti del medesimo distretto e dal procuratore generale presso la corte di appello per i magistrati in servizio presso uffici del pubblico ministero. Copia del decreto e' trasmessa al Consiglio superiore della magistratura e al Ministero di grazia e giustizia a norma dell'[art. 42 del decreto del Presidente della Repubblica 16 settembre 1958, n. 916](../DPR/Disposizioni%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%2024%20marzo%201958%20n.%20195%20concernente%20la%20costituzione%20e%20il%20funzionamento%20del%20Consiglio%20Superiore%20della%20Magistratura%20e%20disposizioni%20transitorie.md).
  3. Per i magistrati in servizio presso organi giudicanti o uffici del pubblico ministero di altro distretto l'applicazione e' disposta dal Consiglio superiore della magistratura, nel rispetto dei criteri obiettivi e predeterminati fissati in via generale ai sensi del comma 2, su richiesta motivata del Ministero di grazia e giustizia ovvero del presidente o, rispettivamente, del procuratore generale presso la corte di appello nel cui distretto ha sede l'organo o l'ufficio al quale si riferisce l'applicazione, sentito il consiglio giudiziario del distretto nel quale presta servizio il magistrato che dovrebbe essere applicato. L'applicazione e' disposta con preferenza per il distretto piu' vicino; deve essere sentito il presidente o il procuratore generale della corte di appello nel cui distretto il magistrato da applicare, scelto dal Consiglio superiore della magistratura, esercita le funzioni.
@@ -427,10 +427,10 @@ Nota all'art. 26:
 
 1.
 
-Nel [primo comma dell'articolo 129 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_129-com1) le parole "le preture," sono soppresse.
+Nel [primo comma dell'articolo 129 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) le parole "le preture," sono soppresse.
 
 Nota all'art. 27:
- - Il testo vigente dell'[art. 129 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_129) (Ordinamento giudiziario), come modificato dal presente decreto legislativo, e' il seguente:
+ - Il testo vigente dell'[art. 129 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) (Ordinamento giudiziario), come modificato dal presente decreto legislativo, e' il seguente:
  "Art. 129. - Gli uditori debbono compiere un periodo di tirocinio della durata di almeno due anni presso i tribunali e le procure della Repubblica, con opportuni avvicendamenti, e possono essere incaricati delle funzioni di vice-pretore e destinati alle preture, di cui all'art. 31, con giurisdizione piena, dopo almeno un anno di tirocinio, previo parere favorevole del consiglio giudiziario di cui all'art. 212 del presente ordinamento.
  Le norme per il tirocinio sono determinate dal Ministro di grazia e giustizia.".
 
@@ -438,7 +438,7 @@ Nota all'art. 27:
 
 1.
 
-L'[articolo 209 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_209) e' sostituito dal seguente:
+L'[articolo 209 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' sostituito dal seguente:
  "Art. 209. (Indennita' di missione per i magistrati addetti al tribunale ordinario). - Il trattamento economico di missione per i magistrati addetti al tribunale ordinario incaricati di esercitare funzioni fuori della ordinaria sede di servizio e' regolato dalle norme vigenti per gli impiegati dello Stato, in quanto non modificate da norme particolari sulle trasferte giudiziarie.
  L'autorizzazione a risiedere altrove, prevista dal primo comma dell'articolo 12, e' richiesta al presidente del tribunale, il quale provvede con decreto motivato, sentito il consiglio giudiziario.
 Copia del provvedimento e' rimessa al Consiglio superiore della magistratura e all'interessato. Contro il diniego dell'autorizzazione l'interessato puo' proporre reclamo al Consiglio superiore della magistratura.".
@@ -447,7 +447,7 @@ Copia del provvedimento e' rimessa al Consiglio superiore della magistratura e a
 
 1.
 
-Dopo l'[articolo 209 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_209) e' inserito il seguente:
+Dopo l'[articolo 209 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' inserito il seguente:
  "Art. 209-bis. (Determinazione della sede ordinaria di servizio). - Ai fini del trattamento economico di missione, si considera ordinaria sede di servizio la sede del tribunale o della sezione distaccata presso la quale il magistrato e' incaricato di esercitare le funzioni in via esclusiva.
  Per i magistrati incaricati di esercitare funzioni presso piu' sezioni distaccate del tribunale, ovvero presso una o piu' sezioni distaccate e presso la sede principale del tribunale, la sede ordinaria di servizio e' stabilita, anche ai fini dell'obbligo di residenza previsto dall'articolo 12, con la procedura tabellare disciplinata dall'articolo 7-bis.".
 
@@ -455,15 +455,15 @@ Dopo l'[articolo 209 del regio decreto 30 gennaio 1941, n. 12](https://www.norma
 
 1.
 
-Il capo II del titolo II del [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12) e' abrogato.
+Il capo II del titolo II del [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e' abrogato.
 
 2.
 
-Sono altresi' abrogati gli articoli 103 e 105 del medesimo [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12).
+Sono altresi' abrogati gli articoli 103 e 105 del medesimo [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md).
 
 Note all'art. 30:
- - Il capo II del titolo II del [regio-decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), revoca disposizioni relative al pretore.
- - Gli [articoli 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_103) e [105 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_105) (Ordinamento giudiziario), recavano rispettivamente, disposizioni relative alla sostituzione di magistrati nelle sezioni di pretura e supplenza nelle sezioni del tribunale ordinario.
+ - Il capo II del titolo II del [regio-decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), revoca disposizioni relative al pretore.
+ - Gli [articoli 103](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e [105 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) (Ordinamento giudiziario), recavano rispettivamente, disposizioni relative alla sostituzione di magistrati nelle sezioni di pretura e supplenza nelle sezioni del tribunale ordinario.
 
 ## Disposizioni in materia di corte d'assise
 
@@ -515,14 +515,14 @@ I magistrati gia' assegnati alle preture e alle procure della Repubblica presso 
 
 2.
 
-L'assegnazione prevista dal comma 1 non costituisce assegnazione ad altro ufficio giudiziario o destinazione ad altra sede ai sensi dell'[articolo 2, terzo comma, del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md), ne' costituisce trasferimento ad altri effetti e, in particolare, agli effetti previsti dall'[articolo 194 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_194) e dall'[articolo 13 della legge 2 aprile 1979, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-02;97#art_13), come sostituito dall'[articolo 6 della legge 19 febbraio 1981, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-02-19;27#art_6). Sono tuttavia fatti salvi i diritti attribuiti dalla [legge 18 dicembre 1973, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;836) e dalla [legge 26 luglio 1978, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-26;417), alle condizioni ivi stabilite, nel caso di fissazione della residenza in una sede di servizio diversa da quella precedente determinata dall'applicazione delle disposizioni del presente decreto.
+L'assegnazione prevista dal comma 1 non costituisce assegnazione ad altro ufficio giudiziario o destinazione ad altra sede ai sensi dell'[articolo 2, terzo comma, del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md), ne' costituisce trasferimento ad altri effetti e, in particolare, agli effetti previsti dall'[articolo 194 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e dall'[articolo 13 della legge 2 aprile 1979, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-02;97#art_13), come sostituito dall'[articolo 6 della legge 19 febbraio 1981, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-02-19;27#art_6). Sono tuttavia fatti salvi i diritti attribuiti dalla [legge 18 dicembre 1973, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;836) e dalla [legge 26 luglio 1978, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-26;417), alle condizioni ivi stabilite, nel caso di fissazione della residenza in una sede di servizio diversa da quella precedente determinata dall'applicazione delle disposizioni del presente decreto.
 
 Note all'art. 34:
  - Si riporta l'[art. 2, terzo comma, del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md) (Guarentigie della magistratura):
  "Art. 2 (Inamovibilita' della sede). - (Omissis).
  In caso di soppressione di un ufficio giudiziario, i magistrati che ne fanno parte, se non possono essere assegnati ad altro ufficio giudiziario nella stessa sede, sono destinati a posti vacanti del loro grado ad altra sede.
  (Omissis).".
- - Si riporta l'[art. 194 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_194) (Ordinamento giudiziario).
+ - Si riporta l'[art. 194 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) (Ordinamento giudiziario).
  "Art. 194. - Il magistrato destinato, per trasferimento o per conferimento di funzioni, ad una sede da lui chiesta, non puo' essere trasferito ad altre sedi o assegnato ad altre funzioni prima di quattro anni dal giorno in cui ha assunto effettivo possesso dell'ufficio, salvo che ricorrano gravi motivi di salute ovvero gravi ragioni di servizio. Il termine e' ridotto a due anni per la prima l'assegnazione di sede degli uditori giudiziari.".
  - Si trascrive l'[art. 13 della legge 2 aprile 1979, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-02;97#art_13) (Norme sullo stato giuridico dei magistrati e sul trattamento economico dei magistrati ordinari e amministrativi, dei magistrati della giustizia militare e degli avvocati dello Stato), cosi' come sostituito dall'[art. 6 della legge 19 febbraio 1981, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-02-19;27#art_6) (Provvidenze per il personale di magistratura):
  "Art. 13 (Indennita' di missione). - Le disposizioni di cui agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-12-06;1039#art_1) e [3 della legge 6 dicembre 1950, n. 1039](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-12-06;1039#art_3), si applicano agli uditori giudiziari destinati ad esercitare le funzioni giudiziarie.
@@ -539,13 +539,13 @@ I magistrati onorari, gia' addetti quali vice pretori e vice procuratori agli uf
 
 2.
 
-Le disposizioni di cui agli articoli 42-ter, 42-quater, primo e secondo comma, 42-quinquies e 71 del [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), come aggiunti o sostituiti dal presente decreto, si applicano ai predetti magistrati onorari alla scadenza del triennio in corso alla data di efficacia del presente decreto. ((9))
+Le disposizioni di cui agli articoli 42-ter, 42-quater, primo e secondo comma, 42-quinquies e 71 del [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), come aggiunti o sostituiti dal presente decreto, si applicano ai predetti magistrati onorari alla scadenza del triennio in corso alla data di efficacia del presente decreto. ((9))
 
 ---------------
 
 AGGIORNAMENTO (9)
 
-Il [D.L. 24 novembre 2000, n. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2000-11-24;341), convertito con modificazioni dalla [L. 19 gennaio 2001, n. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20novembre%202000%20n.%20341%20recante%20disposizioni%20urgenti%20per%20lefficacia%20e%20lefficienza%20dellAmministrazione%20della%20giustizia.md), ha disposto (con l'art. 22, comma 2-bis) che "In deroga a quanto previsto dall'[articolo 35 del decreto legislativo 19 febbraio 1998, n. 51](Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), le disposizioni in tema di incompatibilita' di cui all'[articolo 42-quater, secondo comma, del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_42quater-com2), hanno effetto per i giudici onorari di tribunale ed i vice procuratori onorari attualmente in servizio decorsi nove mesi dalla scadenza del triennio di nomina in corso".
+Il [D.L. 24 novembre 2000, n. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2000-11-24;341), convertito con modificazioni dalla [L. 19 gennaio 2001, n. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20novembre%202000%20n.%20341%20recante%20disposizioni%20urgenti%20per%20lefficacia%20e%20lefficienza%20dellAmministrazione%20della%20giustizia.md), ha disposto (con l'art. 22, comma 2-bis) che "In deroga a quanto previsto dall'[articolo 35 del decreto legislativo 19 febbraio 1998, n. 51](Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), le disposizioni in tema di incompatibilita' di cui all'[articolo 42-quater, secondo comma, del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), hanno effetto per i giudici onorari di tribunale ed i vice procuratori onorari attualmente in servizio decorsi nove mesi dalla scadenza del triennio di nomina in corso".
 
 ### Art. 36.
 
@@ -555,10 +555,10 @@ I magistrati delle preture e dei tribunali addetti, alla data di efficacia del p
 
 2.
 
-I magistrati indicati nel comma 1 possono chiedere il trasferimento a posti di organico della sezione lavoro della corte di appello del distretto in cui e' compreso l'ufficio di appartenenza anche in deroga alle disposizioni dell'[articolo 194 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_194).
+I magistrati indicati nel comma 1 possono chiedere il trasferimento a posti di organico della sezione lavoro della corte di appello del distretto in cui e' compreso l'ufficio di appartenenza anche in deroga alle disposizioni dell'[articolo 194 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md).
 
 Nota all'art. 36:
- - Per il testo dell'[art. 194 del regio-decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_194), vedi nota all'art. 34.
+ - Per il testo dell'[art. 194 del regio-decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), vedi nota all'art. 34.
 
 ### Art. 37.
 
@@ -568,7 +568,7 @@ In deroga al disposto dell'[articolo 2, terzo comma, del regio decreto legislati
 
 2.
 
-Entro un anno dalla data di efficacia delle disposizioni del presente decreto, i magistrati gia' titolari dei posti indicati nel comma 1 possono chiedere, in deroga al disposto dell'[articolo 194 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_194), l'assegnazione a posti vacanti pubblicati. Nell'assegnazione dei posti vacanti di presidente di tribunale ordinario, presidente di sezione di tribunale ordinario, procuratore della Repubblica e procuratore aggiunto della Repubblica presso il tribunale ordinario, sono particolarmente valutate le attitudini allo svolgimento di funzioni direttive dimostrate nell'esercizio delle precedenti funzioni.
+Entro un anno dalla data di efficacia delle disposizioni del presente decreto, i magistrati gia' titolari dei posti indicati nel comma 1 possono chiedere, in deroga al disposto dell'[articolo 194 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), l'assegnazione a posti vacanti pubblicati. Nell'assegnazione dei posti vacanti di presidente di tribunale ordinario, presidente di sezione di tribunale ordinario, procuratore della Repubblica e procuratore aggiunto della Repubblica presso il tribunale ordinario, sono particolarmente valutate le attitudini allo svolgimento di funzioni direttive dimostrate nell'esercizio delle precedenti funzioni.
 
 3.
 
@@ -592,7 +592,7 @@ Le eventuali nuove destinazioni sono considerate come trasferimenti a domanda a 
 
 6.
 
-In deroga all'[articolo 194 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_194), i magistrati indicati nel comma 1 possono chiedere di essere trasferiti ad altre sedi o assegnati ad altre funzioni:
+In deroga all'[articolo 194 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), i magistrati indicati nel comma 1 possono chiedere di essere trasferiti ad altre sedi o assegnati ad altre funzioni:
                             a)
                                 trascorsi due anni dal giorno dell'inizio effettivo dell'attivita' nell'ufficio al quale sono stati destinati, se assegnati a funzioni direttive a norma del comma 2;
                             b)
@@ -3302,7 +3302,7 @@ Nel comma 4 dell'articolo 162 delle norme di attuazione, di coordinamento e tran
 
 Nota all'art. 215:
  - Il testo vigente dell'art. 162 delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
- "Art. 162 (Delega delle funzioni di pubblico ministero in udienza dibattimentale). - 1. La delega prevista dall'[art. 72 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_72), e' conferita con atto scritto di cui e' fatta annotazione in apposito registro ed e' esibita in dibattimento.
+ "Art. 162 (Delega delle funzioni di pubblico ministero in udienza dibattimentale). - 1. La delega prevista dall'[art. 72 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e' conferita con atto scritto di cui e' fatta annotazione in apposito registro ed e' esibita in dibattimento.
  2. Nel caso di giudizio direttissimo, la delega puo' essere conferita anche per la partecipazione alla contestuale udienza di convalida.
  3. Quando si presenta la necessita' di prestare il consenso all'applicazione della pena su richiesta o al giudizio abbreviato ovvero si deve procedere a nuove contestazioni, il pubblico ministero delegato puo' procedere a consultazioni con il procuratore della Repubblica.
  4. Il giudice, nel caso previsto dal comma 3, puo' sospendere l'udienza per il tempo strettamente necessario.".
@@ -3921,21 +3921,21 @@ Il presente decreto legislativo entra in vigore il giorno successivo alla sua pu
 
 2.
 
-Le disposizioni previste dall'[articolo 48-ter del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_48ter), introdotto dall'articolo 15 del presente decreto, divengono efficaci (( decorsi due anni dalla data di entrata in vigore della legge di conversione del [decreto-legge 24 maggio 1999, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1999-05-24;145).
+Le disposizioni previste dall'[articolo 48-ter del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), introdotto dall'articolo 15 del presente decreto, divengono efficaci (( decorsi due anni dalla data di entrata in vigore della legge di conversione del [decreto-legge 24 maggio 1999, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1999-05-24;145).
 
 2-bis.
 
 Le disposizioni previste dai seguenti articoli divengono efficaci il 2 gennaio 2000:
                             a)
                                 [articoli 33-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_33bis) e [33-ter del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_33ter), introdotti dall'articolo 169 del presente decreto;
- c) articoli 42-quater, secondo comma, e 43-bis, terzo comma, lettera b), dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), introdotti rispettivamente dagli articoli 8 e 10 del presente decreto;
+ c) articoli 42-quater, secondo comma, e 43-bis, terzo comma, lettera b), dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), introdotti rispettivamente dagli articoli 8 e 10 del presente decreto;
  d) articolo 71, secondo comma, secondo periodo, dell'ordinamento giudiziario, approvato con il citato [regio decreto n. 12 del 1941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941;12), come sostituito dall'articolo 21 del presente decreto, limitatamente alla parte in cui estende ai vice procuratori onorari le incompatibilita' previste per i giudici onorari di tribunale dall'articolo 42-quater, secondo comma, dell'ordinamento giudiziario, approvato con il citato [regio decreto n. 12 del 1941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941;12);
  e) articolo 72, terzo comma, dell'ordinamento giudiziario, approvato con il citato [regio decreto n. 12 del 1941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941;12), come sostituito dall'articolo 23 del presente decreto;
  f) articoli 220, 221 e 222, comma 2, del presente decreto.
 
 2-ter.
 
-Sino al 2 gennaio 2000 il tribunale giudica in composizione collegiale sui reati gia' appartenenti alla competenza del tribunale in base alle disposizioni vigenti anteriormente alla data indicata nel comma 1, ed in composizione monocratica sui reati gia' appartenenti alla competenza del pretore in base alle medesime disposizioni. Sino alla stessa data del 2 gennaio 2000, nell'assegnazione degli affari ai giudici del tribunale ordinario, prevista dal primo comma del citato articolo 43-bis dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e' seguito il criterio di non affidare ai giudici onorari, nella materia penale, le funzioni di giudice per le indagini preliminari e di giudice dell'udienza preliminare, nonche' la trattazione di procedimenti relativi a reati non appartenenti alla competenza del pretore in base alle disposizioni vigenti anteriormente alla data indicata nel comma 1.))
+Sino al 2 gennaio 2000 il tribunale giudica in composizione collegiale sui reati gia' appartenenti alla competenza del tribunale in base alle disposizioni vigenti anteriormente alla data indicata nel comma 1, ed in composizione monocratica sui reati gia' appartenenti alla competenza del pretore in base alle medesime disposizioni. Sino alla stessa data del 2 gennaio 2000, nell'assegnazione degli affari ai giudici del tribunale ordinario, prevista dal primo comma del citato articolo 43-bis dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e' seguito il criterio di non affidare ai giudici onorari, nella materia penale, le funzioni di giudice per le indagini preliminari e di giudice dell'udienza preliminare, nonche' la trattazione di procedimenti relativi a reati non appartenenti alla competenza del pretore in base alle disposizioni vigenti anteriormente alla data indicata nel comma 1.))
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana.
 

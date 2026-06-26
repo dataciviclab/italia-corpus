@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [legge 30 luglio 2007, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-07-30;111), recante modifiche alle norme sull'ordinamento giudiziario, in particolare l'articolo 7 che conferisce delega al Governo per l'adozione di uno o piu' decreti legislativi per il coordinamento delle norme che costituiscono l'ordinamento giudiziario e per l'abrogazione espressa delle disposizioni ritenute non piu' vigenti;
 
-Visto il [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), recante norme sull'ordinamento giudiziario e successive modificazioni;
+Visto il [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), recante norme sull'ordinamento giudiziario e successive modificazioni;
 
 Visto il [decreto legislativo 27 gennaio 2006, n. 25](Istituzione%20del%20Consiglio%20direttivo%20della%20Corte%20di%20cassazione%20e%20nuova%20disciplina%20dei%20consigli%20giudiziari%20a%20norma%20dellarticolo%201%20comma%201%20lettera%20c%20della%20legge%2025%20luglio%202005%20n.%20150.md), recante norme sulla istituzione del Consiglio direttivo della Corte di cassazione e nuova disciplina dei Consigli giudiziari, a norma dell'[articolo 1, comma 1, lettera c), della legge 25 luglio 2005, n. 150](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20dellordinamento%20giudiziario%20di%20cui%20al%20regio%20decreto%2030%20gennaio%201941%20n.%2012%20per%20il%20decentramento%20del%20Ministero%20della%20giustizia%20per%20la%20modifica%20della%20discipl_dc4dbf127a4e.md), e successive modificazioni;
 

@@ -278,7 +278,7 @@ La [L. 2 dicembre 1998, n. 420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 1.
 
-I procedimenti in cui assume la qualita' di persona sottoposta ad indagini, di imputato ovvero di persona offesa o danneggiata dal reato un magistrato addetto alla Direzione nazionale antimafia di cui all'articolo 76- bis dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e successive modificazioni, sono di competenza del giudice determinato ai sensi dell'articolo 11)).
+I procedimenti in cui assume la qualita' di persona sottoposta ad indagini, di imputato ovvero di persona offesa o danneggiata dal reato un magistrato addetto alla Direzione nazionale antimafia di cui all'articolo 76- bis dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e successive modificazioni, sono di competenza del giudice determinato ai sensi dell'articolo 11)).
 
 ## Sezione IV Competenza per connessione
 
@@ -12338,7 +12338,7 @@ La Corte costituzionale, con sentenza 19-23 maggio 2003 n. 169 (in G.U. 1a s.s. 
 
 AGGIORNAMENTO (211)
 
-La Corte Costituzionale, con sentenza 12 - 22 gennaio 2015, n. 1 (in G.U. 1a s.s. 28/01/2015, n. 1), ha dichiarato "l'illegittimita' costituzionale dell'[art. 458 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_458) e dell'[art. 1, comma 1, del decreto del Presidente della Repubblica 22 settembre 1988, n. 448](../DPR/Approvazione%20delle%20disposizioni%20sul%20processo%20penale%20a%20carico%20di%20imputati%20minorenni.md) (Approvazione delle disposizioni sul processo penale a carico di imputati minorenni), nella parte in cui prevedono che, nel processo minorile, nel caso di giudizio abbreviato richiesto dall'imputato in seguito a un decreto di giudizio immediato, la composizione dell'organo giudicante sia quella monocratica del giudice per le indagini preliminari e non quella collegiale prevista dall'[art. 50-bis, comma 2, del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_50bis-com2) (Ordinamento giudiziario)".
+La Corte Costituzionale, con sentenza 12 - 22 gennaio 2015, n. 1 (in G.U. 1a s.s. 28/01/2015, n. 1), ha dichiarato "l'illegittimita' costituzionale dell'[art. 458 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_458) e dell'[art. 1, comma 1, del decreto del Presidente della Repubblica 22 settembre 1988, n. 448](../DPR/Approvazione%20delle%20disposizioni%20sul%20processo%20penale%20a%20carico%20di%20imputati%20minorenni.md) (Approvazione delle disposizioni sul processo penale a carico di imputati minorenni), nella parte in cui prevedono che, nel processo minorile, nel caso di giudizio abbreviato richiesto dall'imputato in seguito a un decreto di giudizio immediato, la composizione dell'organo giudicante sia quella monocratica del giudice per le indagini preliminari e non quella collegiale prevista dall'[art. 50-bis, comma 2, del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) (Ordinamento giudiziario)".
 
 ### Art. 458-bis. — (( (Richiesta di applicazione della pena). ))
 

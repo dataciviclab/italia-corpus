@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'[articolo 17, comma 113, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_17-com113), recante misure urgenti per lo snellimento dell'attivita' amministrativa e dei procedimenti di decisione e di controllo, che prevede la delega al Governo per la emanazione di uno o piu' decreti legislativi per modificare la disciplina del concorso per l'accesso alla magistratura ordinaria, semplificando le modalita' di svolgimento del concorso medesimo;
 
-Visto il [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12);
+Visto il [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md);
 
 Visto il [regio decreto 15 ottobre 1925, n. 1860](../Regi%20decreti/Modificazioni%20al%20regolamento%20per%20il%20concorso%20di%20ammissione%20in%20magistratura%20contenuto%20nel%20R.%20decreto%2019%20luglio%201924%20n.%201218.%20025U1860.md);
 
@@ -34,7 +34,7 @@ Art 1.
 
 Concorso per uditore giudiziario
 
-1. L'articolo 123 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e' sostituito dal seguente:
+1. L'articolo 123 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e' sostituito dal seguente:
 
 "Art. 123 (Concorso per uditore giudiziario). - 1. La nomina ad uditore giudiziario si consegue mediante concorso per esame.
 
@@ -59,7 +59,7 @@ Capo I
 IL PRESIDENTE DELLA REPUBBLICA
  Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
  Visto l'[articolo 17, comma 113, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_17-com113), recante misure urgenti per lo snellimento dell'attivita' amministrativa e dei procedimenti di decisione e di controllo, che prevede la delega al Governo per la emanazione di uno o piu' decreti legislativi per modificare la disciplina del concorso per l'accesso alla magistratura ordinaria, semplificando le modalita' di svolgimento del concorso medesimo;
- Visto il [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12);
+ Visto il [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md);
  Visto il [regio decreto 15 ottobre 1925, n. 1860](../Regi%20decreti/Modificazioni%20al%20regolamento%20per%20il%20concorso%20di%20ammissione%20in%20magistratura%20contenuto%20nel%20R.%20decreto%2019%20luglio%201924%20n.%201218.%20025U1860.md);
  Vista la deliberazione preliminare del Consiglio dei Ministri adottata nella riunione del 5 agosto 1997;
  Acquisiti i pareri delle competenti commissioni permanenti della Camera dei deputati e del Senato della Repubblica;
@@ -70,7 +70,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Art 1.
  Concorso per uditore giudiziario
 
- 1. L'articolo 123 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e' sostituito dal seguente:
+ 1. L'articolo 123 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e' sostituito dal seguente:
  "Art. 123 (Concorso per uditore giudiziario). - 1. La nomina ad uditore giudiziario si consegue mediante concorso per esame.
  2. L'esame consiste:
  a) nella prova preliminare, disciplinata dall'articolo 123-bis, per i candidati che non sono in possesso del diploma di specializzazione di cui all'[articolo 17, comma 113, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_17-com113);
@@ -84,7 +84,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 1.
 
-Dopo l'articolo 123 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e' inserito il seguente:
+Dopo l'articolo 123 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e' inserito il seguente:
  "Art. 123-bis (Prova preliminare) . - 1. La prova preliminare e' diretta ad accertare il possesso del requisiti culturali, ed e' realizzata con l'ausilio di sistemi informatizzati.
  2. La prova preliminare ha luogo in sedi decentrate anche per gruppi di candidati divisi per lettera da individuarsi, per ogni concorso, con decreto del Ministro di grazia e giustizia. Essa verte sulle materie oggetto della prova scritta del concorso e consiste in una serie di domande, formulate ed assegnate con le modalita' stabilite dal regolamento di cui all'articolo 123-quinques, alle quali il candidato risponde scegliendo una delle risposte prefissate.
 Le domande sono predisposte con esclusivo riguardo ai testi normativi, escluso ogni riferimento ad argomenti ed orientamenti giurisprudenziali e dottrinali. Ad ogni candidato e' assegnato un ugual numero di domande.
@@ -101,7 +101,7 @@ Le domande sono predisposte con esclusivo riguardo ai testi normativi, escluso o
 
 1.
 
-Dopo l'articolo 123-bis dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), aggiunto con l'articolo 2 del presente decreto legislativo, e' inserito il seguente:
+Dopo l'articolo 123-bis dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), aggiunto con l'articolo 2 del presente decreto legislativo, e' inserito il seguente:
  "Art. 123-ter (Prove concorsuali) . - 1. La prova scritta verte su ciascuna delle seguenti materie:
  a) diritto civile;
  b) diritto penale;
@@ -123,7 +123,7 @@ Conseguono la idoneita' i candidati che ottengono non meno di 6 / 10 in ciascuna
 
 1.
 
-Dopo l'articolo 123-ter dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), aggiunto dall'articolo 3 del presente decreto legislativo, e' inserito il seguente:
+Dopo l'articolo 123-ter dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), aggiunto dall'articolo 3 del presente decreto legislativo, e' inserito il seguente:
  "Art. 123-quater (Commissione permanente per la tenuta dell'archivio dei quesiti della prova preliminare). - 1. Presso il Ministero di grazia e giustizia e' istituita la commissione permanente per la creazione e l'aggiornamento dell'archivio informatico delle domande per la prova preliminare.
  2. La commissione e' nominata dal Ministro di grazia e giustizia ed e' composta da cinque magistrati, anche cessati dal servizio, di cui tre, tra i quali il presidente, designati dal Consiglio superiore della magistratura. La commissione si avvale delle strutture del centro elettronico di documentazione presso la Corte di cassazione.
  3. La commissione dura in carica tre anni. La nomina dei singoli componenti e' rinnovabile per un periodo di eguale durata.
@@ -134,7 +134,7 @@ Dopo l'articolo 123-ter dell'ordinamento giudiziario, approvato con [regio decre
 
 1.
 
-Dopo l'articolo 123-quater dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), introdotto dall'articolo 4 del presente decreto legislativo, e' inserito il seguente:
+Dopo l'articolo 123-quater dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), introdotto dall'articolo 4 del presente decreto legislativo, e' inserito il seguente:
  "Art. 123-quinquies (Regolamento per lo svolgimento della prova preliminare). - 1. Con regolamento del Ministro di grazia e giustizia, da adottarsi ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), sentito il Consiglio superiore della magistratura, sono determinati le caratteristiche ed il contenuto dell'archivio delle domande della prova preliminare, i metodi per l'assegnazione delle domande ai candidati, il conferimento dei punteggi e le modalita' di formazione della graduatoria, le caratteristiche dei sistemi informativi e dei relativi elaborati e quant'altro attiene all'esecuzione della prova preliminare ed alla conservazione, gestione ed aggiornamento dell'archivio.
  2. Il parere del Consiglio superiore della magistratura e' reso entro trenta giorni dalla richiesta. Decorso tale termine il Ministro di grazia giustizia adotta, comunque, il regolamento di cui al comma 1.
  3. Nell'emanazione del regolamento di cui al comma 1, il Ministro di grazia e giustizia si attiene ai seguenti criteri:
@@ -153,21 +153,21 @@ Dopo l'articolo 123-quater dell'ordinamento giudiziario, approvato con [regio de
 
 1.
 
-Il primo comma dell'articolo 124 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e' sostituito dai seguenti:
+Il primo comma dell'articolo 124 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e' sostituito dai seguenti:
  "Al concorso sono ammessi i laureati in giurisprudenza in possesso, relativamente agli iscritti al relativo corso di laurea a decorrere dall'anno accademico 1998/1999, del diploma di specializzazione rilasciato da una delle scuole di cui all'[articolo 17, comma 114, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_17-com114), che, alla data della pubblicazione del bando di concorso, risultino di eta' non inferiore agli anni ventuno e non superiore ai quaranta, soddisfino alle condizioni previste dall'articolo 8 del presente ordinamento ed abbiano gli altri requisiti richiesti dalle leggi vigenti.
  Il Ministro dell'universita' e della ricerca scientifica e tecnologica, con le disposizioni attuative della programmazione universitaria e del diritto allo studio, assicura l'uniforme distribuzione sul territorio nazionale delle scuole di cui al primo comma e la previsione di adeguati sostegni economici agli iscritti capaci, meritevoli e privi di mezzi.
  Se le domande di partecipazione al concorso presentate dai candidati di cui al secondo comma sono inferiori a cinque volte il numero dei posti per i quali il concorso e' bandito, sono altresi' ammessi, previo superamento della prova preliminare di cui all'articolo 123- bis ed in misura pari al numero necessario per raggiungere il rapporto anzidetto, anche i candidati in possesso della sola laurea in giurisprudenza.".
 
 2.
 
-Il quinto comma dell'articolo 124 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e' sostituito dal seguente:
+Il quinto comma dell'articolo 124 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e' sostituito dal seguente:
  "Il Consiglio superiore della magistratura non ammette al concorso i candidati che, per le informazioni raccolte non risultano di condotta incensurabile ed i cui parenti, in linea retta entro il primo grado ed in linea collaterale entro il secondo, hanno riportato condanne per taluno dei delitti di cui all'articolo 407, comma 2, lettera a), dcl [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447). Qualora non si provveda alla ammissione con riserva, il provvedimento di esclusione e' comunicato agli interessati almeno trenta giorni prima dello svolgimento della prova scritta.".
 
 ### Art. 7. — Indizione del concorso
 
 1.
 
-L'articolo 125 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), come modificato dall'[articolo 2 della legge 17 novembre 1978, n. 746](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-11-17;746#art_2), e' sostituito dal seguente:
+L'articolo 125 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), come modificato dall'[articolo 2 della legge 17 novembre 1978, n. 746](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-11-17;746#art_2), e' sostituito dal seguente:
  "Art. 125 (Indizione del concorso). - 1. Salvo quanto previsto dall'[articolo 3 della legge 3 febbraio 1949, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-02-03;26#art_3), il concorso ha luogo in Roma, di regola una volta l'anno, in relazione ai posti vacanti nell'organico della magistratura.
  2. Nella determinazione dei posti da mettere al concorso puo' tenersi conto, oltre che dei posti gia' disponibili, anche di quelli che si renderanno vacanti entro l'anno in cui e' indetto il concorso e nei cinque anni successivi, aumentati del trentacinque per cento.
  3. Il concorso e' bandito con decreto del Ministro di grazia e giustizia, previa delibera del Consiglio superiore della magistratura, che determina il numero dei posti, il luogo ed il giorno di svolgimento della prova preliminare e della prova scritta.".
@@ -176,7 +176,7 @@ L'articolo 125 dell'ordinamento giudiziario, approvato con [regio decreto 30 gen
 
 1.
 
-Dopo l'articolo 125 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e' aggiunto il seguente:
+Dopo l'articolo 125 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e' aggiunto il seguente:
  "Art. 125-bis (Presentazione della domanda). - 1. La domanda di partecipazione al concorso per uditore giudiziario, indirizzata al Consiglio superiore della magistratura, e' presentata o spedita, a mezzo raccomandata, entro il termine di trenta giorni decorrente dalla pubblicazione del decreto di indizione nella Gazzetta Ufficiale, al procuratore della Repubblica presso il tribunale nel cui circondario il candidato e' residente.
  2. Non sono ammessi a partecipare al concorso i candidati le cui domande non rispettano il termine di cui al comma 1.
  3. I candidati aventi dimora fuori del territorio dello Stato possono presentare la domanda alla autorita' consolare competente o al procuratore della Repubblica di Roma.".
@@ -185,7 +185,7 @@ Dopo l'articolo 125 dell'ordinamento giudiziario, approvato con [regio decreto 3
 
 1.
 
-Dopo l'articolo l25-bis dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), inserito dall'articolo 1 del presente decreto legislativo, e' aggiunto il seguente:
+Dopo l'articolo l25-bis dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), inserito dall'articolo 1 del presente decreto legislativo, e' aggiunto il seguente:
  "Art. 125-ter (Commissione esaminatrice). - 1. La commissione esaminatrice e' nominata con decreto del Ministro di grazia e giustizia, previa delibera del Consiglio superiore della magistratura, ed e' composta da un magistrato di cassazione dichiarato idoneo ad essere ulteriormente valutato ai fini della nomina alle funzioni direttive superiori, con funzioni di legittimita', che la presiede, da un magistrato di qualifica non inferiore a quella di dichiarato idoneo ad essere ulteriormente valutato ai fini della nomina a magistrato di cassazione con funzioni di vicepresidente, da quindici magistrati con qualifica non inferiore a quella di magistrato di appello, nonche' da otto docenti universitari. Non puo' essere nominato componente che ha fatto parte della commissione esaminatrice in uno dei due concorsi precedentemente banditi.
  2. Il presidente della commissione e gli altri componenti appartenenti alla magistratura possono essere nominati anche tra i magistrati a riposo da non piu' di tre anni, che, all'atto della nomina, non hanno superato i settantatre anni di eta' e che, all'atto della cessazione dal servizio, rivestivano la qualifica richiesta per la nomina.
  3. Il presidente della commissione puo' essere sostituito dal vice presidente o dal piu' anziano dei magistrati presenti.
@@ -199,7 +199,7 @@ Dopo l'articolo l25-bis dell'ordinamento giudiziario, approvato con [regio decre
 
 1.
 
-Dopo l'articolo 125-ter dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), inserito dall'articolo 6 del presente decreto legislativo, e' aggiunto il seguente:
+Dopo l'articolo 125-ter dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), inserito dall'articolo 6 del presente decreto legislativo, e' aggiunto il seguente:
  "Art. 125-quater (Lavori della commissione). - 1. La commissione esammatrice, durante la valutazione degli elaborati scritti e durante le prove orali, articola i propri lavori in ragione di dieci sedute alla settimana, delle quali cinque antimeridiane e cinque pomeridiane, salvo assoluta impossibilita' della commissione stessa.
  2. I componenti della commissione esaminatrice fruiscono del congedo ordinario nel periodo compreso tra la pubblicazione dei risultati delle prove scritte e l'inizio delle prove orali.
 L'eventuale residuo periodo di congedo ordinario puo' essere goduto durante lo svolgimento della procedura concorsuale, purche' sia assicurata la continuita' dei lavori, secondo le modalita' stabilite dal comma 1.
@@ -209,14 +209,14 @@ L'eventuale residuo periodo di congedo ordinario puo' essere goduto durante lo s
 
 1.
 
-Dopo l'articolo 126 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e' aggiunto il seguente:
+Dopo l'articolo 126 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e' aggiunto il seguente:
  "Art. 126-bis (Esclusione dai concorsi) . - 1. Il Consiglio superiore della magistratura, sentito l'interessato, puo' escludere da uno o piu' successivi concorsi chi, durante lo svolgimento delle prove scritte di un concorso, e' stato espulso per comportamenti fraudolenti, diretti ad acquisire o ad utilizzare informazioni non consentite, o per comportamenti violenti che comunque abbiano turbato le operazioni del concorso.".
 
 ### Art. 12. — Titoli di preferenza
 
 1.
 
-Il terzo comma dell'articolo 127 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e' sostituito dai seguenti:
+Il terzo comma dell'articolo 127 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e' sostituito dai seguenti:
  "I documenti comprovanti il possesso di titoli di preferenza, a parita' di punteggio, ai fini della nomina sono presentati, a pena di decadenza, entro il giorno di svolgimento della prova orale.
  Entro cinque giorni dall'ultima seduta delle prove orali del concorso per uditore giudiziario il Ministro di grazia e giustizia ha facolta' di richiedere al Consiglio superiore della magistratura di assegnare ai concorrenti risultati idonei, secondo l'ordine della graduatoria, ulteriori posti disponibili o che si renderanno tali entro sei mesi dall'approvazione della graduatoria medesima nel limite massimo di un decimo dei posti messi a concorso. Il Consiglio superiore della magistratura provvede entro un mese dalla richiesta.
  Sono nominati uditori giudiziari, con decreto ministeriale, i primi classificati entro il limite dei posti messi a concorso e di quelli aumentati ai sensi del comma che precede.".
@@ -255,7 +255,7 @@ La commissione delibera su ogni oggetto eccedente la competenza delle sottocommi
 
 1.
 
-Le autorita' alle quali sono trasmesse richieste di informazioni ai sensi dell'[articolo 124, comma quinto, del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_124-com5), sono tenute a fornirle entro trenta giorni.
+Le autorita' alle quali sono trasmesse richieste di informazioni ai sensi dell'[articolo 124, comma quinto, del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), sono tenute a fornirle entro trenta giorni.
 
 ## Scuola di specializzazione per le professioni legali
 
@@ -346,7 +346,7 @@ Sono abrogate le norme incompatibili con il presente decreto legislativo ed in p
 
 1.
 
-Fermo restando quanto previsto dalle norme vigenti, al concorso per uditore giudiziario riservato per la provincia autonoma di Bolzano, non si applicano i seguenti articoli: ((...)) 124, commi primo, secondo e terzo, 125, 125-ter e 125-quater del [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), ((...)). ((Al concorso sono ammessi i laureati in giurisprudenza che, alla data di scadenza del termine per la presentazione della domanda, risultino di eta' non inferiore agli anni ventuno e non superiore ai quaranta, soddisfino alle condizioni previste dall'articolo 8 del regio decreto 30 gennaio 1941, n. 12, ed abbiano gli altri requisiti richiesti dalle leggi vigenti)).
+Fermo restando quanto previsto dalle norme vigenti, al concorso per uditore giudiziario riservato per la provincia autonoma di Bolzano, non si applicano i seguenti articoli: ((...)) 124, commi primo, secondo e terzo, 125, 125-ter e 125-quater del [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), ((...)). ((Al concorso sono ammessi i laureati in giurisprudenza che, alla data di scadenza del termine per la presentazione della domanda, risultino di eta' non inferiore agli anni ventuno e non superiore ai quaranta, soddisfino alle condizioni previste dall'articolo 8 del regio decreto 30 gennaio 1941, n. 12, ed abbiano gli altri requisiti richiesti dalle leggi vigenti)).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

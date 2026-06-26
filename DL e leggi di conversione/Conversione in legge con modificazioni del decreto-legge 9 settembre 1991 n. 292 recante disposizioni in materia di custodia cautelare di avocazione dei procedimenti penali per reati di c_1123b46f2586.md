@@ -33,14 +33,14 @@ AVVERTENZA:
 
 1.
 
-All'articolo 194, comma 1, dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), come sostituito dall'[articolo 2 della legge 16 ottobre 1991, n. 321](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-16;321#art_2), sono soppresse le parole: "od accettata".
+All'articolo 194, comma 1, dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), come sostituito dall'[articolo 2 della legge 16 ottobre 1991, n. 321](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-16;321#art_2), sono soppresse le parole: "od accettata".
 
 ## Art. 3.
 
 1.
 
 L'[articolo 3 della legge 16 ottobre 1991, n. 321](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-16;321#art_3), e' sostituito dal seguente:
- "Art. 3. - 1. Il Consiglio superiore della magistratura, sentito il Ministro di grazia e giustizia, individua annualmente le sedi non richieste tra quelle rimaste vacanti per difetto di aspiranti dopo due successive pubblicazioni disposte a norma dell'articolo 192 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12).
+ "Art. 3. - 1. Il Consiglio superiore della magistratura, sentito il Ministro di grazia e giustizia, individua annualmente le sedi non richieste tra quelle rimaste vacanti per difetto di aspiranti dopo due successive pubblicazioni disposte a norma dell'articolo 192 dell'ordinamento giudiziario, approvato con [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md).
  2. Entro il 31 gennaio di ciascun anno, il Consiglio superiore della magistratura pubblica un elenco delle sedi non richieste indi- cate nel comma 1 e di cui ritiene urgente la copertura.
  3. I magistrati che sono destinati a domanda ad una delle sedi comprese nell'elenco di cui al comma 2 hanno diritto, alla scadenza del termine indicato dall'articolo 194 del citato ordinamento giudiziario, come sostituito dall'articolo 2 della presente legge, ad essere trasferiti od assegnati nelle sedi richieste, escluso il conferimento di uffici direttivi e di funzioni di grado superiore rispetto a quelle in precedenza esercitate, con precedenza rispetto a qualsiasi aspirante, e nei limiti delle vacanze disponibili.
  4. La disposizione di cui al comma 3 si applica altresi' agli uditori giudiziari che, assegnati a sedi comprese nell'elenco di cui al comma 2, vi prestano servizio per almeno quattro anni".

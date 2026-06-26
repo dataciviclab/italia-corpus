@@ -36,7 +36,7 @@ Visto il [regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res
 
 Visto il [testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md) di cui al [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md);
 
-Visto il [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), recante disposizioni in materia di ordinamento giudiziario;
+Visto il [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), recante disposizioni in materia di ordinamento giudiziario;
 
 Vista la [legge 16 febbraio 1913, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-02-16;89), recante disposizioni sull'ordinamento del notariato e degli archivi notarili;
 
@@ -3053,7 +3053,7 @@ Sezione IV
 
 1.
 
-Al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), sono apportate le seguenti modificazioni:
+Al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), sono apportate le seguenti modificazioni:
                             a)
                                 l'articolo 67-bis e' abrogato;
                             b)
@@ -3062,7 +3062,7 @@ Al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls
  2) dopo il comma 1 e' aggiunto il seguente: «1-bis. Nei procedimenti trattati in camera di consiglio il pubblico ministero formula conclusioni scritte nei casi previsti dalla legge.».
 
 Note all'art. 17: 
- - Si riporta il testo dell'[articolo 76 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_76) (Ordinamento giudiziario), come modificato dal presente decreto: 
+ - Si riporta il testo dell'[articolo 76 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) (Ordinamento giudiziario), come modificato dal presente decreto: 
  "Art. 76. (Attribuzioni del pubblico ministero presso la Corte suprema di cassazione). - 1. Il pubblico ministero presso la Corte di cassazione interviene e conclude: 
  a) in tutte le udienze penali; 
  b) in tutte le udienze civili. 
@@ -3575,7 +3575,7 @@ Sezione VII
 
 1.
 
-Al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), sono apportate le seguenti modificazioni:
+Al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 43, primo comma, la lettera c) e' soppressa;
                             b)
@@ -3636,7 +3636,7 @@ Al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls
  Allo stesso procuratore della Repubblica sono attribuiti, nelle materie di competenza del tribunale per le persone, per i minorenni e per le famiglie, tutti i poteri che le leggi conferiscono al pubblico ministero presso il tribunale.».
 
 Note all'art. 30: 
- - Si riporta il testo degli articoli 43, 50-bis, 51, 54, 58, 70 del citato [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), come modificato dal presente decreto: 
+ - Si riporta il testo degli articoli 43, 50-bis, 51, 54, 58, 70 del citato [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), come modificato dal presente decreto: 
  "Art. 43. (Funzioni ed attribuzioni del tribunale ordinario). 
  Il tribunale ordinario: 
  a) esercita la giurisdizione in primo grado e in appello, contro le sentenze pronunciate dal giudice di pace, in materia civile; 
@@ -3675,7 +3675,7 @@ Al [regio decreto-legge 20 luglio 1934, n. 1404](https://www.normattiva.it/uri-r
                                 l'articolo 6 e' sostituito dal seguente: 
  «Art. 6 (Nomina dei giudici onorari esperti e dei consiglieri onorari esperti). - I componenti privati del tribunale per le persone, per i minorenni e per le famiglie e della sezione di corte di appello per le persone, per i minorenni e per le famiglie sono scelti fra i cultori di biologia, di psichiatria, di antropologia criminale, di pedagogia, di psicologia, che abbiano compiuto il trentesimo anno di eta'. 
  I componenti privati sono nominati con decreto del Ministro della giustizia su proposta del Consiglio superiore della magistratura, ed e' loro rispettivamente conferito il titolo di giudice onorario esperto, o di consigliere onorario esperto. 
- Prima di assumere l'esercizio delle loro funzioni, prestano giuramento innanzi al presidente della corte di appello a norma dell'articolo 9, secondo comma, dell'ordinamento giudiziario di cui al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12). 
+ Prima di assumere l'esercizio delle loro funzioni, prestano giuramento innanzi al presidente della corte di appello a norma dell'articolo 9, secondo comma, dell'ordinamento giudiziario di cui al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md). 
  I componenti privati durano in carica tre anni e possono essere confermati, senza limitazioni nel numero di mandati. 
  Quando e' necessario, sono nominati uno o piu' supplenti.»;
                             d)
@@ -3856,7 +3856,7 @@ Le disposizioni di cui all'articolo 6 si applicano ai procedimenti iscritti succ
 
 Sono abrogati, in particolare:
                             a)
-                                l'[articolo 67-bis del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_67bis);
+                                l'[articolo 67-bis del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md);
                             b)
                                 l'[articolo 99, comma 2 del decreto del Presidente della Repubblica 3 novembre 2000, n. 396](../DPR/Regolamento%20per%20la%20revisione%20e%20la%20semplificazione%20dellordinamento%20dello%20stato%20civile%20a%20norma%20dellarticolo%202%20comma%2012%20della%20legge%2015%20maggio%201997%20n.%20127.md);
                             c)
@@ -3975,7 +3975,7 @@ Con riferimento alle disposizioni di cui ai commi 2 e 3, il criterio prioritario
 
 5.
 
-L'assegnazione prevista dai commi 1, 2 e 3 non costituisce trasferimento ad altro ufficio giudiziario o destinazione ad altra sede ai sensi dell'[articolo 2, terzo comma, del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md), ne' costituisce trasferimento ad altri effetti e, in particolare, agli effetti previsti dall'[articolo 194 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_194), e dall'[articolo 13 della legge 2 aprile 1979, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-02;97#art_13), come sostituito dall'[articolo 6 della legge 19 febbraio 1981, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-02-19;27#art_6). Sono tuttavia fatti salvi i diritti attribuiti dalla [legge 18 dicembre 1973, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;836), e dalla [legge 26 luglio 1978, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-26;417), alle condizioni ivi stabilite, nel caso di fissazione della residenza in una sede di servizio diversa da quella precedente determinata dall'applicazione delle disposizioni del presente decreto.
+L'assegnazione prevista dai commi 1, 2 e 3 non costituisce trasferimento ad altro ufficio giudiziario o destinazione ad altra sede ai sensi dell'[articolo 2, terzo comma, del regio decreto legislativo 31 maggio 1946, n. 511](../Regi%20decreti%20legislativi/Guarentigie%20della%20Magistratura.md), ne' costituisce trasferimento ad altri effetti e, in particolare, agli effetti previsti dall'[articolo 194 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e dall'[articolo 13 della legge 2 aprile 1979, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-02;97#art_13), come sostituito dall'[articolo 6 della legge 19 febbraio 1981, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-02-19;27#art_6). Sono tuttavia fatti salvi i diritti attribuiti dalla [legge 18 dicembre 1973, n. 836](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-18;836), e dalla [legge 26 luglio 1978, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-07-26;417), alle condizioni ivi stabilite, nel caso di fissazione della residenza in una sede di servizio diversa da quella precedente determinata dall'applicazione delle disposizioni del presente decreto.
 
 6.
 
@@ -3998,7 +3998,7 @@ Note all'art. 46:
  "Art. 2. (Inamovibilita' della sede). (Omissis) 
  In caso di soppressione di un ufficio giudiziario, i magistrati che ne fanno parte, se non possono essere assegnati ad altro ufficio giudiziario nella stessa sede, sono destinati a posti vacanti del loro grado ad altra sede. 
  (Omissis).". 
- - Si riporta il testo dell'articolo 194 del citato [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12): 
+ - Si riporta il testo dell'articolo 194 del citato [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md): 
  "Art. 194. (Tramutamenti successivi). - Il magistrato destinato, per trasferimento o per conferimento di funzioni, ad una sede, non puo' essere trasferito ad altre sedi o assegnato ad altre funzioni, ad esclusione di quelle di primo presidente della Corte di cassazione e di procuratore generale presso la Corte di cassazione, prima di quattro anni dal giorno in cui ha assunto effettivo possesso dell'ufficio, salvo che ricorrano gravi motivi di salute ovvero gravi ragioni di servizio o di famiglia. 
  Per i magistrati che esercitano le funzioni presso la sede di prima assegnazione il termine di cui al primo comma e' di tre anni.". 
  - Si riporta il testo dell'[articolo 13 della legge 2 aprile 1979, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-02;97#art_13) (Norme sullo stato giuridico dei magistrati e sul trattamento economico dei magistrati ordinari e amministrativi, dei magistrati della giustizia militare e degli avvocati dello Stato): 

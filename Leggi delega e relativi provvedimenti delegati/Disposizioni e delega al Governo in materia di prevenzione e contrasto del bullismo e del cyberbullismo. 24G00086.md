@@ -152,7 +152,7 @@ Note all'art. 2:
  c) l'articolo 6 e' sostituito dal seguente: 
  «Art. 6 (Nomina dei giudici onorari esperti e dei consiglieri onorari esperti). - I componenti privati del tribunale per le persone, per i minorenni e per le famiglie e della sezione di corte di appello per le persone, per i minorenni e per le famiglie sono scelti fra i cultori di biologia, di psichiatria, di antropologia criminale, di pedagogia, di psicologia, che abbiano compiuto il trentesimo anno di eta'. 
  I componenti privati sono nominati con decreto del Ministro della giustizia su proposta del Consiglio superiore della magistratura, ed e' loro rispettivamente conferito il titolo di giudice onorario esperto, o di consigliere onorario esperto. 
- Prima di assumere l'esercizio delle loro funzioni, prestano giuramento innanzi al presidente della corte di appello a norma dell'articolo 9, secondo comma, dell'ordinamento giudiziario di cui al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12). 
+ Prima di assumere l'esercizio delle loro funzioni, prestano giuramento innanzi al presidente della corte di appello a norma dell'articolo 9, secondo comma, dell'ordinamento giudiziario di cui al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md). 
  I componenti privati durano in carica tre anni e possono essere confermati, senza limitazioni nel numero di mandati. 
  Quando e' necessario, sono nominati uno o piu' supplenti.»; 
  d) all'articolo 6-bis: 

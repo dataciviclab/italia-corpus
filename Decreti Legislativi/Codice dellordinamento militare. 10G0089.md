@@ -2151,7 +2151,7 @@ Con decreto del Ministro della difesa, di concerto con il Ministro dell'ambiente
 
 4.
 
-Le Forze armate, nell'ambito delle proprie attribuzioni, svolgono i compiti ulteriori previsti dalla legge e, in particolare, quelli di cui all'[articolo 15 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_15) e dall'articolo 12 della ((legge 3 agosto 2007, n. 124, nonche' quelli di cui all'articolo 5, comma 5, del decreto-legge 14 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109)).
+Le Forze armate, nell'ambito delle proprie attribuzioni, svolgono i compiti ulteriori previsti dalla legge e, in particolare, quelli di cui all'[articolo 15 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e dall'articolo 12 della ((legge 3 agosto 2007, n. 124, nonche' quelli di cui all'articolo 5, comma 5, del decreto-legge 14 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109)).
 
 ---------------
 
@@ -41435,14 +41435,14 @@ Se i magistrati militari di cui al comma 1 non esercitano il diritto all'interpe
 
 4.
 
-Ai trasferimenti disposti in applicazione del presente articolo non si applica l'articolo 194 dell'ordinamento giudiziario, di cui al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12).
+Ai trasferimenti disposti in applicazione del presente articolo non si applica l'articolo 194 dell'ordinamento giudiziario, di cui al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md).
 
 5.
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con proprio decreto, le variazioni necessarie in diminuzione sugli stanziamenti del Ministero della difesa, in relazione al decremento eventuale degli organici dei magistrati militari e in aumento sui corrispondenti stanziamenti del Ministero della giustizia, in relazione al corrispondente eventuale incremento degli organici dei magistrati ordinari.
 
 Nota all'art. 2191:
- - Il testo dell'[art. 194 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_194) (Ordinamento giudiziario), pubblicato nella Gazzetta Ufficiale del 4 febbraio 1941, n. 28, e' il seguente:
+ - Il testo dell'[art. 194 del regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) (Ordinamento giudiziario), pubblicato nella Gazzetta Ufficiale del 4 febbraio 1941, n. 28, e' il seguente:
  «Art. 194 (Tramutamenti successivi). - Il magistrato destinato, per trasferimento o per conferimento di funzioni, ad una sede da lui chiesta, non puo' essere trasferito ad altre sedi o assegnato ad altre funzioni prima di tre anni dal giorno in cui ha assunto effettivo possesso dell'ufficio, salvo che ricorrano gravi motivi di salute ovvero gravi ragioni di servizio o di famiglia.».
 
 ### Art. 2192. — Determinazione della dotazione organica dell'ufficio di segreteria del Consiglio della magistratura militare

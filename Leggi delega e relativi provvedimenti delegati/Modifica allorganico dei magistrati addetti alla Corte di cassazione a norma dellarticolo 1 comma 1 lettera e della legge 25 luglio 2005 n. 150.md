@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 25 luglio 2005, n. 150](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20dellordinamento%20giudiziario%20di%20cui%20al%20regio%20decreto%2030%20gennaio%201941%20n.%2012%20per%20il%20decentramento%20del%20Ministero%20della%20giustizia%20per%20la%20modifica%20della%20discipl_dc4dbf127a4e.md), recante delega al Governo per la riforma dell'ordinamento giudiziario di cui al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), per il decentramento del Ministero della giustizia, per la modifica della disciplina concernente il Consiglio di presidenza della Corte dei conti e il Consiglio di presidenza della giustizia amministrativa, nonche' per l'emanazione di un testo unico;
+Vista la [legge 25 luglio 2005, n. 150](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20dellordinamento%20giudiziario%20di%20cui%20al%20regio%20decreto%2030%20gennaio%201941%20n.%2012%20per%20il%20decentramento%20del%20Ministero%20della%20giustizia%20per%20la%20modifica%20della%20discipl_dc4dbf127a4e.md), recante delega al Governo per la riforma dell'ordinamento giudiziario di cui al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), per il decentramento del Ministero della giustizia, per la modifica della disciplina concernente il Consiglio di presidenza della Corte dei conti e il Consiglio di presidenza della giustizia amministrativa, nonche' per l'emanazione di un testo unico;
 
 Visti, in particolare, gli articoli 1, comma 1, lettera e), e 2, comma 5, della citata [legge n. 150 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005;150), che conferiscono al Governo la delega ad adottare uno o piu' decreti legislativi diretti a modificare l'organico della Corte di cassazione e la disciplina relativa ai magistrati di merito ad essa applicati;
 
@@ -45,7 +45,7 @@ L'attribuzione dei posti di magistrato di cassazione di cui al comma 1, lettere 
 
 3.
 
-L'articolo 115 dell'ordinamento giudiziario di cui al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e successive modificazioni, e' sostituito dal seguente:
+L'articolo 115 dell'ordinamento giudiziario di cui al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e successive modificazioni, e' sostituito dal seguente:
 "115. (Magistrati di tribunale destinati all'ufficio del massimario e del ruolo della Corte di cassazione). - Della pianta organica della Corte di cassazione fanno parte trentasette magistrati destinati all'ufficio del massimario e del ruolo; al predetto ufficio possono essere designati magistrati con qualifica non inferiore a magistrato di tribunale con non meno di cinque anni di effettivo esercizio delle funzioni di merito.".
 
 4.
@@ -65,7 +65,7 @@ Avvertenza:
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti.
- - Si riporta il testo dell'[art. 1 e il comma 5](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20dellordinamento%20giudiziario%20di%20cui%20al%20regio%20decreto%2030%20gennaio%201941%20n.%2012%20per%20il%20decentramento%20del%20Ministero%20della%20giustizia%20per%20la%20modifica%20della%20discipl_dc4dbf127a4e.md) dell'[art. 2 della legge 25 luglio 2005, n. 150](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20dellordinamento%20giudiziario%20di%20cui%20al%20regio%20decreto%2030%20gennaio%201941%20n.%2012%20per%20il%20decentramento%20del%20Ministero%20della%20giustizia%20per%20la%20modifica%20della%20discipl_dc4dbf127a4e.md) (Delega al Governo per la riforma dell'ordinamento giudiziario di cui al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), per il decentramento del Ministero della giustizia, per la modifica della disciplina concernente il Consiglio di presidenza della Corte dei conti e il Consiglio di presidenza della giustizia amministrativa, nonche' per l'emanazione di un testo unico):
+ - Si riporta il testo dell'[art. 1 e il comma 5](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20dellordinamento%20giudiziario%20di%20cui%20al%20regio%20decreto%2030%20gennaio%201941%20n.%2012%20per%20il%20decentramento%20del%20Ministero%20della%20giustizia%20per%20la%20modifica%20della%20discipl_dc4dbf127a4e.md) dell'[art. 2 della legge 25 luglio 2005, n. 150](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20dellordinamento%20giudiziario%20di%20cui%20al%20regio%20decreto%2030%20gennaio%201941%20n.%2012%20per%20il%20decentramento%20del%20Ministero%20della%20giustizia%20per%20la%20modifica%20della%20discipl_dc4dbf127a4e.md) (Delega al Governo per la riforma dell'ordinamento giudiziario di cui al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), per il decentramento del Ministero della giustizia, per la modifica della disciplina concernente il Consiglio di presidenza della Corte dei conti e il Consiglio di presidenza della giustizia amministrativa, nonche' per l'emanazione di un testo unico):
  "Art. 1 (Contenuto della delega). - 1. Il Governo e' delegato ad adottare, entro un anno dalla data di entrata in vigre della presente legge, con l'osservanza dei principi e dei criteri direttivi di cui all'art. 2, commi 1, 2, 3, 4, 5, 6, 7 e 8, uno o piu' decreti legislativi diretti a:
  a) modificare la disciplina per l'accesso in magistratura, nonche' la disciplina della progressione economica e delle funzioni dei magistrati, e individuare le competenze dei dirigenti amministrativi degli uffici giudiziari;
  b) istituire la Scuola superiore della magistratura, razionalizzare la normativa in tema di tirocinio e formazione degli uditori giudiziari, nonche' in tema di aggiornamento professionale e formazione dei magistrati;
@@ -85,9 +85,9 @@ Avvertenza:
  b) prevedere la soppressione di quindici posti di magistrato d'appello previsti in organico presso la Corte di cassazione e la loro sostituzione con altrettanti posti di magistrato di tribunale;
  c) prevedere che della pianta organica della Corte di cassazione facciano parte trentasette magistrati con qualifica non inferiore a magistrato di tribunale con non meno di cinque anni di esercizio delle funzioni di merito destinati a prestare servizio presso l'ufficio del massimario e del molo;
  d) prevedere che il servizio prestato per almeno otto anni presso l'ufficio del massimario e del ruolo della Corte di cassazione costituisca, a parita' di graduatoria, titolo preferenziale nell'attribuzione delle funzioni giudicanti di legittimita';
- e) prevedere l'abrogazione dell'art. 116 dell'ordinamento giudiziario, di cui al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e successive modificazioni, e prevedere che all'art. 117 e alla relativa rubrica del citato ordinamento giudiziario di cui al [regio decreto n. 12 del 1941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941;12) siano soppresse le parole: "di appello e".
+ e) prevedere l'abrogazione dell'art. 116 dell'ordinamento giudiziario, di cui al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e successive modificazioni, e prevedere che all'art. 117 e alla relativa rubrica del citato ordinamento giudiziario di cui al [regio decreto n. 12 del 1941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941;12) siano soppresse le parole: "di appello e".
  6 - 48. (Omissis).".
- - Il [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), reca: "Ordinamento giudiziario".
+ - Il [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), reca: "Ordinamento giudiziario".
  - Si riporta il testo dell'[art. 81 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_81):
  "Art. 81. Le Camere approvano ogni anno i bilanci e il rendiconto consuntivo presentati dal Governo.
  L'esercizio provvisorio del bilancio non puo' essere concesso se non per legge e per periodi non superiori complessivamente a quattro mesi.
@@ -106,20 +106,20 @@ Il servizio prestato per almeno otto anni presso l'ufficio del massimario e del 
 
 1.
 
-All'articolo 117 ed alla relativa rubrica, dell'ordinamento giudiziario di cui al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e successive modificazioni, sono soppresse le parole: "di appello e" e le parole: "e alla Procura generale presso la medesima Corte".
+All'articolo 117 ed alla relativa rubrica, dell'ordinamento giudiziario di cui al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e successive modificazioni, sono soppresse le parole: "di appello e" e le parole: "e alla Procura generale presso la medesima Corte".
 
 Nota all'art. 3:
- - Si riporta il testo dell'art. 117 del citato [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), come modificato dalla legge qui pubblicata:
+ - Si riporta il testo dell'art. 117 del citato [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), come modificato dalla legge qui pubblicata:
  "Art. 117 (Destinazione dei magistrati di tribunale alla Corte di cassazione). - 1. I posti di magistrati di tribunale destinati alla Corte di cassazione sono messi a concorso con le procedure ordinarie.".
 
 ## Art. 4. — Abrogazione
 
 1.
 
-L'articolo 116 dell'ordinamento giudiziario di cui al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e successive modificazioni, e' abrogato.
+L'articolo 116 dell'ordinamento giudiziario di cui al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e successive modificazioni, e' abrogato.
 
 Nota all'art. 4:
- - L'art. 116 del citato [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), e successive modificazioni, abrogato dalla legge qui pubblicata recava: "Magistrati di appello destinati alla Procura generale presso la Corte di cassazione.".
+ - L'art. 116 del citato [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), e successive modificazioni, abrogato dalla legge qui pubblicata recava: "Magistrati di appello destinati alla Procura generale presso la Corte di cassazione.".
 
 ## Art. 5. — Magistrati di merito in servizio presso la Corte di cassazione
 

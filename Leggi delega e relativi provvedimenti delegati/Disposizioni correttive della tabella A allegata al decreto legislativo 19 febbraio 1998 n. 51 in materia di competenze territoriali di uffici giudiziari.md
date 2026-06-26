@@ -28,7 +28,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Nella tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), come da ultimo modificata dall'[articolo 16, comma 1, del decreto legislativo 19 febbraio 1998, n. 51](Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), gli elenchi dei comuni formanti i circondari del tribunale di Treviso e della sezione distaccata di Conegliano sono rispettivamente modificati come segue:
+Nella tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), come da ultimo modificata dall'[articolo 16, comma 1, del decreto legislativo 19 febbraio 1998, n. 51](Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), gli elenchi dei comuni formanti i circondari del tribunale di Treviso e della sezione distaccata di Conegliano sono rispettivamente modificati come segue:
                         a)
                             quanto al circondario del tribunale di Treviso, sono aggiunti i comuni di Cessalto, Chiarano, Cimadolmo, Fontanelle, Gorgo al Monticano, Mansue', Meduna di Livenza, Motta di Livenza, Ormelle, Ponte di Piave, Portobuffole', Salgareda e San Polo di Piave;
                         b)
@@ -36,7 +36,7 @@ Nella tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](https://www.n
 
 2.
 
-Nella tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), come da ultimo modificata dall'[articolo 16, comma 1, del decreto legislativo 19 febbraio 1998, n. 51](Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), gli elenchi dei comuni formanti i circondari del tribunale di Perugia e della sezione distaccata di Todi sono rispettivamente modificati come segue:
+Nella tabella A allegata al [regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), come da ultimo modificata dall'[articolo 16, comma 1, del decreto legislativo 19 febbraio 1998, n. 51](Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), gli elenchi dei comuni formanti i circondari del tribunale di Perugia e della sezione distaccata di Todi sono rispettivamente modificati come segue:
                         a)
                             quanto al circondario del tribunale di Perugia sono soppressi i comuni di Deruta e Marsciano;
                         b)
