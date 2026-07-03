@@ -93,6 +93,7 @@ python -m lab_tools.grafo_riferimenti
 | `fonte_tipo` | str | Tipo atto citante (es. DECRETO LEGISLATIVO) |
 | `bersaglio_filename` | str | Nome file atto citato |
 | `bersaglio_path` | str | Path relativo atto citato (vuoto se non risolvibile) |
+| `risolto` | bool | True se il bersaglio esiste nel corpus |
 | `bersaglio_collezione` | str | Collezione atto citato |
 | `bersaglio_anno` | int | Anno atto citato |
 | `bersaglio_tipo` | str | Tipo atto citato |

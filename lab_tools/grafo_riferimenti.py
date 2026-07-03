@@ -102,7 +102,7 @@ def _stampa_metriche(archi: list[dict], file_set_size: int):
 
     citati = set(a["bersaglio_filename"] for a in archi)
     fonti = set(a["fonte_filename"] for a in archi)
-    risolti = sum(1 for a in archi if a["esiste"])
+    risolti = sum(1 for a in archi if a["risolto"])
     non_risolti = total - risolti
 
     print(f"\n📊 Grafo riferimenti — metriche")
@@ -118,7 +118,7 @@ def _stampa_metriche(archi: list[dict], file_set_size: int):
     if risolti > 0:
         counter = Counter()
         for a in archi:
-            if a["esiste"]:
+            if a["risolto"]:
                 counter[(a["bersaglio_filename"])] += a["peso"]
         print(f"\n  Top 10 atti più citati:")
         for path, count in counter.most_common(10):
@@ -166,12 +166,14 @@ def main():
                     bersaglio_path = str(resolved)
                     bersaglio_fn = resolved.name
 
-                esiste = bersaglio_path in file_set if bersaglio_path else False
+                risolto = bersaglio_path in file_set if bersaglio_path else False
 
                 # Metadati fonte
                 fonte_meta = normativa.get(relpath.name, {})
-                # Metadati bersaglio (solo se esiste)
-                bersaglio_meta = normativa.get(bersaglio_fn, {}) if esiste else {}
+                # Metadati bersaglio (solo se risolto)
+                bersaglio_meta = normativa.get(bersaglio_fn, {}) if risolto else {}
+                # Path vuoto se non risolto — il consumer non deve fare ipotesi
+                bp = bersaglio_path if risolto else ""
 
                 arco = {
                     "fonte_filename": str(relpath),
@@ -179,12 +181,12 @@ def main():
                     "fonte_anno": fonte_meta.get("anno_atto", 0),
                     "fonte_tipo": fonte_meta.get("tipo", ""),
                     "bersaglio_filename": bersaglio_fn,
-                    "bersaglio_path": bersaglio_path or "",
+                    "bersaglio_path": bp or "",
                     "bersaglio_collezione": bersaglio_meta.get("collezione", ""),
                     "bersaglio_anno": bersaglio_meta.get("anno_atto", 0),
                     "bersaglio_tipo": bersaglio_meta.get("tipo", ""),
                     "peso": peso,
-                    "esiste": esiste,
+                    "risolto": risolto,
                 }
                 archi.append(arco)
 
@@ -196,9 +198,8 @@ def main():
     fieldnames = [
         "fonte_filename", "fonte_collezione", "fonte_anno", "fonte_tipo",
         "bersaglio_filename", "bersaglio_path", "bersaglio_collezione",
-        "bersaglio_anno", "bersaglio_tipo", "peso",
+        "bersaglio_anno", "bersaglio_tipo", "peso", "risolto",
     ]
-    # Rimuovi campo tecnico 'esiste' prima di scrivere
     archi_out = [{k: v for k, v in a.items() if k in fieldnames} for a in archi]
     with open(csv_path, "w", newline="", encoding="utf-8") as f:
         w = csv_module.DictWriter(f, fieldnames=fieldnames)
@@ -210,7 +211,6 @@ def main():
     try:
         import pandas as pd
         df = pd.DataFrame(archi)
-        df = df.drop(columns=["esiste"])
         pqt = OUTDIR / "riferimenti.parquet"
         df.to_parquet(pqt, index=False)
         print(f"Parquet: {pqt} ({len(df)} righe, {len(df.columns)} colonne)")
