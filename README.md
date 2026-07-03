@@ -30,11 +30,28 @@ Tre tool per agenti AI:
 
 Parsa tutti i file Markdown delle 20 collezioni ed estrae: tipo atto, data, numero, oggetto, URN, codice redazionale, vigente, CELEX (costruito dal riferimento UE nell'oggetto), anno direttiva e ritardo di recepimento.
 
-Output: `data/derived/normativa.parquet` (20.703 atti, 755 con CELEX).
+Output: `data/derived/normativa.parquet` (20.708 atti, 755 con CELEX).
 
 ```sh
 pip install -e ".[dev]"
 python -m lab_tools.extract
+```
+
+### Grafo riferimenti (`lab_tools/grafo_riferimenti.py`)
+
+Costruisce il grafo orientato dei riferimenti normativi: estrae tutti i link `../` dai body degli atti e produce archi "fonte → bersaglio" con metadati (anno, collezione, tipo). Richiede `normativa.parquet` per l'arricchimento.
+
+Output: `data/derived/riferimenti.parquet` (108.490 archi, 10 colonne).
+
+| Metrica | Valore |
+|---|---|
+| Archi totali | 108.490 |
+| Risolvibili (file nel fork) | 70.589 (65,1%) |
+| Atti citati unici | 9.095 |
+| Più citato | Codice Penale (7.815x) |
+
+```sh
+python -m lab_tools.grafo_riferimenti
 ```
 
 ### CI / Workflow
@@ -42,7 +59,7 @@ python -m lab_tools.extract
 | Workflow | Trigger | Cosa fa |
 |---|---|---|
 | `test.yml` | push / PR | pytest tests/ -v |
-| `build-dataset.yml` | workflow_dispatch | test → extract → commit parquet |
+| `build-dataset.yml` | workflow_dispatch | test → extract + grafo riferimenti → commit parquet |
 | `sync-upstream.yml` | daily 7:00 + manuale | sparse clone upstream → rsync collezioni → commit → trigger build-dataset |
 
 ## Schema dataset
@@ -65,6 +82,21 @@ python -m lab_tools.extract
 | `lunghezza_caratteri` | int | Numero di caratteri del body (dopo frontmatter YAML) |
 | `lunghezza_parole` | int | Numero di parole del body |
 | `riferimenti_interni` | int | Conteggio link `../` ad altri atti del corpus (proxy di connessione) |
+
+### Schema `riferimenti.parquet`
+
+| Colonna | Tipo | Descrizione |
+|---|---|---|
+| `fonte_filename` | str | Path relativo atto citante |
+| `fonte_collezione` | str | Collezione atto citante |
+| `fonte_anno` | int | Anno atto citante |
+| `fonte_tipo` | str | Tipo atto citante (es. DECRETO LEGISLATIVO) |
+| `bersaglio_filename` | str | Nome file atto citato |
+| `bersaglio_path` | str | Path relativo atto citato (vuoto se non risolvibile) |
+| `bersaglio_collezione` | str | Collezione atto citato |
+| `bersaglio_anno` | int | Anno atto citato |
+| `bersaglio_tipo` | str | Tipo atto citato |
+| `peso` | int | Numero occorrenze dello stesso link nel body |
 
 ## Manutenzione
 
