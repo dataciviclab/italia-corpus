@@ -4,7 +4,7 @@ from pathlib import Path
 
 import pytest
 
-from lab_tools.extract import extract, _estrai_riferimento_ue, _dedup
+from lab_tools.extract import extract, _estrai_riferimento_ue, _dedup, _get_body, _body_metrics
 
 FIXTURES = Path(__file__).resolve().parent / "fixtures"
 
@@ -31,6 +31,10 @@ def test_con_celex_body():
     assert result["vigente"] is None
     assert result["urn"] == ""
     assert result["codice_redazionale"] == ""
+    # Nuovi campi body metrics (file senza frontmatter)
+    assert result["lunghezza_caratteri"] > 0
+    assert result["lunghezza_parole"] > 0
+    assert result["riferimenti_interni"] == 0  # fixture senza ../
 
 
 def test_collezione_esplicita():
@@ -52,6 +56,10 @@ def test_senza_celex():
     assert result["ritardo"] is None
     assert result["vigente"] is None
     assert result["urn"] == ""
+    # Nuovi campi body metrics
+    assert result["lunghezza_caratteri"] > 0
+    assert result["lunghezza_parole"] > 0
+    assert result["riferimenti_interni"] == 0  # fixture senza ../
 
 
 # ─── frontmatter YAML (fast path) ────────────────────────────────
@@ -73,6 +81,10 @@ def test_con_celex_frontmatter():
     assert result["vigente"] is True
     assert result["urn"] == "urn:nir:stato:decreto.legislativo:2020-03-15;45"
     assert result["codice_redazionale"] == "020G01234"
+    # Nuovi campi body metrics
+    assert result["lunghezza_caratteri"] > 0
+    assert result["lunghezza_parole"] > 0
+    assert result["riferimenti_interni"] == 0  # fixture senza ../
 
 
 # ─── helper unitari ──────────────────────────────────────────────
@@ -124,6 +136,44 @@ def test_estrai_riferimento_ue():
     assert _estrai_riferimento_ue(
         "regolamento delegato (UE) 2023/2631"
     ) == ("32023R2631", 2023)
+
+
+# ─── body metrics ────────────────────────────────────────────────
+
+
+class TestBodyMetrics:
+    """Test per _get_body e _body_metrics."""
+
+    def test_get_body_senza_frontmatter(self):
+        raw = "DECRETO LEGISLATIVO 15 marzo 2020 n. 45\n\nTesto del decreto."
+        assert _get_body(raw) == raw.strip()
+
+    def test_get_body_con_frontmatter(self):
+        raw = "---\ntipo: LEGGE\n---\n\nIL PRESIDENTE DELLA REPUBBLICA\n\nTesto."
+        assert _get_body(raw) == "IL PRESIDENTE DELLA REPUBBLICA\n\nTesto."
+
+    def test_get_body_solo_frontmatter(self):
+        """File con solo frontmatter vuoto → body vuoto."""
+        raw = "---\ntipo: LEGGE\n---"
+        assert _get_body(raw) == ""
+
+    def test_body_metrics_testo_semplice(self):
+        body = "Testo semplice di prova"
+        m = _body_metrics(body)
+        assert m["lunghezza_caratteri"] == 23
+        assert m["lunghezza_parole"] == 4
+        assert m["riferimenti_interni"] == 0
+
+    def test_body_metrics_con_riferimenti(self):
+        body = "Vedi ../LEGGE/abc.md e ../DECRETO/xyz.md"
+        m = _body_metrics(body)
+        assert m["riferimenti_interni"] == 2
+
+    def test_body_metrics_vuoto(self):
+        m = _body_metrics("")
+        assert m["lunghezza_caratteri"] == 0
+        assert m["lunghezza_parole"] == 0
+        assert m["riferimenti_interni"] == 0
 
 
 # ─── edge cases ──────────────────────────────────────────────────

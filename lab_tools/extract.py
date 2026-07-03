@@ -51,6 +51,7 @@ FIELDNAMES = [
     "oggetto", "celex",
     "anno_atto", "anno_dir", "ritardo",
     "vigente", "urn", "codice_redazionale",
+    "lunghezza_caratteri", "lunghezza_parole", "riferimenti_interni",
 ]
 
 
@@ -137,8 +138,31 @@ def _extract_body_fields(raw: str, filepath: Path) -> dict | None:
     }
 
 
+def _get_body(raw: str) -> str:
+    """Estrae il body dal testo markdown, saltando il frontmatter YAML."""
+    if raw.startswith("---"):
+        end = raw.find("---", 3)
+        if end >= 0:
+            return raw[end + 3:].strip()
+    return raw.strip()
+
+
+def _body_metrics(body: str) -> dict:
+    """Calcola metriche testuali dal body di un atto normativo.
+
+    Restituisce lunghezza_caratteri, lunghezza_parole, riferimenti_interni.
+    """
+    return {
+        "lunghezza_caratteri": len(body),
+        "lunghezza_parole": len(body.split()) if body else 0,
+        "riferimenti_interni": body.count("../"),
+    }
+
+
 def extract(filepath: Path, collezione: str = "") -> dict | None:
     raw = filepath.read_text("utf-8", errors="replace")
+    body = _get_body(raw)
+    metrics = _body_metrics(body)
 
     # ── Fast path: frontmatter YAML ──
     fm = parse_frontmatter(raw)
@@ -159,7 +183,8 @@ def extract(filepath: Path, collezione: str = "") -> dict | None:
                 "celex": celex or "", "anno_atto": anno_atto,
                 "anno_dir": anno or 0, "ritardo": ritardo,
                 "vigente": vigente, "urn": urn,
-                "codice_redazionale": codice_redazionale}
+                "codice_redazionale": codice_redazionale,
+                **metrics}
 
     # ── Fallback: regex body (file legacy senza frontmatter) ──
     body = _extract_body_fields(raw, filepath)
@@ -172,7 +197,8 @@ def extract(filepath: Path, collezione: str = "") -> dict | None:
             "oggetto": body["oggetto"][:500],
             "celex": celex or "", "anno_atto": body["anno_atto"],
             "anno_dir": anno or 0, "ritardo": ritardo,
-            "vigente": None, "urn": "", "codice_redazionale": ""}
+            "vigente": None, "urn": "", "codice_redazionale": "",
+            **metrics}
 
 
 def _collezioni_legislative() -> list[Path]:

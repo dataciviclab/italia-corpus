@@ -62,6 +62,9 @@ python -m lab_tools.extract
 | `vigente` | bool | True se l'atto risulta vigente secondo Normattiva |
 | `urn` | str | URN Normattiva (es. `urn:nir:stato:decreto.legislativo:2021-11-08;207`) |
 | `codice_redazionale` | str | Codice redazionale Normattiva (es. `21G00230`) |
+| `lunghezza_caratteri` | int | Numero di caratteri del body (dopo frontmatter YAML) |
+| `lunghezza_parole` | int | Numero di parole del body |
+| `riferimenti_interni` | int | Conteggio link `../` ad altri atti del corpus (proxy di connessione) |
 
 ## Manutenzione
 
