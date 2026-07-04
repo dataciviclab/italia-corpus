@@ -36,6 +36,7 @@ jobs:
       - run: python -m pytest tests/ -v
       - run: python -m lab_tools.extract
       - run: python -m lab_tools.grafo_riferimenti
+      - run: python -m lab_tools.estrai_citazioni_costituzionali
       - run: |
           if [ -n "$(git status --porcelain data/derived/)" ]; then
             git config user.name "github-actions"
