@@ -25,15 +25,19 @@ CONFIG_COLLEZIONI = REPO / "config" / "collezioni.txt"
 NORMATIVA_PARQUET = OUTDIR / "normativa.parquet"
 
 # Pattern: art. N, articolo N, articoli N [e M] della Costituzione
-# Cattura il PRIMO numero articolo (per "articoli 76 e 87" prende 76)
-# Trova la frase tra (art.|articolo/i) e "della Costituzione", poi estrai TUTTI i numeri
-RE_FRASE = re.compile(
-    r'(?:art\.|articolo|articoli)\s(.+?)\s+della\s*Costituzione',
-    re.IGNORECASE | re.DOTALL,
+# Pattern per citazioni costituzionali: i numeri devono essere
+# IMMEDIATAMENTE prima di "della Costituzione" — niente falsi positivi
+# da art. X di leggi ordinarie.
+RE_SINGOLARE = re.compile(
+    r'(?:art\.|articolo)\s+(\d+)\s+della\s*Costituzione',
+    re.IGNORECASE,
 )
 RE_NUMERO = re.compile(r'\d+')
-# Contesto: 80 caratteri prima e dopo il match
+# Pattern per trovare "articoli ... della Costituzione" senza backtracking:
+# cerca 'della Costituzione' con str.find, poi guarda indietro per 'articoli'.
 CONTESTO_RAGGIO = 80
+# Distanza massima tra 'articoli' e 'della Costituzione'
+MAX_ARTICOLI_DIST = 120
 
 
 def _collezioni_legislative() -> list[Path]:
@@ -65,20 +69,65 @@ def _load_normativa_lookup() -> dict[str, dict]:
 def _estrai_citazioni(raw: str) -> list[tuple[int, str]]:
     """Estrae (articolo, contesto) da un body markdown.
 
-    Gestisce: 'art. 76', 'articolo 117', 'articoli 76 e 87', 'articoli 76, 87 e 117'.
+    Usa str.find() per evitare catastrophic backtracking su file lunghi.
+    Gestisce:
+      'art. 76 della Costituzione' → [76]
+      'articolo 117 della Costituzione' → [117]
+      'articoli 76 e 87 della Costituzione' → [76, 87]
+      'articoli 76, 87 e 117 della Costituzione' → [76, 87, 117]
     """
     matches: list[tuple[int, str]] = []
-    for m in RE_FRASE.finditer(raw):
-        # Estrai TUTTI i numeri dalla frase tra "articoli" e "della Costituzione"
-        numeri = [int(n) for n in RE_NUMERO.findall(m.group(1))]
-        for art in numeri:
-            if art < 1 or art > 139:
-                continue  # fuori range articoli Costituzione
+    low = raw.lower()
+
+    # ── Singolare: regex semplice, nessun backtracking ──
+    for m in RE_SINGOLARE.finditer(raw):
+        art = int(m.group(1))
+        if 1 <= art <= 139:
             start = max(0, m.start() - CONTESTO_RAGGIO)
             end = min(len(raw), m.end() + CONTESTO_RAGGIO)
-            contesto = raw[start:end].replace("\n", " ").strip()
-            matches.append((art, contesto))
-    return matches
+            matches.append((art, raw[start:end].replace("\n", " ").strip()))
+
+    # ── Plurale: str.find() lineare, zero backtracking ──
+    pos = 0
+    while True:
+        idx = low.find("della costituzione", pos)
+        if idx < 0:
+            break
+
+        # Cerca 'articoli' all'indietro (max MAX_ARTICOLI_DIST caratteri)
+        lookback_start = max(0, idx - MAX_ARTICOLI_DIST)
+        chunk = raw[lookback_start:idx]
+
+        # Trova l'ultima occorrenza di 'articoli' nel chunk
+        art_idx = chunk.lower().rfind("articoli")
+        if art_idx < 0:
+            pos = idx + 1
+            continue
+
+        # Estrai la porzione tra 'articoli' e 'della Costituzione'
+        fragment = chunk[art_idx + len("articoli"):].strip()
+        numeri = [int(n) for n in RE_NUMERO.findall(fragment)]
+
+        # Filtra solo numeri validi (1-139)
+        for art in numeri:
+            if 1 <= art <= 139:
+                # Usa idx come riferimento per il contesto
+                start = max(0, idx - CONTESTO_RAGGIO)
+                end = min(len(raw), idx + len(" della Costituzione") + CONTESTO_RAGGIO)
+                matches.append((art, raw[start:end].replace("\n", " ").strip()))
+
+        pos = idx + 1
+
+    # Dedup: stessa coppia (articolo, contesto_simile) può uscire da
+    # singolare+plurale o da contesti sovrapposti
+    seen: set[tuple[int, str]] = set()
+    unique: list[tuple[int, str]] = []
+    for art, ctx in matches:
+        key = (art, ctx[:100])
+        if key not in seen:
+            seen.add(key)
+            unique.append((art, ctx))
+    return unique
 
 
 def _stampa_metriche(records: list[dict]):

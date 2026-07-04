@@ -75,3 +75,42 @@ class TestEstraiCitazioni:
         arts = {r[0] for r in res}
         assert 76 in arts
         assert 87 in arts
+
+
+class TestRegressioni:
+    """Regression test per fix: niente falsi positivi da leggi ordinarie."""
+
+    def test_legge_ordinaria_prima(self):
+        """'art. 1 della legge n. 241/1990 e l'art. 76 della Costituzione' → solo 76."""
+        body = "Visto l'art. 1 della legge n. 241/1990 e l'art. 76 della Costituzione"
+        res = _estrai_citazioni(body)
+        arts = {r[0] for r in res}
+        assert 76 in arts
+        assert 1 not in arts
+
+    def test_decreto_prima(self):
+        """'art. 3 del decreto. Visto l'art. 117 della Costituzione' → solo 117."""
+        body = "Ai sensi dell'art. 3 del decreto. Visto l'art. 117 della Costituzione"
+        res = _estrai_citazioni(body)
+        arts = {r[0] for r in res}
+        assert 117 in arts
+        assert 3 not in arts
+
+    def test_legge_dopo(self):
+        """'art. 117 della Costituzione e art. 3 della legge' → solo 117."""
+        body = "Visto l'art. 117 della Costituzione e l'art. 3 della legge n. 241"
+        res = _estrai_citazioni(body)
+        arts = {r[0] for r in res}
+        assert 117 in arts
+        assert 3 not in arts
+
+    def test_articoli_ordinari_intromessi(self):
+        """'degli articoli 2, 3 e 4 del decreto e degli articoli 76 e 87 della Cost.'"""
+        body = "a norma degli articoli 2, 3 e 4 del decreto e degli articoli 76 e 87 della Costituzione"
+        res = _estrai_citazioni(body)
+        arts = {r[0] for r in res}
+        assert 76 in arts
+        assert 87 in arts
+        assert 2 not in arts
+        assert 3 not in arts
+        assert 4 not in arts
