@@ -38,6 +38,8 @@ RE_NUMERO = re.compile(r'\d+')
 CONTESTO_RAGGIO = 80
 # Distanza massima tra 'articoli' e 'della Costituzione'
 MAX_ARTICOLI_DIST = 120
+# Rimuove link markdown [testo](url) → testo (evita falsi positivi da URL)
+RE_MD_LINK = re.compile(r'\[([^\]]*)\]\([^)]+\)')
 
 
 def _collezioni_legislative() -> list[Path]:
@@ -70,56 +72,57 @@ def _estrai_citazioni(raw: str) -> list[tuple[int, str]]:
     """Estrae (articolo, contesto) da un body markdown.
 
     Usa str.find() per evitare catastrophic backtracking su file lunghi.
+    I link markdown [testo](url) vengono strippati prima del parsing
+    per evitare falsi positivi da URL (es. date, codici).
+
     Gestisce:
       'art. 76 della Costituzione' → [76]
       'articolo 117 della Costituzione' → [117]
       'articoli 76 e 87 della Costituzione' → [76, 87]
       'articoli 76, 87 e 117 della Costituzione' → [76, 87, 117]
     """
-    matches: list[tuple[int, str]] = []
-    low = raw.lower()
+    # Pulisci link markdown: [testo](url) → testo, per non matchare "della
+    # Costituzione" dentro URL o estrarre numeri da date/codici nel link.
+    clean = RE_MD_LINK.sub(r'\1', raw)
 
-    # ── Singolare: regex semplice, nessun backtracking ──
-    for m in RE_SINGOLARE.finditer(raw):
+    matches: list[tuple[int, str]] = []
+    low = clean.lower()
+
+    # ── Singolare: regex semplice ──
+    for m in RE_SINGOLARE.finditer(clean):
         art = int(m.group(1))
         if 1 <= art <= 139:
             start = max(0, m.start() - CONTESTO_RAGGIO)
-            end = min(len(raw), m.end() + CONTESTO_RAGGIO)
-            matches.append((art, raw[start:end].replace("\n", " ").strip()))
+            end = min(len(clean), m.end() + CONTESTO_RAGGIO)
+            matches.append((art, clean[start:end].replace("\n", " ").strip()))
 
-    # ── Plurale: str.find() lineare, zero backtracking ──
+    # ── Plurale: str.find() lineare ──
     pos = 0
     while True:
         idx = low.find("della costituzione", pos)
         if idx < 0:
             break
 
-        # Cerca 'articoli' all'indietro (max MAX_ARTICOLI_DIST caratteri)
         lookback_start = max(0, idx - MAX_ARTICOLI_DIST)
-        chunk = raw[lookback_start:idx]
+        chunk = clean[lookback_start:idx]
 
-        # Trova l'ultima occorrenza di 'articoli' nel chunk
         art_idx = chunk.lower().rfind("articoli")
         if art_idx < 0:
             pos = idx + 1
             continue
 
-        # Estrai la porzione tra 'articoli' e 'della Costituzione'
         fragment = chunk[art_idx + len("articoli"):].strip()
         numeri = [int(n) for n in RE_NUMERO.findall(fragment)]
 
-        # Filtra solo numeri validi (1-139)
         for art in numeri:
             if 1 <= art <= 139:
-                # Usa idx come riferimento per il contesto
                 start = max(0, idx - CONTESTO_RAGGIO)
-                end = min(len(raw), idx + len(" della Costituzione") + CONTESTO_RAGGIO)
-                matches.append((art, raw[start:end].replace("\n", " ").strip()))
+                end = min(len(clean), idx + len(" della Costituzione") + CONTESTO_RAGGIO)
+                matches.append((art, clean[start:end].replace("\n", " ").strip()))
 
         pos = idx + 1
 
-    # Dedup: stessa coppia (articolo, contesto_simile) può uscire da
-    # singolare+plurale o da contesti sovrapposti
+    # Dedup
     seen: set[tuple[int, str]] = set()
     unique: list[tuple[int, str]] = []
     for art, ctx in matches:

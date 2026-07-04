@@ -114,3 +114,24 @@ class TestRegressioni:
         assert 2 not in arts
         assert 3 not in arts
         assert 4 not in arts
+
+    def test_markdown_link_non_contamina(self):
+        """Numeri dentro URL markdown non devono contaminare l'estrazione.
+
+        Esempio reale: [87 della Costituzione](https://...const#art_76)
+        Il link contiene 1947-12-27, const#art_76, N2Ls — non devono essere
+        estratti come articoli costituzionali.
+        """
+        body = (
+            "...Visti gli articoli 76 e 87 della Costituzione"
+            "(https://www.normattiva.it/"
+            "uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76)"
+        )
+        res = _estrai_citazioni(body)
+        arts = {r[0] for r in res}
+        assert 76 in arts, f"76 non trovato in {arts}"
+        assert 87 in arts, f"87 non trovato in {arts}"
+        # Numeri dal link URL non devono apparire
+        assert 2 not in arts, f"falso positivo 2 in {arts}"
+        assert 12 not in arts, f"falso positivo 12 in {arts}"
+        assert 27 not in arts, f"falso positivo 27 in {arts}"
