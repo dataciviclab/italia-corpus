@@ -1,7 +1,12 @@
 # Python
 __pycache__/
 *.pyc
+.ruff_cache/
+.pytest_cache/
 .env
+
+# egg-info locale
+*.egg-info/
 
 # Dataset — solo csv è generato localmente
 data/derived/*.csv
