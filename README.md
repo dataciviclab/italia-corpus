@@ -28,9 +28,9 @@ Tre tool per agenti AI:
 
 ### Estrattore metadati (`lab_tools/extract.py`)
 
-Parsa tutti i file Markdown delle 20 collezioni ed estrae: tipo atto, data, numero, oggetto, URN, codice redazionale, vigente, CELEX (costruito dal riferimento UE nell'oggetto), anno direttiva e ritardo di recepimento.
+Parsa tutti i file Markdown delle 20 collezioni ed estrae: tipo atto, data, numero, oggetto, CELEX (costruito dal riferimento UE nell'oggetto), URN, codice redazionale, anno direttiva, ritardo di recepimento e metriche testuali (lunghezza, riferimenti interni).
 
-Output: `data/derived/normativa.parquet` (20.708 atti, 755 con CELEX).
+Output: `data/derived/normativa.parquet` (20.716 atti, 757 con CELEX).
 
 ```sh
 pip install -e ".[dev]"
