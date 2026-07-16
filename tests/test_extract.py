@@ -28,7 +28,6 @@ def test_con_celex_body():
     assert result["ritardo"] is None
     assert result["collezione"] == ""
     # Nuovi campi frontmatter: legacy → None/ignoto
-    assert result["vigente"] is None
     assert result["urn"] == ""
     assert result["codice_redazionale"] == ""
     # Nuovi campi body metrics (file senza frontmatter)
@@ -54,7 +53,6 @@ def test_senza_celex():
     assert result["celex"] == ""
     assert result["anno_dir"] == 0
     assert result["ritardo"] is None
-    assert result["vigente"] is None
     assert result["urn"] == ""
     # Nuovi campi body metrics
     assert result["lunghezza_caratteri"] > 0
@@ -78,7 +76,6 @@ def test_con_celex_frontmatter():
     assert result["anno_atto"] == 2020
     assert result["anno_dir"] == 2018
     assert result["ritardo"] == 2
-    assert result["vigente"] is True
     assert result["urn"] == "urn:nir:stato:decreto.legislativo:2020-03-15;45"
     assert result["codice_redazionale"] == "020G01234"
     # Nuovi campi body metrics
@@ -211,7 +208,7 @@ class TestDedup:
 
     def _r(self, filename: str, collezione: str) -> dict:
         return {"collezione": collezione, "filename": filename, "tipo": "LEGGE",
-                "data": "2020-01-01", "numero": "1", "vigente": True,
+                "data": "2020-01-01", "numero": "1",
                 "urn": "", "codice_redazionale": ""}
 
     def test_merge_collezioni_diverse(self):

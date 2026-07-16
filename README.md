@@ -28,9 +28,9 @@ Tre tool per agenti AI:
 
 ### Estrattore metadati (`lab_tools/extract.py`)
 
-Parsa tutti i file Markdown delle 20 collezioni ed estrae: tipo atto, data, numero, oggetto, URN, codice redazionale, vigente, CELEX (costruito dal riferimento UE nell'oggetto), anno direttiva e ritardo di recepimento.
+Parsa tutti i file Markdown delle 20 collezioni ed estrae: tipo atto, data, numero, oggetto, CELEX (costruito dal riferimento UE nell'oggetto), URN, codice redazionale, anno direttiva, ritardo di recepimento e metriche testuali (lunghezza, riferimenti interni).
 
-Output: `data/derived/normativa.parquet` (20.708 atti, 755 con CELEX).
+Output: `data/derived/normativa.parquet` (20.716 atti, 757 con CELEX).
 
 ```sh
 pip install -e ".[dev]"
@@ -76,7 +76,6 @@ python -m lab_tools.grafo_riferimenti
 | `anno_atto` | int | Anno di pubblicazione |
 | `anno_dir` | int | Anno della direttiva/regolamento/decisione UE collegato (0 se assente) |
 | `ritardo` | float | Gap anni tra atto e atto UE (solo se anno_dir > 0) |
-| `vigente` | bool | True se l'atto risulta vigente secondo Normattiva |
 | `urn` | str | URN Normattiva (es. `urn:nir:stato:decreto.legislativo:2021-11-08;207`) |
 | `codice_redazionale` | str | Codice redazionale Normattiva (es. `21G00230`) |
 | `lunghezza_caratteri` | int | Numero di caratteri del body (dopo frontmatter YAML) |
