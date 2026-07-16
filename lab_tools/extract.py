@@ -50,7 +50,7 @@ FIELDNAMES = [
     "collezione", "filename", "tipo", "data", "numero",
     "oggetto", "celex",
     "anno_atto", "anno_dir", "ritardo",
-    "vigente", "urn", "codice_redazionale",
+    "urn", "codice_redazionale",
     "lunghezza_caratteri", "lunghezza_parole", "riferimenti_interni",
 ]
 
@@ -171,7 +171,6 @@ def extract(filepath: Path, collezione: str = "") -> dict | None:
         numero = str(fm.get("numero", ""))
         data = str(fm.get("data", ""))
         oggetto = str(fm.get("titolo", "")) or filepath.name.replace(".md", "")[:500]
-        vigente = bool(fm.get("vigente", True))
         urn = str(fm.get("urn", ""))
         codice_redazionale = str(fm.get("codice_redazionale", ""))
         anno_atto = int(data[:4]) if len(data) >= 4 and data[:4].isdigit() else 0
@@ -182,7 +181,7 @@ def extract(filepath: Path, collezione: str = "") -> dict | None:
                 "oggetto": oggetto[:500],
                 "celex": celex or "", "anno_atto": anno_atto,
                 "anno_dir": anno or 0, "ritardo": ritardo,
-                "vigente": vigente, "urn": urn,
+                "urn": urn,
                 "codice_redazionale": codice_redazionale,
                 **metrics}
 
@@ -197,7 +196,7 @@ def extract(filepath: Path, collezione: str = "") -> dict | None:
             "oggetto": body["oggetto"][:500],
             "celex": celex or "", "anno_atto": body["anno_atto"],
             "anno_dir": anno or 0, "ritardo": ritardo,
-            "vigente": None, "urn": "", "codice_redazionale": "",
+            "urn": "", "codice_redazionale": "",
             **metrics}
 
 

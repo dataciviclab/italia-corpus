@@ -76,7 +76,6 @@ python -m lab_tools.grafo_riferimenti
 | `anno_atto` | int | Anno di pubblicazione |
 | `anno_dir` | int | Anno della direttiva/regolamento/decisione UE collegato (0 se assente) |
 | `ritardo` | float | Gap anni tra atto e atto UE (solo se anno_dir > 0) |
-| `vigente` | bool | True se l'atto risulta vigente secondo Normattiva |
 | `urn` | str | URN Normattiva (es. `urn:nir:stato:decreto.legislativo:2021-11-08;207`) |
 | `codice_redazionale` | str | Codice redazionale Normattiva (es. `21G00230`) |
 | `lunghezza_caratteri` | int | Numero di caratteri del body (dopo frontmatter YAML) |
