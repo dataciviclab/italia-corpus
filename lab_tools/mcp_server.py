@@ -10,7 +10,7 @@ import subprocess
 from pathlib import Path
 from typing import Any
 
-from mcp.server.fastmcp import FastMCP
+from lab_connectors.mcp import create_mcp_server, guard_timed
 
 from lab_tools._frontmatter import read_frontmatter
 
@@ -292,10 +292,17 @@ def _search_corpus(
 # ─── strumenti MCP ────────────────────────────────────────────────
 
 
-server = FastMCP("italia-corpus")
+mcp = create_mcp_server(
+    name="italia-corpus",
+    instructions=(
+        "Server MCP italia-corpus — cerca con ripgrep nel corpus normativo. "
+        "Output strutturato (list[dict]) per agenti AI, con supporto AND multi-termine "
+        "(documentale, non per riga), paginazione offset e tool per recupero full text."
+    ),
+)
 
 
-@server.tool(
+@mcp.tool(
     name="italia-corpus_legal_search",
     description=(
         "Cerca nella legislazione italiana (~25.000 atti da Normattiva, "
@@ -305,6 +312,7 @@ server = FastMCP("italia-corpus")
         "Restituisce lista strutturata di risultati con title, tipo, data, "
         "urn, vigente e snippet."
     ),
+    structured_output=True,
 )
 def legal_search(
     query: str,
@@ -326,17 +334,16 @@ def legal_search(
         Se il file ha frontmatter YAML, include anche tipo, data, urn,
         codice_redazionale, vigente.
     """
-    try:
-        return _search_corpus(
-            query, limit=limit, offset=offset, collezione=collezione,
-        )
-    except (ValueError, RuntimeError, TimeoutError) as e:
-        raise RuntimeError(str(e)) from e
+    return guard_timed(
+        _search_corpus, "italia-corpus_legal_search",
+        query, limit=limit, offset=offset, collezione=collezione,
+    )
 
 
-@server.tool(
+@mcp.tool(
     name="italia-corpus_legal_get_document",
     description="Recupera il testo completo di un atto dal corpus, per collezione e filename.",
+    structured_output=True,
 )
 def legal_get_document(
     collezione: str,
@@ -353,6 +360,14 @@ def legal_get_document(
     Returns:
         Contenuto del file in markdown, troncato a max_chars.
     """
+    return guard_timed(
+        _impl_get_document, "italia-corpus_legal_get_document",
+        collezione, filename, max_chars,
+    )
+
+
+def _impl_get_document(collezione: str, filename: str, max_chars: int) -> str:
+    """Implementazione pura di legal_get_document."""
     max_chars = min(max_chars, 50000)
     if collezione not in _leggi_collezioni():
         raise ValueError(
@@ -393,12 +408,18 @@ def legal_get_document(
     return text
 
 
-@server.tool(
+@mcp.tool(
     name="italia-corpus_list_collections",
     description="Elenca le directory (collezioni) del corpus disponibili per la ricerca.",
+    structured_output=True,
 )
 def list_collections() -> str:
     """Elenca le 20 collezioni legislative disponibili."""
+    return guard_timed(_impl_list_collections, "italia-corpus_list_collections")
+
+
+def _impl_list_collections() -> str:
+    """Implementazione pura di list_collections."""
     nomi = sorted(_leggi_collezioni())
     if not nomi:
         return "## Collezioni\n_(nessuna — esegui il checkout delle collezioni)_"
@@ -406,7 +427,7 @@ def list_collections() -> str:
 
 
 def main():
-    server.run(transport="stdio")
+    mcp.run(transport="stdio")
 
 
 if __name__ == "__main__":

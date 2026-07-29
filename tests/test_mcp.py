@@ -359,11 +359,13 @@ class TestLegalSearchTool:
 
     @pytest.mark.contract
     def test_collezione_errata_raise(self, monkeypatch, tmp_path):
-        """Collezione inesistente → RuntimeError."""
+        """Collezione inesistente → errore strutturato."""
         _fake_corpus(tmp_path, monkeypatch)
         _mock_rg_json_result(monkeypatch, [])
-        with pytest.raises(RuntimeError, match="non trovata"):
-            mcp_server.legal_search("test", collezione="inesistente")
+        result = mcp_server.legal_search("test", collezione="inesistente")
+        assert isinstance(result, dict)
+        assert "error" in result
+        assert "non trovata" in result.get("message", "")
 
     @pytest.mark.contract
     def test_con_offset(self, monkeypatch, tmp_path):
@@ -418,17 +420,21 @@ class TestLegalGetDocument:
 
     @pytest.mark.contract
     def test_collezione_errata(self, monkeypatch, tmp_path):
-        """Collezione inesistente → ValueError."""
+        """Collezione inesistente → errore strutturato."""
         _fake_corpus(tmp_path, monkeypatch)
-        with pytest.raises(ValueError, match="non trovata"):
-            mcp_server.legal_get_document("Inesistente", "test.md")
+        result = mcp_server.legal_get_document("Inesistente", "test.md")
+        assert isinstance(result, dict)
+        assert "error" in result
+        assert "non trovata" in result.get("message", "")
 
     @pytest.mark.contract
     def test_file_inesistente(self, monkeypatch, tmp_path):
-        """File inesistente → ValueError."""
+        """File inesistente → errore strutturato."""
         _fake_corpus(tmp_path, monkeypatch)
-        with pytest.raises(ValueError, match="non trovato"):
-            mcp_server.legal_get_document("Decreti Legislativi", "mancante.md")
+        result = mcp_server.legal_get_document("Decreti Legislativi", "mancante.md")
+        assert isinstance(result, dict)
+        assert "error" in result
+        assert "non trovato" in result.get("message", "")
 
     @pytest.mark.contract
     def test_troncamento(self, monkeypatch, tmp_path):
@@ -442,25 +448,29 @@ class TestLegalGetDocument:
 
     @pytest.mark.contract
     def test_path_traversal_basename(self, monkeypatch, tmp_path):
-        """Path traversal con / nel filename → ValueError."""
+        """Path traversal con / nel filename → errore strutturato."""
         _fake_corpus(tmp_path, monkeypatch)
-        with pytest.raises(ValueError, match="filename non valido"):
-            mcp_server.legal_get_document(
-                "Decreti Legislativi", "../config/collezioni.txt"
-            )
+        result = mcp_server.legal_get_document(
+            "Decreti Legislativi", "../config/collezioni.txt"
+        )
+        assert isinstance(result, dict)
+        assert "error" in result
+        assert "filename non valido" in result.get("message", "")
 
     @pytest.mark.contract
     def test_path_traversal_non_md(self, monkeypatch, tmp_path):
-        """File senza .md → ValueError."""
+        """File senza .md → errore strutturato."""
         _fake_corpus(tmp_path, monkeypatch)
-        with pytest.raises(ValueError, match="deve terminare con .md"):
-            mcp_server.legal_get_document(
-                "Decreti Legislativi", "collezioni.txt"
-            )
+        result = mcp_server.legal_get_document(
+            "Decreti Legislativi", "collezioni.txt"
+        )
+        assert isinstance(result, dict)
+        assert "error" in result
+        assert "deve terminare con .md" in result.get("message", "")
 
     @pytest.mark.contract
     def test_path_traversal_symlink_prefix_bypass(self, monkeypatch, tmp_path):
-        """Symlink con nome che inizia come la collezione (Col_evil bypassa startswith)."""
+        """Symlink con nome che inizia come la collezione (Col_evil bypassa startswith) → errore."""
         _fake_corpus(tmp_path, monkeypatch)
         col = tmp_path / "Decreti Legislativi"
         # File fuori dalla collezione con nome che inizia con "Decreti Legislativi"
@@ -471,8 +481,10 @@ class TestLegalGetDocument:
             link.symlink_to(evil)
         except OSError:
             pytest.skip("symlink non supportato su questo filesystem")
-        with pytest.raises(ValueError, match="Accesso negato"):
-            mcp_server.legal_get_document("Decreti Legislativi", "link.md")
+        result = mcp_server.legal_get_document("Decreti Legislativi", "link.md")
+        assert isinstance(result, dict)
+        assert "error" in result
+        assert "Accesso negato" in result.get("message", "")
 
 
 # ─── Test list_collections (invariato) ────────────────────────────

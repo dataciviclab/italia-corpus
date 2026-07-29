@@ -9,6 +9,7 @@ description = "DataCivicLab tooling per Italia Corpus"
 requires-python = ">=3.11"
 dependencies = [
     "PyYAML>=6",
+    "lab-connectors[mcp] @ git+https://github.com/dataciviclab/lab-connectors.git",
 ]
 
 [project.optional-dependencies]
@@ -16,10 +17,6 @@ dev = [
     "pytest>=8",
     "pandas>=2",
     "pyarrow>=15",
-    "mcp>=1.0.0",
-]
-mcp = [
-    "mcp>=1.0.0",
 ]
 
 [project.scripts]
