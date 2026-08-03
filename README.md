@@ -1,111 +1,100 @@
-# Italia Corpus — DataCivicLab
+# Italia Corpus — La legislazione italiana a portata di ricerca
 
-Fork Lab di [ahmeabd/italia-corpus](https://github.com/ahmeabd/italia-corpus). Corpus della legislazione italiana in Markdown da Normattiva, con tooling per estrazione metadati e ricerca full-text via MCP.
+**20.716 atti normativi, da codici a decreti-legge, in formato aperto e interrogabile.**
 
-## Collezioni
+Il corpus della legislazione italiana vigente da Normattiva: leggi, decreti
+legislativi, decreti-legge, regolamenti, DPCM, testi unici, codici e atti di
+recepimento UE. Tutto in Markdown, cercabile per testo e struttura.
 
-Il fork Lab mantiene solo le **collezioni di attualità normativa** (~25.000 file, ~1.2 GB):
+## Cosa contiene
 
-`DL e leggi di conversione` · `Decreti Legislativi` · `Leggi di ratifica` · `Regolamenti ministeriali` · `Regolamenti governativi` · `DPCM` · `Atti di recepimento direttive UE` · `Atti di attuazione Regolamenti UE` · `DL decaduti` · `DL proroghe` · `Decreti legislativi luogotenenziali` · `Leggi delega e relativi provvedimenti delegati` · `Leggi costituzionali` · `Leggi finanziarie e di bilancio` · `Leggi contenenti deleghe` · `Regolamenti di delegificazione` · `Regi decreti legislativi` · `Testi Unici` · `Codici`
-
-(Il full corpus upstream ha 288.000+ file, il 90% dei quali è legislazione storica: atti abrogati, regi decreti, DPR.)
-
-## Tooling Lab
-
-### MCP server (`lab_tools/mcp_server.py`)
-
-Tre tool per agenti AI:
-
-- **`italia-corpus_legal_search(query, limit=10, offset=0, collezione="")`** — cerca nel corpus e restituisce **lista strutturata** di risultati (`list[dict]` con `title`, `collection`, `filename`, `path`, `snippet`, `match_count`).  
-  - Query multi-parola fa **AND documentale** tra i termini (es. `"ambiente energia"` trova atti che contengono entrambi).  
-  - Usa virgolette `"decreto legislativo"` per frase esatta.  
-  - `offset` per paginazione, `limit` fino a 100.  
-  - `collezione` opzionale per limitare a una directory.
-
-- **`italia-corpus_legal_get_document(collezione, filename, max_chars=5000)`** — recupera il testo completo di un atto. Protegge da path traversal (solo basename `.md`, verifica risoluzione path).
-
-- **`italia-corpus_list_collections()`** — elenca le 20 collezioni disponibili.
-
-### Estrattore metadati (`lab_tools/extract.py`)
-
-Parsa tutti i file Markdown delle 20 collezioni ed estrae: tipo atto, data, numero, oggetto, CELEX (costruito dal riferimento UE nell'oggetto), URN, codice redazionale, anno direttiva, ritardo di recepimento e metriche testuali (lunghezza, riferimenti interni).
-
-Output: `data/derived/normativa.parquet` (20.716 atti, 757 con CELEX).
-
-```sh
-pip install -e ".[dev]"
-python -m lab_tools.extract
-```
-
-### Grafo riferimenti (`lab_tools/grafo_riferimenti.py`)
-
-Costruisce il grafo orientato dei riferimenti normativi: estrae tutti i link `../` dai body degli atti e produce archi "fonte → bersaglio" con metadati (anno, collezione, tipo). Richiede `normativa.parquet` per l'arricchimento.
-
-Output: `data/derived/riferimenti.parquet` (108.490 archi, 10 colonne).
-
-| Metrica | Valore |
+| | |
 |---|---|
-| Archi totali | 108.490 |
-| Risolvibili (file nel fork) | 70.589 (65,1%) |
-| Atti citati unici | 9.095 |
-| Più citato | Codice Penale (7.815x) |
+| **Atti normativi** | 20.716 (da ~25.000 file) |
+| **Collezioni** | 20 (DL e conversioni, decreti legislativi, codici, testi unici, DPCM...) |
+| **Riferimenti incrociati** | 108.490 archi tra atti |
+| **Atti con CELEX** | 757 (collegati alla normativa UE) |
+| **Atti più citato** | Codice Penale (7.815 riferimenti) |
+| **Aggiornamento** | Sincronizzazione automatica giornaliera da Normattiva |
 
-```sh
-python -m lab_tools.grafo_riferimenti
+## Esempi di domande
+
+- **Quali decreti-legge non sono ancora stati convertiti?**
+- **Quali leggi italiane recepiscono direttive UE?** E con quanto ritardo?
+- **Quali atti normativi citano il Codice Penale?**
+- **Come è cambiato il numero di decreti-legge negli anni?**
+- **Quali testi unici sono ancora vigenti?**
+
+## Tre modi per accedere ai dati
+
+### 1. Via MCP — ricerca in linguaggio naturale
+
+Collega il server MCP del corpus al tuo assistente AI:
+
+```
+"Trova i decreti-legge che citano ambiente ed energia"
+"Mostrami il testo del D.Lgs. 231/2001"
 ```
 
-### CI / Workflow
+### 2. Via SQL su parquet
 
-| Workflow | Trigger | Cosa fa |
-|---|---|---|
-| `test.yml` | push / PR | pytest tests/ -v |
-| `build-dataset.yml` | workflow_dispatch | test → extract + grafo riferimenti → commit parquet |
-| `sync-upstream.yml` | daily 7:00 + manuale | sparse clone upstream → rsync collezioni → commit → trigger build-dataset |
+```python
+import duckdb
+duckdb.sql("""
+    SELECT tipo, anno_atto, COUNT(*) AS n
+    FROM read_parquet('data/derived/normativa.parquet')
+    GROUP BY tipo, anno_atto
+    ORDER BY anno_atto DESC
+    LIMIT 20
+""").show()
+```
 
-## Schema dataset
+### 3. Via download parquet
 
-| Colonna | Tipo | Descrizione |
-|---|---|---|
-| `collezione` | str | Collezione d'origine (separatore `;` se multi-collezione) |
-| `filename` | str | Nome file .md |
-| `tipo` | str | DECRETO LEGISLATIVO, LEGGE, DECRETO-LEGGE, DPR, DPCM, ecc. |
-| `data` | str | Data atto (ISO) |
-| `numero` | str | Numero atto |
-| `oggetto` | str | Oggetto / titolo |
-| `celex` | str | CELEX costruito dal riferimento UE nell'oggetto (es. `32019L0944`) |
-| `anno_atto` | int | Anno di pubblicazione |
-| `anno_dir` | int | Anno della direttiva/regolamento/decisione UE collegato (0 se assente) |
-| `ritardo` | float | Gap anni tra atto e atto UE (solo se anno_dir > 0) |
-| `urn` | str | URN Normattiva (es. `urn:nir:stato:decreto.legislativo:2021-11-08;207`) |
-| `codice_redazionale` | str | Codice redazionale Normattiva (es. `21G00230`) |
-| `lunghezza_caratteri` | int | Numero di caratteri del body (dopo frontmatter YAML) |
-| `lunghezza_parole` | int | Numero di parole del body |
-| `riferimenti_interni` | int | Conteggio link `../` ad altri atti del corpus (proxy di connessione) |
+- `data/derived/normativa.parquet` — metadati di 20.716 atti (14 colonne)
+- `data/derived/riferimenti.parquet` — 108.490 riferimenti tra atti (10 colonne)
+
+## Approfondimenti
+
+- [Grafo dei riferimenti normativi](https://github.com/dataciviclab/italia-corpus) — quale atto cita cosa, con peso
+- [Normattiva](https://www.normattiva.it) — fonte originale dei testi
+
+## Partecipa
+
+- **Hai una domanda sulla legislazione?** Apri una [Discussion](https://github.com/orgs/dataciviclab/discussions/new?category=Domanda)
+- **Vuoi contribuire?** Vedi [come contribuire al Lab](https://github.com/dataciviclab/dataciviclab/blob/main/docs/come-contribuire.md)
+
+## Documentazione tecnica
+
+### Tooling
+
+| Tool | Cosa fa |
+|---|---|
+| **MCP server** | Ricerca full-text, recupero documenti, elenco collezioni |
+| **Estrattore metadati** | Parsa i Markdown → `normativa.parquet` (tipo, data, URN, CELEX...) |
+| **Grafo riferimenti** | Costruisce gli archi fonte → bersaglio tra atti |
+
+### CI / Manutenzione
+
+- **Sync giornaliero** (7:00): aggiorna le collezioni da Normattiva
+- **Build dataset**: rigenera i parquet dopo ogni sync
+- **Test**: `pytest tests/ -v` su ogni push/PR
+
+### Schema `normativa.parquet`
+
+`collezione`, `filename`, `tipo`, `data`, `numero`, `oggetto`, `celex`,
+`anno_atto`, `anno_dir`, `ritardo`, `urn`, `codice_redazionale`,
+`lunghezza_caratteri`, `lunghezza_parole`, `riferimenti_interni`
 
 ### Schema `riferimenti.parquet`
 
-| Colonna | Tipo | Descrizione |
-|---|---|---|
-| `fonte_filename` | str | Path relativo atto citante |
-| `fonte_collezione` | str | Collezione atto citante |
-| `fonte_anno` | int | Anno atto citante |
-| `fonte_tipo` | str | Tipo atto citante (es. DECRETO LEGISLATIVO) |
-| `bersaglio_filename` | str | Nome file atto citato |
-| `bersaglio_path` | str | Path relativo atto citato (vuoto se non risolvibile) |
-| `risolto` | bool | True se il bersaglio esiste nel corpus |
-| `bersaglio_collezione` | str | Collezione atto citato |
-| `bersaglio_anno` | int | Anno atto citato |
-| `bersaglio_tipo` | str | Tipo atto citato |
-| `peso` | int | Numero occorrenze dello stesso link nel body |
+`fonte_filename`, `fonte_collezione`, `fonte_anno`, `fonte_tipo`,
+`bersaglio_filename`, `bersaglio_path`, `risolto`, `bersaglio_collezione`,
+`bersaglio_anno`, `bersaglio_tipo`, `peso`
 
-## Manutenzione
+## Licenza
 
-- Il sync upstream è automatico ogni giorno alle 7:00. Clona upstream con `--depth 1 --filter=blob:none` e solo le 20 collezioni vive (sparse checkout), poi rsync `--delete` per specchiare le directory. Zero merge, zero conflitti.
-- Dopo ogni sync, `build-dataset` rigenera automaticamente il parquet (solo se ci sono modifiche).
-- Il dataset è committato su `main` (`data/derived/normativa.parquet`).
-
-## Fork info
-
-- **Upstream**: [ahmeabd/italia-corpus](https://github.com/ahmeabd/italia-corpus) — MIT license
 - **Dati**: Pubblico dominio (Normattiva)
-- **Lab**: [DataCivicLab](https://github.com/dataciviclab)
+- **Codice**: MIT
+
+Progetto del [DataCivicLab](https://github.com/dataciviclab).
