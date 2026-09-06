@@ -48,7 +48,7 @@ MESI = {
 
 FIELDNAMES = [
     "collezione", "filename", "tipo", "data", "numero",
-    "oggetto", "celex",
+    "oggetto", "celex", "vigente",
     "anno_atto", "anno_dir", "ritardo",
     "urn", "codice_redazionale",
     "lunghezza_caratteri", "lunghezza_parole", "riferimenti_interni",
@@ -173,14 +173,15 @@ def extract(filepath: Path, collezione: str = "") -> dict | None:
         oggetto = str(fm.get("titolo", "")) or filepath.name.replace(".md", "")[:500]
         urn = str(fm.get("urn", ""))
         codice_redazionale = str(fm.get("codice_redazionale", ""))
+        vigente = fm.get("vigente")
         anno_atto = int(data[:4]) if len(data) >= 4 and data[:4].isdigit() else 0
         celex, anno = _estrai_riferimento_ue(oggetto)
         ritardo = (anno_atto - anno) if anno and anno <= anno_atto < anno + 100 else None
         return {"collezione": collezione, "filename": filepath.name,
                 "tipo": tipo, "data": data, "numero": numero,
                 "oggetto": oggetto[:500],
-                "celex": celex or "", "anno_atto": anno_atto,
-                "anno_dir": anno or 0, "ritardo": ritardo,
+                "celex": celex or "", "vigente": vigente,
+                "anno_atto": anno_atto, "anno_dir": anno or 0, "ritardo": ritardo,
                 "urn": urn,
                 "codice_redazionale": codice_redazionale,
                 **metrics}
@@ -194,7 +195,8 @@ def extract(filepath: Path, collezione: str = "") -> dict | None:
     return {"collezione": collezione, "filename": filepath.name,
             "tipo": body["tipo"], "data": body["data"], "numero": body["numero"],
             "oggetto": body["oggetto"][:500],
-            "celex": celex or "", "anno_atto": body["anno_atto"],
+            "celex": celex or "", "vigente": None,
+            "anno_atto": body["anno_atto"],
             "anno_dir": anno or 0, "ritardo": ritardo,
             "urn": "", "codice_redazionale": "",
             **metrics}
