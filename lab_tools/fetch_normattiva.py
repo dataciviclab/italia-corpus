@@ -99,6 +99,10 @@ def process_collection(
     dest_dir = corpus_dir / subdir
     dest_dir.mkdir(parents=True, exist_ok=True)
 
+    # Pulisci vecchi .md (prevenir duplicati da coesistenza upstream + AKN)
+    for old_file in dest_dir.glob("*.md"):
+        old_file.unlink()
+
     # Download
     zip_path = download_collection(collection, work_dir)
     if zip_path is None:
