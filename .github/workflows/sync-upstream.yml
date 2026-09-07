@@ -1,8 +1,10 @@
-name: sync-upstream
+name: "[DEPRECATED] sync-upstream"
 on:
-  schedule:
-    - cron: '0 6 * * *'  # ogni giorno alle 07:00 italiane
   workflow_dispatch:
+    inputs:
+    confirm:
+      description: 'Type "DELETE ME" to confirm deprecation'
+      required: true
 
 permissions:
   contents: write

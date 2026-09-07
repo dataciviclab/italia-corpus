@@ -3,12 +3,14 @@ name: italia-corpus
 kind: corpus-project
 status: public-exploration
 description: >
-  Fork DataCivicLab di italia-corpus (ahmeabd). Corpus della legislazione
-  italiana in Markdown da Normattiva, con tooling Lab per estrazione metadati
-  e ricerca full-text via MCP.
-upstream:
-  repo: ahmeabd/italia-corpus
-  sync: manual
+  Corpus della legislazione italiana vigente, scaricato direttamente
+  dall'API Normattiva OpenData. Tooling Lab per estrazione metadati,
+  grafo riferimenti normativi, e ricerca full-text via MCP.
+data_source:
+  type: normattiva_api
+  endpoint: https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1
+  format: akn_xml
+  filter: formatoRichiesta=V (solo atti vigenti)
 datasets:
   - normativa  # dataset principale, generato da lab_tools.extract
 datasets_deprecated:
