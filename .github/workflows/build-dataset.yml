@@ -1,26 +1,16 @@
 name: build-dataset
 on:
+  schedule:
+    - cron: '30 5 * * *'  # ogni giorno alle 06:30 italiane
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  extract:
+  build:
     runs-on: ubuntu-latest
     steps:
-      # Primo checkout: solo config/ per leggere la lista delle collezioni
-      - uses: actions/checkout@v6.0.3
-        with:
-          sparse-checkout: |
-            config/
-      - name: Build collections list
-        id: cols
-        run: |
-          echo "list<<EOF" >> "$GITHUB_OUTPUT"
-          cat config/collezioni.txt >> "$GITHUB_OUTPUT"
-          echo "EOF" >> "$GITHUB_OUTPUT"
-      # Secondo checkout: tooling + collezioni vive
       - uses: actions/checkout@v6.0.3
         with:
           sparse-checkout: |
@@ -28,16 +18,21 @@ jobs:
             tests/
             config/
             data/derived/
-            ${{ steps.cols.outputs.list }}
       - uses: actions/setup-python@v6.2.0
         with:
           python-version: '3.12'
       - run: pip install -e ".[dev]"
       - run: python -m pytest tests/ -v
-      - run: python -m lab_tools.extract
-      - run: python -m lab_tools.grafo_riferimenti
-      - run: python -m lab_tools.estrai_citazioni_costituzionali
-      - run: |
+      - name: Fetch da Normattiva (solo vigenti)
+        run: python -m lab_tools.fetch_normattiva
+      - name: Extract metadati
+        run: python -m lab_tools.extract
+      - name: Grafo riferimenti
+        run: python -m lab_tools.grafo_riferimenti
+      - name: Citazioni Costituzionali
+        run: python -m lab_tools.estrai_citazioni_costituzionali
+      - name: Commit if changed
+        run: |
           if [ -n "$(git status --porcelain data/derived/)" ]; then
             git config user.name "github-actions"
             git config user.email "actions@github.com"
