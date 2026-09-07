@@ -22,15 +22,20 @@ REPO = Path(__file__).resolve().parent.parent
 
 class TestLoadCollezioni:
 
-    def test_loads_from_config(self):
-        result = _load_collezioni()
-        assert isinstance(result, list)
-        assert len(result) > 0
-        assert "Leggi costituzionali" in result
+    def test_loads_list_from_file(self, tmp_path):
+        config = tmp_path / "config"
+        config.mkdir()
+        col_file = config / "collezioni.txt"
+        col_file.write_text("Leggi costituzionali\nDL e leggi di conversione\n\n", encoding="utf-8")
 
-    def test_returns_list_of_strings(self):
-        result = _load_collezioni()
-        assert all(isinstance(c, str) for c in result)
+        with patch("lab_tools.fetch_normattiva.CONFIG_COLLEZIONI", col_file):
+            result = _load_collezioni()
+        assert result == ["Leggi costituzionali", "DL e leggi di conversione"]
+
+    def test_missing_file_returns_empty(self, tmp_path):
+        with patch("lab_tools.fetch_normattiva.CONFIG_COLLEZIONI", tmp_path / "nope.txt"):
+            result = _load_collezioni()
+        assert result == []
 
 
 # ── _collection_subdir ──────────────────────────────────────────────
