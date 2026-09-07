@@ -1,8 +1,9 @@
-"""Costruisce il grafo dei riferimenti normativi: archi orientati fonte → bersaglio.
+"""Costruisce il grafo unificato dei riferimenti normativi.
 
-Legge tutti i file .md delle collezioni legislative, estrae i link relativi ../,
-li risolve in path assoluti del corpus, e produce un dataset con archi, peso e
-metadati (anno, collezione, tipo) arricchiti da normativa.parquet.
+Legge tutti i file .md delle collezioni legislative e produce un unico
+dataset con due tipi di archi:
+  - tipo_riferimento="atto": link relativi ../ ad altri atti nel corpus
+  - tipo_riferimento="costituzione": citazioni "art. N della Costituzione"
 
 Output: data/derived/riferimenti.parquet
 
@@ -21,7 +22,18 @@ OUTDIR = REPO / "data" / "derived"
 CONFIG_COLLEZIONI = REPO / "config" / "collezioni.txt"
 NORMATIVA_PARQUET = OUTDIR / "normativa.parquet"
 
+# ── Pattern per link relativi (riferimenti ad altri atti) ──
 RE_LINK = re.compile(r'\.\./([^)]+?)\.md')
+
+# ── Pattern per citazioni costituzionali ──
+RE_COST_SINGOLARE = re.compile(
+    r'(?:art\.|articolo)\s+(\d+)\s+della\s*Costituzione',
+    re.IGNORECASE,
+)
+RE_NUMERO = re.compile(r'\d+')
+CONTESTO_RAGGIO = 80
+MAX_ARTICOLI_DIST = 120
+RE_MD_LINK = re.compile(r'\[([^\]]*)\]\([^)]+\)')
 
 
 def _collezioni_legislative() -> list[Path]:
@@ -42,7 +54,7 @@ def _build_file_set() -> set[str]:
 
 
 def _load_normativa_lookup() -> dict[str, dict]:
-    """Carica normativa.parquet e costruisce lookup filename → metadati."""
+    """Carica normativa.parquet e costruisce lookup filename -> metadati."""
     try:
         import pandas as pd
     except ImportError:
@@ -66,6 +78,9 @@ def _load_normativa_lookup() -> dict[str, dict]:
     return lookup
 
 
+# ── Estrazione link relativi ────────────────────────────────────────
+
+
 def estrai_link(body: str) -> list[str]:
     """Estrae i path dei link ../ da un body markdown, decodificati."""
     links = RE_LINK.findall(body)
@@ -73,24 +88,72 @@ def estrai_link(body: str) -> list[str]:
 
 
 def risolvi_path(link_decoded: str, current_relpath: Path) -> Path | None:
-    """Risolve un link relativo ../ in path assoluto rispetto al repo.
-
-    Args:
-        link_decoded: path decodificato (es. 'Decreti Legislativi/TU.md')
-        current_relpath: path relativo del file corrente (es. 'DL Proroghe/x.md')
-
-    Returns:
-        Path risolto (relativo al repo) oppure None se non risolvibile.
-    """
+    """Risolve un link relativo ../ in path assoluto rispetto al repo."""
     parent = current_relpath.parent
     if str(parent) == ".":
-        return None  # file in root, ../ andrebbe sopra — non dovrebbe capitare
+        return None
     resolved = (parent.parent / link_decoded).resolve()
-    # Verifica che sia dentro REPO
     try:
         return resolved.relative_to(REPO)
     except ValueError:
         return None
+
+
+# ── Estrazione citazioni costituzionali ─────────────────────────────
+
+
+def estrai_citazioni_costituzionali(raw: str) -> list[tuple[int, str]]:
+    """Estrae (articolo, contesto) da un body markdown.
+
+    Gestisce:
+      'art. 76 della Costituzione' -> [76]
+      'articoli 76 e 87 della Costituzione' -> [76, 87]
+    """
+    clean = RE_MD_LINK.sub(r'\1', raw)
+    matches: list[tuple[int, str]] = []
+    low = clean.lower()
+
+    # Singolare: regex semplice
+    for m in RE_COST_SINGOLARE.finditer(clean):
+        art = int(m.group(1))
+        if 1 <= art <= 139:
+            start = max(0, m.start() - CONTESTO_RAGGIO)
+            end = min(len(clean), m.end() + CONTESTO_RAGGIO)
+            matches.append((art, clean[start:end].replace("\n", " ").strip()))
+
+    # Plurale: str.find() lineare
+    pos = 0
+    while True:
+        idx = low.find("della costituzione", pos)
+        if idx < 0:
+            break
+        lookback_start = max(0, idx - MAX_ARTICOLI_DIST)
+        chunk = clean[lookback_start:idx]
+        art_idx = chunk.lower().rfind("articoli")
+        if art_idx < 0:
+            pos = idx + 1
+            continue
+        fragment = chunk[art_idx + len("articoli"):].strip()
+        numeri = [int(n) for n in RE_NUMERO.findall(fragment)]
+        for art in numeri:
+            if 1 <= art <= 139:
+                start = max(0, idx - CONTESTO_RAGGIO)
+                end = min(len(clean), idx + len(" della Costituzione") + CONTESTO_RAGGIO)
+                matches.append((art, clean[start:end].replace("\n", " ").strip()))
+        pos = idx + 1
+
+    # Dedup
+    seen: set[tuple[int, str]] = set()
+    unique: list[tuple[int, str]] = []
+    for art, ctx in matches:
+        key = (art, ctx[:100])
+        if key not in seen:
+            seen.add(key)
+            unique.append((art, ctx))
+    return unique
+
+
+# ── Metriche ────────────────────────────────────────────────────────
 
 
 def _stampa_metriche(archi: list[dict], file_set_size: int):
@@ -100,33 +163,27 @@ def _stampa_metriche(archi: list[dict], file_set_size: int):
         print("Nessun arco estratto.")
         return
 
-    citati = set(a["bersaglio_filename"] for a in archi)
-    fonti = set(a["fonte_filename"] for a in archi)
-    risolti = sum(1 for a in archi if a["risolto"])
-    non_risolti = total - risolti
+    archi_atto = [a for a in archi if a["tipo_riferimento"] == "atto"]
+    archi_cost = [a for a in archi if a["tipo_riferimento"] == "costituzione"]
 
-    print(f"\n📊 Grafo riferimenti — metriche")
+    fonti = set(a["fonte_filename"] for a in archi)
+    risolti = sum(1 for a in archi_atto if a["risolto"])
+
+    print(f"\nGrafo riferimenti — metriche")
     print(f"{'='*40}")
     print(f"  Archi totali:        {total:>8,}")
-    print(f"  Risolvibili:         {risolti:>8,} ({risolti/total*100:.1f}%)" if total else "")
-    print(f"  Non risolvibili:     {non_risolti:>8,} ({non_risolti/total*100:.1f}%)" if total else "")
-    print(f"  Atti citanti (fonti): {len(fonti):>8,}")
-    print(f"  Atti citati (bers.): {len(citati):>8,}")
-    print(f"  File nel corpus:     {file_set_size:>8,}")
+    print(f"  - atto:              {len(archi_atto):>8,} ({risolti} risolti)")
+    print(f"  - costituzione:      {len(archi_cost):>8,}")
+    print(f"  Atti con riferimenti: {len(fonti):>7,}")
+    print(f"  File nel corpus:      {file_set_size:>7,}")
 
-    # Top citati (solo risolti)
-    if risolti > 0:
-        counter = Counter()
-        for a in archi:
-            if a["risolto"]:
-                counter[(a["bersaglio_filename"])] += a["peso"]
-        print(f"\n  Top 10 atti più citati:")
-        for path, count in counter.most_common(10):
-            short = path[:70]
-            print(f"    {count:5d}x  {short}")
+
+# ── Main ────────────────────────────────────────────────────────────
 
 
 def main():
+    import csv as csv_module
+
     OUTDIR.mkdir(parents=True, exist_ok=True)
 
     print("Costruzione file set...")
@@ -137,8 +194,10 @@ def main():
     normativa = _load_normativa_lookup()
     print(f"  {len(normativa)} atti caricati")
 
-    print("Estrazione link dai body...")
     archi: list[dict] = []
+
+    # ── Riferimenti ad altri atti (link relativi) ──
+    print("Estrazione link relativi...")
     for col_dir in _collezioni_legislative():
         nome_collezione = col_dir.name
         for f in sorted(col_dir.glob("*.md")):
@@ -152,7 +211,6 @@ def main():
             if not links:
                 continue
 
-            # Conta occorrenze per link unico
             peso_counter: dict[str, int] = {}
             for link in links:
                 peso_counter[link] = peso_counter.get(link, 0) + 1
@@ -168,14 +226,12 @@ def main():
 
                 risolto = bersaglio_path in file_set if bersaglio_path else False
 
-                # Metadati fonte
                 fonte_meta = normativa.get(relpath.name, {})
-                # Metadati bersaglio (solo se risolto)
                 bersaglio_meta = normativa.get(bersaglio_fn, {}) if risolto else {}
-                # Path vuoto se non risolto — il consumer non deve fare ipotesi
                 bp = bersaglio_path if risolto else ""
 
-                arco = {
+                archi.append({
+                    "tipo_riferimento": "atto",
                     "fonte_filename": str(relpath),
                     "fonte_collezione": nome_collezione,
                     "fonte_anno": fonte_meta.get("anno_atto", 0),
@@ -187,8 +243,41 @@ def main():
                     "bersaglio_tipo": bersaglio_meta.get("tipo", ""),
                     "peso": peso,
                     "risolto": risolto,
-                }
-                archi.append(arco)
+                })
+
+    # ── Citazioni costituzionali ──
+    print("Estrazione citazioni costituzionali...")
+    for col_dir in _collezioni_legislative():
+        nome_collezione = col_dir.name
+        for f in sorted(col_dir.glob("*.md")):
+            relpath = f.relative_to(REPO)
+            try:
+                raw = f.read_text("utf-8", errors="replace")
+            except Exception:
+                continue
+
+            citazioni = estrai_citazioni_costituzionali(raw)
+            if not citazioni:
+                continue
+
+            meta = normativa.get(relpath.name, {})
+            for art, contesto in citazioni:
+                archi.append({
+                    "tipo_riferimento": "costituzione",
+                    "fonte_filename": str(relpath),
+                    "fonte_collezione": nome_collezione,
+                    "fonte_anno": meta.get("anno_atto", 0),
+                    "fonte_tipo": meta.get("tipo", ""),
+                    "bersaglio_filename": "",
+                    "bersaglio_path": "",
+                    "bersaglio_collezione": "",
+                    "bersaglio_anno": 0,
+                    "bersaglio_tipo": "",
+                    "peso": 1,
+                    "risolto": True,
+                    "articolo_costituzione": art,
+                    "contesto": contesto[:300],
+                })
 
     _stampa_metriche(archi, len(file_set))
 
@@ -196,9 +285,11 @@ def main():
     csv_path = OUTDIR / "riferimenti.csv"
     import csv as csv_module
     fieldnames = [
-        "fonte_filename", "fonte_collezione", "fonte_anno", "fonte_tipo",
+        "tipo_riferimento", "fonte_filename", "fonte_collezione",
+        "fonte_anno", "fonte_tipo",
         "bersaglio_filename", "bersaglio_path", "bersaglio_collezione",
-        "bersaglio_anno", "bersaglio_tipo", "peso", "risolto",
+        "bersaglio_anno", "bersaglio_tipo",
+        "peso", "risolto", "articolo_costituzione", "contesto",
     ]
     archi_out = [{k: v for k, v in a.items() if k in fieldnames} for a in archi]
     with open(csv_path, "w", newline="", encoding="utf-8") as f:
