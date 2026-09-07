@@ -2,9 +2,10 @@
 
 **20.716 atti normativi, da codici a decreti-legge, in formato aperto e interrogabile.**
 
-Il corpus della legislazione italiana vigente da Normattiva: leggi, decreti
-legislativi, decreti-legge, regolamenti, DPCM, testi unici, codici e atti di
-recepimento UE. Tutto in Markdown, cercabile per testo e struttura.
+Il corpus della legislazione italiana vigente: leggi, decreti legislativi,
+decreti-legge, regolamenti, DPCM, testi unici, codici e atti di recepimento UE.
+Scaricati direttamente dall'API Normattiva OpenData, convertiti da Akoma Ntoso XML
+a Markdown. Tutto cercabile per testo e struttura.
 
 ## Cosa contiene
 
@@ -15,7 +16,7 @@ recepimento UE. Tutto in Markdown, cercabile per testo e struttura.
 | **Riferimenti incrociati** | 108.490 archi tra atti |
 | **Atti con CELEX** | 757 (collegati alla normativa UE) |
 | **Atti più citato** | Codice Penale (7.815 riferimenti) |
-| **Aggiornamento** | Sincronizzazione automatica giornaliera da Normattiva |
+| **Aggiornamento** | Fetch giornaliero diretto dall'API Normattiva (solo atti vigenti) |
 
 ## Esempi di domande
 
@@ -70,14 +71,15 @@ duckdb.sql("""
 
 | Tool | Cosa fa |
 |---|---|
+| **Fetch Normattiva** | Scarica XML Akoma Ntoso dall'API Normattiva e converte in Markdown |
 | **MCP server** | Ricerca full-text, recupero documenti, elenco collezioni |
 | **Estrattore metadati** | Parsa i Markdown → `normativa.parquet` (tipo, data, URN, CELEX...) |
 | **Grafo riferimenti** | Costruisce gli archi fonte → bersaglio tra atti |
+| **Citazioni costituzionali** | Estrae riferimenti agli articoli della Costituzione |
 
 ### CI / Manutenzione
 
-- **Sync giornaliero** (7:00): aggiorna le collezioni da Normattiva
-- **Build dataset**: rigenera i parquet dopo ogni sync
+- **Build dataset** (06:30): fetch da Normattiva → extract → grafo → citazioni
 - **Test**: `pytest tests/ -v` su ogni push/PR
 
 ### Schema `normativa.parquet`
