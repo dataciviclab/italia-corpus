@@ -1,0 +1,273 @@
+---
+tipo: DECRETO-LEGGE
+numero: 122
+data: 1978-04-14
+titolo: "Attuazione normativa ed organizzativa di direttive CEE in materia di strumenti di misura e di metodi di controllo metrologico."
+urn: urn:nir:stato:decreto.legge:1978-04-14;122
+codice_redazionale: 078U0122
+vigente: true
+---
+
+## PRINCIPI GENERALI
+
+Titolo I
+
+### Art. 1.
+
+DECRETO DECADUTO
+
+### Art. 2.
+
+DECRETO DECADUTO
+
+### Art. 3.
+
+DECRETO DECADUTO
+
+### Art. 4.
+
+DECRETO DECADUTO
+
+## CONTROLLO CEE
+
+Titolo II
+
+### Art. 5.
+
+DECRETO DECADUTO
+
+### Art. 6.
+
+DECRETO DECADUTO
+
+### Art. 7.
+
+DECRETO DECADUTO
+
+## APPROVAZIONE CEE DI MODELLO
+
+Titolo III
+
+### Art. 8.
+
+DECRETO DECADUTO
+
+### Art. 9.
+
+DECRETO DECADUTO
+
+### Art. 10.
+
+DECRETO DECADUTO
+
+### Art. 11.
+
+DECRETO DECADUTO
+
+### Art. 12.
+
+DECRETO DECADUTO
+
+### Art. 13.
+
+DECRETO DECADUTO
+
+### Art. 14.
+
+DECRETO DECADUTO
+
+### Art. 15.
+
+DECRETO DECADUTO
+
+## VERIFICA PRIMA CEE
+
+Titolo IV
+
+### Art. 16.
+
+DECRETO DECADUTO
+
+### Art. 17.
+
+DECRETO DECADUTO
+
+### Art. 18.
+
+DECRETO DECADUTO
+
+### Art. 19.
+
+DECRETO DECADUTO
+
+### Art. 20.
+
+DECRETO DECADUTO
+
+## CONTROLLO DEGLI STRUMENTI IN SERVIZIO
+
+Titolo V
+
+### Art. 21.
+
+DECRETO DECADUTO
+
+## PESO ETTOLITRICO CEE E TITOLI ALCOLOMETRICI
+
+Titolo VI
+
+### Art. 22.
+
+DECRETO DECADUTO
+
+### Art. 23.
+
+DECRETO DECADUTO
+
+### Art. 24.
+
+DECRETO DECADUTO
+
+## SANZIONI
+
+Titolo VII
+
+### Art. 25.
+
+DECRETO DECADUTO
+
+## DIRITTI
+
+Titolo VIII
+
+### Art. 26.
+
+DECRETO DECADUTO
+
+### Art. 27.
+
+DECRETO DECADUTO
+
+### Art. 28.
+
+DECRETO DECADUTO
+
+### Art. 29.
+
+DECRETO DECADUTO
+
+### Art. 30.
+
+DECRETO DECADUTO
+
+## ORDINAMENTO E COMPITI
+
+Titolo IX
+
+### Art. 31.
+
+DECRETO DECADUTO
+
+### Art. 32.
+
+DECRETO DECADUTO
+
+### Art. 33.
+
+DECRETO DECADUTO
+
+### Art. 34.
+
+DECRETO DECADUTO
+
+### Art. 35.
+
+DECRETO DECADUTO
+
+### Art. 36.
+
+DECRETO DECADUTO
+
+## PERSONALE DELL'AMMINISTRAZIONE METRICA E DEL SAGGIO DEI METALLI PREZIOSI
+
+Titolo X
+
+### Art. 37.
+
+DECRETO DECADUTO
+
+### Art. 38.
+
+DECRETO DECADUTO
+
+### Art. 39.
+
+DECRETO DECADUTO
+
+### Art. 40.
+
+DECRETO DECADUTO
+
+### Art. 41.
+
+DECRETO DECADUTO
+
+### Art. 42.
+
+DECRETO DECADUTO
+
+### Art. 43.
+
+DECRETO DECADUTO
+
+### Art. 44.
+
+DECRETO DECADUTO
+
+### Art. 45.
+
+DECRETO DECADUTO
+
+### Art. 46.
+
+DECRETO DECADUTO
+
+## DISPOSIZIONI TRANSITORIE E FINALI
+
+Titolo XI
+
+### Art. 47.
+
+DECRETO DECADUTO
+
+### Art. 48.
+
+DECRETO DECADUTO
+
+### Art. 49.
+
+DECRETO DECADUTO
+
+### Art. 50.
+
+DECRETO DECADUTO
+
+### Art. 51.
+
+DECRETO DECADUTO
+
+### Art. 52.
+
+DECRETO DECADUTO
+
+### Art. 53.
+
+DECRETO DECADUTO
+
+### Art. 54.
+
+DECRETO DECADUTO
+
+### Art. 55.
+
+DECRETO DECADUTO

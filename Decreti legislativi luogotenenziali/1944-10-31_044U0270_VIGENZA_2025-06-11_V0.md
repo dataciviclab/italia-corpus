@@ -1,0 +1,25 @@
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 270
+data: 1944-08-31
+titolo: "Modificazioni al R. decreto-legge 2 marzo 1944, n. 72, concernente provvedimenti di carattere finanziario per esigenze dipendenti dallo stato di guerra. (044U0270)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-31;270
+codice_redazionale: 044U0270
+vigente: true
+---
+
+## Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+## Art. 2.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+## Art. 3.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+## Art. 4.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

@@ -1,0 +1,25 @@
+---
+tipo: LEGGE
+numero: 1330
+data: 1956-11-29
+titolo: "Conversione in legge del decreto-legge 28 settembre 1956, n. 1110, concernente la modificazione dei dazi di importazione applicati sugli oli di petrolio, oli provenienti dalla lavorazione dei catrami paraffinici di lignite, di torba, di schisti e simili, altri residui della lavorazione da usare direttamente come combustibili esclusivamente nelle caldaie e nei forni."
+urn: urn:nir:stato:legge:1956-11-29;1330
+codice_redazionale: 056U1330
+vigente: true
+---
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA la seguente legge:
+
+## Articolo unico.
+
+E' convertito in legge il [decreto-legge 28 settembre 1956, n. 1110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1956-09-28;1110), concernente la modificazione del dazio doganale applicato sui residui della lavorazione degli oli minerali da usare direttamente come combustibili nelle caldaie e nei forni.
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 29 novembre 1956
+
+GRONCHI SEGNI - ANDREOTTI - ZOLI - MEDICI - CORTESE - MATTARELLA Visto, il Guardasigilli: MORO

@@ -1,0 +1,61 @@
+---
+tipo: DECRETO-LEGGE
+numero: 3
+data: 2006-01-10
+titolo: "Attuazione della direttiva 98/44/CE in materia di protezione giuridica delle invenzioni biotecnologiche."
+urn: urn:nir:stato:decreto.legge:2006-01-10;3
+codice_redazionale: 006G0006
+vigente: true
+---
+
+## Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 13 AGOSTO 2010, N. 131))
+
+## Art. 2.
+
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 13 AGOSTO 2010, N. 131))
+
+## Art. 3.
+
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 13 AGOSTO 2010, N. 131))
+
+## Art. 4.
+
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 13 AGOSTO 2010, N. 131))
+
+## Art. 5.
+
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 13 AGOSTO 2010, N. 131))
+
+## Art. 6.
+
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 13 AGOSTO 2010, N. 131))
+
+## Art. 7.
+
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 13 AGOSTO 2010, N. 131))
+
+## Art. 8.
+
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 13 AGOSTO 2010, N. 131))
+
+## Art. 9.
+
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 13 AGOSTO 2010, N. 131))
+
+## Art. 10.
+
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 13 AGOSTO 2010, N. 131))
+
+## Art. 11.
+
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 13 AGOSTO 2010, N. 131))
+
+## Art. 12.
+
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 13 AGOSTO 2010, N. 131))
+
+## Art. 13.
+
+((PROVVEDIMENTO ABROGATO DAL D. LGS. 13 AGOSTO 2010, N. 131))

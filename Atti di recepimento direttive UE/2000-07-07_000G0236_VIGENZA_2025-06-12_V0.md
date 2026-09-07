@@ -1,0 +1,69 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 187
+data: 2000-05-26
+titolo: "Attuazione della direttiva 97/43/Euratom in materia di protezione sanitaria delle persone contro i pericoli delle radiazioni ionizzanti connesse ad esposizioni mediche."
+urn: urn:nir:stato:decreto.legislativo:2000-05-26;187
+codice_redazionale: 000G0236
+vigente: true
+---
+
+## Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 LUGLIO 2020, N. 101))
+
+## Art. 2.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 LUGLIO 2020, N. 101))
+
+## Art. 3.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 LUGLIO 2020, N. 101))
+
+## Art. 4.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 LUGLIO 2020, N. 101))
+
+## Art. 5.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 LUGLIO 2020, N. 101))
+
+## Art. 6.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 LUGLIO 2020, N. 101))
+
+## Art. 7.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 LUGLIO 2020, N. 101))
+
+## Art. 8.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 LUGLIO 2020, N. 101))
+
+## Art. 9.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 LUGLIO 2020, N. 101))
+
+## Art. 10.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 LUGLIO 2020, N. 101))
+
+## Art. 11.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 LUGLIO 2020, N. 101))
+
+## Art. 12.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 LUGLIO 2020, N. 101))
+
+## Art. 13.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 LUGLIO 2020, N. 101))
+
+## Art. 14.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 LUGLIO 2020, N. 101))
+
+## Art. 15.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 31 LUGLIO 2020, N. 101))
