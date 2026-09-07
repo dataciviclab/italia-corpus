@@ -11,6 +11,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Primo checkout: solo config/ per leggere la lista delle collezioni
+      - uses: actions/checkout@v6.0.3
+        with:
+          sparse-checkout: |
+            config/
+      - name: Build collections list
+        id: cols
+        run: |
+          echo "list<<EOF" >> "$GITHUB_OUTPUT"
+          cat config/collezioni.txt >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+      # Secondo checkout: tooling + collezioni + dati derivati
       - uses: actions/checkout@v6.0.3
         with:
           sparse-checkout: |
@@ -18,6 +30,7 @@ jobs:
             tests/
             config/
             data/derived/
+            ${{ steps.cols.outputs.list }}
       - uses: actions/setup-python@v6.2.0
         with:
           python-version: '3.12'
@@ -33,10 +46,10 @@ jobs:
         run: python -m lab_tools.estrai_citazioni_costituzionali
       - name: Commit if changed
         run: |
-          if [ -n "$(git status --porcelain data/derived/)" ]; then
+          if [ -n "$(git status --porcelain)" ]; then
             git config user.name "github-actions"
             git config user.email "actions@github.com"
-            git add data/derived/*.parquet
+            git add -A
             git commit -m "chore(data): update dataset [skip ci]"
             git push
           fi
