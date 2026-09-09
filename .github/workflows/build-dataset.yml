@@ -40,10 +40,8 @@ jobs:
         run: python -m lab_tools.fetch_normattiva
       - name: Extract metadati
         run: python -m lab_tools.extract
-      - name: Grafo riferimenti
+      - name: Grafo riferimenti (atti + costituzione)
         run: python -m lab_tools.grafo_riferimenti
-      - name: Citazioni Costituzionali
-        run: python -m lab_tools.estrai_citazioni_costituzionali
       - name: Commit if changed
         run: |
           if [ -n "$(git status --porcelain)" ]; then
