@@ -9,55 +9,26 @@ from lab_tools.extract import extract, _estrai_riferimento_ue, _dedup, _get_body
 FIXTURES = Path(__file__).resolve().parent / "fixtures"
 
 
-# ─── file legacy (senza frontmatter, regex fallback) ─────────────
+# ─── file senza frontmatter ────────────────────────────────────────
 
 
-def test_con_celex_body():
-    """File legacy (senza frontmatter): estrae tipo/data/numero/entrata_vigore dal body.
-    CELEX non estraibile dall'oggetto (nessun riferimento UE nell'oggetto)."""
+def test_senza_frontmatter_restituisce_none():
+    """File senza frontmatter YAML: extract() restituisce None.
+    Tutti i file del corpus hanno frontmatter, i file legacy vengono ignorati."""
     result = extract(FIXTURES / "con_celex.md")
-    assert result is not None
-    assert result["tipo"] == "DECRETO LEGISLATIVO"
-    assert result["data"] == "2020-03-15"
-    assert result["numero"] == "45"
-    assert result["oggetto"] == "con_celex"
-    # CELEX non presente nell'oggetto (solo nel body, non più estratto)
-    assert result["celex"] == ""
-    assert result["anno_atto"] == 2020
-    assert result["anno_dir"] == 0
-    assert result["ritardo"] is None
-    assert result["collezione"] == ""
-    # Nuovi campi frontmatter: legacy → None/ignoto
-    assert result["urn"] == ""
-    assert result["codice_redazionale"] == ""
-    # Nuovi campi body metrics (file senza frontmatter)
-    assert result["lunghezza_caratteri"] > 0
-    assert result["lunghezza_parole"] > 0
-    assert result["riferimenti_interni"] == 0  # fixture senza ../
+    assert result is None
 
 
-def test_collezione_esplicita():
-    """Parametro collezione passato a extract()."""
+def test_senza_frontmatter_con_collezione():
+    """Anche con collezione esplicita, file senza frontmatter → None."""
     result = extract(FIXTURES / "con_celex.md", collezione="Test")
-    assert result is not None
-    assert result["collezione"] == "Test"
+    assert result is None
 
 
-def test_senza_celex():
-    """File (legacy) senza CELEX né entrata vigore: campi vuoti."""
+def test_senza_celex_restituisce_none():
+    """File legacy senza CELEX e senza frontmatter → None."""
     result = extract(FIXTURES / "senza_celex.md")
-    assert result is not None
-    assert result["tipo"] == "LEGGE"
-    assert result["data"] == "2021-01-10"
-    assert result["numero"] == "1"
-    assert result["celex"] == ""
-    assert result["anno_dir"] == 0
-    assert result["ritardo"] is None
-    assert result["urn"] == ""
-    # Nuovi campi body metrics
-    assert result["lunghezza_caratteri"] > 0
-    assert result["lunghezza_parole"] > 0
-    assert result["riferimenti_interni"] == 0  # fixture senza ../
+    assert result is None
 
 
 # ─── frontmatter YAML (fast path) ────────────────────────────────
