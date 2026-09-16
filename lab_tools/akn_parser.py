@@ -1,6 +1,7 @@
 """Parse Akoma Ntoso XML e produci frontmatter YAML + body markdown.
 
-Adattato da ahmeabd/italia-corpus-script (MIT).
+Originariamente adattato da ahmeabd/italia-corpus-script (MIT),
+ora maintenuto da DataCivicLab.
 """
 
 from __future__ import annotations

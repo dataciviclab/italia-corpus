@@ -99,7 +99,7 @@ def process_collection(
     dest_dir = corpus_dir / subdir
     dest_dir.mkdir(parents=True, exist_ok=True)
 
-    # Pulisci vecchi .md (prevenir duplicati da coesistenza upstream + AKN)
+    # Pulisci vecchi .md prima del fetch per evitare duplicati
     for old_file in dest_dir.glob("*.md"):
         old_file.unlink()
 
