@@ -4,7 +4,7 @@ Cosa fa questa PR.
 
 ## Tipo di modifica
 
-- [ ] Sync upstream
+- [ ] Fetch Normattiva (aggiornamento corpus)
 - [ ] Tooling Lab (mcp_server.py, extract.py)
 - [ ] Dataset / artifact
 - [ ] Documentazione
@@ -12,4 +12,4 @@ Cosa fa questa PR.
 ## Verifiche
 
 - [ ] Test superati
-- [ ] Corpus non modificato (salvo sync upstream)
+- [ ] Corpus non modificato (salvo fetch Normattiva)

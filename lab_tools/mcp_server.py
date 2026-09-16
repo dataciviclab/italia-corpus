@@ -21,11 +21,6 @@ _QUERY_MAX_WORDS = 8
 _MAX_LIMIT = 100
 _RG_LIST_MATCHES = 3
 
-_FRONTMATTER_BOILERPLATE = frozenset({
-    "Art.", "IL PRESIDENTE", "Entrata", "Visti", "Considerato",
-    "Visto", "Ritenuto", "Sentito", "Udito", "===", "---", "\x0c",
-})
-
 
 # ─── helpers interni ──────────────────────────────────────────────
 
@@ -38,41 +33,27 @@ def _leggi_collezioni() -> set[str]:
 
 
 def _file_metadata(file: str) -> dict[str, Any]:
-    """Estrae metadati da un file .md: priorità al frontmatter YAML poi fallback body.
+    """Estrae metadati da un file .md tramite frontmatter YAML.
+
+    Tutti i file del corpus hanno frontmatter con tipo, data, urn,
+    codice_redazionale, vigente.
 
     Returns:
-        Dict con almeno ``title``; se frontmatter presente anche
-        ``tipo``, ``data``, ``urn``, ``codice_redazionale``, ``vigente``.
+        Dict con title, tipo, data, urn, codice_redazionale, vigente.
     """
-    # ── Leggi frontmatter YAML (tutti i file attuali del corpus lo hanno) ──
     fm = read_frontmatter(file)
-    if fm:
-        title = fm.get("titolo") or ""
-        return {
-            "title": title[:200] if title else _pick_title_body(file),
-            "tipo": fm.get("tipo", ""),
-            "data": str(fm.get("data", "")),
-            "urn": fm.get("urn", ""),
-            "codice_redazionale": fm.get("codice_redazionale", ""),
-            "vigente": bool(fm.get("vigente", True)),
-        }
+    if not fm:
+        return {"title": Path(file).stem}
 
-    # ── Fallback: scansione body (file legacy senza frontmatter) ──
+    title = fm.get("titolo") or ""
     return {
-        "title": _pick_title_body(file),
+        "title": title[:200] if title else Path(file).stem,
+        "tipo": fm.get("tipo", ""),
+        "data": str(fm.get("data", "")),
+        "urn": fm.get("urn", ""),
+        "codice_redazionale": fm.get("codice_redazionale", ""),
+        "vigente": bool(fm.get("vigente", True)),
     }
-
-
-def _pick_title_body(file: str) -> str:
-    """Fallback: estrae titolo dal body (prime righe) — per file senza frontmatter."""
-    with open(file, encoding="utf-8", errors="replace") as f:
-        for i, line in enumerate(f):
-            if i > 10:
-                break
-            line = line.strip()
-            if line and not line.startswith(tuple(_FRONTMATTER_BOILERPLATE)):
-                return line[:200]
-    return Path(file).stem
 
 
 def _collezione_da_path(rel_path: str) -> str:
@@ -330,9 +311,8 @@ def legal_search(
         collezione: Filtra per collezione (opzionale).
 
     Returns:
-        Lista di dict con title, collection, filename, path, snippet, match_count.
-        Se il file ha frontmatter YAML, include anche tipo, data, urn,
-        codice_redazionale, vigente.
+        Lista di dict con title, collection, filename, path, snippet, match_count,
+        tipo, data, urn, codice_redazionale, vigente (dal frontmatter YAML).
     """
     return guard_timed(
         _search_corpus, "italia-corpus_legal_search",

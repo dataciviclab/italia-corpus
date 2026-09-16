@@ -13,6 +13,6 @@ data_source:
   filter: formatoRichiesta=V (solo atti vigenti)
 datasets:
   - normativa  # dataset principale, generato da lab_tools.extract
-datasets_deprecated:
-  - normativa_recepimento_ue  # subset storico, non più aggiornabile (nessun CELEX upstream)
+  - riferimenti  # grafo riferimenti normativi
+  - citazioni-costituzionali  # archi atto → articolo costituzionale
 maintainer: DataCivicLab

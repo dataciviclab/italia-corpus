@@ -1,14 +1,13 @@
 """Estrae metadati da tutte le collezioni legislative del corpus.
 Dedup per filename: ogni atto appare una volta con campo 'collezioni' multiplo.
 
-Produce CSV + Parquet in data/derived/.
+Produce Parquet in data/derived/.
 
 Uso: python -m lab_tools.extract
 """
 
 from __future__ import annotations
 
-import csv
 import re
 from pathlib import Path
 
@@ -18,13 +17,6 @@ REPO = Path(__file__).resolve().parent.parent
 OUTDIR = REPO / "data" / "derived"
 CONFIG_COLLEZIONI = REPO / "config" / "collezioni.txt"
 
-RE_TIPO = re.compile(
-    r'^([A-Z\u00c0-\u00d9\s\-]+?)\s+(\d{1,2})\s+([a-zA-Z]+)\s+(\d{4})\s+n\.\s*(\d+)',
-    re.MULTILINE,
-)
-RE_OGGETTO = re.compile(
-    r'^={3,}\s*$\s*^(.+?)\s*$\s*^-{3,}', re.MULTILINE | re.DOTALL,
-)
 # Atti UE: singolari e plurali, con/senza (UE), n., delegato/di esecuzione
 # Cattura 3 gruppi: (tipo_parola, anno, numero)
 # L'anno è il primo gruppo di 4 cifre prima dello slash; in formato
@@ -39,24 +31,6 @@ RE_DOC_UE = re.compile(
 )
 _TIPO_CELEX = {"direttiva": "L", "regolamento": "R", "decisione": "D",
                "direttive": "L", "regolamenti": "R", "decisioni": "D"}
-
-MESI = {
-    "gennaio": "01", "febbraio": "02", "marzo": "03", "aprile": "04",
-    "maggio": "05", "giugno": "06", "luglio": "07", "agosto": "08",
-    "settembre": "09", "ottobre": "10", "novembre": "11", "dicembre": "12",
-}
-
-FIELDNAMES = [
-    "collezione", "filename", "tipo", "data", "numero",
-    "oggetto", "celex",
-    "anno_atto", "anno_dir", "ritardo",
-    "urn", "codice_redazionale",
-    "lunghezza_caratteri", "lunghezza_parole", "riferimenti_interni",
-]
-
-
-def _parse_data(g: str, m: str, a: str) -> str:
-    return f"{a}-{MESI.get(m.lower(), '00')}-{g.zfill(2)}"
 
 
 def _estrai_riferimento_ue(oggetto: str) -> tuple[str | None, int | None]:
@@ -119,25 +93,6 @@ def _estrai_riferimento_ue(oggetto: str) -> tuple[str | None, int | None]:
     return celex, anno
 
 
-def _extract_body_fields(raw: str, filepath: Path) -> dict | None:
-    """Estrae tipo/data/numero/oggetto dal body con regex (fallback)."""
-    m = RE_TIPO.search(raw)
-    if not m:
-        return None
-    tipo, g, mt, a, num = m.group(1).strip(), m.group(2), m.group(3), m.group(4), m.group(5)
-    data = _parse_data(g, mt, a)
-    m2 = RE_OGGETTO.search(raw)
-    oggetto = m2.group(1).strip() if m2 else filepath.name.replace(".md", "")[:300]
-    return {
-        "tipo": tipo,
-        "data": data,
-        "numero": num,
-        "oggetto": oggetto,
-        "anno_atto": int(a),
-        "ritardo": a,  # placeholder per calcolo dopo CELEX
-    }
-
-
 def _get_body(raw: str) -> str:
     """Estrae il body dal testo markdown, saltando il frontmatter YAML."""
     if raw.startswith("---"):
@@ -160,44 +115,38 @@ def _body_metrics(body: str) -> dict:
 
 
 def extract(filepath: Path, collezione: str = "") -> dict | None:
+    """Estrae metadati da un file .md del corpus.
+
+    Tutti i file hanno frontmatter YAML con tipo, numero, data, titolo, urn,
+    codice_redazionale, vigente.
+    """
     raw = filepath.read_text("utf-8", errors="replace")
     body = _get_body(raw)
     metrics = _body_metrics(body)
 
-    # ── Fast path: frontmatter YAML ──
     fm = parse_frontmatter(raw)
-    if fm and fm.get("tipo"):
-        tipo = str(fm["tipo"])
-        numero = str(fm.get("numero", ""))
-        data = str(fm.get("data", ""))
-        oggetto = str(fm.get("titolo", "")) or filepath.name.replace(".md", "")[:500]
-        urn = str(fm.get("urn", ""))
-        codice_redazionale = str(fm.get("codice_redazionale", ""))
-        anno_atto = int(data[:4]) if len(data) >= 4 and data[:4].isdigit() else 0
-        celex, anno = _estrai_riferimento_ue(oggetto)
-        ritardo = (anno_atto - anno) if anno and anno <= anno_atto < anno + 100 else None
-        return {"collezione": collezione, "filename": filepath.name,
-                "tipo": tipo, "data": data, "numero": numero,
-                "oggetto": oggetto[:500],
-                "celex": celex or "", "anno_atto": anno_atto,
-                "anno_dir": anno or 0, "ritardo": ritardo,
-                "urn": urn,
-                "codice_redazionale": codice_redazionale,
-                **metrics}
-
-    # ── Fallback: regex body (file legacy senza frontmatter) ──
-    body = _extract_body_fields(raw, filepath)
-    if not body:
+    if not fm or not fm.get("tipo"):
         return None
-    celex, anno = _estrai_riferimento_ue(body.get("oggetto", ""))
-    ritardo = (int(body["anno_atto"]) - anno) if anno and anno <= int(body["anno_atto"]) < anno + 100 else None
-    return {"collezione": collezione, "filename": filepath.name,
-            "tipo": body["tipo"], "data": body["data"], "numero": body["numero"],
-            "oggetto": body["oggetto"][:500],
-            "celex": celex or "", "anno_atto": body["anno_atto"],
-            "anno_dir": anno or 0, "ritardo": ritardo,
-            "urn": "", "codice_redazionale": "",
-            **metrics}
+
+    tipo = str(fm["tipo"])
+    numero = str(fm.get("numero", ""))
+    data = str(fm.get("data", ""))
+    oggetto = str(fm.get("titolo", "")) or filepath.name.replace(".md", "")[:500]
+    urn = str(fm.get("urn", ""))
+    codice_redazionale = str(fm.get("codice_redazionale", ""))
+    anno_atto = int(data[:4]) if len(data) >= 4 and data[:4].isdigit() else 0
+    celex, anno = _estrai_riferimento_ue(oggetto)
+    ritardo = (anno_atto - anno) if anno and anno <= anno_atto < anno + 100 else None
+
+    return {
+        "collezione": collezione, "filename": filepath.name,
+        "tipo": tipo, "data": data, "numero": numero,
+        "oggetto": oggetto[:500],
+        "celex": celex or "", "anno_atto": anno_atto,
+        "anno_dir": anno or 0, "ritardo": ritardo,
+        "urn": urn, "codice_redazionale": codice_redazionale,
+        **metrics,
+    }
 
 
 def _collezioni_legislative() -> list[Path]:
@@ -236,13 +185,9 @@ def main():
     if not records:
         print("Nessun atto estratto.")
         return
-    csv_path = OUTDIR / "normativa.csv"
-    with open(csv_path, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=FIELDNAMES)
-        w.writeheader()
-        w.writerows(records)
-    print(f"TOTALE: {len(records)} atti -> {csv_path}")
+    print(f"TOTALE: {len(records)} atti")
     print(f"Con CELEX: {sum(1 for r in records if r['celex'])}")
+
     try:
         import pandas as pd
         df = pd.DataFrame(records)
@@ -250,7 +195,7 @@ def main():
         df.to_parquet(pqt, index=False)
         print(f"Parquet: {pqt} ({len(df)} righe)")
     except ImportError:
-        pass
+        print("pandas non installato, parquet non generato.")
 
 
 if __name__ == "__main__":
