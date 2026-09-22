@@ -15,6 +15,7 @@ Usage:
 
 from __future__ import annotations
 
+import json
 import re
 import sys
 from pathlib import Path
@@ -129,7 +130,6 @@ def main() -> int:
         return 1
 
     # Write to parquet via DuckDB
-    import json
     tmp_file = OUTPUT_DIR / "_tmp_pnrr_refs.json"
     tmp_file.write_text(json.dumps(all_refs, ensure_ascii=False))
     con = duckdb.connect(":memory:")
