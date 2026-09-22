@@ -27,8 +27,18 @@ def parse_frontmatter(text: str) -> dict | None:
     end = text.find("---", 3)
     if end < 0:
         return None
+    # Sanitize: strip control characters and Unicode replacement chars that
+    # break YAML parsing. These come from Windows-1252 artifacts (\x95, \x9b)
+    # in older Italian legislative texts.
+    raw = text[3:end]
+    sanitized = "".join(
+        ch for ch in raw
+        if ch not in ("\ufffd",)
+        and not (0x00 <= ord(ch) <= 0x1F and ch not in ("\t", "\n", "\r"))
+        and not (0x7F <= ord(ch) <= 0x9F)
+    )
     try:
-        data = yaml.safe_load(text[3:end])
+        data = yaml.safe_load(sanitized)
     except yaml.YAMLError:
         return None
     if not isinstance(data, dict):
