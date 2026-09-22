@@ -20,8 +20,6 @@ import re
 import sys
 from pathlib import Path
 
-import duckdb
-
 COLLECTIONS_DIR = Path(__file__).resolve().parent.parent
 OUTPUT_DIR = COLLECTIONS_DIR / "data" / "derived"
 
@@ -130,6 +128,7 @@ def main() -> int:
         return 1
 
     # Write to parquet via DuckDB
+    import duckdb
     tmp_file = OUTPUT_DIR / "_tmp_pnrr_refs.json"
     tmp_file.write_text(json.dumps(all_refs, ensure_ascii=False))
     con = duckdb.connect(":memory:")

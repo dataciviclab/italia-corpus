@@ -17,8 +17,6 @@ import re
 import sys
 from pathlib import Path
 
-import duckdb
-
 COLLECTIONS_DIR = Path(__file__).resolve().parent.parent
 OUTPUT_DIR = COLLECTIONS_DIR / "data" / "derived"
 
@@ -91,6 +89,7 @@ def main() -> int:
         return 1
 
     # Save
+    import duckdb
     tmp = OUTPUT_DIR / "_tmp_abro.json"
     tmp.write_text(json.dumps(unique, ensure_ascii=False))
     con = duckdb.connect(":memory:")
