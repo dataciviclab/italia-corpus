@@ -12,7 +12,6 @@ Usage:
 
 from __future__ import annotations
 
-import json
 import re
 import sys
 from pathlib import Path
@@ -89,36 +88,23 @@ def main() -> int:
         return 1
 
     # Save
-    import duckdb
-    tmp = OUTPUT_DIR / "_tmp_abro.json"
-    tmp.write_text(json.dumps(unique, ensure_ascii=False))
-    con = duckdb.connect(":memory:")
-    con.execute(f"CREATE TABLE abro AS SELECT * FROM read_json_auto('{tmp}')")
-    con.execute(f"COPY abro TO '{output_file}' (FORMAT PARQUET, COMPRESSION 'zstd')")
+    import pandas as pd
+    df = pd.DataFrame(unique)
+    df.to_parquet(output_file, index=False)
 
-    n = con.execute("SELECT COUNT(*) FROM abro").fetchone()[0]
-    print(f"Saved: {output_file} ({n} rows)")
+    print(f"Saved: {output_file} ({len(df)} rows)")
 
     # Summary
     print(f"\n=== Top atti abrogati ===")
-    rows = con.execute("""
-        SELECT abrogated_year, abrogated_number, COUNT(*) as n
-        FROM abro
-        GROUP BY abrogated_year, abrogated_number
-        ORDER BY n DESC
-        LIMIT 10
-    """).fetchall()
-    for r in rows:
-        print(f"  {r[1]}/{r[0]}: abrogato {r[2]} volte")
+    top = df.groupby(["abrogated_year", "abrogated_number"]).size().reset_index(name="n").sort_values("n", ascending=False).head(10)
+    for _, r in top.iterrows():
+        print(f"  {int(r['abrogated_number'])}/{int(r['abrogated_year'])}: abrogato {r['n']} volte")
 
-    # Unique abrogating acts
-    n_abrogators = con.execute("SELECT COUNT(DISTINCT abrogating_file) FROM abro").fetchone()[0]
-    n_abrogated = con.execute("SELECT COUNT(DISTINCT abrogated_year || '-' || abrogated_number) FROM abro").fetchone()[0]
+    n_abrogators = df["abrogating_file"].nunique()
+    n_abrogated = df.groupby(["abrogated_year", "abrogated_number"]).ngroups
     print(f"\nAtti che abrogano: {n_abrogators}")
     print(f"Atti abrogati unici: {n_abrogated}")
 
-    con.close()
-    tmp.unlink(missing_ok=True)
     return 0
 
 

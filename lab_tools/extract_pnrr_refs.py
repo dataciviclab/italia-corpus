@@ -15,7 +15,6 @@ Usage:
 
 from __future__ import annotations
 
-import json
 import re
 import sys
 from pathlib import Path
@@ -127,35 +126,23 @@ def main() -> int:
         print("No references found!")
         return 1
 
-    # Write to parquet via DuckDB
-    import duckdb
-    tmp_file = OUTPUT_DIR / "_tmp_pnrr_refs.json"
-    tmp_file.write_text(json.dumps(all_refs, ensure_ascii=False))
-    con = duckdb.connect(":memory:")
-    con.execute(f"CREATE TABLE refs AS SELECT * FROM read_json_auto('{tmp_file}')")
-    con.execute(f"COPY refs TO '{output_file}' (FORMAT PARQUET, COMPRESSION 'zstd')")
+    # Write to parquet via pandas
+    import pandas as pd
+    df = pd.DataFrame(all_refs)
+    df.to_parquet(output_file, index=False)
 
-    n = con.execute("SELECT COUNT(*) FROM refs").fetchone()[0]
-    print(f"Saved: {output_file} ({n} rows)")
+    print(f"Saved: {output_file} ({len(df)} rows)")
 
     # Summary
-    by_missione = con.execute("""
-        SELECT missione, componente, COUNT(*) as cnt
-        FROM refs
-        WHERE missione IS NOT NULL
-        GROUP BY missione, componente
-        ORDER BY missione, componente
-    """).fetchall()
-    print(f"\nBy missione/componente:")
-    for r in by_missione:
-        print(f"  M{r[0]}C{r[1]}: {r[2]} refs")
+    if "missione" in df.columns:
+        by_missione = df[df["missione"].notna()].groupby(["missione", "componente"]).size().reset_index(name="cnt")
+        print(f"\nBy missione/componente:")
+        for _, r in by_missione.iterrows():
+            print(f"  M{int(r['missione'])}C{int(r['componente'])}: {r['cnt']} refs")
 
-    # Unique acts
-    unique_acts = con.execute("SELECT COUNT(DISTINCT filename) FROM refs").fetchone()[0]
+    unique_acts = df["filename"].nunique()
     print(f"\nUnique acts with PNRR refs: {unique_acts}")
 
-    con.close()
-    tmp_file.unlink(missing_ok=True)
     return 0
 
 
