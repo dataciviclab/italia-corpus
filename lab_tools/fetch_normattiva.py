@@ -95,23 +95,26 @@ def process_collection(
 ) -> int:
     """Scarica, parse, e salva i .md di una collezione. Restituisce il conteggio.
 
-    Ordine corretto: scarica PRIMA, poi sovrascrivi. Se il download fallisce
-    o non produce file, i file esistenti vengono conservati.
+    Ordine: scarica → estrai → converti in staging → swap atomico.
+    Se download fallisce o non produce XML, i file esistenti restano intatti.
     """
     nome = collection["nomeCollezione"]
     subdir = _collection_subdir(nome)
     dest_dir = corpus_dir / subdir
     dest_dir.mkdir(parents=True, exist_ok=True)
 
-    # Download PRIMA di cancellare qualsiasi cosa
+    # 1. Download PRIMA di cancellare qualsiasi cosa
     zip_path = download_collection(collection, work_dir)
     if zip_path is None:
         logger.warning("Download failed for %r — keeping existing files", nome)
         return 0
 
-    # Extract
+    # 2. Extract
     extract_dir = work_dir / f"extract_{subdir.replace(' ', '_')}"
     extract_dir.mkdir(exist_ok=True)
+    staging_dir = work_dir / f"staging_{subdir.replace(' ', '_')}"
+    staging_dir.mkdir(exist_ok=True)
+
     try:
         xml_files = extract_zip(zip_path, extract_dir)
         zip_path.unlink(missing_ok=True)
@@ -120,11 +123,7 @@ def process_collection(
             logger.warning("No XML files in %r — keeping existing files", nome)
             return 0
 
-        # Download e extract riusciti: ora sovrascrivi i vecchi .md
-        for old_file in dest_dir.glob("*.md"):
-            old_file.unlink()
-
-        # Convert
+        # 3. Converti in staging (i .md esistenti restano intatti finché non swap)
         count = 0
         for xml_file in xml_files:
             try:
@@ -132,24 +131,35 @@ def process_collection(
                 source_path = f"{subdir}/{xml_file.stem}.md"
                 fm, markdown = akn_xml_to_markdown(content, urn_index, source_path)
 
-                # Filename: same as XML stem but .md
                 md_filename = xml_file.stem + ".md"
-                md_path = dest_dir / md_filename
+                md_path = staging_dir / md_filename
                 md_path.write_text(markdown, encoding="utf-8")
 
-                # Update live URN index
+                # Update live URN index (punta alla destinazione finale)
                 if fm.urn:
-                    urn_index[fm.urn] = str(md_path.relative_to(corpus_dir))
+                    urn_index[fm.urn] = f"{subdir}/{md_filename}"
 
                 count += 1
             except Exception as e:
                 logger.warning("Failed to convert %s: %s", xml_file.name, e)
+
+        if count == 0:
+            logger.warning("All conversions failed for %r — keeping existing files", nome)
+            return 0
+
+        # 4. Swap atomico: cancella i vecchi .md, sposta i nuovi da staging
+        for old_file in dest_dir.glob("*.md"):
+            old_file.unlink()
+
+        for new_file in staging_dir.glob("*.md"):
+            shutil.move(str(new_file), str(dest_dir / new_file.name))
 
         logger.info("Converted %d/%d files for %r", count, len(xml_files), nome)
         return count
 
     finally:
         shutil.rmtree(extract_dir, ignore_errors=True)
+        shutil.rmtree(staging_dir, ignore_errors=True)
 
 
 def main() -> None:
@@ -191,6 +201,7 @@ def main() -> None:
 
     # 4. Process each collection
     total = 0
+    failed: list[str] = []
     with tempfile.TemporaryDirectory(prefix="normattiva-") as tmp:
         work_dir = Path(tmp)
         for i, collection in enumerate(collections):
@@ -206,16 +217,27 @@ def main() -> None:
                     logger.info("  -> %d XML files (dry run, not saving)", len(xml_files))
                     zip_path.unlink(missing_ok=True)
                     shutil.rmtree(extract_dir, ignore_errors=True)
+                else:
+                    failed.append(nome)
                 continue
 
             count = process_collection(collection, work_dir, REPO, urn_index)
             total += count
+            if count == 0:
+                failed.append(nome)
 
             # Random sleep between collections (avoid rate limiting)
             if i < len(collections) - 1:
                 time.sleep(random.uniform(1.0, 3.0))
 
     logger.info("DONE — %d atti convertiti in totale", total)
+
+    if failed:
+        logger.error(
+            "FAILED collections (%d/%d): %s",
+            len(failed), len(collections), ", ".join(failed),
+        )
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":
