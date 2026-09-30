@@ -93,19 +93,20 @@ def process_collection(
     corpus_dir: Path,
     urn_index: dict[str, str],
 ) -> int:
-    """Scarica, parse, e salva i .md di una collezione. Restituisce il conteggio."""
+    """Scarica, parse, e salva i .md di una collezione. Restituisce il conteggio.
+
+    Ordine corretto: scarica PRIMA, poi sovrascrivi. Se il download fallisce
+    o non produce file, i file esistenti vengono conservati.
+    """
     nome = collection["nomeCollezione"]
     subdir = _collection_subdir(nome)
     dest_dir = corpus_dir / subdir
     dest_dir.mkdir(parents=True, exist_ok=True)
 
-    # Pulisci vecchi .md prima del fetch per evitare duplicati
-    for old_file in dest_dir.glob("*.md"):
-        old_file.unlink()
-
-    # Download
+    # Download PRIMA di cancellare qualsiasi cosa
     zip_path = download_collection(collection, work_dir)
     if zip_path is None:
+        logger.warning("Download failed for %r — keeping existing files", nome)
         return 0
 
     # Extract
@@ -116,8 +117,12 @@ def process_collection(
         zip_path.unlink(missing_ok=True)
 
         if not xml_files:
-            logger.warning("No XML files in %r, skipping", nome)
+            logger.warning("No XML files in %r — keeping existing files", nome)
             return 0
+
+        # Download e extract riusciti: ora sovrascrivi i vecchi .md
+        for old_file in dest_dir.glob("*.md"):
+            old_file.unlink()
 
         # Convert
         count = 0
