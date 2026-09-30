@@ -116,6 +116,21 @@ class TestUpdateUrnIndex:
 # ── process_collection (integration con mock) ──────────────────────
 
 
+def _make_corpus_with_md(tmp_path: Path, collection_name: str) -> Path:
+    """Crea un corpus fittizio con un .md preesistente."""
+    corpus = tmp_path / "corpus"
+    col_dir = corpus / collection_name
+    col_dir.mkdir(parents=True, exist_ok=True)
+    existing = col_dir / "existing.md"
+    existing.write_text(
+        "---\ntipo: LEGGE\nnumero: 999\ndata: 2020-01-01\n"
+        "titolo: Esistente\nurn: urn:nir:stato:legge:2020-01-01;999\n"
+        "codice_redazionale: 020G00999\nvigente: true\n---\n\nContenuto esistente.",
+        encoding="utf-8",
+    )
+    return corpus
+
+
 class TestProcessCollection:
 
     @patch("lab_tools.fetch_normattiva.download_collection")
@@ -180,3 +195,49 @@ class TestProcessCollection:
 
         # Verifica che l'URN index sia aggiornato
         assert "urn:nir:stato:legge:2024-06-01;1" in urn_index
+
+    @patch("lab_tools.fetch_normattiva.download_collection")
+    def test_download_none_preserves_existing_md(self, mock_download, tmp_path):
+        """Se download fallisce, i .md esistenti devono restare intatti."""
+        mock_download.return_value = None
+        corpus = _make_corpus_with_md(tmp_path, "Test Col")
+        work_dir = tmp_path / "work"
+        work_dir.mkdir()
+
+        collection = {"nomeCollezione": "Test Col", "formatoCollezione": "V"}
+        urn_index = {}
+
+        count = process_collection(collection, work_dir, corpus, urn_index)
+        assert count == 0
+
+        # I .md esistenti devono essere ancora lì
+        md_files = list((corpus / "Test Col").glob("*.md"))
+        assert len(md_files) == 1
+        assert md_files[0].name == "existing.md"
+        assert "Contenuto esistente." in md_files[0].read_text(encoding="utf-8")
+
+    @patch("lab_tools.fetch_normattiva.download_collection")
+    def test_empty_zip_preserves_existing_md(self, mock_download, tmp_path):
+        """Se lo ZIP non contiene XML, i .md esistenti devono restare intatti."""
+        import zipfile
+
+        # ZIP valido ma vuoto (nessun XML)
+        zip_path = tmp_path / "empty.zip"
+        with zipfile.ZipFile(zip_path, "w") as zf:
+            zf.writestr("readme.txt", "no xml here")
+
+        mock_download.return_value = zip_path
+        corpus = _make_corpus_with_md(tmp_path, "Test Col")
+        work_dir = tmp_path / "work"
+        work_dir.mkdir()
+
+        collection = {"nomeCollezione": "Test Col", "formatoCollezione": "V"}
+        urn_index = {}
+
+        count = process_collection(collection, work_dir, corpus, urn_index)
+        assert count == 0
+
+        # I .md esistenti devono essere ancora lì
+        md_files = list((corpus / "Test Col").glob("*.md"))
+        assert len(md_files) == 1
+        assert md_files[0].name == "existing.md"
