@@ -1,0 +1,14 @@
+---
+tipo: LEGGE
+numero: 2355
+data: 1937-12-23
+titolo: "Conversione in legge del R. decreto-legge 1° luglio 1937-XV, n. 1115, recante norme nei riguardi di alcuni funzionari direttivi dell'Amministrazione postale telegrafica e dell'Azienda di Stato per i servizi telefonici. (037U2355)"
+urn: urn:nir:stato:legge:1937-12-23;2355
+codice_redazionale: 037U2355
+vigente: true
+---
+
+## Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))

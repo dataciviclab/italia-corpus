@@ -1,0 +1,49 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 74
+data: 1992-01-25
+titolo: "((Attuazione della direttiva 84/450/CEE, come modificata dalla direttiva 97/55/CE in materia di pubblicita' ingannevole e comparativa))."
+urn: urn:nir:stato:decreto.legislativo:1992-01-25;74
+codice_redazionale: 092G0101
+vigente: true
+---
+
+## Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
+
+## Art. 2.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
+
+## Art. 3.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
+
+## Art. 3-bis.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
+
+## Art. 4.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
+
+## Art. 5.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
+
+## Art. 6.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
+
+## Art. 7.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
+
+## Art. 8.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
+
+## Art. 9.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206))
