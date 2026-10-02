@@ -38,8 +38,8 @@ Collega il server MCP del corpus al tuo assistente AI:
 ```
 
 Ogni risultato include `stato` (vigente/abrogato/decaduto), `qualita_score` (0-100),
-`materia`, `orfano`, `n_citazioni` e `duplicato`.
-Filtri disponibili: `stato`, `min_score`, `materia`.
+`materia`, `orfano`, `n_citazioni`, `duplicato` e `sunsetting_score`.
+Filtri disponibili: `stato`, `min_score`, `materia`, `max_sunsetting`.
 
 ### 2. Via SQL su parquet
 
@@ -112,6 +112,8 @@ Colonne di qualità:
 | `articoli_cost` | string | Articoli costituzionali citati (separati da virgola) |
 | `abrogato_da` | string | File che abrogano questo atto |
 | `n_abrogazioni` | int | Numero di abrogazioni che riguardano questo atto |
+| `eta_anni` | int | Anni dall'atto (anno corrente - anno_atto) |
+| `sunsetting_score` | int | 0-100, più alto = più candidato alla decadenza automatica |
 
 ### Schema `riferimenti.parquet` (15 colonne)
 

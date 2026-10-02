@@ -21,5 +21,8 @@ classifica:
 integra:
 	python -m lab_tools.integra_costituzionali
 
+sunsetting:
+	python -m lab_tools.monitor_sunsetting
+
 mcp:
 	python -m lab_tools.mcp_server

@@ -25,7 +25,7 @@ _MAX_LIMIT = 100
 _RG_LIST_MATCHES = 3
 
 # Campi di qualità da normativa.parquet da esporre nei risultati MCP
-_QUALITY_FIELDS = ("stato", "qualita_score", "orfano", "n_citazioni", "duplicato", "materia")
+_QUALITY_FIELDS = ("stato", "qualita_score", "orfano", "n_citazioni", "duplicato", "materia", "sunsetting_score")
 
 
 # ─── helpers interni ──────────────────────────────────────────────
@@ -287,6 +287,7 @@ def _search_corpus(
     stato: str = "",
     min_score: int = 0,
     materia: str = "",
+    max_sunsetting: int = -1,
 ) -> list[dict[str, Any]]:
     """Cerca nel corpus e restituisce risultati strutturati.
 
@@ -343,7 +344,7 @@ def _search_corpus(
 
     # ── filtri qualità (su tutti i file, prima della paginazione) ──
     quality = _load_quality_lookup()
-    if stato or min_score > 0 or materia:
+    if stato or min_score > 0 or materia or max_sunsetting >= 0:
         filtered: list[str] = []
         for fp in all_files:
             fn = Path(fp).name
@@ -353,6 +354,8 @@ def _search_corpus(
             if min_score and q.get("qualita_score", 0) < min_score:
                 continue
             if materia and q.get("materia", "") != materia:
+                continue
+            if max_sunsetting >= 0 and q.get("sunsetting_score", 0) > max_sunsetting:
                 continue
             filtered.append(fp)
         all_files = filtered
@@ -435,8 +438,8 @@ mcp = create_mcp_server(
         "Query multi-parola fa AND documentale tra i termini. "
         "Usa virgolette per frase esatta. "
         "I risultati includono stato (vigente/abrogato/decaduto), qualita_score (0-100), "
-        "orfano, n_citazioni, duplicato e materia (fisco, ambientale, lavoro, etc.). "
-        "Filtri: stato='vigente', min_score, materia."
+        "orfano, n_citazioni, duplicato, materia e sunsetting_score. "
+        "Filtri: stato='vigente', min_score, materia, max_sunsetting."
     ),
     structured_output=True,
 )
@@ -448,6 +451,7 @@ def legal_search(
     stato: str = "",
     min_score: int = 0,
     materia: str = "",
+    max_sunsetting: int = -1,
 ) -> list[dict[str, Any]]:
     """Cerca nel corpus normativo. Ritorna risultati strutturati.
 
@@ -460,16 +464,18 @@ def legal_search(
         stato: Filtra per stato normativo: 'vigente', 'abrogato', 'decaduto' (opzionale).
         min_score: Filtra per qualità minima 0-100 (opzionale, default 0 = nessun filtro).
         materia: Filtra per materia tematica: 'fisco', 'ambientale', 'lavoro', etc. (opzionale).
+        max_sunsetting: Escludi atti con sunsetting_score oltre questo valore (opzionale, -1 = nessun filtro).
 
     Returns:
         Lista di dict con title, collection, filename, path, snippet, match_count,
         tipo, data, urn, codice_redazionale, stato, vigente, qualita_score,
-        orfano, n_citazioni, duplicato, materia.
+        orfano, n_citazioni, duplicato, materia, sunsetting_score.
     """
     return guard_timed(
         _search_corpus, "italia-corpus_legal_search",
         query, limit=limit, offset=offset, collezione=collezione,
         stato=stato, min_score=min_score, materia=materia,
+        max_sunsetting=max_sunsetting,
     )
 
 
