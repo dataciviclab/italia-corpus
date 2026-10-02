@@ -15,6 +15,7 @@ Uso: python -m lab_tools.monitor_sunsetting
 
 from __future__ import annotations
 
+from datetime import datetime
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -22,7 +23,7 @@ OUTDIR = REPO / "data" / "derived"
 NORMATIVA_PARQUET = OUTDIR / "normativa.parquet"
 RIFERIMENTI_PARQUET = OUTDIR / "riferimenti.parquet"
 
-ANNO_CORRENTE = 2026
+ANNO_CORRENTE = datetime.now().year
 
 
 def _calcola_sunsetting_score(row: dict) -> int:

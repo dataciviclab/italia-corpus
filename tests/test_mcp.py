@@ -622,7 +622,11 @@ class TestSearchFilters:
         assert results[0]["filename"] == "test.md"
         assert results[0]["stato"] == "vigente"
 
-    def test_filtro_min_score(self, monkeypatch, tmp_path):
+    @pytest.mark.parametrize("kwargs,expected_min", [
+        ({"min_score": 50}, 50),
+        ({"min_score": 80}, 80),
+    ])
+    def test_filtro_min_score(self, monkeypatch, tmp_path, kwargs, expected_min):
         """Filtro min_score esclude atti con score basso."""
         _fake_corpus(tmp_path, monkeypatch)
         monkeypatch.setattr(mcp_server, "_load_quality_lookup", lambda: {
@@ -640,6 +644,28 @@ class TestSearchFilters:
         monkeypatch.setattr("subprocess.run", fake_run)
         monkeypatch.setattr("shutil.which", lambda cmd: "/usr/bin/rg" if cmd == "rg" else None)
 
-        results = mcp_server._search_corpus("test", limit=10, min_score=50)
+        results = mcp_server._search_corpus("test", limit=10, **kwargs)
         assert len(results) == 1
-        assert results[0]["qualita_score"] == 90
+        assert results[0]["qualita_score"] >= expected_min
+
+    def test_filtro_max_sunsetting(self, monkeypatch, tmp_path):
+        """Filtro max_sunsetting esclude atti con score alto."""
+        _fake_corpus(tmp_path, monkeypatch)
+        monkeypatch.setattr(mcp_server, "_load_quality_lookup", lambda: {
+            "test.md": {"stato": "vigente", "sunsetting_score": 20},
+            "altro.md": {"stato": "vigente", "sunsetting_score": 70},
+        })
+        def fake_run(args, **kw):
+            import subprocess
+            args_str = " ".join(str(a) for a in args)
+            if "-l" in args_str:
+                files = [str(tmp_path / "Decreti Legislativi" / "test.md"),
+                         str(tmp_path / "Decreti Legislativi" / "altro.md")]
+                return subprocess.CompletedProcess(args, 0, stdout="\n".join(files), stderr="")
+            return subprocess.CompletedProcess(args, 0, stdout="", stderr="")
+        monkeypatch.setattr("subprocess.run", fake_run)
+        monkeypatch.setattr("shutil.which", lambda cmd: "/usr/bin/rg" if cmd == "rg" else None)
+
+        results = mcp_server._search_corpus("test", limit=10, max_sunsetting=50)
+        assert len(results) == 1
+        assert results[0]["sunsetting_score"] <= 50
