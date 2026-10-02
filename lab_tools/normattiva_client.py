@@ -25,7 +25,8 @@ COLLECTIONS_URL = f"{BASE_URL}/collections/collection-predefinite"
 DOWNLOAD_URL = f"{BASE_URL}/collections/download/collection-preconfezionata"
 
 # TLS workaround: server doesn't send intermediate cert in chain.
-# See docs/AUDIT_NORMATTIVA.md §5. Remove once IPZS fixes the chain.
+# Tracking: https://github.com/dataciviclab/italia-corpus/issues/46
+# Remove once IPZS fixes the chain.
 VERIFY_TLS = False
 
 HEADERS = {

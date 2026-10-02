@@ -25,12 +25,10 @@ def main() -> None:
     try:
         import pandas as pd
     except ImportError:
-        print("Errore: pandas necessario.")
-        return
+        raise SystemExit("Errore: pandas necessario.")
 
     if not NORMATIVA_PARQUET.exists():
-        print(f"Errore: {NORMATIVA_PARQUET} non trovato.")
-        return
+        raise SystemExit(f"Errore: {NORMATIVA_PARQUET} non trovato.")
 
     df = pd.read_parquet(NORMATIVA_PARQUET)
     print(f"normativa: {len(df)} atti")

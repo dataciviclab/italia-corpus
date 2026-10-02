@@ -24,7 +24,7 @@ _TEMI: list[tuple[str, tuple[str, ...]]] = [
         "ambientale", "ambiente", "inquinamento", "acque", "rifiuti",
         "energia", "rinnovabili", "emissioni", "clima", "biodiversita",
         "fauna", "flora", "paesaggio", "vincoli ambientali", "sismica",
-        "bonifica", "discarica", "aria", "acustica",
+        "bonifica", "discarica", "acustica",
     )),
     ("lavoro", (
         "lavoro", "lavoratori", "occupazione", "impiego", "sindacat",
@@ -135,10 +135,9 @@ _TEMI: list[tuple[str, tuple[str, ...]]] = [
         "cooperativ", "consorzi", "sociali", "beneficenza",
     )),
     ("ordinamento-stato", (
-        "organizzazione del governo", "governo", "presidenza del consiglio",
-        "corte dei conti", "corte costituzionale", "parlamento",
-        "senato", "camera dei deputati", "capo dello stato",
-        "intestazione dei decreti",
+        "organizzazione del governo", "corte dei conti", "corte costituzionale",
+        "parlamento", "senato", "camera dei deputati", "capo dello stato",
+        "intestazione dei decreti", "presidenza del consiglio",
     )),
     ("strutturale", (
         "conversione in legge", "conversione del decreto", "delega al governo",
@@ -166,12 +165,10 @@ def main() -> None:
     try:
         import pandas as pd
     except ImportError:
-        print("Errore: pandas necessario.")
-        return
+        raise SystemExit("Errore: pandas necessario.")
 
     if not NORMATIVA_PARQUET.exists():
-        print(f"Errore: {NORMATIVA_PARQUET} non trovato.")
-        return
+        raise SystemExit(f"Errore: {NORMATIVA_PARQUET} non trovato.")
 
     df = pd.read_parquet(NORMATIVA_PARQUET)
     print(f"Atti caricati: {len(df)}")

@@ -4,7 +4,10 @@ from pathlib import Path
 
 import pytest
 
-from lab_tools.extract import extract, _estrai_riferimento_ue, _dedup, _get_body, _body_metrics
+from lab_tools.extract import (
+    extract, _estrai_riferimento_ue, _dedup, _get_body, _body_metrics,
+    _detect_stato,
+)
 
 FIXTURES = Path(__file__).resolve().parent / "fixtures"
 
@@ -201,3 +204,50 @@ class TestDedup:
         records = [self._r("a.md", "Collezione A"), self._r("b.md", "Collezione B")]
         result = _dedup(records)
         assert len(result) == 2
+
+    def test_duplicato_flag_stesso_atto(self):
+        """Stesso data+numero in filename diversi → duplicato=True."""
+        records = [
+            {"collezione": "A", "filename": "a.md", "data": "2020-01-01", "numero": "1"},
+            {"collezione": "B", "filename": "b.md", "data": "2020-01-01", "numero": "1"},
+        ]
+        result = _dedup(records)
+        assert len(result) == 2
+        assert all(r["duplicato"] is True for r in result)
+
+    def test_duplicato_flag_atto_unico(self):
+        """Atto unico → duplicato=False."""
+        records = [
+            {"collezione": "A", "filename": "a.md", "data": "2020-01-01", "numero": "1"},
+            {"collezione": "B", "filename": "b.md", "data": "2020-01-01", "numero": "2"},
+        ]
+        result = _dedup(records)
+        assert all(r["duplicato"] is False for r in result)
+
+
+# ─── _detect_stato ────────────────────────────────────────────────
+
+
+class TestDetectStato:
+    """Test per _detect_stato(): rileva marker tombstone nel body."""
+
+    def test_vigente_nessun_marker(self):
+        assert _detect_stato("Testo normale senza marker.") == "vigente"
+
+    def test_abrogato_marker(self):
+        body = "Art. 1.\n((PROVVEDIMENTO ABROGATO DAL D.LGS. 212/2010))"
+        assert _detect_stato(body) == "abrogato"
+
+    def test_abrogato_marker_case_insensitive(self):
+        assert _detect_stato("Provvedimento abrogato dalla legge") == "abrogato"
+
+    def test_decaduto_marker(self):
+        body = "Art. 1.\nDECRETO DECADUTO"
+        assert _detect_stato(body) == "decaduto"
+
+    def test_decaduto_con_salvaguardia(self):
+        body = "Art. 1.\nDECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI"
+        assert _detect_stato(body) == "decaduto"
+
+    def test_vuoto(self):
+        assert _detect_stato("") == "vigente"

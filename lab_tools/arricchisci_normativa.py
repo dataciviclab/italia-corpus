@@ -60,15 +60,14 @@ def main() -> None:
     try:
         import pandas as pd
     except ImportError:
-        print("Errore: pandas necessario.")
-        return
+        raise SystemExit("Errore: pandas necessario.")
+    except ImportError:
+        raise SystemExit("Errore: pandas necessario.")
 
     if not NORMATIVA_PARQUET.exists():
-        print(f"Errore: {NORMATIVA_PARQUET} non trovato. Esegui prima extract.")
-        return
+        raise SystemExit(f"Errore: {NORMATIVA_PARQUET} non trovato. Esegui prima extract.")
     if not RIFERIMENTI_PARQUET.exists():
-        print(f"Errore: {RIFERIMENTI_PARQUET} non trovato. Esegui prima grafo_riferimenti.")
-        return
+        raise SystemExit(f"Errore: {RIFERIMENTI_PARQUET} non trovato. Esegui prima grafo_riferimenti.")
 
     df_norm = pd.read_parquet(NORMATIVA_PARQUET)
     df_rif = pd.read_parquet(RIFERIMENTI_PARQUET)

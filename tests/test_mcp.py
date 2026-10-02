@@ -552,3 +552,94 @@ class TestFrontmatter:
         text = "---\n{{{{invalid\n---\n\nbody"
         result = parse_frontmatter(text)
         assert result is None
+
+
+# ─── Test legal_crossref ──────────────────────────────────────────
+
+
+class TestLegalCrossref:
+    """Test per _impl_crossref: outgoing + incoming dal grafo."""
+
+    def test_atto_non_trovato_raise(self, monkeypatch, tmp_path):
+        """Filename inesistente → ValueError con messaggio utile."""
+        _fake_corpus(tmp_path, monkeypatch)
+        monkeypatch.setattr(mcp_server, "NORMATIVA_PARQUET", tmp_path / "non_esiste.parquet")
+        monkeypatch.setattr(mcp_server, "RIFERIMENTI_PARQUET", tmp_path / "non_esiste.parquet")
+        with pytest.raises(ValueError, match="non trovato"):
+            mcp_server._impl_crossref("non_esiste_xyz", limit=3)
+
+    def test_struttura_output(self, monkeypatch, tmp_path):
+        """Crossref su atto esistente → struttura coerente."""
+        _fake_corpus(tmp_path, monkeypatch)
+        # Mock quality lookup
+        monkeypatch.setattr(mcp_server, "_load_quality_lookup", lambda: {
+            "test.md": {"stato": "vigente", "qualita_score": 80, "materia": "fisco",
+                        "orfano": False, "n_citazioni": 5, "duplicato": False},
+        })
+        monkeypatch.setattr(mcp_server, "_load_graph_lookup", lambda: (
+            {"test.md": [{"filename": "altro.md", "collezione": "C", "tipo": "LEGGE",
+                          "anno": 2020, "peso_totale": 3}]},
+            {"test.md": [{"filename": "fonte.md", "collezione": "C", "tipo": "LEGGE",
+                          "anno": 2019, "peso_totale": 2}]},
+        ))
+        result = mcp_server._impl_crossref("test.md", limit=5)
+        assert "atto" in result
+        assert "outgoing" in result
+        assert "incoming" in result
+        assert "summary" in result
+        assert result["atto"]["stato"] == "vigente"
+        assert result["summary"]["outgoing_total"] == 1
+        assert result["summary"]["incoming_total"] == 1
+
+
+# ─── Test filtri search ──────────────────────────────────────────
+
+
+class TestSearchFilters:
+    """Test per filtri stato/min_score/materia in _search_corpus."""
+
+    def test_filtro_stato(self, monkeypatch, tmp_path):
+        """Filtro stato esclude atti con stato diverso."""
+        _fake_corpus(tmp_path, monkeypatch)
+        monkeypatch.setattr(mcp_server, "_load_quality_lookup", lambda: {
+            "test.md": {"stato": "vigente", "qualita_score": 80},
+            "altro.md": {"stato": "abrogato", "qualita_score": 30},
+        })
+        # Mock rg to return both files
+        def fake_run(args, **kw):
+            import subprocess
+            args_str = " ".join(str(a) for a in args)
+            if "-l" in args_str:
+                files = [str(tmp_path / "Decreti Legislativi" / "test.md"),
+                         str(tmp_path / "Decreti Legislativi" / "altro.md")]
+                return subprocess.CompletedProcess(args, 0, stdout="\n".join(files), stderr="")
+            return subprocess.CompletedProcess(args, 0, stdout="", stderr="")
+        monkeypatch.setattr("subprocess.run", fake_run)
+        monkeypatch.setattr("shutil.which", lambda cmd: "/usr/bin/rg" if cmd == "rg" else None)
+
+        results = mcp_server._search_corpus("test", limit=10, stato="vigente")
+        assert len(results) == 1
+        assert results[0]["filename"] == "test.md"
+        assert results[0]["stato"] == "vigente"
+
+    def test_filtro_min_score(self, monkeypatch, tmp_path):
+        """Filtro min_score esclude atti con score basso."""
+        _fake_corpus(tmp_path, monkeypatch)
+        monkeypatch.setattr(mcp_server, "_load_quality_lookup", lambda: {
+            "test.md": {"stato": "vigente", "qualita_score": 90},
+            "altro.md": {"stato": "vigente", "qualita_score": 30},
+        })
+        def fake_run(args, **kw):
+            import subprocess
+            args_str = " ".join(str(a) for a in args)
+            if "-l" in args_str:
+                files = [str(tmp_path / "Decreti Legislativi" / "test.md"),
+                         str(tmp_path / "Decreti Legislativi" / "altro.md")]
+                return subprocess.CompletedProcess(args, 0, stdout="\n".join(files), stderr="")
+            return subprocess.CompletedProcess(args, 0, stdout="", stderr="")
+        monkeypatch.setattr("subprocess.run", fake_run)
+        monkeypatch.setattr("shutil.which", lambda cmd: "/usr/bin/rg" if cmd == "rg" else None)
+
+        results = mcp_server._search_corpus("test", limit=10, min_score=50)
+        assert len(results) == 1
+        assert results[0]["qualita_score"] == 90
