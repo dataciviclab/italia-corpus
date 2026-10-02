@@ -7,6 +7,7 @@ from __future__ import annotations
 import json
 import shutil
 import subprocess
+from functools import lru_cache
 from pathlib import Path
 from typing import Any
 
@@ -16,10 +17,15 @@ from lab_tools._frontmatter import read_frontmatter
 
 CORPUS = Path(__file__).resolve().parent.parent
 CONFIG_COLLEZIONI = CORPUS / "config" / "collezioni.txt"
+NORMATIVA_PARQUET = CORPUS / "data" / "derived" / "normativa.parquet"
+RIFERIMENTI_PARQUET = CORPUS / "data" / "derived" / "riferimenti.parquet"
 
 _QUERY_MAX_WORDS = 8
 _MAX_LIMIT = 100
 _RG_LIST_MATCHES = 3
+
+# Campi di qualità da normativa.parquet da esporre nei risultati MCP
+_QUALITY_FIELDS = ("stato", "qualita_score", "orfano", "n_citazioni", "duplicato", "materia")
 
 
 # ─── helpers interni ──────────────────────────────────────────────
@@ -30,6 +36,104 @@ def _leggi_collezioni() -> set[str]:
     if not CONFIG_COLLEZIONI.exists():
         return set()
     return {line.strip() for line in CONFIG_COLLEZIONI.read_text().splitlines() if line.strip()}
+
+
+@lru_cache(maxsize=1)
+def _load_quality_lookup() -> dict[str, dict[str, Any]]:
+    """Carica normativa.parquet e costruisce lookup filename → campi qualità.
+
+    Cacheata: il parquet cambia solo con il CI (giornaliero).
+    Se pandas o il parquet non sono disponibili, ritorna dict vuoto.
+    """
+    if not NORMATIVA_PARQUET.exists():
+        return {}
+    try:
+        import pandas as pd
+    except ImportError:
+        return {}
+    try:
+        df = pd.read_parquet(NORMATIVA_PARQUET)
+    except Exception:
+        return {}
+    lookup: dict[str, dict[str, Any]] = {}
+    cols = [c for c in _QUALITY_FIELDS if c in df.columns]
+    if "filename" not in df.columns:
+        return {}
+    for _, row in df.iterrows():
+        fn = row.get("filename", "")
+        if fn:
+            lookup[fn] = {c: row.get(c) for c in cols}
+    return lookup
+
+
+@lru_cache(maxsize=1)
+def _load_graph_lookup() -> tuple[dict[str, list[dict]], dict[str, list[dict]]]:
+    """Carica riferimenti.parquet e costruisce indici bidirezionali.
+
+    Indicizza per basename (senza path) per coerenza con quality lookup.
+
+    Returns:
+        (outgoing, incoming):
+        - outgoing: fonte_basename → lista {bersaglio_filename, bersaglio_collezione, bersaglio_tipo, bersaglio_anno, peso}
+        - incoming: bersaglio_basename → lista {fonte_filename, fonte_collezione, fonte_tipo, fonte_anno, peso}
+    """
+    if not RIFERIMENTI_PARQUET.exists():
+        return {}, {}
+    try:
+        import pandas as pd
+    except ImportError:
+        return {}, {}
+    try:
+        df = pd.read_parquet(RIFERIMENTI_PARQUET)
+    except Exception:
+        return {}, {}
+
+    df = df[df["risolto"] == True]  # noqa: E712
+
+    outgoing: dict[str, list[dict]] = {}
+    incoming: dict[str, list[dict]] = {}
+
+    for _, row in df.iterrows():
+        # Indicizza per basename (senza path di collezione)
+        ff = Path(str(row.get("fonte_filename", ""))).name
+        bf = Path(str(row.get("bersaglio_filename", ""))).name
+        if not ff or not bf:
+            continue
+        peso = int(row.get("peso", 1))
+
+        if ff not in outgoing:
+            outgoing[ff] = []
+        outgoing[ff].append({
+            "filename": bf,
+            "collezione": row.get("bersaglio_collezione", ""),
+            "tipo": row.get("bersaglio_tipo", ""),
+            "anno": int(row.get("bersaglio_anno", 0) or 0),
+            "peso": peso,
+        })
+
+        if bf not in incoming:
+            incoming[bf] = []
+        incoming[bf].append({
+            "filename": ff,
+            "collezione": row.get("fonte_collezione", ""),
+            "tipo": row.get("fonte_tipo", ""),
+            "anno": int(row.get("fonte_anno", 0) or 0),
+            "peso": peso,
+        })
+
+    # Raggruppa per target e somma pesi
+    def _aggregate(edges: list[dict]) -> list[dict]:
+        by_target: dict[str, dict] = {}
+        for e in edges:
+            fn = e["filename"]
+            if fn not in by_target:
+                by_target[fn] = {**e, "peso_totale": 0}
+            by_target[fn]["peso_totale"] += e["peso"]
+        return sorted(by_target.values(), key=lambda x: -x["peso_totale"])
+
+    outgoing_agg = {k: _aggregate(v) for k, v in outgoing.items()}
+    incoming_agg = {k: _aggregate(v) for k, v in incoming.items()}
+    return outgoing_agg, incoming_agg
 
 
 def _file_metadata(file: str) -> dict[str, Any]:
@@ -180,6 +284,9 @@ def _search_corpus(
     limit: int = 10,
     offset: int = 0,
     collezione: str = "",
+    stato: str = "",
+    min_score: int = 0,
+    materia: str = "",
 ) -> list[dict[str, Any]]:
     """Cerca nel corpus e restituisce risultati strutturati.
 
@@ -187,6 +294,9 @@ def _search_corpus(
     1. ``rg -l`` per lista file — per AND multi-termine fa una ``rg -l``
        per termine e interseca i risultati (AND documentale).
     2. ``rg --json`` solo sui file da mostrare (offset/limit applicati prima).
+
+    I risultati sono arricchiti con i campi di qualità da normativa.parquet
+    (stato, qualita_score, orfano, n_citazioni, duplicato) quando disponibili.
     """
     limit = min(limit, _MAX_LIMIT)
     offset = max(offset, 0)
@@ -230,12 +340,30 @@ def _search_corpus(
         return []
 
     all_files = sorted(all_files_set)
+
+    # ── filtri qualità (su tutti i file, prima della paginazione) ──
+    quality = _load_quality_lookup()
+    if stato or min_score > 0 or materia:
+        filtered: list[str] = []
+        for fp in all_files:
+            fn = Path(fp).name
+            q = quality.get(fn, {})
+            if stato and q.get("stato", "") != stato:
+                continue
+            if min_score and q.get("qualita_score", 0) < min_score:
+                continue
+            if materia and q.get("materia", "") != materia:
+                continue
+            filtered.append(fp)
+        all_files = filtered
+        if not all_files:
+            return []
+
     page_files = all_files[offset: offset + limit]
     if not page_files:
         return []
 
     # ── FASE 2: snippet JSON solo per i file da mostrare ──
-    # Per snippet usiamo il primo termine (o la frase se è frase esatta)
     snippet_term = query if (is_phrase or len(terms) == 1) else terms[0]
     cmd = [
         "rg", "--json", "-i", "-F", "-m", "1", "--context", "1",
@@ -250,21 +378,38 @@ def _search_corpus(
         info = per_file.get(fp, {"path": fp, "match_count": 0, "snippet": ""})
         rel = Path(fp).relative_to(CORPUS)
         meta = _file_metadata(fp)
+        fn = rel.name
+        q = quality.get(fn, {})
+
         result: dict[str, Any] = {
             "title": meta["title"],
             "collection": _collezione_da_path(str(rel)),
-            "filename": rel.name,
+            "filename": fn,
             "path": str(rel),
             "snippet": info["snippet"],
             "match_count": info["match_count"],
         }
         # Arricchisci con campi frontmatter se disponibili
-        # Bool include sempre (False = atto non vigente), stringhe solo se non vuote
         for key in ("tipo", "data", "urn", "codice_redazionale", "vigente"):
             if key in meta:
                 val = meta[key]
                 if isinstance(val, bool) or val:
                     result[key] = val
+
+        # Sovrascrivi vigente con il valore affidabile dal parquet
+        if "stato" in q:
+            result["stato"] = q["stato"]
+            result["vigente"] = q["stato"] == "vigente"
+
+        # Aggiungi campi di qualità dal parquet
+        for key in _QUALITY_FIELDS:
+            if key in q and q[key] is not None:
+                val = q[key]
+                # Converte numpy types in Python nativi
+                if hasattr(val, "item"):
+                    val = val.item()
+                result[key] = val
+
         results.append(result)
 
     return results
@@ -286,12 +431,12 @@ mcp = create_mcp_server(
 @mcp.tool(
     name="italia-corpus_legal_search",
     description=(
-        "Cerca nella legislazione italiana (~25.000 atti da Normattiva, "
-        "collezioni vigenti) con ripgrep. "
+        "Cerca nella legislazione italiana (~22.000 atti da Normattiva) con ripgrep. "
         "Query multi-parola fa AND documentale tra i termini. "
         "Usa virgolette per frase esatta. "
-        "Restituisce lista strutturata di risultati con title, tipo, data, "
-        "urn, vigente e snippet."
+        "I risultati includono stato (vigente/abrogato/decaduto), qualita_score (0-100), "
+        "orfano, n_citazioni, duplicato e materia (fisco, ambientale, lavoro, etc.). "
+        "Filtri: stato='vigente', min_score, materia."
     ),
     structured_output=True,
 )
@@ -300,6 +445,9 @@ def legal_search(
     limit: int = 10,
     offset: int = 0,
     collezione: str = "",
+    stato: str = "",
+    min_score: int = 0,
+    materia: str = "",
 ) -> list[dict[str, Any]]:
     """Cerca nel corpus normativo. Ritorna risultati strutturati.
 
@@ -309,14 +457,19 @@ def legal_search(
         limit: Max risultati (default 10, max 100).
         offset: Scorri risultati per paginazione (default 0).
         collezione: Filtra per collezione (opzionale).
+        stato: Filtra per stato normativo: 'vigente', 'abrogato', 'decaduto' (opzionale).
+        min_score: Filtra per qualità minima 0-100 (opzionale, default 0 = nessun filtro).
+        materia: Filtra per materia tematica: 'fisco', 'ambientale', 'lavoro', etc. (opzionale).
 
     Returns:
         Lista di dict con title, collection, filename, path, snippet, match_count,
-        tipo, data, urn, codice_redazionale, vigente (dal frontmatter YAML).
+        tipo, data, urn, codice_redazionale, stato, vigente, qualita_score,
+        orfano, n_citazioni, duplicato, materia.
     """
     return guard_timed(
         _search_corpus, "italia-corpus_legal_search",
         query, limit=limit, offset=offset, collezione=collezione,
+        stato=stato, min_score=min_score, materia=materia,
     )
 
 
@@ -404,6 +557,145 @@ def _impl_list_collections() -> str:
     if not nomi:
         return "## Collezioni\n_(nessuna — esegui il checkout delle collezioni)_"
     return "## Collezioni\n" + "\n".join(f"- {d}" for d in nomi)
+
+
+@mcp.tool(
+    name="italia-corpus_legal_crossref",
+    description=(
+        "Cross-reference normativo: dato un atto, mostra cosa cita (outgoing) "
+        "e chi lo cita (incoming) dal grafo dei riferimenti. "
+        "Accetta filename completo o parziale (substring match). "
+        "Output: metadati atto + top N citazioni in uscita e in ingresso."
+    ),
+    structured_output=True,
+)
+def legal_crossref(
+    filename: str,
+    limit: int = 10,
+) -> dict[str, Any]:
+    """Cross-reference di un atto normativo.
+
+    Args:
+        filename: Filename completo o substring del file .md
+                  (es. "001G0219" o "D.Lgs 231" o il filename completo).
+        limit: Max citazioni per direzione (default 10, max 50).
+
+    Returns:
+        Dict con:
+        - atto: metadati (filename, collezione, tipo, stato, materia, qualita_score, etc.)
+        - outgoing: cosa cita l'atto (top N per peso)
+        - incoming: chi cita l'atto (top N per peso)
+        - summary: conteggi riassuntivi
+    """
+    return guard_timed(
+        _impl_crossref, "italia-corpus_legal_crossref",
+        filename, limit,
+    )
+
+
+def _impl_crossref(filename: str, limit: int) -> dict[str, Any]:
+    """Implementazione pura di legal_crossref."""
+    limit = min(limit, 50)
+    query = filename.strip().lower()
+    if not query:
+        raise ValueError("filename non può essere vuoto.")
+
+    quality = _load_quality_lookup()
+    outgoing_all, incoming_all = _load_graph_lookup()
+
+    # ── trova l'atto: match esatto o substring ──
+    matched_fn: str | None = None
+    if filename in quality:
+        matched_fn = filename
+    else:
+        # substring match su filename
+        candidates = [fn for fn in quality if query in fn.lower()]
+        if len(candidates) == 1:
+            matched_fn = candidates[0]
+        elif len(candidates) > 1:
+            # Se più match, prova a fermarti al primo con stato vigente
+            for c in candidates:
+                if quality[c].get("stato") == "vigente":
+                    matched_fn = c
+                    break
+            if matched_fn is None:
+                matched_fn = candidates[0]
+        else:
+            # Cerca anche per codice_redazionale o parte dell'oggetto
+            for fn, q in quality.items():
+                # Il codice redazionale è spesso nel filename
+                if query in fn.lower():
+                    matched_fn = fn
+                    break
+
+    if matched_fn is None:
+        raise ValueError(
+            f"Atto '{filename}' non trovato. "
+            f"Usa legal_search per cercare, poi passa il filename risultante."
+        )
+
+    q = quality.get(matched_fn, {})
+
+    # ── metadati atto ──
+    atto = {
+        "filename": matched_fn,
+        "stato": q.get("stato", ""),
+        "materia": q.get("materia", ""),
+        "qualita_score": q.get("qualita_score", 0),
+        "orfano": q.get("orfano", False),
+        "n_citazioni": q.get("n_citazioni", 0),
+        "duplicato": q.get("duplicato", False),
+        "vigente": q.get("stato") == "vigente",
+    }
+
+    # ── outgoing: cosa cita ──
+    out_edges = outgoing_all.get(matched_fn, [])[:limit]
+    outgoing = []
+    for e in out_edges:
+        out_q = quality.get(e["filename"], {})
+        outgoing.append({
+            "filename": e["filename"],
+            "collezione": e["collezione"],
+            "tipo": e["tipo"],
+            "anno": e["anno"],
+            "peso_totale": e["peso_totale"],
+            "stato": out_q.get("stato", ""),
+            "materia": out_q.get("materia", ""),
+        })
+
+    # ── incoming: chi cita ──
+    in_edges = incoming_all.get(matched_fn, [])[:limit]
+    incoming = []
+    for e in in_edges:
+        in_q = quality.get(e["filename"], {})
+        incoming.append({
+            "filename": e["filename"],
+            "collezione": e["collezione"],
+            "tipo": e["tipo"],
+            "anno": e["anno"],
+            "peso_totale": e["peso_totale"],
+            "stato": in_q.get("stato", ""),
+            "materia": in_q.get("materia", ""),
+        })
+
+    # ── summary ──
+    all_out = outgoing_all.get(matched_fn, [])
+    all_in = incoming_all.get(matched_fn, [])
+    summary = {
+        "outgoing_total": len(all_out),
+        "incoming_total": len(all_in),
+        "outgoing_peso_totale": sum(e["peso_totale"] for e in all_out),
+        "incoming_peso_totale": sum(e["peso_totale"] for e in all_in),
+        "outgoing_mostrati": len(outgoing),
+        "incoming_mostrati": len(incoming),
+    }
+
+    return {
+        "atto": atto,
+        "outgoing": outgoing,
+        "incoming": incoming,
+        "summary": summary,
+    }
 
 
 def main():

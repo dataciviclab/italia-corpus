@@ -1,4 +1,4 @@
-.PHONY: install test extract mcp
+.PHONY: install test extract grafo arricchisci classifica integra mcp
 
 install:
 	pip install -e ".[dev,mcp]"
@@ -8,6 +8,18 @@ test:
 
 extract:
 	python -m lab_tools.extract
+
+grafo:
+	python -m lab_tools.grafo_riferimenti
+
+arricchisci:
+	python -m lab_tools.arricchisci_normativa
+
+classifica:
+	python -m lab_tools.classifica_tematich
+
+integra:
+	python -m lab_tools.integra_costituzionali
 
 mcp:
 	python -m lab_tools.mcp_server

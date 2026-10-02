@@ -1,30 +1,29 @@
 # Italia Corpus — La legislazione italiana a portata di ricerca
 
-**20.716 atti normativi, da codici a decreti-legge, in formato aperto e interrogabile.**
+**22.016 atti normativi, da codici a decreti-legge, in formato aperto e interrogabile.**
 
-Il corpus della legislazione italiana vigente: leggi, decreti legislativi,
+Il corpus della legislazione italiana: leggi, decreti legislativi,
 decreti-legge, regolamenti, DPCM, testi unici, codici e atti di recepimento UE.
 Scaricati direttamente dall'API Normattiva OpenData, convertiti da Akoma Ntoso XML
-a Markdown. Tutto cercabile per testo e struttura.
+a Markdown. Tutto cercabile per testo, struttura e materia.
 
 ## Cosa contiene
 
 | | |
 |---|---|
-| **Atti normativi** | 20.716 (da ~25.000 file) |
+| **Atti normativi** | 22.016 (12.901 vigenti, 7.354 abrogati, 1.761 decaduti) |
 | **Collezioni** | 20 (DL e conversioni, decreti legislativi, codici, testi unici, DPCM...) |
-| **Riferimenti incrociati** | 108.490 archi tra atti |
-| **Atti con CELEX** | 757 (collegati alla normativa UE) |
-| **Atti più citato** | Codice Penale (7.815 riferimenti) |
-| **Aggiornamento** | Fetch giornaliero diretto dall'API Normattiva (solo atti vigenti) |
+| **Riferimenti incrociati** | 92.580 archi tra atti |
+| **Materie** | 25 categorie (fisco, ambientale, lavoro, giustizia, etc.) |
+| **Aggiornamento** | Fetch giornaliero diretto dall'API Normattiva |
 
 ## Esempi di domande
 
 - **Quali decreti-legge non sono ancora stati convertiti?**
 - **Quali leggi italiane recepiscono direttive UE?** E con quanto ritardo?
 - **Quali atti normativi citano il Codice Penale?**
-- **Come è cambiato il numero di decreti-legge negli anni?**
-- **Quali testi unici sono ancora vigenti?**
+- **Quali atti sulla sicurezza lavoro sono ancora vigenti?**
+- **Quali norme fiscali hanno qualità più alta?**
 
 ## Tre modi per accedere ai dati
 
@@ -35,7 +34,12 @@ Collega il server MCP del corpus al tuo assistente AI:
 ```
 "Trova i decreti-legge che citano ambiente ed energia"
 "Mostrami il testo del D.Lgs. 231/2001"
+"Cerca solo atti vigenti con qualità alta"
 ```
+
+Ogni risultato include `stato` (vigente/abrogato/decaduto), `qualita_score` (0-100),
+`materia`, `orfano`, `n_citazioni` e `duplicato`.
+Filtri disponibili: `stato`, `min_score`, `materia`.
 
 ### 2. Via SQL su parquet
 
@@ -44,6 +48,7 @@ import duckdb
 duckdb.sql("""
     SELECT tipo, anno_atto, COUNT(*) AS n
     FROM read_parquet('data/derived/normativa.parquet')
+    WHERE stato = 'vigente'
     GROUP BY tipo, anno_atto
     ORDER BY anno_atto DESC
     LIMIT 20
@@ -52,8 +57,8 @@ duckdb.sql("""
 
 ### 3. Via download parquet
 
-- `data/derived/normativa.parquet` — metadati di 20.716 atti (14 colonne)
-- `data/derived/riferimenti.parquet` — 108.490 riferimenti tra atti (10 colonne)
+- `data/derived/normativa.parquet` — 22.016 atti, 26 colonne
+- `data/derived/riferimenti.parquet` — 92.580 riferimenti, 15 colonne
 
 ## Approfondimenti
 
@@ -72,27 +77,49 @@ duckdb.sql("""
 | Tool | Cosa fa |
 |---|---|
 | **Fetch Normattiva** | Scarica XML Akoma Ntoso dall'API Normattiva e converte in Markdown |
-| **MCP server** | Ricerca full-text, recupero documenti, elenco collezioni |
-| **Estrattore metadati** | Parsa i Markdown → `normativa.parquet` (tipo, data, URN, CELEX...) |
-| **Grafo riferimenti** | Costruisce gli archi fonte → bersaglio tra atti |
-| **Citazioni costituzionali** | Estrae riferimenti agli articoli della Costituzione |
+| **MCP server** | Ricerca full-text con filtri qualità, cross-reference, recupero documenti |
+| **Extract metadati** | Parsa i Markdown → `normativa.parquet` (stato, vigente, duplicato) |
+| **Grafo riferimenti** | Costruisce gli archi fonte → bersaglio con materia e stato |
+| **Arricchisci qualità** | Calcola n_citazioni, orfano, qualita_score |
+| **Classifica tematico** | Assegna materia (25 categorie keyword-based) |
+| **Integra costituzionali** | Colleghi citazioni cost. e abrogazioni al parquet |
 
 ### CI / Manutenzione
 
-- **Build dataset** (06:30): fetch da Normattiva → extract → grafo → citazioni
+- **Build dataset** (06:30): fetch → extract → grafo → arricchisci → classifica → integra
 - **Test**: `pytest tests/ -v` su ogni push/PR
 
-### Schema `normativa.parquet`
+### Schema `normativa.parquet` (26 colonne)
 
 `collezione`, `filename`, `tipo`, `data`, `numero`, `oggetto`, `celex`,
 `anno_atto`, `anno_dir`, `ritardo`, `urn`, `codice_redazionale`,
-`lunghezza_caratteri`, `lunghezza_parole`, `riferimenti_interni`
+`stato`, `vigente`, `lunghezza_caratteri`, `lunghezza_parole`,
+`riferimenti_interni`, `duplicato`, `n_citazioni`, `orfano`, `qualita_score`,
+`materia`, `n_articoli_cost`, `articoli_cost`, `abrogato_da`, `n_abrogazioni`
 
-### Schema `riferimenti.parquet`
+Colonne di qualità:
+
+| Colonna | Tipo | Significato |
+|---|---|---|
+| `stato` | string | `vigente` \| `abrogato` \| `decaduto` — dai marker Normattiva nel body. ⚠️ Rilevato solo per atti con snapshot VIGENZA; gli atti solo ORIGINALE risultano `vigente` per costruzione |
+| `vigente` | bool | `stato == 'vigente'` (il frontmatter MD di Normattiva è inaffidabile) |
+| `duplicato` | bool | Stesso atto (data+numero) presente più volte nel corpus |
+| `n_citazioni` | int | Citazioni in ingresso dal grafo riferimenti |
+| `orfano` | bool | Nessuna citazione in uscita né in ingresso |
+| `qualita_score` | int | 0-100, più alto = migliore (penalizza duplicati, orfani, stato non vigente) |
+| `materia` | string | Classificazione tematica: fisco, ambientale, lavoro, etc. (25 categorie) |
+| `n_articoli_cost` | int | Numero di articoli costituzionali citati dall'atto |
+| `articoli_cost` | string | Articoli costituzionali citati (separati da virgola) |
+| `abrogato_da` | string | File che abrogano questo atto |
+| `n_abrogazioni` | int | Numero di abrogazioni che riguardano questo atto |
+
+### Schema `riferimenti.parquet` (15 colonne)
 
 `fonte_filename`, `fonte_collezione`, `fonte_anno`, `fonte_tipo`,
-`bersaglio_filename`, `bersaglio_path`, `risolto`, `bersaglio_collezione`,
-`bersaglio_anno`, `bersaglio_tipo`, `peso`
+`fonte_materia`, `fonte_stato`,
+`bersaglio_filename`, `bersaglio_path`, `bersaglio_collezione`,
+`bersaglio_anno`, `bersaglio_tipo`, `bersaglio_materia`, `bersaglio_stato`,
+`peso`, `risolto`
 
 ## Licenza
 
