@@ -1,6 +1,11 @@
 """Client per l'API Normattiva OpenData.
 
 Scarica le collezioni legislative vigenti in formato Akoma Ntoso XML.
+
+NOTE TLS: api.normattiva.it non manda l'intermediate cert nella catena TLS
+(GlobalSign GCC R46 OV TLS CA 2025). Il root CA è nei CA store standard,
+ma senza l'intermediate la verifica locale fallisce con
+CERTIFICATE_VERIFY_FAILED. Workaround: verify=False. Vedere docs/AUDIT_NORMATTIVA.md §5.
 """
 
 from __future__ import annotations
@@ -18,6 +23,10 @@ logger = logging.getLogger(__name__)
 BASE_URL = "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1"
 COLLECTIONS_URL = f"{BASE_URL}/collections/collection-predefinite"
 DOWNLOAD_URL = f"{BASE_URL}/collections/download/collection-preconfezionata"
+
+# TLS workaround: server doesn't send intermediate cert in chain.
+# See docs/AUDIT_NORMATTIVA.md §5. Remove once IPZS fixes the chain.
+VERIFY_TLS = False
 
 HEADERS = {
     "User-Agent": (
@@ -37,7 +46,7 @@ RETRY_BACKOFF = 5.0
 
 def fetch_predefined_collections() -> list[dict]:
     """GET /collections/collection-predefinite — restituisce la lista raw."""
-    resp = requests.get(COLLECTIONS_URL, headers=HEADERS, timeout=30)
+    resp = requests.get(COLLECTIONS_URL, headers=HEADERS, timeout=30, verify=VERIFY_TLS)
     resp.raise_for_status()
     data = resp.json()
     if not isinstance(data, list):
@@ -106,6 +115,7 @@ def download_collection(collection: dict, dest_dir: Path) -> Path | None:
                 headers=HEADERS,
                 timeout=DOWNLOAD_TIMEOUT,
                 stream=True,
+                verify=VERIFY_TLS,
             ) as r:
                 if r.status_code != 200:
                     logger.warning(

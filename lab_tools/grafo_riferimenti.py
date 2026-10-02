@@ -62,6 +62,8 @@ def _load_normativa_lookup() -> dict[str, dict]:
                 "collezione": row.get("collezione", ""),
                 "anno_atto": row.get("anno_atto", 0),
                 "tipo": row.get("tipo", ""),
+                "materia": row.get("materia", ""),
+                "stato": row.get("stato", ""),
             }
     return lookup
 
@@ -180,11 +182,15 @@ def main():
                     "fonte_collezione": nome_collezione,
                     "fonte_anno": fonte_meta.get("anno_atto", 0),
                     "fonte_tipo": fonte_meta.get("tipo", ""),
+                    "fonte_materia": fonte_meta.get("materia", ""),
+                    "fonte_stato": fonte_meta.get("stato", ""),
                     "bersaglio_filename": bersaglio_fn,
                     "bersaglio_path": bp or "",
                     "bersaglio_collezione": bersaglio_meta.get("collezione", ""),
                     "bersaglio_anno": bersaglio_meta.get("anno_atto", 0),
                     "bersaglio_tipo": bersaglio_meta.get("tipo", ""),
+                    "bersaglio_materia": bersaglio_meta.get("materia", ""),
+                    "bersaglio_stato": bersaglio_meta.get("stato", ""),
                     "peso": peso,
                     "risolto": risolto,
                 }
@@ -192,22 +198,7 @@ def main():
 
     _stampa_metriche(archi, len(file_set))
 
-    # Salva CSV
-    csv_path = OUTDIR / "riferimenti.csv"
-    import csv as csv_module
-    fieldnames = [
-        "fonte_filename", "fonte_collezione", "fonte_anno", "fonte_tipo",
-        "bersaglio_filename", "bersaglio_path", "bersaglio_collezione",
-        "bersaglio_anno", "bersaglio_tipo", "peso", "risolto",
-    ]
-    archi_out = [{k: v for k, v in a.items() if k in fieldnames} for a in archi]
-    with open(csv_path, "w", newline="", encoding="utf-8") as f:
-        w = csv_module.DictWriter(f, fieldnames=fieldnames)
-        w.writeheader()
-        w.writerows(archi_out)
-    print(f"\nCSV: {csv_path} ({len(archi)} righe)")
-
-    # Salva Parquet
+    # Salva Parquet (il CSV è ignorato da git, solo locale)
     try:
         import pandas as pd
         df = pd.DataFrame(archi)

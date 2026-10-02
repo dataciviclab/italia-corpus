@@ -35,7 +35,11 @@ Collega il server MCP del corpus al tuo assistente AI:
 ```
 "Trova i decreti-legge che citano ambiente ed energia"
 "Mostrami il testo del D.Lgs. 231/2001"
+"Cerca solo atti vigenti con qualità alta"
 ```
+
+Ogni risultato include `stato` (vigente/abrogato/decaduto), `qualita_score` (0-100),
+`orfano`, `n_citazioni` e `duplicato`. Filtri disponibili: `stato`, `min_score`.
 
 ### 2. Via SQL su parquet
 
@@ -86,7 +90,30 @@ duckdb.sql("""
 
 `collezione`, `filename`, `tipo`, `data`, `numero`, `oggetto`, `celex`,
 `anno_atto`, `anno_dir`, `ritardo`, `urn`, `codice_redazionale`,
-`lunghezza_caratteri`, `lunghezza_parole`, `riferimenti_interni`
+`stato`, `vigente`, `lunghezza_caratteri`, `lunghezza_parole`,
+`riferimenti_interni`, `duplicato`, `n_citazioni`, `orfano`, `qualita_score`
+
+Colonne di qualità:
+
+| Colonna | Tipo | Significato |
+|---|---|---|
+| `stato` | string | `vigente` \| `abrogato` \| `decaduto` — dai marker Normattiva nel body. ⚠️ Rilevato solo per atti con snapshot VIGENZA nel corpus; gli atti solo ORIGINALE risultano `vigente` per costruzione |
+| `vigente` | bool | `stato == 'vigente'` (il frontmatter MD di Normattiva è inaffidabile) |
+| `duplicato` | bool | Stesso atto (data+numero) presente più volte nel corpus |
+| `n_citazioni` | int | Citazioni in ingresso dal grafo riferimenti |
+| `orfano` | bool | Nessuna citazione in uscita né in ingresso |
+| `qualita_score` | int | 0-100, più alto = migliore (penalizza duplicati, orfani, stato non vigente) |
+| `materia` | string | Classificazione tematica: fisco, ambientale, lavoro, giustizia, etc. (25 categorie) |
+| `n_articoli_cost` | int | Numero di articoli costituzionali citati dall'atto |
+| `articoli_cost` | string | Articoli costituzionali citati (separati da virgola) |
+| `abrogato_da` | string | File che abrogano questo atto (da abrogations_raw) |
+| `n_abrogazioni` | int | Numero di abrogazioni che riguardano questo atto |
+
+### Schema `riferimenti.parquet`
+
+`fonte_filename`, `fonte_collezione`, `fonte_anno`, `fonte_tipo`, `fonte_materia`, `fonte_stato`,
+`bersaglio_filename`, `bersaglio_path`, `bersaglio_collezione`, `bersaglio_anno`, `bersaglio_tipo`,
+`bersaglio_materia`, `bersaglio_stato`, `peso`, `risolto`
 
 ### Schema `riferimenti.parquet`
 

@@ -42,6 +42,12 @@ jobs:
         run: python -m lab_tools.extract
       - name: Grafo riferimenti
         run: python -m lab_tools.grafo_riferimenti
+      - name: Arricchisci normativa (qualità)
+        run: python -m lab_tools.arricchisci_normativa
+      - name: Classifica tematico
+        run: python -m lab_tools.classifica_tematich
+      - name: Integra costituzionali e abrogazioni
+        run: python -m lab_tools.integra_costituzionali
       - name: Citazioni Costituzionali
         run: python -m lab_tools.estrai_citazioni_costituzionali
       - name: Riferimenti PNRR

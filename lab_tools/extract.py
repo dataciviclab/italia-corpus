@@ -102,6 +102,26 @@ def _get_body(raw: str) -> str:
     return raw.strip()
 
 
+# Marker tombstone nel body (Normattiva sostituisce il testo degli atti
+# abrogati/decaduti con questi segnaposto).
+RE_ABROGATO = re.compile(r"PROVVEDIMENTO\s+ABROGATO", re.IGNORECASE)
+RE_DECADUTO = re.compile(r"DECRETO\s+DECADUTO", re.IGNORECASE)
+
+
+def _detect_stato(body: str) -> str:
+    """Rileva lo stato normativo dell'atto dal body.
+
+    - 'abrogato': contiene marker 'PROVVEDIMENTO ABROGATO'
+    - 'decaduto': contiene marker 'DECRETO DECADUTO'
+    - 'vigente': nessun marker trovato
+    """
+    if RE_ABROGATO.search(body):
+        return "abrogato"
+    if RE_DECADUTO.search(body):
+        return "decaduto"
+    return "vigente"
+
+
 def _body_metrics(body: str) -> dict:
     """Calcola metriche testuali dal body di un atto normativo.
 
@@ -137,6 +157,7 @@ def extract(filepath: Path, collezione: str = "") -> dict | None:
     anno_atto = int(data[:4]) if len(data) >= 4 and data[:4].isdigit() else 0
     celex, anno = _estrai_riferimento_ue(oggetto)
     ritardo = (anno_atto - anno) if anno and anno <= anno_atto < anno + 100 else None
+    stato = _detect_stato(body)
 
     return {
         "collezione": collezione, "filename": filepath.name,
@@ -145,6 +166,8 @@ def extract(filepath: Path, collezione: str = "") -> dict | None:
         "celex": celex or "", "anno_atto": anno_atto,
         "anno_dir": anno or 0, "ritardo": ritardo,
         "urn": urn, "codice_redazionale": codice_redazionale,
+        "stato": stato,
+        "vigente": stato == "vigente",
         **metrics,
     }
 
@@ -158,7 +181,13 @@ def _collezioni_legislative() -> list[Path]:
 
 
 def _dedup(records: list[dict]) -> list[dict]:
-    """Raggruppa per filename: merge collezioni, tiene primo record."""
+    """Raggruppa per filename: merge collezioni, tiene primo record.
+
+    Marca come duplicati gli atti che condividono data+numero con altri
+    (stesso atto in più collezioni o versioni VIGENZA diverse).
+    """
+    from collections import Counter
+
     by_file: dict[str, dict] = {}
     for r in records:
         fn = r["filename"]
@@ -169,6 +198,17 @@ def _dedup(records: list[dict]) -> list[dict]:
                 by_file[fn]["collezione"] = existing + ";" + nuova
         else:
             by_file[fn] = dict(r)
+
+    # Conta occorrenze per identità atto (data+numero)
+    identity = Counter(
+        (r.get("data", ""), r.get("numero", ""))
+        for r in by_file.values()
+        if r.get("data") and r.get("numero")
+    )
+    for r in by_file.values():
+        key = (r.get("data", ""), r.get("numero", ""))
+        r["duplicato"] = identity.get(key, 0) > 1
+
     return list(by_file.values())
 
 
@@ -187,6 +227,7 @@ def main():
         return
     print(f"TOTALE: {len(records)} atti")
     print(f"Con CELEX: {sum(1 for r in records if r['celex'])}")
+    print(f"Duplicati: {sum(1 for r in records if r.get('duplicato'))}")
 
     try:
         import pandas as pd
