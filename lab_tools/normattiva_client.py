@@ -2,10 +2,10 @@
 
 Scarica le collezioni legislative vigenti in formato Akoma Ntoso XML.
 
-NOTE TLS: api.normattiva.it non manda l'intermediate cert nella catena TLS
-(GlobalSign GCC R46 OV TLS CA 2025). Il root CA è nei CA store standard,
-ma senza l'intermediate la verifica locale fallisce con
-CERTIFICATE_VERIFY_FAILED. Workaround: verify=False. Vedere docs/AUDIT_NORMATTIVA.md §5.
+NOTE TLS: dal 2026-10-02 api.normattiva.it serve la catena completa
+(leaf + intermediate GlobalSign GCC R46 OV TLS CA 2025 + root R46),
+verificata con verify=True. Workaround verify=False rimosso, vedi
+https://github.com/dataciviclab/italia-corpus/issues/46.
 """
 
 from __future__ import annotations
@@ -24,10 +24,9 @@ BASE_URL = "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1"
 COLLECTIONS_URL = f"{BASE_URL}/collections/collection-predefinite"
 DOWNLOAD_URL = f"{BASE_URL}/collections/download/collection-preconfezionata"
 
-# TLS workaround: server doesn't send intermediate cert in chain.
+# IPZS serve la catena TLS completa dal 2026-10-02 (verificato con verify=True).
 # Tracking: https://github.com/dataciviclab/italia-corpus/issues/46
-# Remove once IPZS fixes the chain.
-VERIFY_TLS = False
+VERIFY_TLS = True
 
 HEADERS = {
     "User-Agent": (
