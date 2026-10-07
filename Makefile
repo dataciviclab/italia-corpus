@@ -1,4 +1,8 @@
-.PHONY: install test extract grafo arricchisci classifica integra mcp
+.PHONY: install test pipeline extract grafo arricchisci classifica integra integra-akn mcp akn-relations
+
+# Pipeline canonica nucleo (1-5) — vedi docs/PIPELINE.md
+# fetch è volutamente manuale/CI: scarica da Normattiva.
+pipeline: extract grafo arricchisci integra-akn
 
 install:
 	pip install -e ".[dev,mcp]"
@@ -15,6 +19,9 @@ grafo:
 arricchisci:
 	python -m lab_tools.arricchisci_normativa
 
+integra-akn:
+	python -m lab_tools.integra_akn_meta
+
 classifica:
 	python -m lab_tools.classifica_tematich
 
@@ -23,6 +30,9 @@ integra:
 
 sunsetting:
 	python -m lab_tools.monitor_sunsetting
+
+akn-relations:
+	python -m lab_tools.akn_relations --xml-dir data/xml --outdir data/derived --merge
 
 mcp:
 	python -m lab_tools.mcp_server

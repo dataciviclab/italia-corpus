@@ -106,12 +106,14 @@ def _stampa_metriche(archi: list[dict], file_set_size: int):
     fonti = set(a["fonte_filename"] for a in archi)
     risolti = sum(1 for a in archi if a["risolto"])
     non_risolti = total - risolti
+    by_orig = Counter(a.get("origine", "regex") for a in archi)
 
     print(f"\n📊 Grafo riferimenti — metriche")
     print(f"{'='*40}")
     print(f"  Archi totali:        {total:>8,}")
     print(f"  Risolvibili:         {risolti:>8,} ({risolti/total*100:.1f}%)" if total else "")
     print(f"  Non risolvibili:     {non_risolti:>8,} ({non_risolti/total*100:.1f}%)" if total else "")
+    print(f"  Per origine:         {dict(by_orig)}")
     print(f"  Atti citanti (fonti): {len(fonti):>8,}")
     print(f"  Atti citati (bers.): {len(citati):>8,}")
     print(f"  File nel corpus:     {file_set_size:>8,}")
@@ -126,6 +128,83 @@ def _stampa_metriche(archi: list[dict], file_set_size: int):
         for path, count in counter.most_common(10):
             short = path[:70]
             print(f"    {count:5d}x  {short}")
+
+
+def _load_urn_to_filename() -> dict[str, str]:
+    """urn -> filename da normativa.parquet (per join AKN)."""
+    try:
+        import pandas as pd
+    except ImportError:
+        return {}
+    if not NORMATIVA_PARQUET.exists():
+        return {}
+    df = pd.read_parquet(NORMATIVA_PARQUET, columns=["urn", "filename"])
+    df = df.dropna(subset=["urn"])
+    return dict(zip(df["urn"], df["filename"]))
+
+
+def _archi_da_akn_relations(
+    normativa: dict[str, dict],
+    urn_to_fn: dict[str, str],
+) -> list[dict]:
+    """Cita AKN (origin=ref) con entrambe le estremità risolte nel corpus.
+
+    Aggiunge archi con origine='akn', peso=1. Non sovrascrive il grafo regex:
+    il consumatore distingue da colonna `origine`.
+    """
+    akn_path = OUTDIR / "akn_relations.parquet"
+    if not akn_path.exists() or not urn_to_fn:
+        print("  akn_relations.parquet assente o nessun URN — union AKN saltata")
+        return []
+
+    try:
+        import pandas as pd
+    except ImportError:
+        return []
+
+    df = pd.read_parquet(akn_path)
+    if df.empty or "origin" not in df.columns:
+        return []
+    cit = df[df["origin"] == "ref"].copy()
+    if cit.empty:
+        print("  Nessuna citation AKN — union saltata")
+        return []
+
+    archi: list[dict] = []
+    n_skip = 0
+    for _, row in cit.iterrows():
+        f_urn, t_urn = row.get("fonte_urn"), row.get("target_urn")
+        f_fn = urn_to_fn.get(f_urn)
+        t_fn = urn_to_fn.get(t_urn)
+        if not f_fn or not t_fn:
+            n_skip += 1
+            continue
+        f_path = str((REPO / f_fn).relative_to(REPO)) if (REPO / f_fn).exists() else f_fn
+        f_meta = normativa.get(Path(f_fn).name, {})
+        t_meta = normativa.get(Path(t_fn).name, {})
+        archi.append(
+            {
+                "fonte_filename": f_fn,
+                "fonte_collezione": f_meta.get("collezione", ""),
+                "fonte_anno": f_meta.get("anno_atto", 0),
+                "fonte_tipo": f_meta.get("tipo", ""),
+                "fonte_materia": f_meta.get("materia", ""),
+                "fonte_stato": f_meta.get("stato", ""),
+                "bersaglio_filename": Path(t_fn).name,
+                "bersaglio_path": t_fn,
+                "bersaglio_collezione": t_meta.get("collezione", ""),
+                "bersaglio_anno": t_meta.get("anno_atto", 0),
+                "bersaglio_tipo": t_meta.get("tipo", ""),
+                "bersaglio_materia": t_meta.get("materia", ""),
+                "bersaglio_stato": t_meta.get("stato", ""),
+                "peso": 1,
+                "risolto": True,
+                "origine": "akn",
+                "rel_type": "citation",
+            }
+        )
+    print(f"  AKN citations in corpus: {len(archi)} (skip esterne: {n_skip})")
+    return archi
 
 
 def main():
@@ -193,8 +272,14 @@ def main():
                     "bersaglio_stato": bersaglio_meta.get("stato", ""),
                     "peso": peso,
                     "risolto": risolto,
+                    "origine": "regex",
+                    "rel_type": "citation",
                 }
                 archi.append(arco)
+
+    print("Union AKN (citation strutturate)...")
+    urn_to_fn = _load_urn_to_filename()
+    archi.extend(_archi_da_akn_relations(normativa, urn_to_fn))
 
     _stampa_metriche(archi, len(file_set))
 
@@ -202,6 +287,9 @@ def main():
     try:
         import pandas as pd
         df = pd.DataFrame(archi)
+        # colonna origine sempre presente
+        if "origine" not in df.columns:
+            df["origine"] = "regex"
         pqt = OUTDIR / "riferimenti.parquet"
         df.to_parquet(pqt, index=False)
         print(f"Parquet: {pqt} ({len(df)} righe, {len(df.columns)} colonne)")

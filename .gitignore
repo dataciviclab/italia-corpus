@@ -10,3 +10,6 @@ __pycache__/
 
 # Dataset — solo csv è generato localmente
 data/derived/*.csv
+
+# Staging fetch AKN (transiente)
+data/derived/_akn_stage/

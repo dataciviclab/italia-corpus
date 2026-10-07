@@ -3,16 +3,52 @@ name: italia-corpus
 kind: corpus-project
 status: public-exploration
 description: >
-  Corpus della legislazione italiana vigente, scaricato direttamente
-  dall'API Normattiva OpenData. Tooling Lab per estrazione metadati,
-  grafo riferimenti normativi, e ricerca full-text via MCP.
+  Pipeline Normattiva OpenData -> corpus Markdown + parquet (metadati,
+  riferimenti, enrichment AKN). Prodotto primario: testi ispezionabili;
+  i parquet servono ecosystem Lab (MCP, legal-graph, analisi).
+  Non è il grafo normativa del Lab (vedi legal-graph) né una piattaforma igiene.
+docs:
+  pipeline: docs/PIPELINE.md
 data_source:
   type: normattiva_api
   endpoint: https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1
   format: akn_xml
-  filter: formatoRichiesta=V (solo atti vigenti)
+  filter: collezioni da config/collezioni.txt (formati O/V/M secondo fetch)
+pipeline:
+  # ordine canonico — vedi docs/PIPELINE.md
+  stages:
+    - fetch          # lab_tools.fetch_normattiva -> MD + akn_* (merge)
+    - extract        # lab_tools.extract -> normativa.parquet
+    - grafo          # lab_tools.grafo_riferimenti -> riferimenti.parquet
+    - arricchisci    # lab_tools.arricchisci_normativa
+    - integra-akn    # lab_tools.integra_akn_meta
+    - classifica     # lab_tools.classifica_tematich (downstream)
+    - integra        # lab_tools.integra_costituzionali (downstream)
+    - sunsetting     # lab_tools.monitor_sunsetting (opzionale)
+outputs:
+  - path: data/derived/normativa.parquet
+    kind: table
+    contract: una riga per atto (metadati + qualità)
+  - path: data/derived/riferimenti.parquet
+    kind: graph_edges
+    contract: fonte->bersaglio, peso, risolto, origine=regex|akn
+  - path: data/derived/akn_relations.parquet
+    kind: enrichment
+    contract: relazioni AKN tipizzate (parziale fino a fetch V pieno)
+  - path: data/derived/akn_act_meta.parquet
+    kind: enrichment
+    contract: EIV, mod counts, ELI per atto (parziale)
+  - path: "collezioni/**/*.md"
+    kind: corpus
+    contract: testo + frontmatter URN
 datasets:
-  - normativa  # dataset principale, generato da lab_tools.extract
-  - riferimenti  # grafo riferimenti normativi
-  - citazioni-costituzionali  # archi atto → articolo costituzionale
+  - normativa
+  - riferimenti
+  - akn_relations
+  - akn_act_meta
+  - citazioni-costituzionali
+consumers:
+  - lab_tools.mcp_server
+  - legal-graph (aggregazione, non reinvenzione)
+  - analisi locali / eventuali Explorer
 maintainer: DataCivicLab
