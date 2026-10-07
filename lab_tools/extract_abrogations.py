@@ -95,7 +95,7 @@ def main() -> int:
     print(f"Saved: {output_file} ({len(df)} rows)")
 
     # Summary
-    print(f"\n=== Top atti abrogati ===")
+    print("\n=== Top atti abrogati ===")
     top = df.groupby(["abrogated_year", "abrogated_number"]).size().reset_index(name="n").sort_values("n", ascending=False).head(10)
     for _, r in top.iterrows():
         print(f"  {int(r['abrogated_number'])}/{int(r['abrogated_year'])}: abrogato {r['n']} volte")

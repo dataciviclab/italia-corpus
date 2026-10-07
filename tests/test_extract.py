@@ -3,10 +3,13 @@
 from pathlib import Path
 
 import pytest
-
 from lab_tools.extract import (
-    extract, _estrai_riferimento_ue, _dedup, _get_body, _body_metrics,
+    _body_metrics,
+    _dedup,
     _detect_stato,
+    _estrai_riferimento_ue,
+    _get_body,
+    extract,
 )
 
 FIXTURES = Path(__file__).resolve().parent / "fixtures"

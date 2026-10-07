@@ -7,7 +7,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from lab_tools.extract_abrogations import extract_from_file, ATTO_REF, SKIP_PAT
+from lab_tools.extract_abrogations import ATTO_REF, SKIP_PAT, extract_from_file
 
 
 class TestAttoRef:

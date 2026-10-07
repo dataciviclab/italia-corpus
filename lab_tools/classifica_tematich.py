@@ -10,7 +10,6 @@ Uso: python -m lab_tools.classifica_tematich
 
 from __future__ import annotations
 
-import re
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -179,7 +178,7 @@ def main() -> None:
     print(f"Arricchito con colonna 'materia': {NORMATIVA_PARQUET}")
 
     # Metriche
-    print(f"\n📊 Distribuzione materie")
+    print("\n📊 Distribuzione materie")
     print(f"{'='*40}")
     counts = df["materia"].value_counts()
     for materia, n in counts.items():
@@ -188,7 +187,7 @@ def main() -> None:
         print(f"  {materia:<25} {n:>6,}  {pct:>5.1f}%  {bar}")
 
     # Cross: materia x stato
-    print(f"\n📊 Materie x stato (top 10) ===")
+    print("\n📊 Materie x stato (top 10) ===")
     ct = df.groupby(["materia", "stato"]).size().unstack(fill_value=0)
     ct["totale"] = ct.sum(axis=1)
     ct = ct.sort_values("totale", ascending=False).head(10)

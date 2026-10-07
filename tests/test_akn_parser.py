@@ -2,8 +2,6 @@
 
 import xml.etree.ElementTree as ET
 
-import pytest
-
 from lab_tools.akn_parser import (
     AknFrontmatter,
     akn_xml_to_markdown,

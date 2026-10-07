@@ -1,8 +1,7 @@
 """Test per lab_tools.monitor_sunsetting — sunsetting score."""
 
-import pytest
 
-from lab_tools.monitor_sunsetting import _calcola_sunsetting_score, ANNO_CORRENTE
+from lab_tools.monitor_sunsetting import ANNO_CORRENTE, _calcola_sunsetting_score
 
 
 class TestCalcolaSunsettingScore:

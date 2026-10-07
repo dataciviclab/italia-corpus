@@ -35,6 +35,8 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install -e ".[dev]"
+      - name: Lint (ruff)
+        run: python -m ruff check lab_tools/ tests/
       - run: python -m pytest tests/ -v
       - name: Fetch da Normattiva (MD + artifact AKN)
         run: python -m lab_tools.fetch_normattiva

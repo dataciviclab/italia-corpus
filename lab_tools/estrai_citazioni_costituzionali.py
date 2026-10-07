@@ -143,12 +143,12 @@ def _stampa_metriche(records: list[dict]):
     fonti = set(r["fonte_filename"] for r in records)
     articoli_counter = Counter(r["articolo"] for r in records)
 
-    print(f"\n📊 Citazioni Costituzionali — metriche")
+    print("\n📊 Citazioni Costituzionali — metriche")
     print(f"{'='*40}")
     print(f"  Citazioni totali:     {total:>6,}")
     print(f"  Atti citanti:         {len(fonti):>6,}")
     print(f"  Articoli citati:       {len(articoli_counter):>3}")
-    print(f"\n  Top 15 articoli più citati:")
+    print("\n  Top 15 articoli più citati:")
     for art, cnt in articoli_counter.most_common(15):
         print(f"    Art. {art:3d}: {cnt:5d}x")
 
@@ -190,7 +190,6 @@ def main():
 
     # Salva CSV
     csv_path = OUTDIR / "citazioni-costituzionali.csv"
-    import csv as csv_module
     fieldnames = [
         "fonte_filename", "fonte_collezione", "fonte_anno", "fonte_tipo",
         "articolo", "contesto",

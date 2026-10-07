@@ -15,10 +15,13 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import xml.etree.ElementTree as ET
 from collections import Counter
 from pathlib import Path
-from typing import Any
-import xml.etree.ElementTree as ET
+from typing import TYPE_CHECKING, Any
+
+if TYPE_CHECKING:
+    import pandas as pd
 
 AKN_NS = "http://docs.oasis-open.org/legaldocml/ns/akn/3.0"
 ELI_NS = "http://data.europa.eu/eli/ontology#"

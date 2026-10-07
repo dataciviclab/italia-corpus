@@ -1,4 +1,4 @@
-.PHONY: install test pipeline pipeline-core extract grafo arricchisci classifica integra integra-akn sunsetting citazioni pnrr abrogations mcp akn-relations
+.PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-akn sunsetting citazioni pnrr abrogations mcp akn-relations
 
 # Pipeline completa (senza fetch — fetch è CI/manuale)
 # Ordine coerente con .github/workflows/build-dataset.yml
@@ -13,6 +13,9 @@ install:
 
 test:
 	python -m pytest tests/ -v
+
+lint:
+	python -m ruff check lab_tools/ tests/
 
 extract:
 	python -m lab_tools.extract

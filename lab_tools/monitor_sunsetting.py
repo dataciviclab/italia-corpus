@@ -115,7 +115,7 @@ def main() -> None:
     print(f"  Colonne: {len(df.columns)}")
 
     # Metriche
-    print(f"\n📊 Metriche sunsetting")
+    print("\n📊 Metriche sunsetting")
     print(f"{'='*40}")
     print(f"  Score medio:              {df['sunsetting_score'].mean():>8.1f}")
     print(f"  Score > 50 (candidati):   {(df['sunsetting_score'] > 50).sum():>8,}")

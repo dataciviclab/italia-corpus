@@ -1,10 +1,8 @@
 """Test per lab_tools.normattiva_client."""
 
-from pathlib import Path
 from unittest.mock import MagicMock, patch
 
 import pytest
-
 from lab_tools.normattiva_client import (
     download_collection,
     extract_zip,
@@ -12,7 +10,6 @@ from lab_tools.normattiva_client import (
     filter_collections,
     merge_collections_by_name,
 )
-
 
 # ── fetch_predefined_collections ────────────────────────────────────
 

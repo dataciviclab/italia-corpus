@@ -3,7 +3,6 @@
 import xml.etree.ElementTree as ET
 
 import pytest
-
 from lab_tools.akn_relations import (
     _extract_eiv,
     extract_act_meta,

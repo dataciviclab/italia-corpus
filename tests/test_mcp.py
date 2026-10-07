@@ -5,10 +5,8 @@ import subprocess
 from pathlib import Path
 
 import pytest
-
 from lab_tools import mcp_server
 from lab_tools._frontmatter import parse_frontmatter
-
 
 # ─── fixture helpers ──────────────────────────────────────────────
 

@@ -1,6 +1,5 @@
 """Test per lab_tools.classifica_tematich — classificatore tematico."""
 
-import pytest
 
 from lab_tools.classifica_tematich import _classifica_oggetto
 

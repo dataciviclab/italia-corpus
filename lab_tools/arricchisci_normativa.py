@@ -101,7 +101,7 @@ def main() -> None:
     print(f"  Colonne: {list(df.columns)}")
 
     # Metriche
-    print(f"\n📊 Metriche qualità")
+    print("\n📊 Metriche qualità")
     print(f"{'='*40}")
     print(f"  Con citazioni:     {(df['n_citazioni'] > 0).sum():>8,}")
     print(f"  Orfani:            {df['orfano'].sum():>8,}")

@@ -108,7 +108,7 @@ def _stampa_metriche(archi: list[dict], file_set_size: int):
     non_risolti = total - risolti
     by_orig = Counter(a.get("origine", "regex") for a in archi)
 
-    print(f"\n📊 Grafo riferimenti — metriche")
+    print("\n📊 Grafo riferimenti — metriche")
     print(f"{'='*40}")
     print(f"  Archi totali:        {total:>8,}")
     print(f"  Risolvibili:         {risolti:>8,} ({risolti/total*100:.1f}%)" if total else "")
@@ -124,7 +124,7 @@ def _stampa_metriche(archi: list[dict], file_set_size: int):
         for a in archi:
             if a["risolto"]:
                 counter[(a["bersaglio_filename"])] += a["peso"]
-        print(f"\n  Top 10 atti più citati:")
+        print("\n  Top 10 atti più citati:")
         for path, count in counter.most_common(10):
             short = path[:70]
             print(f"    {count:5d}x  {short}")
@@ -179,7 +179,6 @@ def _archi_da_akn_relations(
         if not f_fn or not t_fn:
             n_skip += 1
             continue
-        f_path = str((REPO / f_fn).relative_to(REPO)) if (REPO / f_fn).exists() else f_fn
         f_meta = normativa.get(Path(f_fn).name, {})
         t_meta = normativa.get(Path(t_fn).name, {})
         archi.append(

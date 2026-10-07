@@ -94,7 +94,7 @@ def main() -> None:
     print(f"  Colonne: {len(df.columns)}")
 
     # Metriche
-    print(f"\n📊 Metriche integrazione")
+    print("\n📊 Metriche integrazione")
     print(f"{'='*40}")
     print(f"  Con citazioni cost.: {(df['n_articoli_cost'] > 0).sum():>8,}")
     print(f"  Con abrogazioni:     {(df['n_abrogazioni'] > 0).sum():>8,}")
