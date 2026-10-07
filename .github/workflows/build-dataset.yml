@@ -36,26 +36,52 @@ jobs:
           python-version: '3.12'
       - run: pip install -e ".[dev]"
       - run: python -m pytest tests/ -v
-      - name: Fetch da Normattiva (solo vigenti)
+      - name: Fetch da Normattiva (MD + artifact AKN)
         run: python -m lab_tools.fetch_normattiva
       - name: Extract metadati
         run: python -m lab_tools.extract
-      - name: Grafo riferimenti
-        run: python -m lab_tools.grafo_riferimenti
-      - name: Arricchisci normativa (qualità)
-        run: python -m lab_tools.arricchisci_normativa
+      # Ordine critico: classifica PRIMA di grafo (denorm materia)
+      # e integra-akn DOPO arricchisci (contratto main + AKN).
       - name: Classifica tematico
         run: python -m lab_tools.classifica_tematich
+      - name: Integra costituzionali e abrogazioni
+        run: python -m lab_tools.integra_costituzionali
       - name: Citazioni Costituzionali
         run: python -m lab_tools.estrai_citazioni_costituzionali
       - name: Riferimenti PNRR
         run: python -m lab_tools.extract_pnrr_refs
       - name: Abrogazioni
         run: python -m lab_tools.extract_abrogations
-      - name: Integra costituzionali e abrogazioni
-        run: python -m lab_tools.integra_costituzionali
+      - name: Grafo riferimenti (regex ∪ AKN)
+        run: python -m lab_tools.grafo_riferimenti
+      - name: Arricchisci normativa (qualità)
+        run: python -m lab_tools.arricchisci_normativa
+      - name: Integra metadati AKN (EIV, mod counts)
+        run: python -m lab_tools.integra_akn_meta
       - name: Monitor sunsetting
         run: python -m lab_tools.monitor_sunsetting
+      - name: Contract check (main ⊂ branch)
+        run: |
+          python - <<'PY'
+          import subprocess
+          from pathlib import Path
+          import duckdb
+          main = Path("/tmp/main_normativa.parquet")
+          main.write_bytes(subprocess.check_output(
+              ["git", "show", "HEAD:data/derived/normativa.parquet"]
+          ))
+          # su main del cron non c'è lo stesso HEAD: skip se manca
+          if not main.exists() or main.stat().st_size < 1000:
+              print("skip contract check (main snapshot non disponibile)")
+              raise SystemExit(0)
+          con = duckdb.connect()
+          main_cols = {r[0] for r in con.execute(f"DESCRIBE SELECT * FROM '{main}'").fetchall()}
+          br_cols = {r[0] for r in con.execute("DESCRIBE SELECT * FROM 'data/derived/normativa.parquet'").fetchall()}
+          missing = sorted(main_cols - br_cols)
+          if missing:
+              raise SystemExit(f"COLONNE MAIN MANCANTI: {missing}")
+          print(f"contract ok: main={len(main_cols)} branch={len(br_cols)}")
+          PY
       - name: Commit if changed
         run: |
           if [ -n "$(git status --porcelain)" ]; then

@@ -15,29 +15,32 @@ data_source:
   format: akn_xml
   filter: collezioni da config/collezioni.txt (formati O/V/M secondo fetch)
 pipeline:
-  # ordine canonico — vedi docs/PIPELINE.md
+  # ordine canonico — vedi docs/PIPELINE.md e build-dataset.yml
   stages:
-    - fetch          # lab_tools.fetch_normattiva -> MD + akn_* (merge)
-    - extract        # lab_tools.extract -> normativa.parquet
-    - grafo          # lab_tools.grafo_riferimenti -> riferimenti.parquet
-    - arricchisci    # lab_tools.arricchisci_normativa
-    - integra-akn    # lab_tools.integra_akn_meta
-    - classifica     # lab_tools.classifica_tematich (downstream)
-    - integra        # lab_tools.integra_costituzionali (downstream)
-    - sunsetting     # lab_tools.monitor_sunsetting (opzionale)
+    - fetch            # MD + akn_* (staging + merge)
+    - extract          # normativa base
+    - classifica       # + materia  (PRIMA di grafo)
+    - integra          # + cit. cost. / abrogazioni
+    - citazioni        # side product
+    - pnrr             # side product
+    - abrogations      # side product (regex fallback)
+    - grafo            # riferimenti regex∪AKN, denorm materia
+    - arricchisci      # qualità grafo
+    - integra-akn      # + EIV, akn_*
+    - sunsetting       # + sunsetting_score, eta_anni
 outputs:
   - path: data/derived/normativa.parquet
     kind: table
-    contract: una riga per atto (metadati + qualità)
+    contract: atto + qualità + materia/sunsetting + EIV/AKN (superset main CI)
   - path: data/derived/riferimenti.parquet
     kind: graph_edges
-    contract: fonte->bersaglio, peso, risolto, origine=regex|akn
+    contract: fonte->bersaglio, peso, risolto, origine=regex|akn, denorm materia
   - path: data/derived/akn_relations.parquet
     kind: enrichment
-    contract: relazioni AKN tipizzate (parziale fino a fetch V pieno)
+    contract: relazioni AKN tipizzate (fetch completo 20 collezioni)
   - path: data/derived/akn_act_meta.parquet
     kind: enrichment
-    contract: EIV, mod counts, ELI per atto (parziale)
+    contract: EIV, mod counts, ELI per atto (join urn ~100%)
   - path: "collezioni/**/*.md"
     kind: corpus
     contract: testo + frontmatter URN

@@ -31,21 +31,26 @@ Ecosistema     MCP · legal-graph · analisi · Explorer (a valle)
 
 ## Stage (canonici)
 
+Ordine **critico** (uguale a CI e `make pipeline`):
+
 | # | Stage | Comando | Output |
 |---|---|---|---|
-| 1 | **fetch** | `python -m lab_tools.fetch_normattiva [--only …]` | MD nelle collezioni · `data/derived/akn_*.parquet` (merge) |
-| 2 | **extract** | `python -m lab_tools.extract` | `normativa.parquet` |
-| 3 | **grafo** | `python -m lab_tools.grafo_riferimenti` | `riferimenti.parquet` (`origine`: regex\|akn) |
-| 4 | **arricchisci** | `python -m lab_tools.arricchisci_normativa` | + `n_citazioni`, `orfano`, `qualita_score` |
-| 5 | **integra-akn** | `python -m lab_tools.integra_akn_meta` | + `ingresso_in_vigore`, `akn_*` (se artifact presenti) |
-| 6 | **classifica** | `python -m lab_tools.classifica_tematich` | + `materia` |
-| 7 | **integra** | `python -m lab_tools.integra_costituzionali` | + cit. costituzionali / abrogazioni |
-| 8 | **sunsetting** *(opz)* | `python -m lab_tools.monitor_sunsetting` | + `sunsetting_score` |
+| 1 | **fetch** | `python -m lab_tools.fetch_normattiva [--only …]` | MD + `akn_*.parquet` (staging + merge) |
+| 2 | **extract** | `python -m lab_tools.extract` | `normativa.parquet` (metadati base) |
+| 3 | **classifica** | `python -m lab_tools.classifica_tematich` | + `materia` |
+| 4 | **integra** | `python -m lab_tools.integra_costituzionali` | + cit. cost. / abrogazioni |
+| 5 | **citazioni/pnrr/abrogations** | moduli `estrai_*` / `extract_*` | side product parquet |
+| 6 | **grafo** | `python -m lab_tools.grafo_riferimenti` | `riferimenti` (regex∪AKN, denorm materia) |
+| 7 | **arricchisci** | `python -m lab_tools.arricchisci_normativa` | + `n_citazioni`, `orfano`, `qualita_score` |
+| 8 | **integra-akn** | `python -m lab_tools.integra_akn_meta` | + `ingresso_in_vigore`, `akn_*` |
+| 9 | **sunsetting** | `python -m lab_tools.monitor_sunsetting` | + `sunsetting_score`, `eta_anni`, … |
 
-**Makefile**: `make extract grafo arricchisci integra-akn classifica integra`  
-**CI**: fetch automatico → stessi stage tabulari.
+**Makefile**: `make pipeline` (= 2–9, senza fetch)  
+**CI**: stessa sequenza + fetch + contract check (main ⊂ derived)
 
-Stage 6–8 sono **downstream** opzionali per le analisi; 1–5 sono il nucleo “dati utili all’ecosistema”.
+> `classifica` **prima** di `grafo`: altrimenti `fonte_materia`/`bersaglio_materia` restano vuote.  
+> `integra-akn` **dopo** `arricchisci`: preserva qualità + aggiunge AKN.  
+> `sunsetting` **per ultimo**: usa `n_citazioni` e `riferimenti` già stabili.
 
 ---
 
@@ -53,15 +58,15 @@ Stage 6–8 sono **downstream** opzionali per le analisi; 1–5 sono il nucleo �
 
 | Artifact | Contenuto | Consumatori tipici |
 |---|---|---|
-| Collezioni `*.md` | testo + frontmatter | MCP, agenti, ricerca |
-| `normativa.parquet` | una riga per atto (metadati + qualità) | analisi, Explorer, compose |
-| `riferimenti.parquet` | archi fonte→bersaglio (`peso`, `risolto`, `origine`) | legal-graph, debt, grafi |
-| `akn_relations.parquet` | relazioni AKN tipizzate (quando presenti) | arricchimenti, debug fonte |
-| `akn_act_meta.parquet` | EIV, mod counts, ELI per atto (quando presenti) | vigenza più onesta |
-| `abrogations_raw.parquet` | fallback regex abrogazioni | analisi legacy |
+| Collezioni `*.md` | testo + frontmatter URN | MCP, agenti, ricerca |
+| `normativa.parquet` | atto: metadati + qualità + materia/sunsetting + EIV/AKN | legal-graph, MCP, analisi |
+| `riferimenti.parquet` | archi `peso`, `risolto`, `origine` (regex\|akn) | legal-graph, debt |
+| `akn_relations.parquet` | relazioni AKN tipizzate (full-corpus su fetch completo) | clean/tabella propria, debug |
+| `akn_act_meta.parquet` | EIV, mod counts, ELI per atto (join `urn` 100% su fetch completo) | vigenza, quality |
+| `abrogations_raw.parquet` | fallback regex abrogazioni | analisi (AKN repeal = tipizzato) |
 
-**Non committare**: zip, XML temporanei, output runtime.  
-**Sì in git se fanno parte del contratto**: solo se il repo li versiona deliberatamente (oggi i parquet derived sono prodotti CI/locali — verificare `.gitignore`).
+**Non committare**: zip, XML temporanei, `_akn_stage/`, `*.csv` locali.  
+**Sì in git**: derived deliberati del contratto Lab (oggi versionati nel repo).
 
 ---
 
@@ -69,21 +74,22 @@ Stage 6–8 sono **downstream** opzionali per le analisi; 1–5 sono il nucleo �
 
 | Sistema | Rapporto |
 |---|---|
-| **legal-graph** | Consuma URN/testi/relazioni da IC (e altre fonti). Non duplicare grafi dentro IC. |
-| **toolkit / DI** | IC non è un `dataset.yml` standard. Se mai servisse registro, va come *corpus project* dichiarato, non forzato in CLEAN/MART. |
-| **source-observatory** | Normattiva è fonte self-managed del corpus, non catalogo scoutato SO. |
-| **cruscotto igiene** | Solo se decisione umana + dashboard dedicata. Altrimenti analisi in `_local/` o Discussion. |
+| **legal-graph** | Consuma URN/testi/parquet da IC (GitHub raw `main`). Dopo merge: `make run` LG. |
+| **toolkit / DI** | IC non è `dataset.yml` standard. Disciplina toolkit interna, non migrazione RAW/MART. |
+| **source-observatory** | Normattiva = fonte self-managed del corpus, non catalogo SO. |
+| **cruscotto igiene** | Solo con decisione umana + dashboard dedicata. |
 
 ---
 
-## Stato AKN (2026-10-07)
+## Stato AKN (2026-10-08)
 
-- Modulo: `lab_tools/akn_relations.py`
-- Wire: fetch (merge) + grafo (union citation) + `integra_akn_meta`
-- Copertura: parziale finché non si refetchano tutte le collezioni **V**
-- Tests: `tests/test_akn_relations.py`
+- Modulo: `lab_tools/akn_relations.py` (+ `integra_akn_meta.py`)
+- Wire: fetch (staging+merge) · grafo (union citation, `origine`) · integra-akn
+- **Copertura**: fetch completo 20 collezioni — meta join **22.017/22.017**, EIV **10.522**, archi AKN **43.880**, `akn_relations` tipizzato (inclusi repeal/substitution)
+- CI: step `integra-akn` + ordine classifica→grafo + contract check
+- Tests: `tests/test_akn_relations.py` (187 totali repo)
 
-Non è un prodotto separato: è **stage 1 + 5** della pipeline sopra.
+Non è un prodotto separato: è **stage fetch + 8** della pipeline sopra.
 
 ---
 
@@ -91,8 +97,9 @@ Non è un prodotto separato: è **stage 1 + 5** della pipeline sopra.
 
 | Opzione | Giudizio |
 |---|---|
-| Migrazione piena a toolkit RAW/CLEAN/MART | **No** — modello tabulare, non adatto al corpus MD; perdita di chiarezza |
-| Disciplina toolkit dentro IC | **Sì** — stage nominati, output dichiarati, test, niente magia |
-| Toolkit come consumer downstream | **Sì** — se un giorno un parquet IC diventa dataset registry |
+| Migrazione piena a toolkit RAW/CLEAN/MART | **No** — modello tabulare, non adatto al corpus MD |
+| Disciplina toolkit dentro IC | **Sì** — stage nominati, output dichiarati, test |
+| Toolkit come consumer downstream | **Sì** — se un parquet IC entra nel registry |
 
-**In sintesi**: IC resta pipeline Normattiva lineare. Toolkit resta motore tabulare del Lab. legal-graph resta l’aggregatore. Non li sovrappiamo.
+**In sintesi**: IC resta pipeline Normattiva lineare. Toolkit resta motore tabulare. legal-graph resta l’aggregatore.
+

@@ -89,9 +89,11 @@ Pipeline canonica (stage lineari, output dichiarati): **[docs/PIPELINE.md](docs/
 
 ### CI / Manutenzione
 
-- **Build** (06:30): fetch → extract → grafo → arricchisci → integra-akn → classifica → integra
+- **Build** (06:30): fetch → extract → classifica → integra → side product → grafo → arricchisci → **integra-akn** → sunsetting
+- **Locale**: `make pipeline` (stesso ordine, senza fetch)
 - **Test**: `pytest tests/ -v` su ogni push/PR
-- **Ruolo Lab**: IC produce MD+parquet; **legal-graph** li aggrega con altre fonti — non duplicare grafi qui
+- **Ruolo Lab**: IC produce MD+parquet; **legal-graph** li aggrega — non duplicare grafi qui
+- Contratto: `normativa` ⊇ colonne main CI + campi AKN (`ingresso_in_vigore`, `akn_*`)
 
 ### Schema `normativa.parquet` (colonne base + enrichment AKN)
 
