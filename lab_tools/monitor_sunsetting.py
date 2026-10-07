@@ -120,8 +120,10 @@ def main() -> None:
     print(f"  Score medio:              {df['sunsetting_score'].mean():>8.1f}")
     print(f"  Score > 50 (candidati):   {(df['sunsetting_score'] > 50).sum():>8,}")
     print(f"  Score > 70 (forti):       {(df['sunsetting_score'] > 70).sum():>8,}")
-    print(f"  DL proroghe >20 anni:     {((df['collezione'].str.contains('DL proroghe')) & (df['eta_anni'] > 20)).sum():>8,}")
-    print(f"  Vigenti pre-1980 no-cit:  {((df['stato']=='vigente') & (df['anno_atto']<1980) & (df['n_citazioni']==0)).sum():>8,}")
+    proroghe = df["collezione"].str.contains("DL proroghe") & (df["eta_anni"] > 20)
+    pre80 = (df["stato"] == "vigente") & (df["anno_atto"] < 1980) & (df["n_citazioni"] == 0)
+    print(f"  DL proroghe >20 anni:     {proroghe.sum():>8,}")
+    print(f"  Vigenti pre-1980 no-cit:  {pre80.sum():>8,}")
 
 
 if __name__ == "__main__":
