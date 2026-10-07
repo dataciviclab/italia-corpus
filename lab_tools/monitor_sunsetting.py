@@ -92,7 +92,7 @@ def main() -> None:
     print(f"normativa: {len(df)} atti")
 
     # Rimuovi colonne da run precedenti
-    for col in ["eta_anni", "anni_senza_citazioni", "sunsetting_score"]:
+    for col in ["eta_anni", "anni_senza_citazioni", "sunsetting_score", "ultimo_riferimento"]:
         if col in df.columns:
             df = df.drop(columns=[col])
 
