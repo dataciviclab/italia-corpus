@@ -93,10 +93,32 @@ I parquet derived **non** sono rigenerati in questa PR: al prossimo build CI il 
 
 | Sistema | Rapporto |
 |---|---|
-| **legal-graph** | Consuma URN/testi/parquet da IC (GitHub raw `main`). Dopo merge: `make run` LG. |
-| **toolkit / DI** | IC non è `dataset.yml` standard. Disciplina toolkit interna, non migrazione RAW/MART. |
-| **source-observatory** | Normattiva = fonte self-managed del corpus, non catalogo SO. |
+| **legal-graph** | Consuma URN/testi/parquet da IC. Dopo publish GCS: support `type: external` su HTTPS clean. Oggi ancora GitHub raw derived. |
+| **toolkit** | Engine resta corpus-project. **Layer toolkit** in `datasets/` → clean contract (`local_file` su `data/derived` → `out/data/clean`). |
+| **source-observatory** | Normattiva = fonte self-managed del corpus (inventario SO separato). |
 | **cruscotto igiene** | Solo con decisione umana + dashboard dedicata. |
+
+### Layer toolkit (2026-10-08)
+
+| Dataset | PK clean | Mart |
+|---|---|---|
+| `normativa` | `filename` | `mart_atti_per_tipo`, `mart_materia_stato`, `mart_candidati_sunsetting` |
+| `riferimenti` | `fonte_source_path + bersaglio_source_path + origine` | `mart_debt_legale`, `mart_citazioni_per_origine`, `mart_top_bersagli` |
+| `akn-act-meta` | `fonte_file` | `mart_eiv_per_decennio`, `mart_modifiche_anno` |
+| `akn-relations` | `edge_id` (md5) | `mart_relazioni_per_tipo`, `mart_modifiche_tipizzate` |
+
+- Makefile: `make toolkit-check` · `make toolkit-run`
+- Output: `out/data/{clean,mart}/<dataset>/2026/` (gitignored)
+- **CI daily** (`build-dataset.yml`): engine + `toolkit-run` + rsync GCS
+  `gs://dataciviclab-clean|mart/italia-corpus/` — **no registry PR**
+- **CI schema** (`pipeline.yml`): reusable org su merge `datasets/**` + lunedì/dispatch
+  → `toolkit-run` + registry draft PR (solo quando cambia il contratto)
+- Dual-publish: derived resta in git per MCP; clean+mart su GCS sono il contratto Lab
+- Warning attesi: `riferimenti` clean droppa denorm non usati da LG
+
+**Perché no registry daily**: `registry.json` cambia a ogni run (`updated_at`,
+`signals.run_id`) → una draft PR al giorno è rumore. Il contratto pubblico
+(columns/locations) cambia solo con PR su `datasets/**`.
 
 ---
 
@@ -117,8 +139,8 @@ Non è un prodotto separato: è **stage fetch + 8** della pipeline sopra.
 | Opzione | Giudizio |
 |---|---|
 | Migrazione piena a toolkit RAW/CLEAN/MART | **No** — modello tabulare, non adatto al corpus MD |
-| Disciplina toolkit dentro IC | **Sì** — stage nominati, output dichiarati, test |
-| Toolkit come consumer downstream | **Sì** — se un parquet IC entra nel registry |
+| Disciplina toolkit dentro IC | **Sì** — stage nominati + layer clean/mart in `datasets/` |
+| Toolkit come publisher downstream | **Sì** — clean+mart → GCS + registry; legal-graph punta al clean |
 
-**In sintesi**: IC resta pipeline Normattiva lineare. Toolkit resta motore tabulare. legal-graph resta l’aggregatore.
+**In sintesi**: IC resta pipeline Normattiva lineare. Toolkit pubblica clean + mart analitici. legal-graph resta l'aggregatore.
 

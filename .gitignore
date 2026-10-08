@@ -13,3 +13,6 @@ data/derived/*.csv
 
 # Staging fetch AKN (transiente)
 data/derived/_akn_stage/
+
+# Toolkit runtime (clean/mart/runs) — pubblicati su GCS, non in git
+out/

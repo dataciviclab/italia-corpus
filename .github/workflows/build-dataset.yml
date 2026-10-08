@@ -1,11 +1,20 @@
 name: build-dataset
+# Daily: engine Normattiva + layer toolkit → GCS clean/mart.
+# NESSUN registry build qui (evita draft PR giornaliere: signals/updated_at
+# cambiano a ogni run). Il registry viene aggiornato da pipeline.yml
+# solo su merge di datasets/** o dispatch/schema change.
 on:
   schedule:
-    - cron: '30 5 * * *'  # ogni giorno alle 06:30 italiane
+    - cron: '30 5 * * *'  # 06:30 IT
   workflow_dispatch:
 
 permissions:
   contents: write
+  id-token: write
+
+env:
+  GCP_WORKLOAD_IDENTITY_PROVIDER: ${{ secrets.GCP_WORKLOAD_IDENTITY_PROVIDER }}
+  GCP_SERVICE_ACCOUNT: ${{ secrets.GCP_SERVICE_ACCOUNT }}
 
 jobs:
   build:
@@ -17,12 +26,13 @@ jobs:
             lab_tools/
             tests/
             config/
+            datasets/
             data/derived/
             collezioni/
       - uses: actions/setup-python@v6.2.0
         with:
           python-version: '3.12'
-      - run: pip install -e ".[dev]"
+      - run: pip install -e ".[dev,pipeline]"
       - name: Lint (ruff)
         run: python -m ruff check lab_tools/ tests/
       - run: python -m pytest tests/ -v
@@ -30,9 +40,8 @@ jobs:
         run: python -m lab_tools.fetch_normattiva
       - name: Extract metadati
         run: python -m lab_tools.extract
-      # Ordine onesto (vedi docs/PIPELINE.md):
-      # classifica prima di grafo; side product PRIMA di integra
-      # (integra_costituzionali legge citazioni/abrogations da disco);
+      # Ordine onesto (docs/PIPELINE.md):
+      # classifica prima di grafo; side product PRIMA di integra;
       # integra-akn dopo arricchisci; sunsetting per ultimo.
       - name: Classifica tematico
         run: python -m lab_tools.classifica_tematich
@@ -52,7 +61,7 @@ jobs:
         run: python -m lab_tools.integra_akn_meta
       - name: Monitor sunsetting
         run: python -m lab_tools.monitor_sunsetting
-      - name: Contract check (main ⊂ branch)
+      - name: Contract check (colonne main ⊂ build)
         run: |
           python - <<'PY'
           import subprocess
@@ -62,23 +71,39 @@ jobs:
           main.write_bytes(subprocess.check_output(
               ["git", "show", "HEAD:data/derived/normativa.parquet"]
           ))
-          # su main del cron non c'è lo stesso HEAD: skip se manca
           if not main.exists() or main.stat().st_size < 1000:
-              print("skip contract check (main snapshot non disponibile)")
+              print("skip contract check (snapshot non disponibile)")
               raise SystemExit(0)
           main_cols = set(pq.read_schema(main).names)
           br_cols = set(pq.read_schema("data/derived/normativa.parquet").names)
           missing = sorted(main_cols - br_cols)
           if missing:
               raise SystemExit(f"COLONNE MAIN MANCANTI: {missing}")
-          print(f"contract ok: main={len(main_cols)} branch={len(br_cols)}")
+          print(f"contract ok: main={len(main_cols)} build={len(br_cols)}")
           PY
-      - name: Commit if changed
+      - name: Layer toolkit (clean + mart)
+        run: make toolkit-run
+      - name: GCP Auth (WIF)
+        if: env.GCP_WORKLOAD_IDENTITY_PROVIDER != '' && env.GCP_SERVICE_ACCOUNT != ''
+        uses: google-github-actions/auth@v3
+        with:
+          workload_identity_provider: ${{ env.GCP_WORKLOAD_IDENTITY_PROVIDER }}
+          service_account: ${{ env.GCP_SERVICE_ACCOUNT }}
+      - name: GCS Auth (org)
+        if: env.GCP_WORKLOAD_IDENTITY_PROVIDER != '' && env.GCP_SERVICE_ACCOUNT != ''
+        uses: dataciviclab/.github/actions/gcs-auth@main
+      - name: Sync clean/mart to GCS
+        if: env.GCP_WORKLOAD_IDENTITY_PROVIDER != '' && env.GCP_SERVICE_ACCOUNT != ''
         run: |
-          if [ -n "$(git status --porcelain)" ]; then
+          gsutil -m rsync -r out/data/clean/ "gs://dataciviclab-clean/italia-corpus/"
+          gsutil -m rsync -r out/data/mart/  "gs://dataciviclab-mart/italia-corpus/"
+          echo "✅ GCS: dataciviclab-clean|mart/italia-corpus/"
+      - name: Commit derived if changed
+        run: |
+          if [ -n "$(git status --porcelain -- data/derived collezioni)" ]; then
             git config user.name "github-actions"
             git config user.email "actions@github.com"
-            git add -A
+            git add data/derived collezioni
             git commit -m "chore(data): update dataset [skip ci]"
             git push
           fi

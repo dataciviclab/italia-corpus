@@ -57,4 +57,16 @@ consumers:
   - lab_tools.mcp_server
   - legal-graph (aggregazione, non reinvenzione)
   - analisi locali / eventuali Explorer
+# Layer toolkit: clean pubblico da data/derived → out/data/clean (GCS + registry in CI)
+toolkit:
+  enabled: true
+  configs:
+    - datasets/normativa/dataset.yml
+    - datasets/riferimenti/dataset.yml
+    - datasets/akn-act-meta/dataset.yml
+    - datasets/akn-relations/dataset.yml
+  note: >
+    Engine resta corpus-project (fetch XML → MD + derived).
+    Toolkit è il publisher del contratto clean (typing, PK, canonical keys).
+    Non sostituisce MCP/full-text sul corpus MD.
 maintainer: DataCivicLab
