@@ -89,9 +89,11 @@ jobs:
         with:
           workload_identity_provider: ${{ env.GCP_WORKLOAD_IDENTITY_PROVIDER }}
           service_account: ${{ env.GCP_SERVICE_ACCOUNT }}
-      - name: GCS Auth (org)
+      # Niente composite gcs-auth: ha ${{ secrets… }} nella description
+      # e GitHub fallisce il template validation al load del action.yml.
+      - name: Set up gcloud
         if: env.GCP_WORKLOAD_IDENTITY_PROVIDER != '' && env.GCP_SERVICE_ACCOUNT != ''
-        uses: dataciviclab/.github/actions/gcs-auth@main
+        uses: google-github-actions/setup-gcloud@v3
       - name: Sync clean/mart to GCS
         if: env.GCP_WORKLOAD_IDENTITY_PROVIDER != '' && env.GCP_SERVICE_ACCOUNT != ''
         run: |
