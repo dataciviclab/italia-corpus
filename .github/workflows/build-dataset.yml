@@ -57,7 +57,7 @@ jobs:
           python - <<'PY'
           import subprocess
           from pathlib import Path
-          import duckdb
+          import pyarrow.parquet as pq
           main = Path("/tmp/main_normativa.parquet")
           main.write_bytes(subprocess.check_output(
               ["git", "show", "HEAD:data/derived/normativa.parquet"]
@@ -66,9 +66,8 @@ jobs:
           if not main.exists() or main.stat().st_size < 1000:
               print("skip contract check (main snapshot non disponibile)")
               raise SystemExit(0)
-          con = duckdb.connect()
-          main_cols = {r[0] for r in con.execute(f"DESCRIBE SELECT * FROM '{main}'").fetchall()}
-          br_cols = {r[0] for r in con.execute("DESCRIBE SELECT * FROM 'data/derived/normativa.parquet'").fetchall()}
+          main_cols = set(pq.read_schema(main).names)
+          br_cols = set(pq.read_schema("data/derived/normativa.parquet").names)
           missing = sorted(main_cols - br_cols)
           if missing:
               raise SystemExit(f"COLONNE MAIN MANCANTI: {missing}")
