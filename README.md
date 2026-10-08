@@ -72,30 +72,41 @@ duckdb.sql("""
 
 ## Documentazione tecnica
 
+Pipeline canonica (stage lineari, output dichiarati): **[docs/PIPELINE.md](docs/PIPELINE.md)**.
+
 ### Tooling
 
-| Tool | Cosa fa |
-|---|---|
-| **Fetch Normattiva** | Scarica XML Akoma Ntoso dall'API Normattiva e converte in Markdown |
-| **MCP server** | Ricerca full-text con filtri qualità, cross-reference, recupero documenti |
-| **Extract metadati** | Parsa i Markdown → `normativa.parquet` (stato, vigente, duplicato) |
-| **Grafo riferimenti** | Costruisce gli archi fonte → bersaglio con materia e stato |
-| **Arricchisci qualità** | Calcola n_citazioni, orfano, qualita_score |
-| **Classifica tematico** | Assegna materia (25 categorie keyword-based) |
-| **Integra costituzionali** | Colleghi citazioni cost. e abrogazioni al parquet |
+| Stage | Tool | Output |
+|---|---|---|
+| fetch | **Fetch Normattiva** | MD collezioni + `akn_relations` / `akn_act_meta` (merge) |
+| extract | **Extract metadati** | `normativa.parquet` |
+| grafo | **Grafo riferimenti** | `riferimenti.parquet` (`origine`: regex\|akn) |
+| arricchisci | **Qualità grafo** | `n_citazioni`, `orfano`, `qualita_score` |
+| integra-akn | **Join AKN meta** | `ingresso_in_vigore`, `akn_*` (se presenti) |
+| classifica | **Classifica tematico** | `materia` (downstream) |
+| integra | **Costituzionali** | cit. cost. / abrogazioni (downstream) |
+| — | **MCP server** | ricerca full-text sul corpus MD |
 
 ### CI / Manutenzione
 
-- **Build dataset** (06:30): fetch → extract → grafo → arricchisci → classifica → integra
+- **Build** (06:30): fetch → extract → classifica → integra → side product → grafo → arricchisci → **integra-akn** → sunsetting
+- **Locale**: `make pipeline` (stesso ordine, senza fetch)
 - **Test**: `pytest tests/ -v` su ogni push/PR
+- **Ruolo Lab**: IC produce MD+parquet; **legal-graph** li aggrega — non duplicare grafi qui
+- Contratto: `normativa` ⊇ colonne main CI + campi AKN (`ingresso_in_vigore`, `akn_*`)
 
-### Schema `normativa.parquet` (26 colonne)
+### Schema `normativa.parquet` (colonne base + enrichment AKN)
 
-`collezione`, `filename`, `tipo`, `data`, `numero`, `oggetto`, `celex`,
+Base atto: `collezione`, `filename`, `tipo`, `data`, `numero`, `oggetto`, `celex`,
 `anno_atto`, `anno_dir`, `ritardo`, `urn`, `codice_redazionale`,
 `stato`, `vigente`, `lunghezza_caratteri`, `lunghezza_parole`,
-`riferimenti_interni`, `duplicato`, `n_citazioni`, `orfano`, `qualita_score`,
-`materia`, `n_articoli_cost`, `articoli_cost`, `abrogato_da`, `n_abrogazioni`
+`riferimenti_interni`, `duplicato`, `n_citazioni`, `orfano`, `qualita_score`
+
+Downstream: `materia`, `n_articoli_cost`, `articoli_cost`, `abrogato_da`, `n_abrogazioni`, …
+
+Enrichment AKN (da stage integra-akn, se artifact presenti):
+`ingresso_in_vigore`, `akn_n_refs`, `akn_n_active_mods`, `akn_n_passive_ref`,
+`akn_n_repeal_events`, `akn_mod_types`, `akn_has_workflow`, `akn_meta_source`
 
 Colonne di qualità:
 

@@ -74,8 +74,10 @@ def _load_graph_lookup() -> tuple[dict[str, list[dict]], dict[str, list[dict]]]:
 
     Returns:
         (outgoing, incoming):
-        - outgoing: fonte_basename → lista {bersaglio_filename, bersaglio_collezione, bersaglio_tipo, bersaglio_anno, peso}
-        - incoming: bersaglio_basename → lista {fonte_filename, fonte_collezione, fonte_tipo, fonte_anno, peso}
+        - outgoing: fonte_basename → lista {bersaglio_filename, bersaglio_collezione,
+          bersaglio_tipo, bersaglio_anno, peso}
+        - incoming: bersaglio_basename → lista {fonte_filename, fonte_collezione,
+          fonte_tipo, fonte_anno, peso}
     """
     if not RIFERIMENTI_PARQUET.exists():
         return {}, {}

@@ -1,4 +1,13 @@
-.PHONY: install test extract grafo arricchisci classifica integra mcp
+.PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-akn sunsetting citazioni pnrr abrogations mcp akn-relations
+
+# Pipeline completa (senza fetch — fetch è CI/manuale)
+# Ordine onesto, coerente con build-dataset.yml:
+#   classifica → side product → integra (legge da disco) → grafo → …
+pipeline: extract classifica citazioni pnrr abrogations integra grafo arricchisci integra-akn sunsetting
+
+# Minimo per MCP / legal-graph: materia + grafo denorm + qualità + AKN + sunsetting.
+# SENZA classifica perde materia e denorm grafo — non usarlo come contratto LG.
+pipeline-core: extract classifica grafo arricchisci integra-akn sunsetting
 
 install:
 	pip install -e ".[dev,mcp]"
@@ -6,14 +15,11 @@ install:
 test:
 	python -m pytest tests/ -v
 
+lint:
+	python -m ruff check lab_tools/ tests/
+
 extract:
 	python -m lab_tools.extract
-
-grafo:
-	python -m lab_tools.grafo_riferimenti
-
-arricchisci:
-	python -m lab_tools.arricchisci_normativa
 
 classifica:
 	python -m lab_tools.classifica_tematich
@@ -21,8 +27,29 @@ classifica:
 integra:
 	python -m lab_tools.integra_costituzionali
 
+citazioni:
+	python -m lab_tools.estrai_citazioni_costituzionali
+
+pnrr:
+	python -m lab_tools.extract_pnrr_refs
+
+abrogations:
+	python -m lab_tools.extract_abrogations
+
+grafo:
+	python -m lab_tools.grafo_riferimenti
+
+arricchisci:
+	python -m lab_tools.arricchisci_normativa
+
+integra-akn:
+	python -m lab_tools.integra_akn_meta
+
 sunsetting:
 	python -m lab_tools.monitor_sunsetting
+
+akn-relations:
+	python -m lab_tools.akn_relations --xml-dir data/xml --outdir data/derived --merge
 
 mcp:
 	python -m lab_tools.mcp_server

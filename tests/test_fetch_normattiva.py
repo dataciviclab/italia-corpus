@@ -1,9 +1,7 @@
 """Test per lab_tools.fetch_normattiva."""
 
 from pathlib import Path
-from unittest.mock import MagicMock, patch
-
-import pytest
+from unittest.mock import patch
 
 from lab_tools.fetch_normattiva import (
     _build_urn_index,
@@ -58,7 +56,8 @@ class TestBuildUrnIndex:
     def test_builds_from_corpus(self):
         """Verifica che l'indice URN venga costruito dal corpus esistente."""
         # Usa un corpus fittizio
-        import tempfile, shutil
+        import shutil
+        import tempfile
 
         tmp = Path(tempfile.mkdtemp())
         try:
@@ -78,7 +77,8 @@ class TestBuildUrnIndex:
             shutil.rmtree(tmp)
 
     def test_empty_corpus(self):
-        import tempfile, shutil
+        import shutil
+        import tempfile
 
         tmp = Path(tempfile.mkdtemp())
         try:
@@ -94,7 +94,8 @@ class TestBuildUrnIndex:
 class TestUpdateUrnIndex:
 
     def test_adds_new_entries(self):
-        import tempfile, shutil
+        import shutil
+        import tempfile
 
         tmp = Path(tempfile.mkdtemp())
         try:
@@ -137,7 +138,6 @@ class TestProcessCollection:
     def test_process_collection(self, mock_download, tmp_path):
         """Test integrato: download mock + unzip reale + parsing."""
         import zipfile
-        import shutil
 
         # Crea uno ZIP con un XML AKN valido
         akn_xml = """<?xml version="1.0" encoding="UTF-8"?>

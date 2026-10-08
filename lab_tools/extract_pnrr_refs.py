@@ -136,7 +136,7 @@ def main() -> int:
     # Summary
     if "missione" in df.columns:
         by_missione = df[df["missione"].notna()].groupby(["missione", "componente"]).size().reset_index(name="cnt")
-        print(f"\nBy missione/componente:")
+        print("\nBy missione/componente:")
         for _, r in by_missione.iterrows():
             print(f"  M{int(r['missione'])}C{int(r['componente'])}: {r['cnt']} refs")
 

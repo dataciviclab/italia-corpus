@@ -81,7 +81,12 @@ def main() -> None:
     incoming = incoming.rename(columns={"bersaglio_filename": "filename"})
 
     # Merge
-    df = df_norm.merge(incoming, on="filename", how="left")
+    df = df_norm.merge(incoming, on="filename", how="left", suffixes=("", "_nuova"))
+    if "n_citazioni_nuova" in df.columns:
+        df["n_citazioni"] = df["n_citazioni_nuova"]
+        df = df.drop(columns=["n_citazioni_nuova"])
+    elif "n_citazioni" not in df.columns:
+        df["n_citazioni"] = 0
     df["n_citazioni"] = df["n_citazioni"].fillna(0).astype(int)
 
     # Orfano: 0 citazioni in uscita (riferimenti_interni) AND 0 in ingresso
@@ -96,7 +101,7 @@ def main() -> None:
     print(f"  Colonne: {list(df.columns)}")
 
     # Metriche
-    print(f"\n📊 Metriche qualità")
+    print("\n📊 Metriche qualità")
     print(f"{'='*40}")
     print(f"  Con citazioni:     {(df['n_citazioni'] > 0).sum():>8,}")
     print(f"  Orfani:            {df['orfano'].sum():>8,}")

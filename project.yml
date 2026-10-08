@@ -3,16 +3,55 @@ name: italia-corpus
 kind: corpus-project
 status: public-exploration
 description: >
-  Corpus della legislazione italiana vigente, scaricato direttamente
-  dall'API Normattiva OpenData. Tooling Lab per estrazione metadati,
-  grafo riferimenti normativi, e ricerca full-text via MCP.
+  Pipeline Normattiva OpenData -> corpus Markdown + parquet (metadati,
+  riferimenti, enrichment AKN). Prodotto primario: testi ispezionabili;
+  i parquet servono ecosystem Lab (MCP, legal-graph, analisi).
+  Non è il grafo normativa del Lab (vedi legal-graph) né una piattaforma igiene.
+docs:
+  pipeline: docs/PIPELINE.md
 data_source:
   type: normattiva_api
   endpoint: https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1
   format: akn_xml
-  filter: formatoRichiesta=V (solo atti vigenti)
+  filter: collezioni da config/collezioni.txt (formati O/V/M secondo fetch)
+pipeline:
+  # ordine canonico — vedi docs/PIPELINE.md e build-dataset.yml
+  stages:
+    - fetch            # MD + akn_* (staging + merge)
+    - extract          # normativa base
+    - classifica       # + materia  (PRIMA di grafo)
+    - citazioni        # side product su disco
+    - pnrr             # side product
+    - abrogations      # side product (regex fallback)
+    - integra          # + cit. cost./abrogazioni (legge side product)
+    - grafo            # riferimenti regex∪AKN, denorm materia
+    - arricchisci      # qualità grafo
+    - integra-akn      # + EIV, akn_*
+    - sunsetting       # + sunsetting_score, eta_anni
+outputs:
+  - path: data/derived/normativa.parquet
+    kind: table
+    contract: atto + qualità + materia/sunsetting + EIV/AKN (superset main CI)
+  - path: data/derived/riferimenti.parquet
+    kind: graph_edges
+    contract: fonte->bersaglio, peso, risolto, origine=regex|akn, denorm materia
+  - path: data/derived/akn_relations.parquet
+    kind: enrichment
+    contract: relazioni AKN tipizzate (fetch completo 20 collezioni)
+  - path: data/derived/akn_act_meta.parquet
+    kind: enrichment
+    contract: EIV, mod counts, ELI per atto (join urn ~100%)
+  - path: "collezioni/**/*.md"
+    kind: corpus
+    contract: testo + frontmatter URN
 datasets:
-  - normativa  # dataset principale, generato da lab_tools.extract
-  - riferimenti  # grafo riferimenti normativi
-  - citazioni-costituzionali  # archi atto → articolo costituzionale
+  - normativa
+  - riferimenti
+  - akn_relations
+  - akn_act_meta
+  - citazioni-costituzionali
+consumers:
+  - lab_tools.mcp_server
+  - legal-graph (aggregazione, non reinvenzione)
+  - analisi locali / eventuali Explorer
 maintainer: DataCivicLab

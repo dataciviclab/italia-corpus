@@ -14,6 +14,12 @@ import time
 from pathlib import Path
 
 from lab_tools.akn_parser import akn_xml_to_markdown
+from lab_tools.akn_relations import (
+    extract_from_xml,
+    load_staged_akn,
+    merge_akn_artifacts,
+    stage_akn_rows,
+)
 from lab_tools.normattiva_client import (
     download_collection,
     extract_zip,
@@ -92,11 +98,13 @@ def process_collection(
     work_dir: Path,
     corpus_dir: Path,
     urn_index: dict[str, str],
+    stage_dir: Path | None = None,
 ) -> int:
     """Scarica, parse, e salva i .md di una collezione. Restituisce il conteggio.
 
     Ordine: scarica → estrai → converti in staging → swap atomico.
     Se download fallisce o non produce XML, i file esistenti restano intatti.
+    Se stage_dir è fornito, salva relazioni/metadati AKN in JSONL per collezione.
     """
     nome = collection["nomeCollezione"]
     subdir = _collection_subdir(nome)
@@ -125,11 +133,23 @@ def process_collection(
 
         # 3. Converti in staging (i .md esistenti restano intatti finché non swap)
         count = 0
+        rel_rows: list[dict] = []
+        meta_rows: list[dict] = []
         for xml_file in xml_files:
             try:
                 content = xml_file.read_text("utf-8", errors="replace")
                 source_path = f"{subdir}/{xml_file.stem}.md"
                 fm, markdown = akn_xml_to_markdown(content, urn_index, source_path)
+
+                if stage_dir is not None:
+                    try:
+                        relations, meta = extract_from_xml(content)
+                        rel_rows.extend(relations)
+                        if meta and meta.get("fonte_urn"):
+                            meta["fonte_file"] = f"{subdir}/{xml_file.name}"
+                            meta_rows.append(meta)
+                    except Exception as exc:  # noqa: BLE001 — non bloccare il fetch MD
+                        logger.warning("AKN relations failed for %s: %s", xml_file.name, exc)
 
                 md_filename = xml_file.stem + ".md"
                 md_path = staging_dir / md_filename
@@ -142,6 +162,10 @@ def process_collection(
                 count += 1
             except Exception as e:
                 logger.warning("Failed to convert %s: %s", xml_file.name, e)
+
+        if stage_dir is not None and (rel_rows or meta_rows):
+            stage_akn_rows(rel_rows, meta_rows, stage_dir, nome)
+            logger.info("  AKN staged: %d relations, %d acts", len(rel_rows), len(meta_rows))
 
         if count == 0:
             logger.warning("All conversions failed for %r — keeping existing files", nome)
@@ -199,6 +223,12 @@ def main() -> None:
     # 3. Build URN index from existing corpus
     urn_index = _build_urn_index(REPO)
 
+    # 3b. Staging AKN su disco (sopravvive a errori di merge a fine run)
+    stage_dir = REPO / "data" / "derived" / "_akn_stage"
+    if stage_dir.exists():
+        shutil.rmtree(stage_dir, ignore_errors=True)
+    stage_dir.mkdir(parents=True, exist_ok=True)
+
     # 4. Process each collection
     total = 0
     failed: list[str] = []
@@ -221,7 +251,7 @@ def main() -> None:
                     failed.append(nome)
                 continue
 
-            count = process_collection(collection, work_dir, REPO, urn_index)
+            count = process_collection(collection, work_dir, REPO, urn_index, stage_dir=stage_dir)
             total += count
             if count == 0:
                 failed.append(nome)
@@ -229,6 +259,25 @@ def main() -> None:
             # Random sleep between collections (avoid rate limiting)
             if i < len(collections) - 1:
                 time.sleep(random.uniform(1.0, 3.0))
+
+    # 5. Carica staging + merge artifact AKN
+    rel_rows, meta_rows = load_staged_akn(stage_dir)
+    if rel_rows or meta_rows:
+        try:
+            rel_path, meta_path = merge_akn_artifacts(
+                rel_rows, meta_rows, REPO / "data" / "derived"
+            )
+            logger.info(
+                "AKN artifacts (merged): %d relations -> %s; %d acts -> %s",
+                len(rel_rows), rel_path,
+                len(meta_rows), meta_path,
+            )
+        except ImportError:
+            logger.warning("pandas/pyarrow non disponibili — artifact AKN non scritti")
+        except Exception as exc:  # noqa: BLE001
+            logger.warning("Scrittura artifact AKN fallita: %s", exc)
+    else:
+        logger.warning("Nessun dato AKN in staging — artifact non aggiornati")
 
     logger.info("DONE — %d atti convertiti in totale", total)
 

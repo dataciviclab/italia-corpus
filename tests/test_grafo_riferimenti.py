@@ -2,8 +2,6 @@
 
 from pathlib import Path
 
-import pytest
-
 from lab_tools.grafo_riferimenti import estrai_link, risolvi_path
 
 FIXTURES = Path(__file__).resolve().parent / "fixtures"

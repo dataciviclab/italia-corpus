@@ -35,10 +35,10 @@ _TIPO_CELEX = {"direttiva": "L", "regolamento": "R", "decisione": "D",
 
 def _estrai_riferimento_ue(oggetto: str) -> tuple[str | None, int | None]:
     """Estrae tipo, anno e numero del PRIMO riferimento UE non secondario.
-    
+
       'direttiva 2019/944' -> (32019L0944, 2019)
       'regolamento (UE) n. 1025/2012' -> (32012R1025, 2012)
-    
+
     Riferimenti secondari (preceduti da 'abroga', 'modifica', ecc.)
     vengono saltati in favore del primo match principale.
     Se anno catturato non è nel range 1950-2030 (es. formato
