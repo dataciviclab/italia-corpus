@@ -70,6 +70,20 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 | `akn_act_meta.parquet` | EIV, mod counts, ELI per atto (join `urn` 100% su fetch completo) | vigenza, quality |
 | `abrogations_raw.parquet` | fallback regex abrogazioni | integra + analisi (AKN repeal = tipizzato) |
 
+### Convenzioni path (contratto)
+
+| Superficie | Formato | Esempio |
+|---|---|---|
+| File su disco | `collezioni/<Collezione>/<file>.md` | `collezioni/Codici/x.md` |
+| MCP `path` | relativo a `collezioni/` | `Codici/x.md` |
+| MCP `filename` / `normativa.filename` | basename | `x.md` |
+| `riferimenti.fonte_filename`, `bersaglio_path` | relativo a `collezioni/` (stabile pre/post move) | `Codici/x.md` |
+| `riferimenti.bersaglio_filename` | basename | `x.md` |
+| Link MD interni | `../<Collezione>/<file>.md` | `../Codici/x.md` |
+
+Costanti: `lab_tools/_paths.py` (`COLLEZIONI_ROOT`).  
+I parquet derived **non** sono rigenerati in questa PR: al prossimo build CI il formato path di `riferimenti` resta quello sopra (nessun prefisso `collezioni/` nei campi path).
+
 **Non committare**: zip, XML temporanei, `_akn_stage/`, `*.csv` locali.  
 **Sì in git**: derived deliberati del contratto Lab (oggi versionati nel repo).
 

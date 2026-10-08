@@ -19,7 +19,7 @@ from pathlib import Path
 import pyarrow as pa
 import pyarrow.parquet as pq
 
-from lab_tools._paths import COLLEZIONI_ROOT, CONFIG_COLLEZIONI, OUTDIR, REPO
+from lab_tools._paths import COLLEZIONI_ROOT, CONFIG_COLLEZIONI, OUTDIR
 
 NORMATIVA_PARQUET = OUTDIR / "normativa.parquet"
 
@@ -164,7 +164,7 @@ def main():
     for col_dir in _collezioni_legislative():
         nome_collezione = col_dir.name
         for f in sorted(col_dir.glob("*.md")):
-            relpath = f.relative_to(REPO)
+            relpath = f.relative_to(COLLEZIONI_ROOT)
             try:
                 raw = f.read_text("utf-8", errors="replace")
             except Exception:

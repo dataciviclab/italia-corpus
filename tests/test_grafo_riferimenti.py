@@ -59,38 +59,38 @@ class TestEstraiLink:
 
 
 class TestRisolviPath:
-    """Test per risolvi_path(): risoluzione path relativi ../ .
+    """Test per risolvi_path(): path relativi a COLLEZIONI_ROOT.
 
-    I path reali del corpus sono sotto collezioni/ (es.
-    ``collezioni/DL Proroghe/x.md``); il resolver è generico.
+    Formato parquet stabile: ``Collezione/file.md`` (sotto collezioni/,
+    stessa forma di prima del move).
     """
 
     def test_risoluzione_semplice(self):
-        """../Decreti Legislativi/TU.md da collezioni/DL Proroghe/x.md."""
-        link = "Decreti Legislativi/TU.md"
-        current = Path("collezioni") / "DL Proroghe" / "x.md"
+        """../Codici/TU.md da DL Proroghe/x.md."""
+        link = "Codici/TU.md"
+        current = Path("DL Proroghe") / "x.md"
         result = risolvi_path(link, current)
         assert result is not None
-        assert str(result) == "collezioni/Decreti Legislativi/TU.md"
+        assert str(result) == "Codici/TU.md"
 
     def test_risoluzione_subdir(self):
-        """../Decreti Legislativi/Sub/Norma.md da collezioni/DL Proroghe/x.md."""
-        link = "Decreti Legislativi/Sub/Norma.md"
-        current = Path("collezioni") / "DL Proroghe" / "x.md"
+        """../Codici/Sub/Norma.md da DL Proroghe/x.md."""
+        link = "Codici/Sub/Norma.md"
+        current = Path("DL Proroghe") / "x.md"
         result = risolvi_path(link, current)
         assert result is not None
-        assert str(result) == "collezioni/Decreti Legislativi/Sub/Norma.md"
+        assert str(result) == "Codici/Sub/Norma.md"
 
     def test_risoluzione_root_collezione(self):
-        """../Leggi/Legge.md da collezioni/Decreti Legislativi/x.md."""
+        """../Leggi/Legge.md da Decreti Legislativi/x.md."""
         link = "Leggi/Legge.md"
-        current = Path("collezioni") / "Decreti Legislativi" / "x.md"
+        current = Path("Decreti Legislativi") / "x.md"
         result = risolvi_path(link, current)
         assert result is not None
-        assert str(result) == "collezioni/Leggi/Legge.md"
+        assert str(result) == "Leggi/Legge.md"
 
     def test_risoluzione_file_in_root(self):
-        """File in root (raro, ma gestito) -> None per sicurezza."""
+        """File in root collezioni (raro) -> None per sicurezza."""
         link = "Altro/file.md"
         current = Path("file_nella_root.md")
         result = risolvi_path(link, current)
