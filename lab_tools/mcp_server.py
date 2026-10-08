@@ -7,6 +7,7 @@ from __future__ import annotations
 import json
 import shutil
 import subprocess
+import warnings
 from functools import lru_cache
 from pathlib import Path
 from typing import Any
@@ -24,6 +25,15 @@ RIFERIMENTI_PARQUET = CORPUS / "data" / "derived" / "riferimenti.parquet"
 _QUERY_MAX_WORDS = 8
 _MAX_LIMIT = 100
 _RG_LIST_MATCHES = 3
+
+# Deprecation 2026-10: search/crossref vivono nel MCP legal-graph.
+# I tool restano attivi (shim backward compat) — policy Lab: no rimozione
+# senza DeprecationWarning.
+_DEPRECATED_TO_LEGAL_GRAPH = (
+    "DEPRECATED: per search e crossref usa il MCP legal-graph "
+    "(legal_search / legal_node). italia-corpus_legal_search e "
+    "italia-corpus_legal_crossref restano attivi per backward compat."
+)
 
 # Campi di qualità da normativa.parquet da esporre nei risultati MCP
 _QUALITY_FIELDS = ("stato", "qualita_score", "orfano", "n_citazioni", "duplicato", "materia", "sunsetting_score")
@@ -436,7 +446,10 @@ mcp = create_mcp_server(
     instructions=(
         "Server MCP italia-corpus — cerca con ripgrep nel corpus normativo. "
         "Output strutturato (list[dict]) per agenti AI, con supporto AND multi-termine "
-        "(documentale, non per riga), paginazione offset e tool per recupero full text."
+        "(documentale, non per riga), paginazione offset e tool per recupero full text. "
+        "Per search e crossref preferisci il MCP legal-graph (legal_search / legal_node): "
+        "i tool italia-corpus_legal_search e italia-corpus_legal_crossref sono deprecated "
+        "e restano solo per backward compat."
     ),
 )
 
@@ -444,6 +457,7 @@ mcp = create_mcp_server(
 @mcp.tool(
     name="italia-corpus_legal_search",
     description=(
+        "DEPRECATED — usa il MCP legal-graph (legal_search) per la ricerca sul corpus. "
         "Cerca nella legislazione italiana (~22.000 atti da Normattiva) con ripgrep. "
         "Query multi-parola fa AND documentale tra i termini. "
         "Usa virgolette per frase esatta. "
@@ -465,6 +479,8 @@ def legal_search(
 ) -> list[dict[str, Any]]:
     """Cerca nel corpus normativo. Ritorna risultati strutturati.
 
+    DEPRECATED: preferisci il MCP legal-graph (legal_search).
+
     Args:
         query: Termini di ricerca. Multi-parola = AND documentale.
                Usa "virgolette" per frase esatta.
@@ -481,6 +497,7 @@ def legal_search(
         tipo, data, urn, codice_redazionale, stato, vigente, qualita_score,
         orfano, n_citazioni, duplicato, materia, sunsetting_score.
     """
+    warnings.warn(_DEPRECATED_TO_LEGAL_GRAPH, DeprecationWarning, stacklevel=2)
     return guard_timed(
         _search_corpus, "italia-corpus_legal_search",
         query, limit=limit, offset=offset, collezione=collezione,
@@ -578,6 +595,7 @@ def _impl_list_collections() -> str:
 @mcp.tool(
     name="italia-corpus_legal_crossref",
     description=(
+        "DEPRECATED — usa il MCP legal-graph (legal_node) per citazioni incoming/outgoing. "
         "Cross-reference normativo: dato un atto, mostra cosa cita (outgoing) "
         "e chi lo cita (incoming) dal grafo dei riferimenti. "
         "Accetta filename completo o parziale (substring match). "
@@ -591,6 +609,8 @@ def legal_crossref(
 ) -> dict[str, Any]:
     """Cross-reference di un atto normativo.
 
+    DEPRECATED: preferisci il MCP legal-graph (legal_node).
+
     Args:
         filename: Filename completo o substring del file .md
                   (es. "001G0219" o "D.Lgs 231" o il filename completo).
@@ -602,7 +622,9 @@ def legal_crossref(
         - outgoing: cosa cita l'atto (top N per peso)
         - incoming: chi cita l'atto (top N per peso)
         - summary: conteggi riassuntivi
+        - deprecation: avviso di deprecazione verso legal-graph
     """
+    warnings.warn(_DEPRECATED_TO_LEGAL_GRAPH, DeprecationWarning, stacklevel=2)
     return guard_timed(
         _impl_crossref, "italia-corpus_legal_crossref",
         filename, limit,
@@ -711,6 +733,7 @@ def _impl_crossref(filename: str, limit: int) -> dict[str, Any]:
         "outgoing": outgoing,
         "incoming": incoming,
         "summary": summary,
+        "deprecation": _DEPRECATED_TO_LEGAL_GRAPH,
     }
 
 
