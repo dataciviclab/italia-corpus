@@ -1,0 +1,26 @@
+name: Pipeline toolkit
+# Registry + verify schema: SOLO quando cambia il contratto dataset
+# (merge di datasets/**) o su dispatch manuale / weekly.
+# Non gira daily: il daily build-dataset pubblica già GCS senza registry PR.
+on:
+  pull_request:
+    types: [closed]
+    paths:
+      - "datasets/**"
+  schedule:
+    - cron: "0 7 * * 1"  # lunedì 08:00 IT — refresh registry settimanale
+  workflow_dispatch:
+
+jobs:
+  pipeline:
+    if: github.event.pull_request.merged == true || github.event_name != 'pull_request'
+    uses: dataciviclab/.github/.github/workflows/pipeline-reusable.yml@main
+    with:
+      repo-slug: "italia-corpus"
+      run-command: "make toolkit-run"
+      detect-paths: "datasets"
+    permissions:
+      contents: write
+      pull-requests: write
+      id-token: write
+    secrets: inherit
