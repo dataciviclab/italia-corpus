@@ -39,9 +39,9 @@ HEADERS = {
     "Referer": "https://www.normattiva.it/",
 }
 
-DOWNLOAD_TIMEOUT = (30.0, 300.0)
-MAX_RETRIES = 3
-RETRY_BACKOFF = 5.0
+DOWNLOAD_TIMEOUT = (30.0, 420.0)
+MAX_RETRIES = 5
+RETRY_BACKOFF = 8.0
 
 
 def fetch_predefined_collections() -> list[dict]:

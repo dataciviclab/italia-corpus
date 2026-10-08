@@ -264,6 +264,26 @@ def main() -> None:
             if i < len(collections) - 1:
                 time.sleep(random.uniform(1.0, 3.0))
 
+        # 4b. Seconda passata sulle collection fallite (API flaky)
+        if failed:
+            logger.warning("Retry pass per collection fallite: %s", ", ".join(failed))
+            still_failed: list[str] = []
+            for nome in failed:
+                collection = next((c for c in collections if c["nomeCollezione"] == nome), None)
+                if collection is None:
+                    still_failed.append(nome)
+                    continue
+                time.sleep(random.uniform(2.0, 5.0))
+                count = process_collection(
+                    collection, work_dir, COLLEZIONI_ROOT, urn_index, stage_dir=stage_dir
+                )
+                total += count
+                if count == 0:
+                    still_failed.append(nome)
+                else:
+                    logger.info("Retry OK per %r (%d file)", nome, count)
+            failed = still_failed
+
     # 5. Carica staging + merge artifact AKN
     rel_rows, meta_rows = load_staged_akn(stage_dir)
     if rel_rows or meta_rows:
@@ -286,6 +306,16 @@ def main() -> None:
     logger.info("DONE — %d atti convertiti in totale", total)
 
     if failed:
+        n_ok = len(collections) - len(failed)
+        # Soft-fail: se la maggioranza è arrivata, il corpus aggiornato vale
+        # comunque (le collection fallite restano con i file preesistenti).
+        if n_ok >= max(1, int(len(collections) * 0.8)):
+            logger.error(
+                "FAILED collections soft (%d/%d): %s — procedo comunque "
+                "(file preesistenti conservati)",
+                len(failed), len(collections), ", ".join(failed),
+            )
+            return
         logger.error(
             "FAILED collections (%d/%d): %s",
             len(failed), len(collections), ", ".join(failed),
