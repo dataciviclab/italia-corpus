@@ -100,16 +100,17 @@ I parquet derived **non** sono rigenerati in questa PR: al prossimo build CI il 
 
 ### Layer toolkit (2026-10-08)
 
-| Dataset | PK clean | Note |
+| Dataset | PK clean | Mart |
 |---|---|---|
-| `normativa` | `filename` | urn non univoco; `atto_id` analitico |
-| `riferimenti` | `fonte_source_path + bersaglio_source_path + origine` | path-aware; `*_filename` compat LG |
-| `akn-act-meta` | `fonte_file` | EIV → DATE |
-| `akn-relations` | `edge_id` (md5) | relazioni tipizzate AKN |
+| `normativa` | `filename` | `mart_atti_per_tipo`, `mart_materia_stato`, `mart_candidati_sunsetting` |
+| `riferimenti` | `fonte_source_path + bersaglio_source_path + origine` | `mart_debt_legale`, `mart_citazioni_per_origine`, `mart_top_bersagli` |
+| `akn-act-meta` | `fonte_file` | `mart_eiv_per_decennio`, `mart_modifiche_anno` |
+| `akn-relations` | `edge_id` (md5) | `mart_relazioni_per_tipo`, `mart_modifiche_tipizzate` |
 
 - Makefile: `make toolkit-check` · `make toolkit-run`
+- Output: `out/data/{clean,mart}/<dataset>/2026/` (gitignored)
 - CI GCS/registry: da collegare (`pipeline-reusable`, `repo-slug=italia-corpus`)
-- Dual-publish: derived resta in git per MCP; clean è il contratto pubblico Lab
+- Dual-publish: derived resta in git per MCP; clean+mart sono il contratto Lab
 
 ---
 
@@ -130,8 +131,8 @@ Non è un prodotto separato: è **stage fetch + 8** della pipeline sopra.
 | Opzione | Giudizio |
 |---|---|
 | Migrazione piena a toolkit RAW/CLEAN/MART | **No** — modello tabulare, non adatto al corpus MD |
-| Disciplina toolkit dentro IC | **Sì** — stage nominati, output dichiarati, test |
-| Toolkit come consumer downstream | **Sì** — se un parquet IC entra nel registry |
+| Disciplina toolkit dentro IC | **Sì** — stage nominati + layer clean/mart in `datasets/` |
+| Toolkit come publisher downstream | **Sì** — clean+mart → GCS + registry; legal-graph punta al clean |
 
-**In sintesi**: IC resta pipeline Normattiva lineare. Toolkit resta motore tabulare. legal-graph resta l’aggregatore.
+**In sintesi**: IC resta pipeline Normattiva lineare. Toolkit pubblica clean + mart analitici. legal-graph resta l'aggregatore.
 
