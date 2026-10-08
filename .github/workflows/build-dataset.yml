@@ -42,18 +42,20 @@ jobs:
         run: python -m lab_tools.fetch_normattiva
       - name: Extract metadati
         run: python -m lab_tools.extract
-      # Ordine critico: classifica PRIMA di grafo (denorm materia)
-      # e integra-akn DOPO arricchisci (contratto main + AKN).
+      # Ordine onesto (vedi docs/PIPELINE.md):
+      # classifica prima di grafo; side product PRIMA di integra
+      # (integra_costituzionali legge citazioni/abrogations da disco);
+      # integra-akn dopo arricchisci; sunsetting per ultimo.
       - name: Classifica tematico
         run: python -m lab_tools.classifica_tematich
-      - name: Integra costituzionali e abrogazioni
-        run: python -m lab_tools.integra_costituzionali
       - name: Citazioni Costituzionali
         run: python -m lab_tools.estrai_citazioni_costituzionali
       - name: Riferimenti PNRR
         run: python -m lab_tools.extract_pnrr_refs
       - name: Abrogazioni
         run: python -m lab_tools.extract_abrogations
+      - name: Integra costituzionali e abrogazioni
+        run: python -m lab_tools.integra_costituzionali
       - name: Grafo riferimenti (regex ∪ AKN)
         run: python -m lab_tools.grafo_riferimenti
       - name: Arricchisci normativa (qualità)

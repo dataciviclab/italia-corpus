@@ -1,12 +1,13 @@
 .PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-akn sunsetting citazioni pnrr abrogations mcp akn-relations
 
 # Pipeline completa (senza fetch — fetch è CI/manuale)
-# Ordine coerente con .github/workflows/build-dataset.yml
-# classifica PRIMA di grafo (denorm materia); integra-akn DOPO arricchisci
-pipeline: extract classifica integra citazioni pnrr abrogations grafo arricchisci integra-akn sunsetting
+# Ordine onesto, coerente con build-dataset.yml:
+#   classifica → side product → integra (legge da disco) → grafo → …
+pipeline: extract classifica citazioni pnrr abrogations integra grafo arricchisci integra-akn sunsetting
 
-# Nucleo tabulari senza side-product (minimo per MCP/LG)
-pipeline-core: extract grafo arricchisci integra-akn
+# Minimo per MCP / legal-graph: materia + grafo denorm + qualità + AKN + sunsetting.
+# SENZA classifica perde materia e denorm grafo — non usarlo come contratto LG.
+pipeline-core: extract classifica grafo arricchisci integra-akn sunsetting
 
 install:
 	pip install -e ".[dev,mcp]"

@@ -5,7 +5,13 @@ Aggiunge:
 - articoli_cost: lista articoli costituzionali citati (stringa separata da virgola)
 - abrogato_da: se l'atto è menzionato come abrogato in abrogations_raw
 
-Da eseguire DOPO classifica_tematich.
+Ordine (docs/PIPELINE.md):
+  extract → classifica → citazioni/pnrr/abrogations → QUESTO → grafo → …
+
+Legge da disco (stesso run, non lo step precedente di CI):
+- data/derived/citazioni-costituzionali.parquet
+- data/derived/abrogations_raw.parquet
+Se mancanti: colonne a 0 / vuote (skip, non crash).
 
 Uso: python -m lab_tools.integra_costituzionali
 """

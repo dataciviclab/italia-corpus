@@ -20,10 +20,10 @@ pipeline:
     - fetch            # MD + akn_* (staging + merge)
     - extract          # normativa base
     - classifica       # + materia  (PRIMA di grafo)
-    - integra          # + cit. cost. / abrogazioni
-    - citazioni        # side product
+    - citazioni        # side product su disco
     - pnrr             # side product
     - abrogations      # side product (regex fallback)
+    - integra          # + cit. cost./abrogazioni (legge side product)
     - grafo            # riferimenti regex∪AKN, denorm materia
     - arricchisci      # qualità grafo
     - integra-akn      # + EIV, akn_*

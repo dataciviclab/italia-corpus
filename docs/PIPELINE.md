@@ -38,19 +38,23 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 | 1 | **fetch** | `python -m lab_tools.fetch_normattiva [--only …]` | MD + `akn_*.parquet` (staging + merge) |
 | 2 | **extract** | `python -m lab_tools.extract` | `normativa.parquet` (metadati base) |
 | 3 | **classifica** | `python -m lab_tools.classifica_tematich` | + `materia` |
-| 4 | **integra** | `python -m lab_tools.integra_costituzionali` | + cit. cost. / abrogazioni |
-| 5 | **citazioni/pnrr/abrogations** | moduli `estrai_*` / `extract_*` | side product parquet |
+| 4 | **citazioni/pnrr/abrogations** | moduli `estrai_*` / `extract_*` | side product su disco |
+| 5 | **integra** | `python -m lab_tools.integra_costituzionali` | + cit. cost. / abrogazioni **da side product** |
 | 6 | **grafo** | `python -m lab_tools.grafo_riferimenti` | `riferimenti` (regex∪AKN, denorm materia) |
 | 7 | **arricchisci** | `python -m lab_tools.arricchisci_normativa` | + `n_citazioni`, `orfano`, `qualita_score` |
 | 8 | **integra-akn** | `python -m lab_tools.integra_akn_meta` | + `ingresso_in_vigore`, `akn_*` |
 | 9 | **sunsetting** | `python -m lab_tools.monitor_sunsetting` | + `sunsetting_score`, `eta_anni`, … |
 
-**Makefile**: `make pipeline` (= 2–9, senza fetch)  
-**CI**: stessa sequenza + fetch + contract check (main ⊂ derived)
+**Makefile**
+- `make pipeline` = stage 2–9 (senza fetch)
+- `make pipeline-core` = 2,3,6,7,8,9 — minimo **MCP/legal-graph** (inclusa `classifica`)
+
+**CI**: stessa sequenza + fetch + lint + contract check (main ⊂ derived)
 
 > `classifica` **prima** di `grafo`: altrimenti `fonte_materia`/`bersaglio_materia` restano vuote.  
-> `integra-akn` **dopo** `arricchisci`: preserva qualità + aggiunge AKN.  
-> `sunsetting` **per ultimo**: usa `n_citazioni` e `riferimenti` già stabili.
+> Side product **prima** di `integra`: `integra_costituzionali` legge `citazioni-costituzionali.parquet` e `abrogations_raw.parquet` da `data/derived/`.  
+> Su CI il checkout di `data/derived/` può ancora fornire side product del giorno prima se lo step è saltato — meglio rigenerarli nello stesso run.  
+> `integra-akn` **dopo** `arricchisci`. `sunsetting` **per ultimo**.
 
 ---
 
@@ -63,7 +67,7 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 | `riferimenti.parquet` | archi `peso`, `risolto`, `origine` (regex\|akn) | legal-graph, debt |
 | `akn_relations.parquet` | relazioni AKN tipizzate (full-corpus su fetch completo) | clean/tabella propria, debug |
 | `akn_act_meta.parquet` | EIV, mod counts, ELI per atto (join `urn` 100% su fetch completo) | vigenza, quality |
-| `abrogations_raw.parquet` | fallback regex abrogazioni | analisi (AKN repeal = tipizzato) |
+| `abrogations_raw.parquet` | fallback regex abrogazioni | integra + analisi (AKN repeal = tipizzato) |
 
 **Non committare**: zip, XML temporanei, `_akn_stage/`, `*.csv` locali.  
 **Sì in git**: derived deliberati del contratto Lab (oggi versionati nel repo).
@@ -86,7 +90,7 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 - Modulo: `lab_tools/akn_relations.py` (+ `integra_akn_meta.py`)
 - Wire: fetch (staging+merge) · grafo (union citation, `origine`) · integra-akn
 - **Copertura**: fetch completo 20 collezioni — meta join **22.017/22.017**, EIV **10.522**, archi AKN **43.880**, `akn_relations` tipizzato (inclusi repeal/substitution)
-- CI: step `integra-akn` + ordine classifica→grafo + contract check
+- CI: lint ruff · step `integra-akn` · ordine side-product→integra → grafo · contract check
 - Tests: `tests/test_akn_relations.py` (187 totali repo)
 
 Non è un prodotto separato: è **stage fetch + 8** della pipeline sopra.
