@@ -37,13 +37,40 @@ clean:
     - peso
     - risolto
     - origine
+    - fonte_stato
+    - bersaglio_stato
   validate:
     # path-aware: basename-only collasserebbe fonti diverse dello stesso file
     primary_key: [fonte_source_path, bersaglio_source_path, origine]
     not_null: [fonte_source_path, bersaglio_source_path, peso]
     min_rows: 100000
 
-mart: {}
+mart:
+  tables:
+    - name: "mart_debt_legale"
+      sql: "sql/mart_debt_legale.sql"
+    - name: "mart_citazioni_per_origine"
+      sql: "sql/mart_citazioni_per_origine.sql"
+    - name: "mart_top_bersagli"
+      sql: "sql/mart_top_bersagli.sql"
+  required_tables:
+    - "mart_debt_legale"
+    - "mart_citazioni_per_origine"
+    - "mart_top_bersagli"
+  validate:
+    table_rules:
+      mart_debt_legale:
+        required_columns: [fonte_stato, bersaglio_stato, n_archi]
+        primary_key: [fonte_stato, bersaglio_stato, origine]
+        min_rows: 2
+      mart_citazioni_per_origine:
+        required_columns: [origine, n_archi]
+        primary_key: [origine]
+        min_rows: 2
+      mart_top_bersagli:
+        required_columns: [bersaglio_source_path, n_citazioni]
+        primary_key: [bersaglio_source_path]
+        min_rows: 20
 
 validation:
   fail_on_error: true

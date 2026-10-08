@@ -39,7 +39,25 @@ clean:
     not_null: [fonte_urn, rel_type]
     min_rows: 300000
 
-mart: {}
+mart:
+  tables:
+    - name: "mart_relazioni_per_tipo"
+      sql: "sql/mart_relazioni_per_tipo.sql"
+    - name: "mart_modifiche_tipizzate"
+      sql: "sql/mart_modifiche_tipizzate.sql"
+  required_tables:
+    - "mart_relazioni_per_tipo"
+    - "mart_modifiche_tipizzate"
+  validate:
+    table_rules:
+      mart_relazioni_per_tipo:
+        required_columns: [rel_type, origin, n_relazioni]
+        primary_key: [rel_type, origin]
+        min_rows: 5
+      mart_modifiche_tipizzate:
+        required_columns: [rel_type, n_relazioni]
+        primary_key: [rel_type]
+        min_rows: 3
 
 validation:
   fail_on_error: true

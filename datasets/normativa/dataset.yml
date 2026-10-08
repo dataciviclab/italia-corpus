@@ -55,7 +55,32 @@ clean:
     not_null: [filename, tipo, stato]
     min_rows: 20000
 
-mart: {}
+mart:
+  tables:
+    - name: "mart_atti_per_tipo"
+      sql: "sql/mart_atti_per_tipo.sql"
+    - name: "mart_materia_stato"
+      sql: "sql/mart_materia_stato.sql"
+    - name: "mart_candidati_sunsetting"
+      sql: "sql/mart_candidati_sunsetting.sql"
+  required_tables:
+    - "mart_atti_per_tipo"
+    - "mart_materia_stato"
+    - "mart_candidati_sunsetting"
+  validate:
+    table_rules:
+      mart_atti_per_tipo:
+        required_columns: [tipo, stato, n_atti]
+        primary_key: [tipo, stato]
+        min_rows: 10
+      mart_materia_stato:
+        required_columns: [materia, stato, n_atti]
+        primary_key: [materia, stato]
+        min_rows: 20
+      mart_candidati_sunsetting:
+        required_columns: [materia, n_candidati]
+        primary_key: [materia]
+        min_rows: 3
 
 validation:
   fail_on_error: true

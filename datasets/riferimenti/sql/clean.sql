@@ -11,8 +11,9 @@
 --   - *_source_path   = path risolto per PK e join stabili
 --
 -- Drop documentati (denorm non letti da legal-graph; derivabili da join):
---   fonte_materia, bersaglio_materia, fonte_stato, bersaglio_stato,
---   fonte_tipo, bersaglio_tipo, fonte_collezione, bersaglio_collezione, bersaglio_path
+--   fonte_materia, bersaglio_materia, fonte_tipo, bersaglio_tipo,
+--   fonte_collezione, bersaglio_collezione
+-- Tenuti per mart analitici (debt legale): fonte_stato, bersaglio_stato
 
 WITH base AS (
     SELECT
@@ -20,10 +21,14 @@ WITH base AS (
         fonte_collezione,
         fonte_anno,
         fonte_tipo,
+        fonte_stato,
+        fonte_materia,
         bersaglio_filename,
         bersaglio_path,
         bersaglio_anno,
         bersaglio_tipo,
+        bersaglio_stato,
+        bersaglio_materia,
         peso,
         risolto,
         origine,
@@ -68,6 +73,10 @@ SELECT
     bersaglio_filename,
     TRY_CAST(fonte_anno AS INTEGER)   AS fonte_anno,
     TRY_CAST(bersaglio_anno AS INTEGER) AS bersaglio_anno,
+    normalize_string(fonte_stato)     AS fonte_stato,
+    normalize_string(bersaglio_stato) AS bersaglio_stato,
+    NULLIF(normalize_string(fonte_materia), '')     AS fonte_materia,
+    NULLIF(normalize_string(bersaglio_materia), '') AS bersaglio_materia,
     TRY_CAST(peso AS BIGINT)          AS peso,
     CAST(risolto AS BOOLEAN)          AS risolto,
     normalize_string(origine)         AS origine,

@@ -40,7 +40,25 @@ clean:
     not_null: [fonte_file]
     min_rows: 20000
 
-mart: {}
+mart:
+  tables:
+    - name: "mart_eiv_per_decennio"
+      sql: "sql/mart_eiv_per_decennio.sql"
+    - name: "mart_modifiche_anno"
+      sql: "sql/mart_modifiche_anno.sql"
+  required_tables:
+    - "mart_eiv_per_decennio"
+    - "mart_modifiche_anno"
+  validate:
+    table_rules:
+      mart_eiv_per_decennio:
+        required_columns: [decennio, n_con_eiv]
+        primary_key: [decennio]
+        min_rows: 5
+      mart_modifiche_anno:
+        required_columns: [anno_atto, n_atti]
+        primary_key: [anno_atto]
+        min_rows: 50
 
 validation:
   fail_on_error: true
