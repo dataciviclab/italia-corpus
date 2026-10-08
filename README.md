@@ -78,7 +78,7 @@ Pipeline canonica (stage lineari, output dichiarati): **[docs/PIPELINE.md](docs/
 
 | Stage | Tool | Output |
 |---|---|---|
-| fetch | **Fetch Normattiva** | MD collezioni + `akn_relations` / `akn_act_meta` (merge) |
+| fetch | **Fetch Normattiva** | MD in `collezioni/` + `akn_relations` / `akn_act_meta` (merge) |
 | extract | **Extract metadati** | `normativa.parquet` |
 | grafo | **Grafo riferimenti** | `riferimenti.parquet` (`origine`: regex\|akn) |
 | arricchisci | **Qualità grafo** | `n_citazioni`, `orfano`, `qualita_score` |
@@ -133,6 +133,10 @@ Colonne di qualità:
 `bersaglio_filename`, `bersaglio_path`, `bersaglio_collezione`,
 `bersaglio_anno`, `bersaglio_tipo`, `bersaglio_materia`, `bersaglio_stato`,
 `peso`, `risolto`
+
+Path nei campi path: relativi a `collezioni/` (es. `Codici/x.md`).
+`bersaglio_filename` e `normativa.filename` sono basename.
+Vedi [docs/PIPELINE.md](docs/PIPELINE.md) per le convenzioni path complete.
 
 ## Licenza
 

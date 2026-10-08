@@ -19,9 +19,8 @@ from pathlib import Path
 import pyarrow as pa
 import pyarrow.parquet as pq
 
-REPO = Path(__file__).resolve().parent.parent
-OUTDIR = REPO / "data" / "derived"
-CONFIG_COLLEZIONI = REPO / "config" / "collezioni.txt"
+from lab_tools._paths import COLLEZIONI_ROOT, CONFIG_COLLEZIONI, OUTDIR
+
 NORMATIVA_PARQUET = OUTDIR / "normativa.parquet"
 
 # Pattern: art. N, articolo N, articoli N [e M] della Costituzione
@@ -47,7 +46,7 @@ def _collezioni_legislative() -> list[Path]:
     if not CONFIG_COLLEZIONI.exists():
         return []
     nomi = [line.strip() for line in CONFIG_COLLEZIONI.read_text().splitlines() if line.strip()]
-    return sorted(d for d in (REPO / n for n in nomi) if d.is_dir())
+    return sorted(d for d in (COLLEZIONI_ROOT / n for n in nomi) if d.is_dir())
 
 
 def _load_normativa_lookup() -> dict[str, dict]:
@@ -165,7 +164,7 @@ def main():
     for col_dir in _collezioni_legislative():
         nome_collezione = col_dir.name
         for f in sorted(col_dir.glob("*.md")):
-            relpath = f.relative_to(REPO)
+            relpath = f.relative_to(COLLEZIONI_ROOT)
             try:
                 raw = f.read_text("utf-8", errors="replace")
             except Exception:

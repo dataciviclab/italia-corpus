@@ -14,6 +14,7 @@ from typing import Any
 from lab_connectors.mcp import create_mcp_server, guard_timed
 
 from lab_tools._frontmatter import read_frontmatter
+from lab_tools._paths import COLLEZIONI_DIRNAME, COLLEZIONI_ROOT
 
 CORPUS = Path(__file__).resolve().parent.parent
 CONFIG_COLLEZIONI = CORPUS / "config" / "collezioni.txt"
@@ -163,8 +164,14 @@ def _file_metadata(file: str) -> dict[str, Any]:
 
 
 def _collezione_da_path(rel_path: str) -> str:
-    """Estrae il nome della collezione dal path relativo al corpus."""
+    """Estrae il nome della collezione dal path relativo al corpus.
+
+    Il path può essere ``collezioni/<Collezione>/file.md`` o
+    ``<Collezione>/file.md`` (backward compat).
+    """
     parts = Path(rel_path).parts
+    if parts and parts[0] == COLLEZIONI_DIRNAME:
+        parts = parts[1:]
     return parts[0] if parts else ""
 
 
@@ -311,9 +318,9 @@ def _search_corpus(
                 f"Collezione '{collezione}' non trovata. "
                 f"Usa list_collections per l'elenco."
             )
-        search_path = str(CORPUS / collezione)
+        search_path = str(COLLEZIONI_ROOT / collezione)
     else:
-        search_path = str(CORPUS)
+        search_path = str(COLLEZIONI_ROOT)
 
     # ── verifica rg ──
     if not _rg_disponibile():
@@ -381,7 +388,8 @@ def _search_corpus(
     results: list[dict[str, Any]] = []
     for fp in page_files:
         info = per_file.get(fp, {"path": fp, "match_count": 0, "snippet": ""})
-        rel = Path(fp).relative_to(CORPUS)
+        # path API: relativo a COLLEZIONI_ROOT (es. "Decreti Legislativi/x.md")
+        rel = Path(fp).relative_to(COLLEZIONI_ROOT)
         meta = _file_metadata(fp)
         fn = rel.name
         q = quality.get(fn, {})
@@ -524,10 +532,10 @@ def _impl_get_document(collezione: str, filename: str, max_chars: int) -> str:
     if not filename.endswith(".md"):
         raise ValueError(f"filename deve terminare con .md: {filename}")
 
-    filepath = (CORPUS / collezione / filename).resolve()
-    base_path = (CORPUS / collezione).resolve()
+    filepath = (COLLEZIONI_ROOT / collezione / filename).resolve()
+    base_path = (COLLEZIONI_ROOT / collezione).resolve()
 
-    # 3. verifica che sia dentro CORPUS/collezione
+    # 3. verifica che sia dentro COLLEZIONI_ROOT/collezione
     # Usa relative_to invece di startswith per evitare bypass
     # tipo "Col_evil" che inizia con "Col".
     try:

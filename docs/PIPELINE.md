@@ -26,6 +26,7 @@ Ecosistema     MCP · legal-graph · analisi · Explorer (a valle)
 3. L’**AKN strutturato** è *enrichment* della stessa pipeline, non un secondo motore.
 4. **Niente** dashboard igiene dentro IC, salvo esplicita decisione umana.
 5. **Non** migriamo IC su toolkit RAW/CLEAN/MART: il modello toolkit è tabulare; qui la fonte è un corpus testuale + side parquet. Restiamo `corpus-project` con stage lineari.
+6. I MD del corpus vivono sotto **`collezioni/<Nome Collezione>/`** — path contratto cross-repo (MCP, CI, legal-graph). Costanti: `lab_tools/_paths.py`.
 
 ---
 
@@ -62,12 +63,26 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 
 | Artifact | Contenuto | Consumatori tipici |
 |---|---|---|
-| Collezioni `*.md` | testo + frontmatter URN | MCP, agenti, ricerca |
+| `collezioni/**/*.md` | testo + frontmatter URN | MCP, agenti, ricerca |
 | `normativa.parquet` | atto: metadati + qualità + materia/sunsetting + EIV/AKN | legal-graph, MCP, analisi |
 | `riferimenti.parquet` | archi `peso`, `risolto`, `origine` (regex\|akn) | legal-graph, debt |
 | `akn_relations.parquet` | relazioni AKN tipizzate (full-corpus su fetch completo) | clean/tabella propria, debug |
 | `akn_act_meta.parquet` | EIV, mod counts, ELI per atto (join `urn` 100% su fetch completo) | vigenza, quality |
 | `abrogations_raw.parquet` | fallback regex abrogazioni | integra + analisi (AKN repeal = tipizzato) |
+
+### Convenzioni path (contratto)
+
+| Superficie | Formato | Esempio |
+|---|---|---|
+| File su disco | `collezioni/<Collezione>/<file>.md` | `collezioni/Codici/x.md` |
+| MCP `path` | relativo a `collezioni/` | `Codici/x.md` |
+| MCP `filename` / `normativa.filename` | basename | `x.md` |
+| `riferimenti.fonte_filename`, `bersaglio_path` | relativo a `collezioni/` (stabile pre/post move) | `Codici/x.md` |
+| `riferimenti.bersaglio_filename` | basename | `x.md` |
+| Link MD interni | `../<Collezione>/<file>.md` | `../Codici/x.md` |
+
+Costanti: `lab_tools/_paths.py` (`COLLEZIONI_ROOT`).  
+I parquet derived **non** sono rigenerati in questa PR: al prossimo build CI il formato path di `riferimenti` resta quello sopra (nessun prefisso `collezioni/` nei campi path).
 
 **Non committare**: zip, XML temporanei, `_akn_stage/`, `*.csv` locali.  
 **Sì in git**: derived deliberati del contratto Lab (oggi versionati nel repo).

@@ -16,9 +16,8 @@ import urllib.parse
 from collections import Counter
 from pathlib import Path
 
-REPO = Path(__file__).resolve().parent.parent
-OUTDIR = REPO / "data" / "derived"
-CONFIG_COLLEZIONI = REPO / "config" / "collezioni.txt"
+from lab_tools._paths import COLLEZIONI_ROOT, CONFIG_COLLEZIONI, OUTDIR
+
 NORMATIVA_PARQUET = OUTDIR / "normativa.parquet"
 
 RE_LINK = re.compile(r'\.\./([^)]+?)\.md')
@@ -29,15 +28,19 @@ def _collezioni_legislative() -> list[Path]:
     if not CONFIG_COLLEZIONI.exists():
         return []
     nomi = [line.strip() for line in CONFIG_COLLEZIONI.read_text().splitlines() if line.strip()]
-    return sorted(d for d in (REPO / n for n in nomi) if d.is_dir())
+    return sorted(d for d in (COLLEZIONI_ROOT / n for n in nomi) if d.is_dir())
 
 
 def _build_file_set() -> set[str]:
-    """Costruisce set di path relativi di tutti i file .md nelle collezioni."""
+    """Path dei .md relativi a COLLEZIONI_ROOT (es. "Codici/x.md").
+
+    Stesso formato di prima del move sotto collezioni/: il parquet
+    non cambia contratto al prossimo build.
+    """
     files: set[str] = set()
     for col_dir in _collezioni_legislative():
         for f in col_dir.glob("*.md"):
-            files.add(str(f.relative_to(REPO)))
+            files.add(str(f.relative_to(COLLEZIONI_ROOT)))
     return files
 
 
@@ -75,24 +78,33 @@ def estrai_link(body: str) -> list[str]:
 
 
 def risolvi_path(link_decoded: str, current_relpath: Path) -> Path | None:
-    """Risolve un link relativo ../ in path assoluto rispetto al repo.
+    """Risolve un link relativo ../ in path relativo a COLLEZIONI_ROOT.
+
+    I path del corpus sono sorelle sotto collezioni/ (es.
+    ``DL proroghe/x.md`` → link ``../Codici/y.md`` → ``Codici/y.md``).
 
     Args:
-        link_decoded: path decodificato (es. 'Decreti Legislativi/TU.md')
-        current_relpath: path relativo del file corrente (es. 'DL Proroghe/x.md')
+        link_decoded: path decodificato (es. 'Codici/y.md')
+        current_relpath: path del file corrente relativo a COLLEZIONI_ROOT
 
     Returns:
-        Path risolto (relativo al repo) oppure None se non risolvibile.
+        Path relativo a COLLEZIONI_ROOT oppure None se non risolvibile.
     """
     parent = current_relpath.parent
     if str(parent) == ".":
-        return None  # file in root, ../ andrebbe sopra — non dovrebbe capitare
-    resolved = (parent.parent / link_decoded).resolve()
-    # Verifica che sia dentro REPO
-    try:
-        return resolved.relative_to(REPO)
-    except ValueError:
+        return None  # file in root collezioni, ../ salirebbe sopra
+    resolved = (parent.parent / link_decoded)
+    # Normalizza senza risolvere symlink/FS: solo rimozione di . e ..
+    parts: list[str] = []
+    for part in resolved.parts:
+        if part == "..":
+            if parts:
+                parts.pop()
+        elif part != ".":
+            parts.append(part)
+    if not parts:
         return None
+    return Path(*parts)
 
 
 def _stampa_metriche(archi: list[dict], file_set_size: int):
@@ -222,7 +234,7 @@ def main():
     for col_dir in _collezioni_legislative():
         nome_collezione = col_dir.name
         for f in sorted(col_dir.glob("*.md")):
-            relpath = f.relative_to(REPO)
+            relpath = f.relative_to(COLLEZIONI_ROOT)
             try:
                 raw = f.read_text("utf-8", errors="replace")
             except Exception:

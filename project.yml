@@ -34,7 +34,10 @@ outputs:
     contract: atto + qualità + materia/sunsetting + EIV/AKN (superset main CI)
   - path: data/derived/riferimenti.parquet
     kind: graph_edges
-    contract: fonte->bersaglio, peso, risolto, origine=regex|akn, denorm materia
+    contract: >
+      fonte->bersaglio, peso, risolto, origine=regex|akn, denorm materia.
+      fonte_filename e bersaglio_path relativi a collezioni/ (es. Codici/x.md);
+      bersaglio_filename = basename. Stabile pre/post move sotto collezioni/.
   - path: data/derived/akn_relations.parquet
     kind: enrichment
     contract: relazioni AKN tipizzate (fetch completo 20 collezioni)

@@ -19,13 +19,13 @@ def _fake_rg_available(monkeypatch):
 
 
 def _fake_corpus(tmp_path: Path, monkeypatch):
-    """Crea CORPUS finto con config/collezioni.txt, collezione e file .md."""
+    """Crea CORPUS finto con config/, collezioni/ e file .md."""
     _fake_rg_available(monkeypatch)
     (tmp_path / "config").mkdir(parents=True)
     (tmp_path / "config" / "collezioni.txt").write_text(
         "Decreti Legislativi\n", encoding="utf-8"
     )
-    col = tmp_path / "Decreti Legislativi"
+    col = tmp_path / "collezioni" / "Decreti Legislativi"
     col.mkdir(parents=True)
     (col / "test.md").write_text(
         "DECRETO LEGISLATIVO 15 marzo 2020 n. 45\nAttuazione direttiva CELEX:32018L1234",
@@ -37,6 +37,8 @@ def _fake_corpus(tmp_path: Path, monkeypatch):
     )
     monkeypatch.setattr(mcp_server, "CONFIG_COLLEZIONI", tmp_path / "config" / "collezioni.txt")
     monkeypatch.setattr(mcp_server, "CORPUS", tmp_path)
+    monkeypatch.setattr(mcp_server, "COLLEZIONI_ROOT", tmp_path / "collezioni")
+    monkeypatch.setattr(mcp_server, "COLLEZIONI_DIRNAME", "collezioni")
 
 
 def _mock_rg_json_result(monkeypatch, files: list[Path], query: str = "test"):
@@ -193,7 +195,7 @@ class TestSearchCorpus:
         _fake_corpus(tmp_path, monkeypatch)
         _mock_rg_json_result(
             monkeypatch,
-            [tmp_path / "Decreti Legislativi" / "test.md"],
+            [tmp_path / "collezioni" / "Decreti Legislativi" / "test.md"],
         )
         results = mcp_server._search_corpus("direttiva", limit=10)
         assert len(results) == 1
@@ -209,8 +211,8 @@ class TestSearchCorpus:
         """Offset funziona: salta i primi N risultati."""
         _fake_corpus(tmp_path, monkeypatch)
         files = [
-            tmp_path / "Decreti Legislativi" / "test.md",
-            tmp_path / "Decreti Legislativi" / "altro.md",
+            tmp_path / "collezioni" / "Decreti Legislativi" / "test.md",
+            tmp_path / "collezioni" / "Decreti Legislativi" / "altro.md",
         ]
         _mock_rg_json_result(monkeypatch, files)
         # Query singola parola
@@ -226,7 +228,7 @@ class TestSearchCorpus:
         _fake_corpus(tmp_path, monkeypatch)
         _mock_rg_json_result(
             monkeypatch,
-            [tmp_path / "Decreti Legislativi" / "test.md"],
+            [tmp_path / "collezioni" / "Decreti Legislativi" / "test.md"],
         )
         results = mcp_server._search_corpus(
             "direttiva", limit=10, collezione="Decreti Legislativi"
@@ -256,8 +258,8 @@ class TestSearchCorpus:
         """AND multi-termine: solo file che hanno TUTTI i termini."""
         _fake_corpus(tmp_path, monkeypatch)
         # file1 ha "ambiente", file2 ha "energia", nessuno ha entrambi
-        file1 = tmp_path / "Decreti Legislativi" / "test.md"
-        file2 = tmp_path / "Decreti Legislativi" / "altro.md"
+        file1 = tmp_path / "collezioni" / "Decreti Legislativi" / "test.md"
+        file2 = tmp_path / "collezioni" / "Decreti Legislativi" / "altro.md"
         _mock_rg_list_files(monkeypatch, {
             "ambiente": [file1],
             "energia": [file2],
@@ -270,8 +272,8 @@ class TestSearchCorpus:
     def test_and_multi_termine_con_intersezione(self, monkeypatch, tmp_path):
         """AND: file che ha entrambi i termini viene trovato."""
         _fake_corpus(tmp_path, monkeypatch)
-        file1 = tmp_path / "Decreti Legislativi" / "test.md"
-        file2 = tmp_path / "Decreti Legislativi" / "altro.md"
+        file1 = tmp_path / "collezioni" / "Decreti Legislativi" / "test.md"
+        file2 = tmp_path / "collezioni" / "Decreti Legislativi" / "altro.md"
         # file1 ha entrambi, file2 solo "ambiente"
         _mock_rg_list_files(monkeypatch, {
             "ambiente": [file1, file2],
@@ -298,7 +300,7 @@ class TestSearchCorpus:
         (tmp_path / "config" / "collezioni.txt").write_text(
             "Decreti Legislativi\n", encoding="utf-8"
         )
-        col = tmp_path / "Decreti Legislativi"
+        col = tmp_path / "collezioni" / "Decreti Legislativi"
         col.mkdir(parents=True)
         (col / "test.md").write_text(
             "---\n"
@@ -318,9 +320,10 @@ class TestSearchCorpus:
         monkeypatch.setattr(mcp_server, "CONFIG_COLLEZIONI",
                             tmp_path / "config" / "collezioni.txt")
         monkeypatch.setattr(mcp_server, "CORPUS", tmp_path)
+        monkeypatch.setattr(mcp_server, "COLLEZIONI_ROOT", tmp_path / "collezioni")
         _mock_rg_json_result(
             monkeypatch,
-            [tmp_path / "Decreti Legislativi" / "test.md"],
+            [tmp_path / "collezioni" / "Decreti Legislativi" / "test.md"],
         )
         results = mcp_server._search_corpus("direttiva", limit=10)
         assert len(results) == 1
@@ -340,7 +343,7 @@ class TestLegalSearchTool:
         _fake_corpus(tmp_path, monkeypatch)
         _mock_rg_json_result(
             monkeypatch,
-            [tmp_path / "Decreti Legislativi" / "test.md"],
+            [tmp_path / "collezioni" / "Decreti Legislativi" / "test.md"],
         )
         result = mcp_server.legal_search("direttiva", limit=10)
         assert isinstance(result, list)
@@ -370,8 +373,8 @@ class TestLegalSearchTool:
         """Parametro offset passato a _search_corpus."""
         _fake_corpus(tmp_path, monkeypatch)
         files = [
-            tmp_path / "Decreti Legislativi" / "test.md",
-            tmp_path / "Decreti Legislativi" / "altro.md",
+            tmp_path / "collezioni" / "Decreti Legislativi" / "test.md",
+            tmp_path / "collezioni" / "Decreti Legislativi" / "altro.md",
         ]
         _mock_rg_json_result(monkeypatch, files)
         r0 = mcp_server.legal_search("direttiva", limit=10, offset=0)
@@ -391,8 +394,8 @@ class TestLegalSearchTool:
     def test_ricerca_and_via_tool(self, monkeypatch, tmp_path):
         """AND multi-termine funziona anche via legal_search."""
         _fake_corpus(tmp_path, monkeypatch)
-        file1 = tmp_path / "Decreti Legislativi" / "test.md"
-        file2 = tmp_path / "Decreti Legislativi" / "altro.md"
+        file1 = tmp_path / "collezioni" / "Decreti Legislativi" / "test.md"
+        file2 = tmp_path / "collezioni" / "Decreti Legislativi" / "altro.md"
         _mock_rg_list_files(monkeypatch, {
             "ambiente": [file1, file2],
             "energia": [file1],
@@ -470,7 +473,7 @@ class TestLegalGetDocument:
     def test_path_traversal_symlink_prefix_bypass(self, monkeypatch, tmp_path):
         """Symlink con nome che inizia come la collezione (Col_evil bypassa startswith) → errore."""
         _fake_corpus(tmp_path, monkeypatch)
-        col = tmp_path / "Decreti Legislativi"
+        col = tmp_path / "collezioni" / "Decreti Legislativi"
         # File fuori dalla collezione con nome che inizia con "Decreti Legislativi"
         evil = tmp_path / "Decreti Legislativi_evil.md"
         evil.write_text("SECRET", encoding="utf-8")
@@ -608,8 +611,8 @@ class TestSearchFilters:
             import subprocess
             args_str = " ".join(str(a) for a in args)
             if "-l" in args_str:
-                files = [str(tmp_path / "Decreti Legislativi" / "test.md"),
-                         str(tmp_path / "Decreti Legislativi" / "altro.md")]
+                files = [str(tmp_path / "collezioni" / "Decreti Legislativi" / "test.md"),
+                         str(tmp_path / "collezioni" / "Decreti Legislativi" / "altro.md")]
                 return subprocess.CompletedProcess(args, 0, stdout="\n".join(files), stderr="")
             return subprocess.CompletedProcess(args, 0, stdout="", stderr="")
         monkeypatch.setattr("subprocess.run", fake_run)
@@ -635,8 +638,8 @@ class TestSearchFilters:
             import subprocess
             args_str = " ".join(str(a) for a in args)
             if "-l" in args_str:
-                files = [str(tmp_path / "Decreti Legislativi" / "test.md"),
-                         str(tmp_path / "Decreti Legislativi" / "altro.md")]
+                files = [str(tmp_path / "collezioni" / "Decreti Legislativi" / "test.md"),
+                         str(tmp_path / "collezioni" / "Decreti Legislativi" / "altro.md")]
                 return subprocess.CompletedProcess(args, 0, stdout="\n".join(files), stderr="")
             return subprocess.CompletedProcess(args, 0, stdout="", stderr="")
         monkeypatch.setattr("subprocess.run", fake_run)
@@ -657,8 +660,8 @@ class TestSearchFilters:
             import subprocess
             args_str = " ".join(str(a) for a in args)
             if "-l" in args_str:
-                files = [str(tmp_path / "Decreti Legislativi" / "test.md"),
-                         str(tmp_path / "Decreti Legislativi" / "altro.md")]
+                files = [str(tmp_path / "collezioni" / "Decreti Legislativi" / "test.md"),
+                         str(tmp_path / "collezioni" / "Decreti Legislativi" / "altro.md")]
                 return subprocess.CompletedProcess(args, 0, stdout="\n".join(files), stderr="")
             return subprocess.CompletedProcess(args, 0, stdout="", stderr="")
         monkeypatch.setattr("subprocess.run", fake_run)

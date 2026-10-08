@@ -17,10 +17,10 @@ from __future__ import annotations
 
 import re
 import sys
-from pathlib import Path
 
-COLLECTIONS_DIR = Path(__file__).resolve().parent.parent
-OUTPUT_DIR = COLLECTIONS_DIR / "data" / "derived"
+from lab_tools._paths import COLLEZIONI_ROOT, OUTDIR
+
+OUTPUT_DIR = OUTDIR
 
 # Pattern per estrarre riferimenti PNRR strutturati
 # 1. Forma estesa: "Missione N, Componente N, Investimento N.N"
@@ -99,7 +99,7 @@ def main() -> int:
     output_file = OUTPUT_DIR / "pnrr_references.parquet"
 
     all_refs = []
-    md_files = sorted(COLLECTIONS_DIR.glob("*/*.md"))
+    md_files = sorted(COLLEZIONI_ROOT.glob("*/*.md"))
     print(f"Scanning {len(md_files)} files...")
 
     for i, md in enumerate(md_files):
