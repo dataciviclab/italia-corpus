@@ -13,6 +13,13 @@ import tempfile
 import time
 from pathlib import Path
 
+from lab_tools._paths import (
+    COLLEZIONI_DIRNAME,
+    COLLEZIONI_ROOT,
+    CONFIG_COLLEZIONI,
+    OUTDIR,
+    REPO,
+)
 from lab_tools.akn_parser import akn_xml_to_markdown
 from lab_tools.akn_relations import (
     extract_from_xml,
@@ -29,9 +36,6 @@ from lab_tools.normattiva_client import (
 )
 
 logger = logging.getLogger(__name__)
-
-REPO = Path(__file__).resolve().parent.parent
-CONFIG_COLLEZIONI = REPO / "config" / "collezioni.txt"
 
 
 def _load_collezioni() -> list[str]:
@@ -138,7 +142,7 @@ def process_collection(
         for xml_file in xml_files:
             try:
                 content = xml_file.read_text("utf-8", errors="replace")
-                source_path = f"{subdir}/{xml_file.stem}.md"
+                source_path = f"{COLLEZIONI_DIRNAME}/{subdir}/{xml_file.stem}.md"
                 fm, markdown = akn_xml_to_markdown(content, urn_index, source_path)
 
                 if stage_dir is not None:
@@ -157,7 +161,7 @@ def process_collection(
 
                 # Update live URN index (punta alla destinazione finale)
                 if fm.urn:
-                    urn_index[fm.urn] = f"{subdir}/{md_filename}"
+                    urn_index[fm.urn] = f"{COLLEZIONI_DIRNAME}/{subdir}/{md_filename}"
 
                 count += 1
             except Exception as e:
@@ -224,7 +228,7 @@ def main() -> None:
     urn_index = _build_urn_index(REPO)
 
     # 3b. Staging AKN su disco (sopravvive a errori di merge a fine run)
-    stage_dir = REPO / "data" / "derived" / "_akn_stage"
+    stage_dir = OUTDIR / "_akn_stage"
     if stage_dir.exists():
         shutil.rmtree(stage_dir, ignore_errors=True)
     stage_dir.mkdir(parents=True, exist_ok=True)
@@ -251,7 +255,7 @@ def main() -> None:
                     failed.append(nome)
                 continue
 
-            count = process_collection(collection, work_dir, REPO, urn_index, stage_dir=stage_dir)
+            count = process_collection(collection, work_dir, COLLEZIONI_ROOT, urn_index, stage_dir=stage_dir)
             total += count
             if count == 0:
                 failed.append(nome)
@@ -265,7 +269,7 @@ def main() -> None:
     if rel_rows or meta_rows:
         try:
             rel_path, meta_path = merge_akn_artifacts(
-                rel_rows, meta_rows, REPO / "data" / "derived"
+                rel_rows, meta_rows, OUTDIR
             )
             logger.info(
                 "AKN artifacts (merged): %d relations -> %s; %d acts -> %s",

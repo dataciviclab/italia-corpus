@@ -11,18 +11,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Primo checkout: solo config/ per leggere la lista delle collezioni
-      - uses: actions/checkout@v6.0.3
-        with:
-          sparse-checkout: |
-            config/
-      - name: Build collections list
-        id: cols
-        run: |
-          echo "list<<EOF" >> "$GITHUB_OUTPUT"
-          cat config/collezioni.txt >> "$GITHUB_OUTPUT"
-          echo "EOF" >> "$GITHUB_OUTPUT"
-      # Secondo checkout: tooling + collezioni + dati derivati
       - uses: actions/checkout@v6.0.3
         with:
           sparse-checkout: |
@@ -30,7 +18,7 @@ jobs:
             tests/
             config/
             data/derived/
-            ${{ steps.cols.outputs.list }}
+            collezioni/
       - uses: actions/setup-python@v6.2.0
         with:
           python-version: '3.12'

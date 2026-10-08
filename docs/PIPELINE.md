@@ -26,6 +26,7 @@ Ecosistema     MCP · legal-graph · analisi · Explorer (a valle)
 3. L’**AKN strutturato** è *enrichment* della stessa pipeline, non un secondo motore.
 4. **Niente** dashboard igiene dentro IC, salvo esplicita decisione umana.
 5. **Non** migriamo IC su toolkit RAW/CLEAN/MART: il modello toolkit è tabulare; qui la fonte è un corpus testuale + side parquet. Restiamo `corpus-project` con stage lineari.
+6. I MD del corpus vivono sotto **`collezioni/<Nome Collezione>/`** — path contratto cross-repo (MCP, CI, legal-graph). Costanti: `lab_tools/_paths.py`.
 
 ---
 
@@ -62,7 +63,7 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 
 | Artifact | Contenuto | Consumatori tipici |
 |---|---|---|
-| Collezioni `*.md` | testo + frontmatter URN | MCP, agenti, ricerca |
+| `collezioni/**/*.md` | testo + frontmatter URN | MCP, agenti, ricerca |
 | `normativa.parquet` | atto: metadati + qualità + materia/sunsetting + EIV/AKN | legal-graph, MCP, analisi |
 | `riferimenti.parquet` | archi `peso`, `risolto`, `origine` (regex\|akn) | legal-graph, debt |
 | `akn_relations.parquet` | relazioni AKN tipizzate (full-corpus su fetch completo) | clean/tabella propria, debug |

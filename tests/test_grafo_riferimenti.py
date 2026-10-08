@@ -59,31 +59,35 @@ class TestEstraiLink:
 
 
 class TestRisolviPath:
-    """Test per risolvi_path(): risoluzione path relativi ../ ."""
+    """Test per risolvi_path(): risoluzione path relativi ../ .
+
+    I path reali del corpus sono sotto collezioni/ (es.
+    ``collezioni/DL Proroghe/x.md``); il resolver è generico.
+    """
 
     def test_risoluzione_semplice(self):
-        """../Decreti Legislativi/TU.md da DL Proroghe/x.md."""
+        """../Decreti Legislativi/TU.md da collezioni/DL Proroghe/x.md."""
         link = "Decreti Legislativi/TU.md"
-        current = Path("DL Proroghe") / "x.md"
+        current = Path("collezioni") / "DL Proroghe" / "x.md"
         result = risolvi_path(link, current)
         assert result is not None
-        assert str(result) == "Decreti Legislativi/TU.md"
+        assert str(result) == "collezioni/Decreti Legislativi/TU.md"
 
     def test_risoluzione_subdir(self):
-        """../Decreti Legislativi/Sub/Norma.md da DL Proroghe/x.md."""
+        """../Decreti Legislativi/Sub/Norma.md da collezioni/DL Proroghe/x.md."""
         link = "Decreti Legislativi/Sub/Norma.md"
-        current = Path("DL Proroghe") / "x.md"
+        current = Path("collezioni") / "DL Proroghe" / "x.md"
         result = risolvi_path(link, current)
         assert result is not None
-        assert str(result) == "Decreti Legislativi/Sub/Norma.md"
+        assert str(result) == "collezioni/Decreti Legislativi/Sub/Norma.md"
 
     def test_risoluzione_root_collezione(self):
-        """../Leggi/Legge.md da Decreti Legislativi/x.md."""
+        """../Leggi/Legge.md da collezioni/Decreti Legislativi/x.md."""
         link = "Leggi/Legge.md"
-        current = Path("Decreti Legislativi") / "x.md"
+        current = Path("collezioni") / "Decreti Legislativi" / "x.md"
         result = risolvi_path(link, current)
         assert result is not None
-        assert str(result) == "Leggi/Legge.md"
+        assert str(result) == "collezioni/Leggi/Legge.md"
 
     def test_risoluzione_file_in_root(self):
         """File in root (raro, ma gestito) -> None per sicurezza."""

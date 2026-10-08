@@ -16,8 +16,9 @@ import re
 import sys
 from pathlib import Path
 
-COLLECTIONS_DIR = Path(__file__).resolve().parent.parent
-OUTPUT_DIR = COLLECTIONS_DIR / "data" / "derived"
+from lab_tools._paths import COLLEZIONI_ROOT, OUTDIR
+
+OUTPUT_DIR = OUTDIR
 
 # Regex per trovare atti abrogati: "legge N anno, n. X" o "decreto legislativo N anno, n. X"
 ATTO_REF = re.compile(
@@ -60,7 +61,7 @@ def main() -> int:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     output_file = OUTPUT_DIR / "abrogations_raw.parquet"
 
-    md_files = sorted(COLLECTIONS_DIR.glob("*/*.md"))
+    md_files = sorted(COLLEZIONI_ROOT.glob("*/*.md"))
     print(f"Scanning {len(md_files)} files for abrogations...")
 
     all_abro = []

@@ -12,10 +12,7 @@ import re
 from pathlib import Path
 
 from lab_tools._frontmatter import parse_frontmatter
-
-REPO = Path(__file__).resolve().parent.parent
-OUTDIR = REPO / "data" / "derived"
-CONFIG_COLLEZIONI = REPO / "config" / "collezioni.txt"
+from lab_tools._paths import COLLEZIONI_ROOT, CONFIG_COLLEZIONI, OUTDIR
 
 # Atti UE: singolari e plurali, con/senza (UE), n., delegato/di esecuzione
 # Cattura 3 gruppi: (tipo_parola, anno, numero)
@@ -177,7 +174,7 @@ def _collezioni_legislative() -> list[Path]:
     if not CONFIG_COLLEZIONI.exists():
         return []
     nomi = [line.strip() for line in CONFIG_COLLEZIONI.read_text().splitlines() if line.strip()]
-    return sorted(d for d in (REPO / n for n in nomi) if d.is_dir())
+    return sorted(d for d in (COLLEZIONI_ROOT / n for n in nomi) if d.is_dir())
 
 
 def _dedup(records: list[dict]) -> list[dict]:

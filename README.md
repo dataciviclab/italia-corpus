@@ -78,7 +78,7 @@ Pipeline canonica (stage lineari, output dichiarati): **[docs/PIPELINE.md](docs/
 
 | Stage | Tool | Output |
 |---|---|---|
-| fetch | **Fetch Normattiva** | MD collezioni + `akn_relations` / `akn_act_meta` (merge) |
+| fetch | **Fetch Normattiva** | MD in `collezioni/` + `akn_relations` / `akn_act_meta` (merge) |
 | extract | **Extract metadati** | `normativa.parquet` |
 | grafo | **Grafo riferimenti** | `riferimenti.parquet` (`origine`: regex\|akn) |
 | arricchisci | **Qualità grafo** | `n_citazioni`, `orfano`, `qualita_score` |
