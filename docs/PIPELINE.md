@@ -93,10 +93,23 @@ I parquet derived **non** sono rigenerati in questa PR: al prossimo build CI il 
 
 | Sistema | Rapporto |
 |---|---|
-| **legal-graph** | Consuma URN/testi/parquet da IC (GitHub raw `main`). Dopo merge: `make run` LG. |
-| **toolkit / DI** | IC non è `dataset.yml` standard. Disciplina toolkit interna, non migrazione RAW/MART. |
-| **source-observatory** | Normattiva = fonte self-managed del corpus, non catalogo SO. |
+| **legal-graph** | Consuma URN/testi/parquet da IC. Dopo publish GCS: support `type: external` su HTTPS clean. Oggi ancora GitHub raw derived. |
+| **toolkit** | Engine resta corpus-project. **Layer toolkit** in `datasets/` → clean contract (`local_file` su `data/derived` → `out/data/clean`). |
+| **source-observatory** | Normattiva = fonte self-managed del corpus (inventario SO separato). |
 | **cruscotto igiene** | Solo con decisione umana + dashboard dedicata. |
+
+### Layer toolkit (2026-10-08)
+
+| Dataset | PK clean | Note |
+|---|---|---|
+| `normativa` | `filename` | urn non univoco; `atto_id` analitico |
+| `riferimenti` | `fonte_source_path + bersaglio_source_path + origine` | path-aware; `*_filename` compat LG |
+| `akn-act-meta` | `fonte_file` | EIV → DATE |
+| `akn-relations` | `edge_id` (md5) | relazioni tipizzate AKN |
+
+- Makefile: `make toolkit-check` · `make toolkit-run`
+- CI GCS/registry: da collegare (`pipeline-reusable`, `repo-slug=italia-corpus`)
+- Dual-publish: derived resta in git per MCP; clean è il contratto pubblico Lab
 
 ---
 

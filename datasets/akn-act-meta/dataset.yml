@@ -1,0 +1,46 @@
+root: "../../out"
+schema_version: 1
+
+dataset:
+  name: "akn_act_meta"
+  source_id: "italia_corpus"
+  description: "Metadati AKN per atto (EIV, ELI, mod counts, workflow). Una riga per atto con XML AKN processato. PK = fonte_file."
+  tags: [normativa, akn, metadati, eiv]
+  category: normativa
+  years: [2026]
+  time_coverage:
+    start_year: 1874
+    end_year: 2026
+
+raw:
+  output_policy: "overwrite"
+  sources:
+    - name: "akn_act_meta_parquet"
+      type: "local_file"
+      args:
+        path: "../../data/derived/akn_act_meta.parquet"
+        filename: "akn_act_meta.parquet"
+      primary: true
+
+clean:
+  sql: "sql/clean.sql"
+  read:
+    source: auto
+    mode: latest
+  required_columns:
+    - fonte_file
+    - fonte_urn
+    - fonte_codice
+    - n_refs
+    - n_active_mods
+    - n_repeal_events
+    - has_workflow
+  validate:
+    primary_key: [fonte_file]
+    not_null: [fonte_file]
+    min_rows: 20000
+
+mart: {}
+
+validation:
+  fail_on_error: true

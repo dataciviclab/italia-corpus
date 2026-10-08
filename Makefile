@@ -1,4 +1,5 @@
-.PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-akn sunsetting citazioni pnrr abrogations mcp akn-relations
+.PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-akn sunsetting citazioni pnrr abrogations mcp akn-relations \
+ toolkit-check toolkit-run toolkit-all check
 
 # Pipeline completa (senza fetch — fetch è CI/manuale)
 # Ordine onesto, coerente con build-dataset.yml:
@@ -9,8 +10,29 @@ pipeline: extract classifica citazioni pnrr abrogations integra grafo arricchisc
 # SENZA classifica perde materia e denorm grafo — non usarlo come contratto LG.
 pipeline-core: extract classifica grafo arricchisci integra-akn sunsetting
 
+TOOLKIT ?= python3 -m toolkit.cli.app
+TOOLKIT_CONFIGS := $(wildcard datasets/*/dataset.yml)
+
+# --- Layer toolkit (clean pubblico da data/derived → out/) ---
+
+check: toolkit-check
+
+toolkit-check:
+	@for f in $(TOOLKIT_CONFIGS); do \
+		echo "→ $$f"; \
+		$(TOOLKIT) run preflight --config "$$f"; \
+	done
+
+toolkit-run:
+	@for f in $(TOOLKIT_CONFIGS); do \
+		echo "→ $$f"; \
+		$(TOOLKIT) run --config "$$f"; \
+	done
+
+toolkit-all: toolkit-run
+
 install:
-	pip install -e ".[dev,mcp]"
+	pip install -e ".[dev,mcp,pipeline]"
 
 test:
 	python -m pytest tests/ -v

@@ -1,0 +1,61 @@
+root: "../../out"
+schema_version: 1
+
+dataset:
+  name: "normativa"
+  source_id: "italia_corpus"
+  description: "Corpus normativa Italia (Normattiva → AKN/MD): una riga per file atto del corpus. PK tecnico = filename (univoco). urn può ripetersi (ORIGINALE + VIGENZA). Include qualità grafo, materia tematica, sunsetting e metadati AKN (EIV)."
+  tags: [normativa, corpus, legislazione, italia]
+  category: normativa
+  years: [2026]
+  time_coverage:
+    start_year: 1874
+    end_year: 2026
+
+raw:
+  output_policy: "overwrite"
+  sources:
+    - name: "normativa_parquet"
+      type: "local_file"
+      args:
+        path: "../../data/derived/normativa.parquet"
+        filename: "normativa.parquet"
+      primary: true
+
+clean:
+  sql: "sql/clean.sql"
+  read:
+    source: auto
+    mode: latest
+  required_columns:
+    - filename
+    - collezione
+    - tipo
+    - data
+    - numero
+    - oggetto
+    - celex
+    - anno_atto
+    - urn
+    - codice_redazionale
+    - stato
+    - vigente
+    - lunghezza_caratteri
+    - lunghezza_parole
+    - duplicato
+    - n_citazioni
+    - orfano
+    - qualita_score
+    - materia
+    - sunsetting_score
+    - ingresso_in_vigore
+  validate:
+    # filename è univoco sul corpus (22017/22017); urn no (doppie espressioni)
+    primary_key: [filename]
+    not_null: [filename, tipo, stato]
+    min_rows: 20000
+
+mart: {}
+
+validation:
+  fail_on_error: true

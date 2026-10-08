@@ -1,0 +1,45 @@
+root: "../../out"
+schema_version: 1
+
+dataset:
+  name: "akn_relations"
+  source_id: "italia_corpus"
+  description: "Relazioni AKN tipizzate dal corpus Normattiva (citation, insertion, repeal, substitution, eventRef, passiveRef). Una riga per relazione estratta dall'XML."
+  tags: [normativa, akn, grafo, relazioni]
+  category: normativa
+  years: [2026]
+  time_coverage:
+    start_year: 1874
+    end_year: 2026
+
+raw:
+  output_policy: "overwrite"
+  sources:
+    - name: "akn_relations_parquet"
+      type: "local_file"
+      args:
+        path: "../../data/derived/akn_relations.parquet"
+        filename: "akn_relations.parquet"
+      primary: true
+
+clean:
+  sql: "sql/clean.sql"
+  read:
+    source: auto
+    mode: latest
+  required_columns:
+    - edge_id
+    - fonte_urn
+    - target_urn
+    - rel_type
+    - origin
+  validate:
+    # edge_id = hash stabile di tutti gli attributi (gestisce duplicati di dettaglio)
+    primary_key: [edge_id]
+    not_null: [fonte_urn, rel_type]
+    min_rows: 300000
+
+mart: {}
+
+validation:
+  fail_on_error: true
