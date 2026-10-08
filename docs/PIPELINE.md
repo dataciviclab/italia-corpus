@@ -109,8 +109,16 @@ I parquet derived **non** sono rigenerati in questa PR: al prossimo build CI il 
 
 - Makefile: `make toolkit-check` · `make toolkit-run`
 - Output: `out/data/{clean,mart}/<dataset>/2026/` (gitignored)
-- CI GCS/registry: da collegare (`pipeline-reusable`, `repo-slug=italia-corpus`)
-- Dual-publish: derived resta in git per MCP; clean+mart sono il contratto Lab
+- **CI daily** (`build-dataset.yml`): engine + `toolkit-run` + rsync GCS
+  `gs://dataciviclab-clean|mart/italia-corpus/` — **no registry PR**
+- **CI schema** (`pipeline.yml`): reusable org su merge `datasets/**` + lunedì/dispatch
+  → `toolkit-run` + registry draft PR (solo quando cambia il contratto)
+- Dual-publish: derived resta in git per MCP; clean+mart su GCS sono il contratto Lab
+- Warning attesi: `riferimenti` clean droppa denorm non usati da LG
+
+**Perché no registry daily**: `registry.json` cambia a ogni run (`updated_at`,
+`signals.run_id`) → una draft PR al giorno è rumore. Il contratto pubblico
+(columns/locations) cambia solo con PR su `datasets/**`.
 
 ---
 
