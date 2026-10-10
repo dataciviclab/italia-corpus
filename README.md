@@ -29,6 +29,11 @@ a Markdown. Tutto cercabile per testo, struttura e materia.
 
 ### 1. Via MCP — ricerca in linguaggio naturale
 
+> **Deprecato (2026-10)**: per search e crossref preferisci il MCP
+> **legal-graph** (`legal_search` / `legal_node`) — grafo unificato multi-repo.
+> Gli tool `italia-corpus_legal_search` e `italia-corpus_legal_crossref`
+> restano attivi per backward compat con un `DeprecationWarning`.
+
 Collega il server MCP del corpus al tuo assistente AI:
 
 ```
