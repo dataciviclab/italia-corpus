@@ -27,19 +27,14 @@ a Markdown. Tutto cercabile per testo, struttura e materia.
 
 ## Tre modi per accedere ai dati
 
-### 1. Via MCP — ricerca in linguaggio naturale
+### 1. Via MCP — legal-graph
 
-> **Deprecato (2026-10)**: per search e crossref preferisci il MCP
-> **legal-graph** (`legal_search` / `legal_node`) — grafo unificato multi-repo.
-> Gli tool `italia-corpus_legal_search` e `italia-corpus_legal_crossref`
-> restano attivi per backward compat con un `DeprecationWarning`.
-
-Collega il server MCP del corpus al tuo assistente AI:
+Ricerca, testo integrale e grafo vivono nel MCP **[legal-graph](https://github.com/dataciviclab/legal-graph)**
+(`legal_search` / `legal_node` / `legal_text` / `legal_query` / `legal_insights`).
 
 ```
-"Trova i decreti-legge che citano ambiente ed energia"
-"Mostrami il testo del D.Lgs. 231/2001"
-"Cerca solo atti vigenti con qualità alta"
+legal_search("decreti-legge ambiente energia")
+legal_text("urn:nir:stato:decreto.legislativo:2001-06-08;231")
 ```
 
 Ogni risultato include `stato` (vigente/abrogato/decaduto), `qualita_score` (0-100),
@@ -90,7 +85,6 @@ Pipeline canonica (stage lineari, output dichiarati): **[docs/PIPELINE.md](docs/
 | integra-akn | **Join AKN meta** | `ingresso_in_vigore`, `akn_*` (se presenti) |
 | classifica | **Classifica tematico** | `materia` (downstream) |
 | integra | **Costituzionali** | cit. cost. / abrogazioni (downstream) |
-| — | **MCP server** | ricerca full-text sul corpus MD |
 
 ### CI / Manutenzione
 

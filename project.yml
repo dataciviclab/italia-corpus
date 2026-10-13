@@ -54,7 +54,6 @@ datasets:
   - akn_act_meta
   - citazioni-costituzionali
 consumers:
-  - lab_tools.mcp_server
   - legal-graph (aggregazione, non reinvenzione)
   - analisi locali / eventuali Explorer
 # Layer toolkit: clean pubblico da data/derived → out/data/clean (GCS + registry in CI)

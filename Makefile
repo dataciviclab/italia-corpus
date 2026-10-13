@@ -1,4 +1,4 @@
-.PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-akn sunsetting citazioni pnrr abrogations mcp akn-relations \
+.PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-akn sunsetting citazioni pnrr abrogations akn-relations \
  toolkit-check toolkit-run toolkit-all check
 
 # Pipeline completa (senza fetch — fetch è CI/manuale)
@@ -32,7 +32,7 @@ toolkit-run:
 toolkit-all: toolkit-run
 
 install:
-	pip install -e ".[dev,mcp,pipeline]"
+	pip install -e ".[dev,pipeline]"
 
 test:
 	python -m pytest tests/ -v
@@ -72,6 +72,3 @@ sunsetting:
 
 akn-relations:
 	python -m lab_tools.akn_relations --xml-dir data/xml --outdir data/derived --merge
-
-mcp:
-	python -m lab_tools.mcp_server

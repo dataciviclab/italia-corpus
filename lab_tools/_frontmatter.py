@@ -3,7 +3,7 @@
 Tutti i 25k+ file nel corpus hanno frontmatter con 7 campi:
   tipo, numero, data, titolo, urn, codice_redazionale, vigente
 
-Questo modulo centralizza il parsing per MCP (mcp_server) e extract.
+Questo modulo centralizza il parsing per extract e i tool di pipeline.
 """
 
 from __future__ import annotations
