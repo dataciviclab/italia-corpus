@@ -234,9 +234,25 @@ def fetch_act_by_urn(
             data = resp.json()
 
             # Envelope: {"code": ..., "message": ..., "data": {"atto": {...}}}
-            atto = (data.get("data") or {}).get("atto")
+            # Alcuni atti (es. ripubblicazioni) tornano in data.lista invece
+            # che in data.atto: senza fallback vengono persi silenziosamente.
+            payload_data = data.get("data") or {}
+            atto = payload_data.get("atto")
             if not atto:
-                msg = data.get("message") or "no atto in response"
+                lista = payload_data.get("lista") or []
+                if isinstance(lista, list) and lista:
+                    atto = lista[0]
+                    if len(lista) > 1:
+                        logger.info(
+                            "Act %s: %d versioni in lista, uso la prima",
+                            urn, len(lista),
+                        )
+            if not atto:
+                msg = (
+                    data.get("message")
+                    or payload_data.get("message")
+                    or "no atto in response"
+                )
                 logger.warning("Act %s: %s", urn, msg)
                 return None
 

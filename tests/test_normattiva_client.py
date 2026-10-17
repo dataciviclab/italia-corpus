@@ -6,6 +6,7 @@ import pytest
 from lab_tools.normattiva_client import (
     download_collection,
     extract_zip,
+    fetch_act_by_urn,
     fetch_predefined_collections,
     filter_collections,
     merge_collections_by_name,
@@ -166,3 +167,51 @@ class TestDownloadCollection:
         result = download_collection(collection, tmp_path)
         assert result is None
         mock_sleep.assert_called()  # retry logic ran, but slept mocked
+
+
+# ── fetch_act_by_urn ────────────────────────────────────────────────
+
+
+class TestFetchActByUrn:
+
+    @patch("lab_tools.normattiva_client.requests.post")
+    def test_returns_atto(self, mock_post):
+        mock_post.return_value = MagicMock(
+            status_code=200,
+            json=lambda: {"data": {"atto": {"titolo": "Legge X"}}},
+            raise_for_status=lambda: None,
+        )
+        assert fetch_act_by_urn("urn:nir:stato:legge:2000-01-01;1")["titolo"] == "Legge X"
+
+    @patch("lab_tools.normattiva_client.requests.post")
+    def test_falls_back_to_lista(self, mock_post):
+        """Regressione: alcuni atti tornano in data.lista, non in data.atto."""
+        mock_post.return_value = MagicMock(
+            status_code=200,
+            json=lambda: {
+                "data": {
+                    "atto": None,
+                    "lista": [{"titolo": "Legge lista 1"}, {"titolo": "Legge lista 2"}],
+                    "message": "ricerca effettuata con successo",
+                }
+            },
+            raise_for_status=lambda: None,
+        )
+        assert fetch_act_by_urn("urn:nir:stato:legge:1999-12-16;479")["titolo"] == "Legge lista 1"
+
+    @patch("lab_tools.normattiva_client.requests.post")
+    def test_404_returns_none(self, mock_post):
+        mock_post.return_value = MagicMock(
+            status_code=404,
+            json=lambda: {"message": "atto non trovato"},
+        )
+        assert fetch_act_by_urn("urn:nir:stato:legge:1942-03-24;369") is None
+
+    @patch("lab_tools.normattiva_client.requests.post")
+    def test_empty_lista_returns_none(self, mock_post):
+        mock_post.return_value = MagicMock(
+            status_code=200,
+            json=lambda: {"data": {"atto": None, "lista": []}, "message": "vuoto"},
+            raise_for_status=lambda: None,
+        )
+        assert fetch_act_by_urn("urn:nir:stato:legge:2000-01-01;1") is None

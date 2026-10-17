@@ -75,7 +75,6 @@ urn:nir:stato:legge:2014-10-03;145 | 2 DDL —
 urn:nir:stato:legge:2014-04-28;67 | 2 DDL — Pene detentive non carcerarie e messa alla prova
 urn:nir:stato:legge:2014-04-17;62 | 2 DDL — 
 urn:nir:stato:legge:2016-06-28;132 | 2 DDL — 
-urn:nir:stato:legge:2016-06-23;137 | 2 DDL — Ratifica Convenzione Italia-Santa Sede in materia fiscale
 urn:nir:stato:legge:2004-06-11;147 | 2 DDL — 
 urn:nir:stato:legge:2017-07-12;113 | 2 DDL — Elezione consiglieri ordini forensi
 urn:nir:stato:legge:2017-07-12;107 | 2 DDL — 
@@ -147,7 +146,6 @@ urn:nir:stato:legge:1940-05-09;370 | 1 DDL
 urn:nir:stato:legge:1998-03-06;40 | 1 DDL
 urn:nir:stato:legge:2001-03-29;86 | 1 DDL
 urn:nir:stato:legge:2005-12-28;262 | 1 DDL
-urn:nir:stato:legge:1998-04-24;127 | 1 DDL
 urn:nir:stato:legge:1940-04-18;288 | 1 DDL
 urn:nir:stato:legge:1940-10-02;1416 | 1 DDL
 urn:nir:stato:legge:2011-11-11;180 | 1 DDL
@@ -183,7 +181,12 @@ urn:nir:stato:legge:1999-08-02;264 | 1 DDL
 urn:nir:stato:legge:1971-12-17;1158 | 1 DDL
 urn:nir:stato:legge:2000-07-27;212 | 1 DDL
 urn:nir:stato:legge:1928-12-13;2886 | 1 DDL
-urn:nir:stato:legge:1942-03-24;369 | 1 DDL
 urn:nir:stato:legge:1947-11-13;1422 | 1 DDL
 urn:nir:stato:legge:1998-07-30;274 | 1 DDL
 urn:nir:stato:legge:1941-08-24;1050 | 1 DDL
+
+# Esclusi (2026-10-17): URN non validi o non presenti nell'API
+# 2016-06-23;137 -> data errata, L.137/2016 e' 2016-07-07;137 (gia' in normativa)
+# 1998-04-24;127 -> 404, riferimento nel titolo del D.Lgs non valido
+# 1942-03-24;369 -> 404, atto non presente nell'API Normattiva
+
