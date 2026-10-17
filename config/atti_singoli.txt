@@ -1,0 +1,25 @@
+# atti_singoli.txt — URN da fetchare singolarmente via dettaglio-atto-urn
+#
+# Leggi ordinarie non presenti in nessuna collezione ZIP della Normattiva.
+# Formato: urn | note
+#
+# Fetch: python -m lab_tools.fetch_urn_acts
+# Rate limit: ~2.5s tra richieste (IPZS)
+
+# === Leggi fondamentali non in collezioni ===
+urn:nir:stato:legge:1990-08-07;241  | Accesso agli atti amministrativi
+urn:nir:stato:legge:1978-05-22;194  | Interruzione volontaria gravidanza
+
+# === Top leggi ordinarie mancanti dal grafo (per # impugna Corte) ===
+urn:nir:stato:legge:2014-04-07;56   | Delocalizzazioni (1122 impugna)
+urn:nir:stato:legge:1991-10-05;317  | Formazione posto lavoro (999 impugna)
+urn:nir:stato:legge:1991-12-06;394  | Inquinamento atmosferico (699 impugna)
+urn:nir:stato:legge:2009-07-15;94   | Ordine pubblico (594 impugna)
+urn:nir:stato:legge:1975-07-26;354  | Ordinamento penitenziario (469 impugna)
+urn:nir:stato:legge:1988-08-23;400  | Procedimento bilancio (474 impugna)
+urn:nir:stato:legge:1994-02-11;109  | Lavori pubblici (476 impugna)
+urn:nir:stato:legge:2006-02-20;46   | Disposizioni varie (507 impugna)
+
+# === Altre leggi note non in collezioni ===
+urn:nir:stato:legge:2011-03-24;33   | Amministrazione trasparente (FOIA)
+urn:nir:stato:legge:2000-07-31;212  | Patto di stabilità (testo)

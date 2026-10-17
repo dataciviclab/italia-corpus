@@ -23,6 +23,7 @@ logger = logging.getLogger(__name__)
 BASE_URL = "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1"
 COLLECTIONS_URL = f"{BASE_URL}/collections/collection-predefinite"
 DOWNLOAD_URL = f"{BASE_URL}/collections/download/collection-preconfezionata"
+DETTAGLIO_URN_URL = f"{BASE_URL}/atto/dettaglio-atto-urn"
 
 # IPZS serve la catena TLS completa dal 2026-10-02 (verificato con verify=True).
 # Tracking: https://github.com/dataciviclab/italia-corpus/issues/46
@@ -37,6 +38,13 @@ HEADERS = {
     "Accept": "application/zip,application/octet-stream,*/*",
     "Accept-Language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7",
     "Referer": "https://www.normattiva.it/",
+}
+
+# Headers per gli endpoint JSON (dettaglio-atto-urn)
+HEADERS_JSON = {
+    **HEADERS,
+    "Content-Type": "application/json",
+    "Accept": "application/json",
 }
 
 DOWNLOAD_TIMEOUT = (30.0, 420.0)
@@ -159,3 +167,95 @@ def extract_zip(zip_path: Path, dest_dir: Path) -> list[Path]:
     xml_files = sorted(dest_dir.rglob("*.xml"))
     logger.info("Extracted %d XML files from %s", len(xml_files), zip_path.name)
     return xml_files
+
+
+def fetch_act_by_urn(
+    urn: str,
+    formato: str = "html",
+    vigenza: str | None = None,
+    timeout: tuple[float, float] = (10.0, 30.0),
+) -> dict | None:
+    """GET /atto/dettaglio-atto-urn — singolo atto per URN.
+
+    Endpoint article-level della Normattiva: restituisce metadati + HTML
+    con classi AKN, date di vigenza, e supporta il pinning di versioni
+    storiche.
+
+    Args:
+        urn: URN completo (es. "urn:nir:stato:legge:2012-12-24;190").
+            Non deve terminare con ";" o essere vuoto.
+        formato: "html" (default), "json", "xml". Solo "html" restituisce
+            articoloHtml con classi AKN.
+        vigenza: data "YYYY-MM-DD" per pinare una versione storica.
+            Esempio: vigenza="2015-01-01" → testo in vigore al 1/1/2015.
+            Se None, restituisce la versione corrente.
+
+    Returns:
+        dict con chiavi:
+          - titolo, sottoTitolo
+          - articoloHtml (HTML con classi AKN: article-num-akn, ins-akn, …)
+          - articoloDataInizioVigenza, articoloDataFineVigenza (YYYYMMDD;
+            fine=99999999 → ancora in vigore)
+          - tipoProvvedimentoCodice, tipoProvvedimentoDescrizione
+          - numeroProvvedimento, annoGU, numeroGU, …
+        None se non trovato o errore.
+
+    Note:
+        - Rate limiting: max ~1 richiesta/2s consigliato (IPZS).
+        - L'endpoint restituisce HTML, non AKN XML. Il parsing è diverso
+          da quello delle collezioni ZIP.
+        - Per le leggi ordinarie (non in nessuna collezione) è l'unico
+          modo di recupero.
+    """
+    if not urn or not urn.strip():
+        raise ValueError("urn non vuoto richiesto")
+
+    target_urn = urn.strip()
+    if vigenza:
+        target_urn = f"{target_urn}!vig={vigenza}"
+
+    payload = {"urn": target_urn, "formatoRichiesta": formato}
+
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            resp = requests.post(
+                DETTAGLIO_URN_URL,
+                json=payload,
+                headers=HEADERS_JSON,
+                timeout=timeout,
+                verify=VERIFY_TLS,
+            )
+
+            if resp.status_code == 404:
+                logger.warning("Act %s not found (HTTP 404)", urn)
+                return None
+
+            resp.raise_for_status()
+            data = resp.json()
+
+            # Envelope: {"code": ..., "message": ..., "data": {"atto": {...}}}
+            atto = (data.get("data") or {}).get("atto")
+            if not atto:
+                msg = data.get("message") or "no atto in response"
+                logger.warning("Act %s: %s", urn, msg)
+                return None
+
+            logger.info(
+                "Fetched act %s: %s (vigenza %s → %s)",
+                urn,
+                atto.get("titolo", "?")[:60],
+                atto.get("articoloDataInizioVigenza"),
+                atto.get("articoloDataFineVigenza"),
+            )
+            return atto
+
+        except requests.RequestException as e:
+            logger.warning(
+                "Fetch act %s attempt %d/%d failed: %s",
+                urn, attempt, MAX_RETRIES, e,
+            )
+            if attempt < MAX_RETRIES:
+                time.sleep(RETRY_BACKOFF * attempt)
+
+    logger.error("Failed to fetch act %s after %d attempts", urn, MAX_RETRIES)
+    return None

@@ -22,6 +22,9 @@ NORMATIVA_PARQUET = OUTDIR / "normativa.parquet"
 
 RE_LINK = re.compile(r'\.\./([^)]+?)\.md')
 
+# Max context length stored per side (chars). Total evidence ≤ 2 * _CTX_MAX + link text.
+_CTX_MAX = 120
+
 
 def _collezioni_legislative() -> list[Path]:
     """Legge da config/collezioni.txt: solo directory elencate ed esistenti."""
@@ -75,6 +78,34 @@ def estrai_link(body: str) -> list[str]:
     """Estrae i path dei link ../ da un body markdown, decodificati."""
     links = RE_LINK.findall(body)
     return [urllib.parse.unquote(link) + ".md" for link in links]
+
+
+def estrai_link_con_contesto(body: str) -> list[tuple[str, str]]:
+    """Estrae (path_decodificato, contesto) per ogni link ../ nel body.
+
+    Usa RE_LINK per i path (stessa semantica di findall, non-overlapping)
+    e poi localizza ogni occorrenza per catturare il contesto ±_CTX_MAX char.
+
+    Il contesto è lo snippet di testo attorno al link, usato come evidence
+    nei riferimenti del grafo.
+
+    Returns:
+        Lista di (path_decodificato, contesto) — una riga per occorrenza,
+        non deduplicata (il caller fa il counting per peso).
+    """
+    results: list[tuple[str, str]] = []
+    # Trova tutte le posizioni dei link con RE_LINK (non-overlapping, come findall)
+    for m in RE_LINK.finditer(body):
+        path_raw = m.group(1)
+        path_decoded = urllib.parse.unquote(path_raw) + ".md"
+        # Contesto: ±_CTX_MAX char attorno al match, con bound di sicurezza
+        start = max(0, m.start() - _CTX_MAX)
+        end = min(len(body), m.end() + _CTX_MAX)
+        raw_ctx = body[start:end]
+        # Normalizza whitespace
+        contesto = re.sub(r'\s+', ' ', raw_ctx).strip()
+        results.append((path_decoded, contesto))
+    return results
 
 
 def risolvi_path(link_decoded: str, current_relpath: Path) -> Path | None:
@@ -212,6 +243,8 @@ def _archi_da_akn_relations(
                 "risolto": True,
                 "origine": "akn",
                 "rel_type": "citation",
+                # AKN citations: evidence dal campo origin ('ref'), non da contesto testuale
+                "contesto": f"akn:{row.get('origin', 'ref')}",
             }
         )
     print(f"  AKN citations in corpus: {len(archi)} (skip esterne: {n_skip})")
@@ -240,14 +273,18 @@ def main():
             except Exception:
                 continue
 
-            links = estrai_link(raw)
-            if not links:
+            links_ctx = estrai_link_con_contesto(raw)
+            if not links_ctx:
                 continue
 
-            # Conta occorrenze per link unico
+            # Conta occorrenze per link unico + raccogli il contesto
+            # (primo contesto trovato per ogni link unico, come evidence)
             peso_counter: dict[str, int] = {}
-            for link in links:
-                peso_counter[link] = peso_counter.get(link, 0) + 1
+            contesto_first: dict[str, str] = {}
+            for link_decoded, contesto in links_ctx:
+                peso_counter[link_decoded] = peso_counter.get(link_decoded, 0) + 1
+                if link_decoded not in contesto_first and contesto:
+                    contesto_first[link_decoded] = contesto
 
             for link_decoded, peso in peso_counter.items():
                 resolved = risolvi_path(link_decoded, relpath)
@@ -285,6 +322,7 @@ def main():
                     "risolto": risolto,
                     "origine": "regex",
                     "rel_type": "citation",
+                    "contesto": contesto_first.get(link_decoded, ""),
                 }
                 archi.append(arco)
 
