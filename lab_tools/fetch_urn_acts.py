@@ -33,14 +33,14 @@ RATE_LIMIT_SECONDS = 2.5
 
 def load_urn_config(config_path: Path) -> list[dict]:
     """Carica URN da config/atti_singoli.txt.
-    
+
     Formato: urn | note
     Riga con # = commento.
     """
     if not config_path.exists():
         logger.warning("Config %s not found", config_path)
         return []
-    
+
     urns = []
     for line in config_path.read_text().splitlines():
         line = line.strip()
@@ -51,7 +51,7 @@ def load_urn_config(config_path: Path) -> list[dict]:
         note = parts[1].strip() if len(parts) > 1 else ""
         if urn.startswith("urn:"):
             urns.append({"urn": urn, "note": note})
-    
+
     logger.info("Loaded %d URNs from %s", len(urns), config_path)
     return urns
 
@@ -59,23 +59,23 @@ def load_urn_config(config_path: Path) -> list[dict]:
 def parse_atto(atto: dict, urn: str) -> dict:
     """Estrae metadati strutturati dalla response dettaglio-atto-urn."""
     html = atto.get("articoloHtml", "")
-    
+
     # Parse articles from HTML
     art_ids = re.findall(r'id="art_(\w+)"', html)
-    
+
     # Detect abrogation from tombstone
     abrogato = "ABROGATO" in html.upper() or "DECADUTO" in html.upper()
-    
+
     # Vigenza dates (YYYYMMDD format)
     vig_in = atto.get("articoloDataInizioVigenza", "")
     vig_out = atto.get("articoloDataFineVigenza", "")
-    
+
     # Normalize dates to YYYY-MM-DD
     def normalize_date(d: str) -> str:
         if not d or len(d) != 8 or not d.isdigit():
             return ""
         return f"{d[:4]}-{d[4:6]}-{d[6:8]}"
-    
+
     # Determine stato
     if vig_out and vig_out != "99999999":
         stato = "abrogato"
@@ -83,7 +83,7 @@ def parse_atto(atto: dict, urn: str) -> dict:
         stato = "abrogato"
     else:
         stato = "vigente"
-    
+
     return {
         "urn": urn,
         "titolo": atto.get("titolo", ""),
@@ -117,16 +117,16 @@ def fetch_and_store(urns: list[dict], output_path: Path) -> int:
     except ImportError:
         logger.error("pandas required for parquet output")
         return 0
-    
+
     rows = []
     n_found = 0
     n_total = len(urns)
-    
+
     for i, item in enumerate(urns, 1):
         urn = item["urn"]
         note = item.get("note", "")
         logger.info("[%d/%d] Fetching %s (%s)", i, n_total, urn, note)
-        
+
         atto = fetch_act_by_urn(urn)
         if atto:
             row = parse_atto(atto, urn)
@@ -143,11 +143,11 @@ def fetch_and_store(urns: list[dict], output_path: Path) -> int:
             )
         else:
             logger.warning("  ❌ Not found: %s", urn)
-        
+
         # Rate limit (skip after last)
         if i < n_total:
             time.sleep(RATE_LIMIT_SECONDS)
-    
+
     # Save parquet
     if rows:
         df = pd.DataFrame(rows)
@@ -156,7 +156,7 @@ def fetch_and_store(urns: list[dict], output_path: Path) -> int:
         logger.info("Saved %d acts to %s", len(df), output_path)
     else:
         logger.warning("No acts fetched — parquet not written")
-    
+
     return n_found
 
 
@@ -169,22 +169,22 @@ def main():
                        help="Output parquet path")
     parser.add_argument("--verbose", "-v", action="store_true")
     args = parser.parse_args()
-    
+
     logging.basicConfig(
         level=logging.DEBUG if args.verbose else logging.INFO,
         format="%(asctime)s %(levelname)s %(message)s",
     )
-    
+
     if args.urn:
         # Single URN mode
         urns = [{"urn": args.urn, "note": "cli"}]
     else:
         urns = load_urn_config(args.config)
-    
+
     if not urns:
         logger.error("No URNs to fetch")
         return
-    
+
     n_found = fetch_and_store(urns, args.output)
     logger.info("Done: %d/%d acts fetched", n_found, len(urns))
 
