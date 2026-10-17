@@ -36,12 +36,16 @@ jobs:
           cache: 'pip'
       - run: pip install -e ".[dev,pipeline]"
       # Cache: manifest fetch + atti_api (persistono tra i run CI)
+      # Key giornaliera: una cache al giorno, riutilizzata nei re-run
+      - name: Generate cache key
+        id: cache-key
+        run: echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
       - uses: actions/cache@v4
         with:
           path: |
             data/derived/_fetch_manifest.json
             data/derived/atti_api.parquet
-          key: fetch-cache-${{ github.run_id }}
+          key: fetch-cache-${{ steps.cache-key.outputs.date }}
           restore-keys: |
             fetch-cache-
       - name: Lint (ruff)

@@ -155,7 +155,6 @@ def fetch_and_store(urns: list[dict], output_path: Path) -> int:
     rows = []
     n_found = 0
     n_cached = 0
-    len(urns)
     to_fetch = []
 
     # First pass: check cache
