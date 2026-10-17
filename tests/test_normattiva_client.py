@@ -153,8 +153,9 @@ class TestDownloadCollection:
         assert result is not None
         assert result.exists()
 
+    @patch("lab_tools.normattiva_client.time.sleep")
     @patch("lab_tools.normattiva_client.requests.get")
-    def test_returns_none_on_http_error(self, mock_get, tmp_path):
+    def test_returns_none_on_http_error(self, mock_get, mock_sleep, tmp_path):
         resp = MagicMock(status_code=500)
         resp.__enter__ = MagicMock(return_value=resp)
         resp.__exit__ = MagicMock(return_value=False)
@@ -164,3 +165,4 @@ class TestDownloadCollection:
         collection = {"nomeCollezione": "Fail", "formatoCollezione": "V"}
         result = download_collection(collection, tmp_path)
         assert result is None
+        mock_sleep.assert_called()  # retry logic ran, but slept mocked
