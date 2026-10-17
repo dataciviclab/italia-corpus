@@ -45,6 +45,7 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 | 7 | **arricchisci** | `python -m lab_tools.arricchisci_normativa` | + `n_citazioni`, `orfano`, `qualita_score` |
 | 8 | **integra-akn** | `python -m lab_tools.integra_akn_meta` | + `ingresso_in_vigore`, `akn_*` |
 | 9 | **sunsetting** | `python -m lab_tools.monitor_sunsetting` | + `sunsetting_score`, `eta_anni`, … |
+| 10 | **atti API** | `python -m lab_tools.fetch_urn_acts` | `atti_api.parquet` (leggi fuori collezione; input legal-graph) |
 
 **Makefile**
 - `make pipeline` = stage 2–9 (senza fetch)
@@ -65,6 +66,7 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 |---|---|---|
 | `collezioni/**/*.md` | testo + frontmatter URN | MCP, agenti, ricerca |
 | `normativa.parquet` | atto: metadati + qualità + materia/sunsetting + EIV/AKN | legal-graph, MCP, analisi |
+| `atti_api.parquet` | leggi ordinarie fuori collezione (fetch `dettaglio-atto-urn`: vigenza + HTML) | legal-graph (nodi + target euristiche `attua_delega`) |
 | `riferimenti.parquet` | archi `peso`, `risolto`, `origine` (regex\|akn) | legal-graph, debt |
 | `akn_relations.parquet` | relazioni AKN tipizzate (full-corpus su fetch completo) | clean/tabella propria, debug |
 | `akn_act_meta.parquet` | EIV, mod counts, ELI per atto (join `urn` 100% su fetch completo) | vigenza, quality |
