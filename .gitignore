@@ -16,3 +16,6 @@ data/derived/_akn_stage/
 
 # Toolkit runtime (clean/mart/runs) — pubblicati su GCS, non in git
 out/
+
+# Manifest fetch Normattiva (runtime, non committato)
+data/derived/_fetch_manifest.json

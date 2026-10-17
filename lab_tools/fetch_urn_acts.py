@@ -17,6 +17,7 @@ import argparse
 import logging
 import re
 import time
+from datetime import datetime, timedelta
 from pathlib import Path
 
 from lab_tools._paths import OUTDIR
@@ -29,6 +30,10 @@ OUTPUT_PARQUET = OUTDIR / "atti_api.parquet"
 
 # Rate limiting: IPZS richiede accesso educato
 RATE_LIMIT_SECONDS = 2.5
+
+# TTL: re-fetch un atto solo se l'ultimo fetch è più vecchio di questi giorni.
+# Le leggi ordinarie storiche cambiano raramente; 30 giorni è un buon compromesso.
+TTL_DAYS = 30
 
 
 def load_urn_config(config_path: Path) -> list[dict]:
@@ -107,30 +112,79 @@ def parse_atto(atto: dict, urn: str) -> dict:
         # Provenance
         "source": "normattiva_api",
         "endpoint": "dettaglio-atto-urn",
+        "fetched_at": datetime.now().isoformat(),
     }
 
 
 def fetch_and_store(urns: list[dict], output_path: Path) -> int:
-    """Fetch ogni URN e salva risultati in parquet."""
+    """Fetch ogni URN e salva risultati in parquet.
+
+    TTL cache: se output_path esiste e un atto è stato fetchato
+    meno di TTL_DAYS giorni fa, viene riutilizzato senza re-fetch.
+    """
     try:
         import pandas as pd
     except ImportError:
         logger.error("pandas required for parquet output")
         return 0
 
+    # Load existing data for TTL cache
+    existing: dict[str, dict] = {}
+    if output_path.exists():
+        try:
+            old_df = pd.read_parquet(output_path)
+            if "fetched_at" in old_df.columns and len(old_df) > 0:
+                cutoff = datetime.now() - timedelta(days=TTL_DAYS)
+                for _, row in old_df.iterrows():
+                    urn = row.get("urn", "")
+                    fetched_at = row.get("fetched_at")
+                    if urn and fetched_at:
+                        try:
+                            fa = datetime.fromisoformat(str(fetched_at))
+                            if fa > cutoff:
+                                existing[urn] = row.to_dict()
+                        except (ValueError, TypeError):
+                            pass
+                logger.info(
+                    "TTL cache: %d atti freschi (fetchati entro %d giorni)",
+                    len(existing), TTL_DAYS,
+                )
+        except Exception as e:
+            logger.warning("Cannot load existing parquet for TTL cache: %s", e)
+
     rows = []
     n_found = 0
-    n_total = len(urns)
+    n_cached = 0
+    len(urns)
+    to_fetch = []
 
-    for i, item in enumerate(urns, 1):
+    # First pass: check cache
+    for item in urns:
+        urn = item["urn"]
+        if urn in existing:
+            row = dict(existing[urn])
+            row["note_config"] = item.get("note", "")
+            rows.append(row)
+            n_cached += 1
+        else:
+            to_fetch.append(item)
+
+    logger.info(
+        "Fetch: %d da cache, %d da fetchare (TTL=%d giorni)",
+        n_cached, len(to_fetch), TTL_DAYS,
+    )
+
+    # Second pass: fetch missing/stale
+    for i, item in enumerate(to_fetch, 1):
         urn = item["urn"]
         note = item.get("note", "")
-        logger.info("[%d/%d] Fetching %s (%s)", i, n_total, urn, note)
+        logger.info("[%d/%d] Fetching %s (%s)", i, len(to_fetch), urn, note)
 
         atto = fetch_act_by_urn(urn)
         if atto:
             row = parse_atto(atto, urn)
             row["note_config"] = note
+            row["fetched_at"] = datetime.now().isoformat()
             rows.append(row)
             n_found += 1
             logger.info(
@@ -145,15 +199,21 @@ def fetch_and_store(urns: list[dict], output_path: Path) -> int:
             logger.warning("  ❌ Not found: %s", urn)
 
         # Rate limit (skip after last)
-        if i < n_total:
+        if i < len(to_fetch):
             time.sleep(RATE_LIMIT_SECONDS)
 
     # Save parquet
     if rows:
         df = pd.DataFrame(rows)
+        # Ensure fetched_at column exists for all rows
+        if "fetched_at" not in df.columns:
+            df["fetched_at"] = datetime.now().isoformat()
         output_path.parent.mkdir(parents=True, exist_ok=True)
         df.to_parquet(output_path, index=False)
-        logger.info("Saved %d acts to %s", len(df), output_path)
+        logger.info(
+            "Saved %d acts to %s (cached=%d, fetched=%d)",
+            len(df), output_path, n_cached, n_found,
+        )
     else:
         logger.warning("No acts fetched — parquet not written")
 

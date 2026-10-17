@@ -1,16 +1,21 @@
 """Fetch giornaliero da Normattiva — download AKN XML -> conversione -> salva .md.
 
 Uso: python -m lab_tools.fetch_normattiva [--only COLLEZIONE1,COLLEZIONE2]
+
+Ottimizzazione: manifest per collezione — se dataCreazione invariato,
+salta download+convert (risparmia ~11 min su giorni senza cambi).
 """
 
 from __future__ import annotations
 
 import argparse
+import json
 import logging
 import random
 import shutil
 import tempfile
 import time
+from datetime import datetime
 from pathlib import Path
 
 from lab_tools._paths import (
@@ -36,6 +41,38 @@ from lab_tools.normattiva_client import (
 )
 
 logger = logging.getLogger(__name__)
+
+MANIFEST_PATH = OUTDIR / "_fetch_manifest.json"
+
+
+def _load_manifest() -> dict:
+    """Carica il manifest delle collezioni fetchate."""
+    if MANIFEST_PATH.exists():
+        try:
+            return json.loads(MANIFEST_PATH.read_text())
+        except (json.JSONDecodeError, OSError):
+            pass
+    return {}
+
+
+def _save_manifest(manifest: dict) -> None:
+    """Salva il manifest delle collezioni fetchate."""
+    MANIFEST_PATH.parent.mkdir(parents=True, exist_ok=True)
+    MANIFEST_PATH.write_text(json.dumps(manifest, indent=2, sort_keys=True))
+
+
+def _collection_unchanged(collection: dict, manifest: dict) -> bool:
+    """Verifica se una collezione è invariata dall'ultimo fetch.
+
+    Usa dataCreazione dalla API come fingerprint: se la data non cambia,
+    il contenuto della collezione non è cambiato.
+    """
+    nome = collection.get("nomeCollezione", "")
+    data_creazione = collection.get("dataCreazione", "")
+    if not nome or not data_creazione:
+        return False
+    entry = manifest.get(nome, {})
+    return entry.get("dataCreazione") == data_creazione
 
 
 def _load_collezioni() -> list[str]:
@@ -236,6 +273,8 @@ def main() -> None:
     # 4. Process each collection
     total = 0
     failed: list[str] = []
+    manifest = _load_manifest()
+    n_skipped = 0
     with tempfile.TemporaryDirectory(prefix="normattiva-") as tmp:
         work_dir = Path(tmp)
         for i, collection in enumerate(collections):
@@ -255,14 +294,33 @@ def main() -> None:
                     failed.append(nome)
                 continue
 
+            # Manifest check: salta se la collezione non è cambiata
+            if _collection_unchanged(collection, manifest):
+                n_skipped += 1
+                logger.info("  ⏭️  Invariata (dataCreazione=%s) — skip",
+                           collection.get("dataCreazione", "?"))
+                continue
+
             count = process_collection(collection, work_dir, COLLEZIONI_ROOT, urn_index, stage_dir=stage_dir)
             total += count
             if count == 0:
                 failed.append(nome)
+            else:
+                # Aggiorna manifest per collezione processata con successo
+                manifest[nome] = {
+                    "dataCreazione": collection.get("dataCreazione", ""),
+                    "last_fetch": datetime.now().isoformat(),
+                }
 
             # Random sleep between collections (avoid rate limiting)
             if i < len(collections) - 1:
                 time.sleep(random.uniform(1.0, 3.0))
+
+        if n_skipped > 0:
+            logger.info("Manifest: %d collezioni skip, %d processate", n_skipped, len(collections) - n_skipped)
+
+        # Salva manifest sempre (aggiorna anche dopo primo run)
+        _save_manifest(manifest)
 
         # 4b. Seconda passata sulle collection fallite (API flaky)
         if failed:
