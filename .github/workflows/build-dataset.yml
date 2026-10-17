@@ -35,6 +35,15 @@ jobs:
           python-version: '3.12'
           cache: 'pip'
       - run: pip install -e ".[dev,pipeline]"
+      # Cache: manifest fetch + atti_api (persistono tra i run CI)
+      - uses: actions/cache@v4
+        with:
+          path: |
+            data/derived/_fetch_manifest.json
+            data/derived/atti_api.parquet
+          key: fetch-cache-${{ github.run_id }}
+          restore-keys: |
+            fetch-cache-
       - name: Lint (ruff)
         run: python -m ruff check lab_tools/ tests/
       - run: python -m pytest tests/ -v
