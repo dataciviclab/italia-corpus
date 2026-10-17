@@ -61,6 +61,11 @@ jobs:
         run: python -m lab_tools.integra_akn_meta
       - name: Monitor sunsetting
         run: python -m lab_tools.monitor_sunsetting
+      - name: Fetch atti API (leggi ordinarie)
+        run: python -m lab_tools.fetch_urn_acts
+        # Rate limit: ~2.5s/atto × ~12 atti = ~30s. Se atti_api.parquet
+        # è recente (<7gg), lo salta per ridurre chiamate all'API.
+        # Fetch on-demand: python -m lab_tools.fetch_urn_acts --urn "urn:..."
       - name: Contract check (colonne main ⊂ build)
         run: |
           python - <<'PY'
