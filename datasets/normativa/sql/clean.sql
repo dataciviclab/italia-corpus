@@ -4,6 +4,7 @@
 --   - PK = filename (basename univoco del file corpus)
 --   - urn può ripetersi: non è PK; per analisi si usa come atto_id secondario
 --   - stato = tombstone Normattiva (NON vigenza live) — colonna rinominata solo in doc
+--   - vigenza_fonte = origine di stato (vigenza_snapshot|akn|regex|unknown); regex = candidato, stato invariato (issue #67)
 --   - materia / qualita_score / sunsetting_score: contratto consumer (LG + MCP)
 --   - vigente: derivato da stato; tenuto per compat MCP
 --   - akn_*: presenti sul corpus pieno; EIV in ingresso_in_vigore
@@ -25,6 +26,7 @@ SELECT
     NULLIF(normalize_string(codice_redazionale), '')             AS codice_redazionale,
     normalize_string(stato)                                      AS stato,
     CAST(vigente AS BOOLEAN)                                     AS vigente,
+    NULLIF(normalize_string(vigenza_fonte), '')                  AS vigenza_fonte,
     TRY_CAST(lunghezza_caratteri AS BIGINT)                      AS lunghezza_caratteri,
     TRY_CAST(lunghezza_parole AS BIGINT)                         AS lunghezza_parole,
     TRY_CAST(riferimenti_interni AS BIGINT)                      AS riferimenti_interni,
