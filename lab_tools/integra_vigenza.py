@@ -120,7 +120,10 @@ def apply_vigenza(df, akn_targets: set[str]):
     fonte[akn_mask] = FONTE_AKN
 
     # 3. candidato regex: nessun override di stato, solo etichetta.
-    regex_mask = (n_abro > 0) & ~dec & ~akn_mask
+    #    Escluso dove esiste una fonte autorevole (tombstone/akn/decaduto):
+    #    un atto abrogato da tombstone non-AKN con n_abro>0 deve restare
+    #    vigenza_snapshot, non degradare a regex.
+    regex_mask = (n_abro > 0) & ~tomb & ~akn_mask & ~dec
     fonte[regex_mask] = FONTE_REGEX
 
     # 4. residui: VIGENZA = snapshot consolidato; ORIGINALE = unknown.

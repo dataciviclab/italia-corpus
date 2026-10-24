@@ -70,6 +70,28 @@ def test_regex_solo_candidato():
     assert _row(out)["vigenza_fonte"] == FONTE_REGEX
 
 
+def test_regex_non_sovrascrive_tombstone():
+    """Abrogato da tombstone (non-AKN) con n_abro>0 → vigenza_snapshot, non regex."""
+    out = apply_vigenza(
+        _df(filename=["2000-01-01_000G0001_VIGENZA_2025-06-12_V0.md"],
+            stato=["abrogato"], n_abrogazioni=[5]),
+        set(),
+    )
+    assert _row(out)["stato"] == "abrogato"
+    assert _row(out)["vigenza_fonte"] == FONTE_VIGENZA_SNAPSHOT
+
+
+def test_regex_non_sovrascrive_decaduto_akn():
+    """Decaduto + target AKN con n_abro>0 → vigenza_snapshot (decaduto prevale)."""
+    out = apply_vigenza(
+        _df(filename=["2000-01-01_000G0001_VIGENZA_2025-06-12_V0.md"],
+            urn=[AKN_TARGET], stato=["decaduto"], n_abrogazioni=[2]),
+        {AKN_TARGET},
+    )
+    assert _row(out)["stato"] == "decaduto"
+    assert _row(out)["vigenza_fonte"] == FONTE_VIGENZA_SNAPSHOT
+
+
 def test_vigenza_snapshot_senza_segnale():
     """Snapshot VIGENZA senza segnale → vigenza_snapshot (confermato)."""
     out = apply_vigenza(
