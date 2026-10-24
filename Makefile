@@ -1,14 +1,16 @@
-.PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-akn sunsetting citazioni pnrr abrogations akn-relations \
+.PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-vigenza integra-akn sunsetting citazioni pnrr abrogations akn-relations \
  toolkit-check toolkit-run toolkit-all check
 
 # Pipeline completa (senza fetch — fetch è CI/manuale)
 # Ordine onesto, coerente con build-dataset.yml:
 #   classifica → side product → integra (legge da disco) → grafo → …
-pipeline: extract classifica citazioni pnrr abrogations integra grafo arricchisci integra-akn sunsetting
+pipeline: extract classifica citazioni pnrr abrogations integra integra-vigenza grafo arricchisci integra-akn sunsetting
 
 # Minimo per MCP / legal-graph: materia + grafo denorm + qualità + AKN + sunsetting.
 # SENZA classifica perde materia e denorm grafo — non usarlo come contratto LG.
-pipeline-core: extract classifica grafo arricchisci integra-akn sunsetting
+# Nota: senza `integra` (side product) manca abrogato_da → integra-vigenza
+# applica solo gli override AKN (niente candidati regex).
+pipeline-core: extract classifica integra-vigenza grafo arricchisci integra-akn sunsetting
 
 TOOLKIT ?= python3 -m toolkit.cli.app
 TOOLKIT_CONFIGS := $(wildcard datasets/*/dataset.yml)
@@ -48,6 +50,9 @@ classifica:
 
 integra:
 	python -m lab_tools.integra_costituzionali
+
+integra-vigenza:
+	python -m lab_tools.integra_vigenza
 
 citazioni:
 	python -m lab_tools.estrai_citazioni_costituzionali

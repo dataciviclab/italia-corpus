@@ -41,6 +41,7 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 | 3 | **classifica** | `python -m lab_tools.classifica_tematich` | + `materia` |
 | 4 | **citazioni/pnrr/abrogations** | moduli `estrai_*` / `extract_*` | side product su disco |
 | 5 | **integra** | `python -m lab_tools.integra_costituzionali` | + cit. cost. / abrogazioni **da side product** |
+| 5b | **integra-vigenza** | `python -m lab_tools.integra_vigenza` | `stato` corretto (override AKN) + `vigenza_fonte` |
 | 6 | **grafo** | `python -m lab_tools.grafo_riferimenti` | `riferimenti` (regex∪AKN, denorm materia) |
 | 7 | **arricchisci** | `python -m lab_tools.arricchisci_normativa` | + `n_citazioni`, `orfano`, `qualita_score` |
 | 8 | **integra-akn** | `python -m lab_tools.integra_akn_meta` | + `ingresso_in_vigore`, `akn_*` |
@@ -49,12 +50,27 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 
 **Makefile**
 - `make pipeline` = stage 2–9 (senza fetch)
-- `make pipeline-core` = 2,3,6,7,8,9 — minimo **MCP/legal-graph** (inclusa `classifica`)
+- `make pipeline-core` = 2,3,5b,6,7,8,9 — minimo **MCP/legal-graph** (inclusa `classifica`)
+  - senza `integra` (5) manca `abrogato_da` → `integra-vigenza` applica solo gli override AKN
 
 **CI**: stessa sequenza + fetch + lint + contract check (main ⊂ derived)
 
+**`stato` / `vigenza_fonte` (issue #67)**
+
+`stato` nasce dal tombstone nel markdown e funziona solo sugli snapshot VIGENZA
+(consolidati): gli ORIGINALE non hanno tombstone e restano "vigente" per default.
+`integra-vigenza` (stage 5b) applica la precedenza:
+1. tombstone `decaduto`/`abrogato` → invariato (`vigenza_fonte=tombstone`);
+2. edge AKN `repeal`/`substitution` sul target → `abrogato` (`vigenza_fonte=akn`);
+3. altrimenti: VIGENZA → `tombstone`, ORIGINALE → `unknown` (stato **non verificato**).
+
+Il segnale regex `abrogato_da` è **solo candidato** (`vigenza_fonte=regex`, `stato`
+invariato): la validazione mostra bassa precisione (abrogazioni article-level,
+mismatch di tipo). Non modificare `stato` da regex.
+
 > `classifica` **prima** di `grafo`: altrimenti `fonte_materia`/`bersaglio_materia` restano vuote.  
 > Side product **prima** di `integra`: `integra_costituzionali` legge `citazioni-costituzionali.parquet` e `abrogations_raw.parquet` da `data/derived/`.  
+> `integra-vigenza` **dopo** `integra` (usa `abrogato_da`) e **prima** di `grafo`/`arricchisci` (così `fonte_stato` negli edge e `qualita_score` usano lo stato corretto).  
 > Su CI il checkout di `data/derived/` può ancora fornire side product del giorno prima se lo step è saltato — meglio rigenerarli nello stesso run.  
 > `integra-akn` **dopo** `arricchisci`. `sunsetting` **per ultimo**.
 
@@ -65,7 +81,7 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 | Artifact | Contenuto | Consumatori tipici |
 |---|---|---|
 | `collezioni/**/*.md` | testo + frontmatter URN | MCP, agenti, ricerca |
-| `normativa.parquet` | atto: metadati + qualità + materia/sunsetting + EIV/AKN | legal-graph, MCP, analisi |
+| `normativa.parquet` | atto: metadati + qualità + materia/sunsetting + EIV/AKN + `stato`/`vigenza_fonte` | legal-graph, MCP, analisi |
 | `atti_api.parquet` | leggi ordinarie fuori collezione (fetch `dettaglio-atto-urn`: vigenza + HTML) | legal-graph (nodi + target euristiche `attua_delega`) |
 | `riferimenti.parquet` | archi `peso`, `risolto`, `origine` (regex\|akn) | legal-graph, debt |
 | `akn_relations.parquet` | relazioni AKN tipizzate (full-corpus su fetch completo) | clean/tabella propria, debug |

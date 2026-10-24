@@ -24,6 +24,7 @@ pipeline:
     - pnrr             # side product
     - abrogations      # side product (regex fallback)
     - integra          # + cit. cost./abrogazioni (legge side product)
+    - integra-vigenza  # + stato (override AKN) + vigenza_fonte (PRIMA di grafo)
     - grafo            # riferimenti regex∪AKN, denorm materia
     - arricchisci      # qualità grafo
     - integra-akn      # + EIV, akn_*
@@ -31,7 +32,10 @@ pipeline:
 outputs:
   - path: data/derived/normativa.parquet
     kind: table
-    contract: atto + qualità + materia/sunsetting + EIV/AKN (superset main CI)
+    contract: >
+      atto + qualità + materia/sunsetting + EIV/AKN + stato/vigenza_fonte
+      (superset main CI). vigenza_fonte = tombstone|akn|regex|unknown:
+      regex è solo candidato, stato non modificato (issue #67).
   - path: data/derived/riferimenti.parquet
     kind: graph_edges
     contract: >

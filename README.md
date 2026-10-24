@@ -85,10 +85,11 @@ Pipeline canonica (stage lineari, output dichiarati): **[docs/PIPELINE.md](docs/
 | integra-akn | **Join AKN meta** | `ingresso_in_vigore`, `akn_*` (se presenti) |
 | classifica | **Classifica tematico** | `materia` (downstream) |
 | integra | **Costituzionali** | cit. cost. / abrogazioni (downstream) |
+| integra-vigenza | **Vigenza** | `stato` (override AKN) + `vigenza_fonte` |
 
 ### CI / Manutenzione
 
-- **Build** (06:30): fetch → extract → classifica → integra → side product → grafo → arricchisci → **integra-akn** → sunsetting
+- **Build** (06:30): fetch → extract → classifica → integra → side product → **integra-vigenza** → grafo → arricchisci → **integra-akn** → sunsetting
 - **Locale**: `make pipeline` (stesso ordine, senza fetch)
 - **Test**: `pytest tests/ -v` su ogni push/PR
 - **Ruolo Lab**: IC produce MD+parquet; **legal-graph** li aggrega — non duplicare grafi qui
@@ -98,7 +99,7 @@ Pipeline canonica (stage lineari, output dichiarati): **[docs/PIPELINE.md](docs/
 
 Base atto: `collezione`, `filename`, `tipo`, `data`, `numero`, `oggetto`, `celex`,
 `anno_atto`, `anno_dir`, `ritardo`, `urn`, `codice_redazionale`,
-`stato`, `vigente`, `lunghezza_caratteri`, `lunghezza_parole`,
+`stato`, `vigente`, `vigenza_fonte`, `lunghezza_caratteri`, `lunghezza_parole`,
 `riferimenti_interni`, `duplicato`, `n_citazioni`, `orfano`, `qualita_score`
 
 Downstream: `materia`, `n_articoli_cost`, `articoli_cost`, `abrogato_da`, `n_abrogazioni`, …
@@ -111,8 +112,9 @@ Colonne di qualità:
 
 | Colonna | Tipo | Significato |
 |---|---|---|
-| `stato` | string | `vigente` \| `abrogato` \| `decaduto` — dai marker Normattiva nel body. ⚠️ Rilevato solo per atti con snapshot VIGENZA; gli atti solo ORIGINALE risultano `vigente` per costruzione |
+| `stato` | string | `vigente` \| `abrogato` \| `decaduto` — tombstone Normattiva nel body, con override AKN (repeal/substitution). ⚠️ Affidabile quando `vigenza_fonte` ≠ `unknown`: gli atti solo ORIGINALE senza segnale restano `vigente` per costruzione |
 | `vigente` | bool | `stato == 'vigente'` (il frontmatter MD di Normattiva è inaffidabile) |
+| `vigenza_fonte` | string | Origine di `stato`: `tombstone` (VIGENZA) \| `akn` (override repeal/substitution) \| `regex` (candidato, `stato` invariato) \| `unknown` (ORIGINALE, non verificato) |
 | `duplicato` | bool | Stesso atto (data+numero) presente più volte nel corpus |
 | `n_citazioni` | int | Citazioni in ingresso dal grafo riferimenti |
 | `orfano` | bool | Nessuna citazione in uscita né in ingresso |

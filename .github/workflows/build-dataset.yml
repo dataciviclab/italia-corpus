@@ -57,6 +57,7 @@ jobs:
         run: python -m lab_tools.extract
       # Ordine onesto (docs/PIPELINE.md):
       # classifica prima di grafo; side product PRIMA di integra;
+      # integra-vigenza dopo integra (usa abrogato_da) e prima di grafo;
       # integra-akn dopo arricchisci; sunsetting per ultimo.
       - name: Classifica tematico
         run: python -m lab_tools.classifica_tematich
@@ -68,6 +69,8 @@ jobs:
         run: python -m lab_tools.extract_abrogations
       - name: Integra costituzionali e abrogazioni
         run: python -m lab_tools.integra_costituzionali
+      - name: Integra vigenza (stato + vigenza_fonte)
+        run: python -m lab_tools.integra_vigenza
       - name: Grafo riferimenti (regex ∪ AKN)
         run: python -m lab_tools.grafo_riferimenti
       - name: Arricchisci normativa (qualità)
