@@ -6,10 +6,10 @@ Il campo `stato` nasce dal tombstone nel markdown (`PROVVEDIMENTO ABROGATO` /
 marcati "vigente" anche se l'atto è abrogato (issue #67, D.Lgs 50/2016).
 
 Precedenza applicata a `stato` (solo fonti autorevoli):
-  1. tombstone "decaduto" o "abrogato"           -> invariato (fonte=tombstone)
+  1. tombstone "decaduto" o "abrogato"           -> invariato (fonte=vigenza_snapshot)
   2. edge AKN repeal/substitution (target)       -> abrogato   (fonte=akn)
   3. nessuna fonte autorevole:
-       - snapshot VIGENZA                        -> stato tombstone (tombstone)
+       - snapshot VIGENZA                        -> stato tombstone (vigenza_snapshot)
        - snapshot ORIGINALE                      -> stato tombstone (unknown)
 
 Il segnale regex `abrogato_da` (n_abrogazioni > 0) è **solo candidato**: la
@@ -19,11 +19,16 @@ mismatch di tipo atto, citazioni) e NON modifica `stato`. Viene esposto via
 
 `vigenza_fonte` (colonna additiva, backward-compatible) dichiara l'origine
 dello stato:
-  - `tombstone` : tombstone su snapshot VIGENZA (affidabile)
-  - `akn`       : override da edge AKN repeal/substitution (autorevole)
-  - `unknown`   : snapshot ORIGINALE senza segnale autorevole (stato di default,
-                  NON verificato)
-  - `regex`     : candidato regex presente, `stato` NON modificato
+  - `vigenza_snapshot` : da snapshot VIGENZA (testo consolidato) — sia tombstone
+                         esplicito sia assenza di tombstone ("confermato vigente")
+  - `akn`              : override da edge AKN repeal/substitution (autorevole)
+  - `unknown`          : snapshot ORIGINALE senza segnale autorevole (stato di
+                         default, NON verificato)
+  - `regex`            : candidato regex presente, `stato` NON modificato
+
+`apply_vigenza` è idempotente: gli URN target AKN sono esclusi dal ramo
+tombstone, così rieseguirla sullo stesso parquet non degrada la provenienza
+(akn -> vigenza_snapshot).
 
 Dipendenze:
 - `akn_relations.parquet` (prodotto dal fetch) per gli edge repeal/substitution.
@@ -47,8 +52,9 @@ AKN_RELATIONS = OUTDIR / "akn_relations.parquet"
 
 # Relazioni AKN che abrogano/sostituiscono il target (act-level).
 AKN_ABROGA_TYPES = ("repeal", "substitution")
+_AKN_REQUIRED_COLS = frozenset({"rel_type", "target_urn"})
 
-FONTE_TOMBSTONE = "tombstone"
+FONTE_VIGENZA_SNAPSHOT = "vigenza_snapshot"
 FONTE_AKN = "akn"
 FONTE_REGEX = "regex"
 FONTE_UNKNOWN = "unknown"
@@ -57,12 +63,22 @@ _RE_VIGENZA = r"_VIGENZA_"
 
 
 def akn_abrogation_targets(path: Path) -> set[str]:
-    """URN degli atti target di edge AKN repeal/substitution."""
+    """URN degli atti target di edge AKN repeal/substitution.
+
+    Solleva SystemExit con messaggio chiaro se il parquet non ha lo schema
+    atteso (rel_type, target_urn) — evita KeyError oscuri a valle.
+    """
     import pandas as pd
 
     if not path.exists():
         return set()
-    rel = pd.read_parquet(path, columns=["rel_type", "target_urn"])
+    rel = pd.read_parquet(path)
+    missing = _AKN_REQUIRED_COLS - set(rel.columns)
+    if missing:
+        raise SystemExit(
+            f"{path.name}: colonne mancanti {sorted(missing)} "
+            f"(attese {sorted(_AKN_REQUIRED_COLS)}). Schema akn_relations cambiato?"
+        )
     sel = rel[rel["rel_type"].isin(AKN_ABROGA_TYPES)]
     return set(sel["target_urn"].dropna().astype(str))
 
@@ -71,7 +87,8 @@ def apply_vigenza(df, akn_targets: set[str]):
     """Applica la precedenza delle fonti. Pura: non tocca il disco.
 
     Ritorna una copia di `df` con `stato`, `vigente` e `vigenza_fonte`
-    aggiornati. Vedi docstring del modulo per la precedenza.
+    aggiornati. Idempotente: rieseguirla non degrada `vigenza_fonte`.
+    Vedi docstring del modulo per la precedenza.
     """
     import pandas as pd
 
@@ -83,28 +100,32 @@ def apply_vigenza(df, akn_targets: set[str]):
     else:
         n_abro = pd.Series(0, index=df.index)
     is_vig_snapshot = df["filename"].astype(str).str.contains(_RE_VIGENZA)
+    akn_target = urn.isin(akn_targets)
 
     new_stato = stato.copy()
     fonte = pd.Series(FONTE_UNKNOWN, index=df.index, dtype=object)
 
-    # 1. tombstone autorevole: decaduto o già abrogato.
     dec = stato == "decaduto"
     gia_abrogato = stato == "abrogato"
-    tomb = dec | gia_abrogato
-    fonte[tomb] = FONTE_TOMBSTONE
 
-    # 2. AKN repeal/substitution: override autorevole a "abrogato".
-    akn_mask = urn.isin(akn_targets) & ~tomb
+    # 1. provenienza vigenza_snapshot: decaduto, o abrogato non-AKN (tombstone
+    #    originale). Gli URN target AKN sono esclusi: il loro `abrogato` può
+    #    venire da un override precedente, non dal tombstone (idempotenza).
+    tomb = (dec | gia_abrogato) & ~akn_target
+    fonte[tomb] = FONTE_VIGENZA_SNAPSHOT
+
+    # 2. override AKN (decaduto resta decaduto).
+    akn_mask = akn_target & ~dec
     new_stato[akn_mask] = "abrogato"
     fonte[akn_mask] = FONTE_AKN
 
     # 3. candidato regex: nessun override di stato, solo etichetta.
-    regex_mask = (n_abro > 0) & ~tomb & ~akn_mask
+    regex_mask = (n_abro > 0) & ~dec & ~akn_mask
     fonte[regex_mask] = FONTE_REGEX
 
-    # 4/5. residui: VIGENZA = tombstone affidabile; ORIGINALE = unknown.
+    # 4. residui: VIGENZA = snapshot consolidato; ORIGINALE = unknown.
     resid = ~(tomb | akn_mask | regex_mask)
-    fonte[resid & is_vig_snapshot] = FONTE_TOMBSTONE
+    fonte[resid & is_vig_snapshot] = FONTE_VIGENZA_SNAPSHOT
 
     df["stato"] = new_stato
     df["vigente"] = new_stato == "vigente"
@@ -141,7 +162,7 @@ def main() -> int:
     print(f"candidati regex (stato invariato): {n_regex}")
     print(f"unknown (ORIGINALE senza segnale): {n_unknown}")
     if not AKN_RELATIONS.exists():
-        print(f"NOTA: {AKN_RELATIONS.name} assente — solo tombstone.")
+        print(f"NOTA: {AKN_RELATIONS.name} assente — solo vigenza_snapshot.")
     return 0
 
 

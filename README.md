@@ -114,7 +114,7 @@ Colonne di qualità:
 |---|---|---|
 | `stato` | string | `vigente` \| `abrogato` \| `decaduto` — tombstone Normattiva nel body, con override AKN (repeal/substitution). ⚠️ Affidabile quando `vigenza_fonte` ≠ `unknown`: gli atti solo ORIGINALE senza segnale restano `vigente` per costruzione |
 | `vigente` | bool | `stato == 'vigente'` (il frontmatter MD di Normattiva è inaffidabile) |
-| `vigenza_fonte` | string | Origine di `stato`: `tombstone` (VIGENZA) \| `akn` (override repeal/substitution) \| `regex` (candidato, `stato` invariato) \| `unknown` (ORIGINALE, non verificato) |
+| `vigenza_fonte` | string | Origine di `stato`: `vigenza_snapshot` (snapshot VIGENZA: tombstone o conferma vigore) \| `akn` (override repeal/substitution) \| `regex` (candidato, `stato` invariato) \| `unknown` (ORIGINALE, non verificato) |
 | `duplicato` | bool | Stesso atto (data+numero) presente più volte nel corpus |
 | `n_citazioni` | int | Citazioni in ingresso dal grafo riferimenti |
 | `orfano` | bool | Nessuna citazione in uscita né in ingresso |

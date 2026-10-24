@@ -34,7 +34,7 @@ outputs:
     kind: table
     contract: >
       atto + qualità + materia/sunsetting + EIV/AKN + stato/vigenza_fonte
-      (superset main CI). vigenza_fonte = tombstone|akn|regex|unknown:
+      (superset main CI). vigenza_fonte = vigenza_snapshot|akn|regex|unknown:
       regex è solo candidato, stato non modificato (issue #67).
   - path: data/derived/riferimenti.parquet
     kind: graph_edges

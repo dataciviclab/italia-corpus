@@ -60,9 +60,14 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 `stato` nasce dal tombstone nel markdown e funziona solo sugli snapshot VIGENZA
 (consolidati): gli ORIGINALE non hanno tombstone e restano "vigente" per default.
 `integra-vigenza` (stage 5b) applica la precedenza:
-1. tombstone `decaduto`/`abrogato` → invariato (`vigenza_fonte=tombstone`);
+1. tombstone `decaduto`/`abrogato` → invariato (`vigenza_fonte=vigenza_snapshot`);
 2. edge AKN `repeal`/`substitution` sul target → `abrogato` (`vigenza_fonte=akn`);
-3. altrimenti: VIGENZA → `tombstone`, ORIGINALE → `unknown` (stato **non verificato**).
+3. altrimenti: VIGENZA → `vigenza_snapshot`, ORIGINALE → `unknown` (stato **non verificato**).
+
+`vigenza_fonte` = `vigenza_snapshot` | `akn` | `regex` | `unknown`. `vigenza_snapshot`
+copre sia il tombstone esplicito sia l'assenza di tombstone su snapshot VIGENZA
+(atto confermato in vigore). `apply_vigenza` è idempotente (gli URN target AKN
+sono esclusi dal ramo tombstone).
 
 Il segnale regex `abrogato_da` è **solo candidato** (`vigenza_fonte=regex`, `stato`
 invariato): la validazione mostra bassa precisione (abrogazioni article-level,
