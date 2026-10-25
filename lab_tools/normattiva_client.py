@@ -24,6 +24,20 @@ BASE_URL = "https://api.normattiva.it/t/normattiva.api/bff-opendata/v1/api/v1"
 COLLECTIONS_URL = f"{BASE_URL}/collections/collection-predefinite"
 DOWNLOAD_URL = f"{BASE_URL}/collections/download/collection-preconfezionata"
 DETTAGLIO_URN_URL = f"{BASE_URL}/atto/dettaglio-atto-urn"
+RICERCA_AVANZATA_URL = f"{BASE_URL}/ricerca/avanzata"
+
+# ClasseProvvedimento (tipologiche/classe-provvedimento): status autorevole
+# atto-level, NON derivato dal testo. Vedi lab_tools/fetch_status.py.
+CLASSE_VIGENTE = ("1", "2")  # 1=senza aggiornamenti, 2=aggiornato
+CLASSE_ABROGATO = "3"
+
+# Ricerca: WAF IPZS → pacing obbligatorio (blocca su richieste ravvicinate).
+RICERCA_PAGE_SIZE = 1000
+RICERCA_PACE_SECONDS = 2.0
+
+
+class FetchIncompleto(RuntimeError):
+    """Paginazione interrotta (WAF/errore) o conteggio incompleto."""
 
 # IPZS serve la catena TLS completa dal 2026-10-02 (verificato con verify=True).
 # Tracking: https://github.com/dataciviclab/italia-corpus/issues/46
@@ -275,3 +289,123 @@ def fetch_act_by_urn(
 
     logger.error("Failed to fetch act %s after %d attempts", urn, MAX_RETRIES)
     return None
+
+
+def ricerca_avanzata(
+    classe: str | None = None,
+    *,
+    page: int = 1,
+    page_size: int = RICERCA_PAGE_SIZE,
+    filtri: dict | None = None,
+    timeout: tuple[float, float] = (10.0, 60.0),
+) -> dict | None:
+    """POST /ricerca/avanzata — una pagina di risultati (metadati, nessun testo).
+
+    La ricerca avanzata accetta i filtri come campi top-level (non in filtriMap):
+    qui esponiamo `classe` (classeProvvedimento) e `filtri` liberi.
+
+    Args:
+        classe: "1"|"2" (vigente) | "3" (abrogato) | None.
+        page: pagina (1-based).
+        page_size: elementi per pagina (max osservato 1000).
+        filtri: campi extra (es. {"annoProvvedimento": 1951}).
+
+    Returns:
+        {"atti": [...], "numero_atti": int, "numero_pagine": int} oppure None
+        (errore WAF/HTTP o risposta con `message`).
+    """
+    payload: dict = {
+        "paginazione": {"paginaCorrente": page, "numeroElementiPerPagina": page_size}
+    }
+    if classe:
+        payload["classeProvvedimento"] = str(classe)
+    if filtri:
+        payload.update(filtri)
+
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            resp = requests.post(
+                RICERCA_AVANZATA_URL,
+                json=payload,
+                headers=HEADERS_JSON,
+                timeout=timeout,
+                verify=VERIFY_TLS,
+            )
+            # WAF IPZS: 403/429 su richieste ravvicinate
+            if resp.status_code in (403, 429):
+                logger.warning(
+                    "Ricerca bloccata (HTTP %d) attempt %d/%d",
+                    resp.status_code, attempt, MAX_RETRIES,
+                )
+                if attempt < MAX_RETRIES:
+                    time.sleep(RETRY_BACKOFF * attempt)
+                continue
+
+            resp.raise_for_status()
+            data = resp.json()
+            if data.get("message"):
+                logger.warning("Ricerca: %s", data["message"])
+                return None
+            return {
+                "atti": data.get("listaAtti") or [],
+                "numero_atti": data.get("numeroAttiTrovati") or 0,
+                "numero_pagine": data.get("numeroPagine") or 0,
+            }
+
+        except requests.RequestException as e:
+            logger.warning(
+                "Ricerca attempt %d/%d failed: %s", attempt, MAX_RETRIES, e,
+            )
+            if attempt < MAX_RETRIES:
+                time.sleep(RETRY_BACKOFF * attempt)
+
+    logger.error("Ricerca fallita dopo %d tentativi", MAX_RETRIES)
+    return None
+
+
+def itera_atti_per_classe(
+    classe: str,
+    *,
+    page_size: int = RICERCA_PAGE_SIZE,
+    pace: float = RICERCA_PACE_SECONDS,
+    max_pagine: int | None = None,
+    strict: bool = True,
+):
+    """Genera gli atti di una classeProvvedimento, paginando con pacing.
+
+    WAF IPZS: `pace` secondi tra le pagine (default 2.0).
+
+    Args:
+        strict: se True (default) solleva `FetchIncompleto` su errore o
+            conteggio incompleto — così un blocco a metà paginazione **non**
+            produce uno status parziale silenzioso. Con `max_pagine` (smoke)
+            il controllo di completezza è disattivato.
+    """
+    page = 1
+    expected: int | None = None
+    n = 0
+    while True:
+        res = ricerca_avanzata(classe, page=page, page_size=page_size)
+        if res is None:
+            if strict:
+                raise FetchIncompleto(
+                    f"classe {classe}: ricerca fallita a pagina {page}"
+                )
+            logger.warning("Stop paginazione classe %s a pagina %d", classe, page)
+            break
+        if expected is None:
+            expected = res["numero_atti"]
+        for atto in res["atti"]:
+            yield atto
+        n += len(res["atti"])
+        if page >= res["numero_pagine"]:
+            break
+        if max_pagine is not None and page >= max_pagine:
+            break
+        page += 1
+        time.sleep(pace)
+
+    if strict and max_pagine is None and expected is not None and n != expected:
+        raise FetchIncompleto(
+            f"classe {classe}: {n}/{expected} atti (paginazione incompleta)"
+        )

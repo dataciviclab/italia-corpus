@@ -37,11 +37,12 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 | # | Stage | Comando | Output |
 |---|---|---|---|
 | 1 | **fetch** | `python -m lab_tools.fetch_normattiva [--only …]` | MD + `akn_*.parquet` (staging + merge) |
+| 1b | **fetch-status** | `python -m lab_tools.fetch_status` | `status.parquet` (solo **abrogati**, classe 3 = lista ufficiale; no testo) |
 | 2 | **extract** | `python -m lab_tools.extract` | `normativa.parquet` (metadati base) |
 | 3 | **classifica** | `python -m lab_tools.classifica_tematich` | + `materia` |
 | 4 | **citazioni/pnrr/abrogations** | moduli `estrai_*` / `extract_*` | side product su disco |
 | 5 | **integra** | `python -m lab_tools.integra_costituzionali` | + cit. cost. / abrogazioni **da side product** |
-| 5b | **integra-vigenza** | `python -m lab_tools.integra_vigenza` | `stato` corretto (override AKN) + `vigenza_fonte` |
+| 5b | **integra-vigenza** | `python -m lab_tools.integra_vigenza` | `stato` da `status.parquet` + `vigenza_fonte` |
 | 6 | **grafo** | `python -m lab_tools.grafo_riferimenti` | `riferimenti` (regex∪AKN, denorm materia) |
 | 7 | **arricchisci** | `python -m lab_tools.arricchisci_normativa` | + `n_citazioni`, `orfano`, `qualita_score` |
 | 8 | **integra-akn** | `python -m lab_tools.integra_akn_meta` | + `ingresso_in_vigore`, `akn_*` |
@@ -51,31 +52,42 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 **Makefile**
 - `make pipeline` = stage 2–9 (senza fetch)
 - `make pipeline-core` = 2,3,5b,6,7,8,9 — minimo **MCP/legal-graph** (inclusa `classifica`)
-  - senza `integra` (5) manca `abrogato_da` → `integra-vigenza` applica solo gli override AKN
+- `make fetch-status` = stage 1b (network, WAF IPZS → pacing)
 
-**CI**: stessa sequenza + fetch + lint + contract check (main ⊂ derived)
+**CI**: stessa sequenza + fetch + fetch-status + lint + contract check (main ⊂ derived)
+- `fetch-status` (solo classe 3, ~6 min) gira **ogni giorno**. In CI è **non fatale** (`continue-on-error`): se il WAF IPZS blocca il runner, resta lo status **in cache** (stale) e il build prosegue, con un `::warning::`. La freschezza di `stato` **non è garantita**; il vintage è in `status.parquet.fetched_at`.
 
-**`stato` / `vigenza_fonte` (issue #67)**
+**`stato` / `vigenza_fonte`**
 
-`stato` nasce dal tombstone nel markdown e funziona solo sugli snapshot VIGENZA
-(consolidati): gli ORIGINALE non hanno tombstone e restano "vigente" per default.
-`integra-vigenza` (stage 5b) applica la precedenza:
-1. tombstone `decaduto`/`abrogato` → invariato (`vigenza_fonte=vigenza_snapshot`);
-2. edge AKN `repeal`/`substitution` sul target → `abrogato` (`vigenza_fonte=akn`);
-3. altrimenti: VIGENZA → `vigenza_snapshot`, ORIGINALE → `unknown` (stato **non verificato**).
+Lo `stato` atto-level è un **metadato ufficiale**, non va derivato dal testo.
+Fonte: `status.parquet` (stage 1b), da `POST /ricerca/avanzata` con filtro
+`classeProvvedimento` (tipologia **ufficiale IPZS**). La **classe 3** ("abrogato")
+coincide con la collezione ufficiale **"Atti normativi abrogati"** (~124k atti)
+→ è la lista autorevole. La classe 2 ("aggiornato") **non** è "vigente".
 
-`vigenza_fonte` = `vigenza_snapshot` | `akn` | `regex` | `unknown`. `vigenza_snapshot`
-copre sia il tombstone esplicito sia l'assenza di tombstone su snapshot VIGENZA
-(atto confermato in vigore). `apply_vigenza` è idempotente (gli URN target AKN
-sono esclusi dal ramo tombstone).
+`integra-vigenza` (stage 5b), in cascata:
+1. join `normativa` ↔ `status` su **(codice_redazionale, data GU)** — il filename
+   del corpus porta la data GU; `(codice, anno, numero)` NON è univoco (atti
+   diversi condividono codice/anno/numero, es. GU diverse). Il join è
+   **atto-level**: ORIGINALE e VIGENZA della stessa legge condividono la chiave
+   → stesso `stato` (fix #67);
+2. **classe 3** (lista ufficiale) → `abrogato`, `vigenza_fonte='normattiva'`
+   (fallback su `codice` se univoco, per GU discordanti);
+3. **nota whole-act** `PROVVEDIMENTO ABROGATO` nel testo (markup ufficiale,
+   assente dalla lista: es. D.Lgs 220/1995) → `abrogato`,
+   `vigenza_fonte='non_coperto'`;
+4. altrimenti → `vigente`, `vigenza_fonte='esclusione'`;
+5. collezione **'DL decaduti'** → `decaduto` (la ricerca non distingue `decaduto`).
 
-Il segnale regex `abrogato_da` è **solo candidato** (`vigenza_fonte=regex`, `stato`
-invariato): la validazione mostra bassa precisione (abrogazioni article-level,
-mismatch di tipo). Non modificare `stato` da regex.
+`vigenza_fonte` = `normattiva` | `non_coperto` | `esclusione`.
+
+> **Rimosso** (2026-10-25): tombstone (per lo `stato`) e override dagli eventi AKN.
+> Gli eventi AKN `repeal`/`substitution` sono **article-level** → marcavano l'atto
+> intero (falsi positivi: Codice Civile, Codice Penale).
 
 > `classifica` **prima** di `grafo`: altrimenti `fonte_materia`/`bersaglio_materia` restano vuote.  
 > Side product **prima** di `integra`: `integra_costituzionali` legge `citazioni-costituzionali.parquet` e `abrogations_raw.parquet` da `data/derived/`.  
-> `integra-vigenza` **dopo** `integra` (usa `abrogato_da`) e **prima** di `grafo`/`arricchisci` (così `fonte_stato` negli edge e `qualita_score` usano lo stato corretto).  
+> `integra-vigenza` **dopo** `fetch-status` e `extract`, e **prima** di `grafo`/`arricchisci` (così `fonte_stato` negli edge e `qualita_score` usano lo stato corretto).  
 > Su CI il checkout di `data/derived/` può ancora fornire side product del giorno prima se lo step è saltato — meglio rigenerarli nello stesso run.  
 > `integra-akn` **dopo** `arricchisci`. `sunsetting` **per ultimo**.
 
@@ -87,6 +99,7 @@ mismatch di tipo). Non modificare `stato` da regex.
 |---|---|---|
 | `collezioni/**/*.md` | testo + frontmatter URN | MCP, agenti, ricerca |
 | `normativa.parquet` | atto: metadati + qualità + materia/sunsetting + EIV/AKN + `stato`/`vigenza_fonte` | legal-graph, MCP, analisi |
+| `status.parquet` | status atto-level autorevole (`codice_redazionale`+`data_gu` → `stato`, `classe`) | `integra-vigenza` (non pubblicato, non committato) |
 | `atti_api.parquet` | leggi ordinarie fuori collezione (fetch `dettaglio-atto-urn`: vigenza + HTML) | legal-graph (nodi + target euristiche `attua_delega`) |
 | `riferimenti.parquet` | archi `peso`, `risolto`, `origine` (regex\|akn) | legal-graph, debt |
 | `akn_relations.parquet` | relazioni AKN tipizzate (full-corpus su fetch completo) | clean/tabella propria, debug |

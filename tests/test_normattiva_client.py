@@ -4,12 +4,16 @@ from unittest.mock import MagicMock, patch
 
 import pytest
 from lab_tools.normattiva_client import (
+    CLASSE_ABROGATO,
+    FetchIncompleto,
     download_collection,
     extract_zip,
     fetch_act_by_urn,
     fetch_predefined_collections,
     filter_collections,
+    itera_atti_per_classe,
     merge_collections_by_name,
+    ricerca_avanzata,
 )
 
 # ── fetch_predefined_collections ────────────────────────────────────
@@ -215,3 +219,116 @@ class TestFetchActByUrn:
             raise_for_status=lambda: None,
         )
         assert fetch_act_by_urn("urn:nir:stato:legge:2000-01-01;1") is None
+
+
+# ── ricerca_avanzata / itera_atti_per_classe ────────────────────────
+
+
+class TestRicercaAvanzata:
+
+    @patch("lab_tools.normattiva_client.requests.post")
+    def test_returns_page(self, mock_post):
+        mock_post.return_value = MagicMock(
+            status_code=200,
+            json=lambda: {
+                "listaAtti": [{"codiceRedazionale": "051U0207"}],
+                "numeroAttiTrovati": 123092,
+                "numeroPagine": 124,
+            },
+            raise_for_status=lambda: None,
+        )
+        res = ricerca_avanzata(CLASSE_ABROGATO, page=1, page_size=1000)
+        assert res["numero_atti"] == 123092
+        assert res["numero_pagine"] == 124
+        assert res["atti"][0]["codiceRedazionale"] == "051U0207"
+
+    @patch("lab_tools.normattiva_client.requests.post")
+    def test_payload_top_level(self, mock_post):
+        """classeProvvedimento e paginazione sono campi top-level."""
+        mock_post.return_value = MagicMock(
+            status_code=200,
+            json=lambda: {"listaAtti": [], "numeroAttiTrovati": 0, "numeroPagine": 0},
+            raise_for_status=lambda: None,
+        )
+        ricerca_avanzata("3", page=2, page_size=500)
+        _, kwargs = mock_post.call_args
+        payload = kwargs["json"]
+        assert payload["classeProvvedimento"] == "3"
+        assert payload["paginazione"] == {
+            "paginaCorrente": 2, "numeroElementiPerPagina": 500,
+        }
+
+    @patch("lab_tools.normattiva_client.requests.post")
+    def test_message_returns_none(self, mock_post):
+        mock_post.return_value = MagicMock(
+            status_code=200,
+            json=lambda: {"message": "La pagina richiesta è stata bloccata"},
+            raise_for_status=lambda: None,
+        )
+        assert ricerca_avanzata("3") is None
+
+    @patch("lab_tools.normattiva_client.time.sleep")
+    @patch("lab_tools.normattiva_client.requests.post")
+    def test_retry_su_403(self, mock_post, mock_sleep):
+        """WAF: 403 → retry (con backoff), poi successo."""
+        blocked = MagicMock(status_code=403, json=lambda: {"message": "bloccato"})
+        ok = MagicMock(
+            status_code=200,
+            json=lambda: {"listaAtti": [], "numeroAttiTrovati": 0, "numeroPagine": 0},
+            raise_for_status=lambda: None,
+        )
+        mock_post.side_effect = [blocked, ok]
+        res = ricerca_avanzata("3")
+        assert res is not None
+        assert mock_post.call_count == 2
+        mock_sleep.assert_called()
+
+
+class TestIteraAttiPerClasse:
+
+    @patch("lab_tools.normattiva_client.time.sleep")
+    @patch("lab_tools.normattiva_client.ricerca_avanzata")
+    def test_pagina_e_rispetta_pace(self, mock_ric, mock_sleep):
+        mock_ric.side_effect = [
+            {"atti": [{"codiceRedazionale": "A"}], "numero_atti": 2, "numero_pagine": 2},
+            {"atti": [{"codiceRedazionale": "B"}], "numero_atti": 2, "numero_pagine": 2},
+        ]
+        out = list(itera_atti_per_classe("3"))
+        assert [a["codiceRedazionale"] for a in out] == ["A", "B"]
+        assert mock_ric.call_count == 2
+        mock_sleep.assert_called_once()  # pacing solo tra le pagine
+
+    @patch("lab_tools.normattiva_client.ricerca_avanzata")
+    def test_errore_strict_solleva(self, mock_ric):
+        """strict (default): errore a metà paginazione → FetchIncompleto."""
+        mock_ric.return_value = None
+        with pytest.raises(FetchIncompleto):
+            list(itera_atti_per_classe("3"))
+
+    @patch("lab_tools.normattiva_client.ricerca_avanzata")
+    def test_errore_non_strict_stop(self, mock_ric):
+        mock_ric.return_value = None
+        assert list(itera_atti_per_classe("3", strict=False)) == []
+
+    @patch("lab_tools.normattiva_client.ricerca_avanzata")
+    def test_incompleto_solleva(self, mock_ric):
+        """Conteggio atti < numero_attiTrovati → FetchIncompleto (no file parziale)."""
+        mock_ric.return_value = {
+            "atti": [{"codiceRedazionale": "A"}],
+            "numero_atti": 2,
+            "numero_pagine": 1,
+        }
+        with pytest.raises(FetchIncompleto):
+            list(itera_atti_per_classe("3"))
+
+    @patch("lab_tools.normattiva_client.time.sleep")
+    @patch("lab_tools.normattiva_client.ricerca_avanzata")
+    def test_smoke_max_pagine_non_strict(self, mock_ric, mock_sleep):
+        """max_pagine (smoke) → nessun controllo di completezza."""
+        mock_ric.return_value = {
+            "atti": [{"codiceRedazionale": "A"}],
+            "numero_atti": 999,
+            "numero_pagine": 999,
+        }
+        assert len(list(itera_atti_per_classe("3", max_pagine=1))) == 1
+

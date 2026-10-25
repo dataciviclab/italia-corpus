@@ -19,3 +19,7 @@ out/
 
 # Manifest fetch Normattiva (runtime, non committato)
 data/derived/_fetch_manifest.json
+
+# Status Normattiva (rigenerato in CI da `fetch-status`; non committato:
+# pesante ~15MB e soggetto a drift — riproducibile con `make fetch-status`)
+data/derived/status.parquet

@@ -11,9 +11,9 @@ a Markdown. Tutto cercabile per testo, struttura e materia.
 
 | | |
 |---|---|
-| **Atti normativi** | 22.016 (12.901 vigenti, 7.354 abrogati, 1.761 decaduti) |
+| **Atti normativi** | 22.017 (11.980 vigenti, 8.302 abrogati, 1.735 decaduti) |
 | **Collezioni** | 20 (DL e conversioni, decreti legislativi, codici, testi unici, DPCM...) |
-| **Riferimenti incrociati** | 92.580 archi tra atti |
+| **Riferimenti incrociati** | 136.441 archi tra atti |
 | **Materie** | 25 categorie (fisco, ambientale, lavoro, giustizia, etc.) |
 | **Aggiornamento** | Fetch giornaliero diretto dall'API Normattiva |
 
@@ -37,9 +37,9 @@ legal_search("decreti-legge ambiente energia")
 legal_text("urn:nir:stato:decreto.legislativo:2001-06-08;231")
 ```
 
-Ogni risultato include `stato` (vigente/abrogato/decaduto), `qualita_score` (0-100),
+Ogni risultato include `stato` (vigente/abrogato/decaduto), `vigenza_fonte`, `qualita_score` (0-100),
 `materia`, `orfano`, `n_citazioni`, `duplicato` e `sunsetting_score`.
-Filtri disponibili: `stato`, `min_score`, `materia`, `max_sunsetting`.
+Filtri disponibili: `stato`, `vigenza_fonte`, `materia`, `min_score`, `collezione`.
 
 ### 2. Via SQL su parquet
 
@@ -79,17 +79,19 @@ Pipeline canonica (stage lineari, output dichiarati): **[docs/PIPELINE.md](docs/
 | Stage | Tool | Output |
 |---|---|---|
 | fetch | **Fetch Normattiva** | MD in `collezioni/` + `akn_relations` / `akn_act_meta` (merge) |
+| fetch-status | **Fetch status** | `status.parquet` (status atto-level autorevole, non committato) |
 | extract | **Extract metadati** | `normativa.parquet` |
 | grafo | **Grafo riferimenti** | `riferimenti.parquet` (`origine`: regex\|akn) |
 | arricchisci | **Qualità grafo** | `n_citazioni`, `orfano`, `qualita_score` |
 | integra-akn | **Join AKN meta** | `ingresso_in_vigore`, `akn_*` (se presenti) |
 | classifica | **Classifica tematico** | `materia` (downstream) |
 | integra | **Costituzionali** | cit. cost. / abrogazioni (downstream) |
-| integra-vigenza | **Vigenza** | `stato` (override AKN) + `vigenza_fonte` |
+| integra-vigenza | **Vigenza** | `stato` (status autorevole Normattiva) + `vigenza_fonte` |
 
 ### CI / Manutenzione
 
-- **Build** (06:30): fetch → extract → classifica → integra → side product → **integra-vigenza** → grafo → arricchisci → **integra-akn** → sunsetting
+- **Build** (06:30): fetch → **fetch-status** → extract → classifica → integra → side product → **integra-vigenza** → grafo → arricchisci → **integra-akn** → sunsetting
+- **fetch-status** (solo classe 3 = lista ufficiale abrogati, ~6 min) gira **ogni giorno**
 - **Locale**: `make pipeline` (stesso ordine, senza fetch)
 - **Test**: `pytest tests/ -v` su ogni push/PR
 - **Ruolo Lab**: IC produce MD+parquet; **legal-graph** li aggrega — non duplicare grafi qui
@@ -112,9 +114,9 @@ Colonne di qualità:
 
 | Colonna | Tipo | Significato |
 |---|---|---|
-| `stato` | string | `vigente` \| `abrogato` \| `decaduto` — tombstone Normattiva nel body, con override AKN (repeal/substitution). ⚠️ Affidabile quando `vigenza_fonte` ≠ `unknown`: gli atti solo ORIGINALE senza segnale restano `vigente` per costruzione |
+| `stato` | string | `vigente` \| `abrogato` \| `decaduto` — **status autorevole** Normattiva, atto-level (classe 3 = lista ufficiale "Atti normativi abrogati", o nota whole-act). `decaduto` = collezione "DL decaduti" |
 | `vigente` | bool | `stato == 'vigente'` (il frontmatter MD di Normattiva è inaffidabile) |
-| `vigenza_fonte` | string | Origine di `stato`: `vigenza_snapshot` (snapshot VIGENZA: tombstone o conferma vigore) \| `akn` (override repeal/substitution) \| `regex` (candidato, `stato` invariato) \| `unknown` (ORIGINALE, non verificato) |
+| `vigenza_fonte` | string | Origine di `stato`: `normattiva` (lista ufficiale abrogati, `classeProvvedimento` 3) \| `non_coperto` (assente dalla lista ma con nota whole-act) \| `esclusione` (assente, `vigente` per esclusione) |
 | `duplicato` | bool | Stesso atto (data+numero) presente più volte nel corpus |
 | `n_citazioni` | int | Citazioni in ingresso dal grafo riferimenti |
 | `orfano` | bool | Nessuna citazione in uscita né in ingresso |

@@ -1,139 +1,174 @@
-"""Ricalcola `stato` dai segnali di abrogazione del corpus e dichiara la fonte.
+"""Ricalcola `stato` dallo **status autorevole** Normattiva + dalla nota ufficiale.
 
-Il campo `stato` nasce dal tombstone nel markdown (`PROVVEDIMENTO ABROGATO` /
-`DECRETO DECADUTO`, vedi extract.py). Funziona solo sugli snapshot VIGENZA
-(testo consolidato): gli snapshot ORIGINALE non portano tombstone e restano
-marcati "vigente" anche se l'atto è abrogato (issue #67, D.Lgs 50/2016).
+`stato` è un metadato ufficiale, non un'euristica sul testo. Due segnali, in
+cascata (poi propagati a **tutte** le snapshot dell'atto via join):
 
-Precedenza applicata a `stato` (solo fonti autorevoli):
-  1. tombstone "decaduto" o "abrogato"           -> invariato (fonte=vigenza_snapshot)
-  2. edge AKN repeal/substitution (target)       -> abrogato   (fonte=akn)
-  3. nessuna fonte autorevole:
-       - snapshot VIGENZA                        -> stato tombstone (vigenza_snapshot)
-       - snapshot ORIGINALE                      -> stato tombstone (unknown)
+  1. **lista ufficiale degli abrogati** — `status.parquet` (vedi
+     `fetch_status.py`), da `POST /ricerca/avanzata` con filtro
+     `classeProvvedimento=3` (coincide con la collezione ufficiale "Atti
+     normativi abrogati"). Match → `abrogato`, `vigenza_fonte='normattiva'`.
+     NB: la classe 2 ("aggiornato") NON è "vigente" → non usata.
+  2. **nota whole-act** `PROVVEDIMENTO ABROGATO` nel testo (markup ufficiale
+     Normattiva, già in `stato` da `extract`): copre le abrogazioni assenti
+     dalla lista (es. D.Lgs 220/1995) → `abrogato`, `vigenza_fonte='non_coperto'`.
+  3. altrimenti → `vigente`, `vigenza_fonte='esclusione'`.
 
-Il segnale regex `abrogato_da` (n_abrogazioni > 0) è **solo candidato**: la
-validazione su campione mostra bassa precisione (abrogazioni article-level,
-mismatch di tipo atto, citazioni) e NON modifica `stato`. Viene esposto via
-`vigenza_fonte='regex'` per le indagini a valle.
+Join e regole:
+  1. join `normativa` ↔ `status` su **(codice_redazionale, data GU)** — il
+     filename del corpus porta la data GU (`<dataGU>_<codice>_…`);
+     `(codice, anno, numero)` NON è univoco (atti diversi condividono
+     codice/anno/numero, es. GU diverse);
+  2. il join è **atto-level**: ORIGINALE e VIGENZA della stessa legge
+     condividono `(codice, data_gu)` → stesso `stato` (fix #67: le snapshot
+     ORIGINALE non portano la nota e resterebbero `vigente`);
+  3. fallback su **codice** (se univoco in status) per GU discordanti;
+  4. collezione **'DL decaduti'** → `decaduto`.
 
-`vigenza_fonte` (colonna additiva, backward-compatible) dichiara l'origine
-dello stato:
-  - `vigenza_snapshot` : da snapshot VIGENZA (testo consolidato) — sia tombstone
-                         esplicito sia assenza di tombstone ("confermato vigente")
-  - `akn`              : override da edge AKN repeal/substitution (autorevole)
-  - `unknown`          : snapshot ORIGINALE senza segnale autorevole (stato di
-                         default, NON verificato)
-  - `regex`            : candidato regex presente, `stato` NON modificato
+`vigenza_fonte` = `normattiva` | `non_coperto` | `esclusione`.
 
-`apply_vigenza` è idempotente: gli URN target AKN sono esclusi dal ramo
-tombstone, così rieseguirla sullo stesso parquet non degrada la provenienza
-(akn -> vigenza_snapshot).
+**Rimosso**: override dagli eventi AKN (article-level → falsi positivi, es.
+Codice Civile). La nota whole-act resta (è markup ufficiale, non euristica).
 
-Dipendenze:
-- `akn_relations.parquet` (prodotto dal fetch) per gli edge repeal/substitution.
-- `abrogato_da` / `n_abrogazioni` in normativa.parquet (prodotti da
-  integra_costituzionali). Se assenti, il candidato regex non è disponibile.
+Da eseguire DOPO `extract` e DOPO `fetch_status`, e PRIMA di `grafo`/
+`arricchisci` (così `fonte_stato` negli edge e `qualita_score` usano lo stato
+corretto).
 
-Da eseguire DOPO integra_costituzionali e PRIMA di grafo/arricchisci (così
-`fonte_stato` negli edge e `qualita_score` usano lo stato corretto).
+**Idempotenza**: lo `stato` in input deve venire dall'`extract` **fresco** (il
+tombstone è il segnale). Rieseguirla su un parquet **già integrato**, senza
+re-extract, perpetuerebbe lo `stato` precedente (es. vecchi override) come
+tombstone. In pipeline l'ordine è `extract → … → integra-vigenza`: non accade.
 
 Uso: python -m lab_tools.integra_vigenza
 """
 
 from __future__ import annotations
 
-from pathlib import Path
-
 from lab_tools._paths import OUTDIR
 
 NORMATIVA = OUTDIR / "normativa.parquet"
-AKN_RELATIONS = OUTDIR / "akn_relations.parquet"
+STATUS = OUTDIR / "status.parquet"
 
-# Relazioni AKN che abrogano/sostituiscono il target (act-level).
-AKN_ABROGA_TYPES = ("repeal", "substitution")
-_AKN_REQUIRED_COLS = frozenset({"rel_type", "target_urn"})
+FONTE_NORMATTIVA = "normattiva"
+FONTE_NON_COPERTO = "non_coperto"
+FONTE_ESCLUSIONE = "esclusione"
 
-FONTE_VIGENZA_SNAPSHOT = "vigenza_snapshot"
-FONTE_AKN = "akn"
-FONTE_REGEX = "regex"
-FONTE_UNKNOWN = "unknown"
-
-_RE_VIGENZA = r"_VIGENZA_"
+# Collezione i cui atti sono "decaduti" (la ricerca li classifica abrogati).
+COLLEZIONE_DECADUTI = "DL decaduti"
 
 
-def akn_abrogation_targets(path: Path) -> set[str]:
-    """URN degli atti target di edge AKN repeal/substitution.
+def _chiave(cod, gu):
+    """Chiave atto = codice_redazionale + data GU (stringhe).
 
-    Solleva SystemExit con messaggio chiaro se il parquet non ha lo schema
-    atteso (rel_type, target_urn) — evita KeyError oscuri a valle.
+    La data GU è il **discriminante**: `(codice, anno, numero)` NON è univoco
+    (atti diversi condividono codice/anno/numero). Il filename del corpus porta
+    la data GU (`<dataGU>_<codice>_…`), la ricerca il campo `data_gu`.
+    """
+    return (
+        cod.astype("string").fillna("")
+        + "|"
+        + gu.astype("string").fillna("")
+    )
+
+
+_PRIO_STATO = {"decaduto": 0, "abrogato": 1, "vigente": 2}
+
+
+def _propaga_atto(df, stato, fonte):
+    """Propaga `stato`/`fonte` a tutte le snapshot della stessa chiave atto.
+
+    L'atto è identificato da `_k` (codice+GU): ORIGINALE e VIGENZA della stessa
+    legge condividono la chiave. Prende lo stato più forte (decaduto > abrogato
+    > vigente) e ne propaga stato+fonte a tutte le righe (fix #67: le snapshot
+    ORIGINALE non portano la nota e resterebbero `vigente`). Pura.
     """
     import pandas as pd
 
-    if not path.exists():
-        return set()
-    rel = pd.read_parquet(path)
-    missing = _AKN_REQUIRED_COLS - set(rel.columns)
-    if missing:
-        raise SystemExit(
-            f"{path.name}: colonne mancanti {sorted(missing)} "
-            f"(attese {sorted(_AKN_REQUIRED_COLS)}). Schema akn_relations cambiato?"
-        )
-    sel = rel[rel["rel_type"].isin(AKN_ABROGA_TYPES)]
-    return set(sel["target_urn"].dropna().astype(str))
+    tmp = pd.DataFrame(
+        {
+            "_k": df["_k"],
+            "_s": stato,
+            "_f": fonte,
+            "_p": stato.map(_PRIO_STATO),
+        }
+    )
+    best = (
+        tmp.sort_values("_p").drop_duplicates("_k", keep="first").set_index("_k")
+    )
+    return df["_k"].map(best["_s"]), df["_k"].map(best["_f"])
 
 
-def apply_vigenza(df, akn_targets: set[str]):
-    """Applica la precedenza delle fonti. Pura: non tocca il disco.
+def apply_status(normativa, status):
+    """Applica lo status autorevole. Pura (no I/O).
 
-    Ritorna una copia di `df` con `stato`, `vigente` e `vigenza_fonte`
-    aggiornati. Idempotente: rieseguirla non degrada `vigenza_fonte`.
-    Vedi docstring del modulo per la precedenza.
+    `normativa`: DataFrame con `codice_redazionale`, `filename`, `collezione`,
+    `stato`, `vigente`.
+    `status`: DataFrame con `codice_redazionale`, `data_gu`, `stato` —
+    contiene **solo gli abrogati** (classe 3 = lista ufficiale).
+
+    `stato` per riga:
+      1. match su **(codice_redazionale, data_gu)** → `status.stato`
+         (`fonte='normattiva'`);
+      2. fallback match su **codice_redazionale** (se univoco in status) →
+         `status.stato` (`fonte='normattiva'`);
+      3. non coperto ma con **tombstone whole-act** (`abrogato`/`decaduto`
+         nello stato pregresso) → **invariato** (`fonte='non_coperto'`) — NON
+         forzare `vigente` (regressione: l'archivio non classifica tutti gli atti);
+      4. non coperto senza tombstone → `vigente` (`fonte='esclusione'`).
+
+    Poi: collezione **'DL decaduti'** → `decaduto`.
     """
+    df = normativa.copy()
     import pandas as pd
 
-    df = df.copy()
-    stato = df["stato"].astype(str).str.strip().str.lower()
-    urn = df["urn"].astype(str)
-    if "n_abrogazioni" in df.columns:
-        n_abro = pd.to_numeric(df["n_abrogazioni"], errors="coerce").fillna(0)
-    else:
-        n_abro = pd.Series(0, index=df.index)
-    is_vig_snapshot = df["filename"].astype(str).str.contains(_RE_VIGENZA)
-    akn_target = urn.isin(akn_targets)
+    # data GU dal filename del corpus (`<dataGU>_<codice>_…`)
+    gu_norm = df["filename"].astype("string").str.slice(0, 10)
+    df["_k"] = _chiave(df["codice_redazionale"], gu_norm)
 
-    new_stato = stato.copy()
-    fonte = pd.Series(FONTE_UNKNOWN, index=df.index, dtype=object)
+    st = status[["codice_redazionale", "data_gu", "stato"]].copy()
+    st["_k"] = _chiave(st["codice_redazionale"], st["data_gu"])
+    # tie-break deterministico per le chiavi duplicate residue: preferisci
+    # 'abrogato' — non dipendere dall'ordine della risposta API.
+    st["_prio"] = st["stato"].map({"abrogato": 0, "vigente": 1}).fillna(2)
+    st = st.sort_values("_prio").drop_duplicates("_k", keep="first")
+    # fallback per codice: solo se il codice ha UNA sola riga in status
+    cod_size = st.groupby("codice_redazionale")["_k"].transform("size")
+    st_cod = (
+        st[cod_size == 1][["codice_redazionale", "stato"]]
+        .rename(columns={"stato": "_st_cod"})
+    )
+    st = st[["_k", "stato"]].rename(columns={"stato": "_st"})
 
-    dec = stato == "decaduto"
-    gia_abrogato = stato == "abrogato"
+    df = df.merge(st, on="_k", how="left")
+    df = df.merge(st_cod, on="codice_redazionale", how="left")
 
-    # 1. provenienza vigenza_snapshot: decaduto, o abrogato non-AKN (tombstone
-    #    originale). Gli URN target AKN sono esclusi: il loro `abrogato` può
-    #    venire da un override precedente, non dal tombstone (idempotenza).
-    tomb = (dec | gia_abrogato) & ~akn_target
-    fonte[tomb] = FONTE_VIGENZA_SNAPSHOT
+    matched = df["_st"].notna() | df["_st_cod"].notna()
+    tomb = df["stato"].astype("string").str.strip().str.lower()
 
-    # 2. override AKN (decaduto resta decaduto).
-    akn_mask = akn_target & ~dec
-    new_stato[akn_mask] = "abrogato"
-    fonte[akn_mask] = FONTE_AKN
+    nuovo = df["_st"].where(df["_st"].notna(), df["_st_cod"])
+    # 3. non coperto ma con tombstone whole-act → invariato
+    nonmatch_tomb = ~matched & tomb.isin(["abrogato", "decaduto"])
+    nuovo = nuovo.where(~nonmatch_tomb, tomb)
+    # 4. non coperto senza tombstone → vigente (per esclusione)
+    nuovo = nuovo.where(matched | nonmatch_tomb, "vigente")
 
-    # 3. candidato regex: nessun override di stato, solo etichetta.
-    #    Escluso dove esiste una fonte autorevole (tombstone/akn/decaduto):
-    #    un atto abrogato da tombstone non-AKN con n_abro>0 deve restare
-    #    vigenza_snapshot, non degradare a regex.
-    regex_mask = (n_abro > 0) & ~tomb & ~akn_mask & ~dec
-    fonte[regex_mask] = FONTE_REGEX
+    # collezione 'DL decaduti' → decaduto
+    decaduto = df["collezione"].astype("string").str.contains(
+        COLLEZIONE_DECADUTI, na=False
+    )
+    nuovo = nuovo.where(~decaduto, "decaduto")
 
-    # 4. residui: VIGENZA = snapshot consolidato; ORIGINALE = unknown.
-    resid = ~(tomb | akn_mask | regex_mask)
-    fonte[resid & is_vig_snapshot] = FONTE_VIGENZA_SNAPSHOT
+    fonte = pd.Series(FONTE_ESCLUSIONE, index=df.index, dtype=object)
+    fonte[nonmatch_tomb] = FONTE_NON_COPERTO
+    fonte[matched] = FONTE_NORMATTIVA
 
-    df["stato"] = new_stato
-    df["vigente"] = new_stato == "vigente"
+    # propagazione atto-level (ORIGINALE e VIGENZA condividono `_k`) → fix #67
+    nuovo, fonte = _propaga_atto(df, nuovo, fonte)
+
+    df["stato"] = nuovo
+    df["vigente"] = nuovo == "vigente"
     df["vigenza_fonte"] = fonte
-    return df
+
+    return df.drop(columns=["_k", "_st", "_st_cod"])
 
 
 def main() -> int:
@@ -144,28 +179,24 @@ def main() -> int:
 
     if not NORMATIVA.exists():
         raise SystemExit("normativa.parquet mancante — esegui prima extract.")
+    if not STATUS.exists():
+        raise SystemExit(
+            "status.parquet mancante — esegui prima fetch_status "
+            "(python -m lab_tools.fetch_status)."
+        )
 
     df = pd.read_parquet(NORMATIVA)
+    status = pd.read_parquet(STATUS)
     before = len(df)
 
-    akn_targets = akn_abrogation_targets(AKN_RELATIONS)
-    df = apply_vigenza(df, akn_targets)
-
+    df = apply_status(df, status)
     df.to_parquet(NORMATIVA, index=False)
 
-    n_unknown = int((df["vigenza_fonte"] == FONTE_UNKNOWN).sum())
-    n_akn = int((df["vigenza_fonte"] == FONTE_AKN).sum())
-    n_regex = int((df["vigenza_fonte"] == FONTE_REGEX).sum())
     print(f"normativa: {before} righe")
-    print("stato (dopo):")
+    print("stato:")
     print(df["stato"].value_counts().to_string())
     print("vigenza_fonte:")
     print(df["vigenza_fonte"].value_counts().to_string())
-    print(f"override -> abrogato via akn: {n_akn}")
-    print(f"candidati regex (stato invariato): {n_regex}")
-    print(f"unknown (ORIGINALE senza segnale): {n_unknown}")
-    if not AKN_RELATIONS.exists():
-        print(f"NOTA: {AKN_RELATIONS.name} assente — solo vigenza_snapshot.")
     return 0
 
 

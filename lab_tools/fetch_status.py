@@ -1,0 +1,157 @@
+"""Scarica lo status autorevole (abrogato) da Normattiva.
+
+Lo status atto-level è un **metadato ufficiale**, non derivato dal testo. La
+fonte è `POST /ricerca/avanzata` con filtro `classeProvvedimento` (tipologia
+ufficiale IPZS, dal catalogo `tipologiche/classe-provvedimento`):
+
+    1 = atto normativo – senza aggiornamenti
+    2 = atto normativo – aggiornato   (NON significa "vigente": è "ha avuto
+                                       modifiche"; vi finiscono anche atti
+                                       abrogati → non usare come vigente)
+    3 = atto normativo – abrogato     -> abrogato
+
+La classe 3 coincide con la collezione ufficiale **"Atti normativi abrogati"**
+(~124k atti) → è la lista autorevole degli abrogati. Scarichiamo **solo la
+classe 3** (~6 min): gli atti assenti sono vigenti, salvo la nota whole-act
+`PROVVEDIMENTO ABROGATO` (vedi `integra_vigenza`).
+
+Ritorna **metadati** (nessun testo) → artifact `data/derived/status.parquet`,
+chiave `(codice_redazionale, data_gu)`.
+
+Nota: la ricerca **non distingue** `decaduto` (i DL decaduti sono classe 3).
+La distinzione è preservata a valle da `integra_vigenza` (collezione
+'DL decaduti').
+
+WAF IPZS: pacing obbligatorio (vedi `normattiva_client.RICERCA_PACE_SECONDS`).
+
+Uso:
+    python -m lab_tools.fetch_status
+    python -m lab_tools.fetch_status --max-pagine 2   # smoke (poche pagine/classe)
+"""
+
+from __future__ import annotations
+
+import argparse
+import logging
+from datetime import datetime
+
+from lab_tools._paths import OUTDIR
+from lab_tools.normattiva_client import (
+    CLASSE_ABROGATO,
+    RICERCA_PAGE_SIZE,
+    FetchIncompleto,
+    itera_atti_per_classe,
+)
+
+logger = logging.getLogger(__name__)
+
+OUTPUT = OUTDIR / "status.parquet"
+
+# ClasseProvvedimento → stato. Solo la 3 ("abrogato") è uno stato: coincide con
+# la lista ufficiale "Atti normativi abrogati". Le classi 1/2 ("senza
+# aggiornamenti"/"aggiornato") NON sono "vigente" → non mappate.
+STATO_PER_CLASSE: dict[str, str] = {CLASSE_ABROGATO: "abrogato"}
+
+_TITOLO_MAX = 300
+
+
+def build_rows(atti_per_classe: list[tuple[str, list[dict]]]) -> list[dict]:
+    """Trasforma gli atti grezzi della ricerca in righe status. Pura (no I/O).
+
+    Args:
+        atti_per_classe: lista di (classe, [atto, ...]) dove `atto` è un
+            elemento di `listaAtti` della ricerca avanzata.
+
+    Returns:
+        Righe con chiave `codice_redazionale` e `stato`.
+    """
+    rows: list[dict] = []
+    for classe, atti in atti_per_classe:
+        stato = STATO_PER_CLASSE.get(str(classe))
+        if stato is None:
+            logger.warning("classe sconosciuta ignorata: %r", classe)
+            continue
+        for a in atti:
+            cod = a.get("codiceRedazionale")
+            if not cod:
+                continue
+            rows.append(
+                {
+                    "codice_redazionale": cod,
+                    "stato": stato,
+                    "classe": str(classe),
+                    "denominazione": a.get("denominazioneAtto"),
+                    "anno": a.get("annoProvvedimento"),
+                    "numero": a.get("numeroProvvedimento"),
+                    "data_gu": a.get("dataGU"),
+                    "titolo": (a.get("titoloAtto") or "")[:_TITOLO_MAX],
+                }
+            )
+    return rows
+
+
+def _fetch_all(
+    page_size: int, max_pagine: int | None
+) -> list[tuple[str, list[dict]]]:
+    """Scarica la lista ufficiale degli abrogati (classe 3; pacing nel client).
+
+    Con `max_pagine=None` (fetch completo) `strict=True`: un errore o un
+    conteggio incompleto solleva `FetchIncompleto` e NON si scrive un file
+    parziale.
+    """
+    strict = max_pagine is None
+    atti = list(
+        itera_atti_per_classe(
+            CLASSE_ABROGATO,
+            page_size=page_size,
+            max_pagine=max_pagine,
+            strict=strict,
+        )
+    )
+    logger.info("classe %s: %d atti", CLASSE_ABROGATO, len(atti))
+    return [(CLASSE_ABROGATO, atti)]
+
+
+def main() -> int:
+    try:
+        import pandas as pd
+    except ImportError:
+        raise SystemExit("pandas necessario.")
+
+    parser = argparse.ArgumentParser(description="Fetch status da Normattiva")
+    parser.add_argument("--page-size", type=int, default=RICERCA_PAGE_SIZE)
+    parser.add_argument(
+        "--max-pagine", type=int, default=None,
+        help="Limita le pagine (smoke test).",
+    )
+    args = parser.parse_args()
+
+    logging.basicConfig(
+        level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s"
+    )
+
+    try:
+        atti_per_classe = _fetch_all(args.page_size, args.max_pagine)
+    except FetchIncompleto as e:
+        raise SystemExit(
+            f"Fetch INCOMPLETO — status.parquet NON scritto (per non pubblicare "
+            f"dati parziali): {e}"
+        )
+    rows = build_rows(atti_per_classe)
+    if not rows:
+        raise SystemExit("Nessun atto scaricato — status.parquet non scritto.")
+
+    df = pd.DataFrame(rows)
+    # vintage: quando lo status è stato effettivamente scaricato (per dichiarare
+    # la freschezza a valle; in CI può essere stale se il WAF ha bloccato il fetch)
+    df["fetched_at"] = datetime.now().isoformat(timespec="seconds")
+    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
+    df.to_parquet(OUTPUT, index=False)
+
+    print(f"status: {len(df)} atti -> {OUTPUT}")
+    print(df["stato"].value_counts().to_string())
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
