@@ -5,8 +5,10 @@ Lo status atto-level è un **metadato**, non va derivato dal testo. La fonte è
 con filtro `classeProvvedimento` (tipologia ufficiale IPZS).
 
 Regole:
-  1. join `normativa` ↔ `status` su **(codice_redazionale, anno, numero)**
-     (il solo `codice_redazionale` NON è univoco);
+  1. join `normativa` ↔ `status` su **(codice_redazionale, data GU)** — il
+     filename del corpus porta la data GU (`<dataGU>_<codice>_…`);
+     `(codice_redazionale, anno, numero)` NON è univoco (atti diversi
+     condividono codice/anno/numero, es. GU diverse);
   2. `stato` = `status.stato` (`vigente` | `abrogato`), `vigenza_fonte='normattiva'`;
   3. collezione **'DL decaduti'** → `decaduto` (la ricerca non distingue
      `decaduto`, che è una categoria del corpus);
@@ -36,41 +38,38 @@ FONTE_UNKNOWN = "unknown"
 COLLEZIONE_DECADUTI = "DL decaduti"
 
 
-def _chiave(df, anno_col: str):
-    """Chiave atto = codice_redazionale + anno + numero (stringhe normalizzate).
+def _chiave(cod, gu):
+    """Chiave atto = codice_redazionale + data GU (stringhe).
 
-    `numero` è normalizzato: il corpus usa forme come "1 (Raccolta 2016)",
-    la ricerca "1".
+    La data GU è il **discriminante**: `(codice, anno, numero)` NON è univoco
+    (atti diversi condividono codice/anno/numero). Il filename del corpus porta
+    la data GU (`<dataGU>_<codice>_…`), la ricerca il campo `data_gu`.
     """
-    cod = df["codice_redazionale"].astype("string").fillna("")
-    anno = df[anno_col].astype("string").fillna("")
-    num = (
-        df["numero"].astype("string").fillna("")
-        .str.replace(r"\s*\(.*\)\s*$", "", regex=True)
-        .str.strip()
+    return (
+        cod.astype("string").fillna("")
+        + "|"
+        + gu.astype("string").fillna("")
     )
-    return cod + "|" + anno + "|" + num
 
 
 def apply_status(normativa, status):
     """Applica lo status autorevole. Pura (no I/O).
 
-    `normativa`: DataFrame con `codice_redazionale`, `anno_atto`, `numero`,
-    `collezione`, `stato`, `vigente`.
-    `status`: DataFrame con `codice_redazionale`, `anno`, `numero`, `stato`.
+    `normativa`: DataFrame con `codice_redazionale`, `filename`, `collezione`,
+    `stato`, `vigente`.
+    `status`: DataFrame con `codice_redazionale`, `data_gu`, `stato`.
 
     Ritorna una copia di `normativa` con `stato`, `vigente`, `vigenza_fonte`.
     """
     df = normativa.copy()
-    df["_k"] = _chiave(df, "anno_atto")
+    # data GU dal filename del corpus (`<dataGU>_<codice>_…`)
+    gu_norm = df["filename"].astype("string").str.slice(0, 10)
+    df["_k"] = _chiave(df["codice_redazionale"], gu_norm)
 
-    st = status[["codice_redazionale", "anno", "numero", "stato"]].copy()
-    st["_k"] = _chiave(st, "anno")
-    # conflitti (stesso atto in più classi): preferisci 'abrogato' (stato terminale)
-    st["_prio"] = st["stato"].map({"abrogato": 0, "vigente": 1}).fillna(2)
+    st = status[["codice_redazionale", "data_gu", "stato"]].copy()
+    st["_k"] = _chiave(st["codice_redazionale"], st["data_gu"])
     st = (
-        st.sort_values("_prio")
-        .drop_duplicates("_k", keep="first")[["_k", "stato"]]
+        st.drop_duplicates("_k", keep="first")[["_k", "stato"]]
         .rename(columns={"stato": "_st"})
     )
 

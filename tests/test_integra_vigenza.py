@@ -1,4 +1,4 @@
-"""Test per lab_tools.integra_vigenza — status autorevole (join codice+anno+numero)."""
+"""Test per lab_tools.integra_vigenza — status autorevole (join codice + data GU)."""
 
 import pandas as pd
 from lab_tools.integra_vigenza import (
@@ -12,22 +12,21 @@ def _norm(rows):
     return pd.DataFrame(
         rows,
         columns=[
-            "codice_redazionale", "anno_atto", "numero", "collezione",
-            "stato", "vigente",
+            "codice_redazionale", "filename", "collezione", "stato", "vigente",
         ],
     )
 
 
 def _status(rows):
     return pd.DataFrame(
-        rows, columns=["codice_redazionale", "anno", "numero", "stato"]
+        rows, columns=["codice_redazionale", "data_gu", "stato"]
     )
 
 
 def test_match_normattiva():
     out = apply_status(
-        _norm([("A", 2000, "1", "X", "vigente", True)]),
-        _status([("A", "2000", "1", "abrogato")]),
+        _norm([("A", "2000-01-01_000A0001_ORIGINALE_V0.md", "X", "vigente", True)]),
+        _status([("A", "2000-01-01", "abrogato")]),
     )
     assert out.loc[0, "stato"] == "abrogato"
     assert out.loc[0, "vigenza_fonte"] == FONTE_NORMATTIVA
@@ -36,8 +35,8 @@ def test_match_normattiva():
 
 def test_no_match_unknown():
     out = apply_status(
-        _norm([("A", 2000, "1", "X", "vigente", True)]),
-        _status([("B", "2001", "2", "abrogato")]),
+        _norm([("A", "2000-01-01_000A0001_ORIGINALE_V0.md", "X", "vigente", True)]),
+        _status([("B", "2001-01-01", "abrogato")]),
     )
     assert out.loc[0, "stato"] == "vigente"
     assert out.loc[0, "vigenza_fonte"] == FONTE_UNKNOWN
@@ -46,25 +45,27 @@ def test_no_match_unknown():
 def test_decaduto_da_collezione():
     """Collezione 'DL decaduti' → decaduto (la ricerca li dà abrogati)."""
     out = apply_status(
-        _norm([("051U0207", 1951, "207", "DL decaduti", "vigente", True)]),
-        _status([("051U0207", "1951", "207", "abrogato")]),
+        _norm([("051U0207", "1951-04-09_051U0207_VIGENZA_2025-07-09_V0.md",
+                "DL decaduti", "vigente", True)]),
+        _status([("051U0207", "1951-04-09", "abrogato")]),
     )
     assert out.loc[0, "stato"] == "decaduto"
     assert out.loc[0, "vigenza_fonte"] == FONTE_NORMATTIVA
 
 
-def test_chiave_codice_non_univoco():
-    """Due atti con lo stesso codice ma numero diverso → status distinti."""
+def test_chiave_ambigua_disambiguata_da_data_gu():
+    """Regressione: stesso (codice, anno, numero) ma **GU diverse** = atti diversi.
+
+    Il corpus (filename GU 1946-02-28) deve prendere la riga `vigente`, NON
+    l'`abrogato` (GU 1946-08-06). Il tie-break "prefer abrogato" era un falso.
+    """
     out = apply_status(
-        _norm([
-            ("096G0493", 1996, "466", "X", "vigente", True),
-            ("096G0493", 1996, "555", "X", "vigente", True),
-        ]),
+        _norm([("046U0039", "1946-02-28_046U0039_VIGENZA_2025-06-11_V0.md",
+                "X", "vigente", True)]),
         _status([
-            ("096G0493", "1996", "466", "abrogato"),
-            ("096G0493", "1996", "555", "vigente"),
+            ("046U0039", "1946-02-28", "vigente"),
+            ("046U0039", "1946-08-06", "abrogato"),
         ]),
     )
-    by_num = out.set_index("numero")
-    assert by_num.loc["466", "stato"] == "abrogato"
-    assert by_num.loc["555", "stato"] == "vigente"
+    assert out.loc[0, "stato"] == "vigente"
+    assert out.loc[0, "vigenza_fonte"] == FONTE_NORMATTIVA
