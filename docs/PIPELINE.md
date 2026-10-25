@@ -37,7 +37,7 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 | # | Stage | Comando | Output |
 |---|---|---|---|
 | 1 | **fetch** | `python -m lab_tools.fetch_normattiva [--only …]` | MD + `akn_*.parquet` (staging + merge) |
-| 1b | **fetch-status** | `python -m lab_tools.fetch_status` | `status.parquet` (solo **abrogati**, classe 3; no testo) |
+| 1b | **fetch-status** | `python -m lab_tools.fetch_status` | `status.parquet` (solo **abrogati**, classe 3 = lista ufficiale; no testo) |
 | 2 | **extract** | `python -m lab_tools.extract` | `normativa.parquet` (metadati base) |
 | 3 | **classifica** | `python -m lab_tools.classifica_tematich` | + `materia` |
 | 4 | **citazioni/pnrr/abrogations** | moduli `estrai_*` / `extract_*` | side product su disco |
@@ -55,23 +55,31 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 - `make fetch-status` = stage 1b (network, WAF IPZS → pacing)
 
 **CI**: stessa sequenza + fetch + fetch-status + lint + contract check (main ⊂ derived)
-- `fetch-status` in CI è **non fatale** (`continue-on-error`): se il WAF IPZS blocca il runner, resta lo status **in cache** (stale) e il build prosegue, con un `::warning::`. La freschezza di `stato` **non è garantita**; il vintage è in `status.parquet.fetched_at`.
+- `fetch-status` (solo classe 3, ~6 min) gira **ogni giorno**. In CI è **non fatale** (`continue-on-error`): se il WAF IPZS blocca il runner, resta lo status **in cache** (stale) e il build prosegue, con un `::warning::`. La freschezza di `stato` **non è garantita**; il vintage è in `status.parquet.fetched_at`.
 
 **`stato` / `vigenza_fonte`**
 
-Lo `stato` atto-level è un **metadato**, non va derivato dal testo. La fonte è
-`status.parquet` (stage 1b), prodotto da `POST /ricerca/avanzata` con filtro
-`classeProvvedimento` (tipologia **ufficiale IPZS**): 1/2 → `vigente`, 3 → `abrogato`.
+Lo `stato` atto-level è un **metadato ufficiale**, non va derivato dal testo.
+Fonte: `status.parquet` (stage 1b), da `POST /ricerca/avanzata` con filtro
+`classeProvvedimento` (tipologia **ufficiale IPZS**). La **classe 3** ("abrogato")
+coincide con la collezione ufficiale **"Atti normativi abrogati"** (~124k atti)
+→ è la lista autorevole. La classe 2 ("aggiornato") **non** è "vigente".
 
-`integra-vigenza` (stage 5b):
+`integra-vigenza` (stage 5b), in cascata:
 1. join `normativa` ↔ `status` su **(codice_redazionale, data GU)** — il filename
    del corpus porta la data GU; `(codice, anno, numero)` NON è univoco (atti
-   diversi condividono codice/anno/numero, es. GU diverse);
-2. `status` contiene **solo gli abrogati** (classe 3): presente → `abrogato`,
-   assente → `vigente` (per esclusione, classe 1/2);
-3. collezione **'DL decaduti'** → `decaduto` (la ricerca non distingue `decaduto`).
+   diversi condividono codice/anno/numero, es. GU diverse). Il join è
+   **atto-level**: ORIGINALE e VIGENZA della stessa legge condividono la chiave
+   → stesso `stato` (fix #67);
+2. **classe 3** (lista ufficiale) → `abrogato`, `vigenza_fonte='normattiva'`
+   (fallback su `codice` se univoco, per GU discordanti);
+3. **nota whole-act** `PROVVEDIMENTO ABROGATO` nel testo (markup ufficiale,
+   assente dalla lista: es. D.Lgs 220/1995) → `abrogato`,
+   `vigenza_fonte='non_coperto'`;
+4. altrimenti → `vigente`, `vigenza_fonte='esclusione'`;
+5. collezione **'DL decaduti'** → `decaduto` (la ricerca non distingue `decaduto`).
 
-`vigenza_fonte` = `normattiva`.
+`vigenza_fonte` = `normattiva` | `non_coperto` | `esclusione`.
 
 > **Rimosso** (2026-10-25): tombstone (per lo `stato`) e override dagli eventi AKN.
 > Gli eventi AKN `repeal`/`substitution` sono **article-level** → marcavano l'atto

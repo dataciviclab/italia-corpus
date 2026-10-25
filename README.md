@@ -91,6 +91,7 @@ Pipeline canonica (stage lineari, output dichiarati): **[docs/PIPELINE.md](docs/
 ### CI / Manutenzione
 
 - **Build** (06:30): fetch → **fetch-status** → extract → classifica → integra → side product → **integra-vigenza** → grafo → arricchisci → **integra-akn** → sunsetting
+- **fetch-status** (solo classe 3 = lista ufficiale abrogati, ~6 min) gira **ogni giorno**
 - **Locale**: `make pipeline` (stesso ordine, senza fetch)
 - **Test**: `pytest tests/ -v` su ogni push/PR
 - **Ruolo Lab**: IC produce MD+parquet; **legal-graph** li aggrega — non duplicare grafi qui
@@ -113,9 +114,9 @@ Colonne di qualità:
 
 | Colonna | Tipo | Significato |
 |---|---|---|
-| `stato` | string | `vigente` \| `abrogato` \| `decaduto` — **status autorevole** Normattiva (`classeProvvedimento`, atto-level), non derivato dal testo. `decaduto` = collezione "DL decaduti" |
+| `stato` | string | `vigente` \| `abrogato` \| `decaduto` — **status autorevole** Normattiva, atto-level (classe 3 = lista ufficiale "Atti normativi abrogati", o nota whole-act). `decaduto` = collezione "DL decaduti" |
 | `vigente` | bool | `stato == 'vigente'` (il frontmatter MD di Normattiva è inaffidabile) |
-| `vigenza_fonte` | string | Origine di `stato`: `normattiva` (status ufficiale IPZS, `classeProvvedimento`) |
+| `vigenza_fonte` | string | Origine di `stato`: `normattiva` (lista ufficiale abrogati, `classeProvvedimento` 3) \| `non_coperto` (assente dalla lista ma con nota whole-act) \| `esclusione` (assente, `vigente` per esclusione) |
 | `duplicato` | bool | Stesso atto (data+numero) presente più volte nel corpus |
 | `n_citazioni` | int | Citazioni in ingresso dal grafo riferimenti |
 | `orfano` | bool | Nessuna citazione in uscita né in ingresso |

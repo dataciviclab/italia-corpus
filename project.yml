@@ -36,13 +36,14 @@ outputs:
     contract: >
       atto + qualità + materia/sunsetting + EIV/AKN + stato/vigenza_fonte
       (superset main CI). stato = status autorevole Normattiva
-      (classeProvvedimento, atto-level); vigenza_fonte = normattiva|unknown.
+      (classeProvvedimento 3 = lista ufficiale abrogati, o nota whole-act;
+      atto-level); vigenza_fonte = normattiva|non_coperto|esclusione.
   - path: data/derived/status.parquet
     kind: metadata
     contract: >
       status atto-level autorevole: chiave (codice_redazionale, data_gu)
-      → stato (solo 'abrogato', classe 3). Gli atti assenti sono vigenti per
-      esclusione. Da ricerca/avanzata (filtro classeProvvedimento).
+      → stato (solo 'abrogato', classe 3 = lista ufficiale "Atti normativi
+      abrogati"). Da ricerca/avanzata (filtro classeProvvedimento).
       Consumato da integra-vigenza. Non committato (rigenerato da fetch-status).
   - path: data/derived/riferimenti.parquet
     kind: graph_edges

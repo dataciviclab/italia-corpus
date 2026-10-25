@@ -16,17 +16,16 @@ def _atto(cod="051U0207", **over):
     return a
 
 
-def test_classe_1_2_vigente():
-    rows = build_rows([("1", [_atto("A")]), ("2", [_atto("B")])])
-    assert {r["codice_redazionale"]: r["stato"] for r in rows} == {
-        "A": "vigente", "B": "vigente",
-    }
-
-
 def test_classe_3_abrogato():
     rows = build_rows([("3", [_atto("C")])])
     assert rows[0]["stato"] == "abrogato"
     assert rows[0]["classe"] == "3"
+
+
+def test_classe_non_abrogato_ignorata():
+    """Le classi 1/2 ("aggiornato") NON sono uno stato → ignorate."""
+    rows = build_rows([("1", [_atto("A")]), ("2", [_atto("B")])])
+    assert rows == []
 
 
 def test_salta_senza_codice():

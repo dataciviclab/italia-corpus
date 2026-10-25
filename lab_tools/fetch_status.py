@@ -1,19 +1,22 @@
-"""Scarica lo status autorevole (vigente/abrogato) da Normattiva.
+"""Scarica lo status autorevole (abrogato) da Normattiva.
 
-Lo status atto-level è un **metadato**: NON va derivato dal testo (tombstone,
-eventi AKN). La fonte è `POST /ricerca/avanzata` con filtro `classeProvvedimento`
-(tipologia ufficiale IPZS):
+Lo status atto-level è un **metadato ufficiale**, non derivato dal testo. La
+fonte è `POST /ricerca/avanzata` con filtro `classeProvvedimento` (tipologia
+ufficiale IPZS, dal catalogo `tipologiche/classe-provvedimento`):
 
-    1 = atto normativo – senza aggiornamenti  -> vigente
-    2 = atto normativo – aggiornato           -> vigente
-    3 = atto normativo – abrogato             -> abrogato
+    1 = atto normativo – senza aggiornamenti
+    2 = atto normativo – aggiornato   (NON significa "vigente": è "ha avuto
+                                       modifiche"; vi finiscono anche atti
+                                       abrogati → non usare come vigente)
+    3 = atto normativo – abrogato     -> abrogato
+
+La classe 3 coincide con la collezione ufficiale **"Atti normativi abrogati"**
+(~124k atti) → è la lista autorevole degli abrogati. Scarichiamo **solo la
+classe 3** (~6 min): gli atti assenti sono vigenti, salvo la nota whole-act
+`PROVVEDIMENTO ABROGATO` (vedi `integra_vigenza`).
 
 Ritorna **metadati** (nessun testo) → artifact `data/derived/status.parquet`,
 chiave `(codice_redazionale, data_gu)`.
-
-Di default scarica **solo la classe 3 (abrogato)**: gli atti non presenti sono
-vigenti per esclusione (classe 1/2). Dimezza il costo del fetch (~6 min vs ~10)
-e non perde nulla che usiamo. Override: `--classi 1,2,3`.
 
 Nota: la ricerca **non distingue** `decaduto` (i DL decaduti sono classe 3).
 La distinzione è preservata a valle da `integra_vigenza` (collezione
@@ -44,13 +47,10 @@ logger = logging.getLogger(__name__)
 
 OUTPUT = OUTDIR / "status.parquet"
 
-# ClasseProvvedimento → stato (atto-level).
-STATO_PER_CLASSE: dict[str, str] = {"1": "vigente", "2": "vigente", "3": "abrogato"}
-
-# Classi scaricate di default: **solo la 3 (abrogato)**. Gli atti non presenti
-# qui sono vigenti per esclusione (classe 1/2) → dimezza il costo del fetch e
-# non perde nulla che usiamo. Override con `--classi 1,2,3`.
-CLASSI_DEFAULT: tuple[str, ...] = (CLASSE_ABROGATO,)
+# ClasseProvvedimento → stato. Solo la 3 ("abrogato") è uno stato: coincide con
+# la lista ufficiale "Atti normativi abrogati". Le classi 1/2 ("senza
+# aggiornamenti"/"aggiornato") NON sono "vigente" → non mappate.
+STATO_PER_CLASSE: dict[str, str] = {CLASSE_ABROGATO: "abrogato"}
 
 _TITOLO_MAX = 300
 
@@ -91,28 +91,25 @@ def build_rows(atti_per_classe: list[tuple[str, list[dict]]]) -> list[dict]:
 
 
 def _fetch_all(
-    classi: tuple[str, ...], page_size: int, max_pagine: int | None
+    page_size: int, max_pagine: int | None
 ) -> list[tuple[str, list[dict]]]:
-    """Scarica le classi richieste (paginazione + pacing nel client).
+    """Scarica la lista ufficiale degli abrogati (classe 3; pacing nel client).
 
     Con `max_pagine=None` (fetch completo) `strict=True`: un errore o un
     conteggio incompleto solleva `FetchIncompleto` e NON si scrive un file
     parziale.
     """
     strict = max_pagine is None
-    out: list[tuple[str, list[dict]]] = []
-    for classe in classi:
-        atti = list(
-            itera_atti_per_classe(
-                classe,
-                page_size=page_size,
-                max_pagine=max_pagine,
-                strict=strict,
-            )
+    atti = list(
+        itera_atti_per_classe(
+            CLASSE_ABROGATO,
+            page_size=page_size,
+            max_pagine=max_pagine,
+            strict=strict,
         )
-        logger.info("classe %s: %d atti", classe, len(atti))
-        out.append((classe, atti))
-    return out
+    )
+    logger.info("classe %s: %d atti", CLASSE_ABROGATO, len(atti))
+    return [(CLASSE_ABROGATO, atti)]
 
 
 def main() -> int:
@@ -124,12 +121,8 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Fetch status da Normattiva")
     parser.add_argument("--page-size", type=int, default=RICERCA_PAGE_SIZE)
     parser.add_argument(
-        "--classi", default=",".join(CLASSI_DEFAULT),
-        help="ClassiProvvedimento da scaricare (default: solo 3=abrogato).",
-    )
-    parser.add_argument(
         "--max-pagine", type=int, default=None,
-        help="Limita le pagine per classe (smoke test).",
+        help="Limita le pagine (smoke test).",
     )
     args = parser.parse_args()
 
@@ -137,9 +130,8 @@ def main() -> int:
         level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s"
     )
 
-    classi = tuple(c.strip() for c in args.classi.split(",") if c.strip())
     try:
-        atti_per_classe = _fetch_all(classi, args.page_size, args.max_pagine)
+        atti_per_classe = _fetch_all(args.page_size, args.max_pagine)
     except FetchIncompleto as e:
         raise SystemExit(
             f"Fetch INCOMPLETO — status.parquet NON scritto (per non pubblicare "
