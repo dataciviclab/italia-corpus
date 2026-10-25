@@ -11,7 +11,7 @@ a Markdown. Tutto cercabile per testo, struttura e materia.
 
 | | |
 |---|---|
-| **Atti normativi** | 22.016 (12.901 vigenti, 7.354 abrogati, 1.761 decaduti) |
+| **Atti normativi** | 22.017 (11.980 vigenti, 8.302 abrogati, 1.735 decaduti) |
 | **Collezioni** | 20 (DL e conversioni, decreti legislativi, codici, testi unici, DPCM...) |
 | **Riferimenti incrociati** | 92.580 archi tra atti |
 | **Materie** | 25 categorie (fisco, ambientale, lavoro, giustizia, etc.) |
@@ -37,9 +37,9 @@ legal_search("decreti-legge ambiente energia")
 legal_text("urn:nir:stato:decreto.legislativo:2001-06-08;231")
 ```
 
-Ogni risultato include `stato` (vigente/abrogato/decaduto), `qualita_score` (0-100),
+Ogni risultato include `stato` (vigente/abrogato/decaduto), `vigenza_fonte`, `qualita_score` (0-100),
 `materia`, `orfano`, `n_citazioni`, `duplicato` e `sunsetting_score`.
-Filtri disponibili: `stato`, `min_score`, `materia`, `max_sunsetting`.
+Filtri disponibili: `stato`, `vigenza_fonte`, `materia`, `min_score`, `collezione`.
 
 ### 2. Via SQL su parquet
 
@@ -79,6 +79,7 @@ Pipeline canonica (stage lineari, output dichiarati): **[docs/PIPELINE.md](docs/
 | Stage | Tool | Output |
 |---|---|---|
 | fetch | **Fetch Normattiva** | MD in `collezioni/` + `akn_relations` / `akn_act_meta` (merge) |
+| fetch-status | **Fetch status** | `status.parquet` (status atto-level autorevole, non committato) |
 | extract | **Extract metadati** | `normativa.parquet` |
 | grafo | **Grafo riferimenti** | `riferimenti.parquet` (`origine`: regex\|akn) |
 | arricchisci | **Qualità grafo** | `n_citazioni`, `orfano`, `qualita_score` |
