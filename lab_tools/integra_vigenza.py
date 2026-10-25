@@ -9,10 +9,11 @@ Regole:
      filename del corpus porta la data GU (`<dataGU>_<codice>_…`);
      `(codice_redazionale, anno, numero)` NON è univoco (atti diversi
      condividono codice/anno/numero, es. GU diverse);
-  2. `stato` = `status.stato` (`vigente` | `abrogato`), `vigenza_fonte='normattiva'`;
+  2. `status.parquet` contiene **solo gli atti abrogati** (classe 3): un atto
+     presente → `abrogato`, assente → `vigente` (per esclusione, classe 1/2);
+     `vigenza_fonte='normattiva'`;
   3. collezione **'DL decaduti'** → `decaduto` (la ricerca non distingue
-     `decaduto`, che è una categoria del corpus);
-  4. non coperto da `status` → `stato` invariato, `vigenza_fonte='unknown'`.
+     `decaduto`, che è una categoria del corpus).
 
 **Rimosso**: tombstone (per lo `stato`) e override dagli eventi AKN
 (article-level → falsi positivi, es. Codice Civile).
@@ -32,7 +33,6 @@ NORMATIVA = OUTDIR / "normativa.parquet"
 STATUS = OUTDIR / "status.parquet"
 
 FONTE_NORMATTIVA = "normattiva"
-FONTE_UNKNOWN = "unknown"
 
 # Collezione i cui atti sono "decaduti" (la ricerca li classifica abrogati).
 COLLEZIONE_DECADUTI = "DL decaduti"
@@ -57,7 +57,9 @@ def apply_status(normativa, status):
 
     `normativa`: DataFrame con `codice_redazionale`, `filename`, `collezione`,
     `stato`, `vigente`.
-    `status`: DataFrame con `codice_redazionale`, `data_gu`, `stato`.
+    `status`: DataFrame con `codice_redazionale`, `data_gu`, `stato` —
+    contiene **solo gli atti abrogati** (classe 3). Un atto assente è vigente
+    per esclusione (classe 1/2).
 
     Ritorna una copia di `normativa` con `stato`, `vigente`, `vigenza_fonte`.
     """
@@ -68,9 +70,8 @@ def apply_status(normativa, status):
 
     st = status[["codice_redazionale", "data_gu", "stato"]].copy()
     st["_k"] = _chiave(st["codice_redazionale"], st["data_gu"])
-    # tie-break deterministico per le chiavi duplicate residue (1 caso noto,
-    # es. 26G00061): preferisci 'abrogato' (stato terminale) — non dipendere
-    # dall'ordine della risposta API.
+    # tie-break deterministico per le chiavi duplicate residue: preferisci
+    # 'abrogato' — non dipendere dall'ordine della risposta API.
     st["_prio"] = st["stato"].map({"abrogato": 0, "vigente": 1}).fillna(2)
     st = (
         st.sort_values("_prio")
@@ -79,13 +80,11 @@ def apply_status(normativa, status):
     )
 
     df = df.merge(st, on="_k", how="left")
-    matched = df["_st"].notna()
 
-    # 1. stato di base: status autorevole, fallback al valore pregresso
-    nuovo = df["stato"].astype("string").str.strip().str.lower()
-    nuovo = nuovo.where(~matched, df["_st"])
+    # status contiene solo gli abrogati: assente → vigente (per esclusione)
+    nuovo = df["_st"].where(df["_st"].notna(), "vigente")
 
-    # 2. decaduto: collezione dedicata (la ricerca non lo distingue)
+    # decaduto: collezione dedicata (la ricerca li dà abrogati)
     decaduto = df["collezione"].astype("string").str.contains(
         COLLEZIONE_DECADUTI, na=False
     )
@@ -93,8 +92,7 @@ def apply_status(normativa, status):
 
     df["stato"] = nuovo
     df["vigente"] = nuovo == "vigente"
-    df["vigenza_fonte"] = FONTE_UNKNOWN
-    df.loc[matched, "vigenza_fonte"] = FONTE_NORMATTIVA
+    df["vigenza_fonte"] = FONTE_NORMATTIVA
 
     return df.drop(columns=["_k", "_st"])
 
@@ -120,13 +118,11 @@ def main() -> int:
     df = apply_status(df, status)
     df.to_parquet(NORMATIVA, index=False)
 
-    n_unknown = int((df["vigenza_fonte"] == FONTE_UNKNOWN).sum())
     print(f"normativa: {before} righe")
     print("stato:")
     print(df["stato"].value_counts().to_string())
     print("vigenza_fonte:")
     print(df["vigenza_fonte"].value_counts().to_string())
-    print(f"non coperti da status (unknown): {n_unknown}")
     return 0
 
 

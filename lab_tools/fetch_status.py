@@ -9,7 +9,11 @@ eventi AKN). La fonte è `POST /ricerca/avanzata` con filtro `classeProvvediment
     3 = atto normativo – abrogato             -> abrogato
 
 Ritorna **metadati** (nessun testo) → artifact `data/derived/status.parquet`,
-chiave `codice_redazionale` (copertura corpus 100%).
+chiave `(codice_redazionale, data_gu)`.
+
+Di default scarica **solo la classe 3 (abrogato)**: gli atti non presenti sono
+vigenti per esclusione (classe 1/2). Dimezza il costo del fetch (~6 min vs ~10)
+e non perde nulla che usiamo. Override: `--classi 1,2,3`.
 
 Nota: la ricerca **non distingue** `decaduto` (i DL decaduti sono classe 3).
 La distinzione è preservata a valle da `integra_vigenza` (collezione
@@ -31,7 +35,6 @@ from datetime import datetime
 from lab_tools._paths import OUTDIR
 from lab_tools.normattiva_client import (
     CLASSE_ABROGATO,
-    CLASSE_VIGENTE,
     RICERCA_PAGE_SIZE,
     FetchIncompleto,
     itera_atti_per_classe,
@@ -41,8 +44,13 @@ logger = logging.getLogger(__name__)
 
 OUTPUT = OUTDIR / "status.parquet"
 
-# classeProvvedimento → stato (atto-level)
+# ClasseProvvedimento → stato (atto-level).
 STATO_PER_CLASSE: dict[str, str] = {"1": "vigente", "2": "vigente", "3": "abrogato"}
+
+# Classi scaricate di default: **solo la 3 (abrogato)**. Gli atti non presenti
+# qui sono vigenti per esclusione (classe 1/2) → dimezza il costo del fetch e
+# non perde nulla che usiamo. Override con `--classi 1,2,3`.
+CLASSI_DEFAULT: tuple[str, ...] = (CLASSE_ABROGATO,)
 
 _TITOLO_MAX = 300
 
@@ -82,8 +90,10 @@ def build_rows(atti_per_classe: list[tuple[str, list[dict]]]) -> list[dict]:
     return rows
 
 
-def _fetch_all(page_size: int, max_pagine: int | None) -> list[tuple[str, list[dict]]]:
-    """Scarica tutte le classi (paginazione + pacing nel client).
+def _fetch_all(
+    classi: tuple[str, ...], page_size: int, max_pagine: int | None
+) -> list[tuple[str, list[dict]]]:
+    """Scarica le classi richieste (paginazione + pacing nel client).
 
     Con `max_pagine=None` (fetch completo) `strict=True`: un errore o un
     conteggio incompleto solleva `FetchIncompleto` e NON si scrive un file
@@ -91,7 +101,7 @@ def _fetch_all(page_size: int, max_pagine: int | None) -> list[tuple[str, list[d
     """
     strict = max_pagine is None
     out: list[tuple[str, list[dict]]] = []
-    for classe in (*CLASSE_VIGENTE, CLASSE_ABROGATO):
+    for classe in classi:
         atti = list(
             itera_atti_per_classe(
                 classe,
@@ -114,6 +124,10 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Fetch status da Normattiva")
     parser.add_argument("--page-size", type=int, default=RICERCA_PAGE_SIZE)
     parser.add_argument(
+        "--classi", default=",".join(CLASSI_DEFAULT),
+        help="ClassiProvvedimento da scaricare (default: solo 3=abrogato).",
+    )
+    parser.add_argument(
         "--max-pagine", type=int, default=None,
         help="Limita le pagine per classe (smoke test).",
     )
@@ -123,8 +137,9 @@ def main() -> int:
         level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s"
     )
 
+    classi = tuple(c.strip() for c in args.classi.split(",") if c.strip())
     try:
-        atti_per_classe = _fetch_all(args.page_size, args.max_pagine)
+        atti_per_classe = _fetch_all(classi, args.page_size, args.max_pagine)
     except FetchIncompleto as e:
         raise SystemExit(
             f"Fetch INCOMPLETO — status.parquet NON scritto (per non pubblicare "

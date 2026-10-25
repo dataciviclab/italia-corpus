@@ -41,9 +41,9 @@ outputs:
     kind: metadata
     contract: >
       status atto-level autorevole: chiave (codice_redazionale, data_gu)
-      → stato (vigente|abrogato), classe (1/2/3). Da ricerca/avanzata
-      (filtro classeProvvedimento). Consumato da integra-vigenza.
-      Non committato (rigenerato da fetch-status).
+      → stato (solo 'abrogato', classe 3). Gli atti assenti sono vigenti per
+      esclusione. Da ricerca/avanzata (filtro classeProvvedimento).
+      Consumato da integra-vigenza. Non committato (rigenerato da fetch-status).
   - path: data/derived/riferimenti.parquet
     kind: graph_edges
     contract: >

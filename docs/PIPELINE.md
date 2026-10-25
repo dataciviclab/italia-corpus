@@ -37,7 +37,7 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 | # | Stage | Comando | Output |
 |---|---|---|---|
 | 1 | **fetch** | `python -m lab_tools.fetch_normattiva [--only …]` | MD + `akn_*.parquet` (staging + merge) |
-| 1b | **fetch-status** | `python -m lab_tools.fetch_status` | `status.parquet` (status atto-level autorevole, **no testo**) |
+| 1b | **fetch-status** | `python -m lab_tools.fetch_status` | `status.parquet` (solo **abrogati**, classe 3; no testo) |
 | 2 | **extract** | `python -m lab_tools.extract` | `normativa.parquet` (metadati base) |
 | 3 | **classifica** | `python -m lab_tools.classifica_tematich` | + `materia` |
 | 4 | **citazioni/pnrr/abrogations** | moduli `estrai_*` / `extract_*` | side product su disco |
@@ -67,11 +67,11 @@ Lo `stato` atto-level è un **metadato**, non va derivato dal testo. La fonte è
 1. join `normativa` ↔ `status` su **(codice_redazionale, data GU)** — il filename
    del corpus porta la data GU; `(codice, anno, numero)` NON è univoco (atti
    diversi condividono codice/anno/numero, es. GU diverse);
-2. `stato` = `status.stato`, `vigenza_fonte='normattiva'`;
-3. collezione **'DL decaduti'** → `decaduto` (la ricerca non distingue `decaduto`);
-4. non coperto → `stato` invariato, `vigenza_fonte='unknown'` (oggi 3/22.017).
+2. `status` contiene **solo gli abrogati** (classe 3): presente → `abrogato`,
+   assente → `vigente` (per esclusione, classe 1/2);
+3. collezione **'DL decaduti'** → `decaduto` (la ricerca non distingue `decaduto`).
 
-`vigenza_fonte` = `normattiva` | `unknown`.
+`vigenza_fonte` = `normattiva`.
 
 > **Rimosso** (2026-10-25): tombstone (per lo `stato`) e override dagli eventi AKN.
 > Gli eventi AKN `repeal`/`substitution` sono **article-level** → marcavano l'atto

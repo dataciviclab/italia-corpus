@@ -115,7 +115,7 @@ Colonne di qualità:
 |---|---|---|
 | `stato` | string | `vigente` \| `abrogato` \| `decaduto` — **status autorevole** Normattiva (`classeProvvedimento`, atto-level), non derivato dal testo. `decaduto` = collezione "DL decaduti" |
 | `vigente` | bool | `stato == 'vigente'` (il frontmatter MD di Normattiva è inaffidabile) |
-| `vigenza_fonte` | string | Origine di `stato`: `normattiva` (status ufficiale IPZS) \| `unknown` (non coperto, raro) |
+| `vigenza_fonte` | string | Origine di `stato`: `normattiva` (status ufficiale IPZS, `classeProvvedimento`) |
 | `duplicato` | bool | Stesso atto (data+numero) presente più volte nel corpus |
 | `n_citazioni` | int | Citazioni in ingresso dal grafo riferimenti |
 | `orfano` | bool | Nessuna citazione in uscita né in ingresso |

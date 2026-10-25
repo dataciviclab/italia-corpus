@@ -3,7 +3,6 @@
 import pandas as pd
 from lab_tools.integra_vigenza import (
     FONTE_NORMATTIVA,
-    FONTE_UNKNOWN,
     apply_status,
 )
 
@@ -33,13 +32,14 @@ def test_match_normattiva():
     assert not bool(out.loc[0, "vigente"])
 
 
-def test_no_match_unknown():
+def test_no_match_vigente():
+    """Assente da status (solo abrogati) → vigente per esclusione."""
     out = apply_status(
-        _norm([("A", "2000-01-01_000A0001_ORIGINALE_V0.md", "X", "vigente", True)]),
+        _norm([("A", "2000-01-01_000A0001_ORIGINALE_V0.md", "X", "abrogato", False)]),
         _status([("B", "2001-01-01", "abrogato")]),
     )
     assert out.loc[0, "stato"] == "vigente"
-    assert out.loc[0, "vigenza_fonte"] == FONTE_UNKNOWN
+    assert out.loc[0, "vigenza_fonte"] == FONTE_NORMATTIVA
 
 
 def test_decaduto_da_collezione():
