@@ -13,7 +13,7 @@ a Markdown. Tutto cercabile per testo, struttura e materia.
 |---|---|
 | **Atti normativi** | 22.017 (11.980 vigenti, 8.302 abrogati, 1.735 decaduti) |
 | **Collezioni** | 20 (DL e conversioni, decreti legislativi, codici, testi unici, DPCM...) |
-| **Riferimenti incrociati** | 92.580 archi tra atti |
+| **Riferimenti incrociati** | 136.441 archi tra atti |
 | **Materie** | 25 categorie (fisco, ambientale, lavoro, giustizia, etc.) |
 | **Aggiornamento** | Fetch giornaliero diretto dall'API Normattiva |
 
