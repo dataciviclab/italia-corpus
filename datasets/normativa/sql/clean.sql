@@ -4,7 +4,7 @@
 --   - PK = filename (basename univoco del file corpus)
 --   - urn può ripetersi: non è PK; per analisi si usa come atto_id secondario
 --   - stato = tombstone Normattiva (NON vigenza live) — colonna rinominata solo in doc
---   - vigenza_fonte = origine di stato (vigenza_snapshot|akn|regex|unknown); regex = candidato, stato invariato (issue #67)
+--   - vigenza_fonte = origine di stato (normattiva|unknown); normattiva = status ufficiale IPZS (classeProvvedimento), non derivato dal testo
 --   - materia / qualita_score / sunsetting_score: contratto consumer (LG + MCP)
 --   - vigente: derivato da stato; tenuto per compat MCP
 --   - akn_*: presenti sul corpus pieno; EIV in ingresso_in_vigore

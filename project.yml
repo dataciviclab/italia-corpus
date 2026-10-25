@@ -18,13 +18,14 @@ pipeline:
   # ordine canonico — vedi docs/PIPELINE.md e build-dataset.yml
   stages:
     - fetch            # MD + akn_* (staging + merge)
+    - fetch-status     # status.parquet: status atto-level autorevole (no testo)
     - extract          # normativa base
     - classifica       # + materia  (PRIMA di grafo)
     - citazioni        # side product su disco
     - pnrr             # side product
     - abrogations      # side product (regex fallback)
     - integra          # + cit. cost./abrogazioni (legge side product)
-    - integra-vigenza  # + stato (override AKN) + vigenza_fonte (PRIMA di grafo)
+    - integra-vigenza  # stato da status.parquet (autorevole) + vigenza_fonte (PRIMA di grafo)
     - grafo            # riferimenti regex∪AKN, denorm materia
     - arricchisci      # qualità grafo
     - integra-akn      # + EIV, akn_*
@@ -34,8 +35,14 @@ outputs:
     kind: table
     contract: >
       atto + qualità + materia/sunsetting + EIV/AKN + stato/vigenza_fonte
-      (superset main CI). vigenza_fonte = vigenza_snapshot|akn|regex|unknown:
-      regex è solo candidato, stato non modificato (issue #67).
+      (superset main CI). stato = status autorevole Normattiva
+      (classeProvvedimento, atto-level); vigenza_fonte = normattiva|unknown.
+  - path: data/derived/status.parquet
+    kind: metadata
+    contract: >
+      status atto-level autorevole: chiave (codice_redazionale, anno, numero)
+      → stato (vigente|abrogato), classe (1/2/3). Da ricerca/avanzata
+      (filtro classeProvvedimento). Consumato da integra-vigenza.
   - path: data/derived/riferimenti.parquet
     kind: graph_edges
     contract: >

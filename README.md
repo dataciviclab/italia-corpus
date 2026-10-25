@@ -85,11 +85,11 @@ Pipeline canonica (stage lineari, output dichiarati): **[docs/PIPELINE.md](docs/
 | integra-akn | **Join AKN meta** | `ingresso_in_vigore`, `akn_*` (se presenti) |
 | classifica | **Classifica tematico** | `materia` (downstream) |
 | integra | **Costituzionali** | cit. cost. / abrogazioni (downstream) |
-| integra-vigenza | **Vigenza** | `stato` (override AKN) + `vigenza_fonte` |
+| integra-vigenza | **Vigenza** | `stato` (status autorevole Normattiva) + `vigenza_fonte` |
 
 ### CI / Manutenzione
 
-- **Build** (06:30): fetch → extract → classifica → integra → side product → **integra-vigenza** → grafo → arricchisci → **integra-akn** → sunsetting
+- **Build** (06:30): fetch → **fetch-status** → extract → classifica → integra → side product → **integra-vigenza** → grafo → arricchisci → **integra-akn** → sunsetting
 - **Locale**: `make pipeline` (stesso ordine, senza fetch)
 - **Test**: `pytest tests/ -v` su ogni push/PR
 - **Ruolo Lab**: IC produce MD+parquet; **legal-graph** li aggrega — non duplicare grafi qui
@@ -112,9 +112,9 @@ Colonne di qualità:
 
 | Colonna | Tipo | Significato |
 |---|---|---|
-| `stato` | string | `vigente` \| `abrogato` \| `decaduto` — tombstone Normattiva nel body, con override AKN (repeal/substitution). ⚠️ Affidabile quando `vigenza_fonte` ≠ `unknown`: gli atti solo ORIGINALE senza segnale restano `vigente` per costruzione |
+| `stato` | string | `vigente` \| `abrogato` \| `decaduto` — **status autorevole** Normattiva (`classeProvvedimento`, atto-level), non derivato dal testo. `decaduto` = collezione "DL decaduti" |
 | `vigente` | bool | `stato == 'vigente'` (il frontmatter MD di Normattiva è inaffidabile) |
-| `vigenza_fonte` | string | Origine di `stato`: `vigenza_snapshot` (snapshot VIGENZA: tombstone o conferma vigore) \| `akn` (override repeal/substitution) \| `regex` (candidato, `stato` invariato) \| `unknown` (ORIGINALE, non verificato) |
+| `vigenza_fonte` | string | Origine di `stato`: `normattiva` (status ufficiale IPZS) \| `unknown` (non coperto, raro) |
 | `duplicato` | bool | Stesso atto (data+numero) presente più volte nel corpus |
 | `n_citazioni` | int | Citazioni in ingresso dal grafo riferimenti |
 | `orfano` | bool | Nessuna citazione in uscita né in ingresso |
