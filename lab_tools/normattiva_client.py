@@ -35,6 +35,10 @@ CLASSE_ABROGATO = "3"
 RICERCA_PAGE_SIZE = 1000
 RICERCA_PACE_SECONDS = 2.0
 
+
+class FetchIncompleto(RuntimeError):
+    """Paginazione interrotta (WAF/errore) o conteggio incompleto."""
+
 # IPZS serve la catena TLS completa dal 2026-10-02 (verificato con verify=True).
 # Tracking: https://github.com/dataciviclab/italia-corpus/issues/46
 VERIFY_TLS = True
@@ -365,22 +369,43 @@ def itera_atti_per_classe(
     page_size: int = RICERCA_PAGE_SIZE,
     pace: float = RICERCA_PACE_SECONDS,
     max_pagine: int | None = None,
+    strict: bool = True,
 ):
     """Genera gli atti di una classeProvvedimento, paginando con pacing.
 
-    WAF IPZS: `pace` secondi tra le pagine (default 2.0). Stop su errore.
+    WAF IPZS: `pace` secondi tra le pagine (default 2.0).
+
+    Args:
+        strict: se True (default) solleva `FetchIncompleto` su errore o
+            conteggio incompleto — così un blocco a metà paginazione **non**
+            produce uno status parziale silenzioso. Con `max_pagine` (smoke)
+            il controllo di completezza è disattivato.
     """
     page = 1
+    expected: int | None = None
+    n = 0
     while True:
         res = ricerca_avanzata(classe, page=page, page_size=page_size)
         if res is None:
+            if strict:
+                raise FetchIncompleto(
+                    f"classe {classe}: ricerca fallita a pagina {page}"
+                )
             logger.warning("Stop paginazione classe %s a pagina %d", classe, page)
             break
+        if expected is None:
+            expected = res["numero_atti"]
         for atto in res["atti"]:
             yield atto
+        n += len(res["atti"])
         if page >= res["numero_pagine"]:
             break
         if max_pagine is not None and page >= max_pagine:
             break
         page += 1
         time.sleep(pace)
+
+    if strict and max_pagine is None and expected is not None and n != expected:
+        raise FetchIncompleto(
+            f"classe {classe}: {n}/{expected} atti (paginazione incompleta)"
+        )

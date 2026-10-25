@@ -68,8 +68,13 @@ def apply_status(normativa, status):
 
     st = status[["codice_redazionale", "data_gu", "stato"]].copy()
     st["_k"] = _chiave(st["codice_redazionale"], st["data_gu"])
+    # tie-break deterministico per le chiavi duplicate residue (1 caso noto,
+    # es. 26G00061): preferisci 'abrogato' (stato terminale) — non dipendere
+    # dall'ordine della risposta API.
+    st["_prio"] = st["stato"].map({"abrogato": 0, "vigente": 1}).fillna(2)
     st = (
-        st.drop_duplicates("_k", keep="first")[["_k", "stato"]]
+        st.sort_values("_prio")
+        .drop_duplicates("_k", keep="first")[["_k", "stato"]]
         .rename(columns={"stato": "_st"})
     )
 

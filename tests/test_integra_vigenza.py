@@ -69,3 +69,15 @@ def test_chiave_ambigua_disambiguata_da_data_gu():
     )
     assert out.loc[0, "stato"] == "vigente"
     assert out.loc[0, "vigenza_fonte"] == FONTE_NORMATTIVA
+
+
+def test_tie_break_deterministico():
+    """Chiave duplicata residua (stesso codice+GU, stato conflittuale) → abrogato."""
+    out = apply_status(
+        _norm([("26G00061", "2026-01-01_26G00061_V0.md", "X", "vigente", True)]),
+        _status([
+            ("26G00061", "2026-01-01", "vigente"),
+            ("26G00061", "2026-01-01", "abrogato"),
+        ]),
+    )
+    assert out.loc[0, "stato"] == "abrogato"

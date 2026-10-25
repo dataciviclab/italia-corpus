@@ -5,6 +5,7 @@ from unittest.mock import MagicMock, patch
 import pytest
 from lab_tools.normattiva_client import (
     CLASSE_ABROGATO,
+    FetchIncompleto,
     download_collection,
     extract_zip,
     fetch_act_by_urn,
@@ -298,7 +299,36 @@ class TestIteraAttiPerClasse:
         mock_sleep.assert_called_once()  # pacing solo tra le pagine
 
     @patch("lab_tools.normattiva_client.ricerca_avanzata")
-    def test_stop_su_errore(self, mock_ric):
+    def test_errore_strict_solleva(self, mock_ric):
+        """strict (default): errore a metà paginazione → FetchIncompleto."""
         mock_ric.return_value = None
-        assert list(itera_atti_per_classe("3")) == []
+        with pytest.raises(FetchIncompleto):
+            list(itera_atti_per_classe("3"))
+
+    @patch("lab_tools.normattiva_client.ricerca_avanzata")
+    def test_errore_non_strict_stop(self, mock_ric):
+        mock_ric.return_value = None
+        assert list(itera_atti_per_classe("3", strict=False)) == []
+
+    @patch("lab_tools.normattiva_client.ricerca_avanzata")
+    def test_incompleto_solleva(self, mock_ric):
+        """Conteggio atti < numero_attiTrovati → FetchIncompleto (no file parziale)."""
+        mock_ric.return_value = {
+            "atti": [{"codiceRedazionale": "A"}],
+            "numero_atti": 2,
+            "numero_pagine": 1,
+        }
+        with pytest.raises(FetchIncompleto):
+            list(itera_atti_per_classe("3"))
+
+    @patch("lab_tools.normattiva_client.time.sleep")
+    @patch("lab_tools.normattiva_client.ricerca_avanzata")
+    def test_smoke_max_pagine_non_strict(self, mock_ric, mock_sleep):
+        """max_pagine (smoke) → nessun controllo di completezza."""
+        mock_ric.return_value = {
+            "atti": [{"codiceRedazionale": "A"}],
+            "numero_atti": 999,
+            "numero_pagine": 999,
+        }
+        assert len(list(itera_atti_per_classe("3", max_pagine=1))) == 1
 

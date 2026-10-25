@@ -32,6 +32,7 @@ from lab_tools.normattiva_client import (
     CLASSE_ABROGATO,
     CLASSE_VIGENTE,
     RICERCA_PAGE_SIZE,
+    FetchIncompleto,
     itera_atti_per_classe,
 )
 
@@ -81,12 +82,21 @@ def build_rows(atti_per_classe: list[tuple[str, list[dict]]]) -> list[dict]:
 
 
 def _fetch_all(page_size: int, max_pagine: int | None) -> list[tuple[str, list[dict]]]:
-    """Scarica tutte le classi (paginazione + pacing nel client)."""
+    """Scarica tutte le classi (paginazione + pacing nel client).
+
+    Con `max_pagine=None` (fetch completo) `strict=True`: un errore o un
+    conteggio incompleto solleva `FetchIncompleto` e NON si scrive un file
+    parziale.
+    """
+    strict = max_pagine is None
     out: list[tuple[str, list[dict]]] = []
     for classe in (*CLASSE_VIGENTE, CLASSE_ABROGATO):
         atti = list(
             itera_atti_per_classe(
-                classe, page_size=page_size, max_pagine=max_pagine
+                classe,
+                page_size=page_size,
+                max_pagine=max_pagine,
+                strict=strict,
             )
         )
         logger.info("classe %s: %d atti", classe, len(atti))
@@ -112,7 +122,13 @@ def main() -> int:
         level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s"
     )
 
-    atti_per_classe = _fetch_all(args.page_size, args.max_pagine)
+    try:
+        atti_per_classe = _fetch_all(args.page_size, args.max_pagine)
+    except FetchIncompleto as e:
+        raise SystemExit(
+            f"Fetch INCOMPLETO — status.parquet NON scritto (per non pubblicare "
+            f"dati parziali): {e}"
+        )
     rows = build_rows(atti_per_classe)
     if not rows:
         raise SystemExit("Nessun atto scaricato — status.parquet non scritto.")
