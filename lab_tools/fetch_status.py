@@ -26,6 +26,7 @@ from __future__ import annotations
 
 import argparse
 import logging
+from datetime import datetime
 
 from lab_tools._paths import OUTDIR
 from lab_tools.normattiva_client import (
@@ -134,6 +135,9 @@ def main() -> int:
         raise SystemExit("Nessun atto scaricato — status.parquet non scritto.")
 
     df = pd.DataFrame(rows)
+    # vintage: quando lo status è stato effettivamente scaricato (per dichiarare
+    # la freschezza a valle; in CI può essere stale se il WAF ha bloccato il fetch)
+    df["fetched_at"] = datetime.now().isoformat(timespec="seconds")
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     df.to_parquet(OUTPUT, index=False)
 

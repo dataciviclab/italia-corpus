@@ -55,11 +55,16 @@ jobs:
       - name: Fetch da Normattiva (MD + artifact AKN)
         run: python -m lab_tools.fetch_normattiva
       - name: Fetch status (ricerca classeProvvedimento)
+        id: fetch_status
         run: python -m lab_tools.fetch_status
         # WAF IPZS: se il fetch è bloccato resta lo status in cache (stale ma
         # presente) e il build prosegue. La guardia strict impedisce comunque
         # di scrivere dati parziali. Prima run senza cache → fallisce (giusto).
         continue-on-error: true
+      - name: Warn se status stale (WAF)
+        if: steps.fetch_status.outcome == 'failure'
+        run: |
+          echo "::warning::fetch-status FALLITO (WAF IPZS?) — uso lo status in cache (STALE). La freschezza di 'stato' NON è garantita."
       - name: Extract metadati
         run: python -m lab_tools.extract
       # Ordine onesto (docs/PIPELINE.md):

@@ -55,6 +55,7 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 - `make fetch-status` = stage 1b (network, WAF IPZS → pacing)
 
 **CI**: stessa sequenza + fetch + fetch-status + lint + contract check (main ⊂ derived)
+- `fetch-status` in CI è **non fatale** (`continue-on-error`): se il WAF IPZS blocca il runner, resta lo status **in cache** (stale) e il build prosegue, con un `::warning::`. La freschezza di `stato` **non è garantita**; il vintage è in `status.parquet.fetched_at`.
 
 **`stato` / `vigenza_fonte`**
 
