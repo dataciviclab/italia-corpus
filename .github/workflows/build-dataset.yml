@@ -45,6 +45,7 @@ jobs:
           path: |
             data/derived/_fetch_manifest.json
             data/derived/atti_api.parquet
+            data/derived/status.parquet
           key: fetch-cache-${{ steps.cache-key.outputs.date }}
           restore-keys: |
             fetch-cache-
@@ -55,6 +56,10 @@ jobs:
         run: python -m lab_tools.fetch_normattiva
       - name: Fetch status (ricerca classeProvvedimento)
         run: python -m lab_tools.fetch_status
+        # WAF IPZS: se il fetch è bloccato resta lo status in cache (stale ma
+        # presente) e il build prosegue. La guardia strict impedisce comunque
+        # di scrivere dati parziali. Prima run senza cache → fallisce (giusto).
+        continue-on-error: true
       - name: Extract metadati
         run: python -m lab_tools.extract
       # Ordine onesto (docs/PIPELINE.md):
