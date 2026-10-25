@@ -33,6 +33,11 @@ Da eseguire DOPO `extract` e DOPO `fetch_status`, e PRIMA di `grafo`/
 `arricchisci` (così `fonte_stato` negli edge e `qualita_score` usano lo stato
 corretto).
 
+**Idempotenza**: lo `stato` in input deve venire dall'`extract` **fresco** (il
+tombstone è il segnale). Rieseguirla su un parquet **già integrato**, senza
+re-extract, perpetuerebbe lo `stato` precedente (es. vecchi override) come
+tombstone. In pipeline l'ordine è `extract → … → integra-vigenza`: non accade.
+
 Uso: python -m lab_tools.integra_vigenza
 """
 
