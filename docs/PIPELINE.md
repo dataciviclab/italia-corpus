@@ -63,11 +63,12 @@ Lo `stato` atto-level è un **metadato**, non va derivato dal testo. La fonte è
 `classeProvvedimento` (tipologia **ufficiale IPZS**): 1/2 → `vigente`, 3 → `abrogato`.
 
 `integra-vigenza` (stage 5b):
-1. join `normativa` ↔ `status` su **(codice_redazionale, anno, numero)** — il solo
-   `codice_redazionale` NON è univoco (collisioni anche nel corpus);
+1. join `normativa` ↔ `status` su **(codice_redazionale, data GU)** — il filename
+   del corpus porta la data GU; `(codice, anno, numero)` NON è univoco (atti
+   diversi condividono codice/anno/numero, es. GU diverse);
 2. `stato` = `status.stato`, `vigenza_fonte='normattiva'`;
 3. collezione **'DL decaduti'** → `decaduto` (la ricerca non distingue `decaduto`);
-4. non coperto → `stato` invariato, `vigenza_fonte='unknown'` (oggi ~4/22.017).
+4. non coperto → `stato` invariato, `vigenza_fonte='unknown'` (oggi 3/22.017).
 
 `vigenza_fonte` = `normattiva` | `unknown`.
 
@@ -89,7 +90,7 @@ Lo `stato` atto-level è un **metadato**, non va derivato dal testo. La fonte è
 |---|---|---|
 | `collezioni/**/*.md` | testo + frontmatter URN | MCP, agenti, ricerca |
 | `normativa.parquet` | atto: metadati + qualità + materia/sunsetting + EIV/AKN + `stato`/`vigenza_fonte` | legal-graph, MCP, analisi |
-| `status.parquet` | status atto-level autorevole (`codice_redazionale`+`anno`+`numero` → `stato`, `classe`) | `integra-vigenza` (non pubblicato) |
+| `status.parquet` | status atto-level autorevole (`codice_redazionale`+`data_gu` → `stato`, `classe`) | `integra-vigenza` (non pubblicato, non committato) |
 | `atti_api.parquet` | leggi ordinarie fuori collezione (fetch `dettaglio-atto-urn`: vigenza + HTML) | legal-graph (nodi + target euristiche `attua_delega`) |
 | `riferimenti.parquet` | archi `peso`, `risolto`, `origine` (regex\|akn) | legal-graph, debt |
 | `akn_relations.parquet` | relazioni AKN tipizzate (full-corpus su fetch completo) | clean/tabella propria, debug |
