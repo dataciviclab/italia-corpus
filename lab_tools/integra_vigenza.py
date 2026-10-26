@@ -15,14 +15,15 @@ cascata (poi propagati a **tutte** le snapshot dell'atto via join):
 
 Join e regole:
   1. join `normativa` ↔ `status` su **(codice_redazionale, data GU)** — il
-     filename del corpus porta la data GU (`<dataGU>_<codice>_…`);
-     `(codice, anno, numero)` NON è univoco (atti diversi condividono
-     codice/anno/numero, es. GU diverse);
+     filename del corpus porta la data GU (`<dataGU>_<codice>_…`). Chiave
+     **esatta**: niente fallback, perché il codice redazionale è **riciclato**
+     (stesso codice/anno/numero per atti diversi: es. `072U0670` = regio
+     decreto 1872 *e* DPR 670/1972; `046U0098` = due DLL del 1946). Un atto
+     non matchato resta `vigente` (o `non_coperto` se ha la nota);
   2. il join è **atto-level**: ORIGINALE e VIGENZA della stessa legge
      condividono `(codice, data_gu)` → stesso `stato` (fix #67: le snapshot
      ORIGINALE non portano la nota e resterebbero `vigente`);
-  3. fallback su **codice** (se univoco in status) per GU discordanti;
-  4. collezione **'DL decaduti'** → `decaduto`.
+  3. collezione **'DL decaduti'** → `decaduto`.
 
 `vigenza_fonte` = `normattiva` | `non_coperto` | `esclusione`.
 
@@ -108,12 +109,10 @@ def apply_status(normativa, status):
     `stato` per riga:
       1. match su **(codice_redazionale, data_gu)** → `status.stato`
          (`fonte='normattiva'`);
-      2. fallback match su **codice_redazionale** (se univoco in status) →
-         `status.stato` (`fonte='normattiva'`);
-      3. non coperto ma con **tombstone whole-act** (`abrogato`/`decaduto`
+      2. non coperto ma con **tombstone whole-act** (`abrogato`/`decaduto`
          nello stato pregresso) → **invariato** (`fonte='non_coperto'`) — NON
          forzare `vigente` (regressione: l'archivio non classifica tutti gli atti);
-      4. non coperto senza tombstone → `vigente` (`fonte='esclusione'`).
+      3. non coperto senza tombstone → `vigente` (`fonte='esclusione'`).
 
     Poi: collezione **'DL decaduti'** → `decaduto`.
     """
@@ -129,22 +128,18 @@ def apply_status(normativa, status):
     # tie-break deterministico per le chiavi duplicate residue: preferisci
     # 'abrogato' — non dipendere dall'ordine della risposta API.
     st["_prio"] = st["stato"].map({"abrogato": 0, "vigente": 1}).fillna(2)
-    st = st.sort_values("_prio").drop_duplicates("_k", keep="first")
-    # fallback per codice: solo se il codice ha UNA sola riga in status
-    cod_size = st.groupby("codice_redazionale")["_k"].transform("size")
-    st_cod = (
-        st[cod_size == 1][["codice_redazionale", "stato"]]
-        .rename(columns={"stato": "_st_cod"})
+    st = (
+        st.sort_values("_prio")
+        .drop_duplicates("_k", keep="first")[["_k", "stato"]]
+        .rename(columns={"stato": "_st"})
     )
-    st = st[["_k", "stato"]].rename(columns={"stato": "_st"})
 
     df = df.merge(st, on="_k", how="left")
-    df = df.merge(st_cod, on="codice_redazionale", how="left")
 
-    matched = df["_st"].notna() | df["_st_cod"].notna()
+    matched = df["_st"].notna()
     tomb = df["stato"].astype("string").str.strip().str.lower()
 
-    nuovo = df["_st"].where(df["_st"].notna(), df["_st_cod"])
+    nuovo = df["_st"]
     # 3. non coperto ma con tombstone whole-act → invariato
     nonmatch_tomb = ~matched & tomb.isin(["abrogato", "decaduto"])
     nuovo = nuovo.where(~nonmatch_tomb, tomb)
@@ -168,7 +163,7 @@ def apply_status(normativa, status):
     df["vigente"] = nuovo == "vigente"
     df["vigenza_fonte"] = fonte
 
-    return df.drop(columns=["_k", "_st", "_st_cod"])
+    return df.drop(columns=["_k", "_st"])
 
 
 def main() -> int:
