@@ -67,12 +67,12 @@ coincide con la collezione ufficiale **"Atti normativi abrogati"** (~124k atti)
 
 `integra-vigenza` (stage 5b), in cascata:
 1. join `normativa` ↔ `status` su **(codice_redazionale, data GU)** — il filename
-   del corpus porta la data GU; `(codice, anno, numero)` NON è univoco (atti
-   diversi condividono codice/anno/numero, es. GU diverse). Il join è
-   **atto-level**: ORIGINALE e VIGENZA della stessa legge condividono la chiave
-   → stesso `stato` (fix #67);
-2. **classe 3** (lista ufficiale) → `abrogato`, `vigenza_fonte='normattiva'`
-   (fallback su `codice` se univoco, per GU discordanti);
+   del corpus porta la data GU. Chiave **esatta, senza fallback**: il codice
+   redazionale è **riciclato** (stesso codice/anno/numero per atti diversi, es.
+   `072U0670` = regio decreto 1872 *e* DPR 670/1972). Il join è **atto-level**:
+   ORIGINALE e VIGENZA della stessa legge condividono la chiave → stesso `stato`
+   (fix #67);
+2. **classe 3** (lista ufficiale) → `abrogato`, `vigenza_fonte='normattiva'`;
 3. **nota whole-act** `PROVVEDIMENTO ABROGATO` nel testo (markup ufficiale,
    assente dalla lista: es. D.Lgs 220/1995) → `abrogato`,
    `vigenza_fonte='non_coperto'`;
