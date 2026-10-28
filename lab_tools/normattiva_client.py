@@ -32,7 +32,14 @@ CLASSE_VIGENTE = ("1", "2")  # 1=senza aggiornamenti, 2=aggiornato
 CLASSE_ABROGATO = "3"
 
 # Ricerca: WAF IPZS → pacing obbligatorio (blocca su richieste ravvicinate).
-RICERCA_PAGE_SIZE = 1000
+# Page size 5000: l'API accetta oltre i 1000 assunti in origine (verificato
+# 2026-10-28: 5000/10000/20000 item per pagina, numero_pagine 25/13/7) → le
+# pagine di classe 3 scendono da 124 a 25 (~-6 min) e le richieste a 1/5.
+# Non alzarlo oltre senza misurarlo end-to-end: il tempo di risposta per pagina
+# cresce col numero di item e le misure sono molto variabili (throttling WAF).
+# Con 20000 la run completa di `fetch_status` è risultata più lenta (2m00s
+# contro 1m27s con 5000), a parità di dati (123.092 righe, stesse chiavi).
+RICERCA_PAGE_SIZE = 5000
 RICERCA_PACE_SECONDS = 2.0
 
 
@@ -307,7 +314,7 @@ def ricerca_avanzata(
     Args:
         classe: "1"|"2" (vigente) | "3" (abrogato) | None.
         page: pagina (1-based).
-        page_size: elementi per pagina (max osservato 1000).
+        page_size: elementi per pagina (l'API accetta ≥20000; 5000 è il valore misurato end-to-end).
         filtri: campi extra (es. {"annoProvvedimento": 1951}).
 
     Returns:
