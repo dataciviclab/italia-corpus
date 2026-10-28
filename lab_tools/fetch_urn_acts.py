@@ -21,6 +21,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 
 from lab_tools._paths import OUTDIR
+from lab_tools.classifica_tematich import _classifica_oggetto
 from lab_tools.normattiva_client import fetch_act_by_urn
 
 logger = logging.getLogger(__name__)
@@ -116,6 +117,31 @@ def parse_atto(atto: dict, urn: str) -> dict:
     }
 
 
+def arricchisci_materia(df):
+    """Aggiunge la colonna `materia` classificando l'oggetto dell'atto.
+
+    Stesso classificatore del corpus (`classifica_tematich`): gli atti fuori
+    collezione non devono restare senza materia, altrimenti sono invisibili al
+    filtro `materia` a valle (legal-graph / MCP). L'oggetto sta in `sotto_titolo`
+    ("Nuove norme in materia di procedimento amministrativo…"); `titolo` è solo
+    l'intestazione ("LEGGE 7 agosto 1990, n. 241") e si usa come fallback.
+    """
+    import pandas as pd
+
+    def oggetto(sotto, titolo) -> str:
+        # pd.isna copre NaN: str(nan) sarebbe "nan", truthy → finirebbe in `altro`
+        if sotto is not None and not pd.isna(sotto) and str(sotto).strip():
+            return str(sotto)
+        if titolo is None or pd.isna(titolo):
+            return ""
+        return str(titolo)
+
+    sotto = df["sotto_titolo"] if "sotto_titolo" in df.columns else pd.Series([None] * len(df))
+    titolo = df["titolo"] if "titolo" in df.columns else pd.Series([None] * len(df))
+    df["materia"] = [_classifica_oggetto(oggetto(s, t)) for s, t in zip(sotto, titolo)]
+    return df
+
+
 def fetch_and_store(urns: list[dict], output_path: Path) -> int:
     """Fetch ogni URN e salva risultati in parquet.
 
@@ -207,6 +233,8 @@ def fetch_and_store(urns: list[dict], output_path: Path) -> int:
         # Ensure fetched_at column exists for all rows
         if "fetched_at" not in df.columns:
             df["fetched_at"] = datetime.now().isoformat()
+        # materia anche per le righe riprese dalla cache TTL
+        df = arricchisci_materia(df)
         output_path.parent.mkdir(parents=True, exist_ok=True)
         df.to_parquet(output_path, index=False)
         logger.info(
