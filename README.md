@@ -121,7 +121,7 @@ Colonne di qualità:
 | `n_citazioni` | int | Citazioni in ingresso dal grafo riferimenti |
 | `orfano` | bool | Nessuna citazione in uscita né in ingresso |
 | `qualita_score` | int | 0-100, più alto = migliore (penalizza duplicati, orfani, stato non vigente) |
-| `materia` | string | Classificazione tematica: fisco, ambientale, lavoro, etc. (25 categorie) |
+| `materia` | string | Classificazione tematica dal titolo: 25 categorie (fisco, lavoro, ambientale, …). Semantica, validazione e limiti in [docs/MATERIA_AUDIT.md](docs/MATERIA_AUDIT.md) |
 | `n_articoli_cost` | int | Numero di articoli costituzionali citati dall'atto |
 | `articoli_cost` | string | Articoli costituzionali citati (separati da virgola) |
 | `abrogato_da` | string | File che abrogano questo atto |

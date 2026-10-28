@@ -39,7 +39,7 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 | 1 | **fetch** | `python -m lab_tools.fetch_normattiva [--only …]` | MD + `akn_*.parquet` (staging + merge) |
 | 1b | **fetch-status** | `python -m lab_tools.fetch_status` | `status.parquet` (solo **abrogati**, classe 3 = lista ufficiale; no testo) |
 | 2 | **extract** | `python -m lab_tools.extract` | `normativa.parquet` (metadati base) |
-| 3 | **classifica** | `python -m lab_tools.classifica_tematich` | + `materia` |
+| 3 | **classifica** | `python -m lab_tools.classifica_tematich` | + `materia` (vedi [MATERIA_AUDIT.md](MATERIA_AUDIT.md)) |
 | 4 | **citazioni/pnrr/abrogations** | moduli `estrai_*` / `extract_*` | side product su disco |
 | 5 | **integra** | `python -m lab_tools.integra_costituzionali` | + cit. cost. / abrogazioni **da side product** |
 | 5b | **integra-vigenza** | `python -m lab_tools.integra_vigenza` | `stato` da `status.parquet` + `vigenza_fonte` |
@@ -86,6 +86,9 @@ coincide con la collezione ufficiale **"Atti normativi abrogati"** (~124k atti)
 > intero (falsi positivi: Codice Civile, Codice Penale).
 
 > `classifica` **prima** di `grafo`: altrimenti `fonte_materia`/`bersaglio_materia` restano vuote.  
+> `classifica` usa confini di parola e un tier per i trattati (`affari-esteri`): ogni modifica
+> alle keyword si verifica con `pytest tests/test_classifica_gold.py` (gold set 200 atti,
+> vedi [MATERIA_AUDIT.md](MATERIA_AUDIT.md)).
 > Side product **prima** di `integra`: `integra_costituzionali` legge `citazioni-costituzionali.parquet` e `abrogations_raw.parquet` da `data/derived/`.  
 > `integra-vigenza` **dopo** `fetch-status` e `extract`, e **prima** di `grafo`/`arricchisci` (così `fonte_stato` negli edge e `qualita_score` usano lo stato corretto).  
 > Su CI il checkout di `data/derived/` può ancora fornire side product del giorno prima se lo step è saltato — meglio rigenerarli nello stesso run.  
