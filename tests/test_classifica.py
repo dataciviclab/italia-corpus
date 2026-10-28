@@ -5,7 +5,7 @@ positivi trovati nell'audit), radici, trattati. Vedi docs/MATERIA_AUDIT.md.
 """
 
 import pytest
-from lab_tools.classifica_tematich import _classifica_oggetto
+from lab_tools.classifica_tematich import _PAROLA_INTERA, _TEMI, _classifica_oggetto
 
 CASI = [
     # --- happy path ---
@@ -68,3 +68,14 @@ CASI = [
 @pytest.mark.parametrize(("oggetto", "attesa"), CASI, ids=[f"{i:02d}" for i in range(len(CASI))])
 def test_classifica_oggetto(oggetto, attesa):
     assert _classifica_oggetto(oggetto) == attesa
+
+
+def test_parola_intera_coerente_con_le_keyword():
+    """`_PAROLA_INTERA` è una lista manuale: ogni voce deve esistere in `_TEMI`."""
+    keyword = {kw for _, kws in _TEMI for kw in kws}
+    assert _PAROLA_INTERA <= keyword, f"voci non presenti in _TEMI: {_PAROLA_INTERA - keyword}"
+
+
+def test_strutturale_e_l_ultima_entry():
+    """`strutturale` è fallback per posizione: deve restare l'ultima entry di `_TEMI`."""
+    assert _TEMI[-1][0] == "strutturale"
