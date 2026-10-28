@@ -12,7 +12,7 @@ ufficiale IPZS, dal catalogo `tipologiche/classe-provvedimento`):
 
 La classe 3 coincide con la collezione ufficiale **"Atti normativi abrogati"**
 (~124k atti) → è la lista autorevole degli abrogati. Scarichiamo **solo la
-classe 3** (~6 min): gli atti assenti sono vigenti, salvo la nota whole-act
+classe 3** (~2 min): gli atti assenti sono vigenti, salvo la nota whole-act
 `PROVVEDIMENTO ABROGATO` (vedi `integra_vigenza`).
 
 Ritorna **metadati** (nessun testo) → artifact `data/derived/status.parquet`,

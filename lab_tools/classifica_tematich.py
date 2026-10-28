@@ -227,7 +227,9 @@ def _classifica_oggetto(oggetto: str) -> str:
         return "affari-esteri"
     for materia, keywords in _TEMI:
         for kw in keywords:
-            if _pattern(kw).search(text):
+            # Pre-filtro substring (C, ~1 µs): la regex di confine gira solo
+            # sulle keyword presenti. Senza, 282 regex × 22k titoli = 18s.
+            if kw in text and _pattern(kw).search(text):
                 return materia
     return "altro"
 

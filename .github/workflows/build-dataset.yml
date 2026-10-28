@@ -54,7 +54,7 @@ jobs:
       - run: python -m pytest tests/ -v
       - name: Fetch da Normattiva (MD + artifact AKN)
         run: python -m lab_tools.fetch_normattiva
-      # Status: solo classe 3 (lista ufficiale abrogati) ~6 min. La classe 2
+      # Status: solo classe 3 (lista ufficiale abrogati) ~2 min. La classe 2
       # NON è "vigente", quindi non la scarichiamo; gli atti assenti sono
       # vigenti, salvo la nota whole-act gestita da integra_vigenza.
       - name: Fetch status (ricerca classeProvvedimento)
