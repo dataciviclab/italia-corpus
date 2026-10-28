@@ -211,8 +211,14 @@ def _pattern(kw: str) -> re.Pattern[str]:
 
 
 def _normalizza(oggetto: str) -> str:
-    """Titolo normalizzato per il match (minuscolo, senza codice redazionale)."""
-    return _CODICE_REDAZIONALE.sub(" ", oggetto.lower())
+    """Titolo normalizzato per il match (minuscolo, senza codice redazionale).
+
+    Collassa anche gli spazi: i sotto-titoli di `atti_api` arrivano con a capo e
+    doppi spazi, che romperebbero le keyword composte ("sicurezza sul lavoro").
+    Sul corpus non cambia nulla (0 titoli con whitespace irregolare).
+    """
+    testo = _CODICE_REDAZIONALE.sub(" ", oggetto.lower())
+    return re.sub(r"\s+", " ", testo).strip()
 
 
 def _classifica_oggetto(oggetto: str) -> str:
