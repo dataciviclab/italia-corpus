@@ -181,7 +181,7 @@ class TestDedupArchi:
 
 
 class TestVerificaPkUnica:
-    """Guardia del produttore: la PK del clean deve essere unica."""
+    """Invariante: dopo `_dedup_archi` la PK del clean è unica."""
 
     def test_unica_non_solleva(self):
         archi = [
@@ -199,10 +199,20 @@ class TestVerificaPkUnica:
         ]
         _verifica_pk_unica(archi)  # non solleva
 
+    def test_dedup_rende_unica_anche_l_unione(self):
+        """Regex non risolti + AKN alias: dopo il dedup la PK è unica."""
+        archi = [
+            _arco("a.md", bersaglio_path="", bersaglio_fn="Altro/x.md", origine="regex"),
+            _arco("a.md", bersaglio_path="", bersaglio_fn="Altro/y.md", origine="regex"),
+            _arco("a.md", bersaglio_path="b.md"),
+            _arco("a.md", bersaglio_path="b.md"),
+        ]
+        _verifica_pk_unica(_dedup_archi(archi))  # non solleva
+
     def test_duplicato_solleva(self):
         archi = [
             _arco("a.md", bersaglio_path="b.md"),
             _arco("a.md", bersaglio_path="b.md"),
         ]
-        with pytest.raises(ValueError, match="duplicati sulla PK"):
+        with pytest.raises(AssertionError, match="dedup incompleto"):
             _verifica_pk_unica(archi)

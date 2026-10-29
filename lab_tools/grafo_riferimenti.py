@@ -243,18 +243,14 @@ def _dedup_archi(archi: list[dict]) -> list[dict]:
 def _verifica_pk_unica(archi: list[dict]) -> None:
     """Solleva se la PK del clean non è unica.
 
-    Guardia del produttore: il dedup AKN copre la causa nota (alias URN); qui si
-    fallisce esplicitamente se un altro percorso reintroduce duplicati, invece
-    di lasciarli scoprire dal `toolkit-run` in build-dataset.
+    Usata **dopo** `_dedup_archi`: è un'invariante di costruzione, non una
+    guardia sui dati grezzi (una guardia sui grezzi fallirebbe per condizioni
+    legittime, es. link regex non risolti).
     """
     chiavi = [_chiave_arco(a) for a in archi]
     if len(chiavi) != len(set(chiavi)):
-        from collections import Counter
-
-        dup = [k for k, c in Counter(chiavi).items() if c > 1]
-        raise ValueError(
-            f"archi duplicati sulla PK del clean: {len(chiavi) - len(set(chiavi))} "
-            f"({len(dup)} chiavi distinte, es. {dup[0]})"
+        raise AssertionError(
+            f"dedup incompleto: {len(chiavi) - len(set(chiavi))} archi duplicati sulla PK"
         )
 
 
@@ -429,11 +425,15 @@ def main():
     urn_to_fn = _load_urn_to_filename()
     archi.extend(_archi_da_akn_relations(normativa, urn_to_fn))
 
-    # Guardia: la PK del clean (fonte_source_path, bersaglio_source_path,
-    # origine) deve essere unica. Il dedup AKN copre la causa nota (alias URN);
-    # qui si solleva se un **altro** percorso reintroduce duplicati, invece di
-    # lasciarli scoprire dal `toolkit-run` in build-dataset (il buco che questa
-    # fix racconta).
+    # Un arco per chiave = PK del clean (fonte_source_path, bersaglio_source_path,
+    # origine). Il dedup AKN copre la causa nota (alias URN); qui si applica
+    # all'**unione** (regex + AKN) perché anche due link regex diversi possono
+    # risolvere allo stesso bersaglio. `peso` sommato. Così la PK regge per
+    # costruzione, invece di far fallire la build su una condizione di dato.
+    n_prima = len(archi)
+    archi = _dedup_archi(archi)
+    if len(archi) != n_prima:
+        print(f"  archi collassati sull'unione (PK clean): {n_prima - len(archi)}")
     _verifica_pk_unica(archi)
 
     _stampa_metriche(archi, len(file_set))
