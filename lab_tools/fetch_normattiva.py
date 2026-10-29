@@ -9,6 +9,7 @@ salta download+convert (risparmia ~11 min su giorni senza cambi).
 from __future__ import annotations
 
 import argparse
+import base64
 import json
 import logging
 import random
@@ -135,6 +136,42 @@ def _collection_subdir(nome: str) -> str:
     return nome.strip()
 
 
+def _atto_da_filename(filename: str) -> str:
+    """Identità `AAAA-MM-GG_CODICE` dal filename, per lo swap.
+
+    Nota: la definizione canonica è `lab_tools.identity.data_codice` (PR
+    successiva); qui serve solo a decidere quali file vecchi sostituire.
+    """
+    return "_".join(Path(filename).stem.split("_")[:2])
+
+
+def _read_xml(path: Path) -> str:
+    """Testo XML, decodificando base64 se serve.
+
+    Alcuni atti grossi arrivano **base64-encoded dentro lo ZIP** (Codice civile,
+    attuazione c.c.): il primo byte è `P` (base64 di `<?xml`), non `<`, e la
+    conversione falliva con `syntax error: line 1, column 0`. Il payload è XML
+    valido una volta decodificato.
+    """
+    raw = path.read_bytes()
+    probe = raw.lstrip()
+    if probe.startswith(b"\xef\xbb\xbf"):  # BOM UTF-8
+        probe = probe[3:]
+    if not probe.startswith(b"<"):
+        raw = base64.b64decode(raw)
+    return raw.decode("utf-8", errors="replace")
+
+
+def _file_da_sostituire(old_names: list[str], new_names: list[str]) -> set[str]:
+    """Nomi vecchi da cancellare: solo gli atti presenti nella nuova sorgente.
+
+    Se un atto non compare nel nuovo set (conversione fallita, XML malformato),
+    il vecchio file **resta**: lo swap non deve cancellare testo buono.
+    """
+    nuovi = {_atto_da_filename(n) for n in new_names}
+    return {n for n in old_names if _atto_da_filename(n) in nuovi}
+
+
 def process_collection(
     collection: dict,
     work_dir: Path,
@@ -179,7 +216,7 @@ def process_collection(
         meta_rows: list[dict] = []
         for xml_file in xml_files:
             try:
-                content = xml_file.read_text("utf-8", errors="replace")
+                content = _read_xml(xml_file)
                 source_path = f"{COLLEZIONI_DIRNAME}/{subdir}/{xml_file.stem}.md"
                 fm, markdown = akn_xml_to_markdown(content, urn_index, source_path)
 
@@ -215,9 +252,21 @@ def process_collection(
             logger.warning("All conversions failed for %r — keeping existing files", nome)
             return 0
 
-        # 4. Swap atomico: cancella i vecchi .md, sposta i nuovi da staging
+        # 4. Swap per atto: sostituisci solo gli atti presenti nella nuova
+        # sorgente. Se un atto non ha convertito (XML malformato/base64), il
+        # vecchio file resta — non si cancella testo buono (incidente 2026-10-29:
+        # Codice civile sparito per un `syntax error`).
+        nuovi = [new_file.name for new_file in staging_dir.glob("*.md")]
+        vecchi = [old_file.name for old_file in dest_dir.glob("*.md")]
+        da_cancellare = _file_da_sostituire(vecchi, nuovi)
+        if len(da_cancellare) < len(vecchi):
+            logger.warning(
+                "  %d file vecchi mantenuti (atti assenti dalla nuova sorgente)",
+                len(vecchi) - len(da_cancellare),
+            )
         for old_file in dest_dir.glob("*.md"):
-            old_file.unlink()
+            if old_file.name in da_cancellare:
+                old_file.unlink()
 
         for new_file in staging_dir.glob("*.md"):
             shutil.move(str(new_file), str(dest_dir / new_file.name))
