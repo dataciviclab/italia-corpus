@@ -190,6 +190,24 @@ def _load_urn_to_filename() -> dict[str, str]:
     return expand_index(zip(df["urn"], df["filename"]))
 
 
+def _dedup_archi(archi: list[dict]) -> list[dict]:
+    """Un arco per (fonte_filename, bersaglio_path, origine), `peso` sommato.
+
+    L'alias URN (`lab_tools/urn.py`) risolve forme diverse della stessa
+    citazione sullo stesso file: senza dedup due righe AKN produrrebbero lo
+    stesso arco e la PK del clean
+    (fonte_source_path, bersaglio_source_path, origine) fallirebbe.
+    """
+    distinti: dict[tuple[str, str, str], dict] = {}
+    for a in archi:
+        k = (a["fonte_filename"], a["bersaglio_path"], a["origine"])
+        if k in distinti:
+            distinti[k]["peso"] += a["peso"]
+        else:
+            distinti[k] = a
+    return list(distinti.values())
+
+
 def _archi_da_akn_relations(
     normativa: dict[str, dict],
     urn_to_fn: dict[str, str],
@@ -271,7 +289,15 @@ def _archi_da_akn_relations(
     print(f"  AKN citations in corpus: {len(archi)} (skip esterne: {n_skip})")
     print(f"  AKN per regola (bersaglio): {dict(per_regola.most_common())}")
     print(f"  AKN skip: {dict((k, v) for k, v in conteggi.items() if k.startswith('skip:'))}")
-    return archi
+
+    # Dedup per coppia risolta (fonte, bersaglio, origine): l'alias URN
+    # (lab_tools/urn.py) fa risolvere forme diverse della stessa citazione sullo
+    # stesso file, quindi due righe AKN possono produrre lo stesso arco.
+    distinti = _dedup_archi(archi)
+    if len(distinti) != len(archi):
+        print(f"  AKN archi collassati (stessa coppia via alias URN): {len(archi) - len(distinti)}")
+        print(f"  AKN archi distinti: {len(distinti)}")
+    return distinti
 
 
 def main():
