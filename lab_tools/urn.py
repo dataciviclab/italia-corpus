@@ -149,3 +149,26 @@ def lookup(index: dict, urn: str) -> str | None:
         if valore is not None:
             return valore
     return None
+
+
+# Regole di risoluzione, in ordine di applicazione (per diagnostica e invarianti).
+REGOLE = ("codice", "esatto", "slug", "annuale")
+
+
+def regola(index: dict, urn: str) -> str | None:
+    """Nome della regola che risolve `urn`, oppure None.
+
+    Serve a decomporre i conteggi (`esatto` / `slug` / `annuale` / `codice`)
+    senza riscrivere la catena: se cambia `lookup`, va cambiata anche qui.
+    """
+    if not urn:
+        return None
+    if urn in ALIAS_CODICI and urn in index:
+        return "codice"
+    if urn in index:
+        return "esatto"
+    if canonical_key(urn) in index:
+        return "slug"
+    if annual_key(urn) in index:
+        return "annuale"
+    return None

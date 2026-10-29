@@ -11,6 +11,7 @@ from lab_tools.urn import (
     expand_index,
     lookup,
     parse_urn,
+    regola,
 )
 
 # forme reali: AKN (citazione) vs corpus (frontmatter)
@@ -125,3 +126,31 @@ class TestIntegrazioneResolveRef:
     def test_resolve_ref_senza_match_resta_esterno(self):
         link = resolve_ref("urn:nir:stato:legge:1800-01-01;1", "L. 1/1800", INDICE, "collezioni/Testi Unici/x.md")
         assert "normattiva.it" in link
+
+
+class TestRegola:
+    """`regola` decomprime la catena di `lookup`: se cambia una, cambia l'altra."""
+
+    @pytest.mark.parametrize(
+        ("urn", "attesa"),
+        [
+            (CORPUS_DPR, "esatto"),
+            (AKN_DPR, "slug"),
+            (AKN_DLGS, "annuale"),
+            (CODICE_CIVILE, "codice"),
+            ("urn:nir:stato:legge:1800-01-01;1", None),
+            ("", None),
+        ],
+    )
+    def test_regola(self, urn, attesa):
+        assert regola(INDICE, urn) == attesa
+
+    def test_coerente_con_lookup(self):
+        """Se `regola` dice X, `lookup` deve risolvere; e viceversa."""
+        for urn in (CORPUS_DPR, AKN_DPR, AKN_DLGS, CODICE_CIVILE, "urn:nir:stato:legge:1800-01-01;1"):
+            assert (regola(INDICE, urn) is not None) == (lookup(INDICE, urn) is not None)
+
+    def test_codice_ha_priorita_su_esatto(self):
+        """La chiave alias codice è nell'indice: va nominata `codice`, non `esatto`."""
+        assert CODICE_CIVILE in INDICE
+        assert regola(INDICE, CODICE_CIVILE) == "codice"
