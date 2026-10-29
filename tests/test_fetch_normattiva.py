@@ -6,7 +6,9 @@ from unittest.mock import patch
 from lab_tools.fetch_normattiva import (
     _build_urn_index,
     _collection_subdir,
+    _file_da_sostituire,
     _load_collezioni,
+    _read_xml,
     _update_urn_index,
     process_collection,
 )
@@ -241,3 +243,49 @@ class TestProcessCollection:
         md_files = list((corpus / "Test Col").glob("*.md"))
         assert len(md_files) == 1
         assert md_files[0].name == "existing.md"
+
+
+class TestReadXml:
+    def test_xml_plain(self, tmp_path):
+        xml = '<?xml version="1.0"?><akn/>'
+        p = tmp_path / "a.xml"
+        p.write_text(xml, encoding="utf-8")
+        assert _read_xml(p) == xml
+
+    def test_xml_base64(self, tmp_path):
+        """Alcuni atti grossi arrivano base64 dentro lo ZIP (Codice civile)."""
+        import base64
+
+        xml = '<?xml version="1.0"?><akn>x</akn>'
+        p = tmp_path / "a.xml"
+        p.write_bytes(base64.b64encode(xml.encode("utf-8")))
+        assert _read_xml(p) == xml
+
+    def test_xml_con_bom_resta_plain(self, tmp_path):
+        p = tmp_path / "a.xml"
+        p.write_bytes(b'\xef\xbb\xbf<akn/>')
+        assert _read_xml(p) == '\ufeff<akn/>'
+
+
+class TestFileDaSostituire:
+    """Swap per atto: si cancellano solo i file presenti nella nuova sorgente."""
+
+    def test_stesso_atto_rename(self):
+        vecchi = ["1942-04-04_042U0262_ORIGINALE_V0.md"]
+        nuovi = ["1942-04-04_042U0262_VIGENZA_2026-04-29_V0.md"]
+        assert _file_da_sostituire(vecchi, nuovi) == set(vecchi)
+
+    def test_atto_assente_non_si_cancella(self):
+        """Conversione fallita: il vecchio file deve restare."""
+        vecchi = ["1942-04-04_042U0262_ORIGINALE_V0.md", "2003-08-07_003G0227_ORIGINALE_V0.md"]
+        nuovi = ["2003-08-07_003G0227_VIGENZA_2026-02-25_V0.md"]
+        assert _file_da_sostituire(vecchi, nuovi) == {"2003-08-07_003G0227_ORIGINALE_V0.md"}
+
+    def test_nuova_sorgente_senza_atti_noti(self):
+        vecchi = ["1942-04-04_042U0262_ORIGINALE_V0.md"]
+        assert _file_da_sostituire(vecchi, []) == set()
+
+    def test_snapshot_aggiornato(self):
+        vecchi = ["2003-08-07_003G0227_VIGENZA_2025-06-12_V0.md"]
+        nuovi = ["2003-08-07_003G0227_VIGENZA_2026-02-25_V0.md"]
+        assert _file_da_sostituire(vecchi, nuovi) == set(vecchi)
