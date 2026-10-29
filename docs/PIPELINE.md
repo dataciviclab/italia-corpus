@@ -101,7 +101,7 @@ coincide con la collezione ufficiale **"Atti normativi abrogati"** (~124k atti)
 | Artifact | Contenuto | Consumatori tipici |
 |---|---|---|
 | `collezioni/**/*.md` | testo + frontmatter URN | MCP, agenti, ricerca |
-| `normativa.parquet` | atto: metadati + qualità + materia/sunsetting + EIV/AKN + `stato`/`vigenza_fonte` | legal-graph, MCP, analisi |
+| `normativa.parquet` | atto: metadati + identità (`versione`/`snapshot_data`/`is_current`) + qualità + materia/sunsetting + EIV/AKN + `stato`/`vigenza_fonte` | legal-graph, MCP, analisi |
 | `status.parquet` | status atto-level autorevole (`codice_redazionale`+`data_gu` → `stato`, `classe`) | `integra-vigenza` (non pubblicato, non committato) |
 | `atti_api.parquet` | leggi ordinarie fuori collezione (fetch `dettaglio-atto-urn`: vigenza + HTML) | legal-graph (nodi + target euristiche `attua_delega`) |
 | `riferimenti.parquet` | archi `peso`, `risolto`, `origine` (regex\|akn) | legal-graph, debt |

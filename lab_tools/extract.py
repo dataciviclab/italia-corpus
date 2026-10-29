@@ -14,6 +14,9 @@ from pathlib import Path
 from lab_tools._frontmatter import parse_frontmatter
 from lab_tools._paths import COLLEZIONI_ROOT, CONFIG_COLLEZIONI, OUTDIR
 
+# Versione dell'espressione dal nome file: `..._VIGENZA_2025-06-12_V0.md`
+_VIGENZA_RE = re.compile(r"_VIGENZA_(\d{4}-\d{2}-\d{2})_")
+
 # Atti UE: singolari e plurali, con/senza (UE), n., delegato/di esecuzione
 # Cattura 3 gruppi: (tipo_parola, anno, numero)
 # L'anno è il primo gruppo di 4 cifre prima dello slash; in formato
@@ -155,6 +158,7 @@ def extract(filepath: Path, collezione: str = "") -> dict | None:
     celex, anno = _estrai_riferimento_ue(oggetto)
     ritardo = (anno_atto - anno) if anno and anno <= anno_atto < anno + 100 else None
     stato = _detect_stato(body)
+    versione, snapshot_data = _versione_da_filename(filepath.name)
 
     return {
         "collezione": collezione, "filename": filepath.name,
@@ -164,9 +168,54 @@ def extract(filepath: Path, collezione: str = "") -> dict | None:
         "anno_dir": anno or 0, "ritardo": ritardo,
         "urn": urn, "codice_redazionale": codice_redazionale,
         "stato": stato,
+        "versione": versione, "snapshot_data": snapshot_data,
         "vigente": stato == "vigente",
         **metrics,
     }
+
+
+def _versione_da_filename(filename: str) -> tuple[str, str | None]:
+    """(versione, snapshot_data) dal nome file.
+
+    `..._VIGENZA_2025-06-12_V0.md` → ("VIGENZA", "2025-06-12")
+    `..._ORIGINALE_V0.md` → ("ORIGINALE", None)
+
+    Nel corpus attuale tutte le 22.012 righe hanno uno dei due marker; una
+    forma sconosciuta restituisce `""` e viene segnalata in `main()` (non
+    silenziosa, così un cambio di naming della fonte non passa inosservato).
+    """
+    m = _VIGENZA_RE.search(filename)
+    if m:
+        return "VIGENZA", m.group(1)
+    if "_ORIGINALE_" in filename:
+        return "ORIGINALE", None
+    return "", None
+
+
+def _marca_is_current(records: list[dict]) -> None:
+    """Una sola riga `is_current=True` per URN (identità dell'atto).
+
+    Regola: `VIGENZA` con `snapshot_data` più recente → altrimenti `ORIGINALE`
+    → tie: `duplicato=false` → ordine lessicale del filename. Deterministica:
+    non dipende dall'ordine dei file su disco.
+    """
+    per_urn: dict[str, list[dict]] = {}
+    for r in records:
+        r["is_current"] = True
+        urn = (r.get("urn") or "").strip()
+        if urn:
+            per_urn.setdefault(urn, []).append(r)
+
+    for gruppo in per_urn.values():
+        if len(gruppo) == 1:
+            continue
+        # sort stabile: dall'ultimo criterio al primo
+        ordinato = sorted(gruppo, key=lambda r: r["filename"])
+        ordinato.sort(key=lambda r: bool(r.get("duplicato")))
+        ordinato.sort(key=lambda r: r.get("snapshot_data") or "", reverse=True)
+        ordinato.sort(key=lambda r: 0 if r.get("versione") == "VIGENZA" else 1)
+        for r in gruppo:
+            r["is_current"] = r is ordinato[0]
 
 
 def _collezioni_legislative() -> list[Path]:
@@ -219,12 +268,19 @@ def main():
             if r:
                 records.append(r)
     records = _dedup(records)
+    _marca_is_current(records)
     if not records:
         print("Nessun atto estratto.")
         return
     print(f"TOTALE: {len(records)} atti")
     print(f"Con CELEX: {sum(1 for r in records if r['celex'])}")
     print(f"Duplicati: {sum(1 for r in records if r.get('duplicato'))}")
+    n_current = sum(1 for r in records if r["is_current"])
+    n_urn = len({r["urn"] for r in records if r["urn"]})
+    print(f"Atti correnti (is_current): {n_current} su {n_urn} URN distinti")
+    ignote = [r["filename"] for r in records if not r["versione"]]
+    if ignote:
+        print(f"ATTENZIONE: {len(ignote)} file senza marker di versione (es. {ignote[:3]})")
 
     try:
         import pandas as pd

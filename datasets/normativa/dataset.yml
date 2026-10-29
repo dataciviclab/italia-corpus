@@ -4,7 +4,7 @@ schema_version: 1
 dataset:
   name: "normativa"
   source_id: "italia_corpus"
-  description: "Corpus normativa Italia (Normattiva → AKN/MD): una riga per file atto del corpus. PK tecnico = filename (univoco). urn può ripetersi (ORIGINALE + VIGENZA). Include qualità grafo, materia tematica, sunsetting e metadati AKN (EIV)."
+  description: "Corpus normativa Italia (Normattiva → AKN/MD): una riga per file atto del corpus. PK tecnico = filename (univoco). urn può ripetersi: is_current marca l'espressione corrente (una sola per urn), versione (ORIGINALE|VIGENZA) e snapshot_data dicono quale. Include qualità grafo, materia tematica, sunsetting e metadati AKN (EIV)."
   tags: [normativa, corpus, legislazione, italia]
   category: normativa
   years: [2026]
@@ -38,6 +38,9 @@ clean:
     - anno_atto
     - urn
     - codice_redazionale
+    - versione
+    - snapshot_data
+    - is_current
     - stato
     - vigente
     - vigenza_fonte
@@ -53,7 +56,7 @@ clean:
   validate:
     # filename è univoco sul corpus (22017/22017); urn no (doppie espressioni)
     primary_key: [filename]
-    not_null: [filename, tipo, stato]
+    not_null: [filename, tipo, stato, is_current]
     min_rows: 20000
 
 mart:
