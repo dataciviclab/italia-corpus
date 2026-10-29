@@ -171,6 +171,26 @@ jobs:
                   f"URN MANCANTI: {len(non_ammessi)} non in allowlist "
                   f"(es. {non_ammessi[:5]})"
               )
+
+          # Advisory (non fail): un rename puro NON cambia l'insieme degli URN,
+          # quindi il gate sopra non vede la classe di incidente del 29/10
+          # (stesso atto, nome nuovo -> link rotti). Diventerà un gate quando
+          # C1 renderà l'atteso 0; per ora è un contatore visibile.
+          def files(path):
+              col = pq.read_table(path, columns=["filename"])["filename"].to_pylist()
+              return {f for f in col if f}
+
+          main_files = files(main)
+          build_files = files("data/derived/normativa.parquet")
+          spariti = sorted(main_files - build_files)
+          if spariti:
+              print(
+                  f"::warning::contract path: {len(spariti)} nomi file spariti "
+                  f"(rename/cancellazioni) — advisory finché C1 "
+                  f"(es. {spariti[:3]})"
+              )
+          else:
+              print("contract path: 0 nomi file spariti")
           PY
       - name: Layer toolkit (clean + mart)
         run: make toolkit-run
