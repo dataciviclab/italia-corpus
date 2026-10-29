@@ -342,12 +342,20 @@ def _archi_da_akn_relations(
         raise ValueError(
             f"conteggi AKN incoerenti: {classificate} != {len(cit)} input + {len(archi)} archi"
         )
-    # invariante di copertura: se `urn.lookup` regredisse, gli archi risolti
-    # crollerebbero rispetto ai bersagli presenti nell'indice.
-    if n_target_ok and len(archi) < 0.95 * n_target_ok:
+    # Due metriche separate: la copertura del lookup (target trovati) e il
+    # rapporto coppie complete (influenzato dal dedup, non dalla risoluzione).
+    # Un unico rapporto confonderebbe un dedup in più con una regressione.
+    n_cit = len(cit)
+    if n_cit and n_target_ok / n_cit < 0.30:
         raise ValueError(
-            f"invariante AKN: {len(archi)} archi risolti su {n_target_ok} bersagli "
-            f"nell'indice (soglia 95%) — possibile regressione di urn.lookup"
+            f"invariante AKN: lookup risolve {n_target_ok}/{n_cit} target "
+            f"({n_target_ok / n_cit:.1%}, soglia 30%) — possibile regressione di urn.lookup"
+        )
+    if n_target_ok:
+        print(
+            f"  AKN target risolti: {n_target_ok}/{n_cit} ({n_target_ok / n_cit:.1%}) · "
+            f"coppie complete: {len(archi)}/{n_target_ok} "
+            f"({len(archi) / n_target_ok:.1%}, dedup escluso)"
         )
     per_regola = Counter(
         {k.split(":", 1)[1]: v for k, v in conteggi.items() if k.startswith("bersaglio:")}

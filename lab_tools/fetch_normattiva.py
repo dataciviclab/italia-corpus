@@ -33,6 +33,7 @@ from lab_tools.akn_relations import (
     merge_akn_artifacts,
     stage_akn_rows,
 )
+from lab_tools.identity import data_codice
 from lab_tools.normattiva_client import (
     download_collection,
     extract_zip,
@@ -136,15 +137,6 @@ def _collection_subdir(nome: str) -> str:
     return nome.strip()
 
 
-def _atto_da_filename(filename: str) -> str:
-    """Identità `AAAA-MM-GG_CODICE` dal filename, per lo swap.
-
-    Nota: la definizione canonica è `lab_tools.identity.data_codice` (PR
-    successiva); qui serve solo a decidere quali file vecchi sostituire.
-    """
-    return "_".join(Path(filename).stem.split("_")[:2])
-
-
 def _read_xml(path: Path) -> str:
     """Testo XML, decodificando base64 se serve.
 
@@ -168,8 +160,8 @@ def _file_da_sostituire(old_names: list[str], new_names: list[str]) -> set[str]:
     Se un atto non compare nel nuovo set (conversione fallita, XML malformato),
     il vecchio file **resta**: lo swap non deve cancellare testo buono.
     """
-    nuovi = {_atto_da_filename(n) for n in new_names}
-    return {n for n in old_names if _atto_da_filename(n) in nuovi}
+    nuovi = {data_codice(n) for n in new_names}
+    return {n for n in old_names if data_codice(n) in nuovi}
 
 
 def process_collection(
