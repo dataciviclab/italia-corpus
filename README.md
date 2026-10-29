@@ -101,8 +101,14 @@ Pipeline canonica (stage lineari, output dichiarati): **[docs/PIPELINE.md](docs/
 
 Base atto: `collezione`, `filename`, `tipo`, `data`, `numero`, `oggetto`, `celex`,
 `anno_atto`, `anno_dir`, `ritardo`, `urn`, `codice_redazionale`,
+`versione`, `snapshot_data`, `is_current`,
 `stato`, `vigente`, `vigenza_fonte`, `lunghezza_caratteri`, `lunghezza_parole`,
 `riferimenti_interni`, `duplicato`, `n_citazioni`, `orfano`, `qualita_score`
+
+Identità dell'atto: `urn` può ripetersi (espressioni diverse dello stesso atto);
+`is_current` marca **l'espressione corrente** (una sola per `urn`), `versione`
+(`ORIGINALE`|`VIGENZA`) e `snapshot_data` dicono quale. Regola: `VIGENZA` con
+snapshot più recente → altrimenti `ORIGINALE`.
 
 Downstream: `materia`, `n_articoli_cost`, `articoli_cost`, `abrogato_da`, `n_abrogazioni`, …
 

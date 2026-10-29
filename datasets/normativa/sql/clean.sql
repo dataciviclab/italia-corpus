@@ -2,7 +2,9 @@
 --
 -- Contratto pubblico (backward-compatible legal-graph + IC MCP):
 --   - PK = filename (basename univoco del file corpus)
---   - urn può ripetersi: non è PK; per analisi si usa come atto_id secondario
+--   - urn può ripetersi (espressioni ORIGINALE/VIGENZA dello stesso atto):
+--     is_current marca l'espressione corrente, una sola per urn; versione
+--     (ORIGINALE|VIGENZA) e snapshot_data dicono quale espressione è
 --   - stato = tombstone Normattiva (NON vigenza live) — colonna rinominata solo in doc
 --   - vigenza_fonte = origine di stato (normattiva = lista ufficiale abrogati, classeProvvedimento 3; non_coperto = assente dalla lista ma con nota whole-act; esclusione = assente, vigente per esclusione)
 --   - materia / qualita_score / sunsetting_score: contratto consumer (LG + MCP)
@@ -24,6 +26,9 @@ SELECT
     CAST(ritardo AS DOUBLE)                                      AS ritardo,
     NULLIF(normalize_string(urn), '')                            AS urn,
     NULLIF(normalize_string(codice_redazionale), '')             AS codice_redazionale,
+    NULLIF(normalize_string(versione), '')                       AS versione,
+    TRY_CAST(snapshot_data AS DATE)                              AS snapshot_data,
+    CAST(is_current AS BOOLEAN)                                  AS is_current,
     normalize_string(stato)                                      AS stato,
     CAST(vigente AS BOOLEAN)                                     AS vigente,
     NULLIF(normalize_string(vigenza_fonte), '')                  AS vigenza_fonte,
