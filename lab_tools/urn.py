@@ -89,24 +89,45 @@ def annual_key(urn: str) -> tuple[str, str, str, str] | None:
     return (p[0], _slug(p[1]), p[2][:4], p[3])
 
 
-def expand_index(pairs: Iterable[tuple[str, str]]) -> dict:
+class IndiceUrn(dict):
+    """Indice ``urn -> valore`` con alias, che ricorda gli URN **esatti**.
+
+    Distinguere le chiavi esatte da quelle alias serve a `regola`: una chiave
+    canonica inserita da `expand_index` può coincidere con un URN citato in
+    forma AKN, ma non è un URN esatto del corpus.
+    """
+
+    esatti: frozenset[str]
+
+    def __init__(self, *args, esatti: Iterable[str] = (), **kwargs):
+        super().__init__(*args, **kwargs)
+        self.esatti = frozenset(esatti)
+
+
+def expand_index(pairs: Iterable[tuple[str, str]]) -> IndiceUrn:
     """Aggiunge a una mappa ``urn -> valore`` le chiavi alias risolte.
 
     Args:
         pairs: coppie ``(urn, valore)`` (valore = path o filename).
 
     Returns:
-        Mappa con, oltre agli URN esatti, le chiavi ``canonical_key``,
+        `IndiceUrn` con, oltre agli URN esatti, le chiavi ``canonical_key``,
         ``annual_key`` (tupla) e ``ALIAS_CODICI`` che risultano univoche.
+
+    Tie-break: per una chiave con più espressioni **vince l'ultima coppia in
+    ordine di input** (come il `dict(zip(...))` che questo sostituisce), così
+    l'attribuzione degli edge resta quella di prima e il delta è additivo.
     """
-    index: dict = {}
+    index = IndiceUrn()
     canonici: dict[str, list[str]] = defaultdict(list)
     annuali: dict[tuple, list[tuple[str, str]]] = defaultdict(list)
+    esatti: list[str] = []
 
     for urn, valore in pairs:
         if not urn or valore is None:
             continue
-        index.setdefault(urn, valore)
+        index[urn] = valore  # ultimo vince (compat col comportamento precedente)
+        esatti.append(urn)
         ck = canonical_key(urn)
         if ck:
             canonici[ck].append(valore)
@@ -114,23 +135,46 @@ def expand_index(pairs: Iterable[tuple[str, str]]) -> dict:
         if ak:
             annuali[ak].append((urn, valore))
 
+    index.esatti = frozenset(esatti)
+
     for ck, valori in canonici.items():
         if ck not in index and len(set(valori)) == 1:
-            index[ck] = valori[0]
+            index[ck] = valori[-1]
 
     for ak, coppie in annuali.items():
         if ak in index:
             continue
         # un solo atto dietro la chiave: le sue espressioni (ORIGINALE/VIGENZA)
-        # condividono lo slug canonico, quindi si sceglie in modo deterministico
+        # condividono lo slug canonico
         if len({canonical_key(u) for u, _ in coppie}) == 1:
-            index[ak] = sorted(valore for _, valore in coppie)[0]
+            index[ak] = coppie[-1][1]
 
     for sorgente, destinazione in ALIAS_CODICI.items():
         if sorgente not in index and destinazione in index:
             index[sorgente] = index[destinazione]
 
     return index
+
+
+def add_urn(index: dict, urn: str, valore: str) -> None:
+    """Aggiunge una singola coppia all'indice (path incrementale del fetch).
+
+    A differenza di `expand_index` **non** aggiunge il fallback anno+numero:
+    su una coppia sola i guard di univocità sarebbero vacui e la chiave
+    potrebbe risolvere un atto diverso. Il fallback resta quindi al batch.
+    """
+    if not urn or valore is None:
+        return
+    index[urn] = valore
+    esatti = getattr(index, "esatti", None)
+    if esatti is not None:
+        index.esatti = esatti | {urn}
+    ck = canonical_key(urn)
+    if ck and ck not in index:
+        index[ck] = valore
+    for sorgente, destinazione in ALIAS_CODICI.items():
+        if destinazione == urn and sorgente not in index:
+            index[sorgente] = valore
 
 
 def lookup(index: dict, urn: str) -> str | None:
@@ -140,7 +184,7 @@ def lookup(index: dict, urn: str) -> str | None:
     anno+numero è indicizzato con una chiave tupla, quindi non è raggiungibile
     da una lookup su stringa.
     """
-    if not urn:
+    if not isinstance(urn, str) or not urn:
         return None
     for chiave in (urn, canonical_key(urn), annual_key(urn)):
         if chiave is None:
@@ -158,14 +202,16 @@ REGOLE = ("codice", "esatto", "slug", "annuale")
 def regola(index: dict, urn: str) -> str | None:
     """Nome della regola che risolve `urn`, oppure None.
 
-    Serve a decomporre i conteggi (`esatto` / `slug` / `annuale` / `codice`)
-    senza riscrivere la catena: se cambia `lookup`, va cambiata anche qui.
+    `esatto` richiede che l'URN sia **davvero** un URN del corpus: le chiavi
+    canoniche inserite da `expand_index` possono coincidere con una citazione
+    AKN senza esserlo (per quelle la regola è `slug`).
     """
-    if not urn:
+    if not isinstance(urn, str) or not urn:
         return None
     if urn in ALIAS_CODICI and urn in index:
         return "codice"
-    if urn in index:
+    esatti = getattr(index, "esatti", None)
+    if urn in (esatti if esatti is not None else index):
         return "esatto"
     if canonical_key(urn) in index:
         return "slug"

@@ -39,7 +39,7 @@ from lab_tools.normattiva_client import (
     filter_collections,
     merge_collections_by_name,
 )
-from lab_tools.urn import expand_index
+from lab_tools.urn import add_urn, expand_index
 
 logger = logging.getLogger(__name__)
 
@@ -197,12 +197,11 @@ def process_collection(
                 md_path = staging_dir / md_filename
                 md_path.write_text(markdown, encoding="utf-8")
 
-                # Update live URN index (punta alla destinazione finale),
-                # con le chiavi alias per gli URN citati dalle AKN
+                # Update live URN index (punta alla destinazione finale).
+                # `add_urn`: su una coppia sola il fallback anno+numero avrebbe
+                # guard di univocità vacui (vedi lab_tools/urn.py)
                 if fm.urn:
-                    urn_index.update(
-                        expand_index([(fm.urn, f"{COLLEZIONI_DIRNAME}/{subdir}/{md_filename}")])
-                    )
+                    add_urn(urn_index, fm.urn, f"{COLLEZIONI_DIRNAME}/{subdir}/{md_filename}")
 
                 count += 1
             except Exception as e:

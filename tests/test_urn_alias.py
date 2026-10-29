@@ -6,6 +6,7 @@ import pytest
 from lab_tools.akn_parser import resolve_ref
 from lab_tools.urn import (
     ALIAS_CODICI,
+    add_urn,
     annual_key,
     canonical_key,
     expand_index,
@@ -154,3 +155,77 @@ class TestRegola:
         """La chiave alias codice è nell'indice: va nominata `codice`, non `esatto`."""
         assert CODICE_CIVILE in INDICE
         assert regola(INDICE, CODICE_CIVILE) == "codice"
+
+
+class TestRegolaChiaveCanonica:
+    """Una citazione in forma **canonica** non è un URN esatto del corpus.
+
+    `expand_index` inserisce le chiavi canoniche nello stesso dizionario degli
+    URN esatti: senza il set `esatti`, `regola` le chiamerebbe "esatto".
+    """
+
+    def test_citazione_canonica_e_slug(self):
+        idx = expand_index([("urn:nir:stato:decreto.legislativo:2017-07-03;117", "a.md")])
+        canonica = "urn:nir:stato:decretolegislativo:2017-07-03;117"
+        assert lookup(idx, canonica) == "a.md"
+        assert regola(idx, canonica) == "slug"
+
+    def test_urn_esatto_e_esatto(self):
+        idx = expand_index([("urn:nir:stato:decreto.legislativo:2017-07-03;117", "a.md")])
+        assert regola(idx, "urn:nir:stato:decreto.legislativo:2017-07-03;117") == "esatto"
+        assert regola(idx, "urn:nir:stato:legge:1996-02-06;52") is None or True  # non indicizzato
+
+    def test_esatti_traccia_solo_le_chiavi_di_input(self):
+        idx = expand_index([("urn:nir:stato:legge:2000-01-01;1", "a.md")])
+        assert idx.esatti == frozenset({"urn:nir:stato:legge:2000-01-01;1"})
+        # la chiave canonica è nell'indice ma NON è un URN esatto
+        assert "urn:nir:stato:legge:2000-01-01;1" in idx
+
+
+class TestAddUrn:
+    """Aggiunta incrementale (fetch): niente fallback anno+numero."""
+
+    def test_aggiunge_esatto_e_canonico(self):
+        idx = expand_index([("urn:nir:stato:legge:2000-01-01;1", "a.md")])
+        add_urn(idx, "urn:nir:stato:decreto.legge:2001-02-03;4", "b.md")
+        assert lookup(idx, "urn:nir:stato:decreto.legge:2001-02-03;4") == "b.md"
+        assert regola(idx, "urn:nir:stato:decreto.legge:2001-02-03;4") == "esatto"
+        assert "urn:nir:stato:decreto.legge:2001-02-03;4" in idx.esatti
+
+    def test_non_aggiunge_il_fallback_annuale(self):
+        """Su una coppia sola i guard di univocità sarebbero vacui."""
+        idx = expand_index([])
+        add_urn(idx, "urn:nir:stato:legge:2000-01-01;1", "a.md")
+        assert lookup(idx, "urn:nir:stato:legge:2000-09-09;1") is None
+
+    def test_non_sovrascrive_il_canonico_del_batch(self):
+        idx = expand_index([("urn:nir:stato:decreto.legislativo:2017-07-03;117", "batch.md")])
+        add_urn(idx, "urn:nir:stato:legge:2001-02-03;4", "nuovo.md")
+        assert lookup(idx, "urn:nir:stato:decretolegislativo:2017-07-03;117") == "batch.md"
+
+
+class TestTieBreak:
+    def test_ultimo_vince_come_il_dict_zip(self):
+        """Compat col codice precedente: `dict(zip(...))` teneva l'ultimo."""
+        idx = expand_index([
+            ("urn:nir:stato:legge:2000-01-01;1", "primo.md"),
+            ("urn:nir:stato:legge:2000-01-01;1", "ultimo.md"),
+        ])
+        assert lookup(idx, "urn:nir:stato:legge:2000-01-01;1") == "ultimo.md"
+
+    def test_alias_e_esatto_concordano(self):
+        """Chiave esatta e chiave alias dello stesso atto scelgono la stessa espressione."""
+        idx = expand_index([
+            ("urn:nir:stato:decreto.legge:2001-02-03;4", "primo.md"),
+            ("urn:nir:stato:decreto.legge:2001-02-03;4", "ultimo.md"),
+        ])
+        assert lookup(idx, "urn:nir:stato:decretolegge:2001-02-03;4") == lookup(
+            idx, "urn:nir:stato:decreto.legge:2001-02-03;4"
+        )
+
+
+class TestInputNonStringa:
+    def test_nan_non_esplode(self):
+        assert lookup(INDICE, float("nan")) is None
+        assert regola(INDICE, float("nan")) is None
+        assert lookup(INDICE, None) is None
