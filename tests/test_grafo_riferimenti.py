@@ -2,7 +2,12 @@
 
 from pathlib import Path
 
-from lab_tools.grafo_riferimenti import estrai_link, risolvi_path
+from lab_tools.grafo_riferimenti import (
+    _dedup_archi,
+    _verifica_pk_unica,
+    estrai_link,
+    risolvi_path,
+)
 
 FIXTURES = Path(__file__).resolve().parent / "fixtures"
 
@@ -111,3 +116,73 @@ class TestEstraiSuFixture:
         body = (FIXTURES / "con_celex_fm.md").read_text("utf-8")
         links = estrai_link(body)
         assert links == []
+
+
+class TestDedupArchi:
+    """Un arco per (fonte, bersaglio, origine); `peso` sommato.
+
+    L'alias URN fa risolvere forme diverse della stessa citazione sullo stesso
+    file: senza dedup la PK del clean fallisce (gruppi duplicati).
+    """
+
+    @staticmethod
+    def _arco(fonte, bersaglio, origine, peso=1):
+        return {
+            "fonte_filename": fonte,
+            "bersaglio_path": bersaglio,
+            "origine": origine,
+            "peso": peso,
+        }
+
+    def test_stessa_coppia_collassa_e_somma_peso(self):
+        archi = [
+            self._arco("a.md", "b.md", "akn"),
+            self._arco("a.md", "b.md", "akn"),
+        ]
+        out = _dedup_archi(archi)
+        assert len(out) == 1
+        assert out[0]["peso"] == 2
+
+    def test_origine_diversa_non_collassa(self):
+        archi = [
+            self._arco("a.md", "b.md", "akn"),
+            self._arco("a.md", "b.md", "regex", peso=3),
+        ]
+        assert len(_dedup_archi(archi)) == 2
+
+    def test_coppie_diverse_restano(self):
+        archi = [
+            self._arco("a.md", "b.md", "akn"),
+            self._arco("a.md", "c.md", "akn"),
+            self._arco("x.md", "b.md", "akn"),
+        ]
+        assert len(_dedup_archi(archi)) == 3
+
+    def test_lista_vuota(self):
+        assert _dedup_archi([]) == []
+
+
+class TestVerificaPkUnica:
+    """Guardia del produttore: la PK del clean deve essere unica."""
+
+    @staticmethod
+    def _arco(fonte, bersaglio, origine):
+        return {"fonte_filename": fonte, "bersaglio_path": bersaglio, "origine": origine}
+
+    def test_unica_non_solleva(self):
+        archi = [
+            self._arco("a.md", "b.md", "akn"),
+            self._arco("a.md", "b.md", "regex"),
+            self._arco("a.md", "c.md", "akn"),
+        ]
+        _verifica_pk_unica(archi)  # non solleva
+
+    def test_duplicato_solleva(self):
+        import pytest
+
+        archi = [
+            self._arco("a.md", "b.md", "akn"),
+            self._arco("a.md", "b.md", "akn"),
+        ]
+        with pytest.raises(ValueError, match="duplicati sulla PK"):
+            _verifica_pk_unica(archi)
