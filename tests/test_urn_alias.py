@@ -173,13 +173,17 @@ class TestRegolaChiaveCanonica:
     def test_urn_esatto_e_esatto(self):
         idx = expand_index([("urn:nir:stato:decreto.legislativo:2017-07-03;117", "a.md")])
         assert regola(idx, "urn:nir:stato:decreto.legislativo:2017-07-03;117") == "esatto"
-        assert regola(idx, "urn:nir:stato:legge:1996-02-06;52") is None or True  # non indicizzato
+        assert regola(idx, "urn:nir:stato:legge:1996-02-06;52") is None
 
     def test_esatti_traccia_solo_le_chiavi_di_input(self):
-        idx = expand_index([("urn:nir:stato:legge:2000-01-01;1", "a.md")])
-        assert idx.esatti == frozenset({"urn:nir:stato:legge:2000-01-01;1"})
-        # la chiave canonica è nell'indice ma NON è un URN esatto
-        assert "urn:nir:stato:legge:2000-01-01;1" in idx
+        """La chiave canonica sta nell'indice ma **non** fra gli URN esatti."""
+        esatto = "urn:nir:stato:decreto.legge:2001-02-03;4"
+        canonica = "urn:nir:stato:decretolegge:2001-02-03;4"
+        idx = expand_index([(esatto, "a.md")])
+        assert idx.esatti == frozenset({esatto})
+        assert canonica in idx  # chiave alias presente
+        assert canonica not in idx.esatti
+        assert regola(idx, canonica) == "slug"
 
 
 class TestAddUrn:
