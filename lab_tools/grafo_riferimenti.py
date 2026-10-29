@@ -17,6 +17,9 @@ from collections import Counter
 from pathlib import Path
 
 from lab_tools._paths import COLLEZIONI_ROOT, CONFIG_COLLEZIONI, OUTDIR
+from lab_tools.urn import expand_index
+from lab_tools.urn import lookup as urn_lookup
+from lab_tools.urn import regola as urn_regola
 
 NORMATIVA_PARQUET = OUTDIR / "normativa.parquet"
 
@@ -183,7 +186,8 @@ def _load_urn_to_filename() -> dict[str, str]:
         return {}
     df = pd.read_parquet(NORMATIVA_PARQUET, columns=["urn", "filename"])
     df = df.dropna(subset=["urn"])
-    return dict(zip(df["urn"], df["filename"]))
+    # alias (slug, anno+numero, codici): vedi lab_tools/urn.py
+    return expand_index(zip(df["urn"], df["filename"]))
 
 
 def _archi_da_akn_relations(
@@ -215,13 +219,20 @@ def _archi_da_akn_relations(
 
     archi: list[dict] = []
     n_skip = 0
+    # contatori per regola + invariante: ogni riga di input finisce in una classe
+    conteggi: Counter[str] = Counter()
     for _, row in cit.iterrows():
         f_urn, t_urn = row.get("fonte_urn"), row.get("target_urn")
-        f_fn = urn_to_fn.get(f_urn)
-        t_fn = urn_to_fn.get(t_urn)
+        f_fn = urn_lookup(urn_to_fn, f_urn)
+        t_fn = urn_lookup(urn_to_fn, t_urn)
         if not f_fn or not t_fn:
             n_skip += 1
+            conteggi[
+                "skip:entrambe" if not f_fn and not t_fn else ("skip:fonte" if not f_fn else "skip:bersaglio")
+            ] += 1
             continue
+        conteggi[f"bersaglio:{urn_regola(urn_to_fn, t_urn)}"] += 1
+        conteggi[f"fonte:{urn_regola(urn_to_fn, f_urn)}"] += 1
         f_meta = normativa.get(Path(f_fn).name, {})
         t_meta = normativa.get(Path(t_fn).name, {})
         archi.append(
@@ -247,7 +258,19 @@ def _archi_da_akn_relations(
                 "contesto": f"akn:{row.get('origin', 'ref')}",
             }
         )
+    # invariante: ogni riga di input è classificata (2 voci se risolta: fonte e
+    # bersaglio; 1 se scartata). Se non torna, c'è un ramo non contato.
+    classificate = sum(conteggi.values())
+    if classificate != len(cit) + len(archi):
+        raise ValueError(
+            f"conteggi AKN incoerenti: {classificate} != {len(cit)} input + {len(archi)} archi"
+        )
+    per_regola = Counter(
+        {k.split(":", 1)[1]: v for k, v in conteggi.items() if k.startswith("bersaglio:")}
+    )
     print(f"  AKN citations in corpus: {len(archi)} (skip esterne: {n_skip})")
+    print(f"  AKN per regola (bersaglio): {dict(per_regola.most_common())}")
+    print(f"  AKN skip: {dict((k, v) for k, v in conteggi.items() if k.startswith('skip:'))}")
     return archi
 
 

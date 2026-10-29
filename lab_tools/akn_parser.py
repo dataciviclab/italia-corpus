@@ -9,6 +9,8 @@ from __future__ import annotations
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass
 
+from lab_tools.urn import lookup as urn_lookup
+
 AKN_NS = "http://docs.oasis-open.org/legaldocml/ns/akn/3.0"
 ELI_NS = "http://data.europa.eu/eli/ontology#"
 NS = {"akn": AKN_NS, "eli": ELI_NS}
@@ -149,7 +151,7 @@ def resolve_ref(href: str, label: str, urn_index: dict[str, str], source_path: s
         return label
     urn, _, fragment = href.partition("#")
     lookup_urn = href_to_urn(href) or urn
-    target = urn_index.get(lookup_urn)
+    target = urn_lookup(urn_index, lookup_urn)
     if target:
         import os
         source_dir = os.path.dirname(source_path)

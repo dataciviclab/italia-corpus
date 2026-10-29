@@ -39,6 +39,7 @@ from lab_tools.normattiva_client import (
     filter_collections,
     merge_collections_by_name,
 )
+from lab_tools.urn import add_urn, expand_index
 
 logger = logging.getLogger(__name__)
 
@@ -196,9 +197,11 @@ def process_collection(
                 md_path = staging_dir / md_filename
                 md_path.write_text(markdown, encoding="utf-8")
 
-                # Update live URN index (punta alla destinazione finale)
+                # Update live URN index (punta alla destinazione finale).
+                # `add_urn`: su una coppia sola il fallback anno+numero avrebbe
+                # guard di univocità vacui (vedi lab_tools/urn.py)
                 if fm.urn:
-                    urn_index[fm.urn] = f"{COLLEZIONI_DIRNAME}/{subdir}/{md_filename}"
+                    add_urn(urn_index, fm.urn, f"{COLLEZIONI_DIRNAME}/{subdir}/{md_filename}")
 
                 count += 1
             except Exception as e:
@@ -262,7 +265,8 @@ def main() -> None:
     )
 
     # 3. Build URN index from existing corpus
-    urn_index = _build_urn_index(REPO)
+    # alias (slug, anno+numero, codici): vedi lab_tools/urn.py
+    urn_index = expand_index(_build_urn_index(REPO).items())
 
     # 3b. Staging AKN su disco (sopravvive a errori di merge a fine run)
     stage_dir = OUTDIR / "_akn_stage"
