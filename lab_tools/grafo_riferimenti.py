@@ -192,18 +192,35 @@ def _load_urn_to_filename() -> dict[str, str]:
 
 def _chiave_arco(a: dict) -> tuple[str, str, str]:
     """Chiave dell'arco = PK del clean (fonte_source_path, bersaglio_source_path,
-    origine).
+    origine), derivata **esattamente** come in
+    `datasets/riferimenti/sql/clean.sql`.
 
-    Per i nodi AKN `fonte_filename` è un basename e `fonte_source_path` è
-    `fonte_collezione || '/' || fonte_filename`, mentre `bersaglio_path` è
-    `bersaglio_source_path` (non vuoto per gli archi risolti). Assunzione: un
-    filename appartiene a **una sola** collezione in `normativa.parquet` (oggi
-    vero). Se un domani lo stesso filename comparisse in due collezioni come
-    righe distinte, la chiave va allargata a
-    `(fonte_collezione, fonte_filename, bersaglio_path, origine)` per non
-    fondere due archi che la PK considera distinti.
+    Attenzione al caso **regex non risolto**: `bersaglio_path` è vuoto e la PK
+    usa `bersaglio_filename` (il link grezzo). Usare `bersaglio_path` nudo
+    fonderebbe tutti gli unresolved di un file in una sola chiave.
     """
-    return (a["fonte_filename"], a["bersaglio_path"], a["origine"])
+    fonte_fn = a.get("fonte_filename") or ""
+    bersaglio_fn = a.get("bersaglio_filename") or ""
+    fonte_col = a.get("fonte_collezione") or ""
+    bersaglio_path = a.get("bersaglio_path") or ""
+
+    if "/" in fonte_fn:
+        fonte_source_path = fonte_fn
+    elif fonte_col:
+        fonte_source_path = f"{fonte_col}/{fonte_fn}"
+    else:
+        fonte_source_path = fonte_fn
+
+    if bersaglio_path:
+        bersaglio_source_path = bersaglio_path
+    elif "/" in bersaglio_fn:
+        bersaglio_source_path = bersaglio_fn
+    elif fonte_col:
+        bersaglio_source_path = f"{fonte_col}/{bersaglio_fn}"
+    else:
+        bersaglio_source_path = bersaglio_fn
+
+    return (fonte_source_path, bersaglio_source_path, a.get("origine") or "")
 
 
 def _dedup_archi(archi: list[dict]) -> list[dict]:
@@ -232,8 +249,12 @@ def _verifica_pk_unica(archi: list[dict]) -> None:
     """
     chiavi = [_chiave_arco(a) for a in archi]
     if len(chiavi) != len(set(chiavi)):
+        from collections import Counter
+
+        dup = [k for k, c in Counter(chiavi).items() if c > 1]
         raise ValueError(
-            f"archi duplicati sulla PK del clean: {len(chiavi) - len(set(chiavi))}"
+            f"archi duplicati sulla PK del clean: {len(chiavi) - len(set(chiavi))} "
+            f"({len(dup)} chiavi distinte, es. {dup[0]})"
         )
 
 
