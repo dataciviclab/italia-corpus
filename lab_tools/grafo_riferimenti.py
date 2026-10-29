@@ -190,22 +190,51 @@ def _load_urn_to_filename() -> dict[str, str]:
     return expand_index(zip(df["urn"], df["filename"]))
 
 
+def _chiave_arco(a: dict) -> tuple[str, str, str]:
+    """Chiave dell'arco = PK del clean (fonte_source_path, bersaglio_source_path,
+    origine).
+
+    Per i nodi AKN `fonte_filename` è un basename e `fonte_source_path` è
+    `fonte_collezione || '/' || fonte_filename`, mentre `bersaglio_path` è
+    `bersaglio_source_path` (non vuoto per gli archi risolti). Assunzione: un
+    filename appartiene a **una sola** collezione in `normativa.parquet` (oggi
+    vero). Se un domani lo stesso filename comparisse in due collezioni come
+    righe distinte, la chiave va allargata a
+    `(fonte_collezione, fonte_filename, bersaglio_path, origine)` per non
+    fondere due archi che la PK considera distinti.
+    """
+    return (a["fonte_filename"], a["bersaglio_path"], a["origine"])
+
+
 def _dedup_archi(archi: list[dict]) -> list[dict]:
-    """Un arco per (fonte_filename, bersaglio_path, origine), `peso` sommato.
+    """Un arco per chiave (vedi `_chiave_arco`), `peso` sommato.
 
     L'alias URN (`lab_tools/urn.py`) risolve forme diverse della stessa
     citazione sullo stesso file: senza dedup due righe AKN produrrebbero lo
-    stesso arco e la PK del clean
-    (fonte_source_path, bersaglio_source_path, origine) fallirebbe.
+    stesso arco e la PK del clean fallirebbe.
     """
     distinti: dict[tuple[str, str, str], dict] = {}
     for a in archi:
-        k = (a["fonte_filename"], a["bersaglio_path"], a["origine"])
+        k = _chiave_arco(a)
         if k in distinti:
             distinti[k]["peso"] += a["peso"]
         else:
             distinti[k] = a
     return list(distinti.values())
+
+
+def _verifica_pk_unica(archi: list[dict]) -> None:
+    """Solleva se la PK del clean non è unica.
+
+    Guardia del produttore: il dedup AKN copre la causa nota (alias URN); qui si
+    fallisce esplicitamente se un altro percorso reintroduce duplicati, invece
+    di lasciarli scoprire dal `toolkit-run` in build-dataset.
+    """
+    chiavi = [_chiave_arco(a) for a in archi]
+    if len(chiavi) != len(set(chiavi)):
+        raise ValueError(
+            f"archi duplicati sulla PK del clean: {len(chiavi) - len(set(chiavi))}"
+        )
 
 
 def _archi_da_akn_relations(
@@ -378,6 +407,13 @@ def main():
     print("Union AKN (citation strutturate)...")
     urn_to_fn = _load_urn_to_filename()
     archi.extend(_archi_da_akn_relations(normativa, urn_to_fn))
+
+    # Guardia: la PK del clean (fonte_source_path, bersaglio_source_path,
+    # origine) deve essere unica. Il dedup AKN copre la causa nota (alias URN);
+    # qui si solleva se un **altro** percorso reintroduce duplicati, invece di
+    # lasciarli scoprire dal `toolkit-run` in build-dataset (il buco che questa
+    # fix racconta).
+    _verifica_pk_unica(archi)
 
     _stampa_metriche(archi, len(file_set))
 

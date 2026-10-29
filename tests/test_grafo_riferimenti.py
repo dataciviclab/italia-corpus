@@ -2,7 +2,12 @@
 
 from pathlib import Path
 
-from lab_tools.grafo_riferimenti import _dedup_archi, estrai_link, risolvi_path
+from lab_tools.grafo_riferimenti import (
+    _dedup_archi,
+    _verifica_pk_unica,
+    estrai_link,
+    risolvi_path,
+)
 
 FIXTURES = Path(__file__).resolve().parent / "fixtures"
 
@@ -155,3 +160,29 @@ class TestDedupArchi:
 
     def test_lista_vuota(self):
         assert _dedup_archi([]) == []
+
+
+class TestVerificaPkUnica:
+    """Guardia del produttore: la PK del clean deve essere unica."""
+
+    @staticmethod
+    def _arco(fonte, bersaglio, origine):
+        return {"fonte_filename": fonte, "bersaglio_path": bersaglio, "origine": origine}
+
+    def test_unica_non_solleva(self):
+        archi = [
+            self._arco("a.md", "b.md", "akn"),
+            self._arco("a.md", "b.md", "regex"),
+            self._arco("a.md", "c.md", "akn"),
+        ]
+        _verifica_pk_unica(archi)  # non solleva
+
+    def test_duplicato_solleva(self):
+        import pytest
+
+        archi = [
+            self._arco("a.md", "b.md", "akn"),
+            self._arco("a.md", "b.md", "akn"),
+        ]
+        with pytest.raises(ValueError, match="duplicati sulla PK"):
+            _verifica_pk_unica(archi)
