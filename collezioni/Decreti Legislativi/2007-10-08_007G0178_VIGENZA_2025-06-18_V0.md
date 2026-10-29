@@ -1,0 +1,145 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 162
+data: 2007-08-10
+titolo: "Attuazione delle direttive 2004/49/CE e 2004/51/CE relative alla sicurezza e allo sviluppo delle ferrovie comunitarie."
+urn: urn:nir:stato:decreto.legislativo:2007-08-10;162
+codice_redazionale: 007G0178
+vigente: true
+---
+
+## Disposizioni introduttive
+
+Capo I
+
+### Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 2.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 3.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+## Agenzia nazionale per la sicurezza delle ferrovie
+
+Capo II
+
+### Art. 4.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 5.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 6.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 7.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+## Sviluppo e gestione della sicurezza
+
+Capo III
+
+### Art. 8.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 9.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 9-bis.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 10.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 11.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 12.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 13.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+## Certificazione e autorizzazione di sicurezza
+
+Capo IV
+
+### Art. 14.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 15.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 16.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 17.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+## Indagini sugli incidenti e sugli inconvenienti
+
+Capo V
+
+### Art. 18.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 19.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 20.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 21.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 22.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 23.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 24.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+## Abrogazioni e modifiche disposizoni transitorie e finali
+
+Capo VI
+
+### Art. 25.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 26.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))
+
+### Art. 27.
+
+((PROVVEDIMENTO ABROGATO DAL D.LGS. 14 MAGGIO 2019, N. 50))

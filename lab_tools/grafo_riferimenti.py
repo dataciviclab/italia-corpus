@@ -192,18 +192,35 @@ def _load_urn_to_filename() -> dict[str, str]:
 
 def _chiave_arco(a: dict) -> tuple[str, str, str]:
     """Chiave dell'arco = PK del clean (fonte_source_path, bersaglio_source_path,
-    origine).
+    origine), derivata **esattamente** come in
+    `datasets/riferimenti/sql/clean.sql`.
 
-    Per i nodi AKN `fonte_filename` è un basename e `fonte_source_path` è
-    `fonte_collezione || '/' || fonte_filename`, mentre `bersaglio_path` è
-    `bersaglio_source_path` (non vuoto per gli archi risolti). Assunzione: un
-    filename appartiene a **una sola** collezione in `normativa.parquet` (oggi
-    vero). Se un domani lo stesso filename comparisse in due collezioni come
-    righe distinte, la chiave va allargata a
-    `(fonte_collezione, fonte_filename, bersaglio_path, origine)` per non
-    fondere due archi che la PK considera distinti.
+    Attenzione al caso **regex non risolto**: `bersaglio_path` è vuoto e la PK
+    usa `bersaglio_filename` (il link grezzo). Usare `bersaglio_path` nudo
+    fonderebbe tutti gli unresolved di un file in una sola chiave.
     """
-    return (a["fonte_filename"], a["bersaglio_path"], a["origine"])
+    fonte_fn = a.get("fonte_filename") or ""
+    bersaglio_fn = a.get("bersaglio_filename") or ""
+    fonte_col = a.get("fonte_collezione") or ""
+    bersaglio_path = a.get("bersaglio_path") or ""
+
+    if "/" in fonte_fn:
+        fonte_source_path = fonte_fn
+    elif fonte_col:
+        fonte_source_path = f"{fonte_col}/{fonte_fn}"
+    else:
+        fonte_source_path = fonte_fn
+
+    if bersaglio_path:
+        bersaglio_source_path = bersaglio_path
+    elif "/" in bersaglio_fn:
+        bersaglio_source_path = bersaglio_fn
+    elif fonte_col:
+        bersaglio_source_path = f"{fonte_col}/{bersaglio_fn}"
+    else:
+        bersaglio_source_path = bersaglio_fn
+
+    return (fonte_source_path, bersaglio_source_path, a.get("origine") or "")
 
 
 def _dedup_archi(archi: list[dict]) -> list[dict]:
@@ -226,14 +243,14 @@ def _dedup_archi(archi: list[dict]) -> list[dict]:
 def _verifica_pk_unica(archi: list[dict]) -> None:
     """Solleva se la PK del clean non è unica.
 
-    Guardia del produttore: il dedup AKN copre la causa nota (alias URN); qui si
-    fallisce esplicitamente se un altro percorso reintroduce duplicati, invece
-    di lasciarli scoprire dal `toolkit-run` in build-dataset.
+    Usata **dopo** `_dedup_archi`: è un'invariante di costruzione, non una
+    guardia sui dati grezzi (una guardia sui grezzi fallirebbe per condizioni
+    legittime, es. link regex non risolti).
     """
     chiavi = [_chiave_arco(a) for a in archi]
     if len(chiavi) != len(set(chiavi)):
-        raise ValueError(
-            f"archi duplicati sulla PK del clean: {len(chiavi) - len(set(chiavi))}"
+        raise AssertionError(
+            f"dedup incompleto: {len(chiavi) - len(set(chiavi))} archi duplicati sulla PK"
         )
 
 
@@ -408,11 +425,15 @@ def main():
     urn_to_fn = _load_urn_to_filename()
     archi.extend(_archi_da_akn_relations(normativa, urn_to_fn))
 
-    # Guardia: la PK del clean (fonte_source_path, bersaglio_source_path,
-    # origine) deve essere unica. Il dedup AKN copre la causa nota (alias URN);
-    # qui si solleva se un **altro** percorso reintroduce duplicati, invece di
-    # lasciarli scoprire dal `toolkit-run` in build-dataset (il buco che questa
-    # fix racconta).
+    # Un arco per chiave = PK del clean (fonte_source_path, bersaglio_source_path,
+    # origine). Il dedup AKN copre la causa nota (alias URN); qui si applica
+    # all'**unione** (regex + AKN) perché anche due link regex diversi possono
+    # risolvere allo stesso bersaglio. `peso` sommato. Così la PK regge per
+    # costruzione, invece di far fallire la build su una condizione di dato.
+    n_prima = len(archi)
+    archi = _dedup_archi(archi)
+    if len(archi) != n_prima:
+        print(f"  archi collassati sull'unione (PK clean): {n_prima - len(archi)}")
     _verifica_pk_unica(archi)
 
     _stampa_metriche(archi, len(file_set))
