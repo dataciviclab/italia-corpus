@@ -92,3 +92,18 @@ class TestMarcaIsCurrent:
         rec = [_atto("a.md", "", "ORIGINALE", None), _atto("b.md", "", "ORIGINALE", None)]
         _marca_is_current(rec)
         assert all(r["is_current"] for r in rec)
+
+    def test_originale_duplicato_perde_sul_tie_break(self):
+        """Tie-break `duplicato=false` fra due ORIGINALE (stesso snapshot).
+
+        Il criterio non e' esercitato dal corpus (0 gruppi con >1 ORIGINALE),
+        ma e' parte della regola: fra due ORIGINALE la copia non duplicata
+        vince, anche se il suo filename e' lessicalmente successivo.
+        """
+        rec = [
+            _atto("a.md", "urn:1", "ORIGINALE", None),
+            _atto("b.md", "urn:1", "ORIGINALE", None),
+        ]
+        rec[0]["duplicato"] = True  # 'a.md' vincerebbe solo per ordine lessicale
+        _marca_is_current(rec)
+        assert [r["filename"] for r in rec if r["is_current"]] == ["b.md"]
