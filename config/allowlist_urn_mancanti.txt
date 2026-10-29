@@ -1,0 +1,9 @@
+# URN ammessi a sparire rispetto al build precedente (main).
+#
+# Il contract check (`build-dataset.yml`) confronta l'insieme degli URN del
+# build con quello di main: `set(build) ⊇ set(main)`. Una voce qui è una
+# **deroga esplicita**: va motivata (atto ritirato dalla fonte, con data).
+#
+# Formato: un URN per riga; `#` apre un commento.
+#
+# Vuoto = nessuna deroga ammessa.
