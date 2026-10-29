@@ -289,3 +289,30 @@ class TestFileDaSostituire:
         vecchi = ["2003-08-07_003G0227_VIGENZA_2025-06-12_V0.md"]
         nuovi = ["2003-08-07_003G0227_VIGENZA_2026-02-25_V0.md"]
         assert _file_da_sostituire(vecchi, nuovi) == set(vecchi)
+
+
+class TestProcessCollectionNonCancella:
+    """Un XML base64 troncato non deve cancellare il testo buono."""
+
+    def test_base64_troncato_mantiene_il_vecchio(self, tmp_path):
+        from unittest.mock import patch
+
+        xml = tmp_path / "1942-04-04_042U0262_VIGENZA_2026-04-29_V0.xml"
+        xml.write_text("PD94bWwgdmVyc2lvbj0iMS4w", encoding="utf-8")  # troncato
+
+        dest = tmp_path / "collezioni" / "Codici"
+        dest.mkdir(parents=True)
+        vecchio = dest / "1942-04-04_042U0262_ORIGINALE_V0.md"
+        vecchio.write_text("testo buono", encoding="utf-8")
+
+        with (
+            patch("lab_tools.fetch_normattiva.download_collection", return_value=tmp_path / "z.zip"),
+            patch("lab_tools.fetch_normattiva.extract_zip", return_value=[xml]),
+        ):
+            count = process_collection(
+                {"nomeCollezione": "Codici"}, tmp_path, tmp_path / "collezioni", {}
+            )
+
+        assert count == 0
+        assert vecchio.exists()
+        assert vecchio.read_text(encoding="utf-8") == "testo buono"
