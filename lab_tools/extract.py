@@ -13,9 +13,7 @@ from pathlib import Path
 
 from lab_tools._frontmatter import parse_frontmatter
 from lab_tools._paths import COLLEZIONI_ROOT, CONFIG_COLLEZIONI, OUTDIR
-
-# Versione dell'espressione dal nome file: `..._VIGENZA_2025-06-12_V0.md`
-_VIGENZA_RE = re.compile(r"_VIGENZA_(\d{4}-\d{2}-\d{2})_")
+from lab_tools.identity import versione_da_filename as _versione_da_filename
 
 # Atti UE: singolari e plurali, con/senza (UE), n., delegato/di esecuzione
 # Cattura 3 gruppi: (tipo_parola, anno, numero)
@@ -173,23 +171,6 @@ def extract(filepath: Path, collezione: str = "") -> dict | None:
         **metrics,
     }
 
-
-def _versione_da_filename(filename: str) -> tuple[str, str | None]:
-    """(versione, snapshot_data) dal nome file.
-
-    `..._VIGENZA_2025-06-12_V0.md` → ("VIGENZA", "2025-06-12")
-    `..._ORIGINALE_V0.md` → ("ORIGINALE", None)
-
-    Nel corpus attuale tutte le 22.012 righe hanno uno dei due marker; una
-    forma sconosciuta restituisce `""` e viene segnalata in `main()` (non
-    silenziosa, così un cambio di naming della fonte non passa inosservato).
-    """
-    m = _VIGENZA_RE.search(filename)
-    if m:
-        return "VIGENZA", m.group(1)
-    if "_ORIGINALE_" in filename:
-        return "ORIGINALE", None
-    return "", None
 
 
 def _marca_is_current(records: list[dict]) -> None:
