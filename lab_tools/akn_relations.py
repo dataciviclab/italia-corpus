@@ -20,6 +20,8 @@ from collections import Counter
 from pathlib import Path
 from typing import TYPE_CHECKING, Any
 
+from lab_tools.akn_parser import href_to_urn
+
 if TYPE_CHECKING:
     import pandas as pd
 
@@ -40,25 +42,6 @@ RE_EIV = re.compile(
 
 def _local(tag: str) -> str:
     return tag.rsplit("}", 1)[-1]
-
-
-def href_to_urn(href: str) -> str | None:
-    """Mapping href AKN o urn:nir a URN normalizzato (o None)."""
-    if not href:
-        return None
-    path, _, _ = href.partition("#")
-    if path.startswith("urn:nir:"):
-        return path
-    if not path.startswith("/akn/"):
-        return None
-    parts = path.strip("/").split("/")
-    if len(parts) < 7 or parts[:3] != ["akn", "it", "act"]:
-        return None
-    act_type, authority, date, number = parts[3], parts[4], parts[5], parts[6]
-    # AKN usa underscore nei tipi (DECRETO_LEGISLATIVO); URN:NIR usa punti
-    urn_type = act_type.lower().replace("_", ".")
-    urn_authority = authority.lower().replace("_", ".")
-    return f"urn:nir:{urn_authority}:{urn_type}:{date};{number}"
 
 
 def _child_urn(el: ET.Element, tag: str) -> str | None:

@@ -6,6 +6,7 @@ ora maintenuto da DataCivicLab.
 
 from __future__ import annotations
 
+import re
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass
 
@@ -46,10 +47,22 @@ def _find_one(root: ET.Element, path: str) -> ET.Element | None:
     return root.find(path, NS)
 
 
-def _camel_to_dots(value: str) -> str:
-    import re
+def _slug_tipo_akn(value: str) -> str:
+    """Tipo AKN → slug URN NIR.
+
+    Le forme in circolazione sono tre: `decreto.legislativo`,
+    `DECRETO_LEGISLATIVO` e `decretoLegislativo`. Prima esistevano due
+    implementazioni (una gestiva solo i punti, l'altra solo gli underscore) e
+    producevano URN diversi per lo stesso link.
+    """
+    value = value.replace("_", ".")
     value = re.sub(r"([a-z0-9])([A-Z])", r"\1.\2", value)
     return value.lower()
+
+
+def _camel_to_dots(value: str) -> str:
+    """Alias storico (compatibilità interna)."""
+    return _slug_tipo_akn(value)
 
 
 _HREF_ENCODE = {
@@ -118,7 +131,12 @@ def format_frontmatter(fm: AknFrontmatter) -> str:
 # ── Reference resolution ─────────────────────────────────────────────
 
 def href_to_urn(href: str) -> str | None:
-    """Mapping href (urn:nir o /akn/...) a identificativo urn:nir."""
+    """Mapping href (urn:nir o /akn/...) a identificativo urn:nir.
+
+    Unica implementazione: la usano `akn_parser` e `akn_relations`.
+    """
+    if not href:
+        return None
     path, _, _ = href.partition("#")
     if path.startswith("urn:nir:"):
         return path
@@ -128,7 +146,7 @@ def href_to_urn(href: str) -> str | None:
     if len(parts) < 7 or parts[:3] != ["akn", "it", "act"]:
         return None
     act_type, authority, date, number = parts[3], parts[4], parts[5], parts[6]
-    urn_type = _camel_to_dots(act_type)
+    urn_type = _slug_tipo_akn(act_type)
     urn_authority = authority.lower().replace("_", ".")
     return f"urn:nir:{urn_authority}:{urn_type}:{date};{number}"
 

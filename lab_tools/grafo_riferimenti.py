@@ -11,17 +11,20 @@ Uso: python -m lab_tools.grafo_riferimenti
 
 from __future__ import annotations
 
+import logging
 import re
 import urllib.parse
 from collections import Counter
 from pathlib import Path
 
-from lab_tools._paths import COLLEZIONI_ROOT, OUTDIR, load_collezioni
+from lab_tools._paths import COLLEZIONI_ROOT, OUTDIR, collezioni_legislative
 from lab_tools.classifica_riferimenti import clausola_di_lettura
 from lab_tools.identity import build_indice_identita, data_codice
 from lab_tools.urn import expand_index
 from lab_tools.urn import lookup as urn_lookup
 from lab_tools.urn import regola as urn_regola
+
+logger = logging.getLogger(__name__)
 
 NORMATIVA_PARQUET = OUTDIR / "normativa.parquet"
 
@@ -37,12 +40,6 @@ MAX_REGEX_BERSAGLI_NON_RISOLTI = 50
 _CTX_MAX = 120
 
 
-def _collezioni_legislative() -> list[Path]:
-    """Legge da config/collezioni.txt: solo directory elencate ed esistenti."""
-    nomi = load_collezioni()
-    return sorted(d for d in (COLLEZIONI_ROOT / n for n in nomi) if d.is_dir())
-
-
 def _build_file_set() -> set[str]:
     """Path dei .md relativi a COLLEZIONI_ROOT (es. "Codici/x.md").
 
@@ -50,7 +47,7 @@ def _build_file_set() -> set[str]:
     non cambia contratto al prossimo build.
     """
     files: set[str] = set()
-    for col_dir in _collezioni_legislative():
+    for col_dir in collezioni_legislative():
         for f in col_dir.glob("*.md"):
             files.add(str(f.relative_to(COLLEZIONI_ROOT)))
     return files
@@ -490,13 +487,14 @@ def main():
     print("Estrazione link dai body...")
     archi: list[dict] = []
     n_fallback_identita = 0
-    for col_dir in _collezioni_legislative():
+    for col_dir in collezioni_legislative():
         nome_collezione = col_dir.name
         for f in sorted(col_dir.glob("*.md")):
             relpath = f.relative_to(COLLEZIONI_ROOT)
             try:
                 raw = f.read_text("utf-8", errors="replace")
-            except Exception:
+            except OSError as e:
+                logger.warning("lettura fallita %s: %s", f, e)
                 continue
 
             links_ctx = estrai_link_con_contesto(raw)

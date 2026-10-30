@@ -49,3 +49,13 @@ def load_collezioni(path: Path | None = None) -> list[str]:
 def load_pin(path: Path | None = None) -> dict[str, str]:
     """Formato richiesto per collezione (`Nome|V` -> {"Nome": "V"})."""
     return {nome: fmt for nome, fmt in _leggi_config_collezioni(path) if fmt}
+
+
+def collezioni_legislative(path: Path | None = None) -> list[Path]:
+    """Directory delle collezioni elencate in config e presenti su disco.
+
+    Unico punto in cui si risolve "config → directory": prima era copiato in
+    `extract`, `grafo_riferimenti` e `estrai_citazioni_costituzionali`.
+    """
+    nomi = load_collezioni(path)
+    return sorted(d for d in (COLLEZIONI_ROOT / n for n in nomi) if d.is_dir())

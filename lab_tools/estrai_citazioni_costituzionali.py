@@ -12,14 +12,16 @@ Uso: python -m lab_tools.estrai_citazioni_costituzionali
 from __future__ import annotations
 
 import csv as csv_module
+import logging
 import re
 from collections import Counter
-from pathlib import Path
 
 import pyarrow as pa
 import pyarrow.parquet as pq
 
-from lab_tools._paths import COLLEZIONI_ROOT, OUTDIR, load_collezioni
+from lab_tools._paths import COLLEZIONI_ROOT, OUTDIR, collezioni_legislative
+
+logger = logging.getLogger(__name__)
 
 NORMATIVA_PARQUET = OUTDIR / "normativa.parquet"
 
@@ -39,12 +41,6 @@ CONTESTO_RAGGIO = 80
 MAX_ARTICOLI_DIST = 120
 # Rimuove link markdown [testo](url) → testo (evita falsi positivi da URL)
 RE_MD_LINK = re.compile(r'\[([^\]]*)\]\([^)]+\)')
-
-
-def _collezioni_legislative() -> list[Path]:
-    """Legge da config/collezioni.txt: solo directory elencate ed esistenti."""
-    nomi = load_collezioni()
-    return sorted(d for d in (COLLEZIONI_ROOT / n for n in nomi) if d.is_dir())
 
 
 def _load_normativa_lookup() -> dict[str, dict]:
@@ -159,13 +155,14 @@ def main():
 
     print("Estrazione citazioni dai body...")
     records: list[dict] = []
-    for col_dir in _collezioni_legislative():
+    for col_dir in collezioni_legislative():
         nome_collezione = col_dir.name
         for f in sorted(col_dir.glob("*.md")):
             relpath = f.relative_to(COLLEZIONI_ROOT)
             try:
                 raw = f.read_text("utf-8", errors="replace")
-            except Exception:
+            except OSError as e:
+                logger.warning("lettura fallita %s: %s", f, e)
                 continue
 
             citazioni = _estrai_citazioni(raw)
