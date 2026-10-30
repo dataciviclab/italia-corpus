@@ -1,6 +1,6 @@
 # Italia Corpus — La legislazione italiana a portata di ricerca
 
-**22.402 atti normativi, da codici a decreti-legge, in formato aperto e interrogabile.**
+**20.782 atti normativi (22.402 espressioni), da codici a decreti-legge, in formato aperto e interrogabile.**
 
 Il corpus della legislazione italiana: leggi, decreti legislativi,
 decreti-legge, regolamenti, DPCM, testi unici, codici e atti di recepimento UE.
@@ -11,10 +11,11 @@ a Markdown. Tutto cercabile per testo, struttura e materia.
 
 | | |
 |---|---|
-| **Atti normativi** | 22.402 (12.241 vigenti, 8.400 abrogati, 1.761 decaduti) |
+| **Atti normativi** | 22.402 espressioni / **20.782 atti distinti** (12.241 righe vigenti, 8.400 abrogate, 1.761 decadute) |
 | **Collezioni** | 20 (DL e conversioni, decreti legislativi, codici, testi unici, DPCM...) |
 | **Riferimenti incrociati** | 200.080 archi tra atti |
 | **Materie** | 25 categorie (fisco, ambientale, lavoro, giustizia, etc.) |
+| **Copertura del catalogo** | **20.780 atti su 205.115** del catalogo ufficiale Normattiva (10,1%) — il denominatore è in `atti_index` (`make atti-index`), non stimato |
 | **Aggiornamento** | Fetch giornaliero diretto dall'API Normattiva |
 
 ## Esempi di domande
@@ -57,7 +58,7 @@ duckdb.sql("""
 
 ### 3. Via download parquet
 
-- `data/derived/normativa.parquet` — 22.402 atti, 42 colonne
+- `data/derived/normativa.parquet` — 20.782 atti (22.402 file), 42 colonne
 - `data/derived/riferimenti.parquet` — 200.080 riferimenti, 18 colonne
 - `data/derived/allegati.parquet` — indice allegati AKN (`data_codice`+`doc_id` → `doc_name`, `chars`, `hash`, `versione`, `rel_path`; contenuto su GCS)
 
@@ -73,7 +74,9 @@ duckdb.sql("""
 
 ## Documentazione tecnica
 
-Pipeline canonica (stage lineari, output dichiarati): **[docs/PIPELINE.md](docs/PIPELINE.md)**.
+- **Cosa gira, in una pagina**: **[docs/COSA_GIRA.md](docs/COSA_GIRA.md)**
+- Pipeline canonica (stage lineari, output dichiarati): **[docs/PIPELINE.md](docs/PIPELINE.md)**
+- Stato attuale, senza aprire il codice: `make stato`
 
 ### Tooling
 
@@ -136,13 +139,18 @@ Colonne di qualità:
 | `eta_anni` | int | Anni dall'atto (anno corrente - anno_atto) |
 | `sunsetting_score` | int | 0-100, più alto = più candidato alla decadenza automatica |
 
-### Schema `riferimenti.parquet` (15 colonne)
+### Schema `riferimenti.parquet` (19 colonne)
 
 `fonte_filename`, `fonte_collezione`, `fonte_anno`, `fonte_tipo`,
 `fonte_materia`, `fonte_stato`,
 `bersaglio_filename`, `bersaglio_path`, `bersaglio_collezione`,
 `bersaglio_anno`, `bersaglio_tipo`, `bersaglio_materia`, `bersaglio_stato`,
-`peso`, `risolto`
+`peso`, `risolto`, `origine`, `rel_type`, `contesto`, **`clausola_lettura`**
+
+`clausola_lettura`: `TRUE` = rinvio di sola lettura ("al solo fine di
+facilitare la lettura delle disposizioni"), non una citazione; `FALSE` =
+contesto presente senza quella clausola; `NULL` = contesto assente (archi AKN
+prodotti prima del 2026-10-30) → non classificabile.
 
 Path nei campi path: relativi a `collezioni/` (es. `Codici/x.md`).
 `bersaglio_filename` e `normativa.filename` sono basename.

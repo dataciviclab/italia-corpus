@@ -35,7 +35,7 @@ jobs:
           python-version: '3.12'
           cache: 'pip'
       - run: pip install -e ".[dev,pipeline]"
-      # Cache: manifest fetch + atti_api (persistono tra i run CI)
+      # Cache: manifest fetch + atti_api + status + atti_index (persistono tra i run CI)
       # Key giornaliera: una cache al giorno, riutilizzata nei re-run
       - name: Generate cache key
         id: cache-key
@@ -46,12 +46,19 @@ jobs:
             data/derived/_fetch_manifest.json
             data/derived/atti_api.parquet
             data/derived/status.parquet
+            data/derived/atti_index.parquet
           key: fetch-cache-${{ steps.cache-key.outputs.date }}
           restore-keys: |
             fetch-cache-
       - name: Lint (ruff)
         run: python -m ruff check lab_tools/ tests/
       - run: python -m pytest tests/ -v
+      # Una richiesta: formati disponibili per collezione (O/V/M). Non fatale:
+      # se il WAF blocca, resta il probe del run precedente.
+      - name: Probe formati collezioni (Normattiva)
+        id: probe_collezioni
+        run: python -m lab_tools.collezioni_probe
+        continue-on-error: true
       - name: Fetch da Normattiva (MD + artifact AKN)
         run: python -m lab_tools.fetch_normattiva
       # Status: solo classe 3 (lista ufficiale abrogati) ~2 min. La classe 2
@@ -70,6 +77,18 @@ jobs:
           echo "::warning::fetch-status FALLITO (WAF IPZS?) — uso lo status in cache (STALE). La freschezza di 'stato' NON è garantita."
       - name: Extract metadati
         run: python -m lab_tools.extract
+      # Catalogo ufficiale (~205k atti, metadati): identità + denominatore di
+      # copertura. Dopo extract perché il join è con normativa.parquet fresco.
+      # WAF IPZS → come fetch-status: non fatale, in caso di blocco resta
+      # l'indice del run precedente (fetched_at dichiara l'età).
+      - name: Indice catalogo (atti_index)
+        id: atti_index
+        run: python -m lab_tools.atti_index
+        continue-on-error: true
+      - name: Warn se atti_index stale (WAF)
+        if: steps.atti_index.outcome == 'failure'
+        run: |
+          echo "::warning::atti-index FALLITO (WAF IPZS?) — l'indice del catalogo resta quello del run precedente."
       # Ordine onesto (docs/PIPELINE.md):
       # classifica prima di grafo; side product PRIMA di integra;
       # integra-vigenza dopo integra (usa abrogato_da) e prima di grafo;
@@ -210,6 +229,14 @@ jobs:
           else:
               print("contract path: 0 nomi file spariti")
           PY
+      # atti-index è un passo di rete non fatale: se fallisce e non c'è cache,
+      # il suo dataset non ha input. Meglio saltare la pubblicazione che far
+      # fallire l'intero build per un indice diagnostico.
+      - name: Salta atti_index se manca l'input
+        if: steps.atti_index.outcome == 'failure' && hashFiles('data/derived/atti_index.parquet') == ''
+        run: |
+          echo "::warning::atti_index assente: salto datasets/atti-index per questo run"
+          mv datasets/atti-index /tmp/atti-index-skipped
       - name: Layer toolkit (clean + mart)
         run: make toolkit-run
       - name: GCP Auth (WIF)

@@ -36,9 +36,11 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 
 | # | Stage | Comando | Output |
 |---|---|---|---|
+| 0 | **probe-collezioni** | `python -m lab_tools.collezioni_probe` | `collezioni_probe.json` (formati O/V/M per collezione + freeze, una richiesta) |
 | 1 | **fetch** | `python -m lab_tools.fetch_normattiva [--only …]` | MD + `akn_*.parquet` (staging + merge) |
 | 1b | **fetch-status** | `python -m lab_tools.fetch_status` | `status.parquet` (solo **abrogati**, classe 3 = lista ufficiale; no testo) |
 | 2 | **extract** | `python -m lab_tools.extract` | `normativa.parquet` (metadati base) |
+| 2b | **atti-index** | `python -m lab_tools.atti_index` | `atti_index.parquet` (catalogo ufficiale, ~205k atti: identità, `stato` da classe 3, `in_corpus`) |
 | 3 | **classifica** | `python -m lab_tools.classifica_tematich` | + `materia` (vedi [MATERIA_AUDIT.md](MATERIA_AUDIT.md)) |
 | 4 | **citazioni/pnrr/abrogations** | moduli `estrai_*` / `extract_*` | side product su disco |
 | 5 | **integra** | `python -m lab_tools.integra_costituzionali` | + cit. cost. / abrogazioni **da side product** |
@@ -104,6 +106,8 @@ coincide con la collezione ufficiale **"Atti normativi abrogati"** (~124k atti)
 | `normativa.parquet` | atto: metadati + identità (`versione`/`snapshot_data`/`is_current`) + qualità + materia/sunsetting + EIV/AKN + `stato`/`vigenza_fonte` | legal-graph, MCP, analisi |
 | `status.parquet` | status atto-level autorevole (`codice_redazionale`+`data_gu` → `stato`, `classe`) | `integra-vigenza` (non pubblicato, non committato) |
 | `atti_api.parquet` | leggi ordinarie fuori collezione (fetch `dettaglio-atto-urn`: vigenza + HTML) | legal-graph (nodi + target euristiche `attua_delega`) |
+| `collezioni_probe.json` | formati disponibili per collezione (O/V/M), `numeroAtti`, `dataCreazione`, stato del pin e `senza_pin_da` (probe consecutivi congelati) — **committato**: è la storia dei cambi di formato della fonte | diagnosi freeze, CI | 
+| `atti_index.parquet` | catalogo ufficiale Normattiva: una riga per atto, PK `(codice_redazionale, data_gu)`, `stato` da classeProvvedimento (3 = lista abrogati), `in_corpus`, `urn`/`urn_fonte` appresa — **non committato**, pubblicato dal layer toolkit (`datasets/atti-index/`) | legal-graph (identità degli edge di citazione), analisi di copertura |
 | `riferimenti.parquet` | archi `peso`, `risolto`, `origine` (regex\|akn) | legal-graph, debt |
 | `allegati.parquet` | indice allegati AKN: `data_codice`+`doc_id` → `doc_name`, `chars`, `hash`, `versione`, `rel_path` (contenuto su GCS) | legal-graph (`legal_text`) |
 | `akn_relations.parquet` | relazioni AKN tipizzate (full-corpus su fetch completo) | clean/tabella propria, debug |
@@ -166,9 +170,9 @@ I parquet derived **non** sono rigenerati in questa PR: al prossimo build CI il 
 
 - Modulo: `lab_tools/akn_relations.py` (+ `integra_akn_meta.py`)
 - Wire: fetch (staging+merge) · grafo (union citation, `origine`) · integra-akn
-- **Copertura**: fetch completo 20 collezioni — meta join **22.017/22.017**, EIV **10.522**, archi AKN **43.880**, `akn_relations` tipizzato (inclusi repeal/substitution)
+- **Copertura** (2026-10-30): fetch completo 20 collezioni — meta join **20.782/20.782**, EIV **9.928**, citazioni AKN **105.226** su 424.939 relazioni AKN, `akn_relations` tipizzato (inclusi repeal/substitution)
 - CI: lint ruff · step `integra-akn` · ordine side-product→integra → grafo · contract check
-- Tests: `tests/test_akn_relations.py` (187 totali repo)
+- Tests: **380** nel repo (`tests/test_akn_relations.py` copre questo stage)
 
 Non è un prodotto separato: è **stage fetch + 8** della pipeline sopra.
 

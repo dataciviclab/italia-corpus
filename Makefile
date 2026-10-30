@@ -1,4 +1,4 @@
-.PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-vigenza integra-akn sunsetting citazioni pnrr abrogations fetch-status akn-relations \
+.PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-vigenza integra-akn sunsetting citazioni pnrr abrogations fetch-status akn-relations atti-index probe-collezioni stato \
  toolkit-check toolkit-run toolkit-all check
 
 # Pipeline completa (senza fetch — fetch è CI/manuale)
@@ -56,6 +56,23 @@ integra-vigenza:
 
 fetch-status:
 	python -m lab_tools.fetch_status
+
+# Backfill manuale dell'indice allegati AKN (il fetch quotidiano lo aggiorna
+# già via `allegati.scrivi_atto`; questo serve per una ricostruzione completa)
+fetch-allegati:
+	python -m lab_tools.fetch_allegati
+
+# Stato del corpus in una schermata (nessuna rete, nessuna scrittura)
+stato:
+	python -m lab_tools.stato
+
+# Una richiesta: formati disponibili per collezione (O/V/M) + storia dei freeze
+probe-collezioni:
+	python -m lab_tools.collezioni_probe
+
+# Indice del catalogo Normattiva (metadati, nessun testo) — richiede normativa.parquet
+atti-index:
+	python -m lab_tools.atti_index
 
 citazioni:
 	python -m lab_tools.estrai_citazioni_costituzionali

@@ -20,6 +20,7 @@ pipeline:
     - fetch            # MD + akn_* (staging + merge)
     - fetch-status     # status.parquet: status atto-level autorevole (no testo)
     - extract          # normativa base
+    - atti-index       # catalogo ufficiale: identità + copertura (no testo)
     - classifica       # + materia  (PRIMA di grafo)
     - citazioni        # side product su disco
     - pnrr             # side product
@@ -52,6 +53,14 @@ outputs:
       versione, snapshot_data, rel_path. Contenuto in GCS
       (italia-corpus/allegati/), indice committato (runner CI effimero).
       Consumato da legal-graph (legal_text, slice per doc_name).
+  - path: data/derived/atti_index.parquet
+    kind: index
+    contract: >
+      catalogo ufficiale Normattiva (una riga per atto, PK
+      (codice_redazionale, data_gu)): identità, stato dalla classeProvvedimento
+      (3 = lista abrogati), in_corpus vs corpus MD, urn/urn_fonte (corpus o
+      appresa solo con tipo+emittente determinati). Non committato: pubblicato
+      dal layer toolkit (datasets/atti-index/), consumato da legal-graph.
   - path: data/derived/riferimenti.parquet
     kind: graph_edges
     contract: >
@@ -72,6 +81,7 @@ datasets:
   - riferimenti
   - akn_relations
   - akn_act_meta
+  - atti_index
   - citazioni-costituzionali
 consumers:
   - legal-graph (aggregazione, non reinvenzione)

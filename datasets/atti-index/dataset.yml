@@ -1,0 +1,66 @@
+root: "../../out"
+schema_version: 1
+
+dataset:
+  name: "atti_index"
+  source_id: "italia_corpus"
+  description: >
+    Catalogo ufficiale Normattiva (una riga per atto, ~205k): identità
+    (codice_redazionale + data GU), stato dalla classe ufficiale
+    (3 = lista abrogati), appartenenza al corpus (in_corpus) e URN quando
+    determinabile. Serve a dire quanto manca e ad agganciare le citazioni
+    a un'identità. Metadati, nessun testo.
+  tags: [normativa, catalogo, identita, copertura, normattiva]
+  category: normativa
+  years: [2026]
+  time_coverage:
+    start_year: 1861
+    end_year: 2026
+
+raw:
+  output_policy: "overwrite"
+  sources:
+    - name: "atti_index_parquet"
+      type: "local_file"
+      args:
+        path: "../../data/derived/atti_index.parquet"
+        filename: "atti_index.parquet"
+      primary: true
+
+clean:
+  sql: "sql/clean.sql"
+  read:
+    source: auto
+    mode: latest
+  required_columns:
+    - codice_redazionale
+    - data_gu
+    - classe
+    - stato
+    - denominazione
+    - anno
+    - numero
+    - in_corpus
+    - urn
+    - urn_fonte
+  validate:
+    # l'atto è identificato da codice redazionale + data GU: il codice è
+    # riciclato (stesso codice per atti diversi in anni diversi)
+    primary_key: [codice_redazionale, data_gu]
+    not_null: [codice_redazionale, data_gu, classe, stato, in_corpus]
+    min_rows: 150000
+
+mart:
+  tables:
+    - name: "mart_catalogo_copertura"
+      sql: "sql/mart_catalogo_copertura.sql"
+  required_tables:
+    - "mart_catalogo_copertura"
+  validate:
+    table_rules:
+      mart_catalogo_copertura:
+        required_columns: [classe, anno, denominazione, n_atti, n_in_corpus]
+        min_rows: 100
+
+validation:
+  fail_on_error: true

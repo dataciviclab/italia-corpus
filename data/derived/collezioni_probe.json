@@ -1,0 +1,472 @@
+{
+ "sintesi": {
+  "collezioni_api": 23,
+  "in_config": 20,
+  "pin_ok": 0,
+  "congelate": 5,
+  "non_pinnate": 15,
+  "fuori_config": 3
+ },
+ "collezioni": [
+  {
+   "nome": "Atti di attuazione Regolamenti UE",
+   "in_config": true,
+   "pin": null,
+   "formati": [
+    "M",
+    "O",
+    "V"
+   ],
+   "numero_atti": {
+    "M": 39,
+    "O": 39,
+    "V": 39
+   },
+   "data_creazione": {
+    "M": "2026-10-30",
+    "O": "2026-10-30",
+    "V": "2026-10-30"
+   },
+   "stato": "non_pinnata",
+   "senza_pin_da": 0
+  },
+  {
+   "nome": "Atti di recepimento direttive UE",
+   "in_config": true,
+   "pin": null,
+   "formati": [
+    "V"
+   ],
+   "numero_atti": {
+    "V": 1098
+   },
+   "data_creazione": {
+    "V": "2026-10-30"
+   },
+   "stato": "non_pinnata",
+   "senza_pin_da": 0
+  },
+  {
+   "nome": "Atti normativi abrogati (in originale)",
+   "in_config": false,
+   "pin": null,
+   "formati": [
+    "O"
+   ],
+   "numero_atti": {
+    "O": 124045
+   },
+   "data_creazione": {
+    "O": "2026-10-30"
+   },
+   "stato": "fuori_config",
+   "senza_pin_da": 0
+  },
+  {
+   "nome": "Codici",
+   "in_config": true,
+   "pin": "V",
+   "formati": [
+    "O"
+   ],
+   "numero_atti": {
+    "O": 40
+   },
+   "data_creazione": {
+    "O": "2026-10-30"
+   },
+   "stato": "congelata",
+   "senza_pin_da": 1
+  },
+  {
+   "nome": "DL decaduti",
+   "in_config": true,
+   "pin": null,
+   "formati": [
+    "M",
+    "O",
+    "V"
+   ],
+   "numero_atti": {
+    "M": 1735,
+    "O": 1735,
+    "V": 1735
+   },
+   "data_creazione": {
+    "M": "2026-10-30",
+    "O": "2026-10-30",
+    "V": "2026-10-30"
+   },
+   "stato": "non_pinnata",
+   "senza_pin_da": 0
+  },
+  {
+   "nome": "DL e leggi di conversione",
+   "in_config": true,
+   "pin": null,
+   "formati": [
+    "M",
+    "O",
+    "V"
+   ],
+   "numero_atti": {
+    "M": 7444,
+    "O": 7444,
+    "V": 7444
+   },
+   "data_creazione": {
+    "M": "2026-10-30",
+    "O": "2026-10-30",
+    "V": "2026-10-30"
+   },
+   "stato": "non_pinnata",
+   "senza_pin_da": 0
+  },
+  {
+   "nome": "DL proroghe",
+   "in_config": true,
+   "pin": null,
+   "formati": [
+    "M",
+    "O",
+    "V"
+   ],
+   "numero_atti": {
+    "M": 75,
+    "O": 75,
+    "V": 75
+   },
+   "data_creazione": {
+    "M": "2026-10-30",
+    "O": "2026-10-30",
+    "V": "2026-10-30"
+   },
+   "stato": "non_pinnata",
+   "senza_pin_da": 0
+  },
+  {
+   "nome": "DPCM",
+   "in_config": true,
+   "pin": null,
+   "formati": [
+    "M",
+    "O",
+    "V"
+   ],
+   "numero_atti": {
+    "M": 363,
+    "O": 363,
+    "V": 363
+   },
+   "data_creazione": {
+    "M": "2026-10-30",
+    "O": "2026-10-30",
+    "V": "2026-10-30"
+   },
+   "stato": "non_pinnata",
+   "senza_pin_da": 0
+  },
+  {
+   "nome": "DPR",
+   "in_config": false,
+   "pin": null,
+   "formati": [
+    "O",
+    "V"
+   ],
+   "numero_atti": {
+    "O": 47762,
+    "V": 47762
+   },
+   "data_creazione": {
+    "O": "2026-10-30",
+    "V": "2026-10-30"
+   },
+   "stato": "fuori_config",
+   "senza_pin_da": 0
+  },
+  {
+   "nome": "Decreti Legislativi",
+   "in_config": true,
+   "pin": "V",
+   "formati": [
+    "O"
+   ],
+   "numero_atti": {
+    "O": 2935
+   },
+   "data_creazione": {
+    "O": "2026-10-30"
+   },
+   "stato": "congelata",
+   "senza_pin_da": 1
+  },
+  {
+   "nome": "Decreti legislativi luogotenenziali",
+   "in_config": true,
+   "pin": null,
+   "formati": [
+    "M",
+    "O",
+    "V"
+   ],
+   "numero_atti": {
+    "M": 1215,
+    "O": 1215,
+    "V": 1215
+   },
+   "data_creazione": {
+    "M": "2026-10-30",
+    "O": "2026-10-30",
+    "V": "2026-10-30"
+   },
+   "stato": "non_pinnata",
+   "senza_pin_da": 0
+  },
+  {
+   "nome": "Leggi contenenti deleghe",
+   "in_config": true,
+   "pin": null,
+   "formati": [
+    "M",
+    "O",
+    "V"
+   ],
+   "numero_atti": {
+    "M": 81,
+    "O": 81,
+    "V": 81
+   },
+   "data_creazione": {
+    "M": "2026-10-30",
+    "O": "2026-10-30",
+    "V": "2026-10-30"
+   },
+   "stato": "non_pinnata",
+   "senza_pin_da": 0
+  },
+  {
+   "nome": "Leggi costituzionali",
+   "in_config": true,
+   "pin": null,
+   "formati": [
+    "M",
+    "O",
+    "V"
+   ],
+   "numero_atti": {
+    "M": 50,
+    "O": 50,
+    "V": 50
+   },
+   "data_creazione": {
+    "M": "2026-10-30",
+    "O": "2026-10-30",
+    "V": "2026-10-30"
+   },
+   "stato": "non_pinnata",
+   "senza_pin_da": 0
+  },
+  {
+   "nome": "Leggi delega e relativi provvedimenti delegati",
+   "in_config": true,
+   "pin": "V",
+   "formati": [
+    "O"
+   ],
+   "numero_atti": {
+    "O": 1165
+   },
+   "data_creazione": {
+    "O": "2026-10-30"
+   },
+   "stato": "congelata",
+   "senza_pin_da": 1
+  },
+  {
+   "nome": "Leggi di delegazione europea",
+   "in_config": true,
+   "pin": null,
+   "formati": [
+    "M",
+    "O",
+    "V"
+   ],
+   "numero_atti": {
+    "M": 32,
+    "O": 32,
+    "V": 32
+   },
+   "data_creazione": {
+    "M": "2026-10-30",
+    "O": "2026-10-30",
+    "V": "2026-10-30"
+   },
+   "stato": "non_pinnata",
+   "senza_pin_da": 0
+  },
+  {
+   "nome": "Leggi di ratifica",
+   "in_config": true,
+   "pin": null,
+   "formati": [
+    "M",
+    "O",
+    "V"
+   ],
+   "numero_atti": {
+    "M": 2336,
+    "O": 2336,
+    "V": 2336
+   },
+   "data_creazione": {
+    "M": "2026-10-30",
+    "O": "2026-10-30",
+    "V": "2026-10-30"
+   },
+   "stato": "non_pinnata",
+   "senza_pin_da": 0
+  },
+  {
+   "nome": "Leggi finanziarie e di bilancio",
+   "in_config": true,
+   "pin": "V",
+   "formati": [
+    "O"
+   ],
+   "numero_atti": {
+    "O": 58
+   },
+   "data_creazione": {
+    "O": "2026-10-30"
+   },
+   "stato": "congelata",
+   "senza_pin_da": 1
+  },
+  {
+   "nome": "Regi decreti",
+   "in_config": false,
+   "pin": null,
+   "formati": [
+    "M",
+    "O"
+   ],
+   "numero_atti": {
+    "M": 91346,
+    "O": 91346
+   },
+   "data_creazione": {
+    "M": "2026-10-30",
+    "O": "2026-10-30"
+   },
+   "stato": "fuori_config",
+   "senza_pin_da": 0
+  },
+  {
+   "nome": "Regi decreti legislativi",
+   "in_config": true,
+   "pin": null,
+   "formati": [
+    "M",
+    "O",
+    "V"
+   ],
+   "numero_atti": {
+    "M": 120,
+    "O": 120,
+    "V": 120
+   },
+   "data_creazione": {
+    "M": "2026-10-30",
+    "O": "2026-10-30",
+    "V": "2026-10-30"
+   },
+   "stato": "non_pinnata",
+   "senza_pin_da": 0
+  },
+  {
+   "nome": "Regolamenti di delegificazione",
+   "in_config": true,
+   "pin": null,
+   "formati": [
+    "M",
+    "O",
+    "V"
+   ],
+   "numero_atti": {
+    "M": 376,
+    "O": 376,
+    "V": 376
+   },
+   "data_creazione": {
+    "M": "2026-10-30",
+    "O": "2026-10-30",
+    "V": "2026-10-30"
+   },
+   "stato": "non_pinnata",
+   "senza_pin_da": 0
+  },
+  {
+   "nome": "Regolamenti governativi",
+   "in_config": true,
+   "pin": null,
+   "formati": [
+    "M",
+    "O",
+    "V"
+   ],
+   "numero_atti": {
+    "M": 1944,
+    "O": 1944,
+    "V": 1944
+   },
+   "data_creazione": {
+    "M": "2026-10-30",
+    "O": "2026-10-30",
+    "V": "2026-10-30"
+   },
+   "stato": "non_pinnata",
+   "senza_pin_da": 0
+  },
+  {
+   "nome": "Regolamenti ministeriali",
+   "in_config": true,
+   "pin": null,
+   "formati": [
+    "M",
+    "O",
+    "V"
+   ],
+   "numero_atti": {
+    "M": 2079,
+    "O": 2079,
+    "V": 2079
+   },
+   "data_creazione": {
+    "M": "2026-10-30",
+    "O": "2026-10-30",
+    "V": "2026-10-30"
+   },
+   "stato": "non_pinnata",
+   "senza_pin_da": 0
+  },
+  {
+   "nome": "Testi Unici",
+   "in_config": true,
+   "pin": "V",
+   "formati": [
+    "O"
+   ],
+   "numero_atti": {
+    "O": 257
+   },
+   "data_creazione": {
+    "O": "2026-10-30"
+   },
+   "stato": "congelata",
+   "senza_pin_da": 1
+  }
+ ],
+ "cambiamenti": [],
+ "probed_at": "2026-10-30T18:07:05"
+}

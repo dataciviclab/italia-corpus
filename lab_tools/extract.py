@@ -12,7 +12,7 @@ import re
 from pathlib import Path
 
 from lab_tools._frontmatter import parse_frontmatter
-from lab_tools._paths import COLLEZIONI_ROOT, OUTDIR, load_collezioni
+from lab_tools._paths import OUTDIR, collezioni_legislative
 from lab_tools.identity import versione_da_filename as _versione_da_filename
 
 # Atti UE: singolari e plurali, con/senza (UE), n., delegato/di esecuzione
@@ -199,12 +199,6 @@ def _marca_is_current(records: list[dict]) -> None:
             r["is_current"] = r is ordinato[0]
 
 
-def _collezioni_legislative() -> list[Path]:
-    """Legge da config/collezioni.txt: solo directory elencate ed esistenti."""
-    nomi = load_collezioni()
-    return sorted(d for d in (COLLEZIONI_ROOT / n for n in nomi) if d.is_dir())
-
-
 def _dedup(records: list[dict]) -> list[dict]:
     """Raggruppa per filename: merge collezioni, tiene primo record.
 
@@ -245,7 +239,7 @@ def _marca_duplicati(records: list[dict]) -> None:
 def main():
     OUTDIR.mkdir(parents=True, exist_ok=True)
     records: list[dict] = []
-    for col_dir in _collezioni_legislative():
+    for col_dir in collezioni_legislative():
         nome = col_dir.name
         for f in sorted(col_dir.glob("*.md")):
             r = extract(f, collezione=nome)

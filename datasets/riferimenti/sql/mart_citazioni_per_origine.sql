@@ -7,7 +7,9 @@ SELECT
     COUNT(DISTINCT fonte_source_file) AS n_fonti,
     COUNT(DISTINCT bersaglio_source_file) AS n_bersagli,
     ROUND(AVG(peso), 2) AS peso_medio,
-    SUM(CASE WHEN risolto THEN 1 ELSE 0 END) AS n_risolti
+    SUM(CASE WHEN risolto THEN 1 ELSE 0 END) AS n_risolti,
+    SUM(CASE WHEN clausola_lettura THEN 1 ELSE 0 END) AS n_clausole_lettura,
+    SUM(CASE WHEN clausola_lettura IS NULL THEN 1 ELSE 0 END) AS n_non_classificabili
 FROM clean_input
 GROUP BY origine
 HAVING COUNT(*) >= 1
