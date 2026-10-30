@@ -7,7 +7,9 @@ from lab_tools.fetch_normattiva import (
     _build_urn_index,
     _collection_subdir,
     _file_da_sostituire,
+    _filtra_per_formato,
     _load_collezioni,
+    _load_collezioni_pin,
     _read_xml,
     _update_urn_index,
     process_collection,
@@ -328,3 +330,38 @@ class TestFileDaSostituireNonConforme:
         vecchi = ["foo.md", "2003-08-07_003G0227_ORIGINALE_V0.md"]
         nuovi = ["baz.md", "2003-08-07_003G0227_VIGENZA_2026-02-25_V0.md"]
         assert _file_da_sostituire(vecchi, nuovi) == {"2003-08-07_003G0227_ORIGINALE_V0.md"}
+
+
+class TestLoadCollezioniPin:
+    def test_pin_e_nomi(self, tmp_path, monkeypatch):
+        f = tmp_path / "collezioni.txt"
+        f.write_text("Codici|V\nLeggi\n", encoding="utf-8")
+        monkeypatch.setattr("lab_tools.fetch_normattiva.CONFIG_COLLEZIONI", f)
+        nomi, pin = _load_collezioni_pin()
+        assert nomi == ["Codici", "Leggi"]
+        assert pin == {"Codici": "V"}
+
+    def test_commenti_ignorati(self, tmp_path, monkeypatch):
+        f = tmp_path / "collezioni.txt"
+        f.write_text("# commento\nCodici|V  # pin\n", encoding="utf-8")
+        monkeypatch.setattr("lab_tools.fetch_normattiva.CONFIG_COLLEZIONI", f)
+        assert _load_collezioni_pin() == (["Codici"], {"Codici": "V"})
+
+
+class TestFiltraPerFormato:
+    def test_formato_richiesto_disponibile(self):
+        c = [{"nomeCollezione": "A", "formatoCollezione": "V"}]
+        tenute, scarti = _filtra_per_formato(c, {"A": "V"})
+        assert tenute == c
+        assert scarti == []
+
+    def test_formato_richiesto_non_disponibile_viene_saltato(self):
+        """V richiesto ma l'API espone O: skip, non downgrade."""
+        c = [{"nomeCollezione": "A", "formatoCollezione": "O"}]
+        tenute, scarti = _filtra_per_formato(c, {"A": "V"})
+        assert tenute == []
+        assert scarti == [("A", "V", "O")]
+
+    def test_senza_pin_passa(self):
+        c = [{"nomeCollezione": "A", "formatoCollezione": "O"}]
+        assert _filtra_per_formato(c, {})[0] == c
