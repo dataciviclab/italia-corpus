@@ -7,7 +7,7 @@ snapshot più recente → altrimenti ORIGINALE → tie deterministico.
 
 from __future__ import annotations
 
-from lab_tools.extract import _marca_is_current, _versione_da_filename
+from lab_tools.extract import _marca_duplicati, _marca_is_current, _versione_da_filename
 
 
 class TestVersioneDaFilename:
@@ -107,3 +107,28 @@ class TestMarcaIsCurrent:
         rec[0]["duplicato"] = True  # 'a.md' vincerebbe solo per ordine lessicale
         _marca_is_current(rec)
         assert [r["filename"] for r in rec if r["is_current"]] == ["b.md"]
+
+
+class TestMarcaDuplicati:
+    """`duplicato` = più di una espressione corrente per lo stesso atto."""
+
+    def test_versioni_non_sono_duplicati(self):
+        rec = [
+            {"urn": "urn:1", "is_current": True},
+            {"urn": "urn:1", "is_current": False},
+        ]
+        _marca_duplicati(rec)
+        assert all(r["duplicato"] is False for r in rec)
+
+    def test_due_correnti_per_lo_stesso_urn(self):
+        rec = [
+            {"urn": "urn:1", "is_current": True},
+            {"urn": "urn:1", "is_current": True},
+        ]
+        _marca_duplicati(rec)
+        assert all(r["duplicato"] is True for r in rec)
+
+    def test_urn_vuoto_non_e_duplicato(self):
+        rec = [{"urn": "", "is_current": True}]
+        _marca_duplicati(rec)
+        assert rec[0]["duplicato"] is False
