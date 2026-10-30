@@ -47,7 +47,7 @@ def clausola_di_lettura(contesto: str | None) -> bool | None:
         False  — contesto presente, nessun marker di lettura
         None   — contesto assente o segnaposto (`akn:ref`): non classificabile
     """
-    if not contesto:
+    if not contesto or not isinstance(contesto, str):
         return None
     testo = contesto.strip()
     if not testo or testo == CONTESTO_SEGNAPOSTO:
