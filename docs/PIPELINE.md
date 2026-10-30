@@ -57,7 +57,7 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 - `make fetch-status` = stage 1b (network, WAF IPZS → pacing)
 
 **CI**: due cadenze separate.
-- **Pipeline completa settimanale** (`build-dataset.yml`, lunedì 03:30 UTC): stessa sequenza + fetch + fetch-status + lint + contract check (main ⊂ derived) + toolkit + GCS + commit dati. ~25 min.
+- **Pipeline settimanale** (`pipeline.yml`, lunedì 03:30 UTC): job `build` (fetch + fetch-status + derive + commit dati + allegati su GCS) e job `publish` (toolkit + clean/mart su GCS + registry PR). ~25 min.
 - **Probe formati quotidiano** (`probe.yml`, 05:30 UTC): una richiesta a `collection-predefinite`, scrive `collezioni_probe.json` e committa **solo se lo stato cambia**. È il watchdog dei formati (freeze V del 30/10).
 - `fetch-status` (classe 3, ~2 min) è **non fatale**: se il WAF blocca, resta lo status in cache e il build prosegue con un `::warning::`. Il vintage è in `status.parquet.fetched_at`.
 
@@ -155,10 +155,10 @@ I parquet derived **non** sono rigenerati in questa PR: al prossimo build CI il 
 
 - Makefile: `make toolkit-check` · `make toolkit-run`
 - Output: `out/data/{clean,mart}/<dataset>/2026/` (gitignored)
-- **CI settimanale** (`build-dataset.yml`, lunedì): engine + `toolkit-run` + rsync GCS
-  `gs://dataciviclab-clean|mart/italia-corpus/` — **no registry PR**
-- **CI registry** (`pipeline.yml`): reusable org, lunedì 04:30 UTC + merge `datasets/**`/dispatch
-  → `make atti-index` (pre-run, artefatto non committato) + `toolkit-run` + registry draft PR
+- **CI settimanale** (`pipeline.yml`, lunedì 03:30 UTC, due job):
+  - `build`: engine + commit dati + `allegati/` su GCS
+  - `publish`: `make atti-index` (pre-run, artefatto non committato) + `toolkit-run` + rsync
+    `gs://dataciviclab-clean|mart/italia-corpus/` + registry draft PR
 - `toolkit-run` salta `datasets/atti-index` se l'artefatto manca (guardia esplicita)
 - Dual-publish: derived resta in git per MCP; clean+mart su GCS sono il contratto Lab
 - Warning attesi: `riferimenti` clean droppa denorm non usati da LG

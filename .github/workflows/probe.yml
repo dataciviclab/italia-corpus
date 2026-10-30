@@ -2,7 +2,7 @@
 #
 # È l'unico pezzo che ha bisogno di occhi quotidiani: intercetta i formati che
 # spariscono (come il V su 5 collezioni il 30/10) e registra la storia del
-# freeze. La pipeline completa gira una volta a settimana (build-dataset).
+# freeze. La pipeline completa gira una volta a settimana (pipeline.yml).
 
 name: Probe formati
 
