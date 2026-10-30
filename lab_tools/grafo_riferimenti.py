@@ -184,18 +184,33 @@ def _stampa_metriche(archi: list[dict], file_set_size: int):
             print(f"    {count:5d}x  {short}")
 
 
-def _load_urn_to_filename() -> dict[str, str]:
-    """urn -> filename da normativa.parquet (per join AKN)."""
+def _load_urn_to_relpath() -> dict[str, str]:
+    """urn -> relpath reale (con `/`) per il join AKN.
+
+    `normativa.parquet` dà urn -> basename; il filesystem dà basename ->
+    relpath. Lo stesso basename può stare in 2+ collezioni (3.128 casi sul
+    corpus): si sceglie il primo path ordinato, in modo deterministico. L'URN —
+    e quindi il nodo — non cambia; cambia solo il path, che deve esistere.
+    """
     try:
         import pandas as pd
     except ImportError:
         return {}
     if not NORMATIVA_PARQUET.exists():
         return {}
+
+    by_name: dict[str, list[str]] = {}
+    for rel in _build_file_set():
+        by_name.setdefault(Path(rel).name, []).append(rel)
+
     df = pd.read_parquet(NORMATIVA_PARQUET, columns=["urn", "filename"])
     df = df.dropna(subset=["urn"])
+    pairs = []
+    for urn, name in zip(df["urn"], df["filename"]):
+        candidati = by_name.get(name)
+        pairs.append((urn, sorted(candidati)[0] if candidati else name))
     # alias (slug, anno+numero, codici): vedi lab_tools/urn.py
-    return expand_index(zip(df["urn"], df["filename"]))
+    return expand_index(pairs)
 
 
 def _chiave_arco(a: dict) -> tuple[str, str, str]:
@@ -313,14 +328,14 @@ def _archi_da_akn_relations(
         archi.append(
             {
                 "fonte_filename": f_fn,
-                "fonte_collezione": f_meta.get("collezione", ""),
+                "fonte_collezione": Path(f_fn).parent.name,
                 "fonte_anno": f_meta.get("anno_atto", 0),
                 "fonte_tipo": f_meta.get("tipo", ""),
                 "fonte_materia": f_meta.get("materia", ""),
                 "fonte_stato": f_meta.get("stato", ""),
                 "bersaglio_filename": Path(t_fn).name,
                 "bersaglio_path": t_fn,
-                "bersaglio_collezione": t_meta.get("collezione", ""),
+                "bersaglio_collezione": Path(t_fn).parent.name,
                 "bersaglio_anno": t_meta.get("anno_atto", 0),
                 "bersaglio_tipo": t_meta.get("tipo", ""),
                 "bersaglio_materia": t_meta.get("materia", ""),
@@ -530,7 +545,7 @@ def main():
                 archi.append(arco)
 
     print("Union AKN (citation strutturate)...")
-    urn_to_fn = _load_urn_to_filename()
+    urn_to_fn = _load_urn_to_relpath()
     archi.extend(_archi_da_akn_relations(normativa, urn_to_fn))
 
     # Un arco per chiave = PK del clean (fonte_source_path, bersaglio_source_path,
