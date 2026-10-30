@@ -57,10 +57,6 @@ jobs:
       # Status: solo classe 3 (lista ufficiale abrogati) ~2 min. La classe 2
       # NON è "vigente", quindi non la scarichiamo; gli atti assenti sono
       # vigenti, salvo la nota whole-act gestita da integra_vigenza.
-      # Allegati delle collezioni pinnate V ma esposte solo come O (oggi
-      # Codici): pass read-only, non tocca collezioni/.
-      - name: Fetch allegati AKN (read-only)
-        run: python -m lab_tools.fetch_allegati --only Codici
       - name: Fetch status (ricerca classeProvvedimento)
         id: fetch_status
         run: python -m lab_tools.fetch_status
