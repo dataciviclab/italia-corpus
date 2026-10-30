@@ -170,9 +170,9 @@ I parquet derived **non** sono rigenerati in questa PR: al prossimo build CI il 
 
 - Modulo: `lab_tools/akn_relations.py` (+ `integra_akn_meta.py`)
 - Wire: fetch (staging+merge) · grafo (union citation, `origine`) · integra-akn
-- **Copertura**: fetch completo 20 collezioni — meta join **22.017/22.017**, EIV **10.522**, archi AKN **43.880**, `akn_relations` tipizzato (inclusi repeal/substitution)
+- **Copertura** (2026-10-30): fetch completo 20 collezioni — meta join **20.782/20.782**, EIV **9.928**, citazioni AKN **105.226** su 424.939 relazioni AKN, `akn_relations` tipizzato (inclusi repeal/substitution)
 - CI: lint ruff · step `integra-akn` · ordine side-product→integra → grafo · contract check
-- Tests: `tests/test_akn_relations.py` (187 totali repo)
+- Tests: **380** nel repo (`tests/test_akn_relations.py` copre questo stage)
 
 Non è un prodotto separato: è **stage fetch + 8** della pipeline sopra.
 

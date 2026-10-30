@@ -1,6 +1,6 @@
 # Italia Corpus — La legislazione italiana a portata di ricerca
 
-**22.402 atti normativi, da codici a decreti-legge, in formato aperto e interrogabile.**
+**20.782 atti normativi (22.402 espressioni), da codici a decreti-legge, in formato aperto e interrogabile.**
 
 Il corpus della legislazione italiana: leggi, decreti legislativi,
 decreti-legge, regolamenti, DPCM, testi unici, codici e atti di recepimento UE.
@@ -58,7 +58,7 @@ duckdb.sql("""
 
 ### 3. Via download parquet
 
-- `data/derived/normativa.parquet` — 22.402 atti, 42 colonne
+- `data/derived/normativa.parquet` — 20.782 atti (22.402 file), 42 colonne
 - `data/derived/riferimenti.parquet` — 200.080 riferimenti, 18 colonne
 - `data/derived/allegati.parquet` — indice allegati AKN (`data_codice`+`doc_id` → `doc_name`, `chars`, `hash`, `versione`, `rel_path`; contenuto su GCS)
 
@@ -74,7 +74,9 @@ duckdb.sql("""
 
 ## Documentazione tecnica
 
-Pipeline canonica (stage lineari, output dichiarati): **[docs/PIPELINE.md](docs/PIPELINE.md)**.
+- **Cosa gira, in una pagina**: **[docs/COSA_GIRA.md](docs/COSA_GIRA.md)**
+- Pipeline canonica (stage lineari, output dichiarati): **[docs/PIPELINE.md](docs/PIPELINE.md)**
+- Stato attuale, senza aprire il codice: `make stato`
 
 ### Tooling
 
