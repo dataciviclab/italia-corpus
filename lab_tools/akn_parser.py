@@ -252,6 +252,35 @@ def body_to_markdown(root: ET.Element, urn_index: dict[str, str], source_path: s
     return "\n".join(lines)
 
 
+def conta_allegati(content: str) -> tuple[int, int]:
+    """(numero `<doc>`, caratteri) degli `<attachments>` di un atto AKN.
+
+    Serve alla misura di #94: il testo dei codici sta negli allegati e il parser
+    lo ignora. Non trasforma nulla: conta soltanto. Namespace-tolerant.
+    """
+    try:
+        root = ET.fromstring(content)
+    except ET.ParseError:
+        return 0, 0
+
+    def _local(tag: str) -> str:
+        return tag.rsplit("}", 1)[-1]
+
+    n = 0
+    chars = 0
+    for att in root.iter():
+        if _local(att.tag) != "attachments":
+            continue
+        for doc in att.iter():
+            if _local(doc.tag) != "doc":
+                continue
+            testo = " ".join(" ".join(t.strip() for t in doc.itertext()).split())
+            if testo:
+                n += 1
+                chars += len(testo)
+    return n, chars
+
+
 def akn_xml_to_markdown(
     content: str,
     urn_index: dict[str, str],

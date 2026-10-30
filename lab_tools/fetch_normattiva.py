@@ -26,7 +26,7 @@ from lab_tools._paths import (
     OUTDIR,
     REPO,
 )
-from lab_tools.akn_parser import akn_xml_to_markdown
+from lab_tools.akn_parser import akn_xml_to_markdown, conta_allegati
 from lab_tools.akn_relations import (
     extract_from_xml,
     load_staged_akn,
@@ -170,6 +170,7 @@ def process_collection(
     corpus_dir: Path,
     urn_index: dict[str, str],
     stage_dir: Path | None = None,
+    report: dict | None = None,
 ) -> int:
     """Scarica, parse, e salva i .md di una collezione. Restituisce il conteggio.
 
@@ -204,11 +205,16 @@ def process_collection(
 
         # 3. Converti in staging (i .md esistenti restano intatti finché non swap)
         count = 0
+        n_allegati = 0
+        chars_allegati = 0
         rel_rows: list[dict] = []
         meta_rows: list[dict] = []
         for xml_file in xml_files:
             try:
                 content = _read_xml(xml_file)
+                n_doc, chars_doc = conta_allegati(content)
+                n_allegati += n_doc
+                chars_allegati += chars_doc
                 source_path = f"{COLLEZIONI_DIRNAME}/{subdir}/{xml_file.stem}.md"
                 fm, markdown = akn_xml_to_markdown(content, urn_index, source_path)
 
@@ -264,6 +270,15 @@ def process_collection(
             shutil.move(str(new_file), str(dest_dir / new_file.name))
 
         logger.info("Converted %d/%d files for %r", count, len(xml_files), nome)
+        # Misura #94: il testo degli allegati oggi non è servito. Counter per
+        # collezione, così il perimetro si decide sui numeri, non su 16/40.
+        logger.info("  allegati: %d doc, %d char", n_allegati, chars_allegati)
+        if report is not None:
+            report[nome] = {
+                "xml": len(xml_files),
+                "doc": n_allegati,
+                "chars": chars_allegati,
+            }
         return count
 
     finally:
@@ -319,6 +334,7 @@ def main() -> None:
     total = 0
     failed: list[str] = []
     manifest = _load_manifest()
+    report_allegati: dict[str, dict] = {}
     n_skipped = 0
     with tempfile.TemporaryDirectory(prefix="normattiva-") as tmp:
         work_dir = Path(tmp)
@@ -346,7 +362,10 @@ def main() -> None:
                            collection.get("dataCreazione", "?"))
                 continue
 
-            count = process_collection(collection, work_dir, COLLEZIONI_ROOT, urn_index, stage_dir=stage_dir)
+            count = process_collection(
+                collection, work_dir, COLLEZIONI_ROOT, urn_index,
+                stage_dir=stage_dir, report=report_allegati,
+            )
             total += count
             if count == 0:
                 failed.append(nome)
@@ -366,6 +385,11 @@ def main() -> None:
 
         # Salva manifest sempre (aggiorna anche dopo primo run)
         _save_manifest(manifest)
+        if report_allegati:
+            (OUTDIR / "_allegati_report.json").write_text(
+                json.dumps(report_allegati, indent=2, sort_keys=True),
+                encoding="utf-8",
+            )
 
         # 4b. Seconda passata sulle collection fallite (API flaky)
         if failed:
@@ -378,7 +402,8 @@ def main() -> None:
                     continue
                 time.sleep(random.uniform(2.0, 5.0))
                 count = process_collection(
-                    collection, work_dir, COLLEZIONI_ROOT, urn_index, stage_dir=stage_dir
+                    collection, work_dir, COLLEZIONI_ROOT, urn_index,
+                    stage_dir=stage_dir, report=report_allegati,
                 )
                 total += count
                 if count == 0:
