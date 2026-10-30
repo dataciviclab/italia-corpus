@@ -22,9 +22,10 @@ from pathlib import Path
 from lab_tools._paths import (
     COLLEZIONI_DIRNAME,
     COLLEZIONI_ROOT,
-    CONFIG_COLLEZIONI,
     OUTDIR,
     REPO,
+    load_collezioni,
+    load_pin,
 )
 from lab_tools.akn_parser import akn_xml_to_markdown, conta_allegati
 from lab_tools.akn_relations import (
@@ -94,11 +95,35 @@ def _collection_unchanged(collection: dict, manifest: dict) -> bool:
     return entry.get("dataCreazione") == data_creazione
 
 
+def _load_collezioni_pin() -> tuple[list[str], dict[str, str]]:
+    """Nomi + formato richiesto, dal parser unico in `_paths`."""
+    return load_collezioni(), load_pin()
+
+
 def _load_collezioni() -> list[str]:
-    """Legge config/collezioni.txt e restituisce i nomi delle collezioni."""
-    if not CONFIG_COLLEZIONI.exists():
-        return []
-    return [line.strip() for line in CONFIG_COLLEZIONI.read_text().splitlines() if line.strip()]
+    """Nomi delle collezioni da fetchare (senza il pin di formato)."""
+    return _load_collezioni_pin()[0]
+
+
+def _filtra_per_formato(
+    collections: list[dict], pin: dict[str, str]
+) -> tuple[list[dict], list[tuple[str, str, str]]]:
+    """Tiene solo le collezioni col formato richiesto (o senza pin).
+
+    Returns:
+        (da_processare, scarti) con scarti = [(nome, richiesto, disponibile)].
+    """
+    tenute: list[dict] = []
+    scarti: list[tuple[str, str, str]] = []
+    for c in collections:
+        nome = c.get("nomeCollezione", "")
+        richiesto = pin.get(nome)
+        disponibile = (c.get("formatoCollezione") or "").strip().upper()
+        if richiesto and disponibile != richiesto:
+            scarti.append((nome, richiesto, disponibile or "?"))
+            continue
+        tenute.append(c)
+    return tenute, scarti
 
 
 def _build_urn_index(corpus_dir: Path) -> dict[str, str]:
@@ -326,11 +351,38 @@ def main() -> None:
     all_collections = merge_collections_by_name(raw)
 
     # 2. Filter: solo le nostre + solo vigenti
-    our_names = _load_collezioni()
+    our_names, pin_config = _load_collezioni_pin()
     if only_names:
         our_names = [n for n in our_names if n in only_names]
+        pin_config = {n: f for n, f in pin_config.items() if n in our_names}
 
     collections = filter_collections(all_collections, only_names=our_names)
+
+    # Pin di formato: config + manifest (il formato con cui la collezione e'
+    # stata fetchata l'ultima volta). Se il pin non e' disponibile si salta.
+    manifest = _load_manifest()
+    pin = dict(pin_config)
+    for nome, entry in manifest.items():
+        fmt = (entry.get("formato") or "").strip().upper()
+        if fmt and nome not in pin:
+            pin[nome] = fmt
+
+    presenti_api = {c["nomeCollezione"] for c in collections}
+    for nome in our_names:
+        if nome in pin and nome not in presenti_api:
+            logger.warning(
+                "%s: collezione assente dall'API — skip, mantengo i file esistenti",
+                nome,
+            )
+
+    collections, scarti_formato = _filtra_per_formato(collections, pin)
+    for nome, richiesto, disponibile in scarti_formato:
+        logger.warning(
+            "%s: formato %s non disponibile (API: %s) — skip, mantengo i file esistenti",
+            nome,
+            richiesto,
+            disponibile,
+        )
     logger.info(
         "Processing %d collections (%d total from API)",
         len(collections), len(all_collections),
@@ -389,6 +441,7 @@ def main() -> None:
                 # Aggiorna manifest per collezione processata con successo
                 manifest[nome] = {
                     "dataCreazione": collection.get("dataCreazione", ""),
+                    "formato": collection.get("formatoCollezione", ""),
                     "last_fetch": datetime.now().isoformat(),
                 }
                 report_allegati.setdefault(nome, {})["fetched_at"] = manifest[nome][

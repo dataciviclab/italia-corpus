@@ -16,7 +16,7 @@ import urllib.parse
 from collections import Counter
 from pathlib import Path
 
-from lab_tools._paths import COLLEZIONI_ROOT, CONFIG_COLLEZIONI, OUTDIR
+from lab_tools._paths import COLLEZIONI_ROOT, OUTDIR, load_collezioni
 from lab_tools.identity import build_indice_identita, data_codice
 from lab_tools.urn import expand_index
 from lab_tools.urn import lookup as urn_lookup
@@ -38,9 +38,7 @@ _CTX_MAX = 120
 
 def _collezioni_legislative() -> list[Path]:
     """Legge da config/collezioni.txt: solo directory elencate ed esistenti."""
-    if not CONFIG_COLLEZIONI.exists():
-        return []
-    nomi = [line.strip() for line in CONFIG_COLLEZIONI.read_text().splitlines() if line.strip()]
+    nomi = load_collezioni()
     return sorted(d for d in (COLLEZIONI_ROOT / n for n in nomi) if d.is_dir())
 
 

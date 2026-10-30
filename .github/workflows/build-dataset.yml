@@ -172,6 +172,24 @@ jobs:
                   f"(es. {non_ammessi[:5]})"
               )
 
+          # Gate: un downgrade V -> O declassa gli atti correnti (legal_text
+          # servirebbe l'originale). Oggi ~13.2k; soglia 1% (min 50).
+          def vigenza_correnti(path):
+              t = pq.read_table(path, columns=["is_current", "versione"])
+              cur = t.column("is_current").to_pylist()
+              ver = t.column("versione").to_pylist()
+              return sum(1 for c, v in zip(cur, ver) if c and (v or "") == "VIGENZA")
+
+          main_vig = vigenza_correnti(main)
+          build_vig = vigenza_correnti("data/derived/normativa.parquet")
+          soglia = max(50, int(main_vig * 0.01))
+          print(f"contract vigenze: main={main_vig} build={build_vig} soglia={soglia}")
+          if build_vig < main_vig - soglia:
+              raise SystemExit(
+                  f"DOWNGRADE: {main_vig - build_vig} atti correnti non sono piu' "
+                  f"VIGENZA (main={main_vig}, build={build_vig})"
+              )
+
           # Advisory (non fail): un rename puro NON cambia l'insieme degli URN,
           # quindi il gate sopra non vede la classe di incidente del 29/10
           # (stesso atto, nome nuovo -> link rotti). Diventerà un gate quando

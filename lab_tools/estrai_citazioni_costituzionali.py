@@ -19,7 +19,7 @@ from pathlib import Path
 import pyarrow as pa
 import pyarrow.parquet as pq
 
-from lab_tools._paths import COLLEZIONI_ROOT, CONFIG_COLLEZIONI, OUTDIR
+from lab_tools._paths import COLLEZIONI_ROOT, OUTDIR, load_collezioni
 
 NORMATIVA_PARQUET = OUTDIR / "normativa.parquet"
 
@@ -43,9 +43,7 @@ RE_MD_LINK = re.compile(r'\[([^\]]*)\]\([^)]+\)')
 
 def _collezioni_legislative() -> list[Path]:
     """Legge da config/collezioni.txt: solo directory elencate ed esistenti."""
-    if not CONFIG_COLLEZIONI.exists():
-        return []
-    nomi = [line.strip() for line in CONFIG_COLLEZIONI.read_text().splitlines() if line.strip()]
+    nomi = load_collezioni()
     return sorted(d for d in (COLLEZIONI_ROOT / n for n in nomi) if d.is_dir())
 
 

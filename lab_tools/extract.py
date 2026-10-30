@@ -12,7 +12,7 @@ import re
 from pathlib import Path
 
 from lab_tools._frontmatter import parse_frontmatter
-from lab_tools._paths import COLLEZIONI_ROOT, CONFIG_COLLEZIONI, OUTDIR
+from lab_tools._paths import COLLEZIONI_ROOT, OUTDIR, load_collezioni
 from lab_tools.identity import versione_da_filename as _versione_da_filename
 
 # Atti UE: singolari e plurali, con/senza (UE), n., delegato/di esecuzione
@@ -201,9 +201,7 @@ def _marca_is_current(records: list[dict]) -> None:
 
 def _collezioni_legislative() -> list[Path]:
     """Legge da config/collezioni.txt: solo directory elencate ed esistenti."""
-    if not CONFIG_COLLEZIONI.exists():
-        return []
-    nomi = [line.strip() for line in CONFIG_COLLEZIONI.read_text().splitlines() if line.strip()]
+    nomi = load_collezioni()
     return sorted(d for d in (COLLEZIONI_ROOT / n for n in nomi) if d.is_dir())
 
 
