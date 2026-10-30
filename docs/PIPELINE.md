@@ -58,6 +58,7 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 
 **CI**: due cadenze separate.
 - **Pipeline settimanale** (`pipeline.yml`, lunedì 03:30 UTC): job `build` (fetch + fetch-status + derive + commit dati + allegati su GCS) e job `publish` (toolkit + clean/mart su GCS + registry PR). ~25 min.
+- **Contract change** (merge su `datasets/**`): gira solo `publish`, dal raw già committato — niente fetch.
 - **Probe formati quotidiano** (`probe.yml`, 05:30 UTC): una richiesta a `collection-predefinite`, scrive `collezioni_probe.json` e committa **solo se lo stato cambia**. È il watchdog dei formati (freeze V del 30/10).
 - `fetch-status` (classe 3, ~2 min) è **non fatale**: se il WAF blocca, resta lo status in cache e il build prosegue con un `::warning::`. Il vintage è in `status.parquet.fetched_at`.
 

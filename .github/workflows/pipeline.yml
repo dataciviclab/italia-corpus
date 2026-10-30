@@ -15,6 +15,12 @@ name: Pipeline (weekly)
 on:
   schedule:
     - cron: "30 3 * * 1"  # lunedì 04:30 IT — publish finisce prima di legal-graph (06:00)
+  # Contract change (dataset.yml, SQL): basta il job publish, che rifà clean/mart
+  # dal raw esistente. Non serve rifare il fetch.
+  pull_request:
+    types: [closed]
+    paths:
+      - "datasets/**"
   workflow_dispatch:
 
 permissions:
@@ -28,6 +34,8 @@ env:
 
 jobs:
   build:
+    # su merge di datasets/** non serve: il publish rifà clean/mart dal raw
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6.0.3
@@ -257,6 +265,11 @@ jobs:
 
   publish:
     needs: build
+    # gira anche quando build è saltato (contract change), non quando fallisce
+    if: |
+      always() &&
+      (needs.build.result == 'success' || needs.build.result == 'skipped') &&
+      (github.event_name != 'pull_request' || github.event.pull_request.merged == true)
     uses: dataciviclab/.github/.github/workflows/pipeline-reusable.yml@main
     with:
       repo-slug: "italia-corpus"
