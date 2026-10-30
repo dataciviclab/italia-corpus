@@ -210,11 +210,9 @@ def _collezioni_legislative() -> list[Path]:
 def _dedup(records: list[dict]) -> list[dict]:
     """Raggruppa per filename: merge collezioni, tiene primo record.
 
-    Marca come duplicati gli atti che condividono data+numero con altri
-    (stesso atto in più collezioni o versioni VIGENZA diverse).
+    Non marca i duplicati: le versioni dello stesso atto non sono duplicati.
+    Vedi `_marca_duplicati`, chiamata dopo `_marca_is_current`.
     """
-    from collections import Counter
-
     by_file: dict[str, dict] = {}
     for r in records:
         fn = r["filename"]
@@ -226,17 +224,24 @@ def _dedup(records: list[dict]) -> list[dict]:
         else:
             by_file[fn] = dict(r)
 
-    # Conta occorrenze per identità atto (data+numero)
-    identity = Counter(
-        (r.get("data", ""), r.get("numero", ""))
-        for r in by_file.values()
-        if r.get("data") and r.get("numero")
-    )
-    for r in by_file.values():
-        key = (r.get("data", ""), r.get("numero", ""))
-        r["duplicato"] = identity.get(key, 0) > 1
-
     return list(by_file.values())
+
+
+def _marca_duplicati(records: list[dict]) -> None:
+    """`duplicato` = più di una espressione **corrente** per lo stesso atto.
+
+    Le versioni storiche (ORIGINALE + VIGENZA, snapshot successivi) non sono
+    duplicati: sono la normalità. Un duplicato vero sarebbe due espressioni
+    correnti per lo stesso URN — oggi 0, resta come guardia.
+
+    Va chiamata DOPO `_marca_is_current`: prima non si sa quale riga è corrente.
+    """
+    from collections import Counter
+
+    correnti = Counter(r["urn"] for r in records if r.get("is_current") and r.get("urn"))
+    for r in records:
+        urn = r.get("urn") or ""
+        r["duplicato"] = bool(urn) and correnti.get(urn, 0) > 1
 
 
 def main():
@@ -250,6 +255,7 @@ def main():
                 records.append(r)
     records = _dedup(records)
     _marca_is_current(records)
+    _marca_duplicati(records)
     if not records:
         print("Nessun atto estratto.")
         return

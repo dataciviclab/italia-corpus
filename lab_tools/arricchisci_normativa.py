@@ -56,11 +56,61 @@ def _calcola_score(row: dict) -> int:
     return max(0, score)
 
 
+def _conta_citazioni_per_atto(df_norm, df_rif):
+    """`n_citazioni` per **atto** (`urn`), assegnato alla riga corrente.
+
+    Le citazioni sono contate per `bersaglio_filename`: con più espressioni per
+    atto possono cadere su una riga non corrente. Il totale dell'atto va sulla
+    riga corrente (le altre restano 0), così `Σ n_citazioni` = archi risolti —
+    invariante verificata qui sotto.
+    """
+    import pandas as pd
+
+    rif = df_rif[df_rif["risolto"] == True]  # noqa: E712
+    incoming = rif.groupby("bersaglio_filename").size()
+
+    df = df_norm.copy()
+    df["_cit_filename"] = df["filename"].map(incoming).fillna(0).astype(int)
+
+    urn = (
+        df["urn"].fillna("").astype(str)
+        if "urn" in df.columns
+        else pd.Series([""] * len(df), index=df.index)
+    )
+    corrente = (
+        df["is_current"].fillna(False).astype(bool)
+        if "is_current" in df.columns
+        else pd.Series([True] * len(df), index=df.index)
+    )
+
+    tot_per_urn = df.groupby(urn)["_cit_filename"].sum()
+    df["n_citazioni"] = 0
+    con_urn = urn != ""
+    riga_corrente = con_urn & corrente
+    df.loc[riga_corrente, "n_citazioni"] = (
+        urn[riga_corrente].map(tot_per_urn).fillna(0).astype(int)
+    )
+    # righe senza URN (oggi 0): il conteggio del filename è già per atto
+    df.loc[~con_urn, "n_citazioni"] = df.loc[~con_urn, "_cit_filename"]
+
+    df = df.drop(columns=["_cit_filename"])
+
+    # Invariante: cambia l'attribuzione, non il totale.
+    attesi = int(rif.shape[0])
+    totale = int(df["n_citazioni"].sum())
+    if totale != attesi:
+        raise ValueError(
+            f"invariante: Σ n_citazioni={totale} != archi risolti={attesi} — "
+            "il conteggio per atto deve conservare la somma (per-filename, non "
+            "per-atto, perderebbe le citazioni su espressioni non correnti)"
+        )
+
+    return df
+
+
 def main() -> None:
     try:
         import pandas as pd
-    except ImportError:
-        raise SystemExit("Errore: pandas necessario.")
     except ImportError:
         raise SystemExit("Errore: pandas necessario.")
 
@@ -75,19 +125,8 @@ def main() -> None:
     print(f"normativa: {len(df_norm)} atti")
     print(f"riferimenti: {len(df_rif)} archi")
 
-    # Conta citazioni in ingresso (solo archi risolti)
-    df_rif_res = df_rif[df_rif["risolto"] == True]  # noqa: E712
-    incoming = df_rif_res.groupby("bersaglio_filename").size().reset_index(name="n_citazioni")
-    incoming = incoming.rename(columns={"bersaglio_filename": "filename"})
-
-    # Merge
-    df = df_norm.merge(incoming, on="filename", how="left", suffixes=("", "_nuova"))
-    if "n_citazioni_nuova" in df.columns:
-        df["n_citazioni"] = df["n_citazioni_nuova"]
-        df = df.drop(columns=["n_citazioni_nuova"])
-    elif "n_citazioni" not in df.columns:
-        df["n_citazioni"] = 0
-    df["n_citazioni"] = df["n_citazioni"].fillna(0).astype(int)
+    # Conta citazioni in ingresso per atto (urn), non per filename
+    df = _conta_citazioni_per_atto(df_norm, df_rif)
 
     # Orfano: 0 citazioni in uscita (riferimenti_interni) AND 0 in ingresso
     df["orfano"] = (df["riferimenti_interni"] == 0) & (df["n_citazioni"] == 0)

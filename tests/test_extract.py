@@ -208,24 +208,19 @@ class TestDedup:
         result = _dedup(records)
         assert len(result) == 2
 
-    def test_duplicato_flag_stesso_atto(self):
-        """Stesso data+numero in filename diversi → duplicato=True."""
+    def test_dedup_non_marca_duplicati(self):
+        """`_dedup` non marca più i duplicati: le versioni non sono duplicati.
+
+        La marcatura è in `_marca_duplicati` (dopo `_marca_is_current`), vedere
+        `tests/test_identita.py`.
+        """
         records = [
             {"collezione": "A", "filename": "a.md", "data": "2020-01-01", "numero": "1"},
             {"collezione": "B", "filename": "b.md", "data": "2020-01-01", "numero": "1"},
         ]
         result = _dedup(records)
         assert len(result) == 2
-        assert all(r["duplicato"] is True for r in result)
-
-    def test_duplicato_flag_atto_unico(self):
-        """Atto unico → duplicato=False."""
-        records = [
-            {"collezione": "A", "filename": "a.md", "data": "2020-01-01", "numero": "1"},
-            {"collezione": "B", "filename": "b.md", "data": "2020-01-01", "numero": "2"},
-        ]
-        result = _dedup(records)
-        assert all(r["duplicato"] is False for r in result)
+        assert all("duplicato" not in r for r in result)
 
 
 # ─── _detect_stato ────────────────────────────────────────────────
