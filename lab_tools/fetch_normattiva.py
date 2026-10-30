@@ -160,7 +160,7 @@ def _file_da_sostituire(old_names: list[str], new_names: list[str]) -> set[str]:
     Se un atto non compare nel nuovo set (conversione fallita, XML malformato),
     il vecchio file **resta**: lo swap non deve cancellare testo buono.
     """
-    nuovi = {data_codice(n) for n in new_names}
+    nuovi = {c for c in (data_codice(n) for n in new_names) if c}
     return {n for n in old_names if data_codice(n) in nuovi}
 
 
