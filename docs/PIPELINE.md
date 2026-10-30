@@ -56,8 +56,10 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 - `make pipeline-core` = 2,3,5b,6,7,8,9 — minimo **MCP/legal-graph** (inclusa `classifica`)
 - `make fetch-status` = stage 1b (network, WAF IPZS → pacing)
 
-**CI**: stessa sequenza + fetch + fetch-status + lint + contract check (main ⊂ derived)
-- `fetch-status` (solo classe 3, ~2 min) gira **ogni giorno**. In CI è **non fatale** (`continue-on-error`): se il WAF IPZS blocca il runner, resta lo status **in cache** (stale) e il build prosegue, con un `::warning::`. La freschezza di `stato` **non è garantita**; il vintage è in `status.parquet.fetched_at`.
+**CI**: due cadenze separate.
+- **Pipeline completa settimanale** (`build-dataset.yml`, lunedì 03:30 UTC): stessa sequenza + fetch + fetch-status + lint + contract check (main ⊂ derived) + toolkit + GCS + commit dati. ~25 min.
+- **Probe formati quotidiano** (`probe.yml`, 05:30 UTC): una richiesta a `collection-predefinite`, scrive `collezioni_probe.json` e committa **solo se lo stato cambia**. È il watchdog dei formati (freeze V del 30/10).
+- `fetch-status` (classe 3, ~2 min) è **non fatale**: se il WAF blocca, resta lo status in cache e il build prosegue con un `::warning::`. Il vintage è in `status.parquet.fetched_at`.
 
 **`stato` / `vigenza_fonte`**
 
@@ -153,16 +155,21 @@ I parquet derived **non** sono rigenerati in questa PR: al prossimo build CI il 
 
 - Makefile: `make toolkit-check` · `make toolkit-run`
 - Output: `out/data/{clean,mart}/<dataset>/2026/` (gitignored)
-- **CI daily** (`build-dataset.yml`): engine + `toolkit-run` + rsync GCS
+- **CI settimanale** (`build-dataset.yml`, lunedì): engine + `toolkit-run` + rsync GCS
   `gs://dataciviclab-clean|mart/italia-corpus/` — **no registry PR**
-- **CI schema** (`pipeline.yml`): reusable org su merge `datasets/**` + lunedì/dispatch
-  → `toolkit-run` + registry draft PR (solo quando cambia il contratto)
+- **CI registry** (`pipeline.yml`): reusable org, lunedì 04:30 UTC + merge `datasets/**`/dispatch
+  → `make atti-index` (pre-run, artefatto non committato) + `toolkit-run` + registry draft PR
+- `toolkit-run` salta `datasets/atti-index` se l'artefatto manca (guardia esplicita)
 - Dual-publish: derived resta in git per MCP; clean+mart su GCS sono il contratto Lab
 - Warning attesi: `riferimenti` clean droppa denorm non usati da LG
 
+**Perché settimanale**: il consumatore (legal-graph) ricostruisce il grafo il
+lunedì, e la fonte rigenera snapshot ogni giorno anche quando le leggi non
+cambiano (centinaia/migliaia di file riscritti). Il quotidiano pagava ~25 min e
+il churn git per un prodotto che resta settimanale. Il probe resta quotidiano
+perché è l'unico che deve accorgersi subito di un cambio di formato.
 **Perché no registry daily**: `registry.json` cambia a ogni run (`updated_at`,
-`signals.run_id`) → una draft PR al giorno è rumore. Il contratto pubblico
-(columns/locations) cambia solo con PR su `datasets/**`.
+`signals.run_id`) → una draft PR al giorno è rumore.
 
 ---
 

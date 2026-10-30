@@ -1,0 +1,57 @@
+# Probe formati collezioni — quotidiano, una richiesta, nessun download.
+#
+# È l'unico pezzo che ha bisogno di occhi quotidiani: intercetta i formati che
+# spariscono (come il V su 5 collezioni il 30/10) e registra la storia del
+# freeze. La pipeline completa gira una volta a settimana (build-dataset).
+
+name: Probe formati
+
+on:
+  schedule:
+    - cron: "30 5 * * *"  # ogni giorno, 06:30 IT
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: dataciviclab/.github/actions/python-setup@main
+        with:
+          install-extras: "dev"
+
+      - name: Probe collezioni
+        run: python -m lab_tools.collezioni_probe
+
+      # Committa solo se lo stato *sostanziale* è cambiato: `probed_at` cambia
+      # a ogni run e produrrebbe 365 commit/anno di rumore.
+      - name: Commit snapshot (solo se cambia lo stato)
+        run: |
+          CHANGED=$(python - <<'PY'
+          import json, pathlib, subprocess
+          p = pathlib.Path("data/derived/collezioni_probe.json")
+          new = json.loads(p.read_text()); new.pop("probed_at", None)
+          try:
+              old = json.loads(subprocess.check_output(
+                  ["git", "show", "HEAD:data/derived/collezioni_probe.json"], text=True
+              ))
+              old.pop("probed_at", None)
+          except subprocess.CalledProcessError:
+              old = None
+          print("yes" if new != old else "no")
+          PY
+          )
+          if [ "$CHANGED" = "no" ]; then
+            echo "stato formati invariato — nessun commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/derived/collezioni_probe.json
+          git commit -m "chore(probe): formati collezioni [skip ci]"
+          git push

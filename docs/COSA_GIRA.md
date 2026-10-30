@@ -13,7 +13,7 @@ Tre cose, nient'altro:
 | **Dati** (parquet derivati) | `data/derived/` — parzialmente in git | citazioni, metadati, qualità, stato |
 | **Pubblicazione** | GCS `dataciviclab-clean/italia-corpus/` | è ciò che legal-graph legge |
 
-## Il giro quotidiano (una volta al giorno, 05:30 UTC)
+## Il giro settimanale (lunedì 03:30 UTC)
 
 ```text
 1. probe      → guarda quali formati offre Normattiva (1 richiesta)
@@ -25,6 +25,9 @@ Tre cose, nient'altro:
 
 Se un passo di rete fallisce (WAF), il resto prosegue con i dati del giorno
 prima: `make stato` mostra l'età di ogni file.
+
+Ogni **giorno** gira solo il probe dei formati (`probe.yml`, 4 secondi): è
+l'unico che deve accorgersi subito di un cambio di formato della fonte.
 
 ## Cosa toccare per cambiare cosa
 

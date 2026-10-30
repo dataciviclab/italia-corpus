@@ -25,10 +25,20 @@ toolkit-check:
 		$(TOOLKIT) run preflight --config "$$f"; \
 	done
 
+# atti-index dipende da un artefatto non committato (drift, come status):
+# in un contesto dove non è stato generato (es. registry workflow su checkout
+# pulito) il dataset va saltato, non deve far fallire la pubblicazione degli
+# altri. Il warning è esplicito: se salta, il registry non si aggiorna.
 toolkit-run:
 	@for f in $(TOOLKIT_CONFIGS); do \
+		case "$$f" in \
+			*atti-index*) \
+				if [ ! -f data/derived/atti_index.parquet ]; then \
+					echo "⚠ salto $$f (atti_index.parquet assente)"; continue; \
+				fi ;; \
+		esac; \
 		echo "→ $$f"; \
-		$(TOOLKIT) run --config "$$f"; \
+		$(TOOLKIT) run --config "$$f" || exit 1; \
 	done
 
 toolkit-all: toolkit-run

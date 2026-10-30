@@ -1,11 +1,12 @@
 name: build-dataset
-# Daily: engine Normattiva + layer toolkit → GCS clean/mart.
+# Weekly (lunedì): engine Normattiva + layer toolkit → GCS clean/mart.
+# Il watchdog dei formati è separato e gira ogni giorno (probe.yml).
 # NESSUN registry build qui (evita draft PR giornaliere: signals/updated_at
 # cambiano a ogni run). Il registry viene aggiornato da pipeline.yml
 # solo su merge di datasets/** o dispatch/schema change.
 on:
   schedule:
-    - cron: '30 5 * * *'  # 06:30 IT
+    - cron: '30 3 * * 1'  # lunedì 04:30 IT, prima di legal-graph (06:00 UTC)
   workflow_dispatch:
 
 permissions:
@@ -229,14 +230,6 @@ jobs:
           else:
               print("contract path: 0 nomi file spariti")
           PY
-      # atti-index è un passo di rete non fatale: se fallisce e non c'è cache,
-      # il suo dataset non ha input. Meglio saltare la pubblicazione che far
-      # fallire l'intero build per un indice diagnostico.
-      - name: Salta atti_index se manca l'input
-        if: steps.atti_index.outcome == 'failure' && hashFiles('data/derived/atti_index.parquet') == ''
-        run: |
-          echo "::warning::atti_index assente: salto datasets/atti-index per questo run"
-          mv datasets/atti-index /tmp/atti-index-skipped
       - name: Layer toolkit (clean + mart)
         run: make toolkit-run
       - name: GCP Auth (WIF)
