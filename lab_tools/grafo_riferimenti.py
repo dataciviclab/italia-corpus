@@ -323,6 +323,9 @@ def _archi_da_akn_relations(
         conteggi[f"fonte:{urn_regola(urn_to_fn, f_urn)}"] += 1
         f_meta = normativa.get(Path(f_fn).name, {})
         t_meta = normativa.get(Path(t_fn).name, {})
+        # pandas: le righe senza contesto sono NaN (float), non None/"".
+        _contesto = row.get("contesto")
+        contesto = _contesto.strip() if isinstance(_contesto, str) else ""
         archi.append(
             {
                 "fonte_filename": f_fn,
@@ -343,10 +346,10 @@ def _archi_da_akn_relations(
                 "origine": "akn",
                 "rel_type": "citation",
                 # Contesto catturato da akn_relations (paragrafo del <ref>).
-                # Fallback al segnaposto per i parquet prodotti prima del fix.
-                "contesto": (row.get("contesto") or "").strip()
-                or f"akn:{row.get('origin', 'ref')}",
-                "clausola_lettura": clausola_di_lettura(row.get("contesto")),
+                # pandas restituisce NaN (float) per le righe senza testo:
+                # `nan or ""` è NaN (truthy) → niente .strip() diretto.
+                "contesto": contesto or f"akn:{row.get('origin', 'ref')}",
+                "clausola_lettura": clausola_di_lettura(contesto),
             }
         )
     # invariante: ogni riga di input è classificata (2 voci se risolta: fonte e

@@ -293,3 +293,54 @@ class TestVerificaInvarianti:
         archi = [self._arco("Leggi/a.md", "Codici/b.md")]
         with pytest.raises(ValueError, match="fonte inesistente"):
             _verifica_invarianti(archi, {"Codici/b.md"})
+
+
+class TestContestoAkn:
+    """Regressione 2026-10-30: in CI il contesto AKN arriva come NaN (float).
+
+    `nan or ""` è NaN (truthy) → `.strip()` esplodeva. Locale non si vedeva
+    perché il parquet non aveva ancora la colonna.
+    """
+
+    def _parquet(self, tmp_path, contesto):
+        import pandas as pd
+
+        df = pd.DataFrame(
+            [
+                {
+                    "fonte_urn": "urn:nir:stato:legge:2020-01-01;1",
+                    "target_urn": "urn:nir:stato:legge:2019-01-01;2",
+                    "rel_type": "citation",
+                    "origin": "ref",
+                    "detail": "href",
+                    "contesto": contesto,
+                }
+            ]
+        )
+        df.to_parquet(tmp_path / "akn_relations.parquet")
+
+    def test_contesto_nan_usa_segnaposto(self, tmp_path, monkeypatch):
+        from lab_tools import grafo_riferimenti as g
+
+        self._parquet(tmp_path, float("nan"))
+        monkeypatch.setattr(g, "OUTDIR", tmp_path)
+        mappa = {
+            "urn:nir:stato:legge:2020-01-01;1": "Leggi/2020.md",
+            "urn:nir:stato:legge:2019-01-01;2": "Leggi/2019.md",
+        }
+        archi = g._archi_da_akn_relations({}, mappa)
+        assert archi, "nessun arco AKN prodotto"
+        assert archi[0]["contesto"] == "akn:ref"
+        assert archi[0]["clausola_lettura"] is None
+
+    def test_contesto_testuale_classificato(self, tmp_path, monkeypatch):
+        from lab_tools import grafo_riferimenti as g
+
+        self._parquet(tmp_path, "al solo fine di facilitare la lettura delle norme")
+        monkeypatch.setattr(g, "OUTDIR", tmp_path)
+        mappa = {
+            "urn:nir:stato:legge:2020-01-01;1": "Leggi/2020.md",
+            "urn:nir:stato:legge:2019-01-01;2": "Leggi/2019.md",
+        }
+        archi = g._archi_da_akn_relations({}, mappa)
+        assert archi[0]["clausola_lettura"] is True
