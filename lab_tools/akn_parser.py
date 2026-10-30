@@ -266,6 +266,16 @@ def conta_allegati(content: str) -> tuple[int, int]:
     def _local(tag: str) -> str:
         return tag.rsplit("}", 1)[-1]
 
+    def _testo(el) -> str:
+        """Testo dell'elemento, esclusi `<name>`/`<num>` (titoli, non corpo)."""
+        if _local(el.tag) in {"name", "num"}:
+            return ""
+        parti = [el.text or ""]
+        for child in el:
+            parti.append(_testo(child))
+            parti.append(child.tail or "")
+        return " ".join(" ".join(parti).split())
+
     n = 0
     chars = 0
     for att in root.iter():
@@ -274,7 +284,7 @@ def conta_allegati(content: str) -> tuple[int, int]:
         for doc in att.iter():
             if _local(doc.tag) != "doc":
                 continue
-            testo = " ".join(" ".join(t.strip() for t in doc.itertext()).split())
+            testo = _testo(doc)
             if testo:
                 n += 1
                 chars += len(testo)

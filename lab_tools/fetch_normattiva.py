@@ -46,6 +46,7 @@ from lab_tools.urn import add_urn, expand_index
 logger = logging.getLogger(__name__)
 
 MANIFEST_PATH = OUTDIR / "_fetch_manifest.json"
+ALLEGATI_REPORT = OUTDIR / "_allegati_report.json"
 
 
 def _load_manifest() -> dict:
@@ -53,6 +54,21 @@ def _load_manifest() -> dict:
     if MANIFEST_PATH.exists():
         try:
             return json.loads(MANIFEST_PATH.read_text())
+        except (json.JSONDecodeError, OSError):
+            pass
+    return {}
+
+
+def _load_allegati_report() -> dict:
+    """Carica il report allegati precedente (accumulativo tra i fetch).
+
+    Solo le collezioni non skippate vengono aggiornate: senza il merge, ogni
+    giorno si vedrebbe solo il sottoinsieme rifetchato e il perimetro non si
+    completerebbe.
+    """
+    if ALLEGATI_REPORT.exists():
+        try:
+            return json.loads(ALLEGATI_REPORT.read_text())
         except (json.JSONDecodeError, OSError):
             pass
     return {}
@@ -334,7 +350,7 @@ def main() -> None:
     total = 0
     failed: list[str] = []
     manifest = _load_manifest()
-    report_allegati: dict[str, dict] = {}
+    report_allegati = _load_allegati_report()
     n_skipped = 0
     with tempfile.TemporaryDirectory(prefix="normattiva-") as tmp:
         work_dir = Path(tmp)
@@ -375,6 +391,9 @@ def main() -> None:
                     "dataCreazione": collection.get("dataCreazione", ""),
                     "last_fetch": datetime.now().isoformat(),
                 }
+                report_allegati.setdefault(nome, {})["fetched_at"] = manifest[nome][
+                    "last_fetch"
+                ]
 
             # Random sleep between collections (avoid rate limiting)
             if i < len(collections) - 1:
@@ -386,7 +405,7 @@ def main() -> None:
         # Salva manifest sempre (aggiorna anche dopo primo run)
         _save_manifest(manifest)
         if report_allegati:
-            (OUTDIR / "_allegati_report.json").write_text(
+            ALLEGATI_REPORT.write_text(
                 json.dumps(report_allegati, indent=2, sort_keys=True),
                 encoding="utf-8",
             )
@@ -409,6 +428,9 @@ def main() -> None:
                 if count == 0:
                     still_failed.append(nome)
                 else:
+                    report_allegati.setdefault(nome, {})["fetched_at"] = (
+                        datetime.now().isoformat()
+                    )
                     logger.info("Retry OK per %r (%d file)", nome, count)
             failed = still_failed
 

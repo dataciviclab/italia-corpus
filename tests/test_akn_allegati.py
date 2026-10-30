@@ -26,9 +26,17 @@ class TestContaAllegati:
         assert conta_allegati("<akn><body><p>x</p></body></akn>") == (0, 0)
 
     def test_due_doc(self):
+        """`chars` esclude `<name>`/`<num>`: deve essere comparabile al testo."""
         n, chars = conta_allegati(XML)
         assert n == 2
-        assert chars == len("Art. 1 testo uno") + len("Art. 2 testo due")
+        assert chars == len("testo uno") + len("testo due")
+
+    def test_name_escluso(self):
+        xml = (
+            "<akn><attachments><doc><name>Titolo</name>"
+            "<p>corpo</p></doc></attachments></akn>"
+        )
+        assert conta_allegati(xml) == (1, len("corpo"))
 
     def test_namespace(self):
         n, chars = conta_allegati(XML_NS)
