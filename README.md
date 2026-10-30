@@ -1,6 +1,6 @@
 # Italia Corpus — La legislazione italiana a portata di ricerca
 
-**22.016 atti normativi, da codici a decreti-legge, in formato aperto e interrogabile.**
+**22.402 atti normativi, da codici a decreti-legge, in formato aperto e interrogabile.**
 
 Il corpus della legislazione italiana: leggi, decreti legislativi,
 decreti-legge, regolamenti, DPCM, testi unici, codici e atti di recepimento UE.
@@ -11,9 +11,9 @@ a Markdown. Tutto cercabile per testo, struttura e materia.
 
 | | |
 |---|---|
-| **Atti normativi** | 22.017 (11.980 vigenti, 8.302 abrogati, 1.735 decaduti) |
+| **Atti normativi** | 22.402 (12.241 vigenti, 8.400 abrogati, 1.761 decaduti) |
 | **Collezioni** | 20 (DL e conversioni, decreti legislativi, codici, testi unici, DPCM...) |
-| **Riferimenti incrociati** | 136.441 archi tra atti |
+| **Riferimenti incrociati** | 200.080 archi tra atti |
 | **Materie** | 25 categorie (fisco, ambientale, lavoro, giustizia, etc.) |
 | **Aggiornamento** | Fetch giornaliero diretto dall'API Normattiva |
 
@@ -57,8 +57,8 @@ duckdb.sql("""
 
 ### 3. Via download parquet
 
-- `data/derived/normativa.parquet` — 22.016 atti, 26 colonne
-- `data/derived/riferimenti.parquet` — 92.580 riferimenti, 15 colonne
+- `data/derived/normativa.parquet` — 22.402 atti, 42 colonne
+- `data/derived/riferimenti.parquet` — 200.080 riferimenti, 18 colonne
 - `data/derived/allegati.parquet` — indice allegati AKN (`data_codice`+`doc_id` → `doc_name`, `chars`, `hash`, `versione`, `rel_path`; contenuto su GCS)
 
 ## Approfondimenti
