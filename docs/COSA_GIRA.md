@@ -13,14 +13,18 @@ Tre cose, nient'altro:
 | **Dati** (parquet derivati) | `data/derived/` — parzialmente in git | citazioni, metadati, qualità, stato |
 | **Pubblicazione** | GCS `dataciviclab-clean/italia-corpus/` | è ciò che legal-graph legge |
 
-## Il giro settimanale (lunedì 03:30 UTC)
+## Il giro settimanale (un workflow, lunedì 03:30 UTC)
 
 ```text
+job build
 1. probe      → guarda quali formati offre Normattiva (1 richiesta)
 2. fetch      → scarica le collezioni, converte l'XML AKN in markdown
 3. arricchisce→ stato ufficiale, materia, citazioni, qualità, EIV
-4. catalogo   → enumera tutti gli atti che esistono (anche quelli che non abbiamo)
-5. pubblica   → clean + mart su GCS, commit dei derivati
+4. commit     → testi e derivati vanno in git
+
+job publish (dopo build)
+5. catalogo   → enumera tutti gli atti che esistono (anche quelli che non abbiamo)
+6. pubblica   → clean + mart su GCS + registry
 ```
 
 Se un passo di rete fallisce (WAF), il resto prosegue con i dati del giorno
