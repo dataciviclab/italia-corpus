@@ -329,9 +329,12 @@ def allegati_to_markdown(
         for doc in att.iter():
             if _local(doc.tag) != "doc":
                 continue
-            doc_id = _doc_id(doc) or f"doc_{len(out) + 1}"
-            if doc_id in visti:
-                continue
+            base = _doc_id(doc) or f"doc_{len(out) + 1}"
+            doc_id = base
+            suffisso = 2
+            while doc_id in visti:
+                doc_id = f"{base}#{suffisso}"
+                suffisso += 1
             visti.add(doc_id)
             main = next((c for c in doc.iter() if _local(c.tag) == "mainBody"), None)
             lines: list[str] = []

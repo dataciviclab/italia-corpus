@@ -59,6 +59,7 @@ duckdb.sql("""
 
 - `data/derived/normativa.parquet` — 22.016 atti, 26 colonne
 - `data/derived/riferimenti.parquet` — 92.580 riferimenti, 15 colonne
+- `data/derived/allegati.parquet` — indice allegati AKN (`data_codice`+`doc_id` → `doc_name`, `chars`, `hash`, `versione`, `rel_path`; contenuto su GCS)
 
 ## Approfondimenti
 

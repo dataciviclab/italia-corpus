@@ -105,6 +105,7 @@ coincide con la collezione ufficiale **"Atti normativi abrogati"** (~124k atti)
 | `status.parquet` | status atto-level autorevole (`codice_redazionale`+`data_gu` → `stato`, `classe`) | `integra-vigenza` (non pubblicato, non committato) |
 | `atti_api.parquet` | leggi ordinarie fuori collezione (fetch `dettaglio-atto-urn`: vigenza + HTML) | legal-graph (nodi + target euristiche `attua_delega`) |
 | `riferimenti.parquet` | archi `peso`, `risolto`, `origine` (regex\|akn) | legal-graph, debt |
+| `allegati.parquet` | indice allegati AKN: `data_codice`+`doc_id` → `doc_name`, `chars`, `hash`, `versione`, `rel_path` (contenuto su GCS) | legal-graph (`legal_text`) |
 | `akn_relations.parquet` | relazioni AKN tipizzate (full-corpus su fetch completo) | clean/tabella propria, debug |
 | `akn_act_meta.parquet` | EIV, mod counts, ELI per atto (join `urn` 100% su fetch completo) | vigenza, quality |
 | `abrogations_raw.parquet` | fallback regex abrogazioni | integra + analisi (AKN repeal = tipizzato) |

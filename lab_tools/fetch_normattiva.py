@@ -27,14 +27,15 @@ from lab_tools._paths import (
     load_collezioni,
     load_pin,
 )
-from lab_tools.akn_parser import akn_xml_to_markdown, allegati_to_markdown, conta_allegati
+from lab_tools.akn_parser import akn_xml_to_markdown, conta_allegati
 from lab_tools.akn_relations import (
     extract_from_xml,
     load_staged_akn,
     merge_akn_artifacts,
     stage_akn_rows,
 )
-from lab_tools.identity import data_codice
+from lab_tools.allegati import aggiorna_indice, scrivi_atto
+from lab_tools.identity import data_codice, versione_da_filename
 from lab_tools.normattiva_client import (
     download_collection,
     extract_zip,
@@ -262,33 +263,15 @@ def process_collection(
                 source_path = f"{COLLEZIONI_DIRNAME}/{subdir}/{xml_file.stem}.md"
                 fm, markdown = akn_xml_to_markdown(content, urn_index, source_path)
 
-                # Allegati (#94): il testo dei codici sta qui. Un file per atto
-                # (`allegati/<data_codice>.md`, sezioni `## <doc_name>`), indice
-                # in allegati.parquet. Il corpus resta intatto.
-                docs = allegati_to_markdown(content, urn_index, source_path)
-                if docs:
-                    cod = data_codice(xml_file.stem) or xml_file.stem
-                    blocchi = [f"# Allegati - {cod}", ""]
-                    for d in docs:
-                        blocchi.append(f"## {d['doc_name']}")
-                        blocchi.append("")
-                        blocchi.append(d["markdown"])
-                        blocchi.append("")
-                    (ALLEGATI_DIR / f"{cod}.md").write_text(
-                        "\n".join(blocchi).strip() + "\n", encoding="utf-8"
-                    )
-                    if allegati_rows is not None:
-                        for d in docs:
-                            allegati_rows.append(
-                                {
-                                    "data_codice": cod,
-                                    "urn": fm.urn or "",
-                                    "doc_id": d["doc_id"],
-                                    "doc_name": d["doc_name"],
-                                    "chars": len(d["markdown"]),
-                                    "rel_path": f"allegati/{cod}.md",
-                                }
-                            )
+                # Allegati (#94): il testo dei codici sta qui. Un file per atto,
+                # indice con provenienza (`versione`/`snapshot_data`) e hash.
+                versione, snapshot = versione_da_filename(xml_file.name)
+                cod = data_codice(xml_file.stem) or xml_file.stem
+                righe_allegati = scrivi_atto(
+                    content, fm.urn or "", cod, versione, snapshot, ALLEGATI_DIR, urn_index
+                )
+                if allegati_rows is not None:
+                    allegati_rows.extend(righe_allegati)
 
                 if stage_dir is not None:
                     try:
@@ -492,17 +475,8 @@ def main() -> None:
         _save_manifest(manifest)
         if allegati_rows:
             try:
-                import pandas as pd
-
-                nuovo = pd.DataFrame(allegati_rows)
-                if ALLEGATI_PARQUET.exists():
-                    prev = pd.read_parquet(ALLEGATI_PARQUET)
-                    nuovo = pd.concat(
-                        [prev[~prev["data_codice"].isin(nuovo["data_codice"])], nuovo],
-                        ignore_index=True,
-                    )
-                nuovo.to_parquet(ALLEGATI_PARQUET, index=False)
-                logger.info("allegati: %d doc -> %s", len(nuovo), ALLEGATI_PARQUET)
+                tot = aggiorna_indice(allegati_rows, ALLEGATI_PARQUET)
+                logger.info("allegati: %d doc -> %s", tot, ALLEGATI_PARQUET)
             except ImportError:
                 logger.warning("pandas assente: allegati.parquet non scritto")
 

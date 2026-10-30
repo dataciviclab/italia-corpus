@@ -88,7 +88,7 @@ class TestAllegatiMarkdown:
     def test_xml_malformato(self):
         assert allegati_to_markdown("<akn>", {}, "x") == []
 
-    def test_doc_duplicati_scartati(self):
+    def test_doc_duplicati_suffissati(self):
         xml = (
             '<akn><attachments>'
             '<doc name="A" FRBRthis="u/!main/annesso_1"><mainBody><p>a</p></mainBody></doc>'
@@ -96,4 +96,5 @@ class TestAllegatiMarkdown:
             '</attachments></akn>'
         )
         docs = allegati_to_markdown(xml, {}, "x")
-        assert len(docs) == 1
+        assert len(docs) == 2
+        assert docs[1]["doc_id"] == "annesso_1#2"
