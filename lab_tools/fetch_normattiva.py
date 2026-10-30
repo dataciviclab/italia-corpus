@@ -22,9 +22,10 @@ from pathlib import Path
 from lab_tools._paths import (
     COLLEZIONI_DIRNAME,
     COLLEZIONI_ROOT,
-    CONFIG_COLLEZIONI,
     OUTDIR,
     REPO,
+    load_collezioni,
+    load_pin,
 )
 from lab_tools.akn_parser import akn_xml_to_markdown, conta_allegati
 from lab_tools.akn_relations import (
@@ -95,30 +96,8 @@ def _collection_unchanged(collection: dict, manifest: dict) -> bool:
 
 
 def _load_collezioni_pin() -> tuple[list[str], dict[str, str]]:
-    """Nomi da fetchare + formato richiesto, da `config/collezioni.txt`.
-
-    Formato riga: `Nome` (nessun pin) oppure `Nome|V` (formato obbligatorio).
-    Il formato e' una **decisione**, non un fallback: se il pin non e'
-    disponibile la collezione viene saltata, mai sostituita con un altro
-    formato (un V -> O declasserebbe 2.909 atti correnti).
-    """
-    if not CONFIG_COLLEZIONI.exists():
-        return [], {}
-    nomi: list[str] = []
-    pin: dict[str, str] = {}
-    for line in CONFIG_COLLEZIONI.read_text().splitlines():
-        line = line.split("#", 1)[0].strip()
-        if not line:
-            continue
-        nome, _, fmt = line.partition("|")
-        nome = nome.strip()
-        fmt = fmt.strip().upper()
-        if not nome:
-            continue
-        nomi.append(nome)
-        if fmt:
-            pin[nome] = fmt
-    return nomi, pin
+    """Nomi + formato richiesto, dal parser unico in `_paths`."""
+    return load_collezioni(), load_pin()
 
 
 def _load_collezioni() -> list[str]:
@@ -387,6 +366,14 @@ def main() -> None:
         fmt = (entry.get("formato") or "").strip().upper()
         if fmt and nome not in pin:
             pin[nome] = fmt
+
+    presenti_api = {c["nomeCollezione"] for c in collections}
+    for nome in our_names:
+        if nome in pin and nome not in presenti_api:
+            logger.warning(
+                "%s: collezione assente dall'API — skip, mantengo i file esistenti",
+                nome,
+            )
 
     collections, scarti_formato = _filtra_per_formato(collections, pin)
     for nome, richiesto, disponibile in scarti_formato:
