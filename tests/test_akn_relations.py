@@ -177,6 +177,20 @@ class TestExtractActMeta:
 
 
 class TestExtractFromXml:
+    def test_contesto_ref_dal_paragrafo(self):
+        """Il contesto del <ref> è il paragrafo che lo contiene (non 'akn:ref')."""
+        relations, _ = extract_from_xml(_xml_rich())
+        cit = [r for r in relations if r["origin"] == "ref"]
+        assert cit, "nessuna citazione ref nel fixture"
+        assert all(r["contesto"] for r in cit), "contesto vuoto sui ref"
+        assert any("D.Lgs 50/2016" in r["contesto"] for r in cit), cit[0]["contesto"]
+
+    def test_contesto_assente_su_modifiche(self):
+        """Le modifiche tipizzate non hanno un paragrafo: contesto vuoto."""
+        relations, _ = extract_from_xml(_xml_rich())
+        mods = [r for r in relations if r["origin"] == "activeModification"]
+        assert mods and all(r["contesto"] == "" for r in mods)
+
     def test_tuple_shape(self):
         relations, meta = extract_from_xml(_xml_rich())
         assert isinstance(relations, list) and relations

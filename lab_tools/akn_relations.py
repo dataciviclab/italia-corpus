@@ -97,6 +97,37 @@ def _extract_eiv(root: ET.Element) -> str | None:
     return None
 
 
+# Contenitori di testo "utili" per il contesto di un <ref>: il paragrafo (o
+# l'item) che contiene il link. Risalire oltre (body/act) darebbe il testo
+# dell'intero atto, inutile come evidence.
+_CONTENITORI_TESTO = {"p", "hcontainer", "item", "paragraph", "content", "heading", "list"}
+_CTX_MAX = 240
+
+
+def _contesto_ref(rf: ET.Element, parents: dict[ET.Element, ET.Element]) -> str:
+    """Testo del contenitore del `<ref>` (finestra attorno al link).
+
+    Serve a classificare la citazione: senza contesto non si distingue un
+    rinvio normativo da una clausola di lettura ("al solo fine di facilitare
+    la lettura"), che è il 55% delle citazioni al DPR 1092/1985.
+    """
+    node = parents.get(rf)
+    while node is not None and _local(node.tag) not in _CONTENITORI_TESTO:
+        node = parents.get(node)
+    if node is None:
+        return ""
+    testo = " ".join("".join(node.itertext()).split())
+    if len(testo) <= _CTX_MAX:
+        return testo
+    # paragrafo lungo: finestra centrata sul testo del link, non i primi 240
+    label = " ".join("".join(rf.itertext()).split())
+    pos = testo.find(label[:40]) if label else -1
+    if pos > 0:
+        start = max(0, pos - _CTX_MAX // 3)
+        return testo[start:start + _CTX_MAX]
+    return testo[:_CTX_MAX]
+
+
 def extract_relations(root: ET.Element) -> list[dict[str, Any]]:
     """Righe relazione da un elemento AKN root.
 
@@ -113,6 +144,7 @@ def extract_relations(root: ET.Element) -> list[dict[str, Any]]:
         origin: str,
         detail: str = "",
         fonte_override: str | None = None,
+        contesto: str = "",
     ) -> None:
         rows.append(
             {
@@ -122,14 +154,17 @@ def extract_relations(root: ET.Element) -> list[dict[str, Any]]:
                 "rel_type": rel_type,
                 "origin": origin,
                 "detail": detail[:300],
+                "contesto": contesto[:_CTX_MAX],
             }
         )
+
+    parents = {c: p for p in root.iter() for c in p}
 
     for rf in root.findall(".//akn:ref", NS):
         href = rf.get("href") or ""
         target = href_to_urn(href)
         if target:
-            _row(target, "citation", "ref", href)
+            _row(target, "citation", "ref", href, contesto=_contesto_ref(rf, parents))
 
     for am in root.findall(".//akn:activeModifications", NS):
         for tm in am.iter():
@@ -273,7 +308,7 @@ def write_parquets(rel_rows: list[dict], meta_rows: list[dict], outdir: Path) ->
 
     rel_cols = [
         "fonte_urn", "fonte_codice", "target_urn",
-        "rel_type", "origin", "detail",
+        "rel_type", "origin", "detail", "contesto",
     ]
     meta_cols = [
         "fonte_urn", "fonte_codice", "fonte_file", "eiv",
@@ -386,7 +421,7 @@ def merge_akn_artifacts(
     meta_path = outdir / "akn_act_meta.parquet"
     rel_cols = [
         "fonte_urn", "fonte_codice", "target_urn",
-        "rel_type", "origin", "detail",
+        "rel_type", "origin", "detail", "contesto",
     ]
     meta_cols = [
         "fonte_urn", "fonte_codice", "fonte_file", "eiv",

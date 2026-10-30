@@ -61,7 +61,11 @@ WITH base AS (
         END AS bersaglio_source_path,
         -- Contesto del link (evidence per legal-graph): snippet ±120 char attorno al link.
         -- Aggiunto 2026-10 (cross-check LcnT): backward-compatible, nullable.
-        COALESCE(contesto, '') AS contesto
+        COALESCE(contesto, '') AS contesto,
+        -- Clausola di lettura ("al solo fine di facilitare la lettura"): rinvio
+        -- di consultazione, non citazione normativa. NULL = contesto assente
+        -- (archi AKN, oggi segnaposto akn:ref) → non classificabile.
+        clausola_lettura
     FROM raw_input
     WHERE fonte_filename IS NOT NULL
       AND bersaglio_filename IS NOT NULL
@@ -84,5 +88,6 @@ SELECT
     CAST(risolto AS BOOLEAN)          AS risolto,
     normalize_string(origine)         AS origine,
     normalize_string(rel_type)        AS rel_type,
-    LEFT(contesto, 240)               AS contesto
+    LEFT(contesto, 240)               AS contesto,
+    CAST(clausola_lettura AS BOOLEAN) AS clausola_lettura
 FROM base

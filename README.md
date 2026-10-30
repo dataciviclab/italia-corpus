@@ -137,13 +137,18 @@ Colonne di qualità:
 | `eta_anni` | int | Anni dall'atto (anno corrente - anno_atto) |
 | `sunsetting_score` | int | 0-100, più alto = più candidato alla decadenza automatica |
 
-### Schema `riferimenti.parquet` (15 colonne)
+### Schema `riferimenti.parquet` (19 colonne)
 
 `fonte_filename`, `fonte_collezione`, `fonte_anno`, `fonte_tipo`,
 `fonte_materia`, `fonte_stato`,
 `bersaglio_filename`, `bersaglio_path`, `bersaglio_collezione`,
 `bersaglio_anno`, `bersaglio_tipo`, `bersaglio_materia`, `bersaglio_stato`,
-`peso`, `risolto`
+`peso`, `risolto`, `origine`, `rel_type`, `contesto`, **`clausola_lettura`**
+
+`clausola_lettura`: `TRUE` = rinvio di sola lettura ("al solo fine di
+facilitare la lettura delle disposizioni"), non una citazione; `FALSE` =
+contesto presente senza quella clausola; `NULL` = contesto assente (archi AKN
+prodotti prima del 2026-10-30) → non classificabile.
 
 Path nei campi path: relativi a `collezioni/` (es. `Codici/x.md`).
 `bersaglio_filename` e `normativa.filename` sono basename.

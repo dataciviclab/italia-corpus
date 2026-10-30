@@ -17,6 +17,7 @@ from collections import Counter
 from pathlib import Path
 
 from lab_tools._paths import COLLEZIONI_ROOT, OUTDIR, load_collezioni
+from lab_tools.classifica_riferimenti import clausola_di_lettura
 from lab_tools.identity import build_indice_identita, data_codice
 from lab_tools.urn import expand_index
 from lab_tools.urn import lookup as urn_lookup
@@ -344,8 +345,11 @@ def _archi_da_akn_relations(
                 "risolto": True,
                 "origine": "akn",
                 "rel_type": "citation",
-                # AKN citations: evidence dal campo origin ('ref'), non da contesto testuale
-                "contesto": f"akn:{row.get('origin', 'ref')}",
+                # Contesto catturato da akn_relations (paragrafo del <ref>).
+                # Fallback al segnaposto per i parquet prodotti prima del fix.
+                "contesto": (row.get("contesto") or "").strip()
+                or f"akn:{row.get('origin', 'ref')}",
+                "clausola_lettura": clausola_di_lettura(row.get("contesto")),
             }
         )
     # invariante: ogni riga di input è classificata (2 voci se risolta: fonte e
@@ -541,6 +545,9 @@ def main():
                     "origine": "regex",
                     "rel_type": "citation",
                     "contesto": contesto_first.get(link_decoded, ""),
+                    "clausola_lettura": clausola_di_lettura(
+                        contesto_first.get(link_decoded, "")
+                    ),
                 }
                 archi.append(arco)
 
