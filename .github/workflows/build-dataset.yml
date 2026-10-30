@@ -53,6 +53,12 @@ jobs:
       - name: Lint (ruff)
         run: python -m ruff check lab_tools/ tests/
       - run: python -m pytest tests/ -v
+      # Una richiesta: formati disponibili per collezione (O/V/M). Non fatale:
+      # se il WAF blocca, resta il probe del run precedente.
+      - name: Probe formati collezioni (Normattiva)
+        id: probe_collezioni
+        run: python -m lab_tools.collezioni_probe
+        continue-on-error: true
       - name: Fetch da Normattiva (MD + artifact AKN)
         run: python -m lab_tools.fetch_normattiva
       # Status: solo classe 3 (lista ufficiale abrogati) ~2 min. La classe 2

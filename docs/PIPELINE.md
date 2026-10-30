@@ -36,6 +36,7 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 
 | # | Stage | Comando | Output |
 |---|---|---|---|
+| 0 | **probe-collezioni** | `python -m lab_tools.collezioni_probe` | `collezioni_probe.json` (formati O/V/M per collezione + freeze, una richiesta) |
 | 1 | **fetch** | `python -m lab_tools.fetch_normattiva [--only …]` | MD + `akn_*.parquet` (staging + merge) |
 | 1b | **fetch-status** | `python -m lab_tools.fetch_status` | `status.parquet` (solo **abrogati**, classe 3 = lista ufficiale; no testo) |
 | 2 | **extract** | `python -m lab_tools.extract` | `normativa.parquet` (metadati base) |
@@ -105,6 +106,7 @@ coincide con la collezione ufficiale **"Atti normativi abrogati"** (~124k atti)
 | `normativa.parquet` | atto: metadati + identità (`versione`/`snapshot_data`/`is_current`) + qualità + materia/sunsetting + EIV/AKN + `stato`/`vigenza_fonte` | legal-graph, MCP, analisi |
 | `status.parquet` | status atto-level autorevole (`codice_redazionale`+`data_gu` → `stato`, `classe`) | `integra-vigenza` (non pubblicato, non committato) |
 | `atti_api.parquet` | leggi ordinarie fuori collezione (fetch `dettaglio-atto-urn`: vigenza + HTML) | legal-graph (nodi + target euristiche `attua_delega`) |
+| `collezioni_probe.json` | formati disponibili per collezione (O/V/M), `numeroAtti`, `dataCreazione`, stato del pin e `senza_pin_da` (probe consecutivi congelati) — **committato**: è la storia dei cambi di formato della fonte | diagnosi freeze, CI | 
 | `atti_index.parquet` | catalogo ufficiale Normattiva: una riga per atto, PK `(codice_redazionale, data_gu)`, `stato` da classeProvvedimento (3 = lista abrogati), `in_corpus`, `urn`/`urn_fonte` appresa — **non committato**, pubblicato dal layer toolkit (`datasets/atti-index/`) | legal-graph (identità degli edge di citazione), analisi di copertura |
 | `riferimenti.parquet` | archi `peso`, `risolto`, `origine` (regex\|akn) | legal-graph, debt |
 | `allegati.parquet` | indice allegati AKN: `data_codice`+`doc_id` → `doc_name`, `chars`, `hash`, `versione`, `rel_path` (contenuto su GCS) | legal-graph (`legal_text`) |
