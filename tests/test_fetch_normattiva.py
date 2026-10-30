@@ -316,3 +316,15 @@ class TestProcessCollectionNonCancella:
         assert count == 0
         assert vecchio.exists()
         assert vecchio.read_text(encoding="utf-8") == "testo buono"
+
+
+class TestFileDaSostituireNonConforme:
+    """`data_codice` può essere None: non deve diventare una chiave."""
+
+    def test_nomi_non_conformi_non_si_cancellano(self):
+        assert _file_da_sostituire(["foo.md", "bar.md"], ["baz.md", "qux.md"]) == set()
+
+    def test_misto_conforme_e_non_conforme(self):
+        vecchi = ["foo.md", "2003-08-07_003G0227_ORIGINALE_V0.md"]
+        nuovi = ["baz.md", "2003-08-07_003G0227_VIGENZA_2026-02-25_V0.md"]
+        assert _file_da_sostituire(vecchi, nuovi) == {"2003-08-07_003G0227_ORIGINALE_V0.md"}

@@ -17,6 +17,7 @@ from collections import Counter
 from pathlib import Path
 
 from lab_tools._paths import COLLEZIONI_ROOT, CONFIG_COLLEZIONI, OUTDIR
+from lab_tools.identity import build_indice_identita, data_codice
 from lab_tools.urn import expand_index
 from lab_tools.urn import lookup as urn_lookup
 from lab_tools.urn import regola as urn_regola
@@ -24,6 +25,12 @@ from lab_tools.urn import regola as urn_regola
 NORMATIVA_PARQUET = OUTDIR / "normativa.parquet"
 
 RE_LINK = re.compile(r'\.\./([^)]+?)\.md')
+
+# Soglia dell'invariante: **bersagli distinti** regex non risolti ammessi.
+# Oggi 6 (gli XML che il fetch non è riuscito a convertire); prima del churn
+# erano ~6-11, dopo il churn 1.262. Il conteggio per bersaglio (non per link)
+# rende il gate robusto a quanti link puntano allo stesso atto mancante.
+MAX_REGEX_BERSAGLI_NON_RISOLTI = 50
 
 # Max context length stored per side (chars). Total evidence ≤ 2 * _CTX_MAX + link text.
 _CTX_MAX = 120
@@ -73,6 +80,9 @@ def _load_normativa_lookup() -> dict[str, dict]:
                 "tipo": row.get("tipo", ""),
                 "materia": row.get("materia", ""),
                 "stato": row.get("stato", ""),
+                # identità (#88): serve a scegliere l'espressione corrente quando
+                # lo stesso atto ha più versioni nel corpus
+                "is_current": bool(row.get("is_current", False)),
             }
     return lookup
 
@@ -283,12 +293,15 @@ def _archi_da_akn_relations(
 
     archi: list[dict] = []
     n_skip = 0
+    n_target_ok = 0
     # contatori per regola + invariante: ogni riga di input finisce in una classe
     conteggi: Counter[str] = Counter()
     for _, row in cit.iterrows():
         f_urn, t_urn = row.get("fonte_urn"), row.get("target_urn")
         f_fn = urn_lookup(urn_to_fn, f_urn)
         t_fn = urn_lookup(urn_to_fn, t_urn)
+        if t_fn:
+            n_target_ok += 1
         if not f_fn or not t_fn:
             n_skip += 1
             conteggi[
@@ -329,6 +342,21 @@ def _archi_da_akn_relations(
         raise ValueError(
             f"conteggi AKN incoerenti: {classificate} != {len(cit)} input + {len(archi)} archi"
         )
+    # Due metriche separate: la copertura del lookup (target trovati) e il
+    # rapporto coppie complete (influenzato dal dedup, non dalla risoluzione).
+    # Un unico rapporto confonderebbe un dedup in più con una regressione.
+    n_cit = len(cit)
+    if n_cit and n_target_ok / n_cit < 0.30:
+        raise ValueError(
+            f"invariante AKN: lookup risolve {n_target_ok}/{n_cit} target "
+            f"({n_target_ok / n_cit:.1%}, soglia 30%) — possibile regressione di urn.lookup"
+        )
+    if n_target_ok:
+        print(
+            f"  AKN target risolti: {n_target_ok}/{n_cit} ({n_target_ok / n_cit:.1%}) · "
+            f"coppie complete: {len(archi)}/{n_target_ok} "
+            f"({len(archi) / n_target_ok:.1%}, dedup escluso)"
+        )
     per_regola = Counter(
         {k.split(":", 1)[1]: v for k, v in conteggi.items() if k.startswith("bersaglio:")}
     )
@@ -346,6 +374,85 @@ def _archi_da_akn_relations(
     return distinti
 
 
+def _risolvi_bersaglio(
+    link_decoded: str,
+    relpath: Path,
+    file_set: set[str],
+    indice_identita: dict[str, str],
+) -> tuple[str | None, str, bool, bool]:
+    """Risolvi un link per path e, se serve, per identità.
+
+    Il fetch aggiorna gli snapshot e **cambia il filename** (`_ORIGINALE_` →
+    `_VIGENZA_2026-02-25_`): un link al nome vecchio non è nel `file_set`. In
+    quel caso si ripiega su `data_codice`, che è 1:1 con l'atto.
+
+    Returns:
+        (bersaglio_path, bersaglio_filename, risolto, via_identita)
+    """
+    resolved = risolvi_path(link_decoded, relpath)
+    bersaglio_path = str(resolved) if resolved is not None else None
+
+    if bersaglio_path and bersaglio_path in file_set:
+        return bersaglio_path, Path(bersaglio_path).name, True, False
+
+    cod = data_codice(link_decoded) or data_codice(bersaglio_path or "")
+    candidato = indice_identita.get(cod) if cod else None
+    if candidato:
+        return candidato, Path(candidato).name, True, True
+
+    fn = Path(bersaglio_path).name if bersaglio_path else link_decoded
+    return bersaglio_path, fn, False, False
+
+
+def _verifica_invarianti(archi: list[dict], file_set: set[str]) -> None:
+    """Gate sulla risoluzione: blocca il run se il corpus è degradato.
+
+    Non basta stampare le metriche: 11 → 44.079 link non risolti è passato
+    silenzioso per un intero build. Questi controlli falliscono con i numeri
+    nel messaggio (stessa forma del contract check di CI).
+    """
+    basenames = {Path(p).name for p in file_set}
+
+    regex = [a for a in archi if a.get("origine") == "regex"]
+    non_risolti = [a for a in regex if not a.get("risolto")]
+    bersagli_non_risolti = {a.get("bersaglio_filename") for a in non_risolti}
+    if len(bersagli_non_risolti) > MAX_REGEX_BERSAGLI_NON_RISOLTI:
+        raise ValueError(
+            f"invariante: {len(bersagli_non_risolti)} bersagli regex non risolti "
+            f"({len(non_risolti)} link, max {MAX_REGEX_BERSAGLI_NON_RISOLTI} bersagli) "
+            f"— possibile churn di filename: i link puntano a nomi vecchi "
+            f"(vedi _risolvi_bersaglio)"
+        )
+    if bersagli_non_risolti:
+        esempi = ", ".join(sorted(bersagli_non_risolti)[:6])
+        print(
+            f"  ⚠ bersagli non risolti (atti assenti dal corpus): "
+            f"{len(bersagli_non_risolti)} ({len(non_risolti)} link) — {esempi}"
+        )
+
+    fantasmi = [
+        a for a in archi if a.get("risolto") and a.get("bersaglio_filename") not in basenames
+    ]
+    if fantasmi:
+        raise ValueError(
+            f"invariante: {len(fantasmi)} archi risolti su bersagli inesistenti "
+            f"(es. {fantasmi[0].get('bersaglio_filename')})"
+        )
+
+    fonti_fantasma = [
+        a
+        for a in archi
+        if a.get("risolto")
+        and a.get("fonte_filename") not in file_set
+        and a.get("fonte_filename") not in basenames
+    ]
+    if fonti_fantasma:
+        raise ValueError(
+            f"invariante: {len(fonti_fantasma)} archi con fonte inesistente "
+            f"(es. {fonti_fantasma[0].get('fonte_filename')})"
+        )
+
+
 def main():
     OUTDIR.mkdir(parents=True, exist_ok=True)
 
@@ -357,8 +464,15 @@ def main():
     normativa = _load_normativa_lookup()
     print(f"  {len(normativa)} atti caricati")
 
+    # Indice identità: data_codice -> espressione corrente. Serve al fallback
+    # quando il link punta a un filename che il fetch ha rinominato.
+    correnti = {fn for fn, meta in normativa.items() if meta.get("is_current")}
+    indice_identita = build_indice_identita(file_set, correnti)
+    print(f"  indice identità: {len(indice_identita)} atti (data_codice)")
+
     print("Estrazione link dai body...")
     archi: list[dict] = []
+    n_fallback_identita = 0
     for col_dir in _collezioni_legislative():
         nome_collezione = col_dir.name
         for f in sorted(col_dir.glob("*.md")):
@@ -382,15 +496,11 @@ def main():
                     contesto_first[link_decoded] = contesto
 
             for link_decoded, peso in peso_counter.items():
-                resolved = risolvi_path(link_decoded, relpath)
-                if resolved is None:
-                    bersaglio_fn = link_decoded
-                    bersaglio_path = None
-                else:
-                    bersaglio_path = str(resolved)
-                    bersaglio_fn = resolved.name
-
-                risolto = bersaglio_path in file_set if bersaglio_path else False
+                bersaglio_path, bersaglio_fn, risolto, via_identita = _risolvi_bersaglio(
+                    link_decoded, relpath, file_set, indice_identita
+                )
+                if via_identita:
+                    n_fallback_identita += 1
 
                 # Metadati fonte
                 fonte_meta = normativa.get(relpath.name, {})
@@ -435,6 +545,10 @@ def main():
     if len(archi) != n_prima:
         print(f"  archi collassati sull'unione (PK clean): {n_prima - len(archi)}")
     _verifica_pk_unica(archi)
+
+    if n_fallback_identita:
+        print(f"  risolti per identità (data_codice): {n_fallback_identita}")
+    _verifica_invarianti(archi, file_set)
 
     _stampa_metriche(archi, len(file_set))
 

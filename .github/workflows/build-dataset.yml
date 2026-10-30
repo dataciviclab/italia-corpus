@@ -88,6 +88,28 @@ jobs:
         run: python -m lab_tools.integra_vigenza
       - name: Grafo riferimenti (regex ∪ AKN)
         run: python -m lab_tools.grafo_riferimenti
+      - name: Contract check riferimenti (risoluzione)
+        # Gate indipendente dal produttore: un churn di filename (fetch che
+        # rinomina gli snapshot) fa crollare la risoluzione dei link regex.
+        # 2026-10-29: 11 -> 44.079 link non risolti, passato silenzioso.
+        run: |
+          python - <<'PY'
+          import pandas as pd
+
+          df = pd.read_parquet("data/derived/riferimenti.parquet")
+          regex = df[df["origine"] == "regex"]
+          non_risolti = regex[~regex["risolto"]]
+          bersagli = non_risolti["bersaglio_filename"].nunique()
+          print(
+              f"riferimenti: {len(df)} archi · "
+              f"regex non risolti: {len(non_risolti)} link / {bersagli} bersagli"
+          )
+          if bersagli > 50:
+              raise SystemExit(
+                  f"CHURN: {bersagli} bersagli regex non risolti "
+                  f"({len(non_risolti)} link, max 50)"
+              )
+          PY
       - name: Arricchisci normativa (qualità)
         run: python -m lab_tools.arricchisci_normativa
       - name: Integra metadati AKN (EIV, mod counts)
@@ -98,7 +120,7 @@ jobs:
         run: python -m lab_tools.fetch_urn_acts
         # Rate limit: ~2.5s/atto × ~102 atti = ~4 min.
         # Fetch on-demand: python -m lab_tools.fetch_urn_acts --urn "urn:..."
-      - name: Contract check (colonne main ⊂ build)
+      - name: Contract check (colonne + URN, main ⊂ build)
         run: |
           python - <<'PY'
           import subprocess
@@ -116,7 +138,59 @@ jobs:
           missing = sorted(main_cols - br_cols)
           if missing:
               raise SystemExit(f"COLONNE MAIN MANCANTI: {missing}")
-          print(f"contract ok: main={len(main_cols)} build={len(br_cols)}")
+          print(f"contract colonne ok: main={len(main_cols)} build={len(br_cols)}")
+
+          # Invariante di identità: nessun atto può sparire build-over-build.
+          # Il 2026-10-29 il Codice civile è stato cancellato da uno swap dopo
+          # un `syntax error` e il calo non ha fermato niente. La soglia sui
+          # link non basta (un atto poco citato non la supera): qui si confronta
+          # l'insieme degli URN con main. Le deroghe sono esplicite e motivate.
+          def urns(path):
+              col = pq.read_table(path, columns=["urn"])["urn"].to_pylist()
+              return {u for u in col if u}
+
+          main_urns = urns(main)
+          build_urns = urns("data/derived/normativa.parquet")
+
+          allow = Path("config/allowlist_urn_mancanti.txt")
+          ammessi = set()
+          if allow.exists():
+              for line in allow.read_text(encoding="utf-8").splitlines():
+                  u = line.split("#", 1)[0].strip()
+                  if u:
+                      ammessi.add(u)
+
+          mancanti = sorted(main_urns - build_urns)
+          non_ammessi = [u for u in mancanti if u not in ammessi]
+          print(
+              f"contract urn: main={len(main_urns)} build={len(build_urns)} "
+              f"mancanti={len(mancanti)} non_ammessi={len(non_ammessi)}"
+          )
+          if non_ammessi:
+              raise SystemExit(
+                  f"URN MANCANTI: {len(non_ammessi)} non in allowlist "
+                  f"(es. {non_ammessi[:5]})"
+              )
+
+          # Advisory (non fail): un rename puro NON cambia l'insieme degli URN,
+          # quindi il gate sopra non vede la classe di incidente del 29/10
+          # (stesso atto, nome nuovo -> link rotti). Diventerà un gate quando
+          # C1 renderà l'atteso 0; per ora è un contatore visibile.
+          def files(path):
+              col = pq.read_table(path, columns=["filename"])["filename"].to_pylist()
+              return {f for f in col if f}
+
+          main_files = files(main)
+          build_files = files("data/derived/normativa.parquet")
+          spariti = sorted(main_files - build_files)
+          if spariti:
+              print(
+                  f"::warning::contract path: {len(spariti)} nomi file spariti "
+                  f"(rename/cancellazioni) — advisory finché C1 "
+                  f"(es. {spariti[:3]})"
+              )
+          else:
+              print("contract path: 0 nomi file spariti")
           PY
       - name: Layer toolkit (clean + mart)
         run: make toolkit-run

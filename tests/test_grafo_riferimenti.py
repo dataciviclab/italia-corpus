@@ -6,6 +6,8 @@ import pytest
 from lab_tools.grafo_riferimenti import (
     _chiave_arco,
     _dedup_archi,
+    _risolvi_bersaglio,
+    _verifica_invarianti,
     _verifica_pk_unica,
     estrai_link,
     risolvi_path,
@@ -216,3 +218,78 @@ class TestVerificaPkUnica:
         ]
         with pytest.raises(AssertionError, match="dedup incompleto"):
             _verifica_pk_unica(archi)
+
+
+class TestRisolviBersaglio:
+    """Path esatto → altrimenti fallback per `data_codice`."""
+
+    def test_path_esatto(self):
+        file_set = {"Codici/2003-08-07_003G0227_ORIGINALE_V0.md"}
+        bp, fn, risolto, via_id = _risolvi_bersaglio(
+            "Codici/2003-08-07_003G0227_ORIGINALE_V0.md",
+            Path("Leggi/x.md"),
+            file_set,
+            {},
+        )
+        assert risolto and not via_id
+        assert bp == "Codici/2003-08-07_003G0227_ORIGINALE_V0.md"
+        assert fn == "2003-08-07_003G0227_ORIGINALE_V0.md"
+
+    def test_fallback_identita_su_nome_vecchio(self):
+        """Il link punta all'ORIGINALE, il corpus ha solo la VIGENZA."""
+        file_set = {"Codici/2003-08-07_003G0227_VIGENZA_2026-02-25_V0.md"}
+        indice = {"2003-08-07_003G0227": "Codici/2003-08-07_003G0227_VIGENZA_2026-02-25_V0.md"}
+        bp, fn, risolto, via_id = _risolvi_bersaglio(
+            "2003-08-07_003G0227_ORIGINALE_V0.md",
+            Path("Leggi/x.md"),
+            file_set,
+            indice,
+        )
+        assert risolto and via_id
+        assert bp == "Codici/2003-08-07_003G0227_VIGENZA_2026-02-25_V0.md"
+        assert fn == "2003-08-07_003G0227_VIGENZA_2026-02-25_V0.md"
+
+    def test_nessuna_identita(self):
+        bp, fn, risolto, via_id = _risolvi_bersaglio(
+            "Altro/x.md", Path("Leggi/x.md"), set(), {}
+        )
+        assert not risolto and not via_id
+        assert fn == "x.md"
+
+
+class TestVerificaInvarianti:
+    @staticmethod
+    def _arco(fonte, bersaglio, origine="regex", risolto=True):
+        from pathlib import PurePosixPath
+
+        return {
+            "fonte_filename": fonte,
+            "bersaglio_filename": PurePosixPath(bersaglio).name,
+            "bersaglio_path": bersaglio if risolto else "",
+            "origine": origine,
+            "risolto": risolto,
+        }
+
+    def test_pulito_non_solleva(self):
+        archi = [self._arco("Leggi/a.md", "Codici/b.md")]
+        _verifica_invarianti(archi, {"Leggi/a.md", "Codici/b.md"})  # non solleva
+
+    def test_churn_solleva(self):
+        """Molti bersagli non risolti = churn di filename."""
+        archi = [self._arco("Leggi/a.md", f"Altro/x{i}.md", risolto=False) for i in range(60)]
+        with pytest.raises(ValueError, match="possibile churn di filename"):
+            _verifica_invarianti(archi, set())
+
+    def test_pochi_bersagli_non_risolti_ammessi(self):
+        archi = [self._arco("Leggi/a.md", f"Altro/x{i}.md", risolto=False) for i in range(5)]
+        _verifica_invarianti(archi, set())  # 5 <= soglia
+
+    def test_bersaglio_fantasma_solleva(self):
+        archi = [self._arco("Leggi/a.md", "Codici/b.md")]
+        with pytest.raises(ValueError, match="bersagli inesistenti"):
+            _verifica_invarianti(archi, {"Leggi/a.md"})
+
+    def test_fonte_fantasma_solleva(self):
+        archi = [self._arco("Leggi/a.md", "Codici/b.md")]
+        with pytest.raises(ValueError, match="fonte inesistente"):
+            _verifica_invarianti(archi, {"Codici/b.md"})
