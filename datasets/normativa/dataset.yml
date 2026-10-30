@@ -4,7 +4,7 @@ schema_version: 1
 dataset:
   name: "normativa"
   source_id: "italia_corpus"
-  description: "Corpus normativa Italia (Normattiva → AKN/MD): una riga per file atto del corpus. PK tecnico = filename (univoco). urn può ripetersi: is_current marca l'espressione corrente (una sola per urn), versione (ORIGINALE|VIGENZA) e snapshot_data dicono quale. Include qualità grafo, materia tematica, sunsetting e metadati AKN (EIV)."
+  description: "Corpus normativa Italia (Normattiva → AKN/MD): una riga per file atto del corpus. PK tecnico = filename (univoco). urn può ripetersi: is_current marca l'espressione corrente (una sola per urn), versione (ORIGINALE|VIGENZA) e snapshot_data dicono quale. n_citazioni e duplicato sono atto-level: n_citazioni sta sulla riga corrente (le altre 0), duplicato è 0 salvo più espressioni correnti per lo stesso atto. Include qualità grafo, materia tematica, sunsetting e metadati AKN (EIV)."
   tags: [normativa, corpus, legislazione, italia]
   category: normativa
   years: [2026]

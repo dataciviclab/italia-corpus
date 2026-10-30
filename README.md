@@ -123,9 +123,9 @@ Colonne di qualità:
 | `stato` | string | `vigente` \| `abrogato` \| `decaduto` — **status autorevole** Normattiva, atto-level (classe 3 = lista ufficiale "Atti normativi abrogati", o nota whole-act). `decaduto` = collezione "DL decaduti" |
 | `vigente` | bool | `stato == 'vigente'` (il frontmatter MD di Normattiva è inaffidabile) |
 | `vigenza_fonte` | string | Origine di `stato`: `normattiva` (lista ufficiale abrogati, `classeProvvedimento` 3) \| `non_coperto` (assente dalla lista ma con nota whole-act) \| `esclusione` (assente, `vigente` per esclusione) |
-| `duplicato` | bool | Stesso atto (data+numero) presente più volte nel corpus |
-| `n_citazioni` | int | Citazioni in ingresso dal grafo riferimenti |
-| `orfano` | bool | Nessuna citazione in uscita né in ingresso |
+| `duplicato` | bool | Più espressioni **correnti** per lo stesso atto (oggi 0: guardia). Le versioni storiche non sono duplicati |
+| `n_citazioni` | int | Citazioni in ingresso **per atto** (atto-level): il totale sta sulla riga corrente, le altre 0 |
+| `orfano` | bool | **Atto-level**: solo la riga corrente può essere orfana (nessuna citazione in uscita né in ingresso) |
 | `qualita_score` | int | 0-100, più alto = migliore (penalizza duplicati, orfani, stato non vigente) |
 | `materia` | string | Classificazione tematica dal titolo: 25 categorie (fisco, lavoro, ambientale, …). Semantica, validazione e limiti in [docs/MATERIA_AUDIT.md](docs/MATERIA_AUDIT.md) |
 | `n_articoli_cost` | int | Numero di articoli costituzionali citati dall'atto |

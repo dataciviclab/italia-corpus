@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import pandas as pd
 import pytest
-from lab_tools.arricchisci_normativa import _conta_citazioni_per_atto
+from lab_tools.arricchisci_normativa import _calcola_orfano, _conta_citazioni_per_atto
 
 
 def _norm(righe: list[dict]) -> pd.DataFrame:
@@ -94,3 +94,44 @@ class TestContaCitazioniPerAtto:
         rif = _rif([("x.md", "a.md"), ("y.md", "manca.md")])
         with pytest.raises(ValueError, match="invariante"):
             _conta_citazioni_per_atto(norm, rif)
+
+
+class TestOrfanoAttoLevel:
+    @staticmethod
+    def _df(righe):
+        import pandas as pd
+
+        return pd.DataFrame(righe)
+
+    def test_orfano_solo_sulla_corrente(self):
+        df = self._df(
+            [
+                {"filename": "a_ORIG", "urn": "urn:a", "is_current": False, "riferimenti_interni": 0, "n_citazioni": 0},
+                {"filename": "a_VIG", "urn": "urn:a", "is_current": True, "riferimenti_interni": 0, "n_citazioni": 0},
+            ]
+        )
+        out = _calcola_orfano(df)
+        assert out.loc[out["is_current"], "orfano"].tolist() == [True]
+        assert out.loc[~out["is_current"], "orfano"].tolist() == [False]
+
+    def test_citato_non_e_orfano(self):
+        df = self._df(
+            [{"filename": "a.md", "urn": "urn:a", "is_current": True, "riferimenti_interni": 0, "n_citazioni": 3}]
+        )
+        assert not _calcola_orfano(df).loc[0, "orfano"]
+
+    def test_link_su_altra_espressione_basta(self):
+        df = self._df(
+            [
+                {"filename": "a_ORIG", "urn": "urn:a", "is_current": False, "riferimenti_interni": 5, "n_citazioni": 0},
+                {"filename": "a_VIG", "urn": "urn:a", "is_current": True, "riferimenti_interni": 0, "n_citazioni": 0},
+            ]
+        )
+        out = _calcola_orfano(df)
+        assert not out.loc[out["is_current"], "orfano"].any()
+
+    def test_urn_vuoto_per_filename(self):
+        df = self._df(
+            [{"filename": "a.md", "urn": "", "is_current": True, "riferimenti_interni": 0, "n_citazioni": 0}]
+        )
+        assert _calcola_orfano(df).loc[0, "orfano"]
