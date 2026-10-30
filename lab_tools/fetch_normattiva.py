@@ -27,7 +27,7 @@ from lab_tools._paths import (
     load_collezioni,
     load_pin,
 )
-from lab_tools.akn_parser import akn_xml_to_markdown, conta_allegati
+from lab_tools.akn_parser import akn_xml_to_markdown, allegati_to_markdown, conta_allegati
 from lab_tools.akn_relations import (
     extract_from_xml,
     load_staged_akn,
@@ -48,6 +48,8 @@ logger = logging.getLogger(__name__)
 
 MANIFEST_PATH = OUTDIR / "_fetch_manifest.json"
 ALLEGATI_REPORT = OUTDIR / "_allegati_report.json"
+ALLEGATI_DIR = OUTDIR / "allegati"
+ALLEGATI_PARQUET = OUTDIR / "allegati.parquet"
 
 
 def _load_manifest() -> dict:
@@ -212,6 +214,7 @@ def process_collection(
     urn_index: dict[str, str],
     stage_dir: Path | None = None,
     report: dict | None = None,
+    allegati_rows: list[dict] | None = None,
 ) -> int:
     """Scarica, parse, e salva i .md di una collezione. Restituisce il conteggio.
 
@@ -258,6 +261,34 @@ def process_collection(
                 chars_allegati += chars_doc
                 source_path = f"{COLLEZIONI_DIRNAME}/{subdir}/{xml_file.stem}.md"
                 fm, markdown = akn_xml_to_markdown(content, urn_index, source_path)
+
+                # Allegati (#94): il testo dei codici sta qui. Un file per atto
+                # (`allegati/<data_codice>.md`, sezioni `## <doc_name>`), indice
+                # in allegati.parquet. Il corpus resta intatto.
+                docs = allegati_to_markdown(content, urn_index, source_path)
+                if docs:
+                    cod = data_codice(xml_file.stem) or xml_file.stem
+                    blocchi = [f"# Allegati - {cod}", ""]
+                    for d in docs:
+                        blocchi.append(f"## {d['doc_name']}")
+                        blocchi.append("")
+                        blocchi.append(d["markdown"])
+                        blocchi.append("")
+                    (ALLEGATI_DIR / f"{cod}.md").write_text(
+                        "\n".join(blocchi).strip() + "\n", encoding="utf-8"
+                    )
+                    if allegati_rows is not None:
+                        for d in docs:
+                            allegati_rows.append(
+                                {
+                                    "data_codice": cod,
+                                    "urn": fm.urn or "",
+                                    "doc_id": d["doc_id"],
+                                    "doc_name": d["doc_name"],
+                                    "chars": len(d["markdown"]),
+                                    "rel_path": f"allegati/{cod}.md",
+                                }
+                            )
 
                 if stage_dir is not None:
                     try:
@@ -401,7 +432,8 @@ def main() -> None:
     # 4. Process each collection
     total = 0
     failed: list[str] = []
-    manifest = _load_manifest()
+    allegati_rows: list[dict] = []
+    ALLEGATI_DIR.mkdir(parents=True, exist_ok=True)
     report_allegati = _load_allegati_report()
     n_skipped = 0
     with tempfile.TemporaryDirectory(prefix="normattiva-") as tmp:
@@ -433,6 +465,7 @@ def main() -> None:
             count = process_collection(
                 collection, work_dir, COLLEZIONI_ROOT, urn_index,
                 stage_dir=stage_dir, report=report_allegati,
+                allegati_rows=allegati_rows,
             )
             total += count
             if count == 0:
@@ -457,6 +490,22 @@ def main() -> None:
 
         # Salva manifest sempre (aggiorna anche dopo primo run)
         _save_manifest(manifest)
+        if allegati_rows:
+            try:
+                import pandas as pd
+
+                nuovo = pd.DataFrame(allegati_rows)
+                if ALLEGATI_PARQUET.exists():
+                    prev = pd.read_parquet(ALLEGATI_PARQUET)
+                    nuovo = pd.concat(
+                        [prev[~prev["data_codice"].isin(nuovo["data_codice"])], nuovo],
+                        ignore_index=True,
+                    )
+                nuovo.to_parquet(ALLEGATI_PARQUET, index=False)
+                logger.info("allegati: %d doc -> %s", len(nuovo), ALLEGATI_PARQUET)
+            except ImportError:
+                logger.warning("pandas assente: allegati.parquet non scritto")
+
         if report_allegati:
             ALLEGATI_REPORT.write_text(
                 json.dumps(report_allegati, indent=2, sort_keys=True),
@@ -476,6 +525,7 @@ def main() -> None:
                 count = process_collection(
                     collection, work_dir, COLLEZIONI_ROOT, urn_index,
                     stage_dir=stage_dir, report=report_allegati,
+                    allegati_rows=allegati_rows,
                 )
                 total += count
                 if count == 0:

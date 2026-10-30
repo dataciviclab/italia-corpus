@@ -228,6 +228,9 @@ jobs:
         run: |
           gsutil -m rsync -r out/data/clean/ "gs://dataciviclab-clean/italia-corpus/"
           gsutil -m rsync -r out/data/mart/  "gs://dataciviclab-mart/italia-corpus/"
+          if [ -d data/derived/allegati ]; then
+            gsutil -m rsync -r data/derived/allegati/ "gs://dataciviclab-clean/italia-corpus/allegati/"
+          fi
           echo "✅ GCS: dataciviclab-clean|mart/italia-corpus/"
       - name: Commit derived if changed
         run: |

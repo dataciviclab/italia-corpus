@@ -291,6 +291,62 @@ def conta_allegati(content: str) -> tuple[int, int]:
     return n, chars
 
 
+def _doc_id(doc: ET.Element) -> str:
+    """`annesso_1` da `FRBRthis` (attributo o discendente), o stringa vuota."""
+    frbr = doc.get("FRBRthis") or ""
+    if not frbr:
+        for el in doc.iter():
+            valore = el.get("FRBRthis") or el.get("value") or ""
+            if "!main/" in valore:
+                frbr = valore
+                break
+    if not frbr:
+        return ""
+    return frbr.rstrip("/").rsplit("/", 1)[-1]
+
+
+def allegati_to_markdown(
+    content: str,
+    urn_index: dict[str, str],
+    source_path: str,
+) -> list[dict]:
+    """Allegati AKN (`<attachments><doc>`) renderizzati come markdown.
+
+    Ogni voce: `{"doc_id", "doc_name", "markdown"}`. Il markdown è prodotto da
+    `_render_block` sul `mainBody` del doc (nessun parser nuovo). Il `<name>`
+    del doc è il titolo ("Codice civile-art. 1"), non un pattern da assumere.
+    """
+    try:
+        root = ET.fromstring(content)
+    except ET.ParseError:
+        return []
+
+    out: list[dict] = []
+    visti: set[str] = set()
+    for att in root.iter():
+        if _local(att.tag) != "attachments":
+            continue
+        for doc in att.iter():
+            if _local(doc.tag) != "doc":
+                continue
+            doc_id = _doc_id(doc) or f"doc_{len(out) + 1}"
+            if doc_id in visti:
+                continue
+            visti.add(doc_id)
+            main = next((c for c in doc.iter() if _local(c.tag) == "mainBody"), None)
+            lines: list[str] = []
+            if main is not None:
+                _render_block(main, lines, urn_index, source_path, heading_level=3)
+            out.append(
+                {
+                    "doc_id": doc_id,
+                    "doc_name": doc.get("name") or doc_id,
+                    "markdown": "\n".join(lines).strip(),
+                }
+            )
+    return out
+
+
 def akn_xml_to_markdown(
     content: str,
     urn_index: dict[str, str],
