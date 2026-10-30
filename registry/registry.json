@@ -2,7 +2,7 @@
   "schema_version": 1,
   "repo": "italia-corpus",
   "source_repo": "dataciviclab/italia-corpus",
-  "updated_at": "2026-10-26",
+  "updated_at": "2026-10-30",
   "datasets": [
     {
       "slug": "akn_act_meta",
@@ -189,6 +189,12 @@
           "type": "VARCHAR",
           "role": "dimension",
           "description": ""
+        },
+        {
+          "name": "contesto",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
         }
       ],
       "location": {
@@ -200,6 +206,152 @@
       "mart_refs": [
         "akn_relations__mart_relazioni_per_tipo",
         "akn_relations__mart_modifiche_tipizzate"
+      ]
+    },
+    {
+      "slug": "atti_index",
+      "name": "Atti Index",
+      "description": "Catalogo ufficiale Normattiva (una riga per atto, ~205k): identità (codice_redazionale + data GU), stato dalla classe ufficiale (3 = lista abrogati), appartenenza al corpus (in_corpus) e URN quando determinabile. Serve a dire quanto manca e ad agganciare le citazioni a un'identità. Metadati, nessun testo.\n",
+      "source": "",
+      "source_id": "italia_corpus",
+      "period": {
+        "start": 1861,
+        "end": 2026
+      },
+      "tags": [
+        "normativa",
+        "catalogo",
+        "identita",
+        "copertura",
+        "normattiva"
+      ],
+      "category": "normativa",
+      "columns": [
+        {
+          "name": "codice_redazionale",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "data_gu",
+          "type": "DATE",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "classe",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "stato",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": "",
+          "semantic_type": "country_code"
+        },
+        {
+          "name": "denominazione",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "anno",
+          "type": "INTEGER",
+          "role": "dimension",
+          "description": "",
+          "semantic_type": "year"
+        },
+        {
+          "name": "numero",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "data_emanazione",
+          "type": "DATE",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "numero_gu",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "titolo",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "descrizione",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "in_corpus",
+          "type": "BOOLEAN",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "corpus_urn",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "corpus_filename",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "tipo_slug",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "emittente",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "urn",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "urn_fonte",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "fetched_at",
+          "type": "TIMESTAMP",
+          "role": "metric",
+          "description": ""
+        }
+      ],
+      "location": {
+        "type": "gcs",
+        "path": "gs://dataciviclab-clean/italia-corpus/atti_index/2026/atti_index_2026_clean.parquet",
+        "multi_file": false
+      },
+      "stage": "incubating",
+      "mart_refs": [
+        "atti_index__mart_catalogo_copertura"
       ]
     },
     {
@@ -289,6 +441,24 @@
         {
           "name": "codice_redazionale",
           "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "versione",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "snapshot_data",
+          "type": "DATE",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "is_current",
+          "type": "BOOLEAN",
           "role": "dimension",
           "description": ""
         },
@@ -587,6 +757,12 @@
           "type": "VARCHAR",
           "role": "dimension",
           "description": ""
+        },
+        {
+          "name": "clausola_lettura",
+          "type": "BOOLEAN",
+          "role": "dimension",
+          "description": ""
         }
       ],
       "location": {
@@ -640,6 +816,16 @@
       "location": {
         "type": "gcs",
         "path": "gs://dataciviclab-mart/italia-corpus/akn_relations/2026/mart_relazioni_per_tipo.parquet",
+        "multi_file": false
+      }
+    },
+    {
+      "slug": "atti_index__mart_catalogo_copertura",
+      "dataset": "atti_index",
+      "table": "mart_catalogo_copertura",
+      "location": {
+        "type": "gcs",
+        "path": "gs://dataciviclab-mart/italia-corpus/atti_index/2026/mart_catalogo_copertura.parquet",
         "multi_file": false
       }
     },
@@ -713,7 +899,7 @@
       "detail": "anno 2026 — mart: si",
       "action": "",
       "run": {
-        "run_id": "20261026T140112Z_dce1c0a3",
+        "run_id": "20261030T214945Z_b6920bae",
         "year": 2026,
         "status": "SUCCESS",
         "quality_score": {
@@ -722,17 +908,17 @@
           "mart": 100
         },
         "output_rows": {
-          "clean": 20774,
+          "clean": 20783,
           "mart": 242
         },
         "output_bytes": {
-          "raw": 748581,
-          "clean": 406120,
-          "mart": 4252
+          "raw": 763203,
+          "clean": 420408,
+          "mart": 4270
         },
-        "started_at": "2026-10-26T14:01:12.815914+00:00",
-        "finished_at": "2026-10-26T14:01:13.310091+00:00",
-        "duration_seconds": 0.494
+        "started_at": "2026-10-30T21:49:45.662374+00:00",
+        "finished_at": "2026-10-30T21:49:45.874863+00:00",
+        "duration_seconds": 0.212
       }
     },
     {
@@ -743,7 +929,7 @@
       "detail": "anno 2026 — mart: si",
       "action": "",
       "run": {
-        "run_id": "20261026T140113Z_b2d4d060",
+        "run_id": "20261030T214946Z_07b4f318",
         "year": 2026,
         "status": "SUCCESS",
         "quality_score": {
@@ -752,17 +938,47 @@
           "mart": 100
         },
         "output_rows": {
-          "clean": 394811,
+          "clean": 501546,
           "mart": 15
         },
         "output_bytes": {
-          "raw": 8882579,
-          "clean": 12570065,
-          "mart": 2121
+          "raw": 23279631,
+          "clean": 21784124,
+          "mart": 2122
         },
-        "started_at": "2026-10-26T14:01:13.716380+00:00",
-        "finished_at": "2026-10-26T14:01:14.843310+00:00",
-        "duration_seconds": 1.127
+        "started_at": "2026-10-30T21:49:46.147926+00:00",
+        "finished_at": "2026-10-30T21:49:47.415856+00:00",
+        "duration_seconds": 1.268
+      }
+    },
+    {
+      "id": "atti_index",
+      "source_id": "italia_corpus",
+      "status": "ok",
+      "label": "atti_index",
+      "detail": "anno 2026 — mart: si",
+      "action": "",
+      "run": {
+        "run_id": "20261030T214947Z_d7fb9ba8",
+        "year": 2026,
+        "status": "SUCCESS",
+        "quality_score": {
+          "raw": 100,
+          "clean": 100,
+          "mart": 100
+        },
+        "output_rows": {
+          "clean": 205116,
+          "mart": 1678
+        },
+        "output_bytes": {
+          "raw": 19338226,
+          "clean": 10930180,
+          "mart": 10646
+        },
+        "started_at": "2026-10-30T21:49:47.679407+00:00",
+        "finished_at": "2026-10-30T21:49:48.448635+00:00",
+        "duration_seconds": 0.769
       }
     },
     {
@@ -773,7 +989,7 @@
       "detail": "anno 2026 — mart: si",
       "action": "",
       "run": {
-        "run_id": "20261026T140115Z_e8ec3f84",
+        "run_id": "20261030T214948Z_75a32bc9",
         "year": 2026,
         "status": "SUCCESS",
         "quality_score": {
@@ -782,17 +998,17 @@
           "mart": 100
         },
         "output_rows": {
-          "clean": 22017,
-          "mart": 120
+          "clean": 22402,
+          "mart": 123
         },
         "output_bytes": {
-          "raw": 2815620,
-          "clean": 1638106,
-          "mart": 6089
+          "raw": 2877102,
+          "clean": 1670430,
+          "mart": 6188
         },
-        "started_at": "2026-10-26T14:01:15.253573+00:00",
-        "finished_at": "2026-10-26T14:01:15.612910+00:00",
-        "duration_seconds": 0.359
+        "started_at": "2026-10-30T21:49:48.704401+00:00",
+        "finished_at": "2026-10-30T21:49:48.976923+00:00",
+        "duration_seconds": 0.273
       }
     },
     {
@@ -803,7 +1019,7 @@
       "detail": "anno 2026 — mart: si",
       "action": "",
       "run": {
-        "run_id": "20261026T140116Z_501796f6",
+        "run_id": "20261030T214949Z_23adca53",
         "year": 2026,
         "status": "SUCCESS",
         "quality_score": {
@@ -812,17 +1028,17 @@
           "mart": 100
         },
         "output_rows": {
-          "clean": 136439,
-          "mart": 205
+          "clean": 200080,
+          "mart": 206
         },
         "output_bytes": {
-          "raw": 11273376,
-          "clean": 4646731,
-          "mart": 8898
+          "raw": 14896759,
+          "clean": 6839016,
+          "mart": 12292
         },
-        "started_at": "2026-10-26T14:01:16.037670+00:00",
-        "finished_at": "2026-10-26T14:01:16.652917+00:00",
-        "duration_seconds": 0.615
+        "started_at": "2026-10-30T21:49:49.237341+00:00",
+        "finished_at": "2026-10-30T21:49:49.891607+00:00",
+        "duration_seconds": 0.654
       }
     }
   ],
@@ -834,6 +1050,12 @@
         "label": "Nazione",
         "datasets": [
           {
+            "slug": "atti_index",
+            "name": "Atti Index",
+            "column": "stato",
+            "semantic_type": "country_code"
+          },
+          {
             "slug": "normativa",
             "name": "Normativa",
             "column": "stato",
@@ -841,7 +1063,22 @@
           }
         ],
         "types": {
-          "country_code": 1
+          "country_code": 2
+        }
+      },
+      "Tempo": {
+        "entity": "Tempo",
+        "label": "Tempo / data",
+        "datasets": [
+          {
+            "slug": "atti_index",
+            "name": "Atti Index",
+            "column": "anno",
+            "semantic_type": "year"
+          }
+        ],
+        "types": {
+          "year": 1
         }
       }
     },
