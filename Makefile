@@ -1,4 +1,4 @@
-.PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-vigenza integra-akn sunsetting citazioni pnrr abrogations fetch-status akn-relations \
+.PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-vigenza integra-akn sunsetting citazioni pnrr abrogations fetch-status akn-relations atti-index \
  toolkit-check toolkit-run toolkit-all check
 
 # Pipeline completa (senza fetch — fetch è CI/manuale)
@@ -56,6 +56,10 @@ integra-vigenza:
 
 fetch-status:
 	python -m lab_tools.fetch_status
+
+# Indice del catalogo Normattiva (metadati, nessun testo) — richiede normativa.parquet
+atti-index:
+	python -m lab_tools.atti_index
 
 citazioni:
 	python -m lab_tools.estrai_citazioni_costituzionali

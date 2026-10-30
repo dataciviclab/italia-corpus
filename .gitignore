@@ -25,3 +25,7 @@ data/derived/allegati/
 # Status Normattiva (rigenerato in CI da `fetch-status`; non committato:
 # pesante ~15MB e soggetto a drift — riproducibile con `make fetch-status`)
 data/derived/status.parquet
+
+# Indice catalogo Normattiva (rigenerato da `atti-index`; ~200k atti, drift
+# quotidiano — non committato: pubblicato dal layer toolkit, letto da legal-graph)
+data/derived/atti_index.parquet

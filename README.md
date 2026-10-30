@@ -11,10 +11,11 @@ a Markdown. Tutto cercabile per testo, struttura e materia.
 
 | | |
 |---|---|
-| **Atti normativi** | 22.402 (12.241 vigenti, 8.400 abrogati, 1.761 decaduti) |
+| **Atti normativi** | 22.402 espressioni / **20.782 atti distinti** (12.241 righe vigenti, 8.400 abrogate, 1.761 decadute) |
 | **Collezioni** | 20 (DL e conversioni, decreti legislativi, codici, testi unici, DPCM...) |
 | **Riferimenti incrociati** | 200.080 archi tra atti |
 | **Materie** | 25 categorie (fisco, ambientale, lavoro, giustizia, etc.) |
+| **Copertura del catalogo** | **20.780 atti su 205.115** del catalogo ufficiale Normattiva (10,1%) — il denominatore è in `atti_index` (`make atti-index`), non stimato |
 | **Aggiornamento** | Fetch giornaliero diretto dall'API Normattiva |
 
 ## Esempi di domande
