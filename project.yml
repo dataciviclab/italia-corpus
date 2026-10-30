@@ -45,6 +45,13 @@ outputs:
       → stato (solo 'abrogato', classe 3 = lista ufficiale "Atti normativi
       abrogati"). Da ricerca/avanzata (filtro classeProvvedimento).
       Consumato da integra-vigenza. Non committato (rigenerato da fetch-status).
+  - path: data/derived/allegati.parquet
+    kind: index
+    contract: >
+      indice allegati AKN: data_codice + doc_id -> doc_name, chars, hash,
+      versione, snapshot_data, rel_path. Contenuto in GCS
+      (italia-corpus/allegati/), indice committato (runner CI effimero).
+      Consumato da legal-graph (legal_text, slice per doc_name).
   - path: data/derived/riferimenti.parquet
     kind: graph_edges
     contract: >

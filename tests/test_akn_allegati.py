@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from lab_tools.akn_parser import conta_allegati
+from lab_tools.akn_parser import allegati_to_markdown, conta_allegati
 
 XML = """<?xml version="1.0"?>
 <akn>
@@ -49,3 +49,52 @@ class TestContaAllegati:
 
     def test_xml_malformato(self):
         assert conta_allegati("<akn><attachments>") == (0, 0)
+
+
+XML_DOC = """<?xml version="1.0"?>
+<akn xmlns="http://www.normattiva.it/akn">
+  <attachments>
+    <doc name="Codice Penale-art. 1"
+         FRBRthis="urn:nir:stato:regio.decreto:1930-10-19;1398/!main/annesso_1">
+      <mainBody>
+        <article><num>Art. 1</num><heading>Dei reati</heading>
+          <paragraph><content><p>Testo dell'articolo.</p></content></paragraph>
+        </article>
+      </mainBody>
+    </doc>
+  </attachments>
+</akn>"""
+
+
+class TestAllegatiMarkdown:
+    def test_render_doc(self):
+        docs = allegati_to_markdown(XML_DOC, {}, "x.md")
+        assert len(docs) == 1
+        assert docs[0]["doc_id"] == "annesso_1"
+        assert docs[0]["doc_name"] == "Codice Penale-art. 1"
+        assert "Art. 1" in docs[0]["markdown"]
+        assert "Testo dell'articolo." in docs[0]["markdown"]
+
+    def test_senza_frbr_usa_indice(self):
+        xml = '<akn><attachments><doc name="A"><mainBody><p>x</p></mainBody></doc></attachments></akn>'
+        docs = allegati_to_markdown(xml, {}, "x")
+        assert docs[0]["doc_id"] == "doc_1"
+
+    def test_senza_mainbody(self):
+        xml = '<akn><attachments><doc name="A"></doc></attachments></akn>'
+        docs = allegati_to_markdown(xml, {}, "x")
+        assert docs[0]["markdown"] == ""
+
+    def test_xml_malformato(self):
+        assert allegati_to_markdown("<akn>", {}, "x") == []
+
+    def test_doc_duplicati_suffissati(self):
+        xml = (
+            '<akn><attachments>'
+            '<doc name="A" FRBRthis="u/!main/annesso_1"><mainBody><p>a</p></mainBody></doc>'
+            '<doc name="B" FRBRthis="u/!main/annesso_1"><mainBody><p>b</p></mainBody></doc>'
+            '</attachments></akn>'
+        )
+        docs = allegati_to_markdown(xml, {}, "x")
+        assert len(docs) == 2
+        assert docs[1]["doc_id"] == "annesso_1#2"
