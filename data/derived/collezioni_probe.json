@@ -76,7 +76,7 @@
     "O": "2026-11-02"
    },
    "stato": "congelata",
-   "senza_pin_da": 5
+   "senza_pin_da": 6
   },
   {
    "nome": "DL decaduti",
@@ -196,7 +196,7 @@
     "O": "2026-11-02"
    },
    "stato": "congelata",
-   "senza_pin_da": 5
+   "senza_pin_da": 6
   },
   {
    "nome": "Decreti legislativi luogotenenziali",
@@ -278,7 +278,7 @@
     "O": "2026-11-02"
    },
    "stato": "congelata",
-   "senza_pin_da": 5
+   "senza_pin_da": 6
   },
   {
    "nome": "Leggi di delegazione europea",
@@ -338,7 +338,7 @@
     "O": "2026-11-02"
    },
    "stato": "congelata",
-   "senza_pin_da": 5
+   "senza_pin_da": 6
   },
   {
    "nome": "Regi decreti",
@@ -461,9 +461,9 @@
     "O": "2026-11-02"
    },
    "stato": "congelata",
-   "senza_pin_da": 5
+   "senza_pin_da": 6
   }
  ],
  "cambiamenti": [],
- "probed_at": "2026-11-02T11:38:16"
+ "probed_at": "2026-11-02T13:44:47"
 }
