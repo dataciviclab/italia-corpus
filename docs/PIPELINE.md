@@ -40,7 +40,7 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 | 1 | **fetch** | `python -m lab_tools.fetch_normattiva [--only …]` | MD + `akn_*.parquet` (staging + merge) |
 | 1b | **fetch-status** | `python -m lab_tools.fetch_status` | `status.parquet` (solo **abrogati**, classe 3 = lista ufficiale; no testo) |
 | 2 | **extract** | `python -m lab_tools.extract` | `normativa.parquet` (metadati base) |
-| 2b | **atti-index** | `python -m lab_tools.atti_index` | `atti_index.parquet` (catalogo ufficiale, ~205k atti: identità, `stato` da classe 3, `in_corpus`) |
+| 2b | **atti-index** | `python -m lab_tools.atti_index` | `atti_index.parquet` (catalogo ufficiale, ~205k atti: identità, `stato` da classe 3, `in_corpus`, `materia`) |
 | 3 | **classifica** | `python -m lab_tools.classifica_tematich` | + `materia` (vedi [MATERIA_AUDIT.md](MATERIA_AUDIT.md)) |
 | 4 | **citazioni/pnrr/abrogations** | moduli `estrai_*` / `extract_*` | side product su disco |
 | 5 | **integra** | `python -m lab_tools.integra_costituzionali` | + cit. cost. / abrogazioni **da side product** |
@@ -110,7 +110,7 @@ coincide con la collezione ufficiale **"Atti normativi abrogati"** (~124k atti)
 | `status.parquet` | status atto-level autorevole (`codice_redazionale`+`data_gu` → `stato`, `classe`) | `integra-vigenza` (non pubblicato, non committato) |
 | `atti_api.parquet` | leggi ordinarie fuori collezione (fetch `dettaglio-atto-urn`: vigenza + HTML) | legal-graph (nodi + target euristiche `attua_delega`) |
 | `collezioni_probe.json` | formati disponibili per collezione (O/V/M), `numeroAtti`, `dataCreazione`, stato del pin e `senza_pin_da` (probe consecutivi congelati) — **committato**: è la storia dei cambi di formato della fonte | diagnosi freeze, CI | 
-| `atti_index.parquet` | catalogo ufficiale Normattiva: una riga per atto, PK `(codice_redazionale, data_gu)`, `stato` da classeProvvedimento (3 = lista abrogati), `in_corpus`, `urn`/`urn_fonte` appresa — **non committato**, pubblicato dal layer toolkit (`datasets/atti-index/`) | legal-graph (identità degli edge di citazione), analisi di copertura |
+| `atti_index.parquet` | catalogo ufficiale Normattiva: una riga per atto, PK `(codice_redazionale, data_gu)`, `stato` da classeProvvedimento (3 = lista abrogati), `in_corpus`, `urn`/`urn_fonte` appresa, `materia` (classificatore del corpus, calcolata sull'oggetto) — **non committato**, pubblicato dal layer toolkit (`datasets/atti-index/`) | legal-graph (identità degli edge di citazione e filtri tematici dei nodi catalogo), analisi di copertura |
 | `riferimenti.parquet` | archi `peso`, `risolto`, `origine` (regex\|akn), `bersaglio_urn` (anche fuori corpus) | legal-graph, debt |
 | `allegati.parquet` | indice allegati AKN: `data_codice`+`doc_id` → `doc_name`, `chars`, `hash`, `versione`, `rel_path` (contenuto su GCS) | legal-graph (`legal_text`) |
 | `akn_relations.parquet` | relazioni AKN tipizzate (full-corpus su fetch completo) | clean/tabella propria, debug |
@@ -161,6 +161,7 @@ I parquet derived **non** sono rigenerati in questa PR: al prossimo build CI il 
   - `publish`: `make atti-index` (pre-run, artefatto non committato) + `toolkit-run` + rsync
     `gs://dataciviclab-clean|mart/italia-corpus/` + registry draft PR
 - `toolkit-run` salta `datasets/atti-index` se l'artefatto manca (guardia esplicita)
+- Il clean `atti-index` richiede la colonna `materia` nel parquet derivato: in CI c'è `make atti-index` prima del publish, **in locale** un `atti_index.parquet` vecchio fa fallire `make toolkit-run` finché non si rigenera
 - Dual-publish: derived resta in git per MCP; clean+mart su GCS sono il contratto Lab
 - Warning attesi: `riferimenti` clean droppa denorm non usati da LG
 

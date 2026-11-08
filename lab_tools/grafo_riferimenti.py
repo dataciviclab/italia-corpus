@@ -395,6 +395,15 @@ def _archi_da_akn_relations(
     # Due metriche separate: la copertura del lookup (target trovati) e il
     # volume delle citazioni emesse (include i bersagli fuori corpus).
     n_cit = len(cit)
+    # Invariante: ogni riga di input finisce in **una** classe (fonte assente,
+    # risolta, fuori corpus). Un `continue` non conteggiato in futuro non deve
+    # passare in silenzio: era il gate che il rewrite di questa funzione aveva
+    # perso.
+    classificate = n_skip_fonte + n_risolti + n_fuori_corpus
+    if classificate != n_cit:
+        raise ValueError(
+            f"conteggi AKN incoerenti: {classificate} classificati != {n_cit} righe di input"
+        )
     # La soglia è un gate sul corpus intero: su input piccoli (test, smoke) il
     # rapporto non è informativo.
     if n_cit >= 100 and n_risolti / n_cit < 0.30:

@@ -423,3 +423,53 @@ class TestCitationFuoriCorpus:
         archi = g._archi_da_akn_relations({}, self.MAPPA)
         assert len(archi) == 2
         assert len({a["bersaglio_urn"] for a in archi}) == 2
+
+    def test_fonte_assente_saltata_conteggi_coerenti(self, tmp_path, monkeypatch):
+        """Righe senza fonte si saltano; l'invariante di conteggio
+        (skip + risolti + fuori corpus == righe) resta verificato.
+
+        Il gate è stato perso nel rewrite che ha introdotto i nodi fuori
+        corpus: senza, un `continue` non conteggiato passerebbe in silenzio.
+        """
+        import pandas as pd
+        from lab_tools import grafo_riferimenti as g
+        from lab_tools.urn import expand_index
+
+        df = pd.DataFrame(
+            [
+                {
+                    "fonte_urn": "urn:nir:stato:legge:2021-01-01;9",
+                    "target_urn": "urn:nir:stato:legge:1990-08-07;241",
+                    "rel_type": "citation",
+                    "origin": "ref",
+                    "detail": "href",
+                    "contesto": "",
+                },
+                {
+                    "fonte_urn": "urn:nir:stato:legge:2020-01-01;1",
+                    "target_urn": "urn:nir:stato:legge:1990-08-07;241",
+                    "rel_type": "citation",
+                    "origin": "ref",
+                    "detail": "href",
+                    "contesto": "",
+                },
+                {
+                    "fonte_urn": "urn:nir:stato:legge:2020-01-01;1",
+                    "target_urn": "urn:nir:stato:legge:2019-01-10;2",
+                    "rel_type": "citation",
+                    "origin": "ref",
+                    "detail": "href",
+                    "contesto": "",
+                },
+            ]
+        )
+        df.to_parquet(tmp_path / "akn_relations.parquet")
+        monkeypatch.setattr(g, "OUTDIR", tmp_path)
+        mappa = expand_index(
+            [
+                ("urn:nir:stato:legge:2020-01-01;1", "Leggi/2020.md"),
+                ("urn:nir:stato:legge:2019-01-10;2", "Leggi/2019.md"),
+            ]
+        )
+        archi = g._archi_da_akn_relations({}, mappa)
+        assert len(archi) == 2, "la riga con fonte assente deve essere saltata"
