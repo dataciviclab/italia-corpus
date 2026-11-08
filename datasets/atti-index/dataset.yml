@@ -8,8 +8,9 @@ dataset:
     Catalogo ufficiale Normattiva (una riga per atto, ~205k): identità
     (codice_redazionale + data GU), stato dalla classe ufficiale
     (3 = lista abrogati), appartenenza al corpus (in_corpus) e URN quando
-    determinabile. Serve a dire quanto manca e ad agganciare le citazioni
-    a un'identità. Metadati, nessun testo.
+    determinabile. `materia` è il classificatore tematico del corpus, così i
+    nodi catalogo di legal-graph entrano nei filtri per materia. Metadati,
+    nessun testo.
   tags: [normativa, catalogo, identita, copertura, normattiva]
   category: normativa
   years: [2026]
@@ -43,6 +44,7 @@ clean:
     - in_corpus
     - urn
     - urn_fonte
+    - materia
   validate:
     # l'atto è identificato da codice redazionale + data GU: il codice è
     # riciclato (stesso codice per atti diversi in anni diversi)

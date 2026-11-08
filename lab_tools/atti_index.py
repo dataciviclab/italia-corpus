@@ -10,7 +10,7 @@ Questo stage enumera il catalogo ufficiale via `POST /ricerca/avanzata`
 
     codice_redazionale, data_gu, classe, stato, denominazione, anno, numero,
     data_emanazione, ..., in_corpus, corpus_urn, corpus_filename,
-    urn, urn_fonte, fetched_at
+    urn, urn_fonte, materia, fetched_at
 
 Identità e join:
 
@@ -52,6 +52,7 @@ import re
 from datetime import datetime
 
 from lab_tools._paths import OUTDIR
+from lab_tools.classifica_tematich import _classifica_oggetto
 from lab_tools.identity import data_codice
 from lab_tools.normattiva_client import (
     CLASSE_ABROGATO,
@@ -110,6 +111,21 @@ def build_rows(atti_per_classe: list[tuple[str, list[dict]]]) -> list[dict]:
 # abrogato → classe 2 e classe 3). La classe 3 è la lista ufficiale abrogati:
 # vince, perché è lo stesso criterio di `integra_vigenza`.
 PRECEDENZA_CLASSE = {CLASSE_ABROGATO: 3, "2": 2, "1": 1}
+
+
+def arricchisci_materia(righe: list[dict]) -> None:
+    """Aggiunge `materia` (classificatore del corpus) a ogni riga, in place.
+
+    Serve a legal-graph: i nodi catalogo sono costruiti da queste righe e senza
+    `materia` sarebbero invisibili a `legal_search(materia=…)`.
+
+    In `atti_index` l'oggetto **descrittivo** è `titolo` (da `titoloAtto`);
+    `descrizione` è l'intestazione ("DECRETO-LEGGE 9 luglio 2024, n. 100") e
+    vale solo come fallback.
+    """
+    for r in righe:
+        oggetto = (r.get("titolo") or "").strip() or (r.get("descrizione") or "")
+        r["materia"] = _classifica_oggetto(oggetto)
 
 
 def deduplica(righe: list[dict]) -> tuple[list[dict], int]:
@@ -403,6 +419,9 @@ def main() -> int:
     righe, n_dedup = deduplica(righe)
     if n_dedup:
         logger.info("dedup catalogo: %d righe doppie (stesso codice+data in più classi)", n_dedup)
+
+    # materia: i nodi catalogo di legal-graph la leggono (filtri tematici).
+    arricchisci_materia(righe)
 
     corpus_path = args.corpus
     if corpus_path is None:
