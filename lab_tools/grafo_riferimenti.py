@@ -154,10 +154,15 @@ def _stampa_metriche(archi: list[dict], file_set_size: int):
         print("Nessun arco estratto.")
         return
 
-    citati = set(a["bersaglio_filename"] for a in archi)
+    citati = set(
+        (a.get("bersaglio_urn") or a["bersaglio_filename"]) for a in archi
+    )
     fonti = set(a["fonte_filename"] for a in archi)
     risolti = sum(1 for a in archi if a["risolto"])
     non_risolti = total - risolti
+    fuori_corpus = sum(
+        1 for a in archi if a.get("origine") == "akn" and not a["risolto"]
+    )
     by_orig = Counter(a.get("origine", "regex") for a in archi)
 
     print("\n📊 Grafo riferimenti — metriche")
@@ -165,6 +170,7 @@ def _stampa_metriche(archi: list[dict], file_set_size: int):
     print(f"  Archi totali:        {total:>8,}")
     print(f"  Risolvibili:         {risolti:>8,} ({risolti/total*100:.1f}%)" if total else "")
     print(f"  Non risolvibili:     {non_risolti:>8,} ({non_risolti/total*100:.1f}%)" if total else "")
+    print(f"  Di cui AKN fuori corpus (URN): {fuori_corpus:>8,}")
     print(f"  Per origine:         {dict(by_orig)}")
     print(f"  Atti citanti (fonti): {len(fonti):>8,}")
     print(f"  Atti citati (bers.): {len(citati):>8,}")
@@ -219,6 +225,9 @@ def _chiave_arco(a: dict) -> tuple[str, str, str]:
     Attenzione al caso **regex non risolto**: `bersaglio_path` è vuoto e la PK
     usa `bersaglio_filename` (il link grezzo). Usare `bersaglio_path` nudo
     fonderebbe tutti gli unresolved di un file in una sola chiave.
+
+    Per le citation **AKN non risolte** non esiste alcun filename: la PK usa
+    `bersaglio_urn` (atto fuori corpus, es. L. 241/1990).
     """
     fonte_fn = a.get("fonte_filename") or ""
     bersaglio_fn = a.get("bersaglio_filename") or ""
@@ -234,12 +243,16 @@ def _chiave_arco(a: dict) -> tuple[str, str, str]:
 
     if bersaglio_path:
         bersaglio_source_path = bersaglio_path
-    elif "/" in bersaglio_fn:
+    elif bersaglio_fn and "/" in bersaglio_fn:
         bersaglio_source_path = bersaglio_fn
-    elif fonte_col:
-        bersaglio_source_path = f"{fonte_col}/{bersaglio_fn}"
+    elif bersaglio_fn:
+        bersaglio_source_path = f"{fonte_col}/{bersaglio_fn}" if fonte_col else bersaglio_fn
+    elif a.get("bersaglio_urn"):
+        # citation AKN verso un atto **fuori corpus**: non esiste un filename,
+        # l'identità stabile del bersaglio è l'URN.
+        bersaglio_source_path = a["bersaglio_urn"]
     else:
-        bersaglio_source_path = bersaglio_fn
+        bersaglio_source_path = ""
 
     return (fonte_source_path, bersaglio_source_path, a.get("origine") or "")
 
@@ -275,11 +288,30 @@ def _verifica_pk_unica(archi: list[dict]) -> None:
         )
 
 
+def _urn_anno_tipo(urn: str) -> tuple[int, str]:
+    """(anno, tipo) leggibili da un URN NIR, anche senza giorno/mese.
+
+    Serve solo ai bersagli **fuori corpus**, per cui non c'è una riga di
+    `normativa.parquet` da cui prendere anno e tipo.
+    """
+    m = re.match(r"^urn:nir:[^:]+:([^:]+):(\d{4})", (urn or "").strip())
+    if not m:
+        return (0, "")
+    return (int(m.group(2)), m.group(1))
+
+
 def _archi_da_akn_relations(
     normativa: dict[str, dict],
     urn_to_fn: dict[str, str],
 ) -> list[dict]:
-    """Cita AKN (origin=ref) con entrambe le estremità risolte nel corpus.
+    """Citation AKN (origin=ref) con la **fonte** nel corpus.
+
+    Il bersaglio può essere fuori corpus (leggi ordinarie assenti dalle
+    collezioni, es. L. 241/1990): l'arco si emette comunque con
+    ``risolto=False`` e ``bersaglio_urn`` valorizzato. Scartarlo perderebbe la
+    citazione — 19.700 bersagli / ~180.000 citazioni sul corpus 2026-11 — e
+    legal-graph non potrebbe agganciarla ai nodi (`atti_api`, stub).
+    Se manca la fonte l'arco non è attribuibile e viene saltato.
 
     Aggiunge archi con origine='akn', peso=1. Non sovrascrive il grafo regex:
     il consumatore distingue da colonna `origine`.
@@ -303,26 +335,30 @@ def _archi_da_akn_relations(
         return []
 
     archi: list[dict] = []
-    n_skip = 0
-    n_target_ok = 0
-    # contatori per regola + invariante: ogni riga di input finisce in una classe
-    conteggi: Counter[str] = Counter()
+    n_skip_fonte = 0
+    n_risolti = 0
+    n_fuori_corpus = 0
+    per_regola: Counter[str] = Counter()
+
     for _, row in cit.iterrows():
         f_urn, t_urn = row.get("fonte_urn"), row.get("target_urn")
         f_fn = urn_lookup(urn_to_fn, f_urn)
-        t_fn = urn_lookup(urn_to_fn, t_urn)
-        if t_fn:
-            n_target_ok += 1
-        if not f_fn or not t_fn:
-            n_skip += 1
-            conteggi[
-                "skip:entrambe" if not f_fn and not t_fn else ("skip:fonte" if not f_fn else "skip:bersaglio")
-            ] += 1
+        if not f_fn:
+            # fonte assente dal corpus: l'arco non è attribuibile a un atto
+            n_skip_fonte += 1
             continue
-        conteggi[f"bersaglio:{urn_regola(urn_to_fn, t_urn)}"] += 1
-        conteggi[f"fonte:{urn_regola(urn_to_fn, f_urn)}"] += 1
+        t_fn = urn_lookup(urn_to_fn, t_urn)
+        is_risolto = bool(t_fn)
+        if is_risolto:
+            n_risolti += 1
+            per_regola[urn_regola(urn_to_fn, t_urn) or "?"] += 1
+        else:
+            # atto fuori corpus: la citazione non si butta, si aggancia all'URN
+            n_fuori_corpus += 1
+
         f_meta = normativa.get(Path(f_fn).name, {})
-        t_meta = normativa.get(Path(t_fn).name, {})
+        t_meta = normativa.get(Path(t_fn).name, {}) if is_risolto else {}
+        anno_urn, tipo_urn = _urn_anno_tipo(t_urn)
         # pandas: le righe senza contesto sono NaN (float), non None/"".
         _contesto = row.get("contesto")
         contesto = _contesto.strip() if isinstance(_contesto, str) else ""
@@ -334,15 +370,18 @@ def _archi_da_akn_relations(
                 "fonte_tipo": f_meta.get("tipo", ""),
                 "fonte_materia": f_meta.get("materia", ""),
                 "fonte_stato": f_meta.get("stato", ""),
-                "bersaglio_filename": Path(t_fn).name,
-                "bersaglio_path": t_fn,
-                "bersaglio_collezione": Path(t_fn).parent.name,
-                "bersaglio_anno": t_meta.get("anno_atto", 0),
-                "bersaglio_tipo": t_meta.get("tipo", ""),
+                "bersaglio_filename": Path(t_fn).name if is_risolto else "",
+                "bersaglio_path": t_fn or "",
+                # Identità del bersaglio anche fuori corpus: legal-graph la usa
+                # per agganciare la citazione ai nodi (atti_api/stub).
+                "bersaglio_urn": (t_urn or "").strip(),
+                "bersaglio_collezione": Path(t_fn).parent.name if is_risolto else "",
+                "bersaglio_anno": t_meta.get("anno_atto", anno_urn),
+                "bersaglio_tipo": t_meta.get("tipo", "") or tipo_urn,
                 "bersaglio_materia": t_meta.get("materia", ""),
                 "bersaglio_stato": t_meta.get("stato", ""),
                 "peso": 1,
-                "risolto": True,
+                "risolto": is_risolto,
                 "origine": "akn",
                 "rel_type": "citation",
                 # Contesto catturato da akn_relations (paragrafo del <ref>).
@@ -352,36 +391,34 @@ def _archi_da_akn_relations(
                 "clausola_lettura": clausola_di_lettura(contesto),
             }
         )
-    # invariante: ogni riga di input è classificata (2 voci se risolta: fonte e
-    # bersaglio; 1 se scartata). Se non torna, c'è un ramo non contato.
-    classificate = sum(conteggi.values())
-    if classificate != len(cit) + len(archi):
-        raise ValueError(
-            f"conteggi AKN incoerenti: {classificate} != {len(cit)} input + {len(archi)} archi"
-        )
-    # Due metriche separate: la copertura del lookup (target trovati) e il
-    # rapporto coppie complete (influenzato dal dedup, non dalla risoluzione).
-    # Un unico rapporto confonderebbe un dedup in più con una regressione.
-    n_cit = len(cit)
-    if n_cit and n_target_ok / n_cit < 0.30:
-        raise ValueError(
-            f"invariante AKN: lookup risolve {n_target_ok}/{n_cit} target "
-            f"({n_target_ok / n_cit:.1%}, soglia 30%) — possibile regressione di urn.lookup"
-        )
-    if n_target_ok:
-        print(
-            f"  AKN target risolti: {n_target_ok}/{n_cit} ({n_target_ok / n_cit:.1%}) · "
-            f"coppie complete: {len(archi)}/{n_target_ok} "
-            f"({len(archi) / n_target_ok:.1%}, dedup escluso)"
-        )
-    per_regola = Counter(
-        {k.split(":", 1)[1]: v for k, v in conteggi.items() if k.startswith("bersaglio:")}
-    )
-    print(f"  AKN citations in corpus: {len(archi)} (skip esterne: {n_skip})")
-    print(f"  AKN per regola (bersaglio): {dict(per_regola.most_common())}")
-    print(f"  AKN skip: {dict((k, v) for k, v in conteggi.items() if k.startswith('skip:'))}")
 
-    # Dedup per coppia risolta (fonte, bersaglio, origine): l'alias URN
+    # Due metriche separate: la copertura del lookup (target trovati) e il
+    # volume delle citazioni emesse (include i bersagli fuori corpus).
+    n_cit = len(cit)
+    # Invariante: ogni riga di input finisce in **una** classe (fonte assente,
+    # risolta, fuori corpus). Un `continue` non conteggiato in futuro non deve
+    # passare in silenzio: era il gate che il rewrite di questa funzione aveva
+    # perso.
+    classificate = n_skip_fonte + n_risolti + n_fuori_corpus
+    if classificate != n_cit:
+        raise ValueError(
+            f"conteggi AKN incoerenti: {classificate} classificati != {n_cit} righe di input"
+        )
+    # La soglia è un gate sul corpus intero: su input piccoli (test, smoke) il
+    # rapporto non è informativo.
+    if n_cit >= 100 and n_risolti / n_cit < 0.30:
+        raise ValueError(
+            f"invariante AKN: lookup risolve {n_risolti}/{n_cit} target "
+            f"({n_risolti / n_cit:.1%}, soglia 30%) — possibile regressione di urn.lookup"
+        )
+    print(
+        f"  AKN target risolti: {n_risolti}/{n_cit} ({n_risolti / n_cit:.1%}) · "
+        f"fuori corpus: {n_fuori_corpus} · fonti assenti: {n_skip_fonte}"
+    )
+    print(f"  AKN per regola (bersaglio risolto): {dict(per_regola.most_common())}")
+    print(f"  AKN citations emesse: {len(archi)}")
+
+    # Dedup per coppia (fonte, bersaglio, origine): l'alias URN
     # (lab_tools/urn.py) fa risolvere forme diverse della stessa citazione sullo
     # stesso file, quindi due righe AKN possono produrre lo stesso arco.
     distinti = _dedup_archi(archi)
@@ -445,6 +482,19 @@ def _verifica_invarianti(archi: list[dict], file_set: set[str]) -> None:
         print(
             f"  ⚠ bersagli non risolti (atti assenti dal corpus): "
             f"{len(bersagli_non_risolti)} ({len(non_risolti)} link) — {esempi}"
+        )
+
+    # I bersagli AKN fuori corpus devono conservare l'identità: senza URN la
+    # citazione è stata emessa ma non è agganciabile da legal-graph.
+    akn_senza_urn = [
+        a
+        for a in archi
+        if a.get("origine") == "akn" and not a.get("risolto") and not a.get("bersaglio_urn")
+    ]
+    if akn_senza_urn:
+        raise ValueError(
+            f"invariante: {len(akn_senza_urn)} citation AKN fuori corpus senza "
+            f"bersaglio_urn (es. fonte {akn_senza_urn[0].get('fonte_filename')})"
         )
 
     fantasmi = [
@@ -536,6 +586,9 @@ def main():
                     "fonte_stato": fonte_meta.get("stato", ""),
                     "bersaglio_filename": bersaglio_fn,
                     "bersaglio_path": bp or "",
+                    # I link regex non espongono un URN: la colonna resta vuota
+                    # (le citation AKN invece la valorizzano, anche fuori corpus).
+                    "bersaglio_urn": "",
                     "bersaglio_collezione": bersaglio_meta.get("collezione", ""),
                     "bersaglio_anno": bersaglio_meta.get("anno_atto", 0),
                     "bersaglio_tipo": bersaglio_meta.get("tipo", ""),

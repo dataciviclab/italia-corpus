@@ -28,6 +28,7 @@ SELECT
     NULLIF(normalize_string(emittente), '')                      AS emittente,
     NULLIF(normalize_string(urn), '')                            AS urn,
     NULLIF(normalize_string(urn_fonte), '')                      AS urn_fonte,
+    COALESCE(NULLIF(normalize_string(materia), ''), 'altro')     AS materia,
     TRY_CAST(fetched_at AS TIMESTAMP)                            AS fetched_at
 FROM raw_input
 WHERE NULLIF(normalize_string(codice_redazionale), '') IS NOT NULL

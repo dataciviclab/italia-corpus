@@ -150,6 +150,12 @@ class TestChiaveArco:
         a = _arco("Leggi/a.md", bersaglio_path="", bersaglio_fn="Altro/x.md", origine="regex")
         assert _chiave_arco(a) == ("Leggi/a.md", "Altro/x.md", "regex")
 
+    def test_akn_fuori_corpus_usa_urn(self):
+        """Citation AKN senza filename: la PK usa `bersaglio_urn`."""
+        a = _arco("Leggi/a.md", bersaglio_path="", bersaglio_fn="", origine="akn")
+        a["bersaglio_urn"] = "urn:nir:stato:legge:1990-08-07;241"
+        assert _chiave_arco(a) == ("Leggi/a.md", "urn:nir:stato:legge:1990-08-07;241", "akn")
+
 
 class TestDedupArchi:
     """Un arco per chiave; `peso` sommato."""
@@ -344,3 +350,126 @@ class TestContestoAkn:
         }
         archi = g._archi_da_akn_relations({}, mappa)
         assert archi[0]["clausola_lettura"] is True
+
+
+class TestCitationFuoriCorpus:
+    """Le citation AKN verso atti non nel corpus non si scartano (2026-11).
+
+    Prima: `not t_fn → continue`, e ~19.700 bersagli / ~180.000 citazioni
+    (incluse L. 241/1990 e L. 15/2005) sparivano dal grafo.
+    """
+
+    def _parquet(self, tmp_path, target_urns):
+        import pandas as pd
+
+        df = pd.DataFrame([
+            {
+                "fonte_urn": "urn:nir:stato:legge:2020-01-01;1",
+                "target_urn": t,
+                "rel_type": "citation",
+                "origin": "ref",
+                "detail": "href",
+                "contesto": "",
+            }
+            for t in target_urns
+        ])
+        df.to_parquet(tmp_path / "akn_relations.parquet")
+
+    MAPPA = {"urn:nir:stato:legge:2020-01-01;1": "Leggi/2020.md"}
+
+    def test_bersaglio_fuori_corpus_emesso_con_urn(self, tmp_path, monkeypatch):
+        from lab_tools import grafo_riferimenti as g
+
+        self._parquet(tmp_path, ["urn:nir:stato:legge:1990-08-07;241"])
+        monkeypatch.setattr(g, "OUTDIR", tmp_path)
+        archi = g._archi_da_akn_relations({}, self.MAPPA)
+        assert len(archi) == 1
+        a = archi[0]
+        assert a["risolto"] is False
+        assert a["bersaglio_urn"] == "urn:nir:stato:legge:1990-08-07;241"
+        assert a["bersaglio_filename"] == ""
+        assert a["bersaglio_anno"] == 1990
+        assert a["bersaglio_tipo"] == "legge"
+
+    def test_anno_senza_giorno_mese_risolve(self, tmp_path, monkeypatch):
+        from lab_tools import grafo_riferimenti as g
+
+        self._parquet(tmp_path, ["urn:nir:stato:legge:2019;2"])
+        monkeypatch.setattr(g, "OUTDIR", tmp_path)
+        from lab_tools.urn import expand_index
+
+        mappa = expand_index([
+            ("urn:nir:stato:legge:2020-01-01;1", "Leggi/2020.md"),
+            ("urn:nir:stato:legge:2019-01-10;2", "Leggi/2019.md"),
+        ])
+        archi = g._archi_da_akn_relations({}, mappa)
+        assert len(archi) == 1
+        assert archi[0]["risolto"] is True
+        assert archi[0]["bersaglio_filename"] == "2019.md"
+        assert archi[0]["bersaglio_urn"] == "urn:nir:stato:legge:2019;2"
+
+    def test_due_fuori_corpus_restano_distinti(self, tmp_path, monkeypatch):
+        """La PK non collassa gli unresolved dello stesso file (usa l'URN)."""
+        from lab_tools import grafo_riferimenti as g
+
+        self._parquet(
+            tmp_path,
+            [
+                "urn:nir:stato:legge:1990-08-07;241",
+                "urn:nir:stato:legge:2005-02-11;15",
+            ],
+        )
+        monkeypatch.setattr(g, "OUTDIR", tmp_path)
+        archi = g._archi_da_akn_relations({}, self.MAPPA)
+        assert len(archi) == 2
+        assert len({a["bersaglio_urn"] for a in archi}) == 2
+
+    def test_fonte_assente_saltata_conteggi_coerenti(self, tmp_path, monkeypatch):
+        """Righe senza fonte si saltano; l'invariante di conteggio
+        (skip + risolti + fuori corpus == righe) resta verificato.
+
+        Il gate è stato perso nel rewrite che ha introdotto i nodi fuori
+        corpus: senza, un `continue` non conteggiato passerebbe in silenzio.
+        """
+        import pandas as pd
+        from lab_tools import grafo_riferimenti as g
+        from lab_tools.urn import expand_index
+
+        df = pd.DataFrame(
+            [
+                {
+                    "fonte_urn": "urn:nir:stato:legge:2021-01-01;9",
+                    "target_urn": "urn:nir:stato:legge:1990-08-07;241",
+                    "rel_type": "citation",
+                    "origin": "ref",
+                    "detail": "href",
+                    "contesto": "",
+                },
+                {
+                    "fonte_urn": "urn:nir:stato:legge:2020-01-01;1",
+                    "target_urn": "urn:nir:stato:legge:1990-08-07;241",
+                    "rel_type": "citation",
+                    "origin": "ref",
+                    "detail": "href",
+                    "contesto": "",
+                },
+                {
+                    "fonte_urn": "urn:nir:stato:legge:2020-01-01;1",
+                    "target_urn": "urn:nir:stato:legge:2019-01-10;2",
+                    "rel_type": "citation",
+                    "origin": "ref",
+                    "detail": "href",
+                    "contesto": "",
+                },
+            ]
+        )
+        df.to_parquet(tmp_path / "akn_relations.parquet")
+        monkeypatch.setattr(g, "OUTDIR", tmp_path)
+        mappa = expand_index(
+            [
+                ("urn:nir:stato:legge:2020-01-01;1", "Leggi/2020.md"),
+                ("urn:nir:stato:legge:2019-01-10;2", "Leggi/2019.md"),
+            ]
+        )
+        archi = g._archi_da_akn_relations({}, mappa)
+        assert len(archi) == 2, "la riga con fonte assente deve essere saltata"

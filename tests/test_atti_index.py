@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import pytest
 from lab_tools.atti_index import (
+    arricchisci_materia,
     build_rows,
     collega_corpus,
     deduplica,
@@ -275,3 +276,27 @@ class TestRiepilogo:
         assert rep["decadi"][2020] == [2, 1]
         assert rep["decadi"][1890] == [1, 0]
         assert rep["tipi"]["LEGGE"] == [2, 1]
+
+
+class TestMateria:
+    """`materia` sul catalogo: alimenta i filtri tematici dei nodi catalogo."""
+
+    def test_classifica_il_titolo_descrittivo(self):
+        righe = [
+            {
+                "titolo": "Disposizioni in materia di ambiente e rifiuti",
+                "descrizione": "DECRETO 1 gennaio 2024, n. 1",
+            }
+        ]
+        arricchisci_materia(righe)
+        assert righe[0]["materia"] == "ambientale"
+
+    def test_fallback_sull_intestazione(self):
+        righe = [{"titolo": "", "descrizione": "Interventi in materia di lavoro"}]
+        arricchisci_materia(righe)
+        assert righe[0]["materia"] == "lavoro"
+
+    def test_senza_oggetto_e_altro(self):
+        righe = [{"titolo": None, "descrizione": None}]
+        arricchisci_materia(righe)
+        assert righe[0]["materia"] == "altro"

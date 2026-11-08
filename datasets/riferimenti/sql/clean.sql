@@ -7,6 +7,9 @@
 -- Compatibilità legal-graph:
 --   - fonte_filename  = valore engine (path relativo collezione per regex, basename per AKN)
 --   - bersaglio_filename = basename (join LG diretto su normativa.filename)
+--   - bersaglio_urn   = URN AKN del bersaglio; valorizzato anche quando l'atto
+--                       è **fuori corpus** (in quel caso bersaglio_source_path
+--                       è l'URN, perché non esiste un filename)
 --   - *_source_file   = basename canonico per nuovi consumer
 --   - *_source_path   = path risolto per PK e join stabili
 --
@@ -25,6 +28,7 @@ WITH base AS (
         fonte_materia,
         bersaglio_filename,
         bersaglio_path,
+        bersaglio_urn,
         bersaglio_anno,
         bersaglio_tipo,
         bersaglio_stato,
@@ -55,9 +59,17 @@ WITH base AS (
                 THEN bersaglio_path
             WHEN bersaglio_filename LIKE '%/%'
                 THEN bersaglio_filename
-            WHEN COALESCE(fonte_collezione, '') <> ''
-                THEN fonte_collezione || '/' || bersaglio_filename
-            ELSE bersaglio_filename
+            WHEN COALESCE(bersaglio_filename, '') <> ''
+                THEN CASE
+                    WHEN COALESCE(fonte_collezione, '') <> ''
+                        THEN fonte_collezione || '/' || bersaglio_filename
+                    ELSE bersaglio_filename
+                END
+            -- Citation AKN verso atti **fuori corpus**: non esiste filename,
+            -- l'identità stabile del bersaglio è l'URN.
+            WHEN COALESCE(bersaglio_urn, '') <> ''
+                THEN bersaglio_urn
+            ELSE NULL
         END AS bersaglio_source_path,
         -- Contesto del link (evidence per legal-graph): snippet ±120 char attorno al link.
         -- Aggiunto 2026-10 (cross-check LcnT): backward-compatible, nullable.
@@ -68,7 +80,10 @@ WITH base AS (
         clausola_lettura
     FROM raw_input
     WHERE fonte_filename IS NOT NULL
-      AND bersaglio_filename IS NOT NULL
+      AND (
+          bersaglio_filename IS NOT NULL
+          OR COALESCE(bersaglio_urn, '') <> ''
+      )
       AND normalize_string(origine) <> ''
 )
 SELECT
@@ -78,6 +93,7 @@ SELECT
     bersaglio_source_file,
     fonte_filename,
     bersaglio_filename,
+    bersaglio_urn,
     TRY_CAST(fonte_anno AS INTEGER)   AS fonte_anno,
     TRY_CAST(bersaglio_anno AS INTEGER) AS bersaglio_anno,
     normalize_string(fonte_stato)     AS fonte_stato,

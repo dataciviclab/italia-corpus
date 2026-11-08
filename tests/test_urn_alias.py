@@ -233,3 +233,34 @@ class TestInputNonStringa:
         assert lookup(INDICE, float("nan")) is None
         assert regola(INDICE, float("nan")) is None
         assert lookup(INDICE, None) is None
+
+
+class TestAnnoSenzaGiornoMese:
+    """L'AKN cita per anno (`legge:1990;241`): 12.373 bersagli sul corpus 2026-11.
+
+    La forma non è canonica (`parse_urn` la rifiuta), ma anno+numero identifica
+    l'atto: il fallback vive in `annual_key`, non in `parse_urn`.
+    """
+
+    URN_ANNO = "urn:nir:stato:legge:2019;2"
+    URN_CORPUS = "urn:nir:stato:legge:2019-01-10;2"
+
+    def test_parse_urn_resta_stretto(self):
+        assert parse_urn(self.URN_ANNO) is None
+
+    def test_annual_key_legge_la_forma_corta(self):
+        assert annual_key(self.URN_ANNO) == ("stato", "legge", "2019", "2")
+
+    def test_lookup_risolve_per_anno_numero(self):
+        idx = expand_index([(self.URN_CORPUS, "Leggi/2019.md")])
+        assert lookup(idx, self.URN_ANNO) == "Leggi/2019.md"
+
+    def test_regola_e_annuale(self):
+        idx = expand_index([(self.URN_CORPUS, "Leggi/2019.md")])
+        assert regola(idx, self.URN_ANNO) == "annuale"
+
+    def test_tipo_akn_slug_normalizzato(self):
+        idx = expand_index([
+            ("urn:nir:stato:decreto.legislativo:2017-07-03;117", "Decreti/2017.md"),
+        ])
+        assert lookup(idx, "urn:nir:stato:decretolegislativo:2017;117") == "Decreti/2017.md"
