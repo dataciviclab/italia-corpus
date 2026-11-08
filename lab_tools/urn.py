@@ -1,8 +1,8 @@
 """Normalizzazione e alias degli URN NIR.
 
 Lo stesso atto è scritto in forme diverse dal corpus (frontmatter dei MD e
-`normativa.parquet`) e dalle relazioni AKN (`akn_relations.parquet`). Tre casi,
-misurati su 251.918 edge di citazione:
+`normativa.parquet`) e dalle relazioni AKN (`akn_relations.parquet`). Quattro
+casi, misurati sulle citazioni del corpus:
 
 - **slug del tipo**: AKN `decretodelpresidentedellarepubblica` vs corpus
   `decreto.del.presidente.della.repubblica` — 50.280 edge;
@@ -10,7 +10,9 @@ misurati su 251.918 edge di citazione:
   corpus l'emanazione (`legge:1991-07-21;203` vs `legge:1991-07-12;203`) — il
   numero è unico per tipo e anno — 1.072 edge;
 - **codici sistematici**: AKN `codice.civile:1942-03-16;262` vs corpus
-  `regio.decreto:1942-03-16;262` — 3.574 edge su 3 atti.
+  `regio.decreto:1942-03-16;262` — 3.574 edge su 3 atti;
+- **anno senza giorno/mese**: AKN `legge:1990;241` vs corpus
+  `legge:1990-08-07;241` — 12.373 bersagli, 80.009 citazioni (2026-11).
 
 Questo modulo è l'unico posto in cui la corrispondenza è definita: lo usano
 `fetch_normattiva._build_urn_index` e `grafo_riferimenti._load_urn_to_filename`,
@@ -35,6 +37,11 @@ from collections.abc import Iterable
 
 # Forma NIR canonica: urn:nir:<emettitore>:<tipo>:<YYYY-MM-DD>;<numero>
 _URN_RE = re.compile(r"^urn:nir:([^:]+):([^:]+):(\d{4}-\d{2}-\d{2});(\d+)$")
+# Forma **senza giorno/mese**: urn:nir:<emettitore>:<tipo>:<YYYY>;<numero>.
+# L'AKN la usa per i rinvii a leggi citate per anno (es. `legge:1990;241`):
+# 12.373 bersagli / 80.009 citazioni sul corpus 2026-11. Non è una forma
+# canonica, ma l'anno+numero identifica l'atto (vedi `annual_key`).
+_URN_ANNO_RE = re.compile(r"^urn:nir:([^:]+):([^:]+):(\d{4});(\d+)$")
 _SEPARATORI_SLUG = re.compile(r"[.\-]")
 # L'AKN scrive lo slug concatenato e a volte **senza i connettivi**:
 # `decretolegislativo` (corpus `decreto.legislativo`),
@@ -82,11 +89,18 @@ def annual_key(urn: str) -> tuple[str, str, str, str] | None:
 
     Il numero è unico per tipo e anno, quindi la coppia anno+numero identifica
     l'atto anche quando la data citata è quella di pubblicazione in GU.
+
+    Accetta anche la forma **senza giorno/mese** (`urn:nir:stato:legge:1990;241`),
+    che `parse_urn` rifiuta perché non canonica: l'AKN la usa per i rinvii
+    per anno e senza questo fallback ~80.000 citazioni restano irrisolte.
     """
     p = parse_urn(urn)
-    if not p:
-        return None
-    return (p[0], _slug(p[1]), p[2][:4], p[3])
+    if p:
+        return (p[0], _slug(p[1]), p[2][:4], p[3])
+    m = _URN_ANNO_RE.match((urn or "").strip())
+    if m:
+        return (m.group(1), _slug(m.group(2)), m.group(3), m.group(4))
+    return None
 
 
 class IndiceUrn(dict):
