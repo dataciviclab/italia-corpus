@@ -74,6 +74,7 @@ def _load_normativa_lookup() -> dict[str, dict]:
                 "urn": row.get("urn", "") or "",
                 "collezione": row.get("collezione", ""),
                 "anno_atto": row.get("anno_atto", 0),
+                "numero": row.get("numero", ""),
                 "tipo": row.get("tipo", ""),
                 "materia": row.get("materia", ""),
                 "stato": row.get("stato", ""),
@@ -181,7 +182,7 @@ def _stampa_metriche(archi: list[dict], file_set_size: int):
     if risolti > 0:
         counter = Counter()
         for a in archi:
-            if a["risolto"]:
+            if a["risolto"] and a.get("rel_type") == "citation":
                 counter[(a["bersaglio_filename"])] += a["peso"]
         print("\n  Top 10 atti più citati:")
         for path, count in counter.most_common(10):
@@ -327,6 +328,87 @@ def _load_atti_index_urn() -> dict[tuple[str, str, str, str], str]:
         if k:
             chiavi[k].append(urn)
     return {k: v[0] for k, v in chiavi.items() if len(set(v)) == 1}
+
+
+def _archi_da_abrogazioni(normativa: dict[str, dict]) -> list[dict]:
+    """Archi `abroga` (regex) dentro il grafo dei riferimenti.
+
+    Fonde `abrogations_raw.parquet` in `riferimenti.parquet` con
+    `rel_type='abroga'` e target URN canonico (da `normativa`): legal-graph non
+    legge più l'artefatto di staging. Stessa risoluzione anno+numero e stessa
+    guardia temporale del vecchio `edges_abro` nel compose.
+
+    Se il file manca (es. run parziale) salta senza errore.
+    """
+    path = OUTDIR / "abrogations_raw.parquet"
+    if not path.exists():
+        print("  abrogations_raw.parquet assente: archi abroga non aggiunti")
+        return []
+    try:
+        import pandas as pd
+    except ImportError:
+        return []
+
+    # target: (anno, numero) -> urn, solo da normativa (parità col compose)
+    target: dict[tuple[int, str], set[str]] = defaultdict(set)
+    for meta in normativa.values():
+        urn = (meta.get("urn") or "").strip()
+        anno = meta.get("anno_atto")
+        numero = meta.get("numero")
+        if urn and anno and numero not in (None, ""):
+            # normalizza a intero come il vecchio `TRY_CAST(numero AS INTEGER)`
+            try:
+                target[(int(anno), str(int(numero)))].add(urn)
+            except (TypeError, ValueError):
+                continue
+
+    archi: list[dict] = []
+    df = pd.read_parquet(path)
+    for _, row in df.iterrows():
+        f_file = str(row.get("abrogating_file") or "").strip()
+        f_coll = str(row.get("abrogating_collection") or "").strip()
+        f_meta = normativa.get(f_file, {})
+        f_urn = (f_meta.get("urn") or "").strip()
+        if not f_urn:
+            continue
+        try:
+            anno = int(row.get("abrogated_year"))
+            numero = str(int(row.get("abrogated_number")))
+        except (TypeError, ValueError):
+            continue
+        f_anno = f_meta.get("anno_atto")
+        for t_urn in sorted(target.get((anno, numero), set())):
+            # guardia temporale: l'abrogante non può essere anteriore all'abrogato
+            if f_anno and anno and f_anno < anno:
+                continue
+            archi.append(
+                {
+                    "fonte_filename": f"{f_coll}/{f_file}" if f_coll else f_file,
+                    "fonte_urn": f_urn,
+                    "fonte_collezione": f_coll,
+                    "fonte_anno": f_meta.get("anno_atto", 0),
+                    "fonte_tipo": f_meta.get("tipo", ""),
+                    "fonte_materia": f_meta.get("materia", ""),
+                    "fonte_stato": f_meta.get("stato", ""),
+                    # il bersaglio è un atto risolto via anno+numero: nessun file
+                    "bersaglio_filename": "",
+                    "bersaglio_path": "",
+                    "bersaglio_urn": t_urn,
+                    "bersaglio_collezione": "",
+                    "bersaglio_anno": anno,
+                    "bersaglio_tipo": "",
+                    "bersaglio_materia": "",
+                    "bersaglio_stato": "",
+                    "peso": 1,
+                    "risolto": True,
+                    "origine": "regex",
+                    "rel_type": "abroga",
+                    "contesto": str(row.get("context") or ""),
+                    "clausola_lettura": None,
+                }
+            )
+    print(f"  AKN/abrogazioni: {len(archi)} archi abroga")
+    return archi
 
 
 def _archi_da_akn_relations(
@@ -536,7 +618,11 @@ def _verifica_invarianti(archi: list[dict], file_set: set[str]) -> None:
         )
 
     fantasmi = [
-        a for a in archi if a.get("risolto") and a.get("bersaglio_filename") not in basenames
+        a
+        for a in archi
+        if a.get("rel_type", "citation") == "citation"
+        and a.get("risolto")
+        and a.get("bersaglio_filename") not in basenames
     ]
     if fantasmi:
         raise ValueError(
@@ -649,6 +735,7 @@ def main():
     atti_urn = _load_atti_index_urn()
     print(f"  indice URN catalogo: {len(atti_urn)} chiavi")
     archi.extend(_archi_da_akn_relations(normativa, urn_to_fn, atti_urn))
+    archi.extend(_archi_da_abrogazioni(normativa))
 
     # Un arco per chiave = PK del clean (fonte_source_path, bersaglio_source_path,
     # origine). Il dedup AKN copre la causa nota (alias URN); qui si applica

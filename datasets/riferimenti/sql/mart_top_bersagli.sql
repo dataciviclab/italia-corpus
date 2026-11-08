@@ -16,6 +16,7 @@ SELECT
     COUNT(DISTINCT fonte_source_file) AS n_fonti_distinte
 FROM clean_input
 WHERE risolto = true
+  AND rel_type = 'citation'
 GROUP BY 1, 2
 HAVING COUNT(*) >= 20
 ORDER BY n_citazioni DESC

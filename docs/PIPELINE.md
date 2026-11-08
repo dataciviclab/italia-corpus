@@ -134,7 +134,7 @@ resta per coverage e mart analitici.
 | Artifact | Uso | Note |
 |---|---|---|
 | `status.parquet` | `integra-vigenza` | status autorevole, non pubblicato |
-| `abrogations_raw.parquet` | `integra` + legal-graph | **debito**: fondere in `riferimenti` come relazione `abroga` (regex) |
+| `abrogations_raw.parquet` | `integra` + coverage | **fuso** in `riferimenti` come `rel_type='abroga'` (2026-11); resta letto solo dalla coverage come misura della fonte |
 | `citazioni-costituzionali.parquet` | `integra` + legal-graph | **debito**: fondere in `riferimenti` come `cita_costituzione` |
 | `pnrr_references.parquet` | legal-graph | **debito**: fondere in `riferimenti` |
 | `atti_api.parquet` | `datasets/atti-api` | promosso a contratto (2026-11) |
@@ -156,7 +156,7 @@ resta per coverage e mart analitici.
 
 ### Debiti dichiarati
 
-1. `citazioni-costituzionali`, `pnrr_references`, `abrogations_raw` sono letti da legal-graph via `path:` (fuori contratto): vanno fusi in `riferimenti` come tipi di relazione.
+1. `citazioni_costituzionali` e `pnrr_references` sono ancora letti da legal-graph via `path:` (fuori contratto): target non-atto (`costituzione:art:N`, `pnrr:missione:N`), da promuovere a dataset. `abrogations_raw` è **fuso** in `riferimenti` (`rel_type='abroga'`).
 2. `allegati.parquet` non ha consumatori: promuovere o rimuovere.
 3. `data/derived` è in git **e** su GCS: doppio canale. Quando i debiti 1-2 sono chiusi, il derived può essere interamente gitignored (il contract check va ribasato su GCS).
 

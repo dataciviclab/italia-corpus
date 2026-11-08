@@ -15,7 +15,10 @@ SELECT
     MAX(fonte_anno) AS fonte_anno,
     MAX(bersaglio_anno) AS bersaglio_anno,
     MIN(contesto) AS contesto,
-    BOOL_OR(clausola_lettura) AS clausola_lettura
+    BOOL_OR(clausola_lettura) AS clausola_lettura,
+    -- serve alla guardia temporale del compose: l'eccezione per gli edge
+    -- regex deboli (peso < 5) non vale per le citation AKN
+    BOOL_OR(origine = 'regex') AS da_regex
 FROM clean_input
 WHERE NULLIF(fonte_urn, '') IS NOT NULL
   AND NULLIF(bersaglio_urn, '') IS NOT NULL

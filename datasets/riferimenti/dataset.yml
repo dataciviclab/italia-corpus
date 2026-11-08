@@ -4,7 +4,7 @@ schema_version: 1
 dataset:
   name: "riferimenti"
   source_id: "italia_corpus"
-  description: "Grafo riferimenti del corpus normativa: archi fonte→bersaglio da regex markdown e citazioni AKN. PK = fonte_source_path + bersaglio_source_path + origine. Le colonne *_filename restano nel formato engine per legal-graph. `bersaglio_urn` porta l'URN AKN anche quando l'atto è fuori corpus (in quel caso `bersaglio_source_path` = URN e `risolto` = false): la citazione non viene più scartata. `clausola_lettura` marca i rinvii di sola lettura (TRUE), li distingue dalle citazioni (FALSE) e segnala i contesti non classificabili (NULL = archi AKN senza testo)."
+  description: "Grafo riferimenti del corpus normativa: archi fonte→bersaglio da regex markdown, citazioni AKN e abrogazioni regex (`rel_type`: `citation`|`abroga`). PK = fonte_source_path + bersaglio_source_path + origine. Le colonne *_filename restano nel formato engine per legal-graph. `bersaglio_urn` porta l'URN AKN anche quando l'atto è fuori corpus (in quel caso `bersaglio_source_path` = URN e `risolto` = false): la citazione non viene più scartata. `clausola_lettura` marca i rinvii di sola lettura (TRUE), li distingue dalle citazioni (FALSE) e segnala i contesti non classificabili (NULL = archi AKN senza testo)."
   tags: [normativa, grafo, citazioni, riferimenti]
   category: normativa
   years: [2026]
