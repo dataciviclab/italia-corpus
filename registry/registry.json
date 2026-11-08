@@ -923,6 +923,53 @@
         "riferimenti__mart_citazioni_per_origine",
         "riferimenti__mart_top_bersagli"
       ]
+    },
+    {
+      "slug": "testi",
+      "name": "Testi",
+      "description": "Testo del corpus normativa, una riga per espressione (`filename`). Document-level: è il body dei markdown già in `collezioni/` (zero fetch), non il testo strutturato per articolo/comma (quello sarà `articoli`, dal XML AKN). Serve alla ricerca full-text dei consumer (`legal_search` cerca oggi solo nei titoli) e a `legal_text` senza GitHub raw.\n",
+      "source": "",
+      "source_id": "italia_corpus",
+      "period": {
+        "start": 1874,
+        "end": 2026
+      },
+      "tags": [
+        "normativa",
+        "testi",
+        "full-text",
+        "corpus"
+      ],
+      "category": "normativa",
+      "columns": [
+        {
+          "name": "filename",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "urn",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "testo",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        }
+      ],
+      "location": {
+        "type": "gcs",
+        "path": "gs://dataciviclab-clean/italia-corpus/testi/2026/testi_2026_clean.parquet",
+        "multi_file": false
+      },
+      "stage": "incubating",
+      "mart_refs": [
+        "testi__mart_testi_per_anno"
+      ]
     }
   ],
   "marts": [
@@ -1055,6 +1102,16 @@
         "path": "gs://dataciviclab-mart/italia-corpus/riferimenti/2026/mart_top_bersagli.parquet",
         "multi_file": false
       }
+    },
+    {
+      "slug": "testi__mart_testi_per_anno",
+      "dataset": "testi",
+      "table": "mart_testi_per_anno",
+      "location": {
+        "type": "gcs",
+        "path": "gs://dataciviclab-mart/italia-corpus/testi/2026/mart_testi_per_anno.parquet",
+        "multi_file": false
+      }
     }
   ],
   "signals": [
@@ -1066,7 +1123,7 @@
       "detail": "anno 2026 — mart: si",
       "action": "",
       "run": {
-        "run_id": "20261108T220109Z_01d87c8c",
+        "run_id": "20261108T233647Z_2854b893",
         "year": 2026,
         "status": "SUCCESS",
         "quality_score": {
@@ -1083,9 +1140,9 @@
           "clean": 420408,
           "mart": 4270
         },
-        "started_at": "2026-11-08T22:01:09.863715+00:00",
-        "finished_at": "2026-11-08T22:01:10.043214+00:00",
-        "duration_seconds": 0.179
+        "started_at": "2026-11-08T23:36:47.216782+00:00",
+        "finished_at": "2026-11-08T23:36:47.562717+00:00",
+        "duration_seconds": 0.346
       }
     },
     {
@@ -1096,7 +1153,7 @@
       "detail": "anno 2026 — mart: si",
       "action": "",
       "run": {
-        "run_id": "20261108T220110Z_512b6716",
+        "run_id": "20261108T233647Z_96e9fe8c",
         "year": 2026,
         "status": "SUCCESS",
         "quality_score": {
@@ -1113,9 +1170,9 @@
           "clean": 21784124,
           "mart": 2122
         },
-        "started_at": "2026-11-08T22:01:10.288246+00:00",
-        "finished_at": "2026-11-08T22:01:11.506779+00:00",
-        "duration_seconds": 1.219
+        "started_at": "2026-11-08T23:36:47.893637+00:00",
+        "finished_at": "2026-11-08T23:36:49.401128+00:00",
+        "duration_seconds": 1.507
       }
     },
     {
@@ -1126,7 +1183,7 @@
       "detail": "anno 2026 — mart: si",
       "action": "",
       "run": {
-        "run_id": "20261108T220111Z_f75f8d31",
+        "run_id": "20261108T233649Z_3292392f",
         "year": 2026,
         "status": "SUCCESS",
         "quality_score": {
@@ -1141,11 +1198,11 @@
         "output_bytes": {
           "raw": 883661,
           "clean": 18149,
-          "mart": 1517
+          "mart": 1520
         },
-        "started_at": "2026-11-08T22:01:11.742539+00:00",
-        "finished_at": "2026-11-08T22:01:11.846218+00:00",
-        "duration_seconds": 0.104
+        "started_at": "2026-11-08T23:36:49.715480+00:00",
+        "finished_at": "2026-11-08T23:36:49.851434+00:00",
+        "duration_seconds": 0.136
       }
     },
     {
@@ -1156,7 +1213,7 @@
       "detail": "anno 2026 — mart: si",
       "action": "",
       "run": {
-        "run_id": "20261108T220112Z_6932acce",
+        "run_id": "20261108T233650Z_a362425d",
         "year": 2026,
         "status": "SUCCESS",
         "quality_score": {
@@ -1171,11 +1228,11 @@
         "output_bytes": {
           "raw": 19464149,
           "clean": 11036260,
-          "mart": 10611
+          "mart": 10615
         },
-        "started_at": "2026-11-08T22:01:12.074321+00:00",
-        "finished_at": "2026-11-08T22:01:12.801959+00:00",
-        "duration_seconds": 0.728
+        "started_at": "2026-11-08T23:36:50.152250+00:00",
+        "finished_at": "2026-11-08T23:36:51.105378+00:00",
+        "duration_seconds": 0.953
       }
     },
     {
@@ -1186,7 +1243,7 @@
       "detail": "anno 2026 — mart: si",
       "action": "",
       "run": {
-        "run_id": "20261108T220113Z_fe2d4b31",
+        "run_id": "20261108T233651Z_23733b84",
         "year": 2026,
         "status": "SUCCESS",
         "quality_score": {
@@ -1201,11 +1258,11 @@
         "output_bytes": {
           "raw": 2875164,
           "clean": 1670090,
-          "mart": 6176
+          "mart": 6194
         },
-        "started_at": "2026-11-08T22:01:13.033584+00:00",
-        "finished_at": "2026-11-08T22:01:13.278641+00:00",
-        "duration_seconds": 0.245
+        "started_at": "2026-11-08T23:36:51.414746+00:00",
+        "finished_at": "2026-11-08T23:36:51.735591+00:00",
+        "duration_seconds": 0.321
       }
     },
     {
@@ -1216,7 +1273,7 @@
       "detail": "anno 2026 — mart: si",
       "action": "",
       "run": {
-        "run_id": "20261108T220113Z_83014cdb",
+        "run_id": "20261108T233652Z_caa26888",
         "year": 2026,
         "status": "SUCCESS",
         "quality_score": {
@@ -1231,11 +1288,41 @@
         "output_bytes": {
           "raw": 23233943,
           "clean": 12172590,
-          "mart": 7703806
+          "mart": 7702369
         },
-        "started_at": "2026-11-08T22:01:13.529961+00:00",
-        "finished_at": "2026-11-08T22:01:14.576110+00:00",
-        "duration_seconds": 1.046
+        "started_at": "2026-11-08T23:36:52.072577+00:00",
+        "finished_at": "2026-11-08T23:36:53.430196+00:00",
+        "duration_seconds": 1.358
+      }
+    },
+    {
+      "id": "testi",
+      "source_id": "italia_corpus",
+      "status": "ok",
+      "label": "testi",
+      "detail": "anno 2026 — mart: si",
+      "action": "",
+      "run": {
+        "run_id": "20261108T233653Z_d310bc74",
+        "year": 2026,
+        "status": "SUCCESS",
+        "quality_score": {
+          "raw": 100,
+          "clean": 100,
+          "mart": 100
+        },
+        "output_rows": {
+          "clean": 22402,
+          "mart": 143
+        },
+        "output_bytes": {
+          "raw": 102165553,
+          "clean": 88372794,
+          "mart": 2073
+        },
+        "started_at": "2026-11-08T23:36:53.773859+00:00",
+        "finished_at": "2026-11-08T23:36:58.303908+00:00",
+        "duration_seconds": 4.53
       }
     }
   ],
