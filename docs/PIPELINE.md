@@ -124,7 +124,9 @@ esatto sui nodi, nessuna normalizzazione nel compose). Il clean filename-based
 resta per coverage e mart analitici.
 | `akn_relations` | `akn_relations` | relazione AKN tipizzata | legal-graph |
 | `akn_act_meta` | `akn_act_meta` | atto (EIV, modifiche, ELI) | legal-graph |
-| `atti_index` | `atti_index` | atto del catalogo (~205k) | legal-graph, analisi di copertura |
+| `atti_index` | `atti_index` | atto del catalogo (~205k), `materia` inclusa | legal-graph, analisi di copertura |
+
+La `materia` del catalogo usa lo stesso classificatore del corpus: i gap di tassonomia sono tracciati in #81 (multi-etichetta, natura dell'atto).
 | `atti_api` | `atti_api` | atto fuori collezione (vigenza, materia) | legal-graph (nodi + `attua_delega`) |
 
 `atti_index` è l'unico con il raw **non committato** (rigenerato da `make atti-index` prima del publish).
@@ -138,7 +140,7 @@ resta per coverage e mart analitici.
 | `citazioni-costituzionali.parquet` | `integra` + legal-graph | **debito**: fondere in `riferimenti` come `cita_costituzione` |
 | `pnrr_references.parquet` | legal-graph | **debito**: fondere in `riferimenti` |
 | `atti_api.parquet` | `datasets/atti-api` | promosso a contratto (2026-11) |
-| `allegati.parquet` | nessuno | **orfano**: candidato alla rimozione |
+| `allegati.parquet` | nessuno (indice) | **indice non pubblicato**: i MD (188,8 MB) sono già su GCS, manca l'indice per scoprirli — fix in #112 |
 | `collezioni_probe.json` | probe/CI | **committato**: storia dei formati |
 
 ### Testi
@@ -146,18 +148,19 @@ resta per coverage e mart analitici.
 | Artifact | Stato |
 |---|---|
 | `collezioni/**/*.md` | testo + frontmatter URN; servito da `legal_text` via GitHub raw |
-| `articoli` (dataset) | **mancante**: grano articolo, da AKN XML. Quando esiste, il MD diventa un rendering |
+| `testi` (dataset) | **mancante**: `filename, urn, testo` dal body dei MD (~77-98 MB parquet), zero fetch — #111 |
+| `articoli` (dataset) | **mancante**: grano articolo, da AKN XML (commi, `eId`, `ins`/`del`). Raffinamento successivo di `testi` |
 
 ### Nomi (convenzione)
 
 - directory: trattino (`akn-relations/`, `atti-index/`)
 - slug registry e file sorgente: underscore (`akn_relations`, `atti_index`, `akn_relations.parquet`)
-- `normativa` è **atto-level metadata**: non contiene il testo (che è `collezioni/` o `articoli`). Il nome è storico; una rinomina a `atti` sarebbe un cambio di contratto (shim necessario).
+- `normativa` è **atto-level metadata**: non contiene il testo (che è `collezioni/` oggi, `testi`/`articoli` domani). Il nome è storico; una rinomina a `atti` sarebbe un cambio di contratto (shim necessario).
 
 ### Debiti dichiarati
 
 1. `citazioni_costituzionali` e `pnrr_references` sono ancora letti da legal-graph via `path:` (fuori contratto): target non-atto (`costituzione:art:N`, `pnrr:missione:N`), da promuovere a dataset. `abrogations_raw` è **fuso** in `riferimenti` (`rel_type='abroga'`).
-2. `allegati.parquet` non ha consumatori: promuovere o rimuovere.
+2. `allegati.parquet` è l'indice di un contenuto già pubblicato (5.492 MD su GCS): va pubblicato lui (#112), non rimosso.
 3. `data/derived` è in git **e** su GCS: doppio canale. Quando i debiti 1-2 sono chiusi, il derived può essere interamente gitignored (il contract check va ribasato su GCS).
 
 ### Convenzioni path (contratto)
