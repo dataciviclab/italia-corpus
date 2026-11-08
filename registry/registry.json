@@ -209,6 +209,134 @@
       ]
     },
     {
+      "slug": "atti_api",
+      "name": "Atti Api",
+      "description": "Atti fetchati singolarmente via Normattiva API (`dettaglio-atto-urn`): leggi ordinarie fuori dalle collezioni ZIP, con vigenza reale. Contratto atto-level: metadati + vigenza + materia. Il testo NON fa parte del contratto (l'endpoint restituisce un solo articolo e resta nel raw): il dataset testi sarà `articoli`. Alimenta i nodi `atti_api` di legal-graph.\n",
+      "source": "",
+      "source_id": "italia_corpus",
+      "period": {
+        "start": 1865,
+        "end": 2026
+      },
+      "tags": [
+        "normativa",
+        "atti",
+        "normattiva",
+        "api",
+        "fuori-collezione"
+      ],
+      "category": "normativa",
+      "columns": [
+        {
+          "name": "urn",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "titolo",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "sotto_titolo",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "tipo_codice",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "tipo_descrizione",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "numero",
+          "type": "BIGINT",
+          "role": "metric",
+          "description": ""
+        },
+        {
+          "name": "anno",
+          "type": "INTEGER",
+          "role": "dimension",
+          "description": "",
+          "semantic_type": "year"
+        },
+        {
+          "name": "anno_gu",
+          "type": "INTEGER",
+          "role": "metric",
+          "description": ""
+        },
+        {
+          "name": "numero_gu",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "vigenza_inizio",
+          "type": "DATE",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "vigenza_fine",
+          "type": "DATE",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "stato",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": "",
+          "semantic_type": "country_code"
+        },
+        {
+          "name": "materia",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "n_articoli",
+          "type": "INTEGER",
+          "role": "metric",
+          "description": ""
+        },
+        {
+          "name": "source",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "fetched_at",
+          "type": "TIMESTAMP",
+          "role": "metric",
+          "description": ""
+        }
+      ],
+      "location": {
+        "type": "gcs",
+        "path": "gs://dataciviclab-clean/italia-corpus/atti_api/2026/atti_api_2026_clean.parquet",
+        "multi_file": false
+      },
+      "stage": "incubating",
+      "mart_refs": [
+        "atti_api__mart_atti_api_materia"
+      ]
+    },
+    {
       "slug": "atti_index",
       "name": "Atti Index",
       "description": "Catalogo ufficiale Normattiva (una riga per atto, ~205k): identità (codice_redazionale + data GU), stato dalla classe ufficiale (3 = lista abrogati), appartenenza al corpus (in_corpus) e URN quando determinabile. Serve a dire quanto manca e ad agganciare le citazioni a un'identità. Metadati, nessun testo.\n",
@@ -693,6 +821,12 @@
           "description": ""
         },
         {
+          "name": "fonte_urn",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
           "name": "bersaglio_filename",
           "type": "VARCHAR",
           "role": "dimension",
@@ -784,6 +918,7 @@
       },
       "stage": "incubating",
       "mart_refs": [
+        "riferimenti__mart_riferimenti_urn",
         "riferimenti__mart_debt_legale",
         "riferimenti__mart_citazioni_per_origine",
         "riferimenti__mart_top_bersagli"
@@ -828,6 +963,16 @@
       "location": {
         "type": "gcs",
         "path": "gs://dataciviclab-mart/italia-corpus/akn_relations/2026/mart_relazioni_per_tipo.parquet",
+        "multi_file": false
+      }
+    },
+    {
+      "slug": "atti_api__mart_atti_api_materia",
+      "dataset": "atti_api",
+      "table": "mart_atti_api_materia",
+      "location": {
+        "type": "gcs",
+        "path": "gs://dataciviclab-mart/italia-corpus/atti_api/2026/mart_atti_api_materia.parquet",
         "multi_file": false
       }
     },
@@ -892,6 +1037,16 @@
       }
     },
     {
+      "slug": "riferimenti__mart_riferimenti_urn",
+      "dataset": "riferimenti",
+      "table": "mart_riferimenti_urn",
+      "location": {
+        "type": "gcs",
+        "path": "gs://dataciviclab-mart/italia-corpus/riferimenti/2026/mart_riferimenti_urn.parquet",
+        "multi_file": false
+      }
+    },
+    {
       "slug": "riferimenti__mart_top_bersagli",
       "dataset": "riferimenti",
       "table": "mart_top_bersagli",
@@ -911,7 +1066,7 @@
       "detail": "anno 2026 — mart: si",
       "action": "",
       "run": {
-        "run_id": "20261108T200534Z_39d91659",
+        "run_id": "20261108T220109Z_01d87c8c",
         "year": 2026,
         "status": "SUCCESS",
         "quality_score": {
@@ -928,9 +1083,9 @@
           "clean": 420408,
           "mart": 4270
         },
-        "started_at": "2026-11-08T20:05:34.580815+00:00",
-        "finished_at": "2026-11-08T20:05:34.870213+00:00",
-        "duration_seconds": 0.289
+        "started_at": "2026-11-08T22:01:09.863715+00:00",
+        "finished_at": "2026-11-08T22:01:10.043214+00:00",
+        "duration_seconds": 0.179
       }
     },
     {
@@ -941,7 +1096,7 @@
       "detail": "anno 2026 — mart: si",
       "action": "",
       "run": {
-        "run_id": "20261108T200535Z_c189bdbd",
+        "run_id": "20261108T220110Z_512b6716",
         "year": 2026,
         "status": "SUCCESS",
         "quality_score": {
@@ -958,9 +1113,39 @@
           "clean": 21784124,
           "mart": 2122
         },
-        "started_at": "2026-11-08T20:05:35.276179+00:00",
-        "finished_at": "2026-11-08T20:05:37.016991+00:00",
-        "duration_seconds": 1.741
+        "started_at": "2026-11-08T22:01:10.288246+00:00",
+        "finished_at": "2026-11-08T22:01:11.506779+00:00",
+        "duration_seconds": 1.219
+      }
+    },
+    {
+      "id": "atti_api",
+      "source_id": "italia_corpus",
+      "status": "ok",
+      "label": "atti_api",
+      "detail": "anno 2026 — mart: si",
+      "action": "",
+      "run": {
+        "run_id": "20261108T220111Z_f75f8d31",
+        "year": 2026,
+        "status": "SUCCESS",
+        "quality_score": {
+          "raw": 100,
+          "clean": 95,
+          "mart": 100
+        },
+        "output_rows": {
+          "clean": 171,
+          "mart": 33
+        },
+        "output_bytes": {
+          "raw": 883661,
+          "clean": 18149,
+          "mart": 1517
+        },
+        "started_at": "2026-11-08T22:01:11.742539+00:00",
+        "finished_at": "2026-11-08T22:01:11.846218+00:00",
+        "duration_seconds": 0.104
       }
     },
     {
@@ -971,7 +1156,7 @@
       "detail": "anno 2026 — mart: si",
       "action": "",
       "run": {
-        "run_id": "20261108T200537Z_f9bf86f6",
+        "run_id": "20261108T220112Z_6932acce",
         "year": 2026,
         "status": "SUCCESS",
         "quality_score": {
@@ -986,11 +1171,11 @@
         "output_bytes": {
           "raw": 19464149,
           "clean": 11036260,
-          "mart": 10613
+          "mart": 10611
         },
-        "started_at": "2026-11-08T20:05:37.427553+00:00",
-        "finished_at": "2026-11-08T20:05:38.546672+00:00",
-        "duration_seconds": 1.119
+        "started_at": "2026-11-08T22:01:12.074321+00:00",
+        "finished_at": "2026-11-08T22:01:12.801959+00:00",
+        "duration_seconds": 0.728
       }
     },
     {
@@ -1001,7 +1186,7 @@
       "detail": "anno 2026 — mart: si",
       "action": "",
       "run": {
-        "run_id": "20261108T200538Z_ac55260b",
+        "run_id": "20261108T220113Z_fe2d4b31",
         "year": 2026,
         "status": "SUCCESS",
         "quality_score": {
@@ -1016,11 +1201,11 @@
         "output_bytes": {
           "raw": 2875164,
           "clean": 1670090,
-          "mart": 6204
+          "mart": 6176
         },
-        "started_at": "2026-11-08T20:05:38.940605+00:00",
-        "finished_at": "2026-11-08T20:05:39.327622+00:00",
-        "duration_seconds": 0.387
+        "started_at": "2026-11-08T22:01:13.033584+00:00",
+        "finished_at": "2026-11-08T22:01:13.278641+00:00",
+        "duration_seconds": 0.245
       }
     },
     {
@@ -1031,7 +1216,7 @@
       "detail": "anno 2026 — mart: si",
       "action": "",
       "run": {
-        "run_id": "20261108T200539Z_ad8963ab",
+        "run_id": "20261108T220113Z_83014cdb",
         "year": 2026,
         "status": "SUCCESS",
         "quality_score": {
@@ -1040,17 +1225,17 @@
           "mart": 100
         },
         "output_rows": {
-          "clean": 390830,
-          "mart": 206
+          "clean": 366683,
+          "mart": 271120
         },
         "output_bytes": {
-          "raw": 24619391,
-          "clean": 12815194,
-          "mart": 12282
+          "raw": 23233943,
+          "clean": 12172590,
+          "mart": 7703806
         },
-        "started_at": "2026-11-08T20:05:39.755469+00:00",
-        "finished_at": "2026-11-08T20:05:40.982187+00:00",
-        "duration_seconds": 1.227
+        "started_at": "2026-11-08T22:01:13.529961+00:00",
+        "finished_at": "2026-11-08T22:01:14.576110+00:00",
+        "duration_seconds": 1.046
       }
     }
   ],
@@ -1061,6 +1246,12 @@
         "entity": "Nazione",
         "label": "Nazione",
         "datasets": [
+          {
+            "slug": "atti_api",
+            "name": "Atti Api",
+            "column": "stato",
+            "semantic_type": "country_code"
+          },
           {
             "slug": "atti_index",
             "name": "Atti Index",
@@ -1075,13 +1266,19 @@
           }
         ],
         "types": {
-          "country_code": 2
+          "country_code": 3
         }
       },
       "Tempo": {
         "entity": "Tempo",
         "label": "Tempo / data",
         "datasets": [
+          {
+            "slug": "atti_api",
+            "name": "Atti Api",
+            "column": "anno",
+            "semantic_type": "year"
+          },
           {
             "slug": "atti_index",
             "name": "Atti Index",
@@ -1090,7 +1287,7 @@
           }
         ],
         "types": {
-          "year": 1
+          "year": 2
         }
       }
     },
