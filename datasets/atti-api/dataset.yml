@@ -1,0 +1,61 @@
+root: "../../out"
+schema_version: 1
+
+dataset:
+  name: "atti_api"
+  source_id: "italia_corpus"
+  description: >
+    Atti fetchati singolarmente via Normattiva API (`dettaglio-atto-urn`):
+    leggi ordinarie fuori dalle collezioni ZIP, con vigenza reale. Contratto
+    atto-level: metadati + vigenza + materia. Il testo NON fa parte del
+    contratto (l'endpoint restituisce un solo articolo e resta nel raw): il
+    dataset testi sarà `articoli`. Alimenta i nodi `atti_api` di legal-graph.
+  tags: [normativa, atti, normattiva, api, fuori-collezione]
+  category: normativa
+  years: [2026]
+  time_coverage:
+    start_year: 1942
+    end_year: 2026
+
+raw:
+  output_policy: "overwrite"
+  sources:
+    - name: "atti_api_parquet"
+      type: "local_file"
+      args:
+        path: "../../data/derived/atti_api.parquet"
+        filename: "atti_api.parquet"
+      primary: true
+
+clean:
+  sql: "sql/clean.sql"
+  read:
+    source: auto
+    mode: latest
+  required_columns:
+    - urn
+    - titolo
+    - tipo_descrizione
+    - numero
+    - anno
+    - vigenza_inizio
+    - stato
+    - materia
+  validate:
+    # URN = identità dell'atto (una riga per atto fetchato)
+    primary_key: [urn]
+    not_null: [urn, stato]
+    min_rows: 100
+
+mart:
+  tables:
+    - name: "mart_atti_api_materia"
+      sql: "sql/mart_atti_api_materia.sql"
+  required_tables:
+    - "mart_atti_api_materia"
+  validate:
+    table_rules:
+      mart_atti_api_materia:
+        required_columns: [materia, stato, n_atti]
+        primary_key: [materia, stato]
+        min_rows: 3
