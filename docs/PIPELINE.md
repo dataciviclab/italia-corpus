@@ -116,6 +116,12 @@ Regola unica:
 |---|---|---|---|
 | `normativa` | `normativa` | atto (metadati, stato, materia, qualità, EIV) | legal-graph, MCP, analisi |
 | `riferimenti` | `riferimenti` | arco fonte→bersaglio | legal-graph, debt |
+
+`riferimenti` espone anche **`mart_riferimenti_urn`** (`fonte_urn`, `bersaglio_urn`,
+`rel_type`, `peso`, `fonte_anno`, `bersaglio_anno`, `contesto`,
+`clausola_lettura`): è il contratto **URN-based** che usa legal-graph (join
+esatto sui nodi, nessuna normalizzazione nel compose). Il clean filename-based
+resta per coverage e mart analitici.
 | `akn_relations` | `akn_relations` | relazione AKN tipizzata | legal-graph |
 | `akn_act_meta` | `akn_act_meta` | atto (EIV, modifiche, ELI) | legal-graph |
 | `atti_index` | `atti_index` | atto del catalogo (~205k) | legal-graph, analisi di copertura |

@@ -14,13 +14,13 @@ from __future__ import annotations
 import logging
 import re
 import urllib.parse
-from collections import Counter
+from collections import Counter, defaultdict
 from pathlib import Path
 
 from lab_tools._paths import COLLEZIONI_ROOT, OUTDIR, collezioni_legislative
 from lab_tools.classifica_riferimenti import clausola_di_lettura
 from lab_tools.identity import build_indice_identita, data_codice
-from lab_tools.urn import expand_index
+from lab_tools.urn import annual_key, expand_index
 from lab_tools.urn import lookup as urn_lookup
 from lab_tools.urn import regola as urn_regola
 
@@ -71,6 +71,7 @@ def _load_normativa_lookup() -> dict[str, dict]:
         fn = row.get("filename", "")
         if fn:
             lookup[fn] = {
+                "urn": row.get("urn", "") or "",
                 "collezione": row.get("collezione", ""),
                 "anno_atto": row.get("anno_atto", 0),
                 "tipo": row.get("tipo", ""),
@@ -300,9 +301,38 @@ def _urn_anno_tipo(urn: str) -> tuple[int, str]:
     return (int(m.group(2)), m.group(1))
 
 
+def _load_atti_index_urn() -> dict[tuple[str, str, str, str], str]:
+    """(emittente, tipo_slug, anno, numero) -> URN canonica dal catalogo.
+
+    legal-graph fa join esatto su `nodes.id`: qui diamo un'identità canonica
+    ai bersagli AKN **fuori corpus** (le citation restano agganciabili ai nodi
+    catalogo). Solo chiavi univoche, stessa guardia di `urn.expand_index`.
+
+    Se `atti_index.parquet` manca (es. `make pipeline-core`, che non include
+    lo stage atti-index) il grafo resta con la URN grezza: nessun errore, e
+    legal-graph scarta quei bersagli come prima.
+    """
+    path = OUTDIR / "atti_index.parquet"
+    if not path.exists():
+        print("  atti_index.parquet assente: bersagli fuori corpus con URN grezza")
+        return {}
+    try:
+        import pandas as pd
+    except ImportError:
+        return {}
+    df = pd.read_parquet(path, columns=["urn"])
+    chiavi: dict[tuple, list[str]] = defaultdict(list)
+    for urn in df["urn"].dropna():
+        k = annual_key(urn)
+        if k:
+            chiavi[k].append(urn)
+    return {k: v[0] for k, v in chiavi.items() if len(set(v)) == 1}
+
+
 def _archi_da_akn_relations(
     normativa: dict[str, dict],
     urn_to_fn: dict[str, str],
+    atti_urn: dict[tuple[str, str, str, str], str] | None = None,
 ) -> list[dict]:
     """Citation AKN (origin=ref) con la **fonte** nel corpus.
 
@@ -359,6 +389,12 @@ def _archi_da_akn_relations(
         f_meta = normativa.get(Path(f_fn).name, {})
         t_meta = normativa.get(Path(t_fn).name, {}) if is_risolto else {}
         anno_urn, tipo_urn = _urn_anno_tipo(t_urn)
+        if is_risolto:
+            bersaglio_urn = (t_meta.get("urn", "") or "").strip() or (t_urn or "").strip()
+        else:
+            # fuori corpus: prova la URN canonica del catalogo, altrimenti grezza
+            k = annual_key(t_urn)
+            bersaglio_urn = (atti_urn or {}).get(k, (t_urn or "").strip()) if k else (t_urn or "").strip()
         # pandas: le righe senza contesto sono NaN (float), non None/"".
         _contesto = row.get("contesto")
         contesto = _contesto.strip() if isinstance(_contesto, str) else ""
@@ -370,11 +406,13 @@ def _archi_da_akn_relations(
                 "fonte_tipo": f_meta.get("tipo", ""),
                 "fonte_materia": f_meta.get("materia", ""),
                 "fonte_stato": f_meta.get("stato", ""),
+                "fonte_urn": (f_meta.get("urn", "") or "").strip(),
                 "bersaglio_filename": Path(t_fn).name if is_risolto else "",
                 "bersaglio_path": t_fn or "",
-                # Identità del bersaglio anche fuori corpus: legal-graph la usa
-                # per agganciare la citazione ai nodi (atti_api/stub).
-                "bersaglio_urn": (t_urn or "").strip(),
+                # Identità del bersaglio: URN canonica (corpus o catalogo) se
+                # nota, altrimenti la forma grezza dell'AKN. legal-graph fa
+                # join esatto sui nodi.
+                "bersaglio_urn": bersaglio_urn,
                 "bersaglio_collezione": Path(t_fn).parent.name if is_risolto else "",
                 "bersaglio_anno": t_meta.get("anno_atto", anno_urn),
                 "bersaglio_tipo": t_meta.get("tipo", "") or tipo_urn,
@@ -586,9 +624,10 @@ def main():
                     "fonte_stato": fonte_meta.get("stato", ""),
                     "bersaglio_filename": bersaglio_fn,
                     "bersaglio_path": bp or "",
-                    # I link regex non espongono un URN: la colonna resta vuota
-                    # (le citation AKN invece la valorizzano, anche fuori corpus).
-                    "bersaglio_urn": "",
+                    "fonte_urn": fonte_meta.get("urn", "") or "",
+                    # Bersaglio risolto: URN canonica del corpus. Non risolto:
+                    # vuota (i link regex non espongono un URN).
+                    "bersaglio_urn": (bersaglio_meta.get("urn", "") or "") if risolto else "",
                     "bersaglio_collezione": bersaglio_meta.get("collezione", ""),
                     "bersaglio_anno": bersaglio_meta.get("anno_atto", 0),
                     "bersaglio_tipo": bersaglio_meta.get("tipo", ""),
@@ -607,7 +646,9 @@ def main():
 
     print("Union AKN (citation strutturate)...")
     urn_to_fn = _load_urn_to_relpath()
-    archi.extend(_archi_da_akn_relations(normativa, urn_to_fn))
+    atti_urn = _load_atti_index_urn()
+    print(f"  indice URN catalogo: {len(atti_urn)} chiavi")
+    archi.extend(_archi_da_akn_relations(normativa, urn_to_fn, atti_urn))
 
     # Un arco per chiave = PK del clean (fonte_source_path, bersaglio_source_path,
     # origine). Il dedup AKN copre la causa nota (alias URN); qui si applica

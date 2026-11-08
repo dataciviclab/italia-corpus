@@ -424,6 +424,29 @@ class TestCitationFuoriCorpus:
         assert len(archi) == 2
         assert len({a["bersaglio_urn"] for a in archi}) == 2
 
+    def test_bersaglio_canonicalizzato_dal_catalogo(self, tmp_path, monkeypatch):
+        """La URN grezza viene risolta sulla forma canonica del catalogo.
+
+        legal-graph fa join esatto su `nodes.id`: la normalizzazione vive qui,
+        non nel compose.
+        """
+        from lab_tools import grafo_riferimenti as g
+
+        self._parquet(tmp_path, ["urn:nir:stato:legge:1990;241"])
+        monkeypatch.setattr(g, "OUTDIR", tmp_path)
+        atti = {("stato", "legge", "1990", "241"): "urn:nir:stato:legge:1990-08-07;241"}
+        archi = g._archi_da_akn_relations({}, self.MAPPA, atti)
+        assert archi[0]["bersaglio_urn"] == "urn:nir:stato:legge:1990-08-07;241"
+
+    def test_senza_catalogo_resta_la_urn_grezza(self, tmp_path, monkeypatch):
+        """`atti_index.parquet` assente (pipeline-core): nessun errore, URN grezza."""
+        from lab_tools import grafo_riferimenti as g
+
+        self._parquet(tmp_path, ["urn:nir:stato:legge:1990;241"])
+        monkeypatch.setattr(g, "OUTDIR", tmp_path)
+        archi = g._archi_da_akn_relations({}, self.MAPPA, None)
+        assert archi[0]["bersaglio_urn"] == "urn:nir:stato:legge:1990;241"
+
     def test_fonte_assente_saltata_conteggi_coerenti(self, tmp_path, monkeypatch):
         """Righe senza fonte si saltano; l'invariante di conteggio
         (skip + risolti + fuori corpus == righe) resta verificato.

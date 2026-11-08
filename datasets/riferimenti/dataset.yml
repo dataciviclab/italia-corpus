@@ -33,8 +33,10 @@ clean:
     - fonte_source_file
     - bersaglio_source_file
     - fonte_filename
+    - fonte_urn
     - bersaglio_filename
     - bersaglio_urn
+    - rel_type
     - peso
     - risolto
     - origine
@@ -49,6 +51,8 @@ clean:
 
 mart:
   tables:
+    - name: "mart_riferimenti_urn"
+      sql: "sql/mart_riferimenti_urn.sql"
     - name: "mart_debt_legale"
       sql: "sql/mart_debt_legale.sql"
     - name: "mart_citazioni_per_origine"
@@ -56,11 +60,16 @@ mart:
     - name: "mart_top_bersagli"
       sql: "sql/mart_top_bersagli.sql"
   required_tables:
+    - "mart_riferimenti_urn"
     - "mart_debt_legale"
     - "mart_citazioni_per_origine"
     - "mart_top_bersagli"
   validate:
     table_rules:
+      mart_riferimenti_urn:
+        required_columns: [fonte_urn, bersaglio_urn, rel_type, peso]
+        primary_key: [fonte_urn, bersaglio_urn, rel_type]
+        min_rows: 50000
       mart_debt_legale:
         required_columns: [fonte_stato, bersaglio_stato, n_archi]
         primary_key: [fonte_stato, bersaglio_stato, origine]
