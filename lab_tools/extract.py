@@ -240,14 +240,14 @@ def _marca_duplicati(records: list[dict]) -> None:
         r["duplicato"] = bool(urn) and correnti.get(urn, 0) > 1
 
 
-def main() -> int:
+def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Estrae metadati e testi dal corpus")
     parser.add_argument(
         "--testi-only",
         action="store_true",
         help="scrive solo data/derived/testi.parquet (non tocca normativa.parquet)",
     )
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
 
     OUTDIR.mkdir(parents=True, exist_ok=True)
     records: list[dict] = []
@@ -291,6 +291,7 @@ def main() -> int:
         print(f"Parquet: {pqt} ({len(df)} righe)")
     except ImportError:
         print("pandas non installato, parquet non generato.")
+    return 0
 
 
 if __name__ == "__main__":

@@ -14,7 +14,7 @@ dataset:
   category: normativa
   years: [2026]
   time_coverage:
-    start_year: 1861
+    start_year: 1874
     end_year: 2026
 
 raw:
@@ -23,7 +23,9 @@ raw:
     - name: "testi_parquet"
       type: "local_file"
       args:
-        # ~98MB, non committato: rigenerato dal publish con `make extract`
+        # ~98MB, non committato: rigenerato dal publish con
+        # `python -m lab_tools.extract --testi-only` (NON `make extract`:
+        # sovrascriverebbe normativa senza gli enrichment)
         path: "../../data/derived/testi.parquet"
         filename: "testi.parquet"
       primary: true

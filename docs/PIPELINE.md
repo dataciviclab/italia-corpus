@@ -142,7 +142,7 @@ classificatore del corpus: i gap di tassonomia sono tracciati in #81
 | `citazioni-costituzionali.parquet` | `integra` + legal-graph | **debito**: fondere in `riferimenti` come `cita_costituzione` |
 | `pnrr_references.parquet` | legal-graph | **debito**: fondere in `riferimenti` |
 | `atti_api.parquet` | `datasets/atti-api` | promosso a contratto (2026-11) |
-| `testi.parquet` | `datasets/testi` | **gitignored** (~98MB), rigenerato dal publish con `make extract` |
+| `testi.parquet` | `datasets/testi` | **gitignored** (~98MB), rigenerato dal publish con `python -m lab_tools.extract --testi-only` |
 | `allegati.parquet` | consumer esterni | **indice pubblicato su GCS** (2026-11, #112): i MD (188,8 MB) sono già lì |
 | `collezioni_probe.json` | probe/CI | **committato**: storia dei formati |
 
