@@ -13,6 +13,7 @@ SELECT
     COUNT(DISTINCT r.bersaglio_source_file) AS n_bersagli
 FROM clean_input r
 WHERE r.risolto = true
+  AND r.rel_type = 'citation'
   AND r.fonte_stato = 'vigente'
   AND r.bersaglio_stato IN ('abrogato', 'decaduto')
 GROUP BY 1, 2, 3

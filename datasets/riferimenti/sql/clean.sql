@@ -21,6 +21,7 @@
 WITH base AS (
     SELECT
         fonte_filename,
+        fonte_urn,
         fonte_collezione,
         fonte_anno,
         fonte_tipo,
@@ -92,6 +93,7 @@ SELECT
     fonte_source_file,
     bersaglio_source_file,
     fonte_filename,
+    fonte_urn,
     bersaglio_filename,
     bersaglio_urn,
     TRY_CAST(fonte_anno AS INTEGER)   AS fonte_anno,

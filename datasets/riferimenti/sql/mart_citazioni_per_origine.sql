@@ -11,6 +11,7 @@ SELECT
     SUM(CASE WHEN clausola_lettura THEN 1 ELSE 0 END) AS n_clausole_lettura,
     SUM(CASE WHEN clausola_lettura IS NULL THEN 1 ELSE 0 END) AS n_non_classificabili
 FROM clean_input
+WHERE rel_type = 'citation'
 GROUP BY origine
 HAVING COUNT(*) >= 1
 ORDER BY n_archi DESC

@@ -101,21 +101,68 @@ coincide con la collezione ufficiale **"Atti normativi abrogati"** (~124k atti)
 
 ---
 
-## Output pubblici (contratti)
+## Staging vs contratti
 
-| Artifact | Contenuto | Consumatori tipici |
+Regola unica:
+
+> `data/derived/` è **staging**: forma libera, può cambiare senza preavviso e
+> **nessun repo esterno lo legge**. Se un repo esterno lo legge, deve esistere
+> `datasets/<nome>` e il consumer usa `slug` + `layer` (`clean`/`mart`) dal
+> registry.
+
+### Contratti (pubblicati, letti da altri repo)
+
+| Dataset (`datasets/`) | Slug registry | Grain | Consumatori |
+|---|---|---|---|
+| `normativa` | `normativa` | atto (metadati, stato, materia, qualità, EIV) | legal-graph, MCP, analisi |
+| `riferimenti` | `riferimenti` | arco fonte→bersaglio (citation + abroga) | legal-graph, debt |
+| `akn_relations` | `akn_relations` | relazione AKN tipizzata | legal-graph |
+| `akn_act_meta` | `akn_act_meta` | atto (EIV, modifiche, ELI) | legal-graph |
+| `atti_index` | `atti_index` | atto del catalogo (~205k), `materia` inclusa | legal-graph, analisi di copertura |
+| `atti_api` | `atti_api` | atto fuori collezione (vigenza, materia) | legal-graph (nodi + `attua_delega`) |
+
+`riferimenti` espone anche **`mart_riferimenti_urn`** (`fonte_urn`, `bersaglio_urn`,
+`rel_type`, `peso`, `fonte_anno`, `bersaglio_anno`, `contesto`,
+`clausola_lettura`, `da_regex`): è il contratto **URN-based** che usa legal-graph
+(join esatto sui nodi, nessuna normalizzazione nel compose). Il clean
+filename-based resta per coverage e mart analitici.
+
+`atti_index` è l'unico con il raw **non committato** (rigenerato da
+`make atti-index` prima del publish). La `materia` del catalogo usa lo stesso
+classificatore del corpus: i gap di tassonomia sono tracciati in #81
+(multi-etichetta, natura dell'atto).
+
+### Staging (`data/derived/`, interno)
+
+| Artifact | Uso | Note |
 |---|---|---|
-| `collezioni/**/*.md` | testo + frontmatter URN | MCP, agenti, ricerca |
-| `normativa.parquet` | atto: metadati + identità (`versione`/`snapshot_data`/`is_current`) + qualità + materia/sunsetting + EIV/AKN + `stato`/`vigenza_fonte` | legal-graph, MCP, analisi |
-| `status.parquet` | status atto-level autorevole (`codice_redazionale`+`data_gu` → `stato`, `classe`) | `integra-vigenza` (non pubblicato, non committato) |
-| `atti_api.parquet` | leggi ordinarie fuori collezione (fetch `dettaglio-atto-urn`: vigenza + HTML) | legal-graph (nodi + target euristiche `attua_delega`) |
-| `collezioni_probe.json` | formati disponibili per collezione (O/V/M), `numeroAtti`, `dataCreazione`, stato del pin e `senza_pin_da` (probe consecutivi congelati) — **committato**: è la storia dei cambi di formato della fonte | diagnosi freeze, CI | 
-| `atti_index.parquet` | catalogo ufficiale Normattiva: una riga per atto, PK `(codice_redazionale, data_gu)`, `stato` da classeProvvedimento (3 = lista abrogati), `in_corpus`, `urn`/`urn_fonte` appresa, `materia` (classificatore del corpus, calcolata sull'oggetto) — **non committato**, pubblicato dal layer toolkit (`datasets/atti-index/`) | legal-graph (identità degli edge di citazione e filtri tematici dei nodi catalogo), analisi di copertura |
-| `riferimenti.parquet` | archi `peso`, `risolto`, `origine` (regex\|akn), `bersaglio_urn` (anche fuori corpus) | legal-graph, debt |
-| `allegati.parquet` | indice allegati AKN: `data_codice`+`doc_id` → `doc_name`, `chars`, `hash`, `versione`, `rel_path` (contenuto su GCS) | legal-graph (`legal_text`) |
-| `akn_relations.parquet` | relazioni AKN tipizzate (full-corpus su fetch completo) | clean/tabella propria, debug |
-| `akn_act_meta.parquet` | EIV, mod counts, ELI per atto (join `urn` 100% su fetch completo) | vigenza, quality |
-| `abrogations_raw.parquet` | fallback regex abrogazioni | integra + analisi (AKN repeal = tipizzato) |
+| `status.parquet` | `integra-vigenza` | status autorevole, non pubblicato |
+| `abrogations_raw.parquet` | `integra` + coverage | **fuso** in `riferimenti` come `rel_type='abroga'` (2026-11); resta letto solo dalla coverage come misura della fonte |
+| `citazioni-costituzionali.parquet` | `integra` + legal-graph | **debito**: fondere in `riferimenti` come `cita_costituzione` |
+| `pnrr_references.parquet` | legal-graph | **debito**: fondere in `riferimenti` |
+| `atti_api.parquet` | `datasets/atti-api` | promosso a contratto (2026-11) |
+| `allegati.parquet` | nessuno (indice) | **indice non pubblicato**: i MD (188,8 MB) sono già su GCS, manca l'indice per scoprirli — fix in #112 |
+| `collezioni_probe.json` | probe/CI | **committato**: storia dei formati |
+
+### Testi
+
+| Artifact | Stato |
+|---|---|
+| `collezioni/**/*.md` | testo + frontmatter URN; servito da `legal_text` via GitHub raw |
+| `testi` (dataset) | **mancante**: `filename, urn, testo` dal body dei MD (~77-98 MB parquet), zero fetch — #111 |
+| `articoli` (dataset) | **mancante**: grano articolo, da AKN XML (commi, `eId`, `ins`/`del`). Raffinamento successivo di `testi` |
+
+### Nomi (convenzione)
+
+- directory: trattino (`akn-relations/`, `atti-index/`)
+- slug registry e file sorgente: underscore (`akn_relations`, `atti_index`, `akn_relations.parquet`)
+- `normativa` è **atto-level metadata**: non contiene il testo (che è `collezioni/` oggi, `testi`/`articoli` domani). Il nome è storico; una rinomina a `atti` sarebbe un cambio di contratto (shim necessario).
+
+### Debiti dichiarati
+
+1. `citazioni_costituzionali` e `pnrr_references` sono ancora letti da legal-graph via `path:` (fuori contratto): target non-atto (`costituzione:art:N`, `pnrr:missione:N`), da promuovere a dataset. `abrogations_raw` è **fuso** in `riferimenti` (`rel_type='abroga'`).
+2. `allegati.parquet` è l'indice di un contenuto già pubblicato (5.492 MD su GCS): va pubblicato lui (#112), non rimosso.
+3. `data/derived` è in git **e** su GCS: doppio canale. Quando i debiti 1-2 sono chiusi, il derived può essere interamente gitignored (il contract check va ribasato su GCS).
 
 ### Convenzioni path (contratto)
 
