@@ -14,7 +14,7 @@ dataset:
   category: normativa
   years: [2026]
   time_coverage:
-    start_year: 1942
+    start_year: 1865
     end_year: 2026
 
 raw:

@@ -139,22 +139,22 @@ class TestChiaveArco:
 
     def test_akn_basename_usa_collezione(self):
         a = _arco("a.md", bersaglio_path="b.md", origine="akn", collezione="Leggi")
-        assert _chiave_arco(a) == ("Leggi/a.md", "b.md", "akn")
+        assert _chiave_arco(a) == ("Leggi/a.md", "b.md", "akn", "citation")
 
     def test_regex_relpath(self):
         a = _arco("Leggi/a.md", bersaglio_path="Codici/b.md", origine="regex")
-        assert _chiave_arco(a) == ("Leggi/a.md", "Codici/b.md", "regex")
+        assert _chiave_arco(a) == ("Leggi/a.md", "Codici/b.md", "regex", "citation")
 
     def test_regex_non_risolto_usa_il_link(self):
         """`bersaglio_path` vuoto → la PK usa `bersaglio_filename` (il link)."""
         a = _arco("Leggi/a.md", bersaglio_path="", bersaglio_fn="Altro/x.md", origine="regex")
-        assert _chiave_arco(a) == ("Leggi/a.md", "Altro/x.md", "regex")
+        assert _chiave_arco(a) == ("Leggi/a.md", "Altro/x.md", "regex", "citation")
 
     def test_akn_fuori_corpus_usa_urn(self):
         """Citation AKN senza filename: la PK usa `bersaglio_urn`."""
         a = _arco("Leggi/a.md", bersaglio_path="", bersaglio_fn="", origine="akn")
         a["bersaglio_urn"] = "urn:nir:stato:legge:1990-08-07;241"
-        assert _chiave_arco(a) == ("Leggi/a.md", "urn:nir:stato:legge:1990-08-07;241", "akn")
+        assert _chiave_arco(a) == ("Leggi/a.md", "urn:nir:stato:legge:1990-08-07;241", "akn", "citation")
 
 
 class TestDedupArchi:
@@ -496,3 +496,76 @@ class TestCitationFuoriCorpus:
         )
         archi = g._archi_da_akn_relations({}, mappa)
         assert len(archi) == 2, "la riga con fonte assente deve essere saltata"
+
+
+class TestArchiAbrogazioni:
+    """Fold di `abrogations_raw`: risoluzione anno+numero e guardia temporale."""
+
+    def _normativa(self):
+        return {
+            "s.md": {
+                "urn": "urn:nir:stato:legge:2020-01-01;1",
+                "anno_atto": 2020,
+                "numero": "1",
+                "tipo": "LEGGE",
+                "collezione": "Leggi",
+                "materia": "",
+                "stato": "vigente",
+            },
+            "t.md": {
+                "urn": "urn:nir:stato:legge:2010-01-01;2",
+                "anno_atto": 2010,
+                "numero": "2",
+                "tipo": "LEGGE",
+                "collezione": "Leggi",
+                "materia": "",
+                "stato": "vigente",
+            },
+            "old.md": {
+                "urn": "urn:nir:stato:legge:2000-01-01;3",
+                "anno_atto": 2000,
+                "numero": "3",
+                "tipo": "LEGGE",
+                "collezione": "Leggi",
+                "materia": "",
+                "stato": "vigente",
+            },
+        }
+
+    def _parquet(self, tmp_path):
+        import pandas as pd
+
+        df = pd.DataFrame(
+            [
+                # valida: 2020 abroga 2010
+                {"abrogating_file": "s.md", "abrogating_collection": "Leggi",
+                 "abrogated_year": 2010, "abrogated_number": 2, "context": "ok"},
+                # impossibile: 2000 abroga 2020
+                {"abrogating_file": "old.md", "abrogating_collection": "Leggi",
+                 "abrogated_year": 2020, "abrogated_number": 1, "context": "no"},
+                # target non nel corpus
+                {"abrogating_file": "s.md", "abrogating_collection": "Leggi",
+                 "abrogated_year": 1999, "abrogated_number": 9, "context": "no"},
+            ]
+        )
+        df.to_parquet(tmp_path / "abrogations_raw.parquet")
+
+    def test_risolve_e_applica_la_guardia(self, tmp_path, monkeypatch):
+        from lab_tools import grafo_riferimenti as g
+
+        self._parquet(tmp_path)
+        monkeypatch.setattr(g, "OUTDIR", tmp_path)
+        archi = g._archi_da_abrogazioni(self._normativa())
+        assert len(archi) == 1, archi
+        a = archi[0]
+        assert a["rel_type"] == "abroga"
+        assert a["fonte_urn"] == "urn:nir:stato:legge:2020-01-01;1"
+        assert a["bersaglio_urn"] == "urn:nir:stato:legge:2010-01-01;2"
+        assert a["fonte_filename"] == "Leggi/s.md"
+        assert a["risolto"] is True
+
+    def test_file_assente(self, tmp_path, monkeypatch):
+        from lab_tools import grafo_riferimenti as g
+
+        monkeypatch.setattr(g, "OUTDIR", tmp_path)
+        assert g._archi_da_abrogazioni(self._normativa()) == []

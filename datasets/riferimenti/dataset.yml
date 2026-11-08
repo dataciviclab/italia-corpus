@@ -45,7 +45,7 @@ clean:
     - clausola_lettura
   validate:
     # path-aware: basename-only collasserebbe fonti diverse dello stesso file
-    primary_key: [fonte_source_path, bersaglio_source_path, origine]
+    primary_key: [fonte_source_path, bersaglio_source_path, origine, rel_type]
     not_null: [fonte_source_path, bersaglio_source_path, peso]
     min_rows: 100000
 

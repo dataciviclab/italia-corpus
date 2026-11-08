@@ -230,6 +230,9 @@ def _chiave_arco(a: dict) -> tuple[str, str, str]:
 
     Per le citation **AKN non risolte** non esiste alcun filename: la PK usa
     `bersaglio_urn` (atto fuori corpus, es. L. 241/1990).
+
+    La chiave include `rel_type`: citation e abroga vivono nello stesso file e
+    il mart le distingue, quindi il dedup non deve collassarle.
     """
     fonte_fn = a.get("fonte_filename") or ""
     bersaglio_fn = a.get("bersaglio_filename") or ""
@@ -256,7 +259,12 @@ def _chiave_arco(a: dict) -> tuple[str, str, str]:
     else:
         bersaglio_source_path = ""
 
-    return (fonte_source_path, bersaglio_source_path, a.get("origine") or "")
+    return (
+        fonte_source_path,
+        bersaglio_source_path,
+        a.get("origine") or "",
+        a.get("rel_type") or "citation",
+    )
 
 
 def _dedup_archi(archi: list[dict]) -> list[dict]:
@@ -321,7 +329,11 @@ def _load_atti_index_urn() -> dict[tuple[str, str, str, str], str]:
         import pandas as pd
     except ImportError:
         return {}
-    df = pd.read_parquet(path, columns=["urn"])
+    try:
+        df = pd.read_parquet(path, columns=["urn"])
+    except (OSError, ValueError, KeyError) as exc:  # parquet corrotto / colonna assente
+        print(f"  atti_index.parquet illeggibile ({exc}): bersagli con URN grezza")
+        return {}
     chiavi: dict[tuple, list[str]] = defaultdict(list)
     for urn in df["urn"].dropna():
         k = annual_key(urn)
@@ -363,7 +375,11 @@ def _archi_da_abrogazioni(normativa: dict[str, dict]) -> list[dict]:
                 continue
 
     archi: list[dict] = []
-    df = pd.read_parquet(path)
+    try:
+        df = pd.read_parquet(path)
+    except (OSError, ValueError, KeyError) as exc:  # parquet corrotto / colonne assenti
+        print(f"  abrogations_raw.parquet illeggibile ({exc}): archi abroga non aggiunti")
+        return []
     for _, row in df.iterrows():
         f_file = str(row.get("abrogating_file") or "").strip()
         f_coll = str(row.get("abrogating_collection") or "").strip()

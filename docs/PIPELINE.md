@@ -115,21 +115,22 @@ Regola unica:
 | Dataset (`datasets/`) | Slug registry | Grain | Consumatori |
 |---|---|---|---|
 | `normativa` | `normativa` | atto (metadati, stato, materia, qualità, EIV) | legal-graph, MCP, analisi |
-| `riferimenti` | `riferimenti` | arco fonte→bersaglio | legal-graph, debt |
-
-`riferimenti` espone anche **`mart_riferimenti_urn`** (`fonte_urn`, `bersaglio_urn`,
-`rel_type`, `peso`, `fonte_anno`, `bersaglio_anno`, `contesto`,
-`clausola_lettura`): è il contratto **URN-based** che usa legal-graph (join
-esatto sui nodi, nessuna normalizzazione nel compose). Il clean filename-based
-resta per coverage e mart analitici.
+| `riferimenti` | `riferimenti` | arco fonte→bersaglio (citation + abroga) | legal-graph, debt |
 | `akn_relations` | `akn_relations` | relazione AKN tipizzata | legal-graph |
 | `akn_act_meta` | `akn_act_meta` | atto (EIV, modifiche, ELI) | legal-graph |
 | `atti_index` | `atti_index` | atto del catalogo (~205k), `materia` inclusa | legal-graph, analisi di copertura |
-
-La `materia` del catalogo usa lo stesso classificatore del corpus: i gap di tassonomia sono tracciati in #81 (multi-etichetta, natura dell'atto).
 | `atti_api` | `atti_api` | atto fuori collezione (vigenza, materia) | legal-graph (nodi + `attua_delega`) |
 
-`atti_index` è l'unico con il raw **non committato** (rigenerato da `make atti-index` prima del publish).
+`riferimenti` espone anche **`mart_riferimenti_urn`** (`fonte_urn`, `bersaglio_urn`,
+`rel_type`, `peso`, `fonte_anno`, `bersaglio_anno`, `contesto`,
+`clausola_lettura`, `da_regex`): è il contratto **URN-based** che usa legal-graph
+(join esatto sui nodi, nessuna normalizzazione nel compose). Il clean
+filename-based resta per coverage e mart analitici.
+
+`atti_index` è l'unico con il raw **non committato** (rigenerato da
+`make atti-index` prima del publish). La `materia` del catalogo usa lo stesso
+classificatore del corpus: i gap di tassonomia sono tracciati in #81
+(multi-etichetta, natura dell'atto).
 
 ### Staging (`data/derived/`, interno)
 
