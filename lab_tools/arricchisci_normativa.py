@@ -67,6 +67,11 @@ def _conta_citazioni_per_atto(df_norm, df_rif):
     import pandas as pd
 
     rif = df_rif[df_rif["risolto"] == True]  # noqa: E712
+    # dal 2026-11 `riferimenti` contiene anche gli archi `abroga` (bersaglio
+    # senza filename): non sono citazioni in ingresso e falserebbero il totale
+    # dell'invariante. Filtro solo se la colonna esiste (parquet pre-fold).
+    if "rel_type" in rif.columns:
+        rif = rif[rif["rel_type"] == "citation"]
     incoming = rif.groupby("bersaglio_filename").size()
 
     df = df_norm.copy()
@@ -103,7 +108,7 @@ def _conta_citazioni_per_atto(df_norm, df_rif):
     totale = int(df["n_citazioni"].sum())
     if totale != attesi:
         raise ValueError(
-            f"invariante: Σ n_citazioni={totale} != archi risolti={attesi} — "
+            f"invariante: Σ n_citazioni={totale} != citazioni risolte={attesi} — "
             "il conteggio per atto deve conservare la somma (per-filename, non "
             "per-atto, perderebbe le citazioni su espressioni non correnti)"
         )
