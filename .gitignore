@@ -29,3 +29,5 @@ data/derived/status.parquet
 # Indice catalogo Normattiva (rigenerato da `atti-index`; ~200k atti, drift
 # quotidiano — non committato: pubblicato dal layer toolkit, letto da legal-graph)
 data/derived/atti_index.parquet
+# Testi (dataset testi, ~98MB): rigenerato dal publish con `make extract`
+data/derived/testi.parquet

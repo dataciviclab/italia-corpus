@@ -39,7 +39,7 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 | 0 | **probe-collezioni** | `python -m lab_tools.collezioni_probe` | `collezioni_probe.json` (formati O/V/M per collezione + freeze, una richiesta) |
 | 1 | **fetch** | `python -m lab_tools.fetch_normattiva [--only …]` | MD + `akn_*.parquet` (staging + merge) |
 | 1b | **fetch-status** | `python -m lab_tools.fetch_status` | `status.parquet` (solo **abrogati**, classe 3 = lista ufficiale; no testo) |
-| 2 | **extract** | `python -m lab_tools.extract` | `normativa.parquet` (metadati base) |
+| 2 | **extract** | `python -m lab_tools.extract` | `normativa.parquet` (metadati) + `testi.parquet` (filename, urn, testo) |
 | 2b | **atti-index** | `python -m lab_tools.atti_index` | `atti_index.parquet` (catalogo ufficiale, ~205k atti: identità, `stato` da classe 3, `in_corpus`, `materia`) |
 | 3 | **classifica** | `python -m lab_tools.classifica_tematich` | + `materia` (vedi [MATERIA_AUDIT.md](MATERIA_AUDIT.md)) |
 | 4 | **citazioni/pnrr/abrogations** | moduli `estrai_*` / `extract_*` | side product su disco |
@@ -120,6 +120,7 @@ Regola unica:
 | `akn_act_meta` | `akn_act_meta` | atto (EIV, modifiche, ELI) | legal-graph |
 | `atti_index` | `atti_index` | atto del catalogo (~205k), `materia` inclusa | legal-graph, analisi di copertura |
 | `atti_api` | `atti_api` | atto fuori collezione (vigenza, materia) | legal-graph (nodi + `attua_delega`) |
+| `testi` | `testi` | espressione (`filename`, `urn`, testo document-level) | legal-graph (full-text, `legal_text`) |
 
 `riferimenti` espone anche **`mart_riferimenti_urn`** (`fonte_urn`, `bersaglio_urn`,
 `rel_type`, `peso`, `fonte_anno`, `bersaglio_anno`, `contesto`,
@@ -141,7 +142,8 @@ classificatore del corpus: i gap di tassonomia sono tracciati in #81
 | `citazioni-costituzionali.parquet` | `integra` + legal-graph | **debito**: fondere in `riferimenti` come `cita_costituzione` |
 | `pnrr_references.parquet` | legal-graph | **debito**: fondere in `riferimenti` |
 | `atti_api.parquet` | `datasets/atti-api` | promosso a contratto (2026-11) |
-| `allegati.parquet` | nessuno (indice) | **indice non pubblicato**: i MD (188,8 MB) sono già su GCS, manca l'indice per scoprirli — fix in #112 |
+| `testi.parquet` | `datasets/testi` | **gitignored** (~98MB), rigenerato dal publish con `make extract` |
+| `allegati.parquet` | consumer esterni | **indice pubblicato su GCS** (2026-11, #112): i MD (188,8 MB) sono già lì |
 | `collezioni_probe.json` | probe/CI | **committato**: storia dei formati |
 
 ### Testi
@@ -149,7 +151,7 @@ classificatore del corpus: i gap di tassonomia sono tracciati in #81
 | Artifact | Stato |
 |---|---|
 | `collezioni/**/*.md` | testo + frontmatter URN; servito da `legal_text` via GitHub raw |
-| `testi` (dataset) | **mancante**: `filename, urn, testo` dal body dei MD (~77-98 MB parquet), zero fetch — #111 |
+| `testi` (dataset) | **pubblicato** (2026-11): `filename, urn, testo` dal body dei MD, ~98 MB, zero fetch — #111 |
 | `articoli` (dataset) | **mancante**: grano articolo, da AKN XML (commi, `eId`, `ins`/`del`). Raffinamento successivo di `testi` |
 
 ### Nomi (convenzione)
@@ -180,6 +182,7 @@ I parquet derived **non** sono rigenerati in questa PR: al prossimo build CI il 
 
 **Non committare**: zip, XML temporanei, `_akn_stage/`, `*.csv` locali.  
 **Sì in git**: derived deliberati del contratto Lab (oggi versionati nel repo).
+**No in git**: `testi.parquet`, `atti_index.parquet`, `status.parquet` (rigenerati nel publish).
 
 ---
 

@@ -253,6 +253,10 @@ jobs:
           if [ -d data/derived/allegati ]; then
             gsutil -m rsync -r data/derived/allegati/ "gs://dataciviclab-clean/italia-corpus/allegati/"
           fi
+          # indice allegati (#112): senza, i consumer non sanno quali file leggere
+          if [ -f data/derived/allegati.parquet ]; then
+            gsutil -q cp data/derived/allegati.parquet "gs://dataciviclab-clean/italia-corpus/allegati.parquet"
+          fi
       - name: Commit derived if changed
         run: |
           if [ -n "$(git status --porcelain -- data/derived collezioni)" ]; then
@@ -275,7 +279,9 @@ jobs:
       repo-slug: "italia-corpus"
       # atti_index è gitignored: va rigenerato qui, altrimenti `make toolkit-run`
       # salta il dataset (guardia) e il registry non si aggiorna.
-      pre-run-command: "make atti-index || echo '::warning::atti_index non generato (WAF?) — dataset saltato'"
+      # atti_index e testi sono gitignored: vanno rigenerati qui, altrimenti
+      # `make toolkit-run` salta i dataset. `extract` legge solo `collezioni/`.
+      pre-run-command: "python -m lab_tools.extract --testi-only && (make atti-index || echo '::warning::atti_index non generato (WAF?) — dataset saltato')"
       run-command: "make toolkit-run"
     permissions:
       contents: write
