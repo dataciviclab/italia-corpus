@@ -8,6 +8,7 @@ Uso: python -m lab_tools.extract
 
 from __future__ import annotations
 
+import argparse
 import re
 from pathlib import Path
 
@@ -168,6 +169,9 @@ def extract(filepath: Path, collezione: str = "") -> dict | None:
         "stato": stato,
         "versione": versione, "snapshot_data": snapshot_data,
         "vigente": stato == "vigente",
+        # il testo viaggia nel record (è già in memoria): `main` lo scrive in
+        # `testi.parquet` e lo toglie da `normativa.parquet`
+        "testo": body,
         **metrics,
     }
 
@@ -236,7 +240,15 @@ def _marca_duplicati(records: list[dict]) -> None:
         r["duplicato"] = bool(urn) and correnti.get(urn, 0) > 1
 
 
-def main():
+def main(argv: list[str] | None = None) -> int:
+    parser = argparse.ArgumentParser(description="Estrae metadati e testi dal corpus")
+    parser.add_argument(
+        "--testi-only",
+        action="store_true",
+        help="scrive solo data/derived/testi.parquet (non tocca normativa.parquet)",
+    )
+    args = parser.parse_args(argv)
+
     OUTDIR.mkdir(parents=True, exist_ok=True)
     records: list[dict] = []
     for col_dir in collezioni_legislative():
@@ -264,12 +276,23 @@ def main():
     try:
         import pandas as pd
         df = pd.DataFrame(records)
+        # testi: dataset separato (filename, urn, testo). Il testo NON va in
+        # `normativa` (metadati) né in git: zstd ~98MB, rigenerato nel publish.
+        testi = df[["filename", "urn", "testo"]].copy()
+        tpq = OUTDIR / "testi.parquet"
+        testi.to_parquet(tpq, index=False, compression="zstd")
+        print(f"Testi: {tpq} ({len(testi)} righe, {testi['testo'].str.len().sum()/1e6:.0f} MB)")
+        if args.testi_only:
+            # nel publish-on-merge non c'è il derive completo: non toccare
+            # `normativa.parquet` (senza materia/stato/qualità sarebbe un regressione)
+            return 0
         pqt = OUTDIR / "normativa.parquet"
-        df.to_parquet(pqt, index=False)
+        df.drop(columns=["testo"]).to_parquet(pqt, index=False)
         print(f"Parquet: {pqt} ({len(df)} righe)")
     except ImportError:
         print("pandas non installato, parquet non generato.")
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())

@@ -249,3 +249,60 @@ class TestDetectStato:
 
     def test_vuoto(self):
         assert _detect_stato("") == "vigente"
+
+
+def test_estrazione_include_il_testo(tmp_path):
+    """Il body viaggia nel record: `main` lo scrive in `testi.parquet`.
+
+    Il dataset `testi` (full-text) nasce da qui; `normativa.parquet` lo scarta.
+    """
+    md = tmp_path / "2020-03-15_020G01234_VIGENZA_2026-01-01_V0.md"
+    md.write_text(
+        "---\n"
+        "tipo: DECRETO LEGISLATIVO\n"
+        "numero: 45\n"
+        "data: 2020-03-15\n"
+        "titolo: Test\n"
+        "urn: urn:nir:stato:decreto.legislativo:2020-03-15;45\n"
+        "codice_redazionale: 020G01234\n"
+        "---\n\n"
+        "Corpo dell'atto.\n"
+    )
+    r = extract(md)
+    assert r is not None
+    assert r["testo"] == "Corpo dell'atto."
+
+
+def test_cli_testi_only_non_tocca_normativa(tmp_path, monkeypatch):
+    """`--testi-only` scrive `testi.parquet` e NON `normativa.parquet`.
+
+    È il path del publish-on-merge: con `make extract` (full) il parquet
+    metadati verrebbe sovrascritto dalla versione base, senza materia/stato/
+    qualità. Il full `main()` invece scrive entrambi.
+    """
+    from lab_tools import extract as mod
+
+    col = tmp_path / "Collezione"
+    col.mkdir()
+    (col / "2020-03-15_020G01234_VIGENZA_2026-01-01_V0.md").write_text(
+        "---\n"
+        "tipo: DECRETO LEGISLATIVO\n"
+        "numero: 45\n"
+        "data: 2020-03-15\n"
+        "titolo: Test\n"
+        "urn: urn:nir:stato:decreto.legislativo:2020-03-15;45\n"
+        "codice_redazionale: 020G01234\n"
+        "---\n\n"
+        "Corpo dell'atto.\n"
+    )
+    monkeypatch.setattr(mod, "OUTDIR", tmp_path)
+    monkeypatch.setattr(mod, "collezioni_legislative", lambda: [col])
+
+    assert mod.main(["--testi-only"]) == 0
+    assert (tmp_path / "testi.parquet").exists()
+    assert not (tmp_path / "normativa.parquet").exists(), (
+        "--testi-only non deve scrivere normativa.parquet"
+    )
+
+    assert mod.main([]) == 0
+    assert (tmp_path / "normativa.parquet").exists()

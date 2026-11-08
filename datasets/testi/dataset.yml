@@ -1,0 +1,62 @@
+root: "../../out"
+schema_version: 1
+
+dataset:
+  name: "testi"
+  source_id: "italia_corpus"
+  description: >
+    Testo del corpus normativa, una riga per espressione (`filename`).
+    Document-level: è il body dei markdown già in `collezioni/` (zero fetch),
+    non il testo strutturato per articolo/comma (quello sarà `articoli`, dal
+    XML AKN). Serve alla ricerca full-text dei consumer (`legal_search` cerca
+    oggi solo nei titoli) e a `legal_text` senza GitHub raw.
+  tags: [normativa, testi, full-text, corpus]
+  category: normativa
+  years: [2026]
+  time_coverage:
+    start_year: 1874
+    end_year: 2026
+
+raw:
+  output_policy: "overwrite"
+  sources:
+    - name: "testi_parquet"
+      type: "local_file"
+      args:
+        # ~98MB, non committato: rigenerato dal publish con
+        # `python -m lab_tools.extract --testi-only` (NON `make extract`:
+        # sovrascriverebbe normativa senza gli enrichment)
+        path: "../../data/derived/testi.parquet"
+        filename: "testi.parquet"
+      primary: true
+
+clean:
+  sql: "sql/clean.sql"
+  read:
+    source: auto
+    mode: latest
+  required_columns:
+    - filename
+    - urn
+    - testo
+  validate:
+    # filename identifica l'espressione (ORIGINALE/VIGENZA) come in `normativa`
+    primary_key: [filename]
+    not_null: [filename, testo]
+    min_rows: 20000
+
+mart:
+  tables:
+    - name: "mart_testi_per_anno"
+      sql: "sql/mart_testi_per_anno.sql"
+  required_tables:
+    - "mart_testi_per_anno"
+  validate:
+    table_rules:
+      mart_testi_per_anno:
+        required_columns: [anno, n_testi, chars_medi]
+        primary_key: [anno]
+        min_rows: 100
+
+validation:
+  fail_on_error: true
