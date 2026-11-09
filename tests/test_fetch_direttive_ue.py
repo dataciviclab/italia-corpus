@@ -51,6 +51,14 @@ class TestBuildRows:
             }
         }
 
+    def _nims(self):
+        return {
+            "31989L0391": [
+                {"notif": "1993-01-15", "data": "1993-01-10", "titolo": "D.Lgs di recepimento"},
+                {"notif": "1001-01-01", "data": None, "titolo": "segnaposto"},
+            ]
+        }
+
     def test_risolto(self):
         df = build_rows(self._targets(), self._works(), self._titles())
         row = df[df["celex"] == "31989L0391"].iloc[0]
@@ -81,3 +89,18 @@ class TestBuildRows:
     def test_ordine_per_citazioni(self):
         df = build_rows(self._targets(), self._works(), self._titles())
         assert list(df["celex"]) == ["31989L0391", "32017L2394"]
+
+    def test_ritardo_recepimento(self):
+        df = build_rows(self._targets(), self._works(), self._titles(), self._nims())
+        row = df[df["celex"] == "31989L0391"].iloc[0]
+        assert row["n_misure_ita"] == 2
+        assert row["prima_notifica_ita"] == "1993-01-15"
+        assert row["prima_misura_ita_data"] == "1993-01-10"
+        assert row["ritardo_recepimento_giorni"] == 10
+        assert row["misura_ita_titolo"] == "D.Lgs di recepimento"
+
+    def test_senza_misure(self):
+        df = build_rows(self._targets(), self._works(), self._titles(), {})
+        row = df[df["celex"] == "31989L0391"].iloc[0]
+        assert row["n_misure_ita"] == 0
+        assert pd.isna(row["ritardo_recepimento_giorni"])
