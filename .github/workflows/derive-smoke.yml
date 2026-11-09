@@ -11,6 +11,8 @@ on:
       - "lab_tools/**"
       - "datasets/**"
       - "config/**"
+  # per provare il gate su un branch prima di mergiarlo
+  workflow_dispatch:
 
 permissions:
   contents: read
