@@ -1,5 +1,5 @@
 .PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-vigenza integra-akn sunsetting citazioni pnrr abrogations fetch-status akn-relations atti-index probe-collezioni stato \
- toolkit-check toolkit-run toolkit-all check
+ toolkit-check toolkit-run toolkit-all check verify-smoke
 
 # Pipeline completa (senza fetch — fetch è CI/manuale)
 # Ordine onesto, coerente con build-dataset.yml:
@@ -42,6 +42,13 @@ toolkit-run:
 	done
 
 toolkit-all: toolkit-run
+
+# Gate pre-push rapido: le stesse stage del derive-smoke CI (grafo + arricchisci).
+# Non fa fetch. Sovrascrive data/derived/{normativa,riferimenti}.parquet:
+# dopo il check, `git checkout -- data/derived` per tornare puliti.
+verify-smoke:
+	python -m lab_tools.grafo_riferimenti
+	python -m lab_tools.arricchisci_normativa
 
 install:
 	pip install -e ".[dev,pipeline]"

@@ -22,6 +22,11 @@ on:
     paths:
       - "datasets/**"
   workflow_dispatch:
+    inputs:
+      skip_fetch:
+        description: "Salta fetch Normattiva, status e atti API (status/atti_api dalla cache, TTL 30g)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -74,15 +79,18 @@ jobs:
       # se il WAF blocca, resta il probe del run precedente.
       - name: Probe formati collezioni (Normattiva)
         id: probe_collezioni
+        if: github.event_name != 'workflow_dispatch' || !inputs.skip_fetch
         run: python -m lab_tools.collezioni_probe
         continue-on-error: true
       - name: Fetch da Normattiva (MD + artifact AKN)
+        if: github.event_name != 'workflow_dispatch' || !inputs.skip_fetch
         run: python -m lab_tools.fetch_normattiva
       # Status: solo classe 3 (lista ufficiale abrogati) ~2 min. La classe 2
       # NON è "vigente", quindi non la scarichiamo; gli atti assenti sono
       # vigenti, salvo la nota whole-act gestita da integra_vigenza.
       - name: Fetch status (ricerca classeProvvedimento)
         id: fetch_status
+        if: github.event_name != 'workflow_dispatch' || !inputs.skip_fetch
         run: python -m lab_tools.fetch_status
         # WAF IPZS: se il fetch è bloccato resta lo status in cache (stale ma
         # presente) e il build prosegue. La guardia strict impedisce comunque
@@ -141,6 +149,7 @@ jobs:
       - name: Monitor sunsetting
         run: python -m lab_tools.monitor_sunsetting
       - name: Fetch atti API (leggi ordinarie)
+        if: github.event_name != 'workflow_dispatch' || !inputs.skip_fetch
         run: python -m lab_tools.fetch_urn_acts
         # Rate limit: ~2.5s/atto × ~102 atti = ~4 min.
         # Fetch on-demand: python -m lab_tools.fetch_urn_acts --urn "urn:..."
