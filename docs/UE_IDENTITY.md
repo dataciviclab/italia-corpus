@@ -50,7 +50,8 @@ fallback R/D, per non attribuire l'identità sbagliata.
 
 ## Output
 
-`out/direttive_ue/direttive_ue.parquet`:
+`data/derived/direttive_ue.parquet` (staging; clean e mart via toolkit in
+`out/data/{clean,mart}/direttive_ue/2026/`):
 
 | Colonna | Contenuto |
 |---|---|

@@ -35,10 +35,11 @@ logger = logging.getLogger(__name__)
 
 REPO = Path(__file__).resolve().parent.parent
 OUT_DIR = REPO / "out" / "direttive_ue"
+OUTDIR = REPO / "data" / "derived"
 SCAN_CACHE = OUT_DIR / "cellar_scan.json"
 TITLES_CACHE = OUT_DIR / "titoli.json"
 NIM_CACHE = OUT_DIR / "nim_ita.json"
-OUTPUT = OUT_DIR / "direttive_ue.parquet"
+OUTPUT = OUTDIR / "direttive_ue.parquet"
 RIFERIMENTI = REPO / "data" / "derived" / "riferimenti.parquet"
 
 SPARQL_ENDPOINT = "https://publications.europa.eu/webapi/rdf/sparql"

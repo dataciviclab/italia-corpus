@@ -1,0 +1,61 @@
+root: "../../out"
+schema_version: 1
+
+dataset:
+  name: "direttive_ue"
+  source_id: "italia_corpus"
+  description: >
+    Direttive UE citate dalle leggi italiane, con identità CELEX e metadati
+    minimi da CELLAR (titolo, data, scadenza di recepimento) e misure
+    nazionali italiane per il ritardo di recepimento. Una riga per direttiva
+    (CELEX); le due grafie URN di Normattiva collassano su `urn_varianti`.
+    Nessun testo: il link resta su EUR-Lex.
+  tags: [ue, direttive, eur-lex, cellar, recepimento, celex]
+  category: normativa
+  years: [2026]
+  time_coverage:
+    start_year: 1958
+    end_year: 2026
+
+raw:
+  output_policy: "overwrite"
+  sources:
+    - name: "direttive_ue_parquet"
+      type: "local_file"
+      args:
+        path: "../../data/derived/direttive_ue.parquet"
+        filename: "direttive_ue.parquet"
+      primary: true
+
+clean:
+  sql: "sql/clean.sql"
+  read:
+    source: auto
+    mode: latest
+  required_columns:
+    - celex
+    - urn_varianti
+    - n_citazioni
+    - stato
+    - titolo
+    - data
+    - scadenza_recepimento
+    - ritardo_recepimento_giorni
+    - ritardo_plausibile
+  validate:
+    primary_key: [celex]
+    not_null: [celex, stato]
+    min_rows: 2000
+
+mart:
+  tables:
+    - name: "mart_direttive_per_anno"
+      sql: "sql/mart_direttive_per_anno.sql"
+  required_tables:
+    - "mart_direttive_per_anno"
+  validate:
+    table_rules:
+      mart_direttive_per_anno:
+        required_columns: [anno, stato, n_direttive]
+        primary_key: [anno, stato]
+        min_rows: 50

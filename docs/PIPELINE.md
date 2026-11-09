@@ -121,6 +121,7 @@ Regola unica:
 | `atti_index` | `atti_index` | atto del catalogo (~205k), `materia` inclusa | legal-graph, analisi di copertura |
 | `atti_api` | `atti_api` | atto fuori collezione (vigenza, materia) | legal-graph (nodi + `attua_delega`) |
 | `testi` | `testi` | espressione (`filename`, `urn`, testo document-level) | legal-graph (full-text, `legal_text`) |
+| `direttive_ue` | `direttive_ue` | direttiva UE (CELEX, titolo, scadenza, misure ITA, ritardo) | legal-graph (nodi UE, analisi recepimento) |
 
 `riferimenti` espone anche **`mart_riferimenti_urn`** (`fonte_urn`, `bersaglio_urn`,
 `rel_type`, `peso`, `fonte_anno`, `bersaglio_anno`, `contesto`,
