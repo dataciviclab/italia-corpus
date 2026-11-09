@@ -11,12 +11,12 @@ Serve a rispondere a domande sulla legislazione con dati aperti e verificabili, 
 | | |
 |---|---|
 | **Atti normativi** | 22.410 espressioni / **20.790 atti distinti** (12.249 vigenti, 8.400 abrogati, 1.761 decaduti) |
-| **Testo integrale** | 22.410 atti in Markdown e in parquet (~84 MB compressi) |
+| **Testo integrale** | 22.410 atti in Markdown e in parquet (~88 MB compressi) |
 | **Riferimenti incrociati** | 367.544 archi tra atti (citazioni e abrogazioni) |
 | **Allegati** | documenti allegati di 5.496 atti; indice parquet da 135.015 righe (963 documenti distinti) |
 | **Materie** | 25 categorie tematiche (fisco, ambiente, lavoro, giustizia, …) |
 | **Collezioni** | 20 collezioni ufficiali (decreti-legge e conversioni, decreti legislativi, codici, testi unici, DPCM, …) |
-| **Copertura del catalogo** | **20.790 atti su 205.115** del catalogo Normattiva (10,1%) — denominatore da `atti_index`, non stimato |
+| **Copertura del catalogo** | **20.790 atti su 205.117** del catalogo Normattiva (10,1%) — denominatore da `atti_index`, non stimato |
 | **Aggiornamento** | settimanale, il lunedì |
 
 ## Domande a cui risponde
@@ -64,7 +64,7 @@ duckdb.sql("""
 | `normativa` | `italia-corpus/normativa/2026/normativa_2026_clean.parquet` | metadati, stato di vigenza, materia, qualità |
 | `riferimenti` | `italia-corpus/riferimenti/2026/riferimenti_2026_clean.parquet` | citazioni e abrogazioni tra atti |
 | `testi` | `italia-corpus/testi/2026/testi_2026_clean.parquet` | testo integrale per atto |
-| `atti_index` | `italia-corpus/atti_index/2026/atti_index_2026_clean.parquet` | catalogo ufficiale (205.115 atti) |
+| `atti_index` | `italia-corpus/atti_index/2026/atti_index_2026_clean.parquet` | catalogo ufficiale (205.117 atti) |
 | `atti_api` | `italia-corpus/atti_api/2026/atti_api_2026_clean.parquet` | atti fuori collezione, con vigenza |
 | `allegati` | `italia-corpus/allegati.parquet` | indice degli allegati (135.015 righe), testo sotto `allegati/` |
 
@@ -85,7 +85,7 @@ La pipeline è lineare e settimanale; i dettagli su stage, contratti e CI sono i
 
 ## Limiti
 
-- **Copertura**: 20.790 atti su 205.115 del catalogo (10,1%). Il corpus copre bene il diritto statale recente e "di sistema", non l'intero archivio storico.
+- **Copertura**: 20.790 atti su 205.117 del catalogo (10,1%). Il corpus copre bene il diritto statale recente e "di sistema", non l'intero archivio storico.
 - **Vigenza**: `stato` è formale e a livello di atto (lista ufficiale Normattiva); non distingue abrogazioni implicite o parziali. `esclusione` significa "non risulta abrogato", non certezza di vigenza.
 - **Riferimenti**: derivano dai link Akoma Ntoso della fonte. Sui titoli generici possono puntare all'atto sbagliato: non sono rinvii verificati.
 - **Testo**: il grano è il documento, non il singolo articolo (quest'ultimo è un follow-up). Il testo è quello pubblicato, non un consolidato con le modifiche.

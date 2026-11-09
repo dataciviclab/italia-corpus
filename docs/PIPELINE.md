@@ -220,13 +220,20 @@ Enrichment AKN (da stage `integra-akn`, se gli artifact sono presenti):
 | `eta_anni` | int | Anni dall'atto (anno corrente − anno_atto) |
 | `sunsetting_score` | int | 0–100, più alto = più candidato alla decadenza automatica |
 
-### Schema `riferimenti` (19 colonne)
+### Schema `riferimenti` (clean pubblicato: 20 colonne)
 
-`fonte_filename`, `fonte_collezione`, `fonte_anno`, `fonte_tipo`,
-`fonte_materia`, `fonte_stato`,
-`bersaglio_filename`, `bersaglio_path`, `bersaglio_collezione`,
-`bersaglio_anno`, `bersaglio_tipo`, `bersaglio_materia`, `bersaglio_stato`,
-`peso`, `risolto`, `origine`, `rel_type`, `contesto`, `clausola_lettura`
+`fonte_source_path`, `bersaglio_source_path`, `fonte_source_file`,
+`bersaglio_source_file`, `fonte_filename`, `fonte_urn`, `bersaglio_filename`,
+`bersaglio_urn`, `fonte_anno`, `bersaglio_anno`, `fonte_stato`,
+`bersaglio_stato`, `fonte_materia`, `bersaglio_materia`, `peso`, `risolto`,
+`origine`, `rel_type`, `contesto`, `clausola_lettura`
+
+Il clean pubblicato è il contratto: usa i campi `*_source_path`/`*_source_file`,
+non i `path`/`collezione` del derived. Il **derived**
+`data/derived/riferimenti.parquet` ha 21 colonne: in più
+`fonte_collezione`, `fonte_tipo`, `bersaglio_path`, `bersaglio_collezione`,
+`bersaglio_tipo`, e in meno i quattro `*_source_*`. Il contratto URN-based per
+legal-graph è `mart_riferimenti_urn` (vedi sopra).
 
 `clausola_lettura`: `TRUE` = rinvio di sola lettura ("al solo fine di
 facilitare la lettura delle disposizioni"), non una citazione; `FALSE` =
@@ -285,7 +292,7 @@ perché è l'unico che deve accorgersi subito di un cambio di formato.
 - Wire: fetch (staging+merge) · grafo (union citation, `origine`) · integra-akn
 - **Copertura** (2026-11-09): fetch completo 20 collezioni — meta join **20.790/20.790**, EIV su **9.936 atti** (10.729 espressioni), riferimenti con origine `akn` **267.636** su **501.753** relazioni AKN estratte, `akn_relations` tipizzato (inclusi repeal/substitution)
 - CI: lint ruff · step `integra-akn` · ordine side-product→integra → grafo · contract check
-- Tests: **380** nel repo (`tests/test_akn_relations.py` copre questo stage)
+- Tests: **408** nel repo (`tests/test_akn_relations.py` copre questo stage)
 
 Non è un prodotto separato: è **stage fetch + 8** della pipeline sopra.
 
