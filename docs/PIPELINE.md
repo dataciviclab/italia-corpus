@@ -184,6 +184,57 @@ I parquet derived **non** sono rigenerati in questa PR: al prossimo build CI il 
 **Sì in git**: derived deliberati del contratto Lab (oggi versionati nel repo).
 **No in git**: `testi.parquet`, `atti_index.parquet`, `status.parquet` (rigenerati nel publish).
 
+### Schema `normativa` (colonne base + enrichment AKN)
+
+Base atto: `collezione`, `filename`, `tipo`, `data`, `numero`, `oggetto`, `celex`,
+`anno_atto`, `anno_dir`, `ritardo`, `urn`, `codice_redazionale`,
+`versione`, `snapshot_data`, `is_current`,
+`stato`, `vigente`, `vigenza_fonte`, `lunghezza_caratteri`, `lunghezza_parole`,
+`riferimenti_interni`, `duplicato`, `n_citazioni`, `orfano`, `qualita_score`
+
+Identità dell'atto: `urn` può ripetersi (espressioni diverse dello stesso atto);
+`is_current` marca **l'espressione corrente** (una sola per `urn`), `versione`
+(`ORIGINALE`|`VIGENZA`) e `snapshot_data` dicono quale. Regola: `VIGENZA` con
+snapshot più recente → altrimenti `ORIGINALE`.
+
+Downstream: `materia`, `n_articoli_cost`, `articoli_cost`, `abrogato_da`, `n_abrogazioni`, …
+
+Enrichment AKN (da stage `integra-akn`, se gli artifact sono presenti):
+`ingresso_in_vigore`, `akn_n_refs`, `akn_n_active_mods`, `akn_n_passive_ref`,
+`akn_n_repeal_events`, `akn_mod_types`, `akn_has_workflow`, `akn_meta_source`
+
+| Colonna | Tipo | Significato |
+|---|---|---|
+| `stato` | string | `vigente` \| `abrogato` \| `decaduto` — status autorevole Normattiva, atto-level (classe 3 = lista ufficiale "Atti normativi abrogati", o nota whole-act). `decaduto` = collezione "DL decaduti" |
+| `vigente` | bool | `stato == 'vigente'` (il frontmatter MD di Normattiva è inaffidabile) |
+| `vigenza_fonte` | string | Origine di `stato`: `normattiva` (lista ufficiale abrogati, `classeProvvedimento` 3) \| `non_coperto` (assente dalla lista ma con nota whole-act) \| `esclusione` (assente, `vigente` per esclusione) \| `atti_api` (atto fuori collezione) |
+| `duplicato` | bool | Più espressioni **correnti** per lo stesso atto (oggi 0: guardia). Le versioni storiche non sono duplicati |
+| `n_citazioni` | int | Citazioni in ingresso **per atto**: il totale sta sulla riga corrente, le altre 0 |
+| `orfano` | bool | **Atto-level**: solo la riga corrente può essere orfana (nessuna citazione in uscita né in ingresso) |
+| `qualita_score` | int | 0–100, più alto = migliore (penalizza duplicati, orfani, stato non vigente) |
+| `materia` | string | Classificazione tematica dal titolo: 25 categorie. Semantica e limiti in [MATERIA_AUDIT.md](MATERIA_AUDIT.md) |
+| `n_articoli_cost` | int | Numero di articoli costituzionali citati dall'atto |
+| `articoli_cost` | string | Articoli costituzionali citati (separati da virgola) |
+| `abrogato_da` | string | File che abrogano questo atto |
+| `n_abrogazioni` | int | Numero di abrogazioni che riguardano questo atto |
+| `eta_anni` | int | Anni dall'atto (anno corrente − anno_atto) |
+| `sunsetting_score` | int | 0–100, più alto = più candidato alla decadenza automatica |
+
+### Schema `riferimenti` (19 colonne)
+
+`fonte_filename`, `fonte_collezione`, `fonte_anno`, `fonte_tipo`,
+`fonte_materia`, `fonte_stato`,
+`bersaglio_filename`, `bersaglio_path`, `bersaglio_collezione`,
+`bersaglio_anno`, `bersaglio_tipo`, `bersaglio_materia`, `bersaglio_stato`,
+`peso`, `risolto`, `origine`, `rel_type`, `contesto`, `clausola_lettura`
+
+`clausola_lettura`: `TRUE` = rinvio di sola lettura ("al solo fine di
+facilitare la lettura delle disposizioni"), non una citazione; `FALSE` =
+contesto presente senza quella clausola; `NULL` = contesto assente (archi AKN
+prodotti prima del 2026-10-30) → non classificabile.
+
+Il mart URN-based consumato da legal-graph è `mart_riferimenti_urn` (vedi sopra).
+
 ---
 
 ## Relazione con altri sistemi
@@ -228,11 +279,11 @@ perché è l'unico che deve accorgersi subito di un cambio di formato.
 
 ---
 
-## Stato AKN (2026-10-08)
+## Stato AKN (2026-11-09)
 
 - Modulo: `lab_tools/akn_relations.py` (+ `integra_akn_meta.py`)
 - Wire: fetch (staging+merge) · grafo (union citation, `origine`) · integra-akn
-- **Copertura** (2026-10-30): fetch completo 20 collezioni — meta join **20.782/20.782**, EIV **9.928**, citazioni AKN **105.226** su 424.939 relazioni AKN, `akn_relations` tipizzato (inclusi repeal/substitution)
+- **Copertura** (2026-11-09): fetch completo 20 collezioni — meta join **20.790/20.790**, EIV su **9.936 atti** (10.729 espressioni), riferimenti con origine `akn` **267.636** su **501.753** relazioni AKN estratte, `akn_relations` tipizzato (inclusi repeal/substitution)
 - CI: lint ruff · step `integra-akn` · ordine side-product→integra → grafo · contract check
 - Tests: **380** nel repo (`tests/test_akn_relations.py` copre questo stage)
 
