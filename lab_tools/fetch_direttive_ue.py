@@ -52,6 +52,7 @@ DIR_TYPES = (f"<{RESOURCE_TYPE}/DIR>", f"<{RESOURCE_TYPE}/DIR_IMPL>", f"<{RESOUR
 FIRST_YEAR = 1958
 TITLE_BATCH = 100
 RETRIES = 3
+URN_SEP = "|"  # separatore di `urn_varianti`: non compare negli URN (che usano `;` e `:`)
 
 URN_RE = re.compile(r"urn:nir:eu:direttiva(?:\.?ue):(\d{4});(\d+)$")
 CELEX_RE = re.compile(r"3\d{4}L\d{4}$")
@@ -314,7 +315,7 @@ def build_rows(
         rows.append(
             {
                 "celex": celex,
-                "urn_varianti": ";".join(sorted(info["urns"])),
+                "urn_varianti": URN_SEP.join(sorted(info["urns"])),
                 "n_citazioni": info["n_citazioni"],
                 "stato": "risolto" if risolto else "non_risolto",
                 "motivo": None if risolto else "non_in_cellar",

@@ -14,6 +14,9 @@ dataset:
   category: normativa
   years: [2026]
   time_coverage:
+    # il clean tiene anche le citazioni non risolte con anni impossibili
+    # (1921-1957, 2027) per il bilancio dei gap; il mart usa l'anno dell'atto
+    # (1962-2025), quindi il range dichiarato resta 1958-2026.
     start_year: 1958
     end_year: 2026
 

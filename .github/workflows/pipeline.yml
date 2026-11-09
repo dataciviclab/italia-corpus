@@ -290,7 +290,7 @@ jobs:
       # salta il dataset (guardia) e il registry non si aggiorna.
       # atti_index e testi sono gitignored: vanno rigenerati qui, altrimenti
       # `make toolkit-run` salta i dataset. `extract` legge solo `collezioni/`.
-      pre-run-command: "python -m lab_tools.extract --testi-only && (python -m lab_tools.fetch_direttive_ue || echo '::warning::direttive_ue non generato (Cellar?) — dataset saltato') && (make atti-index || echo '::warning::atti_index non generato (WAF?) — dataset saltato')"
+      pre-run-command: "python -m lab_tools.extract --testi-only && (python -m lab_tools.fetch_direttive_ue || echo '::warning::direttive_ue non rigenerato (Cellar?) — uso il parquet committato (stale)') && (make atti-index || echo '::warning::atti_index non generato (WAF?) — dataset saltato')"
       run-command: "make toolkit-run"
     permissions:
       contents: write

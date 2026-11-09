@@ -72,6 +72,15 @@ class TestBuildRows:
         assert row["eli_url"].endswith("/eli/dir/1989/391/oj")
         assert row["urn_varianti"].count("urn:") == 2
 
+    def test_urn_varianti_separatore(self):
+        """Le URN contengono `;`: il separatore della lista è `|`."""
+        df = build_rows(self._targets(), self._works(), self._titles())
+        row = df[df["celex"] == "31989L0391"].iloc[0]
+        parti = row["urn_varianti"].split("|")
+        assert len(parti) == 2
+        assert all(p.startswith("urn:nir:eu:") for p in parti)
+        assert ";" in row["urn_varianti"]
+
     def test_non_risolto(self):
         df = build_rows(self._targets(), self._works(), self._titles())
         row = df[df["celex"] == "32017L2394"].iloc[0]

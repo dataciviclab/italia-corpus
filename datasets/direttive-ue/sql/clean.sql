@@ -2,7 +2,8 @@
 --
 -- Una riga per direttiva, chiave CELEX (`3YYYYLNNNN`). Le due grafie URN di
 -- Normattiva (`direttivaue` e `direttiva.ue`) sono in `urn_varianti`,
--- separate da `;`: legal-graph le mappa sullo stesso nodo.
+-- separate da `|` (le URN contengono `;`, quindi `;` non è un separatore
+-- sicuro): legal-graph le mappa sullo stesso nodo.
 --
 -- `stato`: `risolto` (identità e metadati presenti in Cellar) o
 -- `non_risolto`. `ritardo_recepimento_giorni` = prima misura italiana −

@@ -1,7 +1,8 @@
-# Direttive UE — identity-fetch (prototipo)
+# Direttive UE — identity-fetch e dataset
 
-Stato: branch locale `feat/direttive-ue-identity`, **non pubblicato**. Dataset in
-`out/direttive_ue/` (gitignored), nessuna modifica a `datasets/` o al compose.
+Stato: **PR #127** — dataset `direttive_ue` in `datasets/direttive-ue/`, staging
+`data/derived/direttive_ue.parquet`; non ancora pubblicato (registry al publish).
+Il compose legal-graph è in un branch separato (`feat/ue-nodes`).
 
 ## Perché
 
@@ -19,7 +20,7 @@ SPARQL **CELLAR** del Publications Office (ontologia CDM), senza testi:
 
 - scan per anno (`STRSTARTS(?celex, "3YYYY")`) con resource type
   `DIR`/`DIR_IMPL`/`DIR_DEL`: **4.408 direttive base in ~51s**;
-- titoli ITA/ENG per URI del work, batch da 100: **~20s** per 2.323 work;
+- titoli ITA/ENG per URI del work, batch da 100: **~20s** per 2.343 work;
 - misure nazionali italiane per anno (link inverso): **~2 min** per 5.004
   misure su 3.097 direttive;
 - mappatura `urn:nir:eu:direttiva(ue|.ue):YYYY;N` → CELEX `3YYYYL{NNNN}`:
@@ -56,7 +57,7 @@ fallback R/D, per non attribuire l'identità sbagliata.
 | Colonna | Contenuto |
 |---|---|
 | `celex` | `3YYYYLNNNN` |
-| `urn_varianti` | URN italiani, `;`-separati (1 o 2) |
+| `urn_varianti` | URN italiani, separati da `|` (1 o 2) |
 | `n_citazioni` | citazioni in ingresso nel corpus |
 | `stato` / `motivo` | `risolto` / `non_risolto` · `non_in_cellar` |
 | `work_uri` | URI Cellar del work |
@@ -124,16 +125,17 @@ Le date di notifica contengono segnaposto (1992-12-30 su misure del 1994), per
 questo il ritardo usa la data dell'atto, non la notifica. Prima di pubblicare un
 claim serve un controllo su un campione di direttive con recepimento noto.
 
-## Prossimi passi (se si decide A)
+## Prossimi passi
 
-1. promuovere a dataset `datasets/direttive_ue` + registry (contratto clean);
-2. in legal-graph: support `type: external`, nodi `source='ue'` con chiave CELEX
-   e edge `riferimento` (le due grafie collassano su un nodo);
-3. **validare il ritardo** su un campione di direttive con recepimento noto, poi
-   pubblicare l'analisi (il metodo c'è; il limite sono i NIM incompleti);
+1. pubblicare (publish + registry): il support legal-graph `slug: direttive_ue`
+   si risolve solo dopo il publish;
+2. in legal-graph: nodi `source='ue'` con chiave CELEX e edge `riferimento`
+   (le due grafie collassano su un nodo);
+3. **validare il ritardo** su un campione più ampio, poi pubblicare l'analisi
+   (il metodo c'è; il limite sono i NIM incompleti);
 4. decidere i 329 (fallback R/D con verifica del titolo, o esclusione
    dichiarata);
-5. licenza/attribuzione dei documenti UE prima del publish.
+5. licenza/attribuzione dei documenti UE prima di un uso pubblico esteso.
 
 ## Limiti
 
@@ -142,3 +144,6 @@ claim serve un controllo su un campione di direttive con recepimento noto.
   scadenze (350 casi) serve la lettura per articolo.
 - L'endpoint CELLAR è lento sulle query per CELEX: usare sempre il bulk per anno
   e la cache.
+- In CI, se il fetch Cellar fallisce, il publish usa il parquet committato
+  (`data/derived/direttive_ue.parquet`): il dataset è **stale**, con un warning
+  esplicito. Non è un percorso a dati freschi.

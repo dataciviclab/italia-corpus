@@ -29,6 +29,8 @@ toolkit-check:
 # in un contesto dove non è stato generato (es. registry workflow su checkout
 # pulito) il dataset va saltato, non deve far fallire la pubblicazione degli
 # altri. Il warning è esplicito: se salta, il registry non si aggiorna.
+# direttive_ue è committato: la guardia scatta solo se il parquet manca del
+# tutto; se il fetch CI fallisce, si usa quello committato (stale).
 toolkit-run:
 	@for f in $(TOOLKIT_CONFIGS); do \
 		case "$$f" in \
