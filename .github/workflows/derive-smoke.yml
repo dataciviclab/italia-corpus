@@ -11,6 +11,8 @@ on:
       - "lab_tools/**"
       - "datasets/**"
       - "config/**"
+      - "data/derived/**"
+      - "collezioni/**"
       - ".github/**"
   # per provare il gate su un branch prima di mergiarlo
   workflow_dispatch:
@@ -44,6 +46,27 @@ jobs:
       - run: pip install -e ".[dev,pipeline]"
         timeout-minutes: 5
       - name: Derive smoke (grafo + arricchisci, senza fetch)
+        run: python -m lab_tools.grafo_riferimenti
+      # Stesso gate del build: un churn di filename fa crollare la
+      # risoluzione dei link regex e passerebbe silenzioso.
+      - name: Contract check riferimenti (risoluzione)
         run: |
-          python -m lab_tools.grafo_riferimenti
-          python -m lab_tools.arricchisci_normativa
+          python - <<'PY'
+          import pandas as pd
+
+          df = pd.read_parquet("data/derived/riferimenti.parquet")
+          regex = df[df["origine"] == "regex"]
+          non_risolti = regex[~regex["risolto"]]
+          bersagli = non_risolti["bersaglio_filename"].nunique()
+          print(
+              f"riferimenti: {len(df)} archi · "
+              f"regex non risolti: {len(non_risolti)} link / {bersagli} bersagli"
+          )
+          if bersagli > 50:
+              raise SystemExit(
+                  f"CHURN: {bersagli} bersagli regex non risolti "
+                  f"({len(non_risolti)} link, max 50)"
+              )
+          PY
+      - name: Arricchisci normativa (qualità)
+        run: python -m lab_tools.arricchisci_normativa

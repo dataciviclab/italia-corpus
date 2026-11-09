@@ -24,7 +24,7 @@ on:
   workflow_dispatch:
     inputs:
       skip_fetch:
-        description: "Salta il fetch (deriva dai dati committati: ~4 min)"
+        description: "Salta fetch Normattiva, status e atti API (status/atti_api dalla cache, TTL 30g)"
         type: boolean
         default: false
 
@@ -149,6 +149,7 @@ jobs:
       - name: Monitor sunsetting
         run: python -m lab_tools.monitor_sunsetting
       - name: Fetch atti API (leggi ordinarie)
+        if: github.event_name != 'workflow_dispatch' || !inputs.skip_fetch
         run: python -m lab_tools.fetch_urn_acts
         # Rate limit: ~2.5s/atto × ~102 atti = ~4 min.
         # Fetch on-demand: python -m lab_tools.fetch_urn_acts --urn "urn:..."

@@ -210,9 +210,9 @@ I parquet derived **non** sono rigenerati in questa PR: al prossimo build CI il 
   - `build`: engine + commit dati + `allegati/` su GCS
   - `publish`: `make atti-index` (pre-run, artefatto non committato) + `toolkit-run` + rsync
     `gs://dataciviclab-clean|mart/italia-corpus/` + registry draft PR
-- `workflow_dispatch` ha l'input **`skip_fetch`**: salta fetch + status e deriva dai dati committati (~4 min invece di ~15), per validare/ripubblicare una correzione di codice senza rifare il fetch
-- **`derive-smoke`** (`derive-smoke.yml`): sulle PR che toccano `lab_tools/`, `datasets/`, `config/` esegue **grafo + arricchisci** sui dati committati, senza fetch (~5-7 min). È il gate che avrebbe preso l'invariante delle abroga, non coperta dai test unitari
-- **Locale, prima di un push su `lab_tools`**: `make verify-smoke` (stesse due stage). Sovrascrive `data/derived/{normativa,riferimenti}.parquet`: `git checkout -- data/derived` dopo
+- `workflow_dispatch` ha l'input **`skip_fetch`**: salta fetch Normattiva, status e atti API (~4 min invece di ~15), per validare/ripubblicare una correzione. `status`/`atti_api` vengono dalla cache del build (TTL 30g): su cache fredda `integra_vigenza` fallisce, quindi non è un percorso "da checkout pulito" 
+- **`derive-smoke`** (`derive-smoke.yml`): sulle PR che toccano `lab_tools/`, `datasets/`, `config/`, `data/derived/`, `collezioni/`, `.github/` esegue **grafo + contract check + arricchisci** sui dati committati, senza fetch (~6-8 min). È il gate che avrebbe preso l'invariante delle abroga e il churn dei link regex, non coperti dai test unitari
+- **Locale, prima di un push su `lab_tools`**: `make verify-smoke` (grafo + arricchisci; il contract check è nella CI). Sovrascrive `data/derived/{normativa,riferimenti}.parquet`: `git checkout -- data/derived` dopo
 - `toolkit-run` salta `datasets/atti-index` se l'artefatto manca (guardia esplicita)
 - Il clean `atti-index` richiede la colonna `materia` nel parquet derivato: in CI c'è `make atti-index` prima del publish, **in locale** un `atti_index.parquet` vecchio fa fallire `make toolkit-run` finché non si rigenera
 - Dual-publish: derived resta in git per MCP; clean+mart su GCS sono il contratto Lab
