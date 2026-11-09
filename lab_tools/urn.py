@@ -103,6 +103,19 @@ def annual_key(urn: str) -> tuple[str, str, str, str] | None:
     return None
 
 
+def full_key(urn: str) -> tuple[str, str, str, str] | None:
+    """(emettitore, tipo normalizzato, data, numero) — solo URN con data piena.
+
+    Più preciso di `annual_key` quando due atti condividono anno+numero ma
+    hanno date diverse (es. due decreti con lo stesso numero nello stesso
+    anno): la data disambigua, mentre la chiave annuale no.
+    """
+    p = parse_urn(urn)
+    if not p:
+        return None
+    return (p[0], _slug(p[1]), p[2], p[3])
+
+
 class IndiceUrn(dict):
     """Indice ``urn -> valore`` con alias, che ricorda gli URN **esatti**.
 

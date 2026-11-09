@@ -10,6 +10,7 @@ from lab_tools.urn import (
     annual_key,
     canonical_key,
     expand_index,
+    full_key,
     lookup,
     parse_urn,
     regola,
@@ -264,3 +265,23 @@ class TestAnnoSenzaGiornoMese:
             ("urn:nir:stato:decreto.legislativo:2017-07-03;117", "Decreti/2017.md"),
         ])
         assert lookup(idx, "urn:nir:stato:decretolegislativo:2017;117") == "Decreti/2017.md"
+
+
+class TestFullKey:
+    """Chiave con data completa: disambigua anno+numero duplicati."""
+
+    def test_data_completa(self):
+        assert full_key("urn:nir:stato:legge:1990-08-07;241") == (
+            "stato", "legge", "1990-08-07", "241"
+        )
+
+    def test_slug_e_connettivi(self):
+        assert full_key(
+            "urn:nir:stato:decretodelpresidentedellarepubblica:1950-10-17;857"
+        ) == ("stato", "decretopresidenterepubblica", "1950-10-17", "857")
+        assert full_key(
+            "urn:nir:stato:decreto.del.presidente.della.repubblica:1950-10-17;857"
+        ) == ("stato", "decretopresidenterepubblica", "1950-10-17", "857")
+
+    def test_year_only_none(self):
+        assert full_key("urn:nir:stato:legge:1990;241") is None
