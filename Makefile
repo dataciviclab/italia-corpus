@@ -1,4 +1,4 @@
-.PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-vigenza integra-akn sunsetting citazioni pnrr abrogations fetch-status akn-relations atti-index probe-collezioni stato \
+.PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-vigenza integra-akn sunsetting citazioni pnrr abrogations fetch-status akn-relations atti-index direttive-ue probe-collezioni stato \
  toolkit-check toolkit-run toolkit-all check verify-smoke
 
 # Pipeline completa (senza fetch — fetch è CI/manuale)
@@ -29,12 +29,18 @@ toolkit-check:
 # in un contesto dove non è stato generato (es. registry workflow su checkout
 # pulito) il dataset va saltato, non deve far fallire la pubblicazione degli
 # altri. Il warning è esplicito: se salta, il registry non si aggiorna.
+# direttive_ue è committato: la guardia scatta solo se il parquet manca del
+# tutto; se il fetch CI fallisce, si usa quello committato (stale).
 toolkit-run:
 	@for f in $(TOOLKIT_CONFIGS); do \
 		case "$$f" in \
 			*atti-index*) \
 				if [ ! -f data/derived/atti_index.parquet ]; then \
 					echo "⚠ salto $$f (atti_index.parquet assente)"; continue; \
+				fi ;; \
+			*direttive-ue*) \
+				if [ ! -f data/derived/direttive_ue.parquet ]; then \
+					echo "⚠ salto $$f (direttive_ue.parquet assente)"; continue; \
 				fi ;; \
 		esac; \
 		echo "→ $$f"; \
@@ -90,6 +96,10 @@ probe-collezioni:
 # Indice del catalogo Normattiva (metadati, nessun testo) — richiede normativa.parquet
 atti-index:
 	python -m lab_tools.atti_index
+
+# Identità e misure nazionali delle direttive UE citate (CELLAR) — cache in out/
+direttive-ue:
+	python -m lab_tools.fetch_direttive_ue
 
 citazioni:
 	python -m lab_tools.estrai_citazioni_costituzionali
