@@ -20,7 +20,7 @@ from pathlib import Path
 from lab_tools._paths import COLLEZIONI_ROOT, OUTDIR, collezioni_legislative
 from lab_tools.classifica_riferimenti import clausola_di_lettura
 from lab_tools.identity import build_indice_identita, data_codice
-from lab_tools.urn import annual_key, expand_index
+from lab_tools.urn import annual_key, expand_index, full_key
 from lab_tools.urn import lookup as urn_lookup
 from lab_tools.urn import regola as urn_regola
 
@@ -310,36 +310,107 @@ def _urn_anno_tipo(urn: str) -> tuple[int, str]:
     return (int(m.group(2)), m.group(1))
 
 
-def _load_atti_index_urn() -> dict[tuple[str, str, str, str], str]:
-    """(emittente, tipo_slug, anno, numero) -> URN canonica dal catalogo.
+_ATTI_INDEX_PUBBLICATO = (
+    "https://storage.googleapis.com/dataciviclab-clean/italia-corpus/"
+    "atti_index/2026/atti_index_2026_clean.parquet"
+)
 
-    legal-graph fa join esatto su `nodes.id`: qui diamo un'identità canonica
-    ai bersagli AKN **fuori corpus** (le citation restano agganciabili ai nodi
-    catalogo). Solo chiavi univoche, stessa guardia di `urn.expand_index`.
 
-    Se `atti_index.parquet` manca (es. `make pipeline-core`, che non include
-    lo stage atti-index) il grafo resta con la URN grezza: nessun errore, e
-    legal-graph scarta quei bersagli come prima.
+def _scarica_atti_index_pubblicato():
+    """Fallback: clean pubblicato (una GET, ~11MB) quando il raw locale manca.
+
+    Nel build il grafo gira **prima** di `make atti-index`: senza fallback la
+    mappa è vuota e i bersagli restano con la URN grezza (`indice URN
+    catalogo: 0 chiavi`). Usa il clean dell'ultimo publish: un atto creato
+    dopo resta non canonicalizzato fino al run successivo.
+
+    Ritorna None se non raggiungibile (grafo offline): nessun errore.
     """
-    path = OUTDIR / "atti_index.parquet"
-    if not path.exists():
-        print("  atti_index.parquet assente: bersagli fuori corpus con URN grezza")
-        return {}
+    import tempfile
+
+    import requests
+
+    tmp: Path | None = None
+    try:
+        # path assegnato **prima** della richiesta: se il download muore a
+        # metà, l'except può cancellare il file (delete=False).
+        with tempfile.NamedTemporaryFile(suffix=".parquet", delete=False) as f:
+            tmp = Path(f.name)
+            with requests.get(_ATTI_INDEX_PUBBLICATO, timeout=(10, 60), stream=True) as r:
+                r.raise_for_status()
+                for chunk in r.iter_content(chunk_size=1 << 20):
+                    f.write(chunk)
+    except Exception as exc:  # rete/WAF/HTTP: il grafo resta con le URN grezze
+        print(f"  atti_index pubblicato non raggiungibile ({exc}): URN grezza")
+        if tmp is not None:
+            tmp.unlink(missing_ok=True)
+        return None
     try:
         import pandas as pd
-    except ImportError:
+
+        return pd.read_parquet(tmp, columns=["urn"])
+    except Exception as exc:  # parquet corrotto
+        print(f"  atti_index pubblicato illeggibile ({exc}): URN grezza")
+        return None
+    finally:
+        tmp.unlink(missing_ok=True)
+
+
+def _load_atti_index_urn() -> dict[tuple, str]:
+    """Mappa -> URN canonica del catalogo, con due chiavi possibili.
+
+    - `("full", emittente, tipo_slug, data, numero)`: risolve anche quando due
+      atti condividono anno+numero ma hanno date diverse;
+    - `("annual", emittente, tipo_slug, anno, numero)`: fallback per le
+      citazioni senza giorno/mese.
+
+    Solo chiavi univoche (stessa guardia di `urn.expand_index`). Se il raw
+    locale manca (build: grafo prima di `make atti-index`) usa il clean
+    pubblicato; se anche quello manca, il grafo resta con la URN grezza.
+    """
+    path = OUTDIR / "atti_index.parquet"
+    df = None
+    if path.exists():
+        try:
+            import pandas as pd
+
+            df = pd.read_parquet(path, columns=["urn"])
+        except (OSError, ValueError, KeyError) as exc:
+            print(f"  atti_index.parquet illeggibile ({exc}): provo il pubblicato")
+    if df is None:
+        df = _scarica_atti_index_pubblicato()
+    if df is None:
         return {}
-    try:
-        df = pd.read_parquet(path, columns=["urn"])
-    except (OSError, ValueError, KeyError) as exc:  # parquet corrotto / colonna assente
-        print(f"  atti_index.parquet illeggibile ({exc}): bersagli con URN grezza")
-        return {}
-    chiavi: dict[tuple, list[str]] = defaultdict(list)
+
+    annuali: dict[tuple, list[str]] = defaultdict(list)
+    completi: dict[tuple, list[str]] = defaultdict(list)
     for urn in df["urn"].dropna():
         k = annual_key(urn)
         if k:
-            chiavi[k].append(urn)
-    return {k: v[0] for k, v in chiavi.items() if len(set(v)) == 1}
+            annuali[k].append(urn)
+        fk = full_key(urn)
+        if fk:
+            completi[fk].append(urn)
+
+    out: dict[tuple, str] = {}
+    for k, v in completi.items():
+        if len(set(v)) == 1:
+            out[("full",) + k] = v[0]
+    for k, v in annuali.items():
+        if len(set(v)) == 1:
+            out[("annual",) + k] = v[0]
+    return out
+
+
+def _urn_canonico(urn: str, indice: dict[tuple, str]) -> str:
+    """URN canonica del catalogo per un bersaglio fuori corpus, se nota."""
+    grezza = (urn or "").strip()
+    if not grezza or not indice:
+        return grezza
+    for tag, k in (("full", full_key(grezza)), ("annual", annual_key(grezza))):
+        if k and (tag,) + k in indice:
+            return indice[(tag,) + k]
+    return grezza
 
 
 def _archi_da_abrogazioni(normativa: dict[str, dict]) -> list[dict]:
@@ -490,9 +561,8 @@ def _archi_da_akn_relations(
         if is_risolto:
             bersaglio_urn = (t_meta.get("urn", "") or "").strip() or (t_urn or "").strip()
         else:
-            # fuori corpus: prova la URN canonica del catalogo, altrimenti grezza
-            k = annual_key(t_urn)
-            bersaglio_urn = (atti_urn or {}).get(k, (t_urn or "").strip()) if k else (t_urn or "").strip()
+            # fuori corpus: URN canonica del catalogo (full, poi annuale), altrimenti grezza
+            bersaglio_urn = _urn_canonico(t_urn, atti_urn or {})
         # pandas: le righe senza contesto sono NaN (float), non None/"".
         _contesto = row.get("contesto")
         contesto = _contesto.strip() if isinstance(_contesto, str) else ""

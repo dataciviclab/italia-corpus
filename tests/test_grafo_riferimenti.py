@@ -434,7 +434,10 @@ class TestCitationFuoriCorpus:
 
         self._parquet(tmp_path, ["urn:nir:stato:legge:1990;241"])
         monkeypatch.setattr(g, "OUTDIR", tmp_path)
-        atti = {("stato", "legge", "1990", "241"): "urn:nir:stato:legge:1990-08-07;241"}
+        atti = {
+            ("annual", "stato", "legge", "1990", "241"):
+                "urn:nir:stato:legge:1990-08-07;241"
+        }
         archi = g._archi_da_akn_relations({}, self.MAPPA, atti)
         assert archi[0]["bersaglio_urn"] == "urn:nir:stato:legge:1990-08-07;241"
 
@@ -446,6 +449,28 @@ class TestCitationFuoriCorpus:
         monkeypatch.setattr(g, "OUTDIR", tmp_path)
         archi = g._archi_da_akn_relations({}, self.MAPPA, None)
         assert archi[0]["bersaglio_urn"] == "urn:nir:stato:legge:1990;241"
+
+    def test_bersaglio_canonico_con_chiave_piena(self, tmp_path, monkeypatch):
+        """La chiave con data completa risolve i casi anno+numero ambigui.
+
+        Es. due decreti con lo stesso numero nello stesso anno: la data
+        disambigua e il tipo concatenato viene riportato alla forma dotted.
+        """
+        from lab_tools import grafo_riferimenti as g
+
+        self._parquet(
+            tmp_path,
+            ["urn:nir:stato:decretodelpresidentedellarepubblica:1950-10-17;857"],
+        )
+        monkeypatch.setattr(g, "OUTDIR", tmp_path)
+        atti = {
+            ("full", "stato", "decretopresidenterepubblica", "1950-10-17", "857"):
+                "urn:nir:stato:decreto.del.presidente.della.repubblica:1950-10-17;857"
+        }
+        archi = g._archi_da_akn_relations({}, self.MAPPA, atti)
+        assert archi[0]["bersaglio_urn"] == (
+            "urn:nir:stato:decreto.del.presidente.della.repubblica:1950-10-17;857"
+        )
 
     def test_fonte_assente_saltata_conteggi_coerenti(self, tmp_path, monkeypatch):
         """Righe senza fonte si saltano; l'invariante di conteggio
@@ -569,3 +594,58 @@ class TestArchiAbrogazioni:
 
         monkeypatch.setattr(g, "OUTDIR", tmp_path)
         assert g._archi_da_abrogazioni(self._normativa()) == []
+
+
+class TestAttiIndexPubblicato:
+    """Fallback di rete: clean pubblicato quando il raw locale manca."""
+
+    def test_download_valido(self, monkeypatch):
+        import io
+
+        import pandas as pd
+        import requests
+        from lab_tools import grafo_riferimenti as g
+
+        buf = io.BytesIO()
+        pd.DataFrame(
+            {"urn": ["urn:nir:stato:legge:1990-08-07;241"]}
+        ).to_parquet(buf, index=False)
+        payload = buf.getvalue()
+
+        class R:
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *args):
+                return False
+
+            def raise_for_status(self):
+                pass
+
+            def iter_content(self, chunk_size=1):
+                yield payload
+
+        monkeypatch.setattr(requests, "get", lambda *a, **k: R())
+        df = g._scarica_atti_index_pubblicato()
+        assert df is not None
+        assert list(df["urn"]) == ["urn:nir:stato:legge:1990-08-07;241"]
+
+    def test_http_500_degrada_a_none(self, monkeypatch):
+        import requests
+        from lab_tools import grafo_riferimenti as g
+
+        class R:
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *args):
+                return False
+
+            def raise_for_status(self):
+                raise requests.HTTPError("500")
+
+            def iter_content(self, chunk_size=1):
+                yield b""
+
+        monkeypatch.setattr(requests, "get", lambda *a, **k: R())
+        assert g._scarica_atti_index_pubblicato() is None
