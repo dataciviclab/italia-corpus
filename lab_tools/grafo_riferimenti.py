@@ -317,25 +317,33 @@ _ATTI_INDEX_PUBBLICATO = (
 
 
 def _scarica_atti_index_pubblicato():
-    """Fallback: clean pubblicato (una GET) quando il raw locale manca.
+    """Fallback: clean pubblicato (una GET, ~11MB) quando il raw locale manca.
 
     Nel build il grafo gira **prima** di `make atti-index`: senza fallback la
     mappa è vuota e i bersagli restano con la URN grezza (`indice URN
-    catalogo: 0 chiavi`). Ritorna None se non raggiungibile (grafo offline).
+    catalogo: 0 chiavi`). Usa il clean dell'ultimo publish: un atto creato
+    dopo resta non canonicalizzato fino al run successivo.
+
+    Ritorna None se non raggiungibile (grafo offline): nessun errore.
     """
     import tempfile
 
     import requests
 
+    tmp: Path | None = None
     try:
-        with requests.get(_ATTI_INDEX_PUBBLICATO, timeout=(10, 60), stream=True) as r:
-            r.raise_for_status()
-            with tempfile.NamedTemporaryFile(suffix=".parquet", delete=False) as f:
+        # path assegnato **prima** della richiesta: se il download muore a
+        # metà, l'except può cancellare il file (delete=False).
+        with tempfile.NamedTemporaryFile(suffix=".parquet", delete=False) as f:
+            tmp = Path(f.name)
+            with requests.get(_ATTI_INDEX_PUBBLICATO, timeout=(10, 60), stream=True) as r:
+                r.raise_for_status()
                 for chunk in r.iter_content(chunk_size=1 << 20):
                     f.write(chunk)
-                tmp = Path(f.name)
-    except Exception as exc:  # rete/WAF: il grafo resta con le URN grezze
+    except Exception as exc:  # rete/WAF/HTTP: il grafo resta con le URN grezze
         print(f"  atti_index pubblicato non raggiungibile ({exc}): URN grezza")
+        if tmp is not None:
+            tmp.unlink(missing_ok=True)
         return None
     try:
         import pandas as pd

@@ -594,3 +594,58 @@ class TestArchiAbrogazioni:
 
         monkeypatch.setattr(g, "OUTDIR", tmp_path)
         assert g._archi_da_abrogazioni(self._normativa()) == []
+
+
+class TestAttiIndexPubblicato:
+    """Fallback di rete: clean pubblicato quando il raw locale manca."""
+
+    def test_download_valido(self, monkeypatch):
+        import io
+
+        import pandas as pd
+        import requests
+        from lab_tools import grafo_riferimenti as g
+
+        buf = io.BytesIO()
+        pd.DataFrame(
+            {"urn": ["urn:nir:stato:legge:1990-08-07;241"]}
+        ).to_parquet(buf, index=False)
+        payload = buf.getvalue()
+
+        class R:
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *args):
+                return False
+
+            def raise_for_status(self):
+                pass
+
+            def iter_content(self, chunk_size=1):
+                yield payload
+
+        monkeypatch.setattr(requests, "get", lambda *a, **k: R())
+        df = g._scarica_atti_index_pubblicato()
+        assert df is not None
+        assert list(df["urn"]) == ["urn:nir:stato:legge:1990-08-07;241"]
+
+    def test_http_500_degrada_a_none(self, monkeypatch):
+        import requests
+        from lab_tools import grafo_riferimenti as g
+
+        class R:
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *args):
+                return False
+
+            def raise_for_status(self):
+                raise requests.HTTPError("500")
+
+            def iter_content(self, chunk_size=1):
+                yield b""
+
+        monkeypatch.setattr(requests, "get", lambda *a, **k: R())
+        assert g._scarica_atti_index_pubblicato() is None
