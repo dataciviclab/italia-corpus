@@ -135,3 +135,20 @@ class TestOrfanoAttoLevel:
             [{"filename": "a.md", "urn": "", "is_current": True, "riferimenti_interni": 0, "n_citazioni": 0}]
         )
         assert _calcola_orfano(df).loc[0, "orfano"]
+
+
+def test_abroga_non_conta_come_citazione():
+    """Dal 2026-11 `riferimenti` porta anche `rel_type='abroga'`: non sono
+    citazioni in ingresso (bersaglio senza filename) e non devono entrare
+    nel totale dell'invariante."""
+    norm = _norm([{"filename": "a.md", "urn": "urn:a"}])
+    rif = pd.DataFrame(
+        [
+            {"fonte_filename": "x.md", "bersaglio_filename": "a.md",
+             "risolto": True, "rel_type": "citation"},
+            {"fonte_filename": "x.md", "bersaglio_filename": "",
+             "risolto": True, "rel_type": "abroga"},
+        ]
+    )
+    df = _conta_citazioni_per_atto(norm, rif)
+    assert int(df["n_citazioni"].sum()) == 1

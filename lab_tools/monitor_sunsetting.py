@@ -98,6 +98,9 @@ def main() -> None:
 
     # Calcola ultimo riferimento in ingresso
     df_rif_res = df_rif[df_rif["risolto"] == True]  # noqa: E712
+    # le abroga non sono citazioni in ingresso (bersaglio senza filename)
+    if "rel_type" in df_rif_res.columns:
+        df_rif_res = df_rif_res[df_rif_res["rel_type"] == "citation"]
     ultimo_ref = df_rif_res.groupby("bersaglio_filename")["fonte_anno"].max().reset_index()
     ultimo_ref.columns = ["filename", "ultimo_riferimento"]
     df = df.merge(ultimo_ref, on="filename", how="left")
