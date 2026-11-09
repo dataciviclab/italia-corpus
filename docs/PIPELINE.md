@@ -204,12 +204,15 @@ I parquet derived **non** sono rigenerati in questa PR: al prossimo build CI il 
 | `akn-act-meta` | `fonte_file` | `mart_eiv_per_decennio`, `mart_modifiche_anno` |
 | `akn-relations` | `edge_id` (md5) | `mart_relazioni_per_tipo`, `mart_modifiche_tipizzate` |
 
-- Makefile: `make toolkit-check` · `make toolkit-run`
+- Makefile: `make toolkit-check` · `make toolkit-run` · `make verify-smoke`
 - Output: `out/data/{clean,mart}/<dataset>/2026/` (gitignored)
 - **CI settimanale** (`pipeline.yml`, lunedì 03:30 UTC, due job):
   - `build`: engine + commit dati + `allegati/` su GCS
   - `publish`: `make atti-index` (pre-run, artefatto non committato) + `toolkit-run` + rsync
     `gs://dataciviclab-clean|mart/italia-corpus/` + registry draft PR
+- `workflow_dispatch` ha l'input **`skip_fetch`**: salta fetch + status e deriva dai dati committati (~4 min invece di ~15), per validare/ripubblicare una correzione di codice senza rifare il fetch
+- **`derive-smoke`** (`derive-smoke.yml`): sulle PR che toccano `lab_tools/`, `datasets/`, `config/` esegue **grafo + arricchisci** sui dati committati, senza fetch (~5-7 min). È il gate che avrebbe preso l'invariante delle abroga, non coperta dai test unitari
+- **Locale, prima di un push su `lab_tools`**: `make verify-smoke` (stesse due stage). Sovrascrive `data/derived/{normativa,riferimenti}.parquet`: `git checkout -- data/derived` dopo
 - `toolkit-run` salta `datasets/atti-index` se l'artefatto manca (guardia esplicita)
 - Il clean `atti-index` richiede la colonna `materia` nel parquet derivato: in CI c'è `make atti-index` prima del publish, **in locale** un `atti_index.parquet` vecchio fa fallire `make toolkit-run` finché non si rigenera
 - Dual-publish: derived resta in git per MCP; clean+mart su GCS sono il contratto Lab
