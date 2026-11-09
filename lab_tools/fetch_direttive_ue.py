@@ -330,6 +330,7 @@ def build_rows(
                 "prima_notifica_ita": prima_notifica,
                 "prima_misura_ita_data": prima_misura,
                 "ritardo_recepimento_giorni": ritardo,
+                "ritardo_plausibile": ritardo is not None and ritardo <= 1095,
                 "misura_ita_titolo": misura_titolo,
                 "eurlex_url": f"https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:{celex}",
                 "eli_url": f"https://eur-lex.europa.eu/eli/dir/{anno}/{numero}/oj" if risolto else None,

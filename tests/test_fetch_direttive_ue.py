@@ -97,6 +97,7 @@ class TestBuildRows:
         assert row["prima_notifica_ita"] == "1993-01-15"
         assert row["prima_misura_ita_data"] == "1993-01-10"
         assert row["ritardo_recepimento_giorni"] == 10
+        assert bool(row["ritardo_plausibile"]) is True
         assert row["misura_ita_titolo"] == "D.Lgs di recepimento"
 
     def test_senza_misure(self):

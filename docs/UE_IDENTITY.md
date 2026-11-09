@@ -67,6 +67,7 @@ fallback R/D, per non attribuire l'identità sbagliata.
 | `prima_notifica_ita` | prima data di notifica (può contenere segnaposto) |
 | `prima_misura_ita_data` | data della prima misura italiana (≥ data dell'atto) |
 | `ritardo_recepimento_giorni` | `prima_misura_ita_data − scadenza` (negativo = in tempo) |
+| `ritardo_plausibile` | `true` se il ritardo è ≤ 3 anni (oltre, spesso manca la prima misura) |
 | `misura_ita_titolo` | titolo della prima misura |
 | `eurlex_url` / `eli_url` | link al testo e all'ELI |
 
@@ -91,10 +92,25 @@ Una query per anno restituisce **5.004 misure italiane per 3.097 direttive**
 | | |
 |---|---:|
 | Con misura italiana | 1.861 |
-| Ritardo calcolabile (scadenza + misura) | 1.640 |
-| In ritardo | 1.295 (79,0%) |
-| Ritardo mediano | 248 giorni |
-| Ritardo mediano dei ritardi | 382 giorni |
+| Ritardo calcolabile | 1.640 |
+| In ritardo (grezzo) | 1.295 (79,0%) |
+| Ritardo mediano (grezzo) | 248 giorni |
+
+**Validazione su 18 direttive** con recepimento noto nel corpus (oggetto che
+cita la direttiva): **10 coincidono** entro 120 giorni, **8 divergono**. I casi
+divergenti sono quasi tutti NIM che **non contengono la prima misura**: 97/81
+(manca il D.Lgs 61/2000), 2008/98 (manca il 205/2010), 2006/123 (manca il
+59/2010), 95/46 (nessuna misura), 83/349 (manca il 127/1991); in un caso
+(2009/138) c'è l'atto giusto ma una data sbagliata.
+
+**Stima conservativa** (esclusi i ritardi > 3 anni, dove è quasi certo che manchi
+la prima misura): **1.392 direttive, 1.047 in ritardo (75,2%), mediana dei
+ritardi 282 giorni**. Per decennio: 69% (70), 71% (80), 75% (90), 84% (2000),
+77% (2010), 56% (2020).
+
+Il claim difendibile è quindi: *circa tre quarti delle direttive con una misura
+italiana plausibile è stata recepita in ritardo, con una mediana di ~9 mesi*. I
+248 casi con ritardo > 3 anni restano un limite superiore da non usare.
 
 Esempi verificati a mano: 89/391 → D.Lgs 626/1994, **+681 giorni**; 2019/1937 →
 D.Lgs 24/2023, **+453**; 2016/680 → D.Lgs 51/2018, **+18**; 2006/123 → **+793**.
