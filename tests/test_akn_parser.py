@@ -2,6 +2,7 @@
 
 import xml.etree.ElementTree as ET
 
+import pytest
 from lab_tools.akn_parser import (
     AknFrontmatter,
     akn_xml_to_markdown,
@@ -128,6 +129,27 @@ class TestHrefToUrn:
 
     def test_urn_nir_passthrough(self):
         assert href_to_urn("urn:nir:stato:legge:2024-01-01;1") == "urn:nir:stato:legge:2024-01-01;1"
+
+    @pytest.mark.parametrize(
+        "href, atteso",
+        [
+            (
+                "urn:nir:stato:decreto-legge:2005-09-30;203",
+                "urn:nir:stato:decreto.legge:2005-09-30;203",
+            ),
+            (
+                "urn:nir:stato:regio.decreto-legge:1930-01-01;1",
+                "urn:nir:stato:regio.decreto.legge:1930-01-01;1",
+            ),
+        ],
+    )
+    def test_urn_nir_normalizza_il_trattino(self, href, atteso):
+        """Il corpus NIR usa i punti nei tipi; l'AKN a volte il trattino.
+
+        Senza normalizzazione i join esatti sull'URN (repeal di legal-graph)
+        perdono il target: 254 repeal e 15.218 citazioni sul corpus 2026-11.
+        """
+        assert href_to_urn(href) == atteso
 
     def test_akn_path(self):
         result = href_to_urn("/akn/it/act/decreto.legislativo/stato/2020-03-15/45")

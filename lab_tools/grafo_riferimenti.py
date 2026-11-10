@@ -20,6 +20,7 @@ from pathlib import Path
 from lab_tools._paths import COLLEZIONI_ROOT, OUTDIR, collezioni_legislative
 from lab_tools.classifica_riferimenti import clausola_di_lettura
 from lab_tools.identity import build_indice_identita, data_codice
+from lab_tools.text_clean import pulisci_markup
 from lab_tools.urn import annual_key, expand_index, full_key
 from lab_tools.urn import lookup as urn_lookup
 from lab_tools.urn import regola as urn_regola
@@ -105,6 +106,8 @@ def estrai_link_con_contesto(body: str) -> list[tuple[str, str]]:
         non deduplicata (il caller fa il counting per peso).
     """
     results: list[tuple[str, str]] = []
+    # Copia lunga uguale: le posizioni dei link restano quelle del body.
+    pulito = pulisci_markup(body)
     # Trova tutte le posizioni dei link con RE_LINK (non-overlapping, come findall)
     for m in RE_LINK.finditer(body):
         path_raw = m.group(1)
@@ -112,7 +115,7 @@ def estrai_link_con_contesto(body: str) -> list[tuple[str, str]]:
         # Contesto: ±_CTX_MAX char attorno al match, con bound di sicurezza
         start = max(0, m.start() - _CTX_MAX)
         end = min(len(body), m.end() + _CTX_MAX)
-        raw_ctx = body[start:end]
+        raw_ctx = pulito[start:end]
         # Normalizza whitespace
         contesto = re.sub(r'\s+', ' ', raw_ctx).strip()
         results.append((path_decoded, contesto))

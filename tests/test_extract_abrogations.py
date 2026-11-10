@@ -80,3 +80,18 @@ class TestExtractFromFile:
         years = {r["abrogated_year"] for r in results}
         assert 2023 in years
         assert 1993 in years
+
+
+    def test_context_senza_markup(self, tmp_path):
+        """Il contesto è prosa: il target del link non deve finire nell'evidenza."""
+        f = tmp_path / "test.md"
+        f.write_text(
+            "L'[articolo 4-decies del decreto legislativo 24 febbraio 1998, n. 58]"
+            "(../Decreti%20Legislativi/1998-03-26_098G0073_VIGENZA_2026-08-07_V0.md), "
+            "e' abrogato.\n"
+        )
+        results = extract_from_file(f)
+        assert len(results) == 1
+        ctx = results[0]["context"]
+        assert "decreto legislativo 24 febbraio 1998, n. 58" in ctx
+        assert "](" not in ctx and ".md" not in ctx and "VIGENZA" not in ctx

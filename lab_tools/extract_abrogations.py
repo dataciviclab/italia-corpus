@@ -17,6 +17,7 @@ import sys
 from pathlib import Path
 
 from lab_tools._paths import COLLEZIONI_ROOT, OUTDIR
+from lab_tools.text_clean import pulisci_markup
 
 OUTPUT_DIR = OUTDIR
 
@@ -33,14 +34,24 @@ SKIP_PAT = re.compile(r"contrari\w+|incompatibil\w+|precedenti\w+|concilienti|no
 
 
 def extract_from_file(filepath: Path) -> list[dict]:
-    """Estrai abrogazioni da un file, riga per riga (memoria efficiente)."""
+    """Estrai abrogazioni da un file, riga per riga (memoria efficiente).
+
+    Il contesto è calcolato sulla **copia pulita dell'intero body** (stessa
+    lunghezza), poi allineato per riga: i link spezzati su più righe hanno il
+    target sostituito anche quando la riga inizia a metà link.
+    """
     try:
-        lines = filepath.read_text(encoding="utf-8", errors="replace").splitlines()
+        body = filepath.read_text(encoding="utf-8", errors="replace")
     except OSError:
         return []
 
+    lines = body.splitlines()
+    pulite = pulisci_markup(body).splitlines()
+    if len(pulite) != len(lines):
+        pulite = lines  # difesa: meglio il contesto originale che un disallineamento
+
     results = []
-    for line in lines:
+    for line, pulita in zip(lines, pulite):
         if "abrog" not in line.lower():
             continue
         if SKIP_PAT.search(line):
@@ -52,7 +63,7 @@ def extract_from_file(filepath: Path) -> list[dict]:
                 "abrogating_collection": filepath.parent.name,
                 "abrogated_year": year,
                 "abrogated_number": num,
-                "context": line.strip()[:200],
+                "context": re.sub(r"\s+", " ", pulita).strip()[:200],
             })
     return results
 

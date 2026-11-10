@@ -10,6 +10,7 @@ from lab_tools.grafo_riferimenti import (
     _verifica_invarianti,
     _verifica_pk_unica,
     estrai_link,
+    estrai_link_con_contesto,
     risolvi_path,
 )
 
@@ -649,3 +650,38 @@ class TestAttiIndexPubblicato:
 
         monkeypatch.setattr(requests, "get", lambda *a, **k: R())
         assert g._scarica_atti_index_pubblicato() is None
+
+
+class TestContestoMarkdown:
+    """Il contesto citazione è testo: link e URL non devono finirci dentro."""
+
+    def test_link_diventa_testo(self):
+        body = (
+            "Visto l'[art. 1 della legge 190/2012]"
+            "(../Leggi/2012-11-06_12G0213_VIGENZA_2025-10-10_V0.md); visto il resto."
+        )
+        [(path, ctx)] = estrai_link_con_contesto(body)
+        assert path.endswith("2012-11-06_12G0213_VIGENZA_2025-10-10_V0.md")
+        assert "art. 1 della legge 190/2012" in ctx
+        assert "](" not in ctx and ".md" not in ctx and "VIGENZA" not in ctx
+
+    def test_finestra_che_inizia_dentro_un_target(self):
+        """Regressione: la finestra ±_CTX_MAX può partire dentro un link."""
+        body = (
+            "[legge 447](../Codici/1992-02-15_092G0118_VIGENZA_2025-10-14_V0.md) "
+            "e [art. 2](../Leggi/2000-01-01_000G0001_VIGENZA_2025-01-01_V0.md)."
+        )
+        contesti = [c for _, c in estrai_link_con_contesto(body)]
+        assert len(contesti) == 2
+        for ctx in contesti:
+            assert "](" not in ctx, ctx
+            assert ".md" not in ctx, ctx
+            assert "VIGENZA" not in ctx, ctx
+
+    def test_url_e_urn_nudi_rimossi(self):
+        body = (
+            "Vedi https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241 "
+            "e [art. 1](../Leggi/2000-01-01_000G0001_VIGENZA_2025-01-01_V0.md)."
+        )
+        [(_, ctx)] = estrai_link_con_contesto(body)
+        assert "http" not in ctx and "urn:nir:" not in ctx
