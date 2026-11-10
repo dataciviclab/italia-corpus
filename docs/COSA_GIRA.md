@@ -19,13 +19,19 @@ Tre cose, nient'altro:
 job build
 1. probe      → guarda quali formati offre Normattiva (1 richiesta)
 2. fetch      → scarica le collezioni, converte l'XML AKN in markdown
-3. arricchisce→ stato ufficiale, materia, citazioni, qualità, EIV
-4. commit     → testi e derivati vanno in git
+3. gate       → se un atto è sparito rispetto a main si ferma QUI: i testi non vengono committati
+4. commit     → i testi (`collezioni/`) vanno in git appena il gate passa
+5. arricchisce→ stato ufficiale, materia, citazioni, qualità, EIV
+6. catalogo   → indice di tutti gli atti che esistono (anche quelli che non abbiamo) + direttive UE
+7. commit     → i derivati vanno in git
 
 job publish (dopo build)
-5. catalogo   → enumera tutti gli atti che esistono (anche quelli che non abbiamo)
-6. pubblica   → clean + mart su GCS + registry
+8. pubblica   → clean + mart su GCS + registry (catalogo e derivati arrivano dalla cache)
 ```
+
+Un merge che tocca `datasets/**` non rifà il giro: ripubblica **solo i dataset
+cambiati** (~3 min). Se un derive fallisce, il corpus del fetch è già in git:
+la run dopo non ripaga la rete.
 
 Se un passo di rete fallisce (WAF), il resto prosegue con i dati del giorno
 prima: `make stato` mostra l'età di ogni file.
