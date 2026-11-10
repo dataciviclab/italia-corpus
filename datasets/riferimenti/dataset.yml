@@ -60,11 +60,14 @@ mart:
       sql: "sql/mart_citazioni_per_origine.sql"
     - name: "mart_top_bersagli"
       sql: "sql/mart_top_bersagli.sql"
+    - name: "mart_citazioni_costituzionali"
+      sql: "sql/mart_citazioni_costituzionali.sql"
   required_tables:
     - "mart_riferimenti_urn"
     - "mart_debt_legale"
     - "mart_citazioni_per_origine"
     - "mart_top_bersagli"
+    - "mart_citazioni_costituzionali"
   validate:
     table_rules:
       mart_riferimenti_urn:
@@ -79,6 +82,10 @@ mart:
         required_columns: [origine, n_archi]
         primary_key: [origine]
         min_rows: 2
+      mart_citazioni_costituzionali:
+        required_columns: [fonte_filename, fonte_anno, fonte_tipo, articolo, peso]
+        primary_key: [fonte_filename, articolo]
+        min_rows: 5000
       mart_top_bersagli:
         required_columns: [bersaglio_source_path, n_citazioni]
         primary_key: [bersaglio_source_path]

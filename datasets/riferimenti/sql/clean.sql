@@ -14,9 +14,11 @@
 --   - *_source_path   = path risolto per PK e join stabili
 --
 -- Drop documentati (denorm non letti da legal-graph; derivabili da join):
---   fonte_materia, bersaglio_materia, fonte_tipo, bersaglio_tipo,
+--   fonte_materia, bersaglio_materia, bersaglio_tipo,
 --   fonte_collezione, bersaglio_collezione
 -- Tenuti per mart analitici (debt legale): fonte_stato, bersaglio_stato
+-- fonte_tipo: tenuto per `mart_citazioni_costituzionali` (consumer esterno
+-- senza support su `normativa`).
 
 WITH base AS (
     SELECT
@@ -102,6 +104,7 @@ SELECT
     bersaglio_source_file,
     fonte_filename,
     fonte_urn,
+    fonte_tipo,
     bersaglio_filename,
     bersaglio_urn,
     bersaglio_id,
