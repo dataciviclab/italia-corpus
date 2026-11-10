@@ -135,3 +135,55 @@ class TestRegressioni:
         assert 2 not in arts, f"falso positivo 2 in {arts}"
         assert 12 not in arts, f"falso positivo 12 in {arts}"
         assert 27 not in arts, f"falso positivo 27 in {arts}"
+
+
+class TestFoldInRiferimenti:
+    """La citazione costituzionale diventa un arco di `riferimenti` (#rewiring)."""
+
+    def _records(self):
+        return [
+            {
+                "fonte_filename": "Leggi/2020-01-02_20G00001_VIGENZA_2026-01-01_V0.md",
+                "fonte_collezione": "Leggi",
+                "fonte_anno": 2020,
+                "fonte_tipo": "LEGGE",
+                "articolo": 117,
+                "contesto": "Visto l'articolo 117 della Costituzione",
+            }
+        ]
+
+    def test_arco_con_bersaglio_id(self):
+        from lab_tools.grafo_riferimenti import _archi_citazioni
+
+        normativa = {
+            "2020-01-02_20G00001_VIGENZA_2026-01-01_V0.md": {
+                "urn": "urn:nir:stato:legge:2020-01-02;1",
+                "materia": "istituzioni",
+                "stato": "vigente",
+                "anno_atto": 2020,
+            }
+        }
+        archi = _archi_citazioni(self._records(), normativa)
+        assert len(archi) == 1
+        a = archi[0]
+        assert a["bersaglio_id"] == "costituzione:art:117"
+        assert a["bersaglio_urn"] == ""
+        assert a["origine"] == "costituzione"
+        assert a["rel_type"] == "cita_costituzione"
+        assert a["fonte_urn"] == "urn:nir:stato:legge:2020-01-02;1"
+        assert a["risolto"] is True
+
+    def test_pk_distingue_articoli(self):
+        """Senza bersaglio_id nella chiave, tutti gli articoli collasserebbero."""
+        from lab_tools.grafo_riferimenti import _archi_citazioni, _chiave_arco
+
+        archi = _archi_citazioni(self._records(), {})
+        k117 = _chiave_arco(archi[0])
+        altro = {**archi[0], "bersaglio_id": "costituzione:art:118"}
+        assert k117 != _chiave_arco(altro)
+        assert k117[1] == "costituzione:art:117"
+
+    def test_articolo_non_numerico_scartato(self):
+        from lab_tools.grafo_riferimenti import _archi_citazioni
+
+        assert _archi_citazioni([{"fonte_filename": "x.md", "articolo": "n/d"}], {}) == []

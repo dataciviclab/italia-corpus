@@ -1,9 +1,12 @@
 """Estrae citazioni della Costituzione dai body degli atti normativi.
 
 Cerca pattern come "art. 76 della Costituzione", "articolo 117 della Costituzione"
-e produce un dataset derivato con archi atto → articolo costituzionale citato.
+e produce un **intermedio di staging** con archi atto → articolo costituzionale.
 
-Output: data/derived/citazioni-costituzionali.parquet
+Output: data/derived/_citazioni_stage.parquet (gitignored)
+Consumatori: `integra_costituzionali` (colonne su normativa) e
+`grafo_riferimenti` (fold in `riferimenti` con origine='costituzione',
+rel_type='cita_costituzione', bersaglio_id='costituzione:art:N').
 Richiede: normativa.parquet (per metadati anno/collezione)
 
 Uso: python -m lab_tools.estrai_citazioni_costituzionali
@@ -183,7 +186,7 @@ def main():
     _stampa_metriche(records)
 
     # Salva CSV
-    csv_path = OUTDIR / "citazioni-costituzionali.csv"
+    csv_path = OUTDIR / "_citazioni_stage.csv"
     fieldnames = [
         "fonte_filename", "fonte_collezione", "fonte_anno", "fonte_tipo",
         "articolo", "contesto",
@@ -194,11 +197,19 @@ def main():
         w.writerows(records)
     print(f"\nCSV: {csv_path} ({len(records)} righe)")
 
-    # Salva Parquet
-    pqt = OUTDIR / "citazioni-costituzionali.parquet"
+    # Salva Parquet (staging: fuso in `riferimenti` da grafo_riferimenti)
+    pqt = OUTDIR / "_citazioni_stage.parquet"
     table = pa.Table.from_pylist(records)
     pq.write_table(table, pqt)
     print(f"Parquet: {pqt} ({table.num_rows} righe, {table.num_columns} colonne)")
+
+    # Compat temporanea (deprecazione, una finestra): legal-graph e
+    # costituzione-italiana leggono ancora questo path. Lo riscrive lo stesso
+    # stage, così i consumer non si rompono finché non passano a `riferimenti`.
+    # Rimosso quando entrambi sono migrati (wave 2, step 2).
+    legacy = OUTDIR / "citazioni-costituzionali.parquet"
+    pq.write_table(table, legacy)
+    print(f"Parquet (compat, deprecato): {legacy}")
 
 
 if __name__ == "__main__":

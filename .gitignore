@@ -14,6 +14,9 @@ data/derived/*.csv
 # Staging fetch AKN (transiente)
 data/derived/_akn_stage/
 
+# Staging citazioni costituzionali (fuso in `riferimenti`, non committato)
+data/derived/_citazioni_stage.*
+
 # Toolkit runtime (clean/mart/runs) — pubblicati su GCS, non in git
 out/
 

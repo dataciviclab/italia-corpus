@@ -6,10 +6,10 @@ Aggiunge:
 - abrogato_da: se l'atto è menzionato come abrogato in abrogations_raw
 
 Ordine (docs/PIPELINE.md):
-  extract → classifica → citazioni/pnrr/abrogations → QUESTO → grafo → …
+  extract → classifica → citazioni/abrogations → QUESTO → grafo → …
 
 Legge da disco (stesso run, non lo step precedente di CI):
-- data/derived/citazioni-costituzionali.parquet
+- data/derived/_citazioni_stage.parquet
 - data/derived/abrogations_raw.parquet
 Se mancanti: colonne a 0 / vuote (skip, non crash).
 
@@ -23,7 +23,7 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent
 OUTDIR = REPO / "data" / "derived"
 NORMATIVA_PARQUET = OUTDIR / "normativa.parquet"
-COSTITUZIONALI_PARQUET = OUTDIR / "citazioni-costituzionali.parquet"
+COSTITUZIONALI_PARQUET = OUTDIR / "_citazioni_stage.parquet"
 ABROGATIONS_PARQUET = OUTDIR / "abrogations_raw.parquet"
 
 

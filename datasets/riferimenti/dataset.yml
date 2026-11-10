@@ -4,7 +4,7 @@ schema_version: 1
 dataset:
   name: "riferimenti"
   source_id: "italia_corpus"
-  description: "Grafo riferimenti del corpus normativa: archi fonte→bersaglio da regex markdown, citazioni AKN e abrogazioni regex (`rel_type`: `citation`|`abroga`). PK = fonte_source_path + bersaglio_source_path + origine. Le colonne *_filename restano nel formato engine per legal-graph. `bersaglio_urn` porta l'URN AKN anche quando l'atto è fuori corpus (in quel caso `bersaglio_source_path` = URN e `risolto` = false): la citazione non viene più scartata. `clausola_lettura` marca i rinvii di sola lettura (TRUE), li distingue dalle citazioni (FALSE) e segnala i contesti non classificabili (NULL = archi AKN senza testo)."
+  description: "Grafo riferimenti del corpus normativa: archi fonte→bersaglio da regex markdown, citazioni AKN, abrogazioni regex e citazioni costituzionali (`rel_type`: `citation`|`abroga`|`cita_costituzione`; `origine`: `regex`|`akn`|`costituzione`). Per i target che non sono atti (articoli della Costituzione) `bersaglio_id` porta l'id del nodo (`costituzione:art:N`) e `bersaglio_urn` non è valorizzata (stringa vuota, come per i link non risolti: usare `NULLIF(bersaglio_urn,'')` per testare l'assenza). PK = fonte_source_path + bersaglio_source_path + origine. Le colonne *_filename restano nel formato engine per legal-graph. `bersaglio_urn` porta l'URN AKN anche quando l'atto è fuori corpus (in quel caso `bersaglio_source_path` = URN e `risolto` = false): la citazione non viene più scartata. `clausola_lettura` marca i rinvii di sola lettura (TRUE), li distingue dalle citazioni (FALSE) e segnala i contesti non classificabili (NULL = archi AKN senza testo)."
   tags: [normativa, grafo, citazioni, riferimenti]
   category: normativa
   years: [2026]
@@ -36,6 +36,7 @@ clean:
     - fonte_urn
     - bersaglio_filename
     - bersaglio_urn
+    - bersaglio_id
     - rel_type
     - peso
     - risolto
@@ -59,11 +60,14 @@ mart:
       sql: "sql/mart_citazioni_per_origine.sql"
     - name: "mart_top_bersagli"
       sql: "sql/mart_top_bersagli.sql"
+    - name: "mart_citazioni_costituzionali"
+      sql: "sql/mart_citazioni_costituzionali.sql"
   required_tables:
     - "mart_riferimenti_urn"
     - "mart_debt_legale"
     - "mart_citazioni_per_origine"
     - "mart_top_bersagli"
+    - "mart_citazioni_costituzionali"
   validate:
     table_rules:
       mart_riferimenti_urn:
@@ -78,6 +82,10 @@ mart:
         required_columns: [origine, n_archi]
         primary_key: [origine]
         min_rows: 2
+      mart_citazioni_costituzionali:
+        required_columns: [fonte_filename, fonte_anno, fonte_tipo, articolo, peso]
+        primary_key: [fonte_filename, articolo]
+        min_rows: 5000
       mart_top_bersagli:
         required_columns: [bersaglio_source_path, n_citazioni]
         primary_key: [bersaglio_source_path]

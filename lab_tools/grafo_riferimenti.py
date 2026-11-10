@@ -259,6 +259,10 @@ def _chiave_arco(a: dict) -> tuple[str, str, str]:
         # citation AKN verso un atto **fuori corpus**: non esiste un filename,
         # l'identità stabile del bersaglio è l'URN.
         bersaglio_source_path = a["bersaglio_urn"]
+    elif a.get("bersaglio_id"):
+        # bersaglio che non è un atto (es. articolo della Costituzione):
+        # l'identità stabile è l'id del nodo, non un filename/URN NIR.
+        bersaglio_source_path = a["bersaglio_id"]
     else:
         bersaglio_source_path = ""
 
@@ -498,6 +502,77 @@ def _archi_da_abrogazioni(normativa: dict[str, dict]) -> list[dict]:
                 }
             )
     print(f"  AKN/abrogazioni: {len(archi)} archi abroga")
+    return archi
+
+
+def _archi_citazioni(records: list[dict], normativa: dict[str, dict]) -> list[dict]:
+    """Mappa le citazioni costituzionali in archi del grafo dei riferimenti.
+
+    Il bersaglio non è un atto ma un articolo: `bersaglio_id` porta
+    `costituzione:art:N`, `bersaglio_urn` resta vuota (non è una URN NIR).
+    `origine='costituzione'` distingue queste righe da regex/AKN, così
+    `riferimenti` resta l'unico artefatto pubblicato anche per i target
+    non-atto.
+    """
+    archi: list[dict] = []
+    for row in records:
+        try:
+            articolo = int(row.get("articolo"))
+        except (TypeError, ValueError):
+            continue
+        fonte_fn = str(row.get("fonte_filename") or "")
+        meta = normativa.get(fonte_fn.rsplit("/", 1)[-1], {})
+        contesto = str(row.get("contesto") or "")[:300]
+        archi.append(
+            {
+                "fonte_filename": fonte_fn,
+                "fonte_urn": (meta.get("urn") or "").strip(),
+                "fonte_collezione": row.get("fonte_collezione") or meta.get("collezione", ""),
+                "fonte_anno": row.get("fonte_anno") or meta.get("anno_atto", 0),
+                "fonte_tipo": row.get("fonte_tipo") or meta.get("tipo", ""),
+                "fonte_materia": meta.get("materia", ""),
+                "fonte_stato": meta.get("stato", ""),
+                # il bersaglio non è un atto: nessun filename/path/URN
+                "bersaglio_filename": "",
+                "bersaglio_path": "",
+                "bersaglio_urn": "",
+                "bersaglio_id": f"costituzione:art:{articolo}",
+                "bersaglio_collezione": "",
+                "bersaglio_anno": 0,
+                "bersaglio_tipo": "",
+                "bersaglio_materia": "",
+                "bersaglio_stato": "",
+                "peso": 1,
+                "risolto": True,
+                "origine": "costituzione",
+                "rel_type": "cita_costituzione",
+                "contesto": contesto,
+                "clausola_lettura": clausola_di_lettura(contesto),
+            }
+        )
+    return archi
+
+
+def _archi_da_citazioni_costituzionali(normativa: dict[str, dict]) -> list[dict]:
+    """Archi `cita_costituzione` dallo staging di `estrai_citazioni`.
+
+    Se lo staging manca (run parziale) salta senza errore, come le abrogazioni.
+    """
+    path = OUTDIR / "_citazioni_stage.parquet"
+    if not path.exists():
+        print("  _citazioni_stage.parquet assente: archi costituzionali non aggiunti")
+        return []
+    try:
+        import pandas as pd
+    except ImportError:
+        return []
+    try:
+        df = pd.read_parquet(path)
+    except (OSError, ValueError, KeyError) as exc:
+        print(f"  _citazioni_stage.parquet illeggibile ({exc}): archi cost. non aggiunti")
+        return []
+    archi = _archi_citazioni(df.to_dict("records"), normativa)
+    print(f"  citazioni costituzionali: {len(archi)} archi")
     return archi
 
 
@@ -825,6 +900,7 @@ def main():
     print(f"  indice URN catalogo: {len(atti_urn)} chiavi")
     archi.extend(_archi_da_akn_relations(normativa, urn_to_fn, atti_urn))
     archi.extend(_archi_da_abrogazioni(normativa))
+    archi.extend(_archi_da_citazioni_costituzionali(normativa))
 
     # Un arco per chiave = PK del clean (fonte_source_path, bersaglio_source_path,
     # origine). Il dedup AKN copre la causa nota (alias URN); qui si applica

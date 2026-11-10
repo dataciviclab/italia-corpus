@@ -42,7 +42,7 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 | 2 | **extract** | `python -m lab_tools.extract` | `normativa.parquet` (metadati) + `testi.parquet` (filename, urn, testo) |
 | 2b | **atti-index** | `python -m lab_tools.atti_index` | `atti_index.parquet` (catalogo ufficiale, ~205k atti: identità, `stato` da classe 3, `in_corpus`, `materia`) |
 | 3 | **classifica** | `python -m lab_tools.classifica_tematich` | + `materia` (vedi [MATERIA_AUDIT.md](MATERIA_AUDIT.md)) |
-| 4 | **citazioni/pnrr/abrogations** | moduli `estrai_*` / `extract_*` | side product su disco |
+| 4 | **citazioni/abrogations** | moduli `estrai_*` / `extract_*` | side product su disco |
 | 5 | **integra** | `python -m lab_tools.integra_costituzionali` | + cit. cost. / abrogazioni **da side product** |
 | 5b | **integra-vigenza** | `python -m lab_tools.integra_vigenza` | `stato` da `status.parquet` + `vigenza_fonte` |
 | 6 | **grafo** | `python -m lab_tools.grafo_riferimenti` | `riferimenti` (regex∪AKN, denorm materia) |
@@ -95,7 +95,7 @@ coincide con la collezione ufficiale **"Atti normativi abrogati"** (~124k atti)
 > `classifica` usa confini di parola e un tier per i trattati (`affari-esteri`): ogni modifica
 > alle keyword si verifica con `pytest tests/test_classifica_gold.py` (gold set 200 atti,
 > vedi [MATERIA_AUDIT.md](MATERIA_AUDIT.md)).
-> Side product **prima** di `integra`: `integra_costituzionali` legge `citazioni-costituzionali.parquet` e `abrogations_raw.parquet` da `data/derived/`.  
+> Side product **prima** di `integra`: `integra_costituzionali` legge `_citazioni_stage.parquet` e `abrogations_raw.parquet` da `data/derived/`.  
 > `integra-vigenza` **dopo** `fetch-status` e `extract`, e **prima** di `grafo`/`arricchisci` (così `fonte_stato` negli edge e `qualita_score` usano lo stato corretto).  
 > Su CI il checkout di `data/derived/` può ancora fornire side product del giorno prima se lo step è saltato — meglio rigenerarli nello stesso run.  
 > `integra-akn` **dopo** `arricchisci`. `sunsetting` **per ultimo**.
@@ -141,8 +141,9 @@ classificatore del corpus: i gap di tassonomia sono tracciati in #81
 |---|---|---|
 | `status.parquet` | `integra-vigenza` | status autorevole, non pubblicato |
 | `abrogations_raw.parquet` | `integra` + coverage | **fuso** in `riferimenti` come `rel_type='abroga'` (2026-11); resta letto solo dalla coverage come misura della fonte |
-| `citazioni-costituzionali.parquet` | `integra` + legal-graph | **debito**: fondere in `riferimenti` come `cita_costituzione` |
-| `pnrr_references.parquet` | legal-graph | **debito**: fondere in `riferimenti` |
+| `_citazioni_stage.parquet` | `integra` + `grafo` | **gitignored**: fuso in `riferimenti` (`origine='costituzione'`, `rel_type='cita_costituzione'`, `bersaglio_id='costituzione:art:N'`) |
+| `citazioni-costituzionali.parquet` | legal-graph + costituzione-italiana | **deprecato**: doppia scrittura di compat, sparisce quando i due consumer leggono `riferimenti` |
+| `pnrr_references.parquet` | legal-graph | **deprecato**: producer rimosso, il file resta **congelato** finché LG non toglie il support (fase 2) |
 | `atti_api.parquet` | `datasets/atti-api` | promosso a contratto (2026-11) |
 | `testi.parquet` | `datasets/testi` | **gitignored** (~98MB), rigenerato dal publish con `python -m lab_tools.extract --testi-only` |
 | `allegati.parquet` | consumer esterni | **indice pubblicato su GCS** (2026-11, #112): i MD (188,8 MB) sono già lì |
@@ -164,7 +165,7 @@ classificatore del corpus: i gap di tassonomia sono tracciati in #81
 
 ### Debiti dichiarati
 
-1. `citazioni_costituzionali` e `pnrr_references` sono ancora letti da legal-graph via `path:` (fuori contratto): target non-atto (`costituzione:art:N`, `pnrr:missione:N`), da promuovere a dataset. `abrogations_raw` è **fuso** in `riferimenti` (`rel_type='abroga'`).
+1. `citazioni_costituzionali` è **fuso** in `riferimenti` (`origine='costituzione'`, `bersaglio_id='costituzione:art:N'`): legal-graph legge un solo artefatto. `pnrr_references` non è più prodotto (stub senza identità canonica; se serve, si ricostruisce sulle misure di `open-pnrr`) e resta congelato per la finestra di compat di legal-graph. `abrogations_raw` è **fuso** in `riferimenti` (`rel_type='abroga'`).
 2. `allegati.parquet` è l'indice di un contenuto già pubblicato (5.492 MD su GCS): va pubblicato lui (#112), non rimosso.
 3. `data/derived` è in git **e** su GCS: doppio canale. Quando i debiti 1-2 sono chiusi, il derived può essere interamente gitignored (il contract check va ribasato su GCS).
 
