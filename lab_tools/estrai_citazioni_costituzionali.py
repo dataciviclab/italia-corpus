@@ -203,14 +203,6 @@ def main():
     pq.write_table(table, pqt)
     print(f"Parquet: {pqt} ({table.num_rows} righe, {table.num_columns} colonne)")
 
-    # Compat temporanea (deprecazione, una finestra): legal-graph e
-    # costituzione-italiana leggono ancora questo path. Lo riscrive lo stesso
-    # stage, così i consumer non si rompono finché non passano a `riferimenti`.
-    # Rimosso quando entrambi sono migrati (wave 2, step 2).
-    legacy = OUTDIR / "citazioni-costituzionali.parquet"
-    pq.write_table(table, legacy)
-    print(f"Parquet (compat, deprecato): {legacy}")
-
 
 if __name__ == "__main__":
     main()
