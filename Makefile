@@ -1,5 +1,5 @@
 .PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-vigenza integra-akn sunsetting citazioni pnrr abrogations fetch-status akn-relations atti-index direttive-ue probe-collezioni stato \
- toolkit-check toolkit-run toolkit-all check verify-smoke
+ toolkit-check toolkit-run toolkit-all run-batch check verify-smoke
 
 # Pipeline completa (senza fetch — fetch è CI/manuale)
 # Ordine onesto, coerente con build-dataset.yml:
@@ -32,7 +32,7 @@ toolkit-check:
 # direttive_ue è committato: la guardia scatta solo se il parquet manca del
 # tutto; se il fetch CI fallisce, si usa quello committato (stale).
 toolkit-run:
-	@for f in $(TOOLKIT_CONFIGS); do \
+	@for f in $(if $(BATCH),$(shell cat $(BATCH)),$(TOOLKIT_CONFIGS)); do \
 		case "$$f" in \
 			*atti-index*) \
 				if [ ! -f data/derived/atti_index.parquet ]; then \
@@ -48,6 +48,12 @@ toolkit-run:
 	done
 
 toolkit-all: toolkit-run
+
+# Batch selettivo: il reusable scrive batch.txt con i dataset.yml cambiati.
+# Riusa toolkit-run (stessi skip per atti-index/direttive_ue).
+run-batch:
+	@test -s batch.txt || { echo "batch.txt mancante o vuoto"; exit 1; }
+	@$(MAKE) toolkit-run BATCH=batch.txt
 
 # Gate pre-push rapido: le stesse stage del derive-smoke CI (grafo + arricchisci).
 # Non fa fetch. Sovrascrive data/derived/{normativa,riferimenti}.parquet:

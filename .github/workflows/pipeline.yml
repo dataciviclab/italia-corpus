@@ -42,6 +42,13 @@ jobs:
     # su merge di datasets/** non serve: il publish rifà clean/mart dal raw
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
+    timeout-minutes: 90
+    # Solo il build serializza (schedule + dispatch manuale possono sovrapporsi
+    # e i due `git push` si pestano). NON a livello di workflow: group unico
+    # farebbe cancellare un merge in coda, perdendo la pubblicazione.
+    concurrency:
+      group: italia-corpus-build
+      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v6.0.3
         with:
@@ -57,7 +64,7 @@ jobs:
         with:
           python-version: '3.12'
           cache: 'pip'
-      - run: pip install -e ".[dev,pipeline]"
+      - run: pip install -e ".[dev]"
       # Cache: manifest fetch + atti_api + status (persistono tra i run CI)
       # Key giornaliera: una cache al giorno, riutilizzata nei re-run
       - name: Generate cache key
@@ -69,6 +76,7 @@ jobs:
             data/derived/_fetch_manifest.json
             data/derived/atti_api.parquet
             data/derived/status.parquet
+            data/derived/atti_index.parquet
           key: fetch-cache-${{ steps.cache-key.outputs.date }}
           restore-keys: |
             fetch-cache-
@@ -85,6 +93,19 @@ jobs:
       - name: Fetch da Normattiva (MD + artifact AKN)
         if: github.event_name != 'workflow_dispatch' || !inputs.skip_fetch
         run: python -m lab_tools.fetch_normattiva
+      # Il corpus si committa SUBITO: se un derive fallisce, la run dopo non
+      # ripaga il fetch e il manifest (cache) resta coerente con main.
+      - name: Commit corpus (fetch)
+        if: github.event_name != 'workflow_dispatch' || !inputs.skip_fetch
+        run: |
+          if [ -n "$(git status --porcelain -- collezioni)" ]; then
+            git config user.name "github-actions"
+            git config user.email "actions@github.com"
+            git add collezioni
+            git commit -m "chore(corpus): update collezioni [skip ci]"
+            git pull --rebase --autostash
+            git push
+          fi
       # Status: solo classe 3 (lista ufficiale abrogati) ~2 min. La classe 2
       # NON è "vigente", quindi non la scarichiamo; gli atti assenti sono
       # vigenti, salvo la nota whole-act gestita da integra_vigenza.
@@ -153,6 +174,16 @@ jobs:
         run: python -m lab_tools.fetch_urn_acts
         # Rate limit: ~2.5s/atto × ~102 atti = ~4 min.
         # Fetch on-demand: python -m lab_tools.fetch_urn_acts --urn "urn:..."
+      # Questi due li paga il build (normativa/atti_api freschi) e finiscono
+      # nella cache: il publish li riusa invece di rifarli a ogni run.
+      - name: Fetch direttive UE (Cellar)
+        if: github.event_name != 'workflow_dispatch' || !inputs.skip_fetch
+        continue-on-error: true
+        run: python -m lab_tools.fetch_direttive_ue || echo "::warning::direttive_ue non rigenerato (Cellar?) — uso il parquet committato (stale)"
+      - name: Atti index (catalogo Normattiva)
+        if: github.event_name != 'workflow_dispatch' || !inputs.skip_fetch
+        continue-on-error: true
+        run: make atti-index || echo "::warning::atti_index non generato (WAF?) — dataset saltato"
       - name: Contract check (colonne + URN, main ⊂ build)
         run: |
           python - <<'PY'
@@ -257,7 +288,7 @@ jobs:
       # clean/mart li pubblica il job publish (toolkit + GCS + registry).
       # Qui solo il contenuto degli allegati, che è prodotto dal fetch.
       - name: Sync allegati to GCS
-        if: env.GCP_WORKLOAD_IDENTITY_PROVIDER != '' && env.GCP_SERVICE_ACCOUNT != ''
+        if: env.GCP_WORKLOAD_IDENTITY_PROVIDER != '' && env.GCP_SERVICE_ACCOUNT != '' && (github.event_name != 'workflow_dispatch' || !inputs.skip_fetch)
         run: |
           if [ -d data/derived/allegati ]; then
             gsutil -m rsync -r data/derived/allegati/ "gs://dataciviclab-clean/italia-corpus/allegati/"
@@ -268,11 +299,12 @@ jobs:
           fi
       - name: Commit derived if changed
         run: |
-          if [ -n "$(git status --porcelain -- data/derived collezioni)" ]; then
+          if [ -n "$(git status --porcelain -- data/derived)" ]; then
             git config user.name "github-actions"
             git config user.email "actions@github.com"
-            git add data/derived collezioni
+            git add data/derived
             git commit -m "chore(data): update dataset [skip ci]"
+            git pull --rebase --autostash
             git push
           fi
 
@@ -286,11 +318,23 @@ jobs:
     uses: dataciviclab/.github/.github/workflows/pipeline-reusable.yml@main
     with:
       repo-slug: "italia-corpus"
-      # atti_index è gitignored: va rigenerato qui, altrimenti `make toolkit-run`
-      # salta il dataset (guardia) e il registry non si aggiorna.
-      # atti_index e testi sono gitignored: vanno rigenerati qui, altrimenti
-      # `make toolkit-run` salta i dataset. `extract` legge solo `collezioni/`.
-      pre-run-command: "python -m lab_tools.extract --testi-only && (python -m lab_tools.fetch_direttive_ue || echo '::warning::direttive_ue non rigenerato (Cellar?) — uso il parquet committato (stale)') && (make atti-index || echo '::warning::atti_index non generato (WAF?) — dataset saltato')"
+      # Su merge di datasets/** pubblica solo i dataset toccati (batch.txt);
+      # su schedule/dispatch il reusable fa il run completo.
+      # Limite noto: una PR che tocca anche codice (lab_tools/**) ripubblica
+      # solo i dataset cambiati; gli altri si riallineano alla weekly.
+      detect-paths: "datasets"
+      run-batch-command: "make run-batch"
+      # atti_index (gitignored) lo genera il build e lo salva in cache: il
+      # publish lo ripristina e il pre-run non lo rifà (fallback se manca).
+      # Stessi file del build: il publish risalva la cache completa, così il
+      # build successivo (restore per prefisso) non la trova "monca".
+      cache-paths: |
+        data/derived/_fetch_manifest.json
+        data/derived/atti_api.parquet
+        data/derived/status.parquet
+        data/derived/atti_index.parquet
+      cache-key: "fetch-cache"
+      pre-run-command: "python -m lab_tools.extract --testi-only && ([ -f data/derived/atti_index.parquet ] || make atti-index || echo '::warning::atti_index non generato (WAF?)')"
       run-command: "make toolkit-run"
     permissions:
       contents: write
