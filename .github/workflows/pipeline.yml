@@ -78,13 +78,16 @@ jobs:
           key: fetch-cache-${{ steps.cache-key.outputs.date }}
           restore-keys: |
             fetch-cache-
-      # Minimo per il build: `atti_api` (TTL 30g, evita di rifetchare 171 URN).
-      # Gli altri output del fetch servono solo quando il fetch è saltato.
+      # Input accumulativi del fetch: devono essere ripristinati PRIMA, perché
+      # `merge_akn_artifacts`/`aggiorna_indice` fanno merge con la copia
+      # precedente. Senza, le collezioni invariate perdono le righe AKN e
+      # l'indice allegati riparte da zero a ogni build.
+      # `atti_api`: TTL 30g, evita di rifetchare 171 URN.
       - name: Raw derivati per il build
         run: |
-          make fetch-raws RAWS="atti_api"
+          make fetch-raws RAWS="atti_api akn_relations akn_act_meta allegati"
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.skip_fetch }}" = "true" ]; then
-            make fetch-raws RAWS="akn_relations akn_act_meta status"
+            make fetch-raws RAWS="status"
           fi
       - name: Lint (ruff)
         run: python -m ruff check lab_tools/ tests/
