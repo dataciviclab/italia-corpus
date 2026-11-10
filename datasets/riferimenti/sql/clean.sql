@@ -30,6 +30,7 @@ WITH base AS (
         bersaglio_filename,
         bersaglio_path,
         bersaglio_urn,
+        bersaglio_id,
         bersaglio_anno,
         bersaglio_tipo,
         bersaglio_stato,
@@ -44,6 +45,8 @@ WITH base AS (
             ELSE fonte_filename
         END AS fonte_source_file,
         CASE
+            WHEN COALESCE(bersaglio_id, '') <> ''
+                THEN bersaglio_id
             WHEN bersaglio_filename LIKE '%/%'
                 THEN regexp_extract(bersaglio_filename, '/([^/]+)$', 1)
             ELSE bersaglio_filename
@@ -70,6 +73,10 @@ WITH base AS (
             -- l'identità stabile del bersaglio è l'URN.
             WHEN COALESCE(bersaglio_urn, '') <> ''
                 THEN bersaglio_urn
+            -- Bersaglio che non è un atto (es. articolo della Costituzione):
+            -- l'identità stabile è l'id del nodo (`costituzione:art:N`).
+            WHEN COALESCE(bersaglio_id, '') <> ''
+                THEN bersaglio_id
             ELSE NULL
         END AS bersaglio_source_path,
         -- Contesto del link (evidence per legal-graph): snippet ±120 char attorno al link.
@@ -84,6 +91,7 @@ WITH base AS (
       AND (
           bersaglio_filename IS NOT NULL
           OR COALESCE(bersaglio_urn, '') <> ''
+          OR COALESCE(bersaglio_id, '') <> ''
       )
       AND normalize_string(origine) <> ''
 )
@@ -96,6 +104,7 @@ SELECT
     fonte_urn,
     bersaglio_filename,
     bersaglio_urn,
+    bersaglio_id,
     TRY_CAST(fonte_anno AS INTEGER)   AS fonte_anno,
     TRY_CAST(bersaglio_anno AS INTEGER) AS bersaglio_anno,
     normalize_string(fonte_stato)     AS fonte_stato,

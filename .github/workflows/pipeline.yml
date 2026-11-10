@@ -201,8 +201,6 @@ jobs:
         run: python -m lab_tools.classifica_tematich
       - name: Citazioni Costituzionali
         run: python -m lab_tools.estrai_citazioni_costituzionali
-      - name: Riferimenti PNRR
-        run: python -m lab_tools.extract_pnrr_refs
       - name: Abrogazioni
         run: python -m lab_tools.extract_abrogations
       - name: Integra costituzionali e abrogazioni

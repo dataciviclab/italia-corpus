@@ -1,10 +1,10 @@
-.PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-vigenza integra-akn sunsetting citazioni pnrr abrogations fetch-status akn-relations atti-index direttive-ue probe-collezioni stato \
+.PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-vigenza integra-akn sunsetting citazioni abrogations fetch-status akn-relations atti-index direttive-ue probe-collezioni stato \
  toolkit-check toolkit-run toolkit-all run-batch ensure-atti-index check verify-smoke
 
 # Pipeline completa (senza fetch — fetch è CI/manuale)
 # Ordine onesto, coerente con build-dataset.yml:
 #   classifica → side product → integra (legge da disco) → grafo → …
-pipeline: extract classifica citazioni pnrr abrogations integra integra-vigenza grafo arricchisci integra-akn sunsetting
+pipeline: extract classifica citazioni abrogations integra integra-vigenza grafo arricchisci integra-akn sunsetting
 
 # Minimo per MCP / legal-graph: materia + grafo denorm + qualità + AKN + sunsetting.
 # SENZA classifica perde materia e denorm grafo — non usarlo come contratto LG.
@@ -122,9 +122,6 @@ direttive-ue:
 
 citazioni:
 	python -m lab_tools.estrai_citazioni_costituzionali
-
-pnrr:
-	python -m lab_tools.extract_pnrr_refs
 
 abrogations:
 	python -m lab_tools.extract_abrogations
