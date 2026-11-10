@@ -95,3 +95,17 @@ class TestExtractFromFile:
         ctx = results[0]["context"]
         assert "decreto legislativo 24 febbraio 1998, n. 58" in ctx
         assert "](" not in ctx and ".md" not in ctx and "VIGENZA" not in ctx
+
+
+    def test_link_spezzato_su_piu_righe(self, tmp_path):
+        """Target su due righe: il contesto resta pulito (niente fallback)."""
+        f = tmp_path / "test.md"
+        f.write_text(
+            "E' abrogato il [decreto legislativo 15 novembre 1993, n. 507]"
+            "(../Decreti%20Legislativi/1993-12-27_093G0615_\n"
+            "VIGENZA_2025-06-18_V0.md).\n"
+        )
+        results = extract_from_file(f)
+        assert len(results) == 1
+        ctx = results[0]["context"]
+        assert "](" not in ctx and ".md" not in ctx and "VIGENZA" not in ctx

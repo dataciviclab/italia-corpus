@@ -13,6 +13,7 @@ from lab_tools.grafo_riferimenti import (
     estrai_link_con_contesto,
     risolvi_path,
 )
+from lab_tools.text_clean import pulisci_markup
 
 FIXTURES = Path(__file__).resolve().parent / "fixtures"
 
@@ -685,3 +686,15 @@ class TestContestoMarkdown:
         )
         [(_, ctx)] = estrai_link_con_contesto(body)
         assert "http" not in ctx and "urn:nir:" not in ctx
+
+
+    def test_target_spezzato_mantiene_i_newline(self):
+        """Un target su più righe non deve far sparire la riga."""
+        body = (
+            "Testo [legge 190/2012](../Leggi/2012-11-06_12G0213_\n"
+            "VIGENZA_2025-10-10_V0.md) fine."
+        )
+        pulito = pulisci_markup(body)
+        assert len(pulito) == len(body)
+        assert pulito.count("\n") == body.count("\n")
+        assert ".md" not in pulito and "](" not in pulito
