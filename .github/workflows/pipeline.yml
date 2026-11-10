@@ -42,6 +42,14 @@ jobs:
     # su merge di datasets/** non serve: il publish rifà clean/mart dal raw
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
+    timeout-minutes: 90
+    # Solo il build serializza (schedule + dispatch manuale possono sovrapporsi
+    # e i due `git push` si pestano). NON a livello di workflow: group unico
+    # farebbe cancellare un merge in coda, perdendo la pubblicazione.
+    concurrency:
+      group: italia-corpus-build
+      cancel-in-progress: false
+      queue: max  # default 'single' cancellerebbe un dispatch in coda
     steps:
       - uses: actions/checkout@v6.0.3
         with:
@@ -57,7 +65,7 @@ jobs:
         with:
           python-version: '3.12'
           cache: 'pip'
-      - run: pip install -e ".[dev,pipeline]"
+      - run: pip install -e ".[dev]"
       # Cache: manifest fetch + atti_api + status (persistono tra i run CI)
       # Key giornaliera: una cache al giorno, riutilizzata nei re-run
       - name: Generate cache key
@@ -69,6 +77,7 @@ jobs:
             data/derived/_fetch_manifest.json
             data/derived/atti_api.parquet
             data/derived/status.parquet
+            data/derived/atti_index.parquet
           key: fetch-cache-${{ steps.cache-key.outputs.date }}
           restore-keys: |
             fetch-cache-
@@ -83,8 +92,26 @@ jobs:
         run: python -m lab_tools.collezioni_probe
         continue-on-error: true
       - name: Fetch da Normattiva (MD + artifact AKN)
+        id: fetch_normattiva
         if: github.event_name != 'workflow_dispatch' || !inputs.skip_fetch
-        run: python -m lab_tools.fetch_normattiva
+        run: |
+          # `data/derived/allegati/` è gitignored: per sapere se il fetch ha
+          # prodotto qualcosa serve un marker, non `git status`.
+          marker=/tmp/fetch_start
+          touch "$marker"
+          python -m lab_tools.fetch_normattiva
+          changed=false
+          if [ -n "$(git status --porcelain -- collezioni data/derived/allegati.parquet)" ]; then
+            changed=true
+          elif [ -n "$(find data/derived/allegati -newer "$marker" -print -quit 2>/dev/null)" ]; then
+            changed=true
+          fi
+          echo "changed=$changed" >> "$GITHUB_OUTPUT"
+          if [ "$changed" = "true" ]; then
+            echo "corpus/allegati aggiornati"
+          else
+            echo "nessuna novità di corpus o allegati: niente commit, niente sync"
+          fi
       # Status: solo classe 3 (lista ufficiale abrogati) ~2 min. La classe 2
       # NON è "vigente", quindi non la scarichiamo; gli atti assenti sono
       # vigenti, salvo la nota whole-act gestita da integra_vigenza.
@@ -102,6 +129,70 @@ jobs:
           echo "::warning::fetch-status FALLITO (WAF IPZS?) — uso lo status in cache (STALE). La freschezza di 'stato' NON è garantita."
       - name: Extract metadati
         run: python -m lab_tools.extract
+      # Gate d'identità sul corpus: main ⊂ build. Deve passare PRIMA di
+      # committare `collezioni/`, altrimenti un corpus bucato arriva su main
+      # con un manifest che dice "già preso": la run dopo salta il fetch,
+      # deriva dal corpus rotto e il gate fallisce di nuovo (loop rosso).
+      - name: Gate identità corpus (URN main ⊂ build)
+        run: |
+          python - <<'PY'
+          import subprocess
+          from pathlib import Path
+          import pyarrow.parquet as pq
+          main = Path("/tmp/main_normativa.parquet")
+          main.write_bytes(subprocess.check_output(
+              ["git", "show", "HEAD:data/derived/normativa.parquet"]
+          ))
+          if not main.exists() or main.stat().st_size < 1000:
+              print("skip gate (snapshot non disponibile)")
+              raise SystemExit(0)
+
+          # Invariante di identità: nessun atto può sparire build-over-build.
+          # Il 2026-10-29 il Codice civile è stato cancellato da uno swap dopo
+          # un `syntax error` e il calo non ha fermato niente. La soglia sui
+          # link non basta (un atto poco citato non la supera): qui si confronta
+          # l'insieme degli URN con main. Le deroghe sono esplicite e motivate.
+          def urns(path):
+              col = pq.read_table(path, columns=["urn"])["urn"].to_pylist()
+              return {u for u in col if u}
+
+          main_urns = urns(main)
+          build_urns = urns("data/derived/normativa.parquet")
+
+          allow = Path("config/allowlist_urn_mancanti.txt")
+          ammessi = set()
+          if allow.exists():
+              for line in allow.read_text(encoding="utf-8").splitlines():
+                  u = line.split("#", 1)[0].strip()
+                  if u:
+                      ammessi.add(u)
+
+          mancanti = sorted(main_urns - build_urns)
+          non_ammessi = [u for u in mancanti if u not in ammessi]
+          print(
+              f"gate urn: main={len(main_urns)} build={len(build_urns)} "
+              f"mancanti={len(mancanti)} non_ammessi={len(non_ammessi)}"
+          )
+          if non_ammessi:
+              raise SystemExit(
+                  f"URN MANCANTI: {len(non_ammessi)} non in allowlist "
+                  f"(es. {non_ammessi[:5]})"
+              )
+          PY
+      # Il corpus si committa SUBITO DOPO il gate: se un derive fallisce, la
+      # run dopo non ripaga il fetch e il manifest (cache) resta coerente con
+      # main. Ma un corpus che non passa il gate NON arriva su main.
+      - name: Commit corpus (fetch)
+        if: github.event_name != 'workflow_dispatch' || !inputs.skip_fetch
+        run: |
+          if [ -n "$(git status --porcelain -- collezioni)" ]; then
+            git config user.name "github-actions"
+            git config user.email "actions@github.com"
+            git add collezioni
+            git commit -m "chore(corpus): update collezioni [skip ci]"
+            git pull --rebase --autostash
+            git push
+          fi
       # Ordine onesto (docs/PIPELINE.md):
       # classifica prima di grafo; side product PRIMA di integra;
       # integra-vigenza dopo integra (usa abrogato_da) e prima di grafo;
@@ -153,7 +244,21 @@ jobs:
         run: python -m lab_tools.fetch_urn_acts
         # Rate limit: ~2.5s/atto × ~102 atti = ~4 min.
         # Fetch on-demand: python -m lab_tools.fetch_urn_acts --urn "urn:..."
-      - name: Contract check (colonne + URN, main ⊂ build)
+      # Questi due li paga il build (normativa/atti_api freschi) e finiscono
+      # nella cache: il publish li riusa invece di rifarli a ogni run.
+      - name: Fetch direttive UE (Cellar)
+        if: github.event_name != 'workflow_dispatch' || !inputs.skip_fetch
+        # continue-on-error non serve: il `|| echo` rende lo step comunque verde
+        run: python -m lab_tools.fetch_direttive_ue || echo "::warning::direttive_ue non rigenerato (Cellar?) — uso il parquet committato (stale)"
+      - name: Atti index (catalogo Normattiva)
+        if: github.event_name != 'workflow_dispatch' || !inputs.skip_fetch
+        # rm prima: un fallimento deve lasciare il file ASSENTE, non una copia
+        # vecchia (restaurata dalla cache) che il publish pubblicherebbe come
+        # fresca. Il pre-run del publish lo rigenera se manca o è illeggibile.
+        run: |
+          rm -f data/derived/atti_index.parquet
+          make atti-index || echo "::warning::atti_index non generato (WAF?) — lo rigenera il publish"
+      - name: Contract check (colonne + vigenza, main ⊂ build)
         run: |
           python - <<'PY'
           import subprocess
@@ -166,44 +271,14 @@ jobs:
           if not main.exists() or main.stat().st_size < 1000:
               print("skip contract check (snapshot non disponibile)")
               raise SystemExit(0)
+          # Identità (URN) è un gate a sé, subito dopo `extract`: qui restano
+          # colonne e vigenze, che esistono solo dopo le stage di derive.
           main_cols = set(pq.read_schema(main).names)
           br_cols = set(pq.read_schema("data/derived/normativa.parquet").names)
           missing = sorted(main_cols - br_cols)
           if missing:
               raise SystemExit(f"COLONNE MAIN MANCANTI: {missing}")
           print(f"contract colonne ok: main={len(main_cols)} build={len(br_cols)}")
-
-          # Invariante di identità: nessun atto può sparire build-over-build.
-          # Il 2026-10-29 il Codice civile è stato cancellato da uno swap dopo
-          # un `syntax error` e il calo non ha fermato niente. La soglia sui
-          # link non basta (un atto poco citato non la supera): qui si confronta
-          # l'insieme degli URN con main. Le deroghe sono esplicite e motivate.
-          def urns(path):
-              col = pq.read_table(path, columns=["urn"])["urn"].to_pylist()
-              return {u for u in col if u}
-
-          main_urns = urns(main)
-          build_urns = urns("data/derived/normativa.parquet")
-
-          allow = Path("config/allowlist_urn_mancanti.txt")
-          ammessi = set()
-          if allow.exists():
-              for line in allow.read_text(encoding="utf-8").splitlines():
-                  u = line.split("#", 1)[0].strip()
-                  if u:
-                      ammessi.add(u)
-
-          mancanti = sorted(main_urns - build_urns)
-          non_ammessi = [u for u in mancanti if u not in ammessi]
-          print(
-              f"contract urn: main={len(main_urns)} build={len(build_urns)} "
-              f"mancanti={len(mancanti)} non_ammessi={len(non_ammessi)}"
-          )
-          if non_ammessi:
-              raise SystemExit(
-                  f"URN MANCANTI: {len(non_ammessi)} non in allowlist "
-                  f"(es. {non_ammessi[:5]})"
-              )
 
           # Gate: un downgrade V -> O declassa gli atti correnti (legal_text
           # servirebbe l'originale). Oggi ~13.2k; soglia 1% (min 50).
@@ -257,7 +332,7 @@ jobs:
       # clean/mart li pubblica il job publish (toolkit + GCS + registry).
       # Qui solo il contenuto degli allegati, che è prodotto dal fetch.
       - name: Sync allegati to GCS
-        if: env.GCP_WORKLOAD_IDENTITY_PROVIDER != '' && env.GCP_SERVICE_ACCOUNT != ''
+        if: env.GCP_WORKLOAD_IDENTITY_PROVIDER != '' && env.GCP_SERVICE_ACCOUNT != '' && steps.fetch_normattiva.outputs.changed == 'true'
         run: |
           if [ -d data/derived/allegati ]; then
             gsutil -m rsync -r data/derived/allegati/ "gs://dataciviclab-clean/italia-corpus/allegati/"
@@ -268,11 +343,12 @@ jobs:
           fi
       - name: Commit derived if changed
         run: |
-          if [ -n "$(git status --porcelain -- data/derived collezioni)" ]; then
+          if [ -n "$(git status --porcelain -- data/derived)" ]; then
             git config user.name "github-actions"
             git config user.email "actions@github.com"
-            git add data/derived collezioni
+            git add data/derived
             git commit -m "chore(data): update dataset [skip ci]"
+            git pull --rebase --autostash
             git push
           fi
 
@@ -283,14 +359,32 @@ jobs:
       always() &&
       (needs.build.result == 'success' || needs.build.result == 'skipped') &&
       (github.event_name != 'pull_request' || github.event.pull_request.merged == true)
+    # Un merge durante la publish settimanale non deve sovrapporsi a rsync
+    # GCS / registry PR: accoda, non cancella.
+    concurrency:
+      group: italia-corpus-publish
+      cancel-in-progress: false
+      queue: max
     uses: dataciviclab/.github/.github/workflows/pipeline-reusable.yml@main
     with:
       repo-slug: "italia-corpus"
-      # atti_index è gitignored: va rigenerato qui, altrimenti `make toolkit-run`
-      # salta il dataset (guardia) e il registry non si aggiorna.
-      # atti_index e testi sono gitignored: vanno rigenerati qui, altrimenti
-      # `make toolkit-run` salta i dataset. `extract` legge solo `collezioni/`.
-      pre-run-command: "python -m lab_tools.extract --testi-only && (python -m lab_tools.fetch_direttive_ue || echo '::warning::direttive_ue non rigenerato (Cellar?) — uso il parquet committato (stale)') && (make atti-index || echo '::warning::atti_index non generato (WAF?) — dataset saltato')"
+      # Su merge di datasets/** pubblica solo i dataset toccati (batch.txt);
+      # su schedule/dispatch il reusable fa il run completo.
+      # Limite noto: una PR che tocca anche codice (lab_tools/**) ripubblica
+      # solo i dataset cambiati; gli altri si riallineano alla weekly.
+      detect-paths: "datasets"
+      run-batch-command: "make run-batch"
+      # atti_index (gitignored) lo genera il build e lo salva in cache: il
+      # publish lo ripristina e il pre-run non lo rifà (fallback se manca).
+      # Stessi file del build: il publish risalva la cache completa, così il
+      # build successivo (restore per prefisso) non la trova "monca".
+      cache-paths: |
+        data/derived/_fetch_manifest.json
+        data/derived/atti_api.parquet
+        data/derived/status.parquet
+        data/derived/atti_index.parquet
+      cache-key: "fetch-cache"
+      pre-run-command: "python -m lab_tools.extract --testi-only && (make ensure-atti-index || echo '::warning::atti_index non disponibile (WAF?) — dataset saltato')"
       run-command: "make toolkit-run"
     permissions:
       contents: write

@@ -57,8 +57,9 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 - `make fetch-status` = stage 1b (network, WAF IPZS → pacing)
 
 **CI**: due cadenze separate.
-- **Pipeline settimanale** (`pipeline.yml`, lunedì 03:30 UTC): job `build` (fetch + fetch-status + derive + commit dati + allegati su GCS) e job `publish` (toolkit + clean/mart su GCS + registry PR). ~25 min.
-- **Contract change** (merge su `datasets/**`): gira solo `publish`, dal raw già committato — niente fetch.
+- **Pipeline settimanale** (`pipeline.yml`, lunedì 03:30 UTC): job `build` (fetch → **gate d'identità URN** → commit `collezioni/` → fetch-status → derive → `atti-index` + `direttive_ue` → commit dati + allegati su GCS) e job `publish` (toolkit + clean/mart su GCS + registry PR). ~26 min: `atti-index` e `direttive_ue` stanno nel build (dove il raw è fresco) e il publish li riusa via cache.
+- **Contract change** (merge su `datasets/**`): gira solo `publish`, in **batch** sui dataset toccati (`detect-paths: datasets` + `make run-batch`), dal raw già committato — niente fetch, niente `atti-index`/CELLAR (~3 min). Limite noto: se il merge tocca `datasets/atti-index`, il catalogo pubblicato è quello dell'**ultimo build** (fino a una settimana); la freschezza la paga la weekly.
+- **Ordine del commit**: il corpus si committa **dopo** il gate d'identità, mai prima. `main` non riceve un corpus con URN spariti (classe 29/10) e, se un derive fallisce dopo, il fetch è già salvo: la run dopo non lo ripaga.
 - **Probe formati quotidiano** (`probe.yml`, 05:30 UTC): una richiesta a `collection-predefinite`, scrive `collezioni_probe.json` e committa **solo se lo stato cambia**. È il watchdog dei formati (freeze V del 30/10).
 - `fetch-status` (classe 3, ~2 min) è **non fatale**: se il WAF blocca, resta lo status in cache e il build prosegue con un `::warning::`. Il vintage è in `status.parquet.fetched_at`.
 
@@ -266,14 +267,15 @@ Il mart URN-based consumato da legal-graph è `mart_riferimenti_urn` (vedi sopra
 - Makefile: `make toolkit-check` · `make toolkit-run` · `make verify-smoke`
 - Output: `out/data/{clean,mart}/<dataset>/2026/` (gitignored)
 - **CI settimanale** (`pipeline.yml`, lunedì 03:30 UTC, due job):
-  - `build`: engine + commit dati + `allegati/` su GCS
-  - `publish`: `make atti-index` (pre-run, artefatto non committato) + `toolkit-run` + rsync
+  - `build`: fetch + gate URN + commit `collezioni/` + derive + `atti-index`/`direttive_ue` (cache) + commit dati + `allegati/` su GCS
+  - `publish`: `make ensure-atti-index` (+ `extract --testi-only`) pre-run + `toolkit-run` + rsync
     `gs://dataciviclab-clean|mart/italia-corpus/` + registry draft PR
+  - merge di `datasets/**`: solo `publish`, in batch sui dataset cambiati (`make run-batch`)
 - `workflow_dispatch` ha l'input **`skip_fetch`**: salta fetch Normattiva, status e atti API (~4 min invece di ~15), per validare/ripubblicare una correzione. `status`/`atti_api` vengono dalla cache del build (TTL 30g): su cache fredda `integra_vigenza` fallisce, quindi non è un percorso "da checkout pulito" 
 - **`derive-smoke`** (`derive-smoke.yml`): sulle PR che toccano `lab_tools/`, `datasets/`, `config/`, `data/derived/`, `collezioni/`, `.github/` esegue **grafo + contract check + arricchisci** sui dati committati, senza fetch (~6-8 min). È il gate che avrebbe preso l'invariante delle abroga e il churn dei link regex, non coperti dai test unitari
 - **Locale, prima di un push su `lab_tools`**: `make verify-smoke` (grafo + arricchisci; il contract check è nella CI). Sovrascrive `data/derived/{normativa,riferimenti}.parquet`: `git checkout -- data/derived` dopo
 - `toolkit-run` salta `datasets/atti-index` se l'artefatto manca (guardia esplicita)
-- Il clean `atti-index` richiede la colonna `materia` nel parquet derivato: in CI c'è `make atti-index` prima del publish, **in locale** un `atti_index.parquet` vecchio fa fallire `make toolkit-run` finché non si rigenera
+- Il clean `atti-index` richiede la colonna `materia` nel parquet derivato: in CI lo genera il `build` e il publish lo riusa via cache (`make ensure-atti-index` verifica che sia leggibile e lo rigenera se manca), **in locale** un `atti_index.parquet` vecchio fa fallire `make toolkit-run` finché non si rigenera
 - Dual-publish: derived resta in git per MCP; clean+mart su GCS sono il contratto Lab
 - Warning attesi: `riferimenti` clean droppa denorm non usati da LG
 

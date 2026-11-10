@@ -1,5 +1,5 @@
 .PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-vigenza integra-akn sunsetting citazioni pnrr abrogations fetch-status akn-relations atti-index direttive-ue probe-collezioni stato \
- toolkit-check toolkit-run toolkit-all check verify-smoke
+ toolkit-check toolkit-run toolkit-all run-batch ensure-atti-index check verify-smoke
 
 # Pipeline completa (senza fetch — fetch è CI/manuale)
 # Ordine onesto, coerente con build-dataset.yml:
@@ -32,7 +32,7 @@ toolkit-check:
 # direttive_ue è committato: la guardia scatta solo se il parquet manca del
 # tutto; se il fetch CI fallisce, si usa quello committato (stale).
 toolkit-run:
-	@for f in $(TOOLKIT_CONFIGS); do \
+	@for f in $(if $(BATCH),$(shell cat $(BATCH) 2>/dev/null),$(TOOLKIT_CONFIGS)); do \
 		case "$$f" in \
 			*atti-index*) \
 				if [ ! -f data/derived/atti_index.parquet ]; then \
@@ -48,6 +48,25 @@ toolkit-run:
 	done
 
 toolkit-all: toolkit-run
+
+# Batch selettivo: il reusable scrive batch.txt con i dataset.yml cambiati.
+# Riusa toolkit-run (stessi skip per atti-index/direttive_ue).
+run-batch:
+	@test -s batch.txt || { echo "batch.txt mancante o vuoto"; exit 1; }
+	@$(MAKE) toolkit-run BATCH=batch.txt
+
+# atti_index è gitignored e nel publish arriva dalla cache del build. Non basta
+# `[ -f ]`: un build fallito a metà può lasciare un parquet troncato, e una
+# copia vecchia (restaurata dalla cache) verrebbe pubblicata come fresca.
+# Qui: se manca o non è leggibile lo rigenera; se c'è, dice cosa sta usando.
+ensure-atti-index:
+	@if python -c "import pyarrow.parquet as pq; pq.read_schema('data/derived/atti_index.parquet')" 2>/dev/null; then \
+		python -c "import datetime, pathlib; p=pathlib.Path('data/derived/atti_index.parquet'); s=p.stat(); print('atti_index ok: %.1f MB, %s UTC' % (s.st_size/1e6, datetime.datetime.fromtimestamp(s.st_mtime, datetime.UTC).strftime('%Y-%m-%d %H:%M')))"; \
+	else \
+		echo "⚠ data/derived/atti_index.parquet assente o illeggibile — lo rigenero"; \
+		$(MAKE) atti-index; \
+		python -c "import pyarrow.parquet as pq; pq.read_schema('data/derived/atti_index.parquet')"; \
+	fi
 
 # Gate pre-push rapido: le stesse stage del derive-smoke CI (grafo + arricchisci).
 # Non fa fetch. Sovrascrive data/derived/{normativa,riferimenti}.parquet:
