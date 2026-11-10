@@ -142,8 +142,6 @@ classificatore del corpus: i gap di tassonomia sono tracciati in #81
 | `status.parquet` | `integra-vigenza` | status autorevole, non pubblicato |
 | `abrogations_raw.parquet` | `integra` + coverage | **fuso** in `riferimenti` come `rel_type='abroga'` (2026-11); resta letto solo dalla coverage come misura della fonte |
 | `_citazioni_stage.parquet` | `integra` + `grafo` | **gitignored**: fuso in `riferimenti` (`origine='costituzione'`, `rel_type='cita_costituzione'`, `bersaglio_id='costituzione:art:N'`) |
-| `citazioni-costituzionali.parquet` | legal-graph + costituzione-italiana | **deprecato**: doppia scrittura di compat, sparisce quando i due consumer leggono `riferimenti` |
-| `pnrr_references.parquet` | legal-graph | **deprecato**: producer rimosso, il file resta **congelato** finché LG non toglie il support (fase 2) |
 | `atti_api.parquet` | `datasets/atti-api` | promosso a contratto (2026-11) |
 | `testi.parquet` | `datasets/testi` | **gitignored** (~98MB), rigenerato dal publish con `python -m lab_tools.extract --testi-only` |
 | `allegati.parquet` | consumer esterni | **indice pubblicato su GCS** (2026-11, #112): i MD (188,8 MB) sono già lì |
@@ -165,7 +163,7 @@ classificatore del corpus: i gap di tassonomia sono tracciati in #81
 
 ### Debiti dichiarati
 
-1. `citazioni_costituzionali` è **fuso** in `riferimenti` (`origine='costituzione'`, `bersaglio_id='costituzione:art:N'`): legal-graph legge un solo artefatto. `pnrr_references` non è più prodotto (stub senza identità canonica; se serve, si ricostruisce sulle misure di `open-pnrr`) e resta congelato per la finestra di compat di legal-graph. `abrogations_raw` è **fuso** in `riferimenti` (`rel_type='abroga'`).
+1. `citazioni_costituzionali` è **fuso** in `riferimenti` (`origine='costituzione'`, `bersaglio_id='costituzione:art:N'`): legal-graph legge un solo artefatto. `pnrr_references` è stato **rimosso** (stub senza identità canonica; se serve, si ricostruisce sulle misure di `open-pnrr`). I consumer leggono `riferimenti` per le citazioni: nessun derived IC via GitHub raw. `abrogations_raw` è **fuso** in `riferimenti` (`rel_type='abroga'`).
 2. `allegati.parquet` è l'indice di un contenuto già pubblicato (5.492 MD su GCS): va pubblicato lui (#112), non rimosso.
 3. `data/derived` è in git **e** su GCS: doppio canale. Quando i debiti 1-2 sono chiusi, il derived può essere interamente gitignored (il contract check va ribasato su GCS).
 
