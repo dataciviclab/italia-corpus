@@ -12,6 +12,7 @@ on:
   pull_request:
     paths:
       - "lab_tools/grafo_riferimenti.py"
+      - "lab_tools/akn_canonicalizza.py"
       - "lab_tools/arricchisci_normativa.py"
       - "lab_tools/estrai_citazioni_costituzionali.py"
       - "lab_tools/integra_costituzionali.py"
