@@ -95,12 +95,22 @@ jobs:
         id: fetch_normattiva
         if: github.event_name != 'workflow_dispatch' || !inputs.skip_fetch
         run: |
+          # `data/derived/allegati/` è gitignored: per sapere se il fetch ha
+          # prodotto qualcosa serve un marker, non `git status`.
+          marker=/tmp/fetch_start
+          touch "$marker"
           python -m lab_tools.fetch_normattiva
-          if [ -n "$(git status --porcelain -- collezioni)" ]; then
-            echo "changed=true" >> "$GITHUB_OUTPUT"
+          changed=false
+          if [ -n "$(git status --porcelain -- collezioni data/derived/allegati.parquet)" ]; then
+            changed=true
+          elif [ -n "$(find data/derived/allegati -newer "$marker" -print -quit 2>/dev/null)" ]; then
+            changed=true
+          fi
+          echo "changed=$changed" >> "$GITHUB_OUTPUT"
+          if [ "$changed" = "true" ]; then
+            echo "corpus/allegati aggiornati"
           else
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "nessuna novità di corpus: niente commit, niente sync allegati"
+            echo "nessuna novità di corpus o allegati: niente commit, niente sync"
           fi
       # Status: solo classe 3 (lista ufficiale abrogati) ~2 min. La classe 2
       # NON è "vigente", quindi non la scarichiamo; gli atti assenti sono
@@ -349,6 +359,12 @@ jobs:
       always() &&
       (needs.build.result == 'success' || needs.build.result == 'skipped') &&
       (github.event_name != 'pull_request' || github.event.pull_request.merged == true)
+    # Un merge durante la publish settimanale non deve sovrapporsi a rsync
+    # GCS / registry PR: accoda, non cancella.
+    concurrency:
+      group: italia-corpus-publish
+      cancel-in-progress: false
+      queue: max
     uses: dataciviclab/.github/.github/workflows/pipeline-reusable.yml@main
     with:
       repo-slug: "italia-corpus"

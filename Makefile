@@ -32,7 +32,7 @@ toolkit-check:
 # direttive_ue è committato: la guardia scatta solo se il parquet manca del
 # tutto; se il fetch CI fallisce, si usa quello committato (stale).
 toolkit-run:
-	@for f in $(if $(BATCH),$(shell cat $(BATCH)),$(TOOLKIT_CONFIGS)); do \
+	@for f in $(if $(BATCH),$(shell cat $(BATCH) 2>/dev/null),$(TOOLKIT_CONFIGS)); do \
 		case "$$f" in \
 			*atti-index*) \
 				if [ ! -f data/derived/atti_index.parquet ]; then \

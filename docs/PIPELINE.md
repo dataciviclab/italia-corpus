@@ -58,7 +58,7 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 
 **CI**: due cadenze separate.
 - **Pipeline settimanale** (`pipeline.yml`, lunedì 03:30 UTC): job `build` (fetch → **gate d'identità URN** → commit `collezioni/` → fetch-status → derive → `atti-index` + `direttive_ue` → commit dati + allegati su GCS) e job `publish` (toolkit + clean/mart su GCS + registry PR). ~26 min: `atti-index` e `direttive_ue` stanno nel build (dove il raw è fresco) e il publish li riusa via cache.
-- **Contract change** (merge su `datasets/**`): gira solo `publish`, in **batch** sui dataset toccati (`detect-paths: datasets` + `make run-batch`), dal raw già committato — niente fetch, niente `atti-index`/CELLAR (~3 min).
+- **Contract change** (merge su `datasets/**`): gira solo `publish`, in **batch** sui dataset toccati (`detect-paths: datasets` + `make run-batch`), dal raw già committato — niente fetch, niente `atti-index`/CELLAR (~3 min). Limite noto: se il merge tocca `datasets/atti-index`, il catalogo pubblicato è quello dell'**ultimo build** (fino a una settimana); la freschezza la paga la weekly.
 - **Ordine del commit**: il corpus si committa **dopo** il gate d'identità, mai prima. `main` non riceve un corpus con URN spariti (classe 29/10) e, se un derive fallisce dopo, il fetch è già salvo: la run dopo non lo ripaga.
 - **Probe formati quotidiano** (`probe.yml`, 05:30 UTC): una richiesta a `collection-predefinite`, scrive `collezioni_probe.json` e committa **solo se lo stato cambia**. È il watchdog dei formati (freeze V del 30/10).
 - `fetch-status` (classe 3, ~2 min) è **non fatale**: se il WAF blocca, resta lo status in cache e il build prosegue con un `::warning::`. Il vintage è in `status.parquet.fetched_at`.
