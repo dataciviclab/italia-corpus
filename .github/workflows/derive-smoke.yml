@@ -2,18 +2,23 @@ name: derive-smoke
 
 # Gate pre-merge per le modifiche che possono rompere la pipeline.
 # Esegue le stage che sono fallite nei build recenti (grafo + arricchisci)
-# sui dati committati, **senza fetch**: ~5-7 min invece dei ~15 del build.
+# sui raw scaricati dal layer GCS, **senza fetch**: ~3 min.
 # Il caso che ha motivato il workflow: le abroga contate come citazioni in
 # `arricchisci` (invariante Σ n_citazioni), non coperto dai test unitari.
+#
+# Trigger volutamente stretto: SOLO i file che il gate esercita davvero.
+# Cambi a workflow, doc, config dataset o SQL non lo fanno girare.
 on:
   pull_request:
     paths:
-      - "lab_tools/**"
-      - "datasets/**"
-      - "config/**"
-      - "data/derived/**"
-      - "collezioni/**"
-      - ".github/**"
+      - "lab_tools/grafo_riferimenti.py"
+      - "lab_tools/arricchisci_normativa.py"
+      - "lab_tools/classifica_riferimenti.py"
+      - "lab_tools/identity.py"
+      - "lab_tools/text_clean.py"
+      - "lab_tools/urn.py"
+      - "lab_tools/_paths.py"
+      - ".github/workflows/derive-smoke.yml"
   # per provare il gate su un branch prima di mergiarlo
   workflow_dispatch:
 
