@@ -1,5 +1,5 @@
 .PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-vigenza integra-akn sunsetting citazioni abrogations fetch-status akn-relations atti-index direttive-ue probe-collezioni stato \
- toolkit-check toolkit-run toolkit-all run-batch ensure-atti-index check verify-smoke
+ toolkit-check toolkit-run toolkit-all run-batch fetch-raws ensure-atti-index check verify-smoke
 
 # Pipeline completa (senza fetch — fetch è CI/manuale)
 # Ordine onesto, coerente con build-dataset.yml:
@@ -48,6 +48,23 @@ toolkit-run:
 	done
 
 toolkit-all: toolkit-run
+
+# Raw derivati: `data/derived` non è più in git. Il publish (batch o full) e
+# derive-smoke li scaricano dal raw layer pubblico su GCS. `testi` (98 MB)
+# resta generato da `extract --testi-only`: rigenerarlo costa meno che
+# scaricarlo. In locale: `make fetch-raws` prima di `make toolkit-run`.
+RAWS := normativa riferimenti akn_relations akn_act_meta atti_api direttive_ue atti_index allegati status
+RAW_BASE ?= https://storage.googleapis.com/dataciviclab-clean/italia-corpus/_raw/2026
+
+fetch-raws:
+	@mkdir -p data/derived
+	@for f in $(RAWS); do \
+		if [ ! -s "data/derived/$$f.parquet" ]; then \
+			echo "→ raw $$f"; \
+			curl -fsSL "$(RAW_BASE)/$$f.parquet" -o "data/derived/$$f.parquet" \
+				|| { echo "⚠ $$f non disponibile sul raw layer"; rm -f "data/derived/$$f.parquet"; }; \
+		fi; \
+	done
 
 # Batch selettivo: il reusable scrive batch.txt con i dataset.yml cambiati.
 # Riusa toolkit-run (stessi skip per atti-index/direttive_ue).

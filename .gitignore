@@ -29,6 +29,11 @@ data/derived/allegati/
 # pesante ~15MB e soggetto a drift — riproducibile con `make fetch-status`)
 data/derived/status.parquet
 
+# Derivati: fuori da git, pubblicati sul raw layer GCS (_raw/2026) e letti
+# dal publish con `make fetch-raws`. Restano solo i file committati per storia
+# (collezioni_probe.json).
+data/derived/*.parquet
+
 # Indice catalogo Normattiva (rigenerato da `atti-index`; ~200k atti, drift
 # quotidiano — non committato: pubblicato dal layer toolkit, letto da legal-graph)
 data/derived/atti_index.parquet

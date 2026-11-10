@@ -10,7 +10,7 @@ Tre cose, nient'altro:
 | Prodotto | Dove vive | A cosa serve |
 |---|---|---|
 | **Testi** (markdown delle leggi) | `collezioni/` — in git | lettura, `legal_text`, analisi testuale |
-| **Dati** (parquet derivati) | `data/derived/` — parzialmente in git | citazioni, metadati, qualità, stato |
+| **Dati** (parquet derivati) | **raw layer GCS** (`…/_raw/2026/`), non in git | citazioni, metadati, qualità, stato |
 | **Pubblicazione** | GCS `dataciviclab-clean/italia-corpus/` | è ciò che legal-graph legge |
 
 ## Il giro settimanale (un workflow, lunedì 03:30 UTC)
@@ -23,7 +23,7 @@ job build
 4. commit     → i testi (`collezioni/`) vanno in git appena il gate passa
 5. arricchisce→ stato ufficiale, materia, citazioni, qualità, EIV
 6. catalogo   → indice di tutti gli atti che esistono (anche quelli che non abbiamo) + direttive UE
-7. commit     → i derivati vanno in git
+7. pubblica   → i derivati vanno sul **raw layer** GCS (non in git)
 
 job publish (dopo build)
 8. pubblica   → clean + mart su GCS + registry (catalogo e derivati arrivano dalla cache)

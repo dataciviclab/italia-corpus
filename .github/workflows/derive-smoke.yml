@@ -45,6 +45,8 @@ jobs:
           cache: "pip"
       - run: pip install -e ".[dev,pipeline]"
         timeout-minutes: 5
+      - name: Raw derivati da GCS (non più in git)
+        run: make fetch-raws
       - name: Derive smoke (grafo + arricchisci, senza fetch)
         run: python -m lab_tools.grafo_riferimenti
       # Stesso gate del build: un churn di filename fa crollare la

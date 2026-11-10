@@ -66,8 +66,9 @@ jobs:
           python-version: '3.12'
           cache: 'pip'
       - run: pip install -e ".[dev]"
-      # Cache: manifest fetch + atti_api + status (persistono tra i run CI)
-      # Key giornaliera: una cache al giorno, riutilizzata nei re-run
+      # Cache: solo il manifest del fetch (stato "collezioni già prese").
+      # I parquet derivati stanno sul raw layer GCS, non qui: `make fetch-raws`
+      # li riporta in `data/derived/` all'inizio del build.
       - name: Generate cache key
         id: cache-key
         run: echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
@@ -75,12 +76,11 @@ jobs:
         with:
           path: |
             data/derived/_fetch_manifest.json
-            data/derived/atti_api.parquet
-            data/derived/status.parquet
-            data/derived/atti_index.parquet
           key: fetch-cache-${{ steps.cache-key.outputs.date }}
           restore-keys: |
             fetch-cache-
+      - name: Raw derivati da GCS (non più in git)
+        run: make fetch-raws
       - name: Lint (ruff)
         run: python -m ruff check lab_tools/ tests/
       - run: python -m pytest tests/ -v
@@ -137,12 +137,21 @@ jobs:
         run: |
           python - <<'PY'
           import subprocess
+          import urllib.request
           from pathlib import Path
           import pyarrow.parquet as pq
+          # Baseline = raw normativa dell'ultimo build, dal raw layer pubblico.
+          # `data/derived` non è più in git: il gate confronta raw vs raw.
           main = Path("/tmp/main_normativa.parquet")
-          main.write_bytes(subprocess.check_output(
-              ["git", "show", "HEAD:data/derived/normativa.parquet"]
-          ))
+          RAW_URL = (
+              "https://storage.googleapis.com/dataciviclab-clean/"
+              "italia-corpus/_raw/2026/normativa.parquet"
+          )
+          try:
+              urllib.request.urlretrieve(RAW_URL, main)
+          except Exception as exc:  # primo build dopo il passaggio al raw layer
+              print(f"skip gate (baseline non disponibile: {exc})")
+              raise SystemExit(0)
           if not main.exists() or main.stat().st_size < 1000:
               print("skip gate (snapshot non disponibile)")
               raise SystemExit(0)
@@ -260,12 +269,19 @@ jobs:
         run: |
           python - <<'PY'
           import subprocess
+          import urllib.request
           from pathlib import Path
           import pyarrow.parquet as pq
           main = Path("/tmp/main_normativa.parquet")
-          main.write_bytes(subprocess.check_output(
-              ["git", "show", "HEAD:data/derived/normativa.parquet"]
-          ))
+          RAW_URL = (
+              "https://storage.googleapis.com/dataciviclab-clean/"
+              "italia-corpus/_raw/2026/normativa.parquet"
+          )
+          try:
+              urllib.request.urlretrieve(RAW_URL, main)
+          except Exception as exc:
+              print(f"skip contract check (baseline non disponibile: {exc})")
+              raise SystemExit(0)
           if not main.exists() or main.stat().st_size < 1000:
               print("skip contract check (snapshot non disponibile)")
               raise SystemExit(0)
@@ -339,16 +355,21 @@ jobs:
           if [ -f data/derived/allegati.parquet ]; then
             gsutil -q cp data/derived/allegati.parquet "gs://dataciviclab-clean/italia-corpus/allegati.parquet"
           fi
-      - name: Commit derived if changed
+      # Raw layer pubblico: i derivati non stanno più in git. Il publish
+      # (batch o full) e derive-smoke li scaricano da qui con `make fetch-raws`.
+      # `testi` (98 MB) resta generato dal publish; `status`/manifest sono
+      # solo del build.
+      - name: Sync raw derivati to GCS
+        if: env.GCP_WORKLOAD_IDENTITY_PROVIDER != '' && env.GCP_SERVICE_ACCOUNT != ''
         run: |
-          if [ -n "$(git status --porcelain -- data/derived)" ]; then
-            git config user.name "github-actions"
-            git config user.email "actions@github.com"
-            git add data/derived
-            git commit -m "chore(data): update dataset [skip ci]"
-            git pull --rebase --autostash
-            git push
-          fi
+          for f in normativa riferimenti akn_relations akn_act_meta atti_api direttive_ue atti_index allegati status; do
+            if [ -f "data/derived/$f.parquet" ]; then
+              gsutil -q cp "data/derived/$f.parquet" "gs://dataciviclab-clean/italia-corpus/_raw/2026/$f.parquet"
+              echo "✅ raw $f"
+            else
+              echo "::warning::raw $f.parquet assente nel build"
+            fi
+          done
 
   publish:
     needs: build
@@ -372,17 +393,12 @@ jobs:
       # solo i dataset cambiati; gli altri si riallineano alla weekly.
       detect-paths: "datasets"
       run-batch-command: "make run-batch"
-      # atti_index (gitignored) lo genera il build e lo salva in cache: il
-      # publish lo ripristina e il pre-run non lo rifà (fallback se manca).
-      # Stessi file del build: il publish risalva la cache completa, così il
-      # build successivo (restore per prefisso) non la trova "monca".
+      # Cache = solo il manifest del fetch (come nel build). I parquet
+      # derivati arrivano dal raw layer con `make fetch-raws` nel pre-run.
       cache-paths: |
         data/derived/_fetch_manifest.json
-        data/derived/atti_api.parquet
-        data/derived/status.parquet
-        data/derived/atti_index.parquet
       cache-key: "fetch-cache"
-      pre-run-command: "python -m lab_tools.extract --testi-only && (make ensure-atti-index || echo '::warning::atti_index non disponibile (WAF?) — dataset saltato')"
+      pre-run-command: "make fetch-raws && python -m lab_tools.extract --testi-only && (make ensure-atti-index || echo '::warning::atti_index non disponibile (WAF?) — dataset saltato')"
       run-command: "make toolkit-run"
     permissions:
       contents: write
