@@ -215,6 +215,10 @@ jobs:
             git pull --rebase --autostash
             git push
           fi
+      # #142: le forme AKN (codice.civile, regiodecreto, …) non matchano i
+      # nodi canonici; si canonicalizzano prima di grafo/publish.
+      - name: Canonicalizza URN AKN (#142)
+        run: python -m lab_tools.akn_canonicalizza
       # Ordine onesto (docs/PIPELINE.md):
       # classifica prima di grafo; side product PRIMA di integra;
       # integra-vigenza dopo integra (usa abrogato_da) e prima di grafo;

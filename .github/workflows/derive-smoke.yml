@@ -56,6 +56,8 @@ jobs:
       # prima arrivavano dal checkout sparse di data/derived).
       - name: Raw derivati dal layer GCS
         run: make fetch-raws RAWS="normativa akn_relations abrogations_raw atti_index"
+      - name: Canonicalizza URN AKN (#142)
+        run: python -m lab_tools.akn_canonicalizza
       # Stesso ordine del build per le stage coperte dal gate: le citazioni
       # costituzionali entrano in `riferimenti` solo se lo stage esiste.
       - name: Citazioni costituzionali (staging)
