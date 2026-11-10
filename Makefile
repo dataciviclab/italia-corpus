@@ -32,6 +32,7 @@ toolkit-check:
 # direttive_ue è committato: la guardia scatta solo se il parquet manca del
 # tutto; se il fetch CI fallisce, si usa quello committato (stale).
 toolkit-run:
+	@if [ -z "$(BATCH)" ]; then $(MAKE) fetch-raws; fi
 	@for f in $(if $(BATCH),$(shell cat $(BATCH) 2>/dev/null),$(TOOLKIT_CONFIGS)); do \
 		case "$$f" in \
 			*atti-index*) \
@@ -67,10 +68,22 @@ fetch-raws:
 	done
 
 # Batch selettivo: il reusable scrive batch.txt con i dataset.yml cambiati.
-# Riusa toolkit-run (stessi skip per atti-index/direttive_ue).
+# Scarica dal raw layer SOLO il raw del dataset toccato (non 50 MB).
 run-batch:
 	@test -s batch.txt || { echo "batch.txt mancante o vuoto"; exit 1; }
-	@$(MAKE) toolkit-run BATCH=batch.txt
+	@raws=""; for f in $$(cat batch.txt); do \
+		case "$$f" in \
+			*akn-act-meta*) raws="$$raws akn_act_meta" ;; \
+			*akn-relations*) raws="$$raws akn_relations" ;; \
+			*atti-api*) raws="$$raws atti_api" ;; \
+			*atti-index*) raws="$$raws atti_index" ;; \
+			*direttive-ue*) raws="$$raws direttive_ue" ;; \
+			*normativa*) raws="$$raws normativa" ;; \
+			*riferimenti*) raws="$$raws riferimenti" ;; \
+		esac; \
+	done; \
+	$(MAKE) fetch-raws RAWS="$$raws"; \
+	$(MAKE) toolkit-run BATCH=batch.txt
 
 # atti_index è gitignored e nel publish arriva dalla cache del build. Non basta
 # `[ -f ]`: un build fallito a metà può lasciare un parquet troncato, e una

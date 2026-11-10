@@ -45,8 +45,10 @@ jobs:
           cache: "pip"
       - run: pip install -e ".[dev,pipeline]"
         timeout-minutes: 5
-      - name: Raw derivati da GCS (non più in git)
-        run: make fetch-raws
+      # Solo i raw che servono al grafo + arricchisci (~45 MB, gli stessi che
+      # prima arrivavano dal checkout sparse di data/derived).
+      - name: Raw derivati dal layer GCS
+        run: make fetch-raws RAWS="normativa akn_relations abrogations_raw atti_index"
       - name: Derive smoke (grafo + arricchisci, senza fetch)
         run: python -m lab_tools.grafo_riferimenti
       # Stesso gate del build: un churn di filename fa crollare la
