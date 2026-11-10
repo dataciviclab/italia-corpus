@@ -4,11 +4,13 @@ import xml.etree.ElementTree as ET
 
 import pytest
 from lab_tools.akn_relations import (
+    REL_KEY,
     _extract_eiv,
     extract_act_meta,
     extract_from_xml,
     extract_relations,
     href_to_urn,
+    merge_akn_artifacts,
 )
 
 AKN_NS = "http://docs.oasis-open.org/legaldocml/ns/akn/3.0"
@@ -201,3 +203,71 @@ class TestExtractFromXml:
         relations, meta = extract_from_xml(_xml_rich())
         assert set(relations[0]) >= {"fonte_urn", "target_urn", "rel_type", "origin"}
         assert set(meta) >= {"fonte_urn", "eiv", "mod_types", "n_refs"}
+
+
+class TestMergeNormalizza:
+    def test_vecchi_target_a_trattino_normalizzati(self, tmp_path):
+        """Le collezioni invariate restano nel parquet: il merge le normalizza.
+
+        Senza questo, il fix di `href_to_urn` vale solo per le collezioni
+        riprocessate e i target `decreto-legge` delle altre restano a
+        trattino (15.637 righe sul corpus 2026-11).
+        """
+        import pandas as pd
+
+        old = pd.DataFrame(
+            [
+                {
+                    "fonte_urn": "urn:nir:stato:legge:2022-12-29;197",
+                    "fonte_codice": None,
+                    "target_urn": "urn:nir:stato:decreto-legge:2005-09-30;203",
+                    "rel_type": "repeal",
+                    "origin": "activeModification",
+                    "detail": "",
+                    "contesto": "",
+                }
+            ]
+        )
+        old.to_parquet(tmp_path / "akn_relations.parquet", index=False)
+
+        merge_akn_artifacts([], [], tmp_path)
+
+        got = pd.read_parquet(tmp_path / "akn_relations.parquet")
+        assert got.iloc[0]["target_urn"] == (
+            "urn:nir:stato:decreto.legge:2005-09-30;203"
+        )
+
+    def test_vecchia_e_nuova_collassano(self, tmp_path):
+        """Vecchia riga a trattino + nuova canonica → una sola riga (la nuova)."""
+        import pandas as pd
+
+        old = pd.DataFrame(
+            [
+                {
+                    "fonte_urn": "urn:nir:stato:legge:2022-12-29;197",
+                    "fonte_codice": None,
+                    "target_urn": "urn:nir:stato:decreto-legge:2005-09-30;203",
+                    "rel_type": "repeal",
+                    "origin": "activeModification",
+                    "detail": "vecchia",
+                    "contesto": "",
+                }
+            ]
+        )
+        old.to_parquet(tmp_path / "akn_relations.parquet", index=False)
+        new = [
+            {
+                "fonte_urn": "urn:nir:stato:legge:2022-12-29;197",
+                "fonte_codice": None,
+                "target_urn": "urn:nir:stato:decreto.legge:2005-09-30;203",
+                "rel_type": "repeal",
+                "origin": "activeModification",
+                "detail": "nuova",
+                "contesto": "",
+            }
+        ]
+        merge_akn_artifacts(new, [], tmp_path)
+        got = pd.read_parquet(tmp_path / "akn_relations.parquet")
+        assert len(got) == 1
+        assert got.iloc[0]["detail"] == "nuova"
+        assert set(REL_KEY) <= set(got.columns)
