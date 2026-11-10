@@ -13,6 +13,8 @@ on:
     paths:
       - "lab_tools/grafo_riferimenti.py"
       - "lab_tools/arricchisci_normativa.py"
+      - "lab_tools/estrai_citazioni_costituzionali.py"
+      - "lab_tools/integra_costituzionali.py"
       - "lab_tools/classifica_riferimenti.py"
       - "lab_tools/identity.py"
       - "lab_tools/text_clean.py"
@@ -54,6 +56,12 @@ jobs:
       # prima arrivavano dal checkout sparse di data/derived).
       - name: Raw derivati dal layer GCS
         run: make fetch-raws RAWS="normativa akn_relations abrogations_raw atti_index"
+      # Stesso ordine del build per le stage coperte dal gate: le citazioni
+      # costituzionali entrano in `riferimenti` solo se lo stage esiste.
+      - name: Citazioni costituzionali (staging)
+        run: python -m lab_tools.estrai_citazioni_costituzionali
+      - name: Integra citazioni/abrogazioni
+        run: python -m lab_tools.integra_costituzionali
       - name: Derive smoke (grafo + arricchisci, senza fetch)
         run: python -m lab_tools.grafo_riferimenti
       # Stesso gate del build: un churn di filename fa crollare la
