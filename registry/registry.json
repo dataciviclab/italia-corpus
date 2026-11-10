@@ -991,6 +991,12 @@
           "description": ""
         },
         {
+          "name": "fonte_tipo",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
           "name": "bersaglio_filename",
           "type": "VARCHAR",
           "role": "dimension",
@@ -998,6 +1004,12 @@
         },
         {
           "name": "bersaglio_urn",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
+          "name": "bersaglio_id",
           "type": "VARCHAR",
           "role": "dimension",
           "description": ""
@@ -1085,7 +1097,8 @@
         "riferimenti__mart_riferimenti_urn",
         "riferimenti__mart_debt_legale",
         "riferimenti__mart_citazioni_per_origine",
-        "riferimenti__mart_top_bersagli"
+        "riferimenti__mart_top_bersagli",
+        "riferimenti__mart_citazioni_costituzionali"
       ]
     },
     {
@@ -1234,6 +1247,16 @@
       "location": {
         "type": "gcs",
         "path": "gs://dataciviclab-mart/italia-corpus/normativa/2026/mart_materia_stato.parquet",
+        "multi_file": false
+      }
+    },
+    {
+      "slug": "riferimenti__mart_citazioni_costituzionali",
+      "dataset": "riferimenti",
+      "table": "mart_citazioni_costituzionali",
+      "location": {
+        "type": "gcs",
+        "path": "gs://dataciviclab-mart/italia-corpus/riferimenti/2026/mart_citazioni_costituzionali.parquet",
         "multi_file": false
       }
     },
@@ -1477,26 +1500,26 @@
       "detail": "anno 2026 — mart: si",
       "action": "",
       "run": {
-        "run_id": "20261110T174116Z_c14f7c20",
+        "run_id": "20261110T193621Z_ddb35a59",
         "year": 2026,
         "status": "SUCCESS",
         "quality_score": {
           "raw": 100,
-          "clean": 95,
+          "clean": 100,
           "mart": 100
         },
         "output_rows": {
-          "clean": 367483,
-          "mart": 271310
+          "clean": 377476,
+          "mart": 281303
         },
         "output_bytes": {
-          "raw": 20260043,
-          "clean": 12444129,
-          "mart": 7907692
+          "raw": 20623136,
+          "clean": 12727777,
+          "mart": 7976867
         },
-        "started_at": "2026-11-10T17:41:16.377264+00:00",
-        "finished_at": "2026-11-10T17:41:17.707958+00:00",
-        "duration_seconds": 1.331
+        "started_at": "2026-11-10T19:36:21.816917+00:00",
+        "finished_at": "2026-11-10T19:36:23.362844+00:00",
+        "duration_seconds": 1.546
       }
     },
     {
