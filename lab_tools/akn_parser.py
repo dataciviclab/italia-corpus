@@ -18,6 +18,9 @@ NS = {"akn": AKN_NS, "eli": ELI_NS}
 
 NORMATTIVA_URI_RES = "https://www.normattiva.it/uri-res/N2Ls"
 
+# Forma NIR con tipo isolato: `urn:nir:<emettitore>:<tipo>:<resto>`.
+_NIR_TIPO_RE = re.compile(r"^(urn:nir:[^:]+:)([^:]+)(:.*)$")
+
 
 @dataclass(frozen=True)
 class AknFrontmatter:
@@ -130,6 +133,22 @@ def format_frontmatter(fm: AknFrontmatter) -> str:
 
 # ── Reference resolution ─────────────────────────────────────────────
 
+def _normalizza_tipo_nir(urn: str) -> str:
+    """`decreto-legge` → `decreto.legge` (il corpus non usa trattini nei tipi).
+
+    L'AKN scrive alcuni tipi NIR con il trattino (`decreto-legge`,
+    `regio.decreto-legge`, `decreto-legge.luogotenenziale`), il corpus con il
+    punto. Senza normalizzazione i consumatori che fanno join esatto sull'URN
+    (es. gli archi `abroga` di legal-graph) perdono quei target: sul corpus
+    2026-11 sono 254 repeal e 15.218 citazioni.
+    """
+    m = _NIR_TIPO_RE.match(urn or "")
+    if not m:
+        return urn
+    prefisso, tipo, resto = m.groups()
+    return f"{prefisso}{tipo.replace('-', '.')}{resto}"
+
+
 def href_to_urn(href: str) -> str | None:
     """Mapping href (urn:nir o /akn/...) a identificativo urn:nir.
 
@@ -139,7 +158,7 @@ def href_to_urn(href: str) -> str | None:
         return None
     path, _, _ = href.partition("#")
     if path.startswith("urn:nir:"):
-        return path
+        return _normalizza_tipo_nir(path)
     if not path.startswith("/akn/"):
         return None
     parts = path.strip("/").split("/")
@@ -148,7 +167,7 @@ def href_to_urn(href: str) -> str | None:
     act_type, authority, date, number = parts[3], parts[4], parts[5], parts[6]
     urn_type = _slug_tipo_akn(act_type)
     urn_authority = authority.lower().replace("_", ".")
-    return f"urn:nir:{urn_authority}:{urn_type}:{date};{number}"
+    return _normalizza_tipo_nir(f"urn:nir:{urn_authority}:{urn_type}:{date};{number}")
 
 
 def _normattiva_url(href: str) -> str:
