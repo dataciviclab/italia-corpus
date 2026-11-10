@@ -1,5 +1,5 @@
 .PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-vigenza integra-akn sunsetting citazioni abrogations fetch-status akn-relations atti-index direttive-ue probe-collezioni stato \
- toolkit-check toolkit-run toolkit-all run-batch ensure-atti-index check verify-smoke
+ toolkit-check toolkit-run toolkit-all run-batch fetch-raws check verify-smoke
 
 # Pipeline completa (senza fetch — fetch è CI/manuale)
 # Ordine onesto, coerente con build-dataset.yml:
@@ -25,13 +25,12 @@ toolkit-check:
 		$(TOOLKIT) run preflight --config "$$f"; \
 	done
 
-# atti-index dipende da un artefatto non committato (drift, come status):
-# in un contesto dove non è stato generato (es. registry workflow su checkout
-# pulito) il dataset va saltato, non deve far fallire la pubblicazione degli
-# altri. Il warning è esplicito: se salta, il registry non si aggiorna.
-# direttive_ue è committato: la guardia scatta solo se il parquet manca del
-# tutto; se il fetch CI fallisce, si usa quello committato (stale).
+# I raw stanno sul layer GCS, non in git: se uno manca (layer non ancora
+# popolato, download fallito) il dataset va saltato, non deve far fallire la
+# pubblicazione degli altri. Il warning è esplicito: se salta, il registry non
+# si aggiorna per quel dataset.
 toolkit-run:
+	@if [ -z "$(BATCH)" ]; then $(MAKE) fetch-raws; fi
 	@for f in $(if $(BATCH),$(shell cat $(BATCH) 2>/dev/null),$(TOOLKIT_CONFIGS)); do \
 		case "$$f" in \
 			*atti-index*) \
@@ -49,24 +48,42 @@ toolkit-run:
 
 toolkit-all: toolkit-run
 
+# Raw derivati: `data/derived` non è più in git. Il publish (batch o full) e
+# derive-smoke li scaricano dal raw layer pubblico su GCS. `testi` (98 MB)
+# resta generato da `extract --testi-only`: rigenerarlo costa meno che
+# scaricarlo. In locale: `make fetch-raws` prima di `make toolkit-run`.
+RAWS := normativa riferimenti akn_relations akn_act_meta abrogations_raw atti_api direttive_ue atti_index allegati status
+RAW_BASE ?= https://storage.googleapis.com/dataciviclab-clean/italia-corpus/_raw/2026
+
+fetch-raws:
+	@mkdir -p data/derived
+	@for f in $(RAWS); do \
+		if [ ! -s "data/derived/$$f.parquet" ]; then \
+			echo "→ raw $$f"; \
+			curl -fsSL "$(RAW_BASE)/$$f.parquet" -o "data/derived/$$f.parquet" \
+				|| { echo "⚠ $$f non disponibile sul raw layer"; rm -f "data/derived/$$f.parquet"; continue; }; \
+			python -c "import pyarrow.parquet as pq,sys; pq.read_schema(sys.argv[1])" "data/derived/$$f.parquet" 2>/dev/null \
+				|| { echo "⚠ $$f illeggibile (download troncato)"; rm -f "data/derived/$$f.parquet"; }; \
+		fi; \
+	done
+
 # Batch selettivo: il reusable scrive batch.txt con i dataset.yml cambiati.
-# Riusa toolkit-run (stessi skip per atti-index/direttive_ue).
+# Scarica dal raw layer SOLO il raw del dataset toccato (non 50 MB).
 run-batch:
 	@test -s batch.txt || { echo "batch.txt mancante o vuoto"; exit 1; }
-	@$(MAKE) toolkit-run BATCH=batch.txt
-
-# atti_index è gitignored e nel publish arriva dalla cache del build. Non basta
-# `[ -f ]`: un build fallito a metà può lasciare un parquet troncato, e una
-# copia vecchia (restaurata dalla cache) verrebbe pubblicata come fresca.
-# Qui: se manca o non è leggibile lo rigenera; se c'è, dice cosa sta usando.
-ensure-atti-index:
-	@if python -c "import pyarrow.parquet as pq; pq.read_schema('data/derived/atti_index.parquet')" 2>/dev/null; then \
-		python -c "import datetime, pathlib; p=pathlib.Path('data/derived/atti_index.parquet'); s=p.stat(); print('atti_index ok: %.1f MB, %s UTC' % (s.st_size/1e6, datetime.datetime.fromtimestamp(s.st_mtime, datetime.UTC).strftime('%Y-%m-%d %H:%M')))"; \
-	else \
-		echo "⚠ data/derived/atti_index.parquet assente o illeggibile — lo rigenero"; \
-		$(MAKE) atti-index; \
-		python -c "import pyarrow.parquet as pq; pq.read_schema('data/derived/atti_index.parquet')"; \
-	fi
+	@raws=""; for f in $$(cat batch.txt); do \
+		case "$$f" in \
+			*akn-act-meta*) raws="$$raws akn_act_meta" ;; \
+			*akn-relations*) raws="$$raws akn_relations" ;; \
+			*atti-api*) raws="$$raws atti_api" ;; \
+			*atti-index*) raws="$$raws atti_index" ;; \
+			*direttive-ue*) raws="$$raws direttive_ue" ;; \
+			*normativa*) raws="$$raws normativa" ;; \
+			*riferimenti*) raws="$$raws riferimenti" ;; \
+		esac; \
+	done; \
+	$(MAKE) fetch-raws RAWS="$$raws"; \
+	$(MAKE) toolkit-run BATCH=batch.txt
 
 # Gate pre-push rapido: le stesse stage del derive-smoke CI (grafo + arricchisci).
 # Non fa fetch. Sovrascrive data/derived/{normativa,riferimenti}.parquet:

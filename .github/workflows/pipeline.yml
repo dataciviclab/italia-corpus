@@ -66,8 +66,8 @@ jobs:
           python-version: '3.12'
           cache: 'pip'
       - run: pip install -e ".[dev]"
-      # Cache: manifest fetch + atti_api + status (persistono tra i run CI)
-      # Key giornaliera: una cache al giorno, riutilizzata nei re-run
+      # Cache: solo il manifest del fetch (`status`/`atti_api` non servono
+      # più qui: i raw arrivano dal layer GCS).
       - name: Generate cache key
         id: cache-key
         run: echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
@@ -75,12 +75,17 @@ jobs:
         with:
           path: |
             data/derived/_fetch_manifest.json
-            data/derived/atti_api.parquet
-            data/derived/status.parquet
-            data/derived/atti_index.parquet
           key: fetch-cache-${{ steps.cache-key.outputs.date }}
           restore-keys: |
             fetch-cache-
+      # Minimo per il build: `atti_api` (TTL 30g, evita di rifetchare 171 URN).
+      # Gli altri output del fetch servono solo quando il fetch è saltato.
+      - name: Raw derivati per il build
+        run: |
+          make fetch-raws RAWS="atti_api"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.skip_fetch }}" = "true" ]; then
+            make fetch-raws RAWS="akn_relations akn_act_meta status"
+          fi
       - name: Lint (ruff)
         run: python -m ruff check lab_tools/ tests/
       - run: python -m pytest tests/ -v
@@ -137,12 +142,26 @@ jobs:
         run: |
           python - <<'PY'
           import subprocess
+          import urllib.error
+          import urllib.request
           from pathlib import Path
           import pyarrow.parquet as pq
+          # Baseline = raw normativa dell'ultimo build, dal raw layer pubblico.
+          # `data/derived` non è più in git: il gate confronta raw vs raw.
           main = Path("/tmp/main_normativa.parquet")
-          main.write_bytes(subprocess.check_output(
-              ["git", "show", "HEAD:data/derived/normativa.parquet"]
-          ))
+          RAW_URL = (
+              "https://storage.googleapis.com/dataciviclab-clean/"
+              "italia-corpus/_raw/2026/normativa.parquet"
+          )
+          try:
+              urllib.request.urlretrieve(RAW_URL, main)
+          except urllib.error.HTTPError as exc:
+              # 404 = prima build che popola il layer (bootstrap).
+              print(f"::warning::gate disattivato: baseline assente sul layer (HTTP {exc.code})")
+              raise SystemExit(0)
+          except Exception as exc:
+              print(f"::warning::gate disattivato: errore di rete ({exc})")
+              raise SystemExit(0)
           if not main.exists() or main.stat().st_size < 1000:
               print("skip gate (snapshot non disponibile)")
               raise SystemExit(0)
@@ -243,29 +262,40 @@ jobs:
         # Rate limit: ~2.5s/atto × ~102 atti = ~4 min.
         # Fetch on-demand: python -m lab_tools.fetch_urn_acts --urn "urn:..."
       # Questi due li paga il build (normativa/atti_api freschi) e finiscono
-      # nella cache: il publish li riusa invece di rifarli a ogni run.
+      # sul raw layer: il publish li riusa invece di rifarli a ogni run.
       - name: Fetch direttive UE (Cellar)
         if: github.event_name != 'workflow_dispatch' || !inputs.skip_fetch
         # continue-on-error non serve: il `|| echo` rende lo step comunque verde
-        run: python -m lab_tools.fetch_direttive_ue || echo "::warning::direttive_ue non rigenerato (Cellar?) — uso il parquet committato (stale)"
+        run: python -m lab_tools.fetch_direttive_ue || echo "::warning::direttive_ue non rigenerato (Cellar?) — resta il raw del layer"
       - name: Atti index (catalogo Normattiva)
         if: github.event_name != 'workflow_dispatch' || !inputs.skip_fetch
-        # rm prima: un fallimento deve lasciare il file ASSENTE, non una copia
-        # vecchia (restaurata dalla cache) che il publish pubblicherebbe come
-        # fresca. Il pre-run del publish lo rigenera se manca o è illeggibile.
+        # rm prima: un fallimento deve lasciare il file ASSENTE, così l'upload
+        # NON sovrascrive la copia buona sul layer. Il publish usa il raw del
+        # layer (l'ultima generazione riuscita).
         run: |
           rm -f data/derived/atti_index.parquet
-          make atti-index || echo "::warning::atti_index non generato (WAF?) — lo rigenera il publish"
+          make atti-index || echo "::warning::atti_index non generato (WAF?) — resta il raw del layer"
       - name: Contract check (colonne + vigenza, main ⊂ build)
         run: |
           python - <<'PY'
           import subprocess
+          import urllib.error
+          import urllib.request
           from pathlib import Path
           import pyarrow.parquet as pq
           main = Path("/tmp/main_normativa.parquet")
-          main.write_bytes(subprocess.check_output(
-              ["git", "show", "HEAD:data/derived/normativa.parquet"]
-          ))
+          RAW_URL = (
+              "https://storage.googleapis.com/dataciviclab-clean/"
+              "italia-corpus/_raw/2026/normativa.parquet"
+          )
+          try:
+              urllib.request.urlretrieve(RAW_URL, main)
+          except urllib.error.HTTPError as exc:
+              print(f"::warning::contract check disattivato: baseline assente (HTTP {exc.code})")
+              raise SystemExit(0)
+          except Exception as exc:
+              print(f"::warning::contract check disattivato: errore di rete ({exc})")
+              raise SystemExit(0)
           if not main.exists() or main.stat().st_size < 1000:
               print("skip contract check (snapshot non disponibile)")
               raise SystemExit(0)
@@ -339,16 +369,24 @@ jobs:
           if [ -f data/derived/allegati.parquet ]; then
             gsutil -q cp data/derived/allegati.parquet "gs://dataciviclab-clean/italia-corpus/allegati.parquet"
           fi
-      - name: Commit derived if changed
+      # Raw layer pubblico: i derivati non stanno più in git. Il publish
+      # (batch o full) e derive-smoke li scaricano da qui con `make fetch-raws`.
+      # `testi` (98 MB) resta generato dal publish; `status`/manifest sono
+      # solo del build.
+      - name: Sync raw derivati to GCS
+        if: env.GCP_WORKLOAD_IDENTITY_PROVIDER != '' && env.GCP_SERVICE_ACCOUNT != '' && github.ref == 'refs/heads/main'
         run: |
-          if [ -n "$(git status --porcelain -- data/derived)" ]; then
-            git config user.name "github-actions"
-            git config user.email "actions@github.com"
-            git add data/derived
-            git commit -m "chore(data): update dataset [skip ci]"
-            git pull --rebase --autostash
-            git push
-          fi
+          # Non si cancella mai dal layer: è l'unica copia. Un raw assente in
+          # questa run (skip_fetch, WAF, Cellar) lascia la copia buona
+          # precedente, che il publish continua a usare.
+          for f in normativa riferimenti akn_relations akn_act_meta abrogations_raw atti_api direttive_ue atti_index allegati status; do
+            if [ -f "data/derived/$f.parquet" ]; then
+              gsutil -q cp "data/derived/$f.parquet" "gs://dataciviclab-clean/italia-corpus/_raw/2026/$f.parquet"
+              echo "✅ raw $f"
+            else
+              echo "::warning::raw $f.parquet assente in questa run: resta la copia sul layer"
+            fi
+          done
 
   publish:
     needs: build
@@ -372,17 +410,12 @@ jobs:
       # solo i dataset cambiati; gli altri si riallineano alla weekly.
       detect-paths: "datasets"
       run-batch-command: "make run-batch"
-      # atti_index (gitignored) lo genera il build e lo salva in cache: il
-      # publish lo ripristina e il pre-run non lo rifà (fallback se manca).
-      # Stessi file del build: il publish risalva la cache completa, così il
-      # build successivo (restore per prefisso) non la trova "monca".
+      # Cache = solo il manifest. I raw arrivano dal layer, e solo quello
+      # del dataset toccato (`run-batch` fa il fetch selettivo).
       cache-paths: |
         data/derived/_fetch_manifest.json
-        data/derived/atti_api.parquet
-        data/derived/status.parquet
-        data/derived/atti_index.parquet
       cache-key: "fetch-cache"
-      pre-run-command: "python -m lab_tools.extract --testi-only && (make ensure-atti-index || echo '::warning::atti_index non disponibile (WAF?) — dataset saltato')"
+      pre-run-command: "python -m lab_tools.extract --testi-only"
       run-command: "make toolkit-run"
     permissions:
       contents: write

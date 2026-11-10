@@ -2,18 +2,25 @@ name: derive-smoke
 
 # Gate pre-merge per le modifiche che possono rompere la pipeline.
 # Esegue le stage che sono fallite nei build recenti (grafo + arricchisci)
-# sui dati committati, **senza fetch**: ~5-7 min invece dei ~15 del build.
+# sui raw scaricati dal layer GCS, **senza fetch**: ~3 min.
 # Il caso che ha motivato il workflow: le abroga contate come citazioni in
 # `arricchisci` (invariante Σ n_citazioni), non coperto dai test unitari.
+#
+# Trigger volutamente stretto: SOLO i file che il gate esercita davvero.
+# Cambi a workflow, doc, config dataset o SQL non lo fanno girare.
 on:
   pull_request:
     paths:
-      - "lab_tools/**"
-      - "datasets/**"
-      - "config/**"
-      - "data/derived/**"
-      - "collezioni/**"
-      - ".github/**"
+      - "lab_tools/grafo_riferimenti.py"
+      - "lab_tools/arricchisci_normativa.py"
+      - "lab_tools/estrai_citazioni_costituzionali.py"
+      - "lab_tools/integra_costituzionali.py"
+      - "lab_tools/classifica_riferimenti.py"
+      - "lab_tools/identity.py"
+      - "lab_tools/text_clean.py"
+      - "lab_tools/urn.py"
+      - "lab_tools/_paths.py"
+      - ".github/workflows/derive-smoke.yml"
   # per provare il gate su un branch prima di mergiarlo
   workflow_dispatch:
 
@@ -45,6 +52,16 @@ jobs:
           cache: "pip"
       - run: pip install -e ".[dev,pipeline]"
         timeout-minutes: 5
+      # Solo i raw che servono al grafo + arricchisci (~45 MB, gli stessi che
+      # prima arrivavano dal checkout sparse di data/derived).
+      - name: Raw derivati dal layer GCS
+        run: make fetch-raws RAWS="normativa akn_relations abrogations_raw atti_index"
+      # Stesso ordine del build per le stage coperte dal gate: le citazioni
+      # costituzionali entrano in `riferimenti` solo se lo stage esiste.
+      - name: Citazioni costituzionali (staging)
+        run: python -m lab_tools.estrai_citazioni_costituzionali
+      - name: Integra citazioni/abrogazioni
+        run: python -m lab_tools.integra_costituzionali
       - name: Derive smoke (grafo + arricchisci, senza fetch)
         run: python -m lab_tools.grafo_riferimenti
       # Stesso gate del build: un churn di filename fa crollare la
