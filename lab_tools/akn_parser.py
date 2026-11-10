@@ -133,7 +133,7 @@ def format_frontmatter(fm: AknFrontmatter) -> str:
 
 # ── Reference resolution ─────────────────────────────────────────────
 
-def _normalizza_tipo_nir(urn: str) -> str:
+def normalizza_tipo_nir(urn: str) -> str:
     """`decreto-legge` → `decreto.legge` (il corpus non usa trattini nei tipi).
 
     L'AKN scrive alcuni tipi NIR con il trattino (`decreto-legge`,
@@ -158,7 +158,7 @@ def href_to_urn(href: str) -> str | None:
         return None
     path, _, _ = href.partition("#")
     if path.startswith("urn:nir:"):
-        return _normalizza_tipo_nir(path)
+        return normalizza_tipo_nir(path)
     if not path.startswith("/akn/"):
         return None
     parts = path.strip("/").split("/")
@@ -167,7 +167,7 @@ def href_to_urn(href: str) -> str | None:
     act_type, authority, date, number = parts[3], parts[4], parts[5], parts[6]
     urn_type = _slug_tipo_akn(act_type)
     urn_authority = authority.lower().replace("_", ".")
-    return _normalizza_tipo_nir(f"urn:nir:{urn_authority}:{urn_type}:{date};{number}")
+    return normalizza_tipo_nir(f"urn:nir:{urn_authority}:{urn_type}:{date};{number}")
 
 
 def _normattiva_url(href: str) -> str:

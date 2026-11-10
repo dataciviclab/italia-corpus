@@ -20,7 +20,7 @@ from collections import Counter
 from pathlib import Path
 from typing import TYPE_CHECKING, Any
 
-from lab_tools.akn_parser import href_to_urn
+from lab_tools.akn_parser import href_to_urn, normalizza_tipo_nir
 
 if TYPE_CHECKING:
     import pandas as pd
@@ -421,6 +421,17 @@ def merge_akn_artifacts(
 
     combined = _upsert_by_key(old_rel, new_rel, REL_KEY, rel_cols)
     combined_meta = _upsert_by_key(old_meta, new_meta, [META_KEY], meta_cols)
+
+    # Le collezioni invariate non vengono riprocessate: le loro righe restano
+    # nel parquet con la forma AKN (`decreto-legge`). Qui si normalizzano
+    # anche quelle, così il fix vale anche senza un fetch completo. Dopo la
+    # normalizzazione una vecchia riga e una nuova canonica possono collassare:
+    # si tiene la nuova (in coda).
+    for col in ("fonte_urn", "target_urn"):
+        combined[col] = combined[col].map(
+            lambda u: normalizza_tipo_nir(u) if isinstance(u, str) else u
+        )
+    combined = combined.drop_duplicates(subset=REL_KEY, keep="last")
 
     outdir.mkdir(parents=True, exist_ok=True)
     combined[rel_cols].to_parquet(rel_path, index=False)
