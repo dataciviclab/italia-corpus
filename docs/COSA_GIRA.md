@@ -56,7 +56,7 @@ l'unico che deve accorgersi subito di un cambio di formato della fonte.
 ```bash
 make stato             # una schermata: freschezza, copertura, freeze
 make probe-collezioni  # formati disponibili oggi (1 richiesta)
-make test              # 380 test
+make test              # 475 test
 ```
 
 ## Fragilità note (e perché esistono)
@@ -64,11 +64,13 @@ make test              # 380 test
 1. **I testi stanno in git** (661 MB): da qui cache, sparse-checkout e commit
    giornalieri. È la decisione aperta più grossa.
 2. **I formati della fonte cambiano senza preavviso** (30/10/2026: sparito il
-   formato V su 5 collezioni). Per questo esiste il probe e il pin in config.
+   formato V su 5 collezioni; 11/11/2026: `Codici` è tornata a V). Per questo
+   esiste il probe e il pin in config: restano congelate 4 collezioni.
 3. **L'ordine degli stage vive in 3 posti** (Makefile, CI, questo doc): non nel
    codice. Aggiungendo uno stage, aggiornali tutti.
-4. **Metà delle citazioni non ha contesto** (archi AKN): dal 30/10 l'estrattore
-   lo cattura, i parquet precedenti no → `clausola_lettura` è NULL lì.
+4. **Il contesto delle citazioni AKN è parziale**: il 52% ce l'ha (0 sui parquet
+   precedenti al 30/10); le collezioni non riprocessate restano NULL, quindi
+   `clausola_lettura` è NULL lì.
 
 ## Le tre domande che questo repo non deve dimenticare
 
