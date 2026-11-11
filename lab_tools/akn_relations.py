@@ -81,8 +81,18 @@ _RE_ARTICOLO = re.compile(
 
 
 def frammento(href: str | None) -> str | None:
-    """Fragment dell'href (`...#art_47-com1-leta` → `art_47-com1-leta`)."""
-    frag = (href or "").partition("#")[2].strip()
+    """Fragment dell'href, nelle due sintassi AKN.
+
+    - hash: `...#art_47-com1-leta` → `art_47-com1-leta` (citazioni, eId degli atti);
+    - path: `.../!main/~art_8-ter__para_3` → `art_8-ter__para_3` (textualMod:
+      `repeal`/`substitution` la usano quasi sempre, le `insertion` di alcune
+      collezioni anche). Senza il `~`, il frammento è confrontabile con l'altro.
+    """
+    testo = (href or "").strip()
+    frag = testo.partition("#")[2].strip()
+    if not frag:
+        _, sep, tail = testo.partition("!main/")
+        frag = tail.strip().lstrip("~") if sep else ""
     return frag or None
 
 
@@ -110,6 +120,42 @@ def articolo_da_frammento(frag: str | None) -> str | None:
     if m.group(3):
         art += f"-com{int(m.group(3))}"
     return art
+
+
+# Relazioni che dovrebbero avere un locator: le altre (`passiveRef`,
+# `event:version`, `refsec:original`) puntano all'atto intero per costruzione.
+LOCATOR_REL_TYPES = frozenset(
+    {"citation", "insertion", "repeal", "substitution", "split", "join", "renumbering"}
+)
+
+
+def locator_stats(rows: list[dict]) -> dict[str, tuple[int, int]]:
+    """{rel_type: (righe, con locator)} — copertura per collezione.
+
+    Serve a vedere *durante* il fetch se un formato di href non è gestito:
+    un `rel_type` con molte righe e zero locator è il sintomo (è successo con
+    `~art_...` sulle textualMod: `repeal` 0/221, invisibile a fine run).
+    """
+    out: dict[str, list[int]] = {}
+    for r in rows:
+        acc = out.setdefault(str(r.get("rel_type") or "?"), [0, 0])
+        acc[0] += 1
+        if r.get("locator"):
+            acc[1] += 1
+    return {k: (v[0], v[1]) for k, v in out.items()}
+
+
+def locator_gap(stats: dict[str, tuple[int, int]]) -> list[str]:
+    """rel_type attesi con locator che invece sono a zero (≥10 righe).
+
+    Solo quelli in `LOCATOR_REL_TYPES`: `event:version` e `passiveRef` non
+    hanno articolo per costruzione e non devono far rumore.
+    """
+    return [
+        rt
+        for rt, (n, loc) in stats.items()
+        if rt in LOCATOR_REL_TYPES and n >= 10 and loc == 0
+    ]
 
 
 def _eli_text(root: ET.Element, name: str) -> str | None:

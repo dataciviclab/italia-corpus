@@ -31,6 +31,10 @@ on:
         description: "Riprocessa tutte le collezioni ignorando il manifest (re-parse AKN, locator/contesto)"
         type: boolean
         default: false
+      only:
+        description: "Solo queste collezioni (nomi esatti separati da virgola; vuoto = tutte)"
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -113,7 +117,12 @@ jobs:
           touch "$marker"
           # `--force` (dispatch) ignora il manifest: serve dopo un cambio di
           # parser per rigenerare locator/contesto delle collezioni invariate.
-          python -m lab_tools.fetch_normattiva ${{ inputs.force_fetch && '--force' || '' }}
+          # `only` limita il fetch a una collezione: riparare un buco di parser
+          # su una collezione costa pochi MB invece di un run completo.
+          args=()
+          if [ "${{ inputs.force_fetch }}" = "true" ]; then args+=(--force); fi
+          if [ -n "${{ inputs.only }}" ]; then args+=(--only "${{ inputs.only }}"); fi
+          python -m lab_tools.fetch_normattiva "${args[@]}"
           changed=false
           if [ -n "$(git status --porcelain -- collezioni data/derived/allegati.parquet)" ]; then
             changed=true
