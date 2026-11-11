@@ -12,6 +12,7 @@ on:
   pull_request:
     paths:
       - "lab_tools/grafo_riferimenti.py"
+      - "lab_tools/akn_canonicalizza.py"
       - "lab_tools/arricchisci_normativa.py"
       - "lab_tools/estrai_citazioni_costituzionali.py"
       - "lab_tools/integra_costituzionali.py"
@@ -56,6 +57,8 @@ jobs:
       # prima arrivavano dal checkout sparse di data/derived).
       - name: Raw derivati dal layer GCS
         run: make fetch-raws RAWS="normativa akn_relations abrogations_raw atti_index"
+      - name: Canonicalizza URN AKN (#142)
+        run: python -m lab_tools.akn_canonicalizza
       # Stesso ordine del build per le stage coperte dal gate: le citazioni
       # costituzionali entrano in `riferimenti` solo se lo stage esiste.
       - name: Citazioni costituzionali (staging)

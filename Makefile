@@ -1,4 +1,4 @@
-.PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-vigenza integra-akn sunsetting citazioni abrogations fetch-status akn-relations atti-index direttive-ue probe-collezioni stato \
+.PHONY: install test lint pipeline pipeline-core extract grafo arricchisci classifica integra integra-vigenza integra-akn sunsetting citazioni abrogations fetch-status akn-relations akn-canonicalizza atti-index direttive-ue probe-collezioni stato \
  toolkit-check toolkit-run toolkit-all run-batch fetch-raws check verify-smoke
 
 # Pipeline completa (senza fetch — fetch è CI/manuale)
@@ -154,6 +154,12 @@ integra-akn:
 
 sunsetting:
 	python -m lab_tools.monitor_sunsetting
+
+# Canonicalizza gli URN degli archi AKN (#142): le forme AKN (codice.civile,
+# regiodecreto, decretodelpresidentedellarepubblica) non matchano i nodi
+# canonici e i join esatti dei consumer scartano quegli edge.
+akn-canonicalizza:
+	python -m lab_tools.akn_canonicalizza
 
 akn-relations:
 	python -m lab_tools.akn_relations --xml-dir data/xml --outdir data/derived --merge

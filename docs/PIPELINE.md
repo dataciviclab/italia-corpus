@@ -40,6 +40,7 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 | 1 | **fetch** | `python -m lab_tools.fetch_normattiva [--only …]` | MD + `akn_*.parquet` (staging + merge) |
 | 1b | **fetch-status** | `python -m lab_tools.fetch_status` | `status.parquet` (solo **abrogati**, classe 3 = lista ufficiale; no testo) |
 | 2 | **extract** | `python -m lab_tools.extract` | `normativa.parquet` (metadati) + `testi.parquet` (filename, urn, testo) |
+| 2c | **akn-canonicalizza** | `python -m lab_tools.akn_canonicalizza` | URN canonici in `akn_relations` (alias `codice.*`, `regiodecreto`, `decretodelpresidentedellarepubblica`), dedup sulla chiave del clean |
 | 2b | **atti-index** | `python -m lab_tools.atti_index` | `atti_index.parquet` (catalogo ufficiale, ~205k atti: identità, `stato` da classe 3, `in_corpus`, `materia`) |
 | 3 | **classifica** | `python -m lab_tools.classifica_tematich` | + `materia` (vedi [MATERIA_AUDIT.md](MATERIA_AUDIT.md)) |
 | 4 | **citazioni/abrogations** | moduli `estrai_*` / `extract_*` | side product su disco |
