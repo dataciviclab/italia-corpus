@@ -51,6 +51,67 @@ def _child_urn(el: ET.Element, tag: str) -> str | None:
     return href_to_urn(child.get("href") or "")
 
 
+def _child_href(el: ET.Element, tag: str) -> str | None:
+    """href grezzo del figlio (con il fragment, che `_child_urn` scarta)."""
+    child = el.find(f"akn:{tag}", NS)
+    if child is None:
+        return None
+    return child.get("href") or None
+
+
+# Suffissi che cambiano l'identità dell'articolo (`art. 47-bis` ≠ `art. 47`).
+# Vocabolario osservato sul corpus (collezione abrogati, 2026-11) più gli
+# ordinali latini successivi: bis, ter, quater, quinquies, sexies, septies,
+# octies, novies, decies, undecies, duodecies, terdecies, quaterdecies,
+# quindecies, sedecies, septendecies, octodecies, novodecies, vicies —
+# scritti sia `47bis` sia `47-bis` sia `47 bis`.
+_SUFFISSI_ARTICOLO = (
+    "terdecies|quaterdecies|septendecies|quindecies|octodecies|novodecies"
+    "|duodecies|undecies|quinquies|sedecies|sexies|septies|octies|novies"
+    "|decies|quater|vicies|bis|ter"
+)
+# `(?![a-z])`: senza ancoraggio `art_5-terdecies` verrebbe troncato a
+# `art_5-ter` (e `quaterdecies` a `quater`) — stesso bug di classe, silenzioso.
+_RE_ARTICOLO = re.compile(
+    rf"art(?:icolo)?[._ ]?\s*(\d+)"
+    rf"(?:[-_ ]?({_SUFFISSI_ARTICOLO})(?![a-z]))?"
+    rf"(?:[-._]?com\s*(\d+))?",
+    re.IGNORECASE,
+)
+
+
+def frammento(href: str | None) -> str | None:
+    """Fragment dell'href (`...#art_47-com1-leta` → `art_47-com1-leta`)."""
+    frag = (href or "").partition("#")[2].strip()
+    return frag or None
+
+
+def articolo_da_frammento(frag: str | None) -> str | None:
+    """Normalizza il frammento in `art_N[-suffisso][-comM]`, se è un articolo.
+
+    I formati reali sono vari: `1`, `art_47-com1`, `art_1bis-com3`,
+    `art_840 octies`, `Ordinamento-art. 6` (eId con sezione). Il numero dopo
+    `art`/`articolo` è l'articolo; un frammento puramente numerico è l'eId
+    di un articolo. Il suffisso (`bis`, `ter`, …) cambia l'identità
+    dell'articolo e va conservato; il comma (`comM`) resta nel valore, il
+    resto (`leta`, `num2`, `par1`) è sotto-articolo e viene scartato.
+    """
+    if not frag:
+        return None
+    testo = frag.strip()
+    if testo.isdigit():
+        return f"art_{testo}"
+    m = _RE_ARTICOLO.search(testo)
+    if not m:
+        return None
+    art = f"art_{int(m.group(1))}"
+    if m.group(2):
+        art += f"-{m.group(2).lower()}"
+    if m.group(3):
+        art += f"-com{int(m.group(3))}"
+    return art
+
+
 def _eli_text(root: ET.Element, name: str) -> str | None:
     """Valore ELI da testo o attributo rdf:resource (short name dopo #)."""
     el = root.find(f".//eli:{name}", NS)
@@ -128,6 +189,7 @@ def extract_relations(root: ET.Element) -> list[dict[str, Any]]:
         detail: str = "",
         fonte_override: str | None = None,
         contesto: str = "",
+        href: str | None = None,
     ) -> None:
         rows.append(
             {
@@ -138,6 +200,8 @@ def extract_relations(root: ET.Element) -> list[dict[str, Any]]:
                 "origin": origin,
                 "detail": detail[:300],
                 "contesto": contesto[:_CTX_MAX],
+                "locator": frammento(href),
+                "articolo": articolo_da_frammento(frammento(href)),
             }
         )
 
@@ -147,27 +211,39 @@ def extract_relations(root: ET.Element) -> list[dict[str, Any]]:
         href = rf.get("href") or ""
         target = href_to_urn(href)
         if target:
-            _row(target, "citation", "ref", href, contesto=_contesto_ref(rf, parents))
+            _row(
+                target, "citation", "ref", href,
+                contesto=_contesto_ref(rf, parents), href=href,
+            )
 
     for am in root.findall(".//akn:activeModifications", NS):
         for tm in am.iter():
             if _local(tm.tag) != "textualMod":
                 continue
             rel = tm.get("type") or "modification"
-            dest = _child_urn(tm, "destination")
-            src = _child_urn(tm, "source")
+            dest_href = _child_href(tm, "destination")
+            src_href = _child_href(tm, "source")
+            dest = href_to_urn(dest_href or "")
+            src = href_to_urn(src_href or "")
             target = dest if dest and dest != fonte_urn else src
             if not target or target == fonte_urn:
                 continue
-            _row(target, rel, "activeModification", f"src={src};dest={dest}")
+            # il locator è l'articolo del lato target (dest o src)
+            href_target = dest_href if target == dest else src_href
+            _row(
+                target, rel, "activeModification", f"src={src};dest={dest}",
+                href=href_target,
+            )
 
     for pm in root.findall(".//akn:passiveModifications", NS):
         for tm in pm.iter():
             if _local(tm.tag) != "textualMod":
                 continue
             rel = tm.get("type") or "modification"
-            dest = _child_urn(tm, "destination")
-            src = _child_urn(tm, "source")
+            dest_href = _child_href(tm, "destination")
+            src_href = _child_href(tm, "source")
+            dest = href_to_urn(dest_href or "")
+            src = href_to_urn(src_href or "")
             # In passive: source = atto che interviene; destination = noi
             intervengono = src if src and src != fonte_urn else dest
             target = fonte_urn or dest
@@ -179,6 +255,7 @@ def extract_relations(root: ET.Element) -> list[dict[str, Any]]:
                 "passiveModification",
                 f"src={src};dest={dest}",
                 fonte_override=intervengono,
+                href=dest_href,
             )
 
     refsec = root.find(".//akn:references", NS)
@@ -291,7 +368,7 @@ def write_parquets(rel_rows: list[dict], meta_rows: list[dict], outdir: Path) ->
 
     rel_cols = [
         "fonte_urn", "fonte_codice", "target_urn",
-        "rel_type", "origin", "detail", "contesto",
+        "rel_type", "origin", "detail", "contesto", "locator", "articolo",
     ]
     meta_cols = [
         "fonte_urn", "fonte_codice", "fonte_file", "eiv",
@@ -404,7 +481,7 @@ def merge_akn_artifacts(
     meta_path = outdir / "akn_act_meta.parquet"
     rel_cols = [
         "fonte_urn", "fonte_codice", "target_urn",
-        "rel_type", "origin", "detail", "contesto",
+        "rel_type", "origin", "detail", "contesto", "locator", "articolo",
     ]
     meta_cols = [
         "fonte_urn", "fonte_codice", "fonte_file", "eiv",
@@ -418,6 +495,27 @@ def merge_akn_artifacts(
 
     old_rel = pd.read_parquet(rel_path) if rel_path.exists() else pd.DataFrame(columns=rel_cols)
     old_meta = pd.read_parquet(meta_path) if meta_path.exists() else pd.DataFrame(columns=meta_cols)
+    # Retro-compat: i parquet precedenti non hanno locator/articolo.
+    for col in ("locator", "articolo"):
+        if col not in old_rel.columns:
+            old_rel[col] = None
+        if col not in new_rel.columns:
+            new_rel[col] = None
+
+    # Il grain resta (fonte, target, rel, origin): più articoli della stessa
+    # coppia si aggregano in lista, non si perdono.
+    def _lista(valori):
+        puliti = sorted({str(v) for v in valori.dropna() if str(v)})
+        return ",".join(puliti) if puliti else None
+
+    aggregazione = {c: "last" for c in rel_cols if c not in REL_KEY}
+    aggregazione["locator"] = _lista
+    aggregazione["articolo"] = _lista
+    # `dropna=False`: gli eventRef hanno `target_urn` NULL (20.791 righe) e
+    # senza questo il groupby li scarterebbe.
+    new_rel = new_rel.groupby(REL_KEY, as_index=False, dropna=False).agg(
+        aggregazione
+    )[rel_cols]
 
     combined = _upsert_by_key(old_rel, new_rel, REL_KEY, rel_cols)
     combined_meta = _upsert_by_key(old_meta, new_meta, [META_KEY], meta_cols)

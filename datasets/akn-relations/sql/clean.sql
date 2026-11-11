@@ -17,6 +17,10 @@ SELECT
     normalize_string(rel_type)                                  AS rel_type,
     normalize_string(origin)                                    AS origin,
     NULLIF(normalize_string(detail), '')                        AS detail,
+    -- Locator (#142): frammento grezzo dell'href e forma normalizzata
+    -- `art_N` / `art_N-comM` (NULL se il fragment non è un articolo).
+    NULLIF(normalize_string(raw_input.locator), '')              AS locator,
+    NULLIF(normalize_string(raw_input.articolo), '')             AS articolo,
     -- testo del paragrafo che contiene il <ref>: serve a distinguere una
     -- citazione da una clausola di lettura (contesto assente sui parquet
     -- prodotti prima del 2026-10-30 → NULL, non classificabile)
