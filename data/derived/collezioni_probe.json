@@ -2,8 +2,8 @@
  "sintesi": {
   "collezioni_api": 23,
   "in_config": 20,
-  "pin_ok": 0,
-  "congelate": 5,
+  "pin_ok": 1,
+  "congelate": 4,
   "non_pinnate": 15,
   "fuori_config": 3
  },
@@ -23,9 +23,9 @@
     "V": 39
    },
    "data_creazione": {
-    "M": "2026-11-10",
-    "O": "2026-11-10",
-    "V": "2026-11-10"
+    "M": "2026-11-11",
+    "O": "2026-11-11",
+    "V": "2026-11-11"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -67,16 +67,22 @@
    "in_config": true,
    "pin": "V",
    "formati": [
-    "O"
+    "M",
+    "O",
+    "V"
    ],
    "numero_atti": {
-    "O": 40
+    "M": 40,
+    "O": 40,
+    "V": 40
    },
    "data_creazione": {
-    "O": "2026-11-03"
+    "M": "2026-11-11",
+    "O": "2026-11-03",
+    "V": "2026-11-11"
    },
-   "stato": "congelata",
-   "senza_pin_da": 19
+   "stato": "ok",
+   "senza_pin_da": 0
   },
   {
    "nome": "DL decaduti",
@@ -93,9 +99,9 @@
     "V": 1735
    },
    "data_creazione": {
-    "M": "2026-11-10",
+    "M": "2026-11-11",
     "O": "2026-11-06",
-    "V": "2026-11-10"
+    "V": "2026-11-11"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -110,14 +116,14 @@
     "V"
    ],
    "numero_atti": {
-    "M": 7444,
-    "O": 7444,
-    "V": 7444
+    "M": 7445,
+    "O": 7445,
+    "V": 7445
    },
    "data_creazione": {
-    "M": "2026-11-10",
-    "O": "2026-11-10",
-    "V": "2026-11-10"
+    "M": "2026-11-11",
+    "O": "2026-11-11",
+    "V": "2026-11-11"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -137,9 +143,9 @@
     "V": 75
    },
    "data_creazione": {
-    "M": "2026-11-10",
-    "O": "2026-11-10",
-    "V": "2026-11-10"
+    "M": "2026-11-11",
+    "O": "2026-11-11",
+    "V": "2026-11-11"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -159,9 +165,9 @@
     "V": 363
    },
    "data_creazione": {
-    "M": "2026-11-10",
-    "O": "2026-11-10",
-    "V": "2026-11-10"
+    "M": "2026-11-11",
+    "O": "2026-11-11",
+    "V": "2026-11-11"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -177,7 +183,7 @@
     "O": 47762
    },
    "data_creazione": {
-    "O": "2026-11-10"
+    "O": "2026-11-11"
    },
    "stato": "fuori_config",
    "senza_pin_da": 0
@@ -193,10 +199,10 @@
     "O": 2936
    },
    "data_creazione": {
-    "O": "2026-11-10"
+    "O": "2026-11-11"
    },
    "stato": "congelata",
-   "senza_pin_da": 19
+   "senza_pin_da": 20
   },
   {
    "nome": "Decreti legislativi luogotenenziali",
@@ -213,9 +219,9 @@
     "V": 1215
    },
    "data_creazione": {
-    "M": "2026-11-10",
-    "O": "2026-11-10",
-    "V": "2026-11-10"
+    "M": "2026-11-11",
+    "O": "2026-11-11",
+    "V": "2026-11-11"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -235,9 +241,9 @@
     "V": 81
    },
    "data_creazione": {
-    "M": "2026-11-10",
-    "O": "2026-11-10",
-    "V": "2026-11-10"
+    "M": "2026-11-11",
+    "O": "2026-11-11",
+    "V": "2026-11-11"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -257,9 +263,9 @@
     "V": 50
    },
    "data_creazione": {
-    "M": "2026-11-10",
-    "O": "2026-11-10",
-    "V": "2026-11-10"
+    "M": "2026-11-11",
+    "O": "2026-11-11",
+    "V": "2026-11-11"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -275,10 +281,10 @@
     "O": 1166
    },
    "data_creazione": {
-    "O": "2026-11-10"
+    "O": "2026-11-11"
    },
    "stato": "congelata",
-   "senza_pin_da": 19
+   "senza_pin_da": 20
   },
   {
    "nome": "Leggi di delegazione europea",
@@ -295,9 +301,9 @@
     "V": 32
    },
    "data_creazione": {
-    "M": "2026-11-10",
-    "O": "2026-11-10",
-    "V": "2026-11-10"
+    "M": "2026-11-11",
+    "O": "2026-11-11",
+    "V": "2026-11-11"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -317,9 +323,9 @@
     "V": 2336
    },
    "data_creazione": {
-    "M": "2026-11-10",
-    "O": "2026-11-10",
-    "V": "2026-11-10"
+    "M": "2026-11-11",
+    "O": "2026-11-11",
+    "V": "2026-11-11"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -329,16 +335,19 @@
    "in_config": true,
    "pin": "V",
    "formati": [
+    "M",
     "O"
    ],
    "numero_atti": {
+    "M": 58,
     "O": 58
    },
    "data_creazione": {
-    "O": "2026-11-10"
+    "M": "2026-11-11",
+    "O": "2026-11-11"
    },
    "stato": "congelata",
-   "senza_pin_da": 19
+   "senza_pin_da": 20
   },
   {
    "nome": "Regi decreti",
@@ -351,7 +360,7 @@
     "O": 91346
    },
    "data_creazione": {
-    "O": "2026-11-10"
+    "O": "2026-11-11"
    },
    "stato": "fuori_config",
    "senza_pin_da": 0
@@ -371,9 +380,9 @@
     "V": 120
    },
    "data_creazione": {
-    "M": "2026-11-10",
-    "O": "2026-11-10",
-    "V": "2026-11-10"
+    "M": "2026-11-11",
+    "O": "2026-11-11",
+    "V": "2026-11-11"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -393,9 +402,9 @@
     "V": 376
    },
    "data_creazione": {
-    "M": "2026-11-10",
-    "O": "2026-11-10",
-    "V": "2026-11-10"
+    "M": "2026-11-11",
+    "O": "2026-11-11",
+    "V": "2026-11-11"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -415,9 +424,9 @@
     "V": 1944
    },
    "data_creazione": {
-    "M": "2026-11-10",
-    "O": "2026-11-10",
-    "V": "2026-11-10"
+    "M": "2026-11-11",
+    "O": "2026-11-11",
+    "V": "2026-11-11"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -437,9 +446,9 @@
     "V": 2080
    },
    "data_creazione": {
-    "M": "2026-11-10",
-    "O": "2026-11-10",
-    "V": "2026-11-10"
+    "M": "2026-11-11",
+    "O": "2026-11-11",
+    "V": "2026-11-11"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -455,12 +464,17 @@
     "O": 257
    },
    "data_creazione": {
-    "O": "2026-11-10"
+    "O": "2026-11-11"
    },
    "stato": "congelata",
-   "senza_pin_da": 19
+   "senza_pin_da": 20
   }
  ],
- "cambiamenti": [],
- "probed_at": "2026-11-10T17:17:02"
+ "cambiamenti": [
+  "Codici: formato M comparso",
+  "Codici: formato V comparso",
+  "Codici: sbloccata (V di nuovo disponibile)",
+  "Leggi finanziarie e di bilancio: formato M comparso"
+ ],
+ "probed_at": "2026-11-11T12:53:50"
 }
