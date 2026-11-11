@@ -37,10 +37,10 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 | # | Stage | Comando | Output |
 |---|---|---|---|
 | 0 | **probe-collezioni** | `python -m lab_tools.collezioni_probe` | `collezioni_probe.json` (formati O/V/M per collezione + freeze, una richiesta) |
-| 1 | **fetch** | `python -m lab_tools.fetch_normattiva [--only …]` | MD + `akn_*.parquet` (staging + merge) |
+| 1 | **fetch** | `python -m lab_tools.fetch_normattiva [--only …] [--force]` | MD + `akn_*.parquet` (staging + merge); `--force` ignora il manifest e riprocessa tutte le collezioni (re-parse AKN) |
 | 1b | **fetch-status** | `python -m lab_tools.fetch_status` | `status.parquet` (solo **abrogati**, classe 3 = lista ufficiale; no testo) |
 | 2 | **extract** | `python -m lab_tools.extract` | `normativa.parquet` (metadati) + `testi.parquet` (filename, urn, testo) |
-| 2c | **akn-canonicalizza** | `python -m lab_tools.akn_canonicalizza` | URN canonici in `akn_relations` (alias `codice.*`, `regiodecreto`, `decretodelpresidentedellarepubblica`), dedup sulla chiave del clean |
+| 2a | **akn-canonicalizza** | `python -m lab_tools.akn_canonicalizza` | URN canonici in `akn_relations` (alias `codice.*`, `regiodecreto`, `decretodelpresidentedellarepubblica`), dedup sulla chiave del clean |
 | 2b | **atti-index** | `python -m lab_tools.atti_index` | `atti_index.parquet` (catalogo ufficiale, ~205k atti: identità, `stato` da classe 3, `in_corpus`, `materia`) |
 | 3 | **classifica** | `python -m lab_tools.classifica_tematich` | + `materia` (vedi [MATERIA_AUDIT.md](MATERIA_AUDIT.md)) |
 | 4 | **citazioni/abrogations** | moduli `estrai_*` / `extract_*` | side product su disco |
@@ -118,7 +118,7 @@ Regola unica:
 |---|---|---|---|
 | `normativa` | `normativa` | atto (metadati, stato, materia, qualità, EIV) | legal-graph, MCP, analisi |
 | `riferimenti` | `riferimenti` | arco fonte→bersaglio (citation + abroga) | legal-graph, debt |
-| `akn_relations` | `akn_relations` | relazione AKN tipizzata | legal-graph |
+| `akn_relations` | `akn_relations` | relazione AKN tipizzata, con `locator`/`articolo` (frammento dell'href) | legal-graph |
 | `akn_act_meta` | `akn_act_meta` | atto (EIV, modifiche, ELI) | legal-graph |
 | `atti_index` | `atti_index` | atto del catalogo (~205k), `materia` inclusa | legal-graph, analisi di copertura |
 | `atti_api` | `atti_api` | atto fuori collezione (vigenza, materia) | legal-graph (nodi + `attua_delega`) |
@@ -272,7 +272,7 @@ Il mart URN-based consumato da legal-graph è `mart_riferimenti_urn` (vedi sopra
   - `publish`: `extract --testi-only` pre-run + `toolkit-run` (raw dal layer, selettivo nel batch) + rsync
     `gs://dataciviclab-clean|mart/italia-corpus/` + registry draft PR
   - merge di `datasets/**`: solo `publish`, in batch sui dataset cambiati (`make run-batch`)
-- `workflow_dispatch` ha l'input **`skip_fetch`**: salta fetch Normattiva, status e atti API (~4 min invece di ~15), per validare/ripubblicare una correzione. `status`/`atti_api` vengono dalla cache del build (TTL 30g): su cache fredda `integra_vigenza` fallisce, quindi non è un percorso "da checkout pulito" 
+- `workflow_dispatch` ha due input: **`skip_fetch`** salta fetch Normattiva, status e atti API (~4 min invece di ~15), per validare/ripubblicare una correzione — `status`/`atti_api` vengono dalla cache del build (TTL 30g), quindi su cache fredda `integra_vigenza` fallisce e non è un percorso "da checkout pulito"; **`force_fetch`** passa `--force` al fetch e riprocessa tutte le collezioni ignorando il manifest — serve dopo un cambio di parser (es. `locator`/`contesto` di #142), perché le collezioni invariate verrebbero altrimenti saltate
 - **`derive-smoke`** (`derive-smoke.yml`): sulle PR che toccano `lab_tools/`, `datasets/`, `config/`, `data/derived/`, `collezioni/`, `.github/` esegue **grafo + contract check + arricchisci** sui raw scaricati dal layer GCS (`make fetch-raws`), senza fetch (~6-8 min). È il gate che avrebbe preso l'invariante delle abroga e il churn dei link regex, non coperti dai test unitari
 - **Locale, prima di un push su `lab_tools`**: `make verify-smoke` (grafo + arricchisci; il contract check è nella CI). Sovrascrive `data/derived/{normativa,riferimenti}.parquet` (gitignored: nessun checkout da fare)
 - `toolkit-run` salta `datasets/atti-index` se l'artefatto manca (guardia esplicita)
@@ -296,7 +296,10 @@ perché è l'unico che deve accorgersi subito di un cambio di formato.
 - Wire: fetch (staging+merge) · grafo (union citation, `origine`) · integra-akn
 - **Copertura** (2026-11-09): fetch completo 20 collezioni — meta join **20.790/20.790**, EIV su **9.936 atti** (10.729 espressioni), riferimenti con origine `akn` **267.636** su **501.753** relazioni AKN estratte, `akn_relations` tipizzato (inclusi repeal/substitution)
 - CI: lint ruff · step `integra-akn` · ordine side-product→integra → grafo · contract check
-- Tests: **408** nel repo (`tests/test_akn_relations.py` copre questo stage)
+- **Locator (#142)**: `locator` è il fragment grezzo dell'href (`1`, `art_47-com1`, `Ordinamento-art. 6`), `articolo` la forma normalizzata `art_N[-suffisso][-comM]`. I suffissi che cambiano l'identità (`bis`, `ter`, `quater`, `quinquies`, `sexies`, `septies`, `octies`, `novies`, `decies`, `undecies`, `duodecies`, `terdecies`, `quaterdecies`, `quindecies`, `sedecies`, `septendecies`, `octodecies`, `novodecies`, `vicies`) sono **conservati** (`art_47-bis` ≠ `art_47`, `art_5-terdecies` non è `art_5-ter`); una coda non riconosciuta ricade sull'articolo base, mai su un suffisso sbagliato.
+- **Locator: sotto-articolo**. Il comma resta nel valore (`art_47-com1`), il resto è scartato (`-leta`, `-num2`, `-par1`). Anche il suffisso del comma si perde: `art_47-com4bis` → `art_47-com4`, perché `com4` e `com4bis` sono commi diversi e il valore normalizzato tiene solo il numero. La distinzione resta in `locator`, che è il fragment integro.
+- **Locator: granularità**. Sulle `textualMod` è l'articolo del lato target; sulle citazioni dipende dal fragment presente nell'AKN. Il merge aggrega i locator di più articoli in **una lista ordinata** (`art_3,art_47`, formato stringa con virgole) mantenendo il grano `(fonte, target, rel_type, origin)`. Di conseguenza `detail`, `contesto` e la `clausola_lettura` calcolata da `grafo_riferimenti` sono **per edge**, non per articolo: con più articoli sullo stesso edge il contesto salvato è uno solo e **non è attribuibile** al singolo articolo. Il contesto per-articolo non esiste con questo grano — `locator` dice *quali* articoli, non *con quale contesto*.
+- Tests: **470** nel repo (`tests/test_akn_relations.py` copre questo stage; un fixture blocca i fragment reali)
 
 Non è un prodotto separato: è **stage fetch + 8** della pipeline sopra.
 

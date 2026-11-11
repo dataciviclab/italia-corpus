@@ -75,6 +75,10 @@ def main() -> None:
     urns = pd.read_parquet(NORMATIVA_PARQUET, columns=["urn"])["urn"].dropna()
     index = canonical_index(urns)
     df = pd.read_parquet(AKN_PARQUET)
+    # Retro-compat: i raw precedenti a IC-B non hanno locator/articolo.
+    for col in ("locator", "articolo"):
+        if col not in df.columns:
+            df[col] = None
     nuovo, per_regola, duplicati = canonicalizza_urns(df, index)
     nuovo.to_parquet(AKN_PARQUET, index=False)
 

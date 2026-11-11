@@ -11,6 +11,7 @@ from lab_tools.fetch_normattiva import (
     _load_collezioni,
     _load_collezioni_pin,
     _read_xml,
+    _should_skip,
     _update_urn_index,
     process_collection,
 )
@@ -365,3 +366,23 @@ class TestFiltraPerFormato:
     def test_senza_pin_passa(self):
         c = [{"nomeCollezione": "A", "formatoCollezione": "O"}]
         assert _filtra_per_formato(c, {})[0] == c
+
+
+class TestShouldSkip:
+    """`--force` (re-parse AKN) deve ignorare il manifest."""
+
+    COLL = {"nomeCollezione": "Codici", "dataCreazione": "2024-01-01"}
+    MANIFEST = {"Codici": {"dataCreazione": "2024-01-01"}}
+
+    def test_invariata_senza_force_salta(self):
+        assert _should_skip(self.COLL, self.MANIFEST) is True
+
+    def test_force_riprocessa(self):
+        assert _should_skip(self.COLL, self.MANIFEST, force=True) is False
+
+    def test_cambiata_riprocessa(self):
+        coll = {"nomeCollezione": "Codici", "dataCreazione": "2025-01-01"}
+        assert _should_skip(coll, self.MANIFEST) is False
+
+    def test_senza_data_riprocessa(self):
+        assert _should_skip({"nomeCollezione": "Codici"}, self.MANIFEST) is False

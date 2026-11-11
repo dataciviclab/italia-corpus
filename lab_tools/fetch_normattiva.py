@@ -98,6 +98,13 @@ def _collection_unchanged(collection: dict, manifest: dict) -> bool:
     return entry.get("dataCreazione") == data_creazione
 
 
+def _should_skip(collection: dict, manifest: dict, force: bool = False) -> bool:
+    """La collezione va saltata? No con `--force` (re-parse anche se invariata)."""
+    if force:
+        return False
+    return _collection_unchanged(collection, manifest)
+
+
 def _load_collezioni_pin() -> tuple[list[str], dict[str, str]]:
     """Nomi + formato richiesto, dal parser unico in `_paths`."""
     return load_collezioni(), load_pin()
@@ -351,6 +358,10 @@ def main() -> None:
         "--dry-run", action="store_true",
         help="Scarica e converti ma non sovrascrivere il corpus",
     )
+    parser.add_argument(
+        "--force", action="store_true",
+        help="Riprocessa tutte le collezioni ignorando il manifest (re-parse AKN)",
+    )
     args = parser.parse_args()
 
     logging.basicConfig(
@@ -439,7 +450,7 @@ def main() -> None:
                 continue
 
             # Manifest check: salta se la collezione non è cambiata
-            if _collection_unchanged(collection, manifest):
+            if _should_skip(collection, manifest, args.force):
                 n_skipped += 1
                 logger.info("  ⏭️  Invariata (dataCreazione=%s) — skip",
                            collection.get("dataCreazione", "?"))

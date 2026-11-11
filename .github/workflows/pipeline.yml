@@ -27,6 +27,10 @@ on:
         description: "Salta fetch Normattiva, status e atti API (status/atti_api dalla cache, TTL 30g)"
         type: boolean
         default: false
+      force_fetch:
+        description: "Riprocessa tutte le collezioni ignorando il manifest (re-parse AKN, locator/contesto)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -107,7 +111,9 @@ jobs:
           # prodotto qualcosa serve un marker, non `git status`.
           marker=/tmp/fetch_start
           touch "$marker"
-          python -m lab_tools.fetch_normattiva
+          # `--force` (dispatch) ignora il manifest: serve dopo un cambio di
+          # parser per rigenerare locator/contesto delle collezioni invariate.
+          python -m lab_tools.fetch_normattiva ${{ inputs.force_fetch && '--force' || '' }}
           changed=false
           if [ -n "$(git status --porcelain -- collezioni data/derived/allegati.parquet)" ]; then
             changed=true
