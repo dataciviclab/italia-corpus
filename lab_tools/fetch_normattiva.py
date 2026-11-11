@@ -31,6 +31,8 @@ from lab_tools.akn_parser import akn_xml_to_markdown, conta_allegati
 from lab_tools.akn_relations import (
     extract_from_xml,
     load_staged_akn,
+    locator_gap,
+    locator_stats,
     merge_akn_artifacts,
     stage_akn_rows,
 )
@@ -307,6 +309,23 @@ def process_collection(
         if stage_dir is not None and (rel_rows or meta_rows):
             stage_akn_rows(rel_rows, meta_rows, stage_dir, nome)
             logger.info("  AKN staged: %d relations, %d acts", len(rel_rows), len(meta_rows))
+            # Diagnostica (#142): un rel_type con righe e zero locator significa
+            # un formato di href non gestito. È il sintomo che a fine run non si
+            # vede: `repeal` era 0/221 con la sintassi `~art_...` del path AKN.
+            stats = locator_stats(rel_rows)
+            logger.info(
+                "  AKN locator: %s",
+                ", ".join(
+                    f"{rt} {loc}/{n}"
+                    for rt, (n, loc) in sorted(stats.items(), key=lambda kv: -kv[1][0])
+                ),
+            )
+            for rt in locator_gap(stats):
+                logger.warning(
+                    "  AKN locator: %s ha 0/%d — formato href non gestito?",
+                    rt,
+                    stats[rt][0],
+                )
 
         if count == 0:
             logger.warning("All conversions failed for %r — keeping existing files", nome)

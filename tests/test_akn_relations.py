@@ -12,6 +12,8 @@ from lab_tools.akn_relations import (
     extract_relations,
     frammento,
     href_to_urn,
+    locator_gap,
+    locator_stats,
     merge_akn_artifacts,
 )
 
@@ -296,6 +298,32 @@ class TestLocator:
         rows = extract_relations(ET.fromstring(_xml_formati_reali()))
         cite = [r for r in rows if r["origin"] == "ref"][0]
         assert (cite["locator"], cite["articolo"]) == ("art_47-ter", "art_47-ter")
+    def test_frammento_path_akn(self):
+        """Le textualMod usano il sotto-elemento del path (`~art_...`), non `#`."""
+        href = (
+            "/akn/it/act/decreto_del_presidente_della_repubblica/stato/1998-03-10/76"
+            "/ita@2025-01-22/!main/~art_8-ter__para_3"
+        )
+        assert frammento(href) == "art_8-ter__para_3"
+        assert articolo_da_frammento(frammento(href)) == "art_8-ter"
+        assert frammento(
+            "/akn/it/act/x/stato/1998-04-30/217/ita@2025-01-23/!main/~art_1__para_1__point_c"
+        ) == "art_1__para_1__point_c"
+        assert frammento("/akn/it/act/LEGGE/stato/2012-09-13/158/!main") is None
+
+    def test_repeal_con_path_akn(self):
+        """Repeal/substitution: destination in sintassi path, locator valorizzato."""
+        xml = _xml_rich().replace(
+            '<destination href="urn:nir:stato:decreto.legislativo:2016-04-18;50#1"/>',
+            '<destination href="/akn/it/act/decreto_legislativo/stato/2016-04-18/50'
+            '/ita@2020-01-01/!main/~art_8-ter__para_3"/>',
+        )
+        rows = extract_relations(ET.fromstring(xml))
+        repeal = [r for r in rows if r["rel_type"] == "repeal"][0]
+        assert repeal["locator"] == "art_8-ter__para_3"
+        assert repeal["articolo"] == "art_8-ter"
+        assert repeal["target_urn"] == "urn:nir:stato:decreto.legislativo:2016-04-18;50"
+
     def test_citazioni_senza_fragment(self):
         """Le citazioni del fixture non hanno fragment: locator resta NULL."""
         rows = extract_relations(ET.fromstring(_xml_rich()))
@@ -507,3 +535,32 @@ class TestMergeLocator:
         got = pd.read_parquet(tmp_path / "akn_relations.parquet")
         assert len(got) == 1
         assert got.iloc[0]["rel_type"] == "event:version"
+
+
+class TestLocatorStats:
+    """Diagnostica di copertura per collezione (fetch)."""
+
+    def test_conteggio_per_rel_type(self):
+        rows = [
+            {"rel_type": "citation", "locator": "art_1"},
+            {"rel_type": "citation", "locator": None},
+            {"rel_type": "repeal", "locator": None},
+            {"rel_type": "repeal", "locator": None},
+        ]
+        stats = locator_stats(rows)
+        assert stats["citation"] == (2, 1)
+        assert stats["repeal"] == (2, 0)
+
+    def test_rel_type_mancante(self):
+        assert locator_stats([{"locator": "art_1"}]) == {"?": (1, 1)}
+
+    def test_gap_solo_relazioni_attese(self):
+        """`event:version`/`passiveRef` non hanno articolo per costruzione."""
+        stats = {
+            "repeal": (20, 0),
+            "event:version": (100, 0),
+            "passiveRef": (100, 0),
+            "citation": (20, 3),
+            "insertion": (5, 0),  # sotto soglia
+        }
+        assert locator_gap(stats) == ["repeal"]
