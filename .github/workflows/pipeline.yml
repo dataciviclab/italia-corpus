@@ -35,6 +35,14 @@ on:
         description: "Solo queste collezioni (nomi esatti separati da virgola; vuoto = tutte)"
         type: string
         default: ""
+      backfill_allegati:
+        description: "Estrae gli allegati AKN (read-only, legge anche O) e li pubblica su GCS"
+        type: boolean
+        default: false
+      allegati_only:
+        description: "Collezioni per il backfill allegati (nomi esatti, virgola; vuoto = tutte)"
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -134,6 +142,17 @@ jobs:
             echo "corpus/allegati aggiornati"
           else
             echo "nessuna novità di corpus o allegati: niente commit, niente sync"
+          fi
+      # Backfill allegati (#141): read-only, legge l'espressione disponibile
+      # anche `O` e non tocca `collezioni/`. Serve per le collezioni congelate
+      # (pin `V`, O esposto) e per gli atti fetchati prima della feature.
+      - name: Backfill allegati AKN (#141)
+        if: github.event_name == 'workflow_dispatch' && inputs.backfill_allegati
+        run: |
+          if [ -n "${{ inputs.allegati_only }}" ]; then
+            make fetch-allegati ONLY="${{ inputs.allegati_only }}"
+          else
+            make fetch-allegati
           fi
       # Status: solo classe 3 (lista ufficiale abrogati) ~2 min. La classe 2
       # NON è "vigente", quindi non la scarichiamo; gli atti assenti sono
@@ -382,7 +401,7 @@ jobs:
       # clean/mart li pubblica il job publish (toolkit + GCS + registry).
       # Qui solo il contenuto degli allegati, che è prodotto dal fetch.
       - name: Sync allegati to GCS
-        if: env.GCP_WORKLOAD_IDENTITY_PROVIDER != '' && env.GCP_SERVICE_ACCOUNT != '' && steps.fetch_normattiva.outputs.changed == 'true'
+        if: env.GCP_WORKLOAD_IDENTITY_PROVIDER != '' && env.GCP_SERVICE_ACCOUNT != '' && (steps.fetch_normattiva.outputs.changed == 'true' || inputs.backfill_allegati)
         run: |
           if [ -d data/derived/allegati ]; then
             gsutil -m rsync -r data/derived/allegati/ "gs://dataciviclab-clean/italia-corpus/allegati/"

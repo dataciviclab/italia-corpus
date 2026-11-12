@@ -117,9 +117,10 @@ fetch-status:
 	python -m lab_tools.fetch_status
 
 # Backfill manuale dell'indice allegati AKN (il fetch quotidiano lo aggiorna
-# già via `allegati.scrivi_atto`; questo serve per una ricostruzione completa)
+# già via `allegati.scrivi_atto`; questo serve per una ricostruzione completa).
+# `ONLY="Coll A,Coll B"` limita alle collezioni indicate.
 fetch-allegati:
-	python -m lab_tools.fetch_allegati
+	python -m lab_tools.fetch_allegati $(if $(ONLY),--only "$(ONLY)")
 
 # Stato del corpus in una schermata (nessuna rete, nessuna scrittura)
 stato:
