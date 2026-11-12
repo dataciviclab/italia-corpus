@@ -142,3 +142,18 @@ class TestDedupPerSlug:
              "rel_type": "citation", "origin": "ref", "detail": "a", "contesto": "y"},
         ])
         assert len(dedup_per_slug(df)) == 2
+
+    def test_stringa_vuota_non_e_contesto(self):
+        """`''` non deve vincere il tie-break sull'identità (nota review #151)."""
+        df = self._df([
+            {"fonte_urn": self.FONTE, "fonte_codice": None, "target_urn": self.VECCHIO,
+             "rel_type": "citation", "origin": "ref", "detail": "/akn/x/!main",
+             "contesto": "", "locator": None, "articolo": None},
+            {"fonte_urn": self.FONTE, "fonte_codice": None, "target_urn": self.NUOVO,
+             "rel_type": "citation", "origin": "ref", "detail": "/akn/x/!main",
+             "contesto": "visto il decreto", "locator": "1", "articolo": "art_1"},
+        ])
+        out = dedup_per_slug(df)
+        assert len(out) == 1
+        assert out.iloc[0]["target_urn"] == self.NUOVO
+        assert out.iloc[0]["contesto"] == "visto il decreto"

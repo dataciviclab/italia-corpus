@@ -100,8 +100,12 @@ def dedup_per_slug(df):
     slug["_fs"] = slug["fonte_urn"].map(_slug)
     slug["_ts"] = slug["target_urn"].map(_slug)
     chiave = ["_fs", "_ts", "rel_type", "origin"]
-    # riga con contesto in coda: `last` sulle identità prende la forma nuova
-    slug["_ctx"] = slug["contesto"].notna() if "contesto" in slug.columns else False
+    # riga con contesto in coda: `last` sulle identità prende la forma nuova.
+    # Una stringa vuota non è contesto: 93.971 righe nel raw hanno `''`.
+    if "contesto" in slug.columns:
+        slug["_ctx"] = slug["contesto"].fillna("").astype(str).str.strip().ne("")
+    else:
+        slug["_ctx"] = False
     slug = slug.sort_values("_ctx", kind="stable")
 
     agg: dict[str, object] = {
