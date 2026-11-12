@@ -566,6 +566,18 @@ def merge_akn_artifacts(
     combined = _upsert_by_key(old_rel, new_rel, REL_KEY, rel_cols)
     combined_meta = _upsert_by_key(old_meta, new_meta, [META_KEY], meta_cols)
 
+    # Un file può cambiare URN tra due fetch (correzione della fonte): l'upsert
+    # per `fonte_urn` lascerebbe due righe con lo stesso `fonte_file`, che è la
+    # PK del clean (`2026-03-27_26G00056`: era `;38`, ora `;39`). Tieni l'ultima.
+    con_file = combined_meta["fonte_file"].notna()
+    combined_meta = pd.concat(
+        [
+            combined_meta[~con_file],
+            combined_meta[con_file].drop_duplicates(subset=["fonte_file"], keep="last"),
+        ],
+        ignore_index=True,
+    )
+
     # Le collezioni invariate non vengono riprocessate: le loro righe restano
     # nel parquet con la forma AKN (`decreto-legge`). Qui si normalizzano
     # anche quelle, così il fix vale anche senza un fetch completo. Dopo la
