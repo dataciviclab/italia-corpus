@@ -19,7 +19,7 @@ from collections import Counter
 from collections.abc import Iterable
 
 from lab_tools._paths import OUTDIR
-from lab_tools.urn import IndiceUrn, expand_index, lookup, regola
+from lab_tools.urn import IndiceUrn, canonical_key, expand_index, lookup, regola
 
 logger = logging.getLogger(__name__)
 
@@ -63,6 +63,69 @@ def canonicalizza_urns(df, index: IndiceUrn):
     return nuovo, per_regola, prima - len(nuovo)
 
 
+def _slug(u: object) -> object:
+    """Chiave normalizzata dell'URN (None per le forme non NIR: UE, ecc.)."""
+    if not isinstance(u, str) or not u:
+        return u
+    return canonical_key(u) or u
+
+
+def _lista_union(valori) -> str | None:
+    """Unione delle liste comma-separated (`art_3,art_47`)."""
+    out: set[str] = set()
+    for v in valori:
+        if isinstance(v, str):
+            out.update(x.strip() for x in v.split(",") if x.strip())
+    return ",".join(sorted(out)) or None
+
+
+def _primo_non_vuoto(valori) -> object:
+    for v in valori:
+        if isinstance(v, str) and v.strip():
+            return v
+    return None
+
+
+def dedup_per_slug(df):
+    """Una riga per relazione anche quando l'URN arriva in forme diverse.
+
+    Il merge non sostituisce una riga orfana il cui `target_urn` è scritto in
+    una forma che il parser non produce più (`decretodelpresidentedellarepubblica`
+    vs `decreto.del.presidente.della.repubblica`): le due righe restano e quella
+    vecchia non ha `contesto`/`locator` (dato di prima del re-parse). Qui si
+    raggruppa sulla chiave normalizzata (`urn.canonical_key`): si tiene la forma
+    nuova e si uniscono locator/articolo; `contesto` è il primo non vuoto.
+    """
+    slug = df.copy()
+    slug["_fs"] = slug["fonte_urn"].map(_slug)
+    slug["_ts"] = slug["target_urn"].map(_slug)
+    chiave = ["_fs", "_ts", "rel_type", "origin"]
+    # riga con contesto in coda: `last` sulle identità prende la forma nuova.
+    # Una stringa vuota non è contesto: 93.971 righe nel raw hanno `''`.
+    if "contesto" in slug.columns:
+        slug["_ctx"] = slug["contesto"].fillna("").astype(str).str.strip().ne("")
+    else:
+        slug["_ctx"] = False
+    slug = slug.sort_values("_ctx", kind="stable")
+
+    agg: dict[str, object] = {
+        "fonte_urn": "last",
+        "fonte_codice": "last",
+        "target_urn": "last",
+        "detail": "last",
+        "contesto": _primo_non_vuoto,
+    }
+    for col in ("locator", "articolo"):
+        if col in slug.columns:
+            agg[col] = _lista_union
+    for col in slug.columns:
+        if col not in agg and not col.startswith("_"):
+            agg[col] = "last"
+
+    out = slug.groupby(chiave, as_index=False, dropna=False).agg(agg)
+    return out.drop(columns=[c for c in out.columns if c.startswith("_")])
+
+
 def main() -> None:
     import pandas as pd
 
@@ -80,12 +143,18 @@ def main() -> None:
         if col not in df.columns:
             df[col] = None
     nuovo, per_regola, duplicati = canonicalizza_urns(df, index)
+    prima_alias = len(nuovo)
+    nuovo = dedup_per_slug(nuovo)
     nuovo.to_parquet(AKN_PARQUET, index=False)
 
     cambiati = sum(per_regola.values())
     print(
         f"akn_relations: {len(df)} righe, {cambiati} URN canonicalizzati, "
         f"{duplicati} duplicati collassati"
+    )
+    print(
+        f"  alias collassati (chiave normalizzata): {prima_alias - len(nuovo)}; "
+        f"righe finali {len(nuovo)}"
     )
     print(f"  per regola: {dict(per_regola)}")
 

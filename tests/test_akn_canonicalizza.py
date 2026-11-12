@@ -1,7 +1,11 @@
 """Canonicalizzazione URN degli archi AKN (#142)."""
 
 import pandas as pd
-from lab_tools.akn_canonicalizza import canonical_index, canonicalizza_urns
+from lab_tools.akn_canonicalizza import (
+    canonical_index,
+    canonicalizza_urns,
+    dedup_per_slug,
+)
 
 CANON = [
     "urn:nir:stato:regio.decreto:1942-03-16;262",
@@ -86,3 +90,70 @@ def test_duplicati_con_stesso_detail():
     out, _, duplicati = canonicalizza_urns(df, index)
     assert duplicati == 1
     assert len(out) == 1
+
+
+class TestDedupPerSlug:
+    """Le forme URN diverse dello stesso arco sono una riga sola (#109)."""
+
+    FONTE = "urn:nir:stato:decreto.legislativo:2007-11-06;202"
+    VECCHIO = "urn:nir:stato:decretodelpresidentedellarepubblica:1978-05-27;504"
+    NUOVO = "urn:nir:stato:decreto.del.presidente.della.repubblica:1978-05-27;504"
+
+    def _df(self, righe):
+        import pandas as pd
+
+        return pd.DataFrame(righe)
+
+    def test_tiene_la_riga_col_contesto(self):
+        df = self._df([
+            {"fonte_urn": self.FONTE, "fonte_codice": None, "target_urn": self.VECCHIO,
+             "rel_type": "citation", "origin": "ref", "detail": "/akn/x/!main",
+             "contesto": None, "locator": None, "articolo": None},
+            {"fonte_urn": self.FONTE, "fonte_codice": None, "target_urn": self.NUOVO,
+             "rel_type": "citation", "origin": "ref", "detail": "/akn/x/!main",
+             "contesto": "visto il decreto", "locator": "1", "articolo": "art_1"},
+        ])
+        out = dedup_per_slug(df)
+        assert len(out) == 1
+        assert out.iloc[0]["target_urn"] == self.NUOVO
+        assert out.iloc[0]["contesto"] == "visto il decreto"
+        assert out.iloc[0]["locator"] == "1"
+
+    def test_unisce_locator_e_articolo(self):
+        df = self._df([
+            {"fonte_urn": self.FONTE, "fonte_codice": None, "target_urn": self.VECCHIO,
+             "rel_type": "insertion", "origin": "activeModification", "detail": "x",
+             "contesto": None, "locator": "art_3,art_47", "articolo": "art_3,art_47"},
+            {"fonte_urn": self.FONTE, "fonte_codice": None, "target_urn": self.NUOVO,
+             "rel_type": "insertion", "origin": "activeModification", "detail": "x",
+             "contesto": None, "locator": "art_5", "articolo": "art_5"},
+        ])
+        out = dedup_per_slug(df)
+        assert len(out) == 1
+        assert out.iloc[0]["locator"] == "art_3,art_47,art_5"
+        assert out.iloc[0]["articolo"] == "art_3,art_47,art_5"
+
+    def test_atti_diversi_restano(self):
+        altro = "urn:nir:stato:decreto.del.presidente.della.repubblica:1978-05-27;505"
+        df = self._df([
+            {"fonte_urn": self.FONTE, "fonte_codice": None, "target_urn": self.NUOVO,
+             "rel_type": "citation", "origin": "ref", "detail": "a", "contesto": "x"},
+            {"fonte_urn": self.FONTE, "fonte_codice": None, "target_urn": altro,
+             "rel_type": "citation", "origin": "ref", "detail": "a", "contesto": "y"},
+        ])
+        assert len(dedup_per_slug(df)) == 2
+
+    def test_stringa_vuota_non_e_contesto(self):
+        """`''` non deve vincere il tie-break sull'identità (nota review #151)."""
+        df = self._df([
+            {"fonte_urn": self.FONTE, "fonte_codice": None, "target_urn": self.VECCHIO,
+             "rel_type": "citation", "origin": "ref", "detail": "/akn/x/!main",
+             "contesto": "", "locator": None, "articolo": None},
+            {"fonte_urn": self.FONTE, "fonte_codice": None, "target_urn": self.NUOVO,
+             "rel_type": "citation", "origin": "ref", "detail": "/akn/x/!main",
+             "contesto": "visto il decreto", "locator": "1", "articolo": "art_1"},
+        ])
+        out = dedup_per_slug(df)
+        assert len(out) == 1
+        assert out.iloc[0]["target_urn"] == self.NUOVO
+        assert out.iloc[0]["contesto"] == "visto il decreto"
