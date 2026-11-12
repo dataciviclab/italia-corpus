@@ -564,3 +564,29 @@ class TestLocatorStats:
             "insertion": (5, 0),  # sotto soglia
         }
         assert locator_gap(stats) == ["repeal"]
+
+
+class TestMergeMetaFile:
+    """Un file che cambia URN non deve lasciare due righe con lo stesso file."""
+
+    def test_upsert_per_urn_dedup_per_file(self, tmp_path):
+        import pandas as pd
+
+        old = pd.DataFrame([
+            {"fonte_urn": "urn:nir:stato:decreto.legislativo:2026-03-13;38",
+             "fonte_codice": "26G00056",
+             "fonte_file": "Decreti Legislativi/2026-03-27_26G00056_ORIGINALE_V0.xml",
+             "eiv": None},
+        ])
+        old.to_parquet(tmp_path / "akn_act_meta.parquet", index=False)
+        new = [
+            {"fonte_urn": "urn:nir:stato:decreto.legislativo:2026-03-13;39",
+             "fonte_codice": "26G00056",
+             "fonte_file": "Decreti Legislativi/2026-03-27_26G00056_ORIGINALE_V0.xml",
+             "eiv": "2026-05-02"},
+        ]
+        merge_akn_artifacts([], new, tmp_path)
+        got = pd.read_parquet(tmp_path / "akn_act_meta.parquet")
+        assert len(got) == 1
+        assert got.iloc[0]["fonte_urn"].endswith(";39")
+        assert got.iloc[0]["eiv"] == "2026-05-02"
