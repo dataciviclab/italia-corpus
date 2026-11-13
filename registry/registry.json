@@ -1293,6 +1293,26 @@
       }
     },
     {
+      "slug": "riferimenti__mart_frontiera",
+      "dataset": "riferimenti",
+      "table": "mart_frontiera",
+      "location": {
+        "type": "gcs",
+        "path": "gs://dataciviclab-mart/italia-corpus/riferimenti/2026/mart_frontiera.parquet",
+        "multi_file": false
+      }
+    },
+    {
+      "slug": "riferimenti__mart_frontiera_epoca",
+      "dataset": "riferimenti",
+      "table": "mart_frontiera_epoca",
+      "location": {
+        "type": "gcs",
+        "path": "gs://dataciviclab-mart/italia-corpus/riferimenti/2026/mart_frontiera_epoca.parquet",
+        "multi_file": false
+      }
+    },
+    {
       "slug": "riferimenti__mart_riferimenti_urn",
       "dataset": "riferimenti",
       "table": "mart_riferimenti_urn",
