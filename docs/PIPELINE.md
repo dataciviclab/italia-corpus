@@ -64,6 +64,33 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 - **Probe formati quotidiano** (`probe.yml`, 05:30 UTC): una richiesta a `collection-predefinite`, scrive `collezioni_probe.json` e committa **solo se lo stato cambia**. È il watchdog dei formati (freeze V del 30/10).
 - `fetch-status` (classe 3, ~2 min) è **non fatale**: se il WAF blocca, resta lo status in cache e il build prosegue con un `::warning::`. Il vintage è in `status.parquet.fetched_at`.
 
+**Gate come codice** (2026-11): i controlli che prima erano 5 blocchi
+`python - <<'PY'` dentro i workflow — uno **duplicato** in `pipeline` e
+`derive-smoke`, non testabile — vivono in `lab_tools/asserts.py`:
+
+| comando | controlla | dove |
+|---|---|---|
+| `asserts urn-subset` | nessun URN sparisce dalla baseline (`config/allowlist_urn_mancanti.txt` per le deroghe) | build, dopo `extract` |
+| `asserts contract` | colonne ⊂ baseline, downgrade vigenza > 1%, rename (advisory) | build, dopo i derive |
+| `asserts regex-resolution` | bersagli regex non risolti ≤ 50 (churn filename) | build **e** derive-smoke (stesso codice, prima duplicato) |
+| `asserts schema` | ogni colonna di `clean.sql` esiste nel **raw reale** (bind su parquet con `LIMIT 0`) | `make toolkit-run`, prima di ogni `toolkit run` |
+
+`asserts schema` copre la classe di incidente 2026-11: un contract change che
+cita una colonna non ancora presente nel raw (→ Binder Error a metà publish).
+Il dry-run del toolkit **non** la copre (placeholder), quindi il legame va fatto
+contro lo schema vero. Con raw incompatibile il messaggio è esplicito
+(`SCHEMA NON COMPATIBILE riferimenti: colonna «bersaglio_celex»`). Se le macro
+del toolkit non sono installate e la SQL le usa, il gate **salta** invece di
+fallire (non può distinguere macro mancanti da schema mancante).
+
+`pytest tests/test_asserts.py` copre anche le eccezioni deliberate (allowlist,
+baseline irraggiungibile). **Limite noto**: `toolkit run --dry-run` **non**
+valida questa `clean.sql` — il placeholder `raw_input` contiene solo le colonne
+dichiarate in `clean.read.columns` o quotate, e qui sono tutte unquoted
+(`Binder Error: Column "contesto" ...`), anche a `main`. Serve un dry-run
+basato sullo **schema reale** del parquet (candidato per il gate
+contratto↔schema).
+
 **`stato` / `vigenza_fonte`**
 
 Lo `stato` atto-level è un **metadato ufficiale**, non va derivato dal testo.
@@ -127,9 +154,94 @@ Regola unica:
 
 `riferimenti` espone anche **`mart_riferimenti_urn`** (`fonte_urn`, `bersaglio_urn`,
 `rel_type`, `peso`, `fonte_anno`, `bersaglio_anno`, `contesto`,
-`clausola_lettura`, `da_regex`): è il contratto **URN-based** che usa legal-graph
+`clausola_lettura`, `da_regex`, `esito`): è il contratto **URN-based** che usa legal-graph
 (join esatto sui nodi, nessuna normalizzazione nel compose). Il clean
 filename-based resta per coverage e mart analitici.
+
+### Esito dell'identificazione (`riferimenti.esito`, 2026-11)
+
+`risolto` è binario e misura solo la presenza **nel corpus** (~10% del
+catalogo): letto da solo fa sembrare "rotto" ciò che è solo fuori perimetro
+— sul corpus 2026-11 il 42,4% degli archi risultava non risolto, ma l'87% di
+quei bersagli era già identificato.
+
+Due colonne additive, `risolto` resta invariato:
+
+| `esito` | significato |
+|---|---|
+| `in_corpus` | l'atto è nel corpus (equivale a `risolto=true`) |
+| `in_catalogo` | atto noto al catalogo Normattiva (`atti_index`), fuori dal corpus |
+| `dominio_ue` | direttiva/regolamento UE: l'identità vera è CELEX, non l'URN NIR |
+| `fuori_perimetro` | atti di autorità indipendenti, circolari, pareri, URN malformati |
+| `senza_bersaglio` | arco senza URN né id (non classificabile) |
+
+`dominio_bersaglio` (`nir`/`ue`/`altro`) è il dominio identitario dell'URN. Le
+due grafie UE (`direttivaue` / `direttiva.ue`) collassano sullo stesso dominio.
+Se `atti_index` non è disponibile, l'esito degrada a `fuori_perimetro` e il run
+fallisce se compare un `in_catalogo` (mai classificare per caso).
+Invariante in `grafo_riferimenti`: `risolto` ⇔ `esito='in_corpus'`.
+
+### Ponte CELEX (`riferimenti.bersaglio_celex`, 2026-11)
+
+Le direttive UE non hanno un URN NIR stabile: `esito='dominio_ue'` dice *dove*
+vive il bersaglio, non *quale* atto è. Il ponte usa `direttive_ue` (fetch
+CELLAR), che porta `celex` + `urn_varianti` con **le due grafie** che circolano
+nell'AKN.
+
+Due stadi, in ordine: join esatto sull'URN (98,5%), fallback su `(anno, numero)`
+ricavato dal CELEX (recupera i restanti). Chiavi ambigue scartate: meglio
+nessuna identità che una sbagliata.
+
+Effetto sul corpus 2026-11 (verificato sul pubblicato):
+
+| | |
+|---|---|
+| archi dominio UE | 53.212 |
+| archi con CELEX | **53.211 (99,998%)** |
+| bersagli URN distinti | 5.229 |
+| bersagli risolti | 5.228 |
+| **CELEX distinti** | **2.672** |
+
+Cioè: il grafo aveva **due nodi fantasma per direttiva** (5.228 URN → 2.672
+identità, 1,96 URN/CELEX). `bersaglio_celex` permette al consumer di deduplicare
+e di agganciare il nodo UE senza toccare la granularità storica del mart
+(`fonte_urn, bersaglio_urn, rel_type` resta invariata).
+
+Invariante: un CELEX valorizzato è ammesso **solo** se
+`dominio_bersaglio='ue'` — un CELEX su un atto NIR sarebbe un'identità sbagliata.
+
+**Limite noto**: i regolamenti UE sono nello stesso dominio ma su un altro asse
+CELEX (tipo `R`), che `direttive_ue` non copre. Oggi restano senza CELEX.
+
+### Frontiera (`mart_frontiera`, `mart_frontiera_epoca`, 2026-11)
+
+La copertura del grafo come **prodotto**, non come diagnostica. Due grani:
+
+| mart | grain | risponde a |
+|---|---|---|
+| `mart_frontiera` | `(dominio_bersaglio, esito)` | quanto del diritto citato è nel corpus, noto-fuori, o fuori da ogni perimetro |
+| `mart_frontiera_epoca` | `(decennio_bersaglio, esito)` | dove si addensa il non identificato nel tempo |
+
+Sul corpus 2026-11 (`mart_frontiera`):
+
+| dominio | esito | archi | % | bersagli |
+|---|---|---:|---:|---:|
+| `nir` | `in_corpus` | 211.706 | 54,95% | 7.104 |
+| `nir` | `in_catalogo` | 88.978 | 23,09% | 11.374 |
+| `ue` | `dominio_ue` | 53.212 | 13,81% | 5.229 |
+| `nir` | `fuori_perimetro` | 17.636 | 4,58% | 7.461 |
+| `non_urn` | `in_corpus` | 10.054 | 2,61% | — (articoli Costituzione, `bersaglio_id`) |
+| `altro` | `fuori_perimetro` | 3.713 | 0,96% | 1.943 |
+
+Le due letture che contano: **il 94,5% degli archi ha un bersaglio identificato**
+(`in_corpus` + `in_catalogo` + `dominio_ue`), e il `fuori_perimetro` reale è
+**5,5%**, non il 42,4% che si leggeva dal solo `risolto`.
+
+
+**Attenzione**: il resolver `normattiva.it/uri-res/N2Ls` **non** è un oracolo di
+esistenza — su 40 URN ben formati risponde con il numero giusto nel 100% dei
+casi ma con data 5/40 e tipo 0/40 (restituisce l'atto con lo stesso numero,
+ignorando emettitore e tipo). Non usarlo per validare identità.
 
 `atti_index` ha il raw sul **layer GCS** come gli altri: lo genera il build
 (`make atti-index`, con `rm` prima per non sovrascrivere la copia buona in
