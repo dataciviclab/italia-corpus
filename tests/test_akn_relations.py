@@ -804,3 +804,69 @@ class TestMergeEvidenza:
         merge_akn_artifacts([row], [], tmp_path)
         got = pd.read_parquet(tmp_path / "akn_relations.parquet")
         assert got.iloc[0]["evidenza"].startswith("ha disposto")
+
+
+class TestReplacePerAtto:
+    """#161: l'atto riletto sostituisce tutte le sue righe, non solo le chiavi.
+
+    Senza, un cambio di `rel_type` (#3.2) lascia la riga vecchia accanto alla
+    nuova: 66.739 coppie `insertion`+`repeal` dopo il force fetch del 2026-11-13.
+    """
+
+    A = "urn:nir:stato:decreto.legislativo:2010-12-13;212"
+    B = "urn:nir:stato:decreto.legge:2024-01-01;9"
+    C = "urn:nir:stato:legge:1990-01-01;241"
+
+    def _row(self, fonte, target, rel_type, origin="activeModification", detail="x"):
+        return {
+            "fonte_urn": fonte, "fonte_codice": None, "target_urn": target,
+            "rel_type": rel_type, "origin": origin, "detail": detail,
+            "contesto": None, "evidenza": None, "locator": None,
+            "articolo": None,
+        }
+
+    def _meta(self, fonte):
+        return {"fonte_urn": fonte, "fonte_codice": "010G0236",
+                "fonte_file": "f.xml", "eiv": None}
+
+    def _prepara(self, tmp_path, vecchie):
+        import pandas as pd
+
+        pd.DataFrame(vecchie).to_parquet(tmp_path / "akn_relations.parquet", index=False)
+
+    def test_tipo_cambiato_non_duplica(self, tmp_path):
+        self._prepara(tmp_path, [self._row(self.A, self.C, "insertion")])
+        merge_akn_artifacts(
+            [self._row(self.A, self.C, "repeal")], [self._meta(self.A)], tmp_path
+        )
+        import pandas as pd
+
+        got = pd.read_parquet(tmp_path / "akn_relations.parquet")
+        assert list(got["rel_type"]) == ["repeal"]
+
+    def test_passive_dell_atto_riletto_sostituite(self, tmp_path):
+        self._prepara(tmp_path, [self._row(self.B, self.A, "insertion", "passiveModification")])
+        merge_akn_artifacts([], [self._meta(self.A)], tmp_path)
+        import pandas as pd
+
+        got = pd.read_parquet(tmp_path / "akn_relations.parquet")
+        assert got.empty
+
+    def test_atto_non_riletto_resta(self, tmp_path):
+        self._prepara(tmp_path, [self._row(self.C, self.B, "citation", "ref")])
+        merge_akn_artifacts(
+            [self._row(self.A, self.C, "repeal")], [self._meta(self.A)], tmp_path
+        )
+        import pandas as pd
+
+        got = pd.read_parquet(tmp_path / "akn_relations.parquet")
+        assert set(got["fonte_urn"]) == {self.A, self.C}
+
+    def test_senza_meta_non_cancella(self, tmp_path):
+        """Fetch parziale senza metadati (compat): nessuna cancellazione."""
+        self._prepara(tmp_path, [self._row(self.A, self.C, "insertion")])
+        merge_akn_artifacts([self._row(self.A, self.C, "repeal")], [], tmp_path)
+        import pandas as pd
+
+        got = pd.read_parquet(tmp_path / "akn_relations.parquet")
+        assert set(got["rel_type"]) == {"insertion", "repeal"}

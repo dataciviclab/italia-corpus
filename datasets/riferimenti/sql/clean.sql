@@ -32,6 +32,9 @@ WITH base AS (
         bersaglio_filename,
         bersaglio_path,
         bersaglio_urn,
+        -- Additivo 2026-11: identità CELEX delle direttive UE citate
+        -- (`direttive_ue`). NULL per i bersagli non-UE.
+        bersaglio_celex,
         bersaglio_id,
         bersaglio_anno,
         bersaglio_tipo,
@@ -39,6 +42,12 @@ WITH base AS (
         bersaglio_materia,
         peso,
         risolto,
+        -- Additivo 2026-11: dominio identitario del bersaglio (`nir` | `ue` |
+        -- `altro`) ed esito dell'identificazione (`in_corpus` | `in_catalogo` |
+        -- `dominio_ue` | `fuori_perimetro` | `senza_bersaglio`). `risolto`
+        -- resta la verità sulla presenza nel corpus; `esito` la raffina.
+        dominio_bersaglio,
+        esito,
         origine,
         rel_type,
         CASE
@@ -107,6 +116,9 @@ SELECT
     fonte_tipo,
     bersaglio_filename,
     bersaglio_urn,
+    -- CELEX della direttiva UE citata: permette a legal-graph di agganciare
+    -- il bersaglio ai nodi UE. NULL = non è una direttiva (o non risolta).
+    NULLIF(normalize_string(bersaglio_celex), '') AS bersaglio_celex,
     bersaglio_id,
     TRY_CAST(fonte_anno AS INTEGER)   AS fonte_anno,
     TRY_CAST(bersaglio_anno AS INTEGER) AS bersaglio_anno,
@@ -116,6 +128,10 @@ SELECT
     NULLIF(normalize_string(bersaglio_materia), '') AS bersaglio_materia,
     TRY_CAST(peso AS BIGINT)          AS peso,
     CAST(risolto AS BOOLEAN)          AS risolto,
+    -- Dominio/esito del bersaglio: additivi, backward-compatible (2026-11).
+    -- `in_catalogo` = atto noto a Normattiva ma fuori dal corpus.
+    NULLIF(normalize_string(dominio_bersaglio), '') AS dominio_bersaglio,
+    NULLIF(normalize_string(esito), '')             AS esito,
     normalize_string(origine)         AS origine,
     normalize_string(rel_type)        AS rel_type,
     LEFT(contesto, 240)               AS contesto,

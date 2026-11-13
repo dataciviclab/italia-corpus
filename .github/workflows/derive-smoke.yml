@@ -70,23 +70,9 @@ jobs:
       # Stesso gate del build: un churn di filename fa crollare la
       # risoluzione dei link regex e passerebbe silenzioso.
       - name: Contract check riferimenti (risoluzione)
-        run: |
-          python - <<'PY'
-          import pandas as pd
-
-          df = pd.read_parquet("data/derived/riferimenti.parquet")
-          regex = df[df["origine"] == "regex"]
-          non_risolti = regex[~regex["risolto"]]
-          bersagli = non_risolti["bersaglio_filename"].nunique()
-          print(
-              f"riferimenti: {len(df)} archi · "
-              f"regex non risolti: {len(non_risolti)} link / {bersagli} bersagli"
-          )
-          if bersagli > 50:
-              raise SystemExit(
-                  f"CHURN: {bersagli} bersagli regex non risolti "
-                  f"({len(non_risolti)} link, max 50)"
-              )
-          PY
+        # Stesso gate del build: un churn di filename fa crollare la
+        # risoluzione dei link regex e passerebbe silenzioso.
+        # Logica e test: lab_tools/asserts.py (prima era duplicato qui).
+        run: python -m lab_tools.asserts regex-resolution
       - name: Arricchisci normativa (qualità)
         run: python -m lab_tools.arricchisci_normativa

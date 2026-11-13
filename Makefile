@@ -43,6 +43,7 @@ toolkit-run:
 				fi ;; \
 		esac; \
 		echo "→ $$f"; \
+		python -m lab_tools.asserts schema --config "$$f" || exit 1; \
 		$(TOOLKIT) run --config "$$f" || exit 1; \
 	done
 

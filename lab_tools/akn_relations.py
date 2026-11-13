@@ -574,10 +574,18 @@ def merge_akn_artifacts(
     meta_rows: list[dict],
     outdir: Path,
 ) -> tuple[Path, Path]:
-    """Merge parziale nel parquet esistente (fetch --only non sovrascrive il resto).
+    """Merge nel parquet esistente (il fetch `--only` non sovrascrive il resto).
 
-    - relations: upsert per (fonte_urn, target_urn, rel_type, origin)
-    - acts: upsert per fonte_urn (l'ultimo fetch vince per atto)
+    - relations: l'atto **riletto** sostituisce tutte le sue righe, non solo le
+      chiavi che ricompaiono (#161); per gli atti non riletti vale l'upsert per
+      (fonte_urn, target_urn, rel_type, origin).
+    - acts: upsert per fonte_urn (l'ultimo fetch vince per atto).
+
+    Il replace per atto è necessario perché la chiave include `rel_type`:
+    quando un tipo cambia (`insertion` → `repeal`, #3.2) o una citazione
+    sparisce dal testo, l'upsert lascerebbe la riga vecchia accanto alla nuova.
+    Un atto il cui file non è stato letto (illeggibile, o fuori dal perimetro
+    del fetch) non compare in `meta_rows`: le sue righe restano.
     """
     import pandas as pd
 
@@ -600,6 +608,22 @@ def merge_akn_artifacts(
 
     old_rel = pd.read_parquet(rel_path) if rel_path.exists() else pd.DataFrame(columns=rel_cols)
     old_meta = pd.read_parquet(meta_path) if meta_path.exists() else pd.DataFrame(columns=meta_cols)
+
+    # Quali atti sono stati letti in questo run: i metadati sono uno per file.
+    letti = {str(m.get("fonte_urn")) for m in meta_rows if m.get("fonte_urn")}
+    if letti and not old_rel.empty:
+        # Le passive appartengono al file letto come *target* (il `fonte_urn`
+        # è l'atto che interviene): cancellarle per `fonte_urn` toglierebbe
+        # righe di atti non riletti.
+        passive = old_rel["origin"].astype(str).eq("passiveModification")
+        da_sostituire = (old_rel["fonte_urn"].isin(letti) & ~passive) | (
+            old_rel["target_urn"].isin(letti) & passive
+        )
+        n = int(da_sostituire.sum())
+        if n:
+            old_rel = old_rel.loc[~da_sostituire]
+            print(f"  righe sostituite per atto riletto: {n}")
+
     # Retro-compat: i parquet precedenti non hanno evidenza/locator/articolo.
     for col in ("evidenza", "locator", "articolo"):
         if col not in old_rel.columns:

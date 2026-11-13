@@ -14,6 +14,13 @@ SELECT
     MAX(peso) AS peso,
     MAX(fonte_anno) AS fonte_anno,
     MAX(bersaglio_anno) AS bersaglio_anno,
+    -- Esito dell'identificazione: è costante per arco (dipende solo da
+    -- risolto + URN + catalogo), quindi MIN non sceglie nulla.
+    MIN(esito) AS esito,
+    MIN(dominio_bersaglio) AS dominio_bersaglio,
+    -- Identità CELEX del bersaglio UE: costante per arco. È il ponte verso i
+    -- nodi UE di legal-graph (join su `celex`, non sull'URN NIR).
+    MIN(bersaglio_celex) AS bersaglio_celex,
     MIN(contesto) AS contesto,
     BOOL_OR(clausola_lettura) AS clausola_lettura,
     -- serve alla guardia temporale del compose: l'eccezione per gli edge
