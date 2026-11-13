@@ -192,6 +192,9 @@ def _extract_eiv(root: ET.Element) -> str | None:
 # dell'intero atto, inutile come evidence.
 _CONTENITORI_TESTO = {"p", "hcontainer", "item", "paragraph", "content", "heading", "list"}
 _CTX_MAX = 240
+# Testo di `<new>` (annotazione dell'effetto, o testo inserito nelle passive):
+# è l'evidenza leggibile dell'edge, quindi stesso limite del contesto.
+_EVID_MAX = 240
 
 
 def _contesto_ref(rf: ET.Element, parents: dict[ET.Element, ET.Element]) -> str:
@@ -218,6 +221,54 @@ def _contesto_ref(rf: ET.Element, parents: dict[ET.Element, ET.Element]) -> str:
     return testo[:_CTX_MAX]
 
 
+def _testo_figlio(el: ET.Element, tag: str) -> str:
+    """Testo del figlio AKN (`new`/`old`), con gli spazi normalizzati."""
+    child = el.find(f"akn:{tag}", NS)
+    if child is None:
+        return ""
+    return " ".join("".join(child.itertext()).split())
+
+
+# Effetto dichiarato in `<new>`: «…) l'abrogazione …». La parentesi è quella
+# dell'articolo/comma dell'atto che dispone (vedi `effetto_abrogazione`).
+_RE_EFFETTO_ABROGAZIONE = re.compile(r"\)\s*l'abrogazione\b", re.IGNORECASE)
+
+# Tipi AKN che descrivono il *meccanismo*, non l'effetto: `insertion` è il
+# tipo di quasi tutte le `textualMod` di Normattiva (296.336 su 299.548 nelle
+# sole active dei Decreti Legislativi, 2026-11).
+_TIPI_RICLASSIFICABILI = frozenset({"insertion", "replacement", "modification"})
+
+
+def dichiara_abrogazione(testo: str) -> bool:
+    """Il testo di `<new>` dichiara l'abrogazione come effetto (non citazione).
+
+    Le `textualMod` di Normattiva portano quasi sempre `type="insertion"`: il
+    tipo è il meccanismo AKN, mentre l'effetto sta nel testo di `<new>`, dove
+    l'annotazione è una frase con la clausola di effetto dopo la parentesi:
+
+        ha disposto (con l'art. 1, comma 1) l'abrogazione dell'intero provvedimento.
+        ha disposto(con l'art. 231, comma 1) l'abrogazione …            (no spazio)
+        ha disposto con (l'art. 74, comma 1) l'abrogazione …            (`con` prima)
+        ha confermato (con l'art. 62, comma 1) l'abrogazione …          (verbo)
+        , nell'introdurre l'art. 4 …, ha conseguentemente disposto (con l'art. 4, comma 1) l'abrogazione …
+
+    Il taglia-leggi (D.Lgs 212/2010) è il caso che ha reso il bug visibile:
+    211.563 `textualMod` tutte `insertion`, 211.534 delle quali abrogazioni —
+    nel grafo finivano in `modifica` e `abroga` restava sottostimato (#3.2).
+
+    Cosa **non** è un'annotazione di effetto e quindi resta `insertion`:
+      - il testo inserito (`((…))`), che può citare norme abrogate;
+      - le annotazioni miste («la modifica dell'art. 16 e l'abrogazione del
+        comma 4»), dove l'atto modifica *e* abroga lo stesso target.
+    Le `passiveModifications` non passano di qui: lì `<new>` è il testo della
+    modifica fatta da un altro atto, non l'effetto di questo (0 corrispondenze
+    in posizione di effetto sul corpus).
+    """
+    if not testo or testo.startswith("(("):
+        return False
+    return bool(_RE_EFFETTO_ABROGAZIONE.search(testo))
+
+
 def extract_relations(root: ET.Element) -> list[dict[str, Any]]:
     """Righe relazione da un elemento AKN root.
 
@@ -236,6 +287,7 @@ def extract_relations(root: ET.Element) -> list[dict[str, Any]]:
         fonte_override: str | None = None,
         contesto: str = "",
         href: str | None = None,
+        evidenza: str = "",
     ) -> None:
         rows.append(
             {
@@ -246,6 +298,7 @@ def extract_relations(root: ET.Element) -> list[dict[str, Any]]:
                 "origin": origin,
                 "detail": detail[:300],
                 "contesto": contesto[:_CTX_MAX],
+                "evidenza": evidenza[:_EVID_MAX],
                 "locator": frammento(href),
                 "articolo": articolo_da_frammento(frammento(href)),
             }
@@ -267,6 +320,9 @@ def extract_relations(root: ET.Element) -> list[dict[str, Any]]:
             if _local(tm.tag) != "textualMod":
                 continue
             rel = tm.get("type") or "modification"
+            nuovo = _testo_figlio(tm, "new")
+            if rel in _TIPI_RICLASSIFICABILI and dichiara_abrogazione(nuovo):
+                rel = "repeal"
             dest_href = _child_href(tm, "destination")
             src_href = _child_href(tm, "source")
             dest = href_to_urn(dest_href or "")
@@ -278,7 +334,7 @@ def extract_relations(root: ET.Element) -> list[dict[str, Any]]:
             href_target = dest_href if target == dest else src_href
             _row(
                 target, rel, "activeModification", f"src={src};dest={dest}",
-                href=href_target,
+                href=href_target, evidenza=nuovo,
             )
 
     for pm in root.findall(".//akn:passiveModifications", NS):
@@ -302,6 +358,7 @@ def extract_relations(root: ET.Element) -> list[dict[str, Any]]:
                 f"src={src};dest={dest}",
                 fonte_override=intervengono,
                 href=dest_href,
+                evidenza=_testo_figlio(tm, "new"),
             )
 
     refsec = root.find(".//akn:references", NS)
@@ -414,7 +471,8 @@ def write_parquets(rel_rows: list[dict], meta_rows: list[dict], outdir: Path) ->
 
     rel_cols = [
         "fonte_urn", "fonte_codice", "target_urn",
-        "rel_type", "origin", "detail", "contesto", "locator", "articolo",
+        "rel_type", "origin", "detail", "contesto", "evidenza",
+        "locator", "articolo",
     ]
     meta_cols = [
         "fonte_urn", "fonte_codice", "fonte_file", "eiv",
@@ -527,7 +585,8 @@ def merge_akn_artifacts(
     meta_path = outdir / "akn_act_meta.parquet"
     rel_cols = [
         "fonte_urn", "fonte_codice", "target_urn",
-        "rel_type", "origin", "detail", "contesto", "locator", "articolo",
+        "rel_type", "origin", "detail", "contesto", "evidenza",
+        "locator", "articolo",
     ]
     meta_cols = [
         "fonte_urn", "fonte_codice", "fonte_file", "eiv",
@@ -541,8 +600,8 @@ def merge_akn_artifacts(
 
     old_rel = pd.read_parquet(rel_path) if rel_path.exists() else pd.DataFrame(columns=rel_cols)
     old_meta = pd.read_parquet(meta_path) if meta_path.exists() else pd.DataFrame(columns=meta_cols)
-    # Retro-compat: i parquet precedenti non hanno locator/articolo.
-    for col in ("locator", "articolo"):
+    # Retro-compat: i parquet precedenti non hanno evidenza/locator/articolo.
+    for col in ("evidenza", "locator", "articolo"):
         if col not in old_rel.columns:
             old_rel[col] = None
         if col not in new_rel.columns:

@@ -590,3 +590,217 @@ class TestMergeMetaFile:
         assert len(got) == 1
         assert got.iloc[0]["fonte_urn"].endswith(";39")
         assert got.iloc[0]["eiv"] == "2026-05-02"
+
+
+def _xml_effetti() -> str:
+    """Le forme reali di `<new>` per l'abrogazione (corpus DLgs, 2026-11).
+
+    Il `type` AKN è quasi sempre `insertion`: l'effetto sta nella clausola
+    dopo la parentesi. Le forme sotto sono quelle osservate sul corpus.
+    """
+    casi = [
+        # eId, type, frag, testo di <new>, blocco
+        ("amod_1", "insertion", "1",
+         "ha disposto (con l'art. 1, comma 1) l'abrogazione dell'intero provvedimento.",
+         "active"),
+        ("amod_2", "insertion", "art_5",
+         "ha disposto(con l'art. 231, comma 1) l'abrogazione dell'art. 5.",
+         "active"),
+        ("amod_3", "insertion", "2",
+         "ha confermato (con l'art. 62, comma 1) l'abrogazione dell'intero provvedimento.",
+         "active"),
+        ("amod_4", "insertion", "3",
+         ", nell'introdurre l'art. 4 al D.Lgs. 40/1993, ha conseguentemente disposto "
+         "(con l'art. 4, comma 1) l'abrogazione dell'art. 41.",
+         "active"),
+        # misto: modifica e abroga lo stesso target → resta insertion
+        ("amod_5", "insertion", "4",
+         "ha disposto (con l'art. 3, comma 1) la modifica dell'art. 16, comma 1 "
+         "e l'abrogazione del comma 4 dell'art. 16.",
+         "active"),
+        # testo inserito / nota di vigenza: cita un'abrogazione ma non lo è
+        ("amod_6", "insertion", "5",
+         "((IL D.LGS. 18 GIUGNO 1999, N. 200 HA CONFERMATO L'ABROGAZIONE "
+         "DEL PRESENTE COMMA))",
+         "active"),
+        # modifica normale
+        ("amod_7", "insertion", "6",
+         "ha disposto (con l'art. 2, comma 1) la modifica dell'art. 144.",
+         "active"),
+        # effetto abrogativo tra virgolette, ma senza clausola «) l'abrogazione»
+        ("amod_8", "insertion", "7",
+         'ha disposto (con l\'art. 6, comma 1) che "Sono abrogate le disposizioni …".',
+         "active"),
+        # repeal esplicito: non deve cambiare
+        ("amod_9", "repeal", "8", "", "active"),
+        # passive: `<new>` non è l'effetto di questo atto → resta insertion
+        ("pmod_1", "insertion", "9",
+         "ha disposto (con l'art. 1, comma 1) l'abrogazione dell'art. 9.",
+         "passive"),
+    ]
+    active = "\n".join(
+        f"""        <textualMod eId="{eid}" type="{tipo}">
+          <source href="urn:nir:stato:decreto.legislativo:2010-12-13;212#{frag}"/>
+          <destination href="urn:nir:stato:legge:1960-01-01;{100 + i}#{frag}"/>
+          <new>{testo}</new>
+        </textualMod>"""
+        for i, (eid, tipo, frag, testo, blocco) in enumerate(casi)
+        if blocco == "active"
+    )
+    passive = "\n".join(
+        f"""        <textualMod eId="{eid}" type="{tipo}">
+          <source href="urn:nir:stato:decreto.legge:2024-01-01;9#1"/>
+          <destination href="urn:nir:stato:decreto.legislativo:2010-12-13;212#{frag}"/>
+          <new>{testo}</new>
+        </textualMod>"""
+        for i, (eid, tipo, frag, testo, blocco) in enumerate(casi)
+        if blocco == "passive"
+    )
+    return f"""<?xml version="1.0" encoding="UTF-8"?>
+<act xmlns="{AKN_NS}">
+  <meta>
+    <identification>
+      <FRBRalias name="urn:nir" value="urn:nir:stato:decreto.legislativo:2010-12-13;212"/>
+    </identification>
+    <analysis>
+      <activeModifications>
+{active}
+      </activeModifications>
+      <passiveModifications>
+{passive}
+      </passiveModifications>
+    </analysis>
+  </meta>
+  <body/>
+</act>"""
+
+
+class TestEffettoAbrogazione:
+    """#3.2: `insertion` che dichiara l'abrogazione è `repeal`.
+
+    Il tipo AKN descrive il meccanismo, non l'effetto: senza questa regola il
+    taglia-leggi (D.Lgs 212/2010) finiva in `modifica` e `abroga` restava
+    sottostimato di ~41k coppie nella sola collezione Decreti Legislativi.
+    """
+
+    def _rows(self):
+        return extract_relations(ET.fromstring(_xml_effetti()))
+
+    def _active(self):
+        return {
+            r["target_urn"]: r
+            for r in self._rows()
+            if r["origin"] == "activeModification"
+        }
+
+    @pytest.mark.parametrize(
+        "urn,locator",
+        [
+            ("urn:nir:stato:legge:1960-01-01;100", "1"),
+            ("urn:nir:stato:legge:1960-01-01;101", "art_5"),
+            ("urn:nir:stato:legge:1960-01-01;102", "2"),
+            ("urn:nir:stato:legge:1960-01-01;103", "3"),
+        ],
+    )
+    def test_abrogazione_dichiarata_diventa_repeal(self, urn, locator):
+        """Le quattro forme reali dell'annotazione, locator incluso."""
+        riga = self._active()[urn]
+        assert riga["rel_type"] == "repeal"
+        assert riga["locator"] == locator
+
+    def test_misto_resta_insertion(self):
+        """«la modifica … e l'abrogazione …»: l'atto modifica *e* abroga."""
+        assert self._active()["urn:nir:stato:legge:1960-01-01;104"]["rel_type"] == "insertion"
+
+    def test_testo_inserito_resta_insertion(self):
+        """`((…))` è testo inserito o nota: citare l'abrogazione non è abrogare."""
+        assert self._active()["urn:nir:stato:legge:1960-01-01;105"]["rel_type"] == "insertion"
+
+    def test_modifica_normale_resta_insertion(self):
+        assert self._active()["urn:nir:stato:legge:1960-01-01;106"]["rel_type"] == "insertion"
+
+    def test_abrogazione_tra_virgolette_resta_insertion(self):
+        """Senza la clausola «) l'abrogazione» non si riclassifica (conservativo)."""
+        assert self._active()["urn:nir:stato:legge:1960-01-01;107"]["rel_type"] == "insertion"
+
+    def test_repeal_esplicito_invariato(self):
+        assert self._active()["urn:nir:stato:legge:1960-01-01;108"]["rel_type"] == "repeal"
+
+    def test_passive_non_riclassificata(self):
+        """Nelle passive `<new>` è la modifica altrui: il tipo resta quello AKN."""
+        passive = [r for r in self._rows() if r["origin"] == "passiveModification"]
+        assert [r["rel_type"] for r in passive] == ["insertion"]
+
+
+class TestEvidenza:
+    """`evidenza` = testo di `<new>`: l'annotazione che l'edge deve poter mostrare.
+
+    Senza, un `abroga` AKN aveva solo l'etichetta `akn:activeModification` e
+    nessun testo verificabile (C1).
+    """
+
+    def _rows(self):
+        return extract_relations(ET.fromstring(_xml_effetti()))
+
+    def test_modifiche_portano_il_testo_di_new(self):
+        row = [r for r in self._rows() if r["target_urn"].endswith(";100")][0]
+        assert row["evidenza"].startswith("ha disposto (con l'art. 1, comma 1)")
+
+    def test_passive_portano_il_loro_testo(self):
+        passive = [r for r in self._rows() if r["origin"] == "passiveModification"][0]
+        assert passive["evidenza"].startswith("ha disposto (con l'art. 1, comma 1)")
+
+    def test_citazioni_senza_evidenza(self):
+        """L'evidenza delle citazioni è `contesto`, non `<new>`."""
+        rows = extract_relations(ET.fromstring(_xml_rich()))
+        cit = [r for r in rows if r["origin"] == "ref"]
+        assert cit and all(r["evidenza"] == "" for r in cit)
+
+    def test_evidenza_troncata(self):
+        """Stesso limite del contesto: il parquet non porta testi interi."""
+        rows = extract_relations(ET.fromstring(_xml_effetti()))
+        assert all(len(r["evidenza"]) <= 240 for r in rows)
+
+
+class TestMergeEvidenza:
+    def test_vecchio_parquet_senza_evidenza(self, tmp_path):
+        """Retro-compat: un parquet pre-C1 non ha la colonna, il merge regge."""
+        import pandas as pd
+
+        old = pd.DataFrame([
+            {
+                "fonte_urn": "urn:nir:stato:legge:2000-01-01;1",
+                "fonte_codice": "000G0001",
+                "target_urn": "urn:nir:stato:legge:1990-01-01;2",
+                "rel_type": "citation",
+                "origin": "ref",
+                "detail": "",
+                "contesto": "testo",
+                "locator": "art_1",
+                "articolo": "art_1",
+            }
+        ])
+        old.to_parquet(tmp_path / "akn_relations.parquet", index=False)
+        merge_akn_artifacts([], [], tmp_path)
+        got = pd.read_parquet(tmp_path / "akn_relations.parquet")
+        assert "evidenza" in got.columns
+        assert got.iloc[0]["evidenza"] is None or pd.isna(got.iloc[0]["evidenza"])
+
+    def test_merge_conserva_evidenza(self, tmp_path):
+        import pandas as pd
+
+        row = {
+            "fonte_urn": "urn:nir:stato:decreto.legislativo:2010-12-13;212",
+            "fonte_codice": "010G0236",
+            "target_urn": "urn:nir:stato:legge:1960-01-01;100",
+            "rel_type": "repeal",
+            "origin": "activeModification",
+            "detail": "src=None;dest=urn:nir:stato:legge:1960-01-01;100",
+            "contesto": "",
+            "evidenza": "ha disposto (con l'art. 1, comma 1) l'abrogazione dell'intero provvedimento.",
+            "locator": "1",
+            "articolo": "art_1",
+        }
+        merge_akn_artifacts([row], [], tmp_path)
+        got = pd.read_parquet(tmp_path / "akn_relations.parquet")
+        assert got.iloc[0]["evidenza"].startswith("ha disposto")
