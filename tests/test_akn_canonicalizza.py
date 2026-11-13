@@ -157,3 +157,19 @@ class TestDedupPerSlug:
         assert len(out) == 1
         assert out.iloc[0]["target_urn"] == self.NUOVO
         assert out.iloc[0]["contesto"] == "visto il decreto"
+
+    def test_evidenza_non_si_perde_nel_collasso(self):
+        """L'evidenza della riga vecchia non deve sparire (C1)."""
+        df = self._df([
+            {"fonte_urn": self.FONTE, "fonte_codice": None, "target_urn": self.VECCHIO,
+             "rel_type": "insertion", "origin": "activeModification", "detail": "x",
+             "contesto": None, "locator": "art_3", "articolo": "art_3",
+             "evidenza": "ha disposto (con l'art. 1) l'abrogazione dell'intero provvedimento."},
+            {"fonte_urn": self.FONTE, "fonte_codice": None, "target_urn": self.NUOVO,
+             "rel_type": "insertion", "origin": "activeModification", "detail": "x",
+             "contesto": None, "locator": "art_5", "articolo": "art_5",
+             "evidenza": ""},
+        ])
+        out = dedup_per_slug(df)
+        assert len(out) == 1
+        assert out.iloc[0]["evidenza"].startswith("ha disposto")

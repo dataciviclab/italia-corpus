@@ -730,3 +730,77 @@ class TestEffettoAbrogazione:
         """Nelle passive `<new>` è la modifica altrui: il tipo resta quello AKN."""
         passive = [r for r in self._rows() if r["origin"] == "passiveModification"]
         assert [r["rel_type"] for r in passive] == ["insertion"]
+
+
+class TestEvidenza:
+    """`evidenza` = testo di `<new>`: l'annotazione che l'edge deve poter mostrare.
+
+    Senza, un `abroga` AKN aveva solo l'etichetta `akn:activeModification` e
+    nessun testo verificabile (C1).
+    """
+
+    def _rows(self):
+        return extract_relations(ET.fromstring(_xml_effetti()))
+
+    def test_modifiche_portano_il_testo_di_new(self):
+        row = [r for r in self._rows() if r["target_urn"].endswith(";100")][0]
+        assert row["evidenza"].startswith("ha disposto (con l'art. 1, comma 1)")
+
+    def test_passive_portano_il_loro_testo(self):
+        passive = [r for r in self._rows() if r["origin"] == "passiveModification"][0]
+        assert passive["evidenza"].startswith("ha disposto (con l'art. 1, comma 1)")
+
+    def test_citazioni_senza_evidenza(self):
+        """L'evidenza delle citazioni è `contesto`, non `<new>`."""
+        rows = extract_relations(ET.fromstring(_xml_rich()))
+        cit = [r for r in rows if r["origin"] == "ref"]
+        assert cit and all(r["evidenza"] == "" for r in cit)
+
+    def test_evidenza_troncata(self):
+        """Stesso limite del contesto: il parquet non porta testi interi."""
+        rows = extract_relations(ET.fromstring(_xml_effetti()))
+        assert all(len(r["evidenza"]) <= 240 for r in rows)
+
+
+class TestMergeEvidenza:
+    def test_vecchio_parquet_senza_evidenza(self, tmp_path):
+        """Retro-compat: un parquet pre-C1 non ha la colonna, il merge regge."""
+        import pandas as pd
+
+        old = pd.DataFrame([
+            {
+                "fonte_urn": "urn:nir:stato:legge:2000-01-01;1",
+                "fonte_codice": "000G0001",
+                "target_urn": "urn:nir:stato:legge:1990-01-01;2",
+                "rel_type": "citation",
+                "origin": "ref",
+                "detail": "",
+                "contesto": "testo",
+                "locator": "art_1",
+                "articolo": "art_1",
+            }
+        ])
+        old.to_parquet(tmp_path / "akn_relations.parquet", index=False)
+        merge_akn_artifacts([], [], tmp_path)
+        got = pd.read_parquet(tmp_path / "akn_relations.parquet")
+        assert "evidenza" in got.columns
+        assert got.iloc[0]["evidenza"] is None or pd.isna(got.iloc[0]["evidenza"])
+
+    def test_merge_conserva_evidenza(self, tmp_path):
+        import pandas as pd
+
+        row = {
+            "fonte_urn": "urn:nir:stato:decreto.legislativo:2010-12-13;212",
+            "fonte_codice": "010G0236",
+            "target_urn": "urn:nir:stato:legge:1960-01-01;100",
+            "rel_type": "repeal",
+            "origin": "activeModification",
+            "detail": "src=None;dest=urn:nir:stato:legge:1960-01-01;100",
+            "contesto": "",
+            "evidenza": "ha disposto (con l'art. 1, comma 1) l'abrogazione dell'intero provvedimento.",
+            "locator": "1",
+            "articolo": "art_1",
+        }
+        merge_akn_artifacts([row], [], tmp_path)
+        got = pd.read_parquet(tmp_path / "akn_relations.parquet")
+        assert got.iloc[0]["evidenza"].startswith("ha disposto")

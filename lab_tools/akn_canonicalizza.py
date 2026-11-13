@@ -115,6 +115,10 @@ def dedup_per_slug(df):
         "detail": "last",
         "contesto": _primo_non_vuoto,
     }
+    # `evidenza` viaggia con `contesto`: se la riga vecchia è l'unica ad averla
+    # (alias URN), non deve sparire nel collasso.
+    if "evidenza" in slug.columns:
+        agg["evidenza"] = _primo_non_vuoto
     for col in ("locator", "articolo"):
         if col in slug.columns:
             agg[col] = _lista_union
@@ -138,8 +142,8 @@ def main() -> None:
     urns = pd.read_parquet(NORMATIVA_PARQUET, columns=["urn"])["urn"].dropna()
     index = canonical_index(urns)
     df = pd.read_parquet(AKN_PARQUET)
-    # Retro-compat: i raw precedenti a IC-B non hanno locator/articolo.
-    for col in ("locator", "articolo"):
+    # Retro-compat: i raw precedenti non hanno evidenza/locator/articolo.
+    for col in ("evidenza", "locator", "articolo"):
         if col not in df.columns:
             df[col] = None
     nuovo, per_regola, duplicati = canonicalizza_urns(df, index)
