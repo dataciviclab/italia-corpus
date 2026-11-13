@@ -2,8 +2,8 @@
  "sintesi": {
   "collezioni_api": 23,
   "in_config": 20,
-  "pin_ok": 3,
-  "congelate": 2,
+  "pin_ok": 5,
+  "congelate": 0,
   "non_pinnate": 15,
   "fuori_config": 3
  },
@@ -23,9 +23,9 @@
     "V": 39
    },
    "data_creazione": {
-    "M": "2026-11-12",
-    "O": "2026-11-12",
-    "V": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -35,12 +35,18 @@
    "in_config": true,
    "pin": null,
    "formati": [
+    "M",
+    "O",
     "V"
    ],
    "numero_atti": {
+    "M": 1098,
+    "O": 1098,
     "V": 1098
    },
    "data_creazione": {
+    "M": "2026-11-13",
+    "O": "2026-11-13",
     "V": "2026-11-12"
    },
    "stato": "non_pinnata",
@@ -57,7 +63,7 @@
     "O": 124045
    },
    "data_creazione": {
-    "O": "2026-11-12"
+    "O": "2026-11-13"
    },
    "stato": "fuori_config",
    "senza_pin_da": 0
@@ -77,9 +83,9 @@
     "V": 40
    },
    "data_creazione": {
-    "M": "2026-11-12",
-    "O": "2026-11-12",
-    "V": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
    "stato": "ok",
    "senza_pin_da": 0
@@ -99,9 +105,9 @@
     "V": 1735
    },
    "data_creazione": {
-    "M": "2026-11-12",
-    "O": "2026-11-12",
-    "V": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -121,9 +127,9 @@
     "V": 7445
    },
    "data_creazione": {
-    "M": "2026-11-12",
-    "O": "2026-11-12",
-    "V": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -143,9 +149,9 @@
     "V": 75
    },
    "data_creazione": {
-    "M": "2026-11-12",
-    "O": "2026-11-12",
-    "V": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -165,9 +171,9 @@
     "V": 363
    },
    "data_creazione": {
-    "M": "2026-11-12",
-    "O": "2026-11-12",
-    "V": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -177,13 +183,19 @@
    "in_config": false,
    "pin": null,
    "formati": [
-    "O"
+    "M",
+    "O",
+    "V"
    ],
    "numero_atti": {
-    "O": 47762
+    "M": 47762,
+    "O": 47762,
+    "V": 47762
    },
    "data_creazione": {
-    "O": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
    "stato": "fuori_config",
    "senza_pin_da": 0
@@ -203,9 +215,9 @@
     "V": 2936
    },
    "data_creazione": {
-    "M": "2026-11-12",
-    "O": "2026-11-12",
-    "V": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
    "stato": "ok",
    "senza_pin_da": 0
@@ -225,9 +237,9 @@
     "V": 1215
    },
    "data_creazione": {
-    "M": "2026-11-12",
-    "O": "2026-11-12",
-    "V": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -247,9 +259,9 @@
     "V": 81
    },
    "data_creazione": {
-    "M": "2026-11-12",
-    "O": "2026-11-12",
-    "V": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -269,9 +281,9 @@
     "V": 50
    },
    "data_creazione": {
-    "M": "2026-11-12",
-    "O": "2026-11-12",
-    "V": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -281,16 +293,22 @@
    "in_config": true,
    "pin": "V",
    "formati": [
-    "O"
+    "M",
+    "O",
+    "V"
    ],
    "numero_atti": {
-    "O": 1166
+    "M": 1166,
+    "O": 1166,
+    "V": 1166
    },
    "data_creazione": {
-    "O": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
-   "stato": "congelata",
-   "senza_pin_da": 21
+   "stato": "ok",
+   "senza_pin_da": 0
   },
   {
    "nome": "Leggi di delegazione europea",
@@ -307,9 +325,9 @@
     "V": 32
    },
    "data_creazione": {
-    "M": "2026-11-12",
-    "O": "2026-11-12",
-    "V": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -324,14 +342,14 @@
     "V"
    ],
    "numero_atti": {
-    "M": 2336,
-    "O": 2336,
-    "V": 2336
+    "M": 2337,
+    "O": 2337,
+    "V": 2337
    },
    "data_creazione": {
-    "M": "2026-11-12",
-    "O": "2026-11-12",
-    "V": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -351,9 +369,9 @@
     "V": 58
    },
    "data_creazione": {
-    "M": "2026-11-12",
-    "O": "2026-11-12",
-    "V": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
    "stato": "ok",
    "senza_pin_da": 0
@@ -363,13 +381,19 @@
    "in_config": false,
    "pin": null,
    "formati": [
-    "O"
+    "M",
+    "O",
+    "V"
    ],
    "numero_atti": {
-    "O": 91346
+    "M": 91346,
+    "O": 91346,
+    "V": 91346
    },
    "data_creazione": {
-    "O": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
    "stato": "fuori_config",
    "senza_pin_da": 0
@@ -389,9 +413,9 @@
     "V": 120
    },
    "data_creazione": {
-    "M": "2026-11-12",
-    "O": "2026-11-12",
-    "V": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -411,9 +435,9 @@
     "V": 376
    },
    "data_creazione": {
-    "M": "2026-11-12",
-    "O": "2026-11-12",
-    "V": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -433,9 +457,9 @@
     "V": 1944
    },
    "data_creazione": {
-    "M": "2026-11-12",
-    "O": "2026-11-12",
-    "V": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -455,9 +479,9 @@
     "V": 2080
    },
    "data_creazione": {
-    "M": "2026-11-12",
-    "O": "2026-11-12",
-    "V": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
    "stato": "non_pinnata",
    "senza_pin_da": 0
@@ -467,24 +491,37 @@
    "in_config": true,
    "pin": "V",
    "formati": [
-    "O"
+    "M",
+    "O",
+    "V"
    ],
    "numero_atti": {
-    "O": 257
+    "M": 257,
+    "O": 257,
+    "V": 257
    },
    "data_creazione": {
-    "O": "2026-11-12"
+    "M": "2026-11-13",
+    "O": "2026-11-13",
+    "V": "2026-11-13"
    },
-   "stato": "congelata",
-   "senza_pin_da": 21
+   "stato": "ok",
+   "senza_pin_da": 0
   }
  ],
  "cambiamenti": [
-  "Decreti Legislativi: formato M comparso",
-  "Decreti Legislativi: formato V comparso",
-  "Decreti Legislativi: sbloccata (V di nuovo disponibile)",
-  "Leggi finanziarie e di bilancio: formato V comparso",
-  "Leggi finanziarie e di bilancio: sbloccata (V di nuovo disponibile)"
+  "Atti di recepimento direttive UE: formato M comparso",
+  "Atti di recepimento direttive UE: formato O comparso",
+  "DPR: formato M comparso",
+  "DPR: formato V comparso",
+  "Leggi delega e relativi provvedimenti delegati: formato M comparso",
+  "Leggi delega e relativi provvedimenti delegati: formato V comparso",
+  "Leggi delega e relativi provvedimenti delegati: sbloccata (V di nuovo disponibile)",
+  "Regi decreti: formato M comparso",
+  "Regi decreti: formato V comparso",
+  "Testi Unici: formato M comparso",
+  "Testi Unici: formato V comparso",
+  "Testi Unici: sbloccata (V di nuovo disponibile)"
  ],
- "probed_at": "2026-11-12T13:56:09"
+ "probed_at": "2026-11-13T13:20:41"
 }
