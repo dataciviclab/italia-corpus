@@ -37,6 +37,45 @@ RE_LINK = re.compile(r'\.\./([^)]+?)\.md')
 # rende il gate robusto a quanti link puntano allo stesso atto mancante.
 MAX_REGEX_BERSAGLI_NON_RISOLTI = 50
 
+# ---------------------------------------------------------------------------
+# Dominio identitario del bersaglio
+# ---------------------------------------------------------------------------
+# Il grafo mescola almeno tre spazi di nomi, e trattarli come uno solo è la
+# causa principale dei "non risolti" gonfiati:
+#   - `nir`   normativa statale, identità nel catalogo Normattiva (atti_index)
+#   - `ue`    diritto UE: l'identità vera è CELEX, non l'URN NIR. Nel corpus
+#             circola in due grafie (`direttivaue` / `direttiva.ue`) per la
+#             stessa entità: ~5.229 bersagli distinti sul corpus 2026-11
+#   - `altro` atti di autorità indipendenti, circolari, pareri (nessun URN
+#             Normattiva per costruzione) e URN malformati dalla fonte
+#             (`urn:nir:::1928-02-05;577`)
+DOMINIO_NIR = "nir"
+DOMINIO_UE = "ue"
+DOMINIO_ALTRO = "altro"
+
+# L'emettitore dell'URN UE è `eu` (non `ue`, che è il dominio): due lettere
+# invertite sono una trappola silenziosa, quindi la costante è esplicita.
+EMITTENTE_UE = "eu"
+
+# Esito dell'identificazione del bersaglio. Sostituisce la lettura binaria di
+# `risolto`, che misurava solo la presenza **nel corpus** (~10% del catalogo) e
+# faceva sembrare un difetto ciò che è solo fuori perimetro: sul corpus 2026-11
+# il 60,3% degli archi AKN era "non risolto", ma il 63,8% di quei bersagli era
+# già noto (catalogo Normattiva oppure direttiva UE).
+ESITO_IN_CORPUS = "in_corpus"
+ESITO_IN_CATALOGO = "in_catalogo"
+ESITO_DOMINIO_UE = "dominio_ue"
+ESITO_FUORI_PERIMETRO = "fuori_perimetro"
+ESITO_SENZA_BERSAGLIO = "senza_bersaglio"
+
+ESITI = (
+    ESITO_IN_CORPUS,
+    ESITO_IN_CATALOGO,
+    ESITO_DOMINIO_UE,
+    ESITO_FUORI_PERIMETRO,
+    ESITO_SENZA_BERSAGLIO,
+)
+
 # Max context length stored per side (chars). Total evidence ≤ 2 * _CTX_MAX + link text.
 _CTX_MAX = 120
 
@@ -152,6 +191,107 @@ def risolvi_path(link_decoded: str, current_relpath: Path) -> Path | None:
     return Path(*parts)
 
 
+def dominio_urn(urn: str | None) -> str:
+    """Dominio identitario dell'URN di un bersaglio: `nir` | `ue` | `altro`.
+
+    Pura. Vuota per URN assente.
+
+    Il riconoscimento è deliberatamente sintattico: non serve un registro per
+    sapere che `urn:nir:eu:direttivaue:1996;23` non è normativa statale. Le due
+    grafie UE (`direttivaue`, `direttiva.ue`) collassano sullo stesso dominio.
+    """
+    u = (urn or "").strip()
+    if not u:
+        return ""
+    if not u.startswith("urn:nir:"):
+        return DOMINIO_ALTRO
+    parts = u.split(":")
+    emittente = parts[2] if len(parts) > 2 else ""
+    tipo = parts[3] if len(parts) > 3 else ""
+    if emittente == EMITTENTE_UE or tipo.startswith("direttiva"):
+        return DOMINIO_UE
+    if not emittente or not tipo:
+        # `urn:nir:::1928-02-05;577` / `urn:nir::regolamento:1907;90`: la fonte
+        # (o la nostra normalizzazione) ha perso emettitore o tipo.
+        return DOMINIO_ALTRO
+    return DOMINIO_NIR
+
+
+def esito_bersaglio(arco: dict, catalogo_urns: set[str]) -> str:
+    """Esito dell'identificazione del bersaglio di un arco.
+
+    Pura. Precedenza: corpus > dominio UE > catalogo > perimetro.
+
+    `catalogo_urns` è l'insieme delle URN del catalogo Normattiva
+    (`atti_index`). Se è vuoto (raw non disponibile) il meglio che si può dire
+    è "fuori perimetro": `in_catalogo` non viene mai emesso per caso.
+    """
+    if arco.get("risolto"):
+        return ESITO_IN_CORPUS
+    urn = (arco.get("bersaglio_urn") or "").strip()
+    if not urn:
+        return ESITO_SENZA_BERSAGLIO
+    if dominio_urn(urn) == DOMINIO_UE:
+        return ESITO_DOMINIO_UE
+    if urn in catalogo_urns:
+        return ESITO_IN_CATALOGO
+    return ESITO_FUORI_PERIMETRO
+
+
+def _verifica_esiti(archi: list[dict], catalogo_disponibile: bool) -> None:
+    """Invariante: `risolto` ed `esito` non possono divergere.
+
+    `risolto` resta la verità sulla presenza nel corpus; `esito` la raffina.
+    Se divergono, un consumer che legge l'uno o l'altro ottiene risposte
+    diverse sullo stesso arco: è esattamente il bug di denominatore che questo
+    campo esiste per chiudere.
+    """
+    incoerenti = [
+        a
+        for a in archi
+        if bool(a.get("risolto")) != (a.get("esito") == ESITO_IN_CORPUS)
+    ]
+    if incoerenti:
+        es = incoerenti[0]
+        raise ValueError(
+            f"invariante esito/risolto: {len(incoerenti)} archi incoerenti "
+            f"(es. risolto={es.get('risolto')} esito={es.get('esito')} "
+            f"bersaglio={es.get('bersaglio_urn')})"
+        )
+    senza_esito = [a for a in archi if a.get("esito") not in ESITI]
+    if senza_esito:
+        raise ValueError(
+            f"invariante esito: {len(senza_esito)} archi con esito non valido "
+            f"(es. {senza_esito[0].get('esito')!r})"
+        )
+    if not catalogo_disponibile:
+        in_catalogo = sum(1 for a in archi if a.get("esito") == ESITO_IN_CATALOGO)
+        if in_catalogo:
+            raise ValueError(
+                f"invariante esito: {in_catalogo} archi 'in_catalogo' senza "
+                "catalogo caricato (atti_index assente): classificazione non valida"
+            )
+
+
+def _verifica_celex(archi: list[dict]) -> None:
+    """Invariante: il CELEX si attribuisce solo ai bersagli del dominio UE.
+
+    Un CELEX su un atto NIR sarebbe un'identità sbagliata, cioè peggio di
+    nessuna identità: il consumatore farebbe un join su un nodo sbagliato.
+    """
+    sporchi = [
+        a
+        for a in archi
+        if a.get("bersaglio_celex") and a.get("dominio_bersaglio") != DOMINIO_UE
+    ]
+    if sporchi:
+        es = sporchi[0]
+        raise ValueError(
+            f"invariante CELEX: {len(sporchi)} archi con CELEX fuori dal dominio UE "
+            f"(es. dominio={es.get('dominio_bersaglio')} urn={es.get('bersaglio_urn')})"
+        )
+
+
 def _stampa_metriche(archi: list[dict], file_set_size: int):
     """Stampa metriche riassuntive del grafo."""
     total = len(archi)
@@ -180,6 +320,35 @@ def _stampa_metriche(archi: list[dict], file_set_size: int):
     print(f"  Atti citanti (fonti): {len(fonti):>8,}")
     print(f"  Atti citati (bers.): {len(citati):>8,}")
     print(f"  File nel corpus:     {file_set_size:>8,}")
+
+    # Esito dell'identificazione: la metrica che sostituisce il binario
+    # "risolto/non risolto". `in_catalogo` + `dominio_ue` sono bersagli NOTI,
+    # solo fuori dal corpus: leggerli come "mancanti" gonfiava il problema.
+    esiti = Counter(a.get("esito", "") for a in archi)
+    print("\n  Esito identificazione bersaglio:")
+    noti = 0
+    for k in ESITI:
+        n = esiti.get(k, 0)
+        if k in (ESITO_IN_CORPUS, ESITO_IN_CATALOGO, ESITO_DOMINIO_UE):
+            noti += n
+        print(f"    {k:<18} {n:>8,} ({n / total * 100:5.1f}%)")
+    if total:
+        print(f"    {'→ identificati':<18} {noti:>8,} ({noti / total * 100:5.1f}%)")
+
+    # Ponte CELEX: delle direttive UE citate, quante hanno un'identità CELEX.
+    # È la differenza tra "atto noto" e "atto agganciabile ai nodi UE".
+    ue = [a for a in archi if a.get("dominio_bersaglio") == DOMINIO_UE]
+    if ue:
+        con_celex = sum(1 for a in ue if a.get("bersaglio_celex"))
+        bersagli = {(a.get("bersaglio_urn") or "").strip() for a in ue}
+        bersagli_celex = {
+            (a.get("bersaglio_urn") or "").strip() for a in ue if a.get("bersaglio_celex")
+        }
+        celex_distinti = {a["bersaglio_celex"] for a in ue if a.get("bersaglio_celex")}
+        print("\n  Ponte CELEX (direttive UE):")
+        print(f"    archi con CELEX:   {con_celex:>8,} / {len(ue):,} ({con_celex / len(ue) * 100:5.1f}%)")
+        print(f"    bersagli distinti: {len(bersagli_celex):>8,} / {len(bersagli):,}")
+        print(f"    CELEX distinti:    {len(celex_distinti):>8,}")
 
     # Top citati (solo risolti)
     if risolti > 0:
@@ -322,6 +491,19 @@ _ATTI_INDEX_PUBBLICATO = (
     "atti_index/2026/atti_index_2026_clean.parquet"
 )
 
+# Ponte CELEX: le direttive UE citate dal corpus non hanno un URN NIR stabile.
+# `direttive_ue` (fetch CELLAR) porta CELEX + le due grafie in `urn_varianti`,
+# quindi il ponte è un join esatto, non una ricostruzione.
+_DIRETTIVE_UE_PUBBLICATO = (
+    "https://storage.googleapis.com/dataciviclab-clean/italia-corpus/"
+    "direttive_ue/2026/direttive_ue_2026_clean.parquet"
+)
+
+# CELEX: 3 + anno(4) + tipo(1) + numero. Es. 31989L0391.
+_CELEX_RE = re.compile(r"^3(\d{4})([A-Z])(\d+)$")
+# Forma URN delle direttive: ricopre `direttivaue` e `direttiva.ue`.
+_URN_UE_RE = re.compile(r"direttiva\.?ue:(\d{4});(\d+)$")
+
 
 def _scarica_atti_index_pubblicato():
     """Fallback: clean pubblicato (una GET, ~11MB) quando il raw locale manca.
@@ -418,6 +600,123 @@ def _urn_canonico(urn: str, indice: dict[tuple, str]) -> str:
         if k and (tag,) + k in indice:
             return indice[(tag,) + k]
     return grezza
+
+
+def _scarica_direttive_ue_pubblicate():
+    """Fallback: clean pubblicato di `direttive_ue` se il raw locale manca.
+
+    Nel build il grafo gira **prima** di `fetch_direttive_ue` e i raw scaricati
+    dal layer non includono `direttive_ue` (`make fetch-raws` sì, ma il build
+    ne salta il fetch). Senza fallback il ponte CELEX sarebbe vuoto proprio
+    nel run settimanale.
+
+    Ritorna None se non raggiungibile: il ponte degrada a "nessun CELEX".
+    """
+    import tempfile
+
+    import requests
+
+    tmp: Path | None = None
+    try:
+        with tempfile.NamedTemporaryFile(suffix=".parquet", delete=False) as f:
+            tmp = Path(f.name)
+            with requests.get(_DIRETTIVE_UE_PUBBLICATO, timeout=(10, 60), stream=True) as r:
+                r.raise_for_status()
+                for chunk in r.iter_content(chunk_size=1 << 20):
+                    f.write(chunk)
+    except Exception as exc:  # rete/WAF/HTTP: il ponte resta vuoto
+        print(f"  direttive_ue pubblicate non raggiungibili ({exc}): nessun CELEX")
+        if tmp is not None:
+            tmp.unlink(missing_ok=True)
+        return None
+    try:
+        import pandas as pd
+
+        return pd.read_parquet(tmp, columns=["celex", "urn_varianti"])
+    except Exception as exc:
+        print(f"  direttive_ue pubblicate illeggibili ({exc}): nessun CELEX")
+        return None
+    finally:
+        tmp.unlink(missing_ok=True)
+
+
+def _chiave_ue(anno, numero) -> tuple[int, int] | None:
+    """Chiave (anno, numero) di una direttiva, da URN o da CELEX."""
+    try:
+        a, n = int(anno), int(numero)
+    except (TypeError, ValueError):
+        return None
+    return (a, n) if a and n else None
+
+
+def _carica_indice_celex() -> tuple[dict[str, str], dict[tuple[int, int], str]]:
+    """Indice URN -> CELEX delle direttive UE, con due chiavi.
+
+    - **esatta**: `urn_varianti` elenca già le due grafie che circolano
+      nell'AKN (`direttivaue` / `direttiva.ue`) → copre il 98,5% dei bersagli;
+    - **(anno, numero)**: fallback per le forme che `urn_varianti` non elenca,
+      ricavate dal CELEX. Recupera ~78 bersagli su 5.229.
+
+    Chiavi ambigue (stessa URN → CELEX diversi) vengono scartate: meglio
+    nessuna identità che un'identità sbagliata. `({}, {})` se la fonte manca.
+    """
+    path = OUTDIR / "direttive_ue.parquet"
+    df = None
+    if path.exists():
+        try:
+            import pandas as pd
+
+            df = pd.read_parquet(path, columns=["celex", "urn_varianti"])
+        except (OSError, ValueError, KeyError) as exc:
+            print(f"  direttive_ue.parquet illeggibile ({exc}): provo il pubblicato")
+    if df is None:
+        df = _scarica_direttive_ue_pubblicate()
+    if df is None:
+        return {}, {}
+
+    per_urn: dict[str, set[str]] = defaultdict(set)
+    per_chiave: dict[tuple[int, int], set[str]] = defaultdict(set)
+    for celex, varianti in zip(df["celex"], df["urn_varianti"]):
+        c = (celex or "").strip()
+        if not c:
+            continue
+        for v in str(varianti or "").split("|"):
+            v = v.strip()
+            if v:
+                per_urn[v].add(c)
+        m = _CELEX_RE.match(c)
+        if m:
+            k = _chiave_ue(m.group(1), m.group(3))
+            if k:
+                per_chiave[k].add(c)
+
+    def _unici(src: dict) -> dict:
+        return {k: next(iter(v)) for k, v in src.items() if len(v) == 1}
+
+    return _unici(per_urn), _unici(per_chiave)
+
+
+def risolvi_celex(
+    urn: str | None,
+    per_urn: dict[str, str],
+    per_chiave: dict[tuple[int, int], str],
+) -> str | None:
+    """CELEX della direttiva UE citata, o None. Pura.
+
+    Precedenza: join esatto sull'URN, poi (anno, numero) ricavato dall'URN.
+    Solo direttive: i regolamenti sono nello stesso dominio ma su un altro
+    asse CELEX (tipo R), che `direttive_ue` non copre.
+    """
+    u = (urn or "").strip()
+    if not u:
+        return None
+    if u in per_urn:
+        return per_urn[u]
+    m = _URN_UE_RE.search(u)
+    if not m:
+        return None
+    k = _chiave_ue(m.group(1), m.group(2))
+    return per_chiave.get(k) if k else None
 
 
 def _archi_da_abrogazioni(normativa: dict[str, dict]) -> list[dict]:
@@ -912,6 +1211,31 @@ def main():
     if len(archi) != n_prima:
         print(f"  archi collassati sull'unione (PK clean): {n_prima - len(archi)}")
     _verifica_pk_unica(archi)
+
+    # Esito dell'identificazione del bersaglio (additivo: `risolto` resta).
+    # `in_catalogo` richiede atti_index: se il raw non c'è, l'esito degrada a
+    # `fuori_perimetro` invece di inventare una classificazione.
+    catalogo_urns = set(atti_urn.values()) if atti_urn else set()
+    for arco in archi:
+        arco["dominio_bersaglio"] = dominio_urn(arco.get("bersaglio_urn"))
+        arco["esito"] = esito_bersaglio(arco, catalogo_urns)
+    _verifica_esiti(archi, catalogo_disponibile=bool(catalogo_urns))
+
+    # Ponte CELEX: le direttive UE citate non hanno un URN NIR stabile, quindi
+    # `dominio_ue` da solo dice "fuori perimetro" pur essendo un atto noto.
+    # `direttive_ue` (CELLAR) porta CELEX + le due grafie: join esatto.
+    celex_per_urn, celex_per_chiave = _carica_indice_celex()
+    print(
+        f"  indice CELEX: {len(celex_per_urn)} URN + "
+        f"{len(celex_per_chiave)} chiavi anno/numero"
+    )
+    for arco in archi:
+        arco["bersaglio_celex"] = (
+            risolvi_celex(arco.get("bersaglio_urn"), celex_per_urn, celex_per_chiave)
+            if arco.get("dominio_bersaglio") == DOMINIO_UE
+            else None
+        )
+    _verifica_celex(archi)
 
     if n_fallback_identita:
         print(f"  risolti per identità (data_codice): {n_fallback_identita}")

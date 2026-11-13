@@ -4,13 +4,24 @@ from pathlib import Path
 
 import pytest
 from lab_tools.grafo_riferimenti import (
+    ESITO_DOMINIO_UE,
+    ESITO_FUORI_PERIMETRO,
+    ESITO_IN_CATALOGO,
+    ESITO_IN_CORPUS,
+    ESITO_SENZA_BERSAGLIO,
     _chiave_arco,
+    _chiave_ue,
     _dedup_archi,
     _risolvi_bersaglio,
+    _verifica_celex,
+    _verifica_esiti,
     _verifica_invarianti,
     _verifica_pk_unica,
+    dominio_urn,
+    esito_bersaglio,
     estrai_link,
     estrai_link_con_contesto,
+    risolvi_celex,
     risolvi_path,
 )
 from lab_tools.text_clean import pulisci_markup
@@ -698,3 +709,152 @@ class TestContestoMarkdown:
         assert len(pulito) == len(body)
         assert pulito.count("\n") == body.count("\n")
         assert ".md" not in pulito and "](" not in pulito
+
+
+class TestDominioUrn:
+    """Il grafo mescola tre spazi di nomi: vanno distinti, non contati insieme.
+
+    I casi sono URN reali osservati sul corpus 2026-11 nei bersagli AKN non
+    risolti: se il classificatore sbaglia, il conteggio degli "ignoti" torna a
+    mentire.
+    """
+
+    @pytest.mark.parametrize(
+        "urn,atteso",
+        [
+            ("urn:nir:stato:legge:1990-08-07;241", "nir"),
+            ("urn:nir:stato:regio.decreto:1940-07-06;1056", "nir"),
+            # Due grafie della stessa entità UE: stesso dominio.
+            ("urn:nir:eu:direttivaue:1996;23", "ue"),
+            ("urn:nir:eu:direttiva.ue:1989;391", "ue"),
+            ("urn:nir:eu:regolamento:2016;679", "ue"),
+            # Emettitore o tipo persi dalla fonte: non è normativa statale.
+            ("urn:nir:::1928-02-05;577", "altro"),
+            ("urn:nir::regolamento:1907;90", "altro"),
+            ("urn:nir:capo.provvisorio.stato::1938-04-28;1165", "altro"),
+            ("http://example.org/x", "altro"),
+            ("", ""),
+            (None, ""),
+        ],
+    )
+    def test_classificazione(self, urn, atteso):
+        assert dominio_urn(urn) == atteso
+
+
+class TestEsitoBersaglio:
+    """`esito` raffina `risolto`: il corpus è il 10% del catalogo."""
+
+    def _arco(self, risolto, urn):
+        return {"risolto": risolto, "bersaglio_urn": urn}
+
+    def test_risolto_vince_su_tutto(self):
+        arco = self._arco(True, "urn:nir:stato:legge:1990-08-07;241")
+        assert esito_bersaglio(arco, set()) == ESITO_IN_CORPUS
+
+    def test_fuori_corpus_ma_in_catalogo(self):
+        arco = self._arco(False, "urn:nir:stato:legge:1990-08-07;241")
+        assert esito_bersaglio(arco, {arco["bersaglio_urn"]}) == ESITO_IN_CATALOGO
+
+    def test_direttiva_non_e_mai_in_catalogo(self):
+        arco = self._arco(False, "urn:nir:eu:direttivaue:1996;23")
+        # anche se per ipotesi l'URN comparisse nel catalogo, il dominio vince
+        assert esito_bersaglio(arco, {arco["bersaglio_urn"]}) == ESITO_DOMINIO_UE
+
+    def test_fuori_perimetro(self):
+        arco = self._arco(False, "urn:nir:autorita.energia:delibera:2002-03-19;42")
+        assert esito_bersaglio(arco, set()) == ESITO_FUORI_PERIMETRO
+
+    def test_senza_bersaglio(self):
+        assert esito_bersaglio(self._arco(False, ""), set()) == ESITO_SENZA_BERSAGLIO
+
+
+class TestVerificaEsiti:
+    """L'invariante che impedisce ai due campi di divergere."""
+
+    def test_coerenti(self):
+        _verifica_esiti(
+            [
+                {"risolto": True, "esito": ESITO_IN_CORPUS},
+                {"risolto": False, "esito": ESITO_IN_CATALOGO},
+            ],
+            catalogo_disponibile=True,
+        )
+
+    def test_divergenza_risolto_esito(self):
+        with pytest.raises(ValueError, match="incoerenti"):
+            _verifica_esiti(
+                [{"risolto": False, "esito": ESITO_IN_CORPUS}],
+                catalogo_disponibile=True,
+            )
+
+    def test_esito_non_valido(self):
+        with pytest.raises(ValueError, match="esito non valido"):
+            _verifica_esiti([{"risolto": False, "esito": "boh"}], catalogo_disponibile=True)
+
+    def test_in_catalogo_senza_catalogo(self):
+        """Senza atti_index non si può classificare: meglio fallire che mentire."""
+        with pytest.raises(ValueError, match="senza catalogo"):
+            _verifica_esiti([{"risolto": False, "esito": ESITO_IN_CATALOGO}], catalogo_disponibile=False)
+
+
+class TestChiaveUe:
+    """(anno, numero) è la chiave di fallback del ponte CELEX."""
+
+    @pytest.mark.parametrize(
+        "anno,numero,atteso",
+        [(1989, "391", (1989, 391)), ("1989", 391, (1989, 391)), (None, 1, None),
+         (1989, None, None), ("x", 1, None), (0, 5, None)],
+    )
+    def test_chiave(self, anno, numero, atteso):
+        assert _chiave_ue(anno, numero) == atteso
+
+
+class TestRisolviCelex:
+    """Il ponte usa due stadi: URN esatta, poi anno/numero."""
+
+    PER_URN = {
+        "urn:nir:eu:direttiva.ue:1989;391": "31989L0391",
+        "urn:nir:eu:direttivaue:1989;391": "31989L0391",
+    }
+    PER_CHIAVE = {(2006, 47): "32006L0047"}
+
+    def test_join_esatto_su_entrambe_le_grafie(self):
+        for urn in self.PER_URN:
+            assert risolvi_celex(urn, self.PER_URN, {}) == "31989L0391"
+
+    def test_fallback_anno_numero(self):
+        """Forma non elencata in `urn_varianti`: si recupera dalla chiave."""
+        assert (
+            risolvi_celex("urn:nir:eu:direttiva.ue:2006;47", {}, self.PER_CHIAVE)
+            == "32006L0047"
+        )
+
+    def test_sconosciuta(self):
+        assert risolvi_celex("urn:nir:eu:direttiva.ue:1999;999", self.PER_URN, self.PER_CHIAVE) is None
+
+    def test_non_direttiva(self):
+        """I regolamenti sono un altro asse CELEX: `direttive_ue` non li copre."""
+        assert risolvi_celex("urn:nir:eu:regolamento:2016;679", self.PER_URN, self.PER_CHIAVE) is None
+
+    def test_urn_vuota(self):
+        assert risolvi_celex("", self.PER_URN, self.PER_CHIAVE) is None
+        assert risolvi_celex(None, self.PER_URN, self.PER_CHIAVE) is None
+
+
+class TestVerificaCelex:
+    """Un CELEX su un atto NIR sarebbe un'identità sbagliata."""
+
+    def test_coerenti(self):
+        _verifica_celex(
+            [
+                {"dominio_bersaglio": "ue", "bersaglio_celex": "31989L0391"},
+                {"dominio_bersaglio": "ue", "bersaglio_celex": None},
+                {"dominio_bersaglio": "nir", "bersaglio_celex": None},
+            ]
+        )
+
+    def test_celex_su_nir(self):
+        with pytest.raises(ValueError, match="fuori dal dominio UE"):
+            _verifica_celex(
+                [{"dominio_bersaglio": "nir", "bersaglio_celex": "31989L0391"}]
+            )
