@@ -218,6 +218,55 @@ def _contesto_ref(rf: ET.Element, parents: dict[ET.Element, ET.Element]) -> str:
     return testo[:_CTX_MAX]
 
 
+def _testo_figlio(el: ET.Element, tag: str) -> str:
+    """Testo del figlio AKN (`new`/`old`), con gli spazi normalizzati."""
+    child = el.find(f"akn:{tag}", NS)
+    if child is None:
+        return ""
+    return " ".join("".join(child.itertext()).split())
+
+
+# Effetto dichiarato in `<new>`: «…) l'abrogazione …». La parentesi è quella
+# dell'articolo/comma dell'atto che dispone (vedi `effetto_abrogazione`).
+_RE_EFFETTO_ABROGAZIONE = re.compile(r"\)\s*l'abrogazione\b", re.IGNORECASE)
+
+# Tipi AKN che descrivono il *meccanismo*, non l'effetto: `insertion` è il
+# tipo di quasi tutte le `textualMod` di Normattiva (296.336 su 299.548 nelle
+# sole active dei Decreti Legislativi, 2026-11).
+_TIPI_RICLASSIFICABILI = frozenset({"insertion", "replacement", "modification"})
+
+
+def effetto_abrogazione(tm: ET.Element) -> bool:
+    """La `textualMod` dichiara l'abrogazione come effetto (non come citazione).
+
+    Le `textualMod` di Normattiva portano quasi sempre `type="insertion"`: il
+    tipo è il meccanismo AKN, mentre l'effetto sta nel testo di `<new>`, dove
+    l'annotazione è una frase con la clausola di effetto dopo la parentesi:
+
+        ha disposto (con l'art. 1, comma 1) l'abrogazione dell'intero provvedimento.
+        ha disposto(con l'art. 231, comma 1) l'abrogazione …            (no spazio)
+        ha disposto con (l'art. 74, comma 1) l'abrogazione …            (`con` prima)
+        ha confermato (con l'art. 62, comma 1) l'abrogazione …          (verbo)
+        , nell'introdurre l'art. 4 …, ha conseguentemente disposto (con l'art. 4, comma 1) l'abrogazione …
+
+    Il taglia-leggi (D.Lgs 212/2010) è il caso che ha reso il bug visibile:
+    211.563 `textualMod` tutte `insertion`, 211.534 delle quali abrogazioni —
+    nel grafo finivano in `modifica` e `abroga` restava sottostimato (#3.2).
+
+    Cosa **non** è un'annotazione di effetto e quindi resta `insertion`:
+      - il testo inserito (`((…))`), che può citare norme abrogate;
+      - le annotazioni miste («la modifica dell'art. 16 e l'abrogazione del
+        comma 4»), dove l'atto modifica *e* abroga lo stesso target.
+    Le `passiveModifications` non passano di qui: lì `<new>` è il testo della
+    modifica fatta da un altro atto, non l'effetto di questo (0 corrispondenze
+    in posizione di effetto sul corpus).
+    """
+    nuovo = _testo_figlio(tm, "new")
+    if not nuovo or nuovo.startswith("(("):
+        return False
+    return bool(_RE_EFFETTO_ABROGAZIONE.search(nuovo))
+
+
 def extract_relations(root: ET.Element) -> list[dict[str, Any]]:
     """Righe relazione da un elemento AKN root.
 
@@ -267,6 +316,8 @@ def extract_relations(root: ET.Element) -> list[dict[str, Any]]:
             if _local(tm.tag) != "textualMod":
                 continue
             rel = tm.get("type") or "modification"
+            if rel in _TIPI_RICLASSIFICABILI and effetto_abrogazione(tm):
+                rel = "repeal"
             dest_href = _child_href(tm, "destination")
             src_href = _child_href(tm, "source")
             dest = href_to_urn(dest_href or "")
