@@ -34,6 +34,7 @@ clean:
     - bersaglio_source_file
     - fonte_filename
     - fonte_urn
+    - fonte_anno_espressione
     - bersaglio_filename
     - bersaglio_urn
     - bersaglio_celex
@@ -80,7 +81,7 @@ mart:
   validate:
     table_rules:
       mart_riferimenti_urn:
-        required_columns: [fonte_urn, bersaglio_urn, rel_type, peso, esito, bersaglio_celex]
+        required_columns: [fonte_urn, bersaglio_urn, rel_type, peso, esito, bersaglio_celex, fonte_anno_espressione]
         primary_key: [fonte_urn, bersaglio_urn, rel_type]
         min_rows: 50000
       mart_debt_legale:

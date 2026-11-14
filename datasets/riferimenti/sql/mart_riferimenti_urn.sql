@@ -13,6 +13,9 @@ SELECT
     rel_type,
     MAX(peso) AS peso,
     MAX(fonte_anno) AS fonte_anno,
+    -- Anno dell'espressione consolidata: la guardia temporale va applicata a
+    -- questo, non all'anno di emanazione (6.379 coppie perse da LG, 2026-11).
+    MAX(fonte_anno_espressione) AS fonte_anno_espressione,
     MAX(bersaglio_anno) AS bersaglio_anno,
     -- Esito dell'identificazione: è costante per arco (dipende solo da
     -- risolto + URN + catalogo), quindi MIN non sceglie nulla.

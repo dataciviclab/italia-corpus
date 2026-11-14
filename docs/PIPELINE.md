@@ -213,6 +213,42 @@ Invariante: un CELEX valorizzato è ammesso **solo** se
 **Limite noto**: i regolamenti UE sono nello stesso dominio ma su un altro asse
 CELEX (tipo `R`), che `direttive_ue` non copre. Oggi restano senza CELEX.
 
+### Anno dell'espressione (`fonte_anno_espressione`, 2026-11)
+
+La guardia temporale ("un atto non può citare un atto pubblicato dopo") va
+applicata all'**espressione** letta, non all'atto.
+
+| | |
+|---|---|
+| `fonte_anno` | anno di emanazione (`anno_atto`) |
+| `fonte_anno_espressione` | anno dello `snapshot_data` per le VIGENZA, `anno_atto` per gli ORIGINALE |
+
+`snapshot_data` esiste **solo** sulle VIGENZA (14.831/14.831; NULL su tutte le
+7.579 ORIGINALE) e per il 99,9% è più recente dell'atto — anche di 50+ anni.
+Un atto del 1874 con testo consolidato al 2025 cita legittimamente atti del
+2010: con `fonte_anno` la guardia li scarta come impossibili (6.379 coppie su
+legal-graph, 19.427 archi grezzi in IC).
+
+Gli ORIGINALE non hanno snapshot e non possono citare atti successivi, quindi
+l'anno dell'atto è il criterio corretto.
+
+### Abrogazioni AKN nel mart (2026-11)
+
+I `repeal` di `akn_relations` entrano in `riferimenti` come
+`rel_type='abroga'` con `origine='akn'` (prima solo `origine='regex'`): il
+**tipo di relazione** è semantico, l'**origine** dice l'estrattore.
+
+- il bersaglio è **canonicalizzato** (`_urn_canonico`), come per le citation:
+  così un consumer crea il nodo dal catalogo senza reimplementare l'identità;
+- 66.699 righe, 2.069 fonti (tutte nel corpus), 64.215 bersagli distinti di cui
+  **60.774 (94,6%) in `atti_index`** e 2.055 nel corpus;
+- `contesto` è vuoto su tutti: l'evidenza è il segnaposto
+  `akn:activeModification`.
+
+Effetto: `mart_riferimenti_urn` 221.649 → 287.543 righe. In legal-graph
+sblocca ~57.700 archi `abroga` (la creazione dei nodi catalogo per i bersagli
+di abrogazione è il follow-up lato LG).
+
 ### Frontiera (`mart_frontiera`, `mart_frontiera_epoca`, 2026-11)
 
 La copertura del grafo come **prodotto**, non come diagnostica. Due grani:
