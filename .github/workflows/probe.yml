@@ -19,7 +19,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      # Il probe legge solo il codice, `config/collezioni.txt` e il JSON di
+      # stato che poi committa. Con il checkout pieno il runner scaricava i
+      # blob del corpus (~121 MB compressi, 25.768 file) **ogni giorno** per
+      # 8 KB di stato, e il checkout pesava 43 s su 68 s di job. In cone mode
+      # i file di root (pyproject.toml) sono inclusi automaticamente.
       - uses: actions/checkout@v7
+        with:
+          sparse-checkout: |
+            lab_tools/
+            config/
+            data/derived/
+          filter: blob:none
 
       - uses: dataciviclab/.github/actions/python-setup@main
         with:
