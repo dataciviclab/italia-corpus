@@ -858,3 +858,95 @@ class TestVerificaCelex:
             _verifica_celex(
                 [{"dominio_bersaglio": "nir", "bersaglio_celex": "31989L0391"}]
             )
+
+
+class TestAnnoEspressione:
+    """Anno dell'espressione: snapshot per le VIGENZA, atto per gli ORIGINALE.
+
+    La guardia temporale dei consumer deve usare questo: con `anno_atto` un
+    atto del 1874 con testo consolidato al 2025 fa scartare 6.379 coppie
+    legittime (misurato su legal-graph 2026-11).
+    """
+
+    def test_vigenza_usa_lo_snapshot(self):
+        from lab_tools.grafo_riferimenti import anno_espressione
+
+        assert anno_espressione({"anno_atto": 1874, "snapshot_data": "2025-10-10"}) == 2025
+
+    def test_originale_usa_l_anno_dell_atto(self):
+        from lab_tools.grafo_riferimenti import anno_espressione
+
+        assert anno_espressione({"anno_atto": 1874, "snapshot_data": None}) == 1874
+
+    def test_timestamp_pandas(self):
+        import pandas as pd
+        from lab_tools.grafo_riferimenti import anno_espressione
+
+        assert anno_espressione({"anno_atto": 1874, "snapshot_data": pd.Timestamp("2026-01-02")}) == 2026
+
+    def test_nan_su_entrambi(self):
+        from lab_tools.grafo_riferimenti import anno_espressione
+
+        assert anno_espressione({"anno_atto": float("nan")}) is None
+
+
+class TestRepealNelMart:
+    """I `repeal` AKN entrano nel mart come `abroga`, con l'origine dichiarata.
+
+    Prima LG leggeva `akn_relations` direttamente e i bersagli non erano
+    canonicalizzati: 57.708 archi persi perché nessuno creava il nodo.
+    """
+
+    def _parquet(self, tmp_path):
+        import pandas as pd
+
+        df = pd.DataFrame(
+            [
+                {
+                    "fonte_urn": "urn:nir:stato:legge:2020-01-01;1",
+                    "target_urn": "urn:nir:stato:legge:1990-08-07;241",
+                    "rel_type": "repeal",
+                    "origin": "activeModification",
+                    "detail": "href",
+                    "contesto": float("nan"),
+                    "locator": "~art_1",
+                }
+            ]
+        )
+        df.to_parquet(tmp_path / "akn_relations.parquet")
+
+    def test_emesso_come_abroga_con_origine_akn(self, tmp_path, monkeypatch):
+        from lab_tools import grafo_riferimenti as g
+
+        self._parquet(tmp_path)
+        monkeypatch.setattr(g, "OUTDIR", tmp_path)
+        archi = g._archi_da_akn_relations({}, {"urn:nir:stato:legge:2020-01-01;1": "Leggi/2020.md"})
+        assert len(archi) == 1
+        a = archi[0]
+        assert a["rel_type"] == "abroga"
+        assert a["origine"] == "akn"
+        assert a["risolto"] is False
+        assert a["bersaglio_urn"] == "urn:nir:stato:legge:1990-08-07;241"
+        assert a["bersaglio_anno"] == 1990
+        assert a["contesto"] == "akn:activeModification"
+
+    def test_le_citation_non_sono_toccate(self, tmp_path, monkeypatch):
+        """Il blocco repeal non deve emettere le citation due volte."""
+        import pandas as pd
+        from lab_tools import grafo_riferimenti as g
+
+        pd.DataFrame(
+            [
+                {
+                    "fonte_urn": "urn:nir:stato:legge:2020-01-01;1",
+                    "target_urn": "urn:nir:stato:legge:2019-01-01;2",
+                    "rel_type": "citation",
+                    "origin": "ref",
+                    "detail": "href",
+                    "contesto": "testo",
+                }
+            ]
+        ).to_parquet(tmp_path / "akn_relations.parquet")
+        monkeypatch.setattr(g, "OUTDIR", tmp_path)
+        archi = g._archi_da_akn_relations({}, {"urn:nir:stato:legge:2020-01-01;1": "Leggi/2020.md"})
+        assert [a["rel_type"] for a in archi] == ["citation"]

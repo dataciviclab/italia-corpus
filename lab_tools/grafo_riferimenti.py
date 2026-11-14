@@ -114,6 +114,8 @@ def _load_normativa_lookup() -> dict[str, dict]:
                 "urn": row.get("urn", "") or "",
                 "collezione": row.get("collezione", ""),
                 "anno_atto": row.get("anno_atto", 0),
+                # anno dell'espressione: c'è solo sulle VIGENZA
+                "snapshot_data": row.get("snapshot_data"),
                 "numero": row.get("numero", ""),
                 "tipo": row.get("tipo", ""),
                 "materia": row.get("materia", ""),
@@ -217,6 +219,29 @@ def dominio_urn(urn: str | None) -> str:
     return DOMINIO_NIR
 
 
+def anno_espressione(meta: dict) -> int | None:
+    """Anno dell'**espressione** letta dal corpus (non dell'atto).
+
+    `snapshot_data` esiste solo sulle VIGENZA (14.831/14.831) e data lo snapshot
+    consolidato: il testo può citare atti fino a quell'anno. Gli ORIGINALE non
+    hanno snapshot e non possono citare atti successivi, quindi vale l'anno
+    dell'atto.
+
+    Serve alla guardia temporale dei consumer: `anno_atto` su un atto del 1874
+    con testo consolidato al 2025 fa scartare come "impossibili" 6.379 coppie
+    legittime (misurato su legal-graph 2026-11).
+    """
+    snap = meta.get("snapshot_data")
+    if hasattr(snap, "year"):  # datetime/Timestamp (pandas)
+        return int(snap.year)
+    if isinstance(snap, str) and len(snap) >= 4 and snap[:4].isdigit():
+        return int(snap[:4])
+    try:
+        return int(meta.get("anno_atto"))
+    except (TypeError, ValueError):
+        return None
+
+
 def esito_bersaglio(arco: dict, catalogo_urns: set[str]) -> str:
     """Esito dell'identificazione del bersaglio di un arco.
 
@@ -231,7 +256,9 @@ def esito_bersaglio(arco: dict, catalogo_urns: set[str]) -> str:
     urn = (arco.get("bersaglio_urn") or "").strip()
     if not urn:
         return ESITO_SENZA_BERSAGLIO
-    if dominio_urn(urn) == DOMINIO_UE:
+    # Il dominio già calcolato può venire dall'evidenza (CELEX), non solo
+    # dalla sintassi dell'URN: ha precedenza.
+    if (arco.get("dominio_bersaglio") or dominio_urn(urn)) == DOMINIO_UE:
         return ESITO_DOMINIO_UE
     if urn in catalogo_urns:
         return ESITO_IN_CATALOGO
@@ -780,6 +807,7 @@ def _archi_da_abrogazioni(normativa: dict[str, dict]) -> list[dict]:
                     "fonte_urn": f_urn,
                     "fonte_collezione": f_coll,
                     "fonte_anno": f_meta.get("anno_atto", 0),
+                    "fonte_anno_espressione": anno_espressione(f_meta),
                     "fonte_tipo": f_meta.get("tipo", ""),
                     "fonte_materia": f_meta.get("materia", ""),
                     "fonte_stato": f_meta.get("stato", ""),
@@ -828,6 +856,7 @@ def _archi_citazioni(records: list[dict], normativa: dict[str, dict]) -> list[di
                 "fonte_urn": (meta.get("urn") or "").strip(),
                 "fonte_collezione": row.get("fonte_collezione") or meta.get("collezione", ""),
                 "fonte_anno": row.get("fonte_anno") or meta.get("anno_atto", 0),
+                "fonte_anno_espressione": anno_espressione(meta),
                 "fonte_tipo": row.get("fonte_tipo") or meta.get("tipo", ""),
                 "fonte_materia": meta.get("materia", ""),
                 "fonte_stato": meta.get("stato", ""),
@@ -907,8 +936,9 @@ def _archi_da_akn_relations(
         return []
     cit = df[df["origin"] == "ref"].copy()
     if cit.empty:
-        print("  Nessuna citation AKN — union saltata")
-        return []
+        # Non uscire: il blocco `repeal` più sotto è indipendente dalle
+        # citation (un atto può abrogare senza citare).
+        print("  Nessuna citation AKN")
 
     archi: list[dict] = []
     n_skip_fonte = 0
@@ -948,6 +978,7 @@ def _archi_da_akn_relations(
                 "fonte_filename": f_fn,
                 "fonte_collezione": Path(f_fn).parent.name,
                 "fonte_anno": f_meta.get("anno_atto", 0),
+                "fonte_anno_espressione": anno_espressione(f_meta),
                 "fonte_tipo": f_meta.get("tipo", ""),
                 "fonte_materia": f_meta.get("materia", ""),
                 "fonte_stato": f_meta.get("stato", ""),
@@ -994,12 +1025,71 @@ def _archi_da_akn_relations(
             f"invariante AKN: lookup risolve {n_risolti}/{n_cit} target "
             f"({n_risolti / n_cit:.1%}, soglia 30%) — possibile regressione di urn.lookup"
         )
-    print(
-        f"  AKN target risolti: {n_risolti}/{n_cit} ({n_risolti / n_cit:.1%}) · "
-        f"fuori corpus: {n_fuori_corpus} · fonti assenti: {n_skip_fonte}"
-    )
+    if n_cit:
+        print(
+            f"  AKN target risolti: {n_risolti}/{n_cit} ({n_risolti / n_cit:.1%}) · "
+            f"fuori corpus: {n_fuori_corpus} · fonti assenti: {n_skip_fonte}"
+        )
     print(f"  AKN per regola (bersaglio risolto): {dict(per_regola.most_common())}")
     print(f"  AKN citations emesse: {len(archi)}")
+
+    # --- Abrogazioni AKN (repeal) ---------------------------------------
+    # Stessa tabella delle citation: `rel_type` è la **relazione** ('abroga'),
+    # `origine` l'estrattore ('akn' vs 'regex'). Il bersaglio è canonicalizzato
+    # come per le citation, così un consumer può creare il nodo dal catalogo e
+    # collegare l'arco senza riimplementare l'identità (come già per CELEX).
+    rep = df[(df["origin"] == "activeModification") & (df["rel_type"] == "repeal")]
+    n_rep = len(rep)
+    n_rep_skip = 0
+    n_rep_archi = 0
+    for _, row in rep.iterrows():
+        f_urn, t_urn = row.get("fonte_urn"), row.get("target_urn")
+        f_fn = urn_lookup(urn_to_fn, f_urn)
+        if not f_fn:
+            # fonte fuori corpus: l'arco non è attribuibile a un atto
+            n_rep_skip += 1
+            continue
+        f_meta = normativa.get(Path(f_fn).name, {})
+        t_fn = urn_lookup(urn_to_fn, t_urn)
+        is_risolto = bool(t_fn)
+        t_meta = normativa.get(Path(t_fn).name, {}) if is_risolto else {}
+        anno_urn, tipo_urn = _urn_anno_tipo(t_urn)
+        if is_risolto:
+            bersaglio_urn = (t_meta.get("urn", "") or "").strip() or (t_urn or "").strip()
+        else:
+            bersaglio_urn = _urn_canonico(t_urn, atti_urn or {})
+        _contesto = row.get("contesto")
+        contesto = _contesto.strip() if isinstance(_contesto, str) else ""
+        archi.append(
+            {
+                "fonte_filename": f_fn,
+                "fonte_collezione": Path(f_fn).parent.name,
+                "fonte_anno": f_meta.get("anno_atto", 0),
+                "fonte_anno_espressione": anno_espressione(f_meta),
+                "fonte_tipo": f_meta.get("tipo", ""),
+                "fonte_materia": f_meta.get("materia", ""),
+                "fonte_stato": f_meta.get("stato", ""),
+                "fonte_urn": (f_meta.get("urn", "") or "").strip(),
+                "bersaglio_filename": Path(t_fn).name if is_risolto else "",
+                "bersaglio_path": t_fn or "",
+                "bersaglio_urn": bersaglio_urn,
+                "bersaglio_collezione": Path(t_fn).parent.name if is_risolto else "",
+                "bersaglio_anno": t_meta.get("anno_atto", anno_urn),
+                "bersaglio_tipo": t_meta.get("tipo", "") or tipo_urn,
+                "bersaglio_materia": t_meta.get("materia", ""),
+                "bersaglio_stato": t_meta.get("stato", ""),
+                "peso": 1,
+                "risolto": is_risolto,
+                "origine": "akn",
+                "rel_type": "abroga",
+                # `contesto` è vuoto su tutti i repeal: il segnaposto resta
+                # coerente con quello delle citation AKN.
+                "contesto": contesto or "akn:activeModification",
+                "clausola_lettura": clausola_di_lettura(contesto),
+            }
+        )
+        n_rep_archi += 1
+    print(f"  AKN abroga emesse: {n_rep_archi} (fonti assenti: {n_rep_skip} su {n_rep})")
 
     # Dedup per coppia (fonte, bersaglio, origine): l'alias URN
     # (lab_tools/urn.py) fa risolvere forme diverse della stessa citazione sullo
@@ -1101,8 +1191,14 @@ def _verifica_invarianti(archi: list[dict], file_set: set[str]) -> None:
         and a.get("fonte_filename") not in basenames
     ]
     if fonti_fantasma:
+        # Diagnosi: sapere *quale* estrattore produce la fonte fantasma evita di
+        # cercare nel posto sbagliato (stage stale ≠ corpus stale ≠ raw stale).
+        per_origine: Counter[str] = Counter(
+            str(a.get("origine", "?")) for a in fonti_fantasma
+        )
         raise ValueError(
             f"invariante: {len(fonti_fantasma)} archi con fonte inesistente "
+            f"per origine {dict(per_origine)} "
             f"(es. {fonti_fantasma[0].get('fonte_filename')})"
         )
 
@@ -1168,6 +1264,7 @@ def main():
                     "fonte_filename": str(relpath),
                     "fonte_collezione": nome_collezione,
                     "fonte_anno": fonte_meta.get("anno_atto", 0),
+                    "fonte_anno_espressione": anno_espressione(fonte_meta),
                     "fonte_tipo": fonte_meta.get("tipo", ""),
                     "fonte_materia": fonte_meta.get("materia", ""),
                     "fonte_stato": fonte_meta.get("stato", ""),
@@ -1216,10 +1313,6 @@ def main():
     # `in_catalogo` richiede atti_index: se il raw non c'è, l'esito degrada a
     # `fuori_perimetro` invece di inventare una classificazione.
     catalogo_urns = set(atti_urn.values()) if atti_urn else set()
-    for arco in archi:
-        arco["dominio_bersaglio"] = dominio_urn(arco.get("bersaglio_urn"))
-        arco["esito"] = esito_bersaglio(arco, catalogo_urns)
-    _verifica_esiti(archi, catalogo_disponibile=bool(catalogo_urns))
 
     # Ponte CELEX: le direttive UE citate non hanno un URN NIR stabile, quindi
     # `dominio_ue` da solo dice "fuori perimetro" pur essendo un atto noto.
@@ -1229,12 +1322,19 @@ def main():
         f"  indice CELEX: {len(celex_per_urn)} URN + "
         f"{len(celex_per_chiave)} chiavi anno/numero"
     )
+
+    # Dominio: la sintassi dell'URN è il default, ma **l'evidenza vince**. Un
+    # bersaglio che risolve a un CELEX è UE anche con emettitore vuoto
+    # (`urn:nir::regolamento:2016;679`). Oggi l'effetto è sulle direttive; la
+    # regola è già quella giusta per i regolamenti, quando arriverà l'asse R.
     for arco in archi:
-        arco["bersaglio_celex"] = (
-            risolvi_celex(arco.get("bersaglio_urn"), celex_per_urn, celex_per_chiave)
-            if arco.get("dominio_bersaglio") == DOMINIO_UE
-            else None
-        )
+        celex = risolvi_celex(arco.get("bersaglio_urn"), celex_per_urn, celex_per_chiave)
+        dom = DOMINIO_UE if celex else dominio_urn(arco.get("bersaglio_urn"))
+        arco["dominio_bersaglio"] = dom
+        arco["bersaglio_celex"] = celex if dom == DOMINIO_UE else None
+    for arco in archi:
+        arco["esito"] = esito_bersaglio(arco, catalogo_urns)
+    _verifica_esiti(archi, catalogo_disponibile=bool(catalogo_urns))
     _verifica_celex(archi)
 
     if n_fallback_identita:

@@ -26,6 +26,10 @@ WITH base AS (
         fonte_urn,
         fonte_collezione,
         fonte_anno,
+        -- Additivo 2026-11: anno dell'espressione letta (snapshot per le
+        -- VIGENZA, anno dell'atto per gli ORIGINALE). La guardia temporale dei
+        -- consumer deve usare questo, non `fonte_anno`.
+        fonte_anno_espressione,
         fonte_tipo,
         fonte_stato,
         fonte_materia,
@@ -121,6 +125,7 @@ SELECT
     NULLIF(normalize_string(bersaglio_celex), '') AS bersaglio_celex,
     bersaglio_id,
     TRY_CAST(fonte_anno AS INTEGER)   AS fonte_anno,
+    TRY_CAST(fonte_anno_espressione AS INTEGER) AS fonte_anno_espressione,
     TRY_CAST(bersaglio_anno AS INTEGER) AS bersaglio_anno,
     normalize_string(fonte_stato)     AS fonte_stato,
     normalize_string(bersaglio_stato) AS bersaglio_stato,
