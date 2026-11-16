@@ -106,3 +106,59 @@ class TestCostruisciReport:
         raggruppate = raggruppa([_riga("DPCM", "M")])
         report = costruisci_report(raggruppate, {}, ["DPCM"])
         assert report["collezioni"][0]["stato"] == STATO_NON_PINNATA
+
+
+class TestSegnaleProbe:
+    """Il commit del probe deve seguire il **segnale**, non le date.
+
+    Prima: `data_creazione` cambia ogni giorno (Normattiva ripubblica gli
+    snapshot) → 25 commit in 17 giorni con `cambiamenti` sempre vuoto.
+    """
+
+    def _report(self, formati=("M", "O", "V"), data="2026-11-15", n=39):
+        return {
+            "sintesi": {"collezioni_api": 23, "in_config": 20, "pin_ok": 5,
+                        "congelate": 0, "non_pinnate": 15, "fuori_config": 3},
+            "collezioni": [
+                {
+                    "nome": "Codici",
+                    "in_config": True,
+                    "pin": None,
+                    "formati": list(formati),
+                    "numero_atti": {f: n for f in formati},
+                    "data_creazione": {f: data for f in formati},
+                    "stato": "non_pinnata",
+                    "senza_pin_da": 0,
+                }
+            ],
+            "cambiamenti": [],
+            "probed_at": "2026-11-15T05:30:00",
+        }
+
+    def test_date_e_conteggi_non_sono_segnale(self):
+        from lab_tools.collezioni_probe import cambiato, segnale
+
+        a = self._report()
+        b = self._report(data="2026-11-16", n=42)
+        assert segnale(a) == segnale(b)
+        assert cambiato(b, a) is False
+
+    def test_formato_sparito_e_segnale(self):
+        from lab_tools.collezioni_probe import cambiato
+
+        vecchio = self._report()
+        nuovo = self._report(formati=("M", "O"))
+        assert cambiato(nuovo, vecchio) is True
+
+    def test_primo_giro_committa(self):
+        from lab_tools.collezioni_probe import cambiato
+
+        assert cambiato(self._report(), None) is True
+
+    def test_stato_congelata_e_segnale(self):
+        from lab_tools.collezioni_probe import cambiato
+
+        vecchio = self._report()
+        nuovo = self._report()
+        nuovo["collezioni"][0]["stato"] = "congelata"
+        assert cambiato(nuovo, vecchio) is True

@@ -19,33 +19,41 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      # Il probe legge solo il codice, `config/collezioni.txt` e il JSON di
+      # stato che poi committa. Con il checkout pieno il runner scaricava i
+      # blob del corpus (~121 MB compressi, 25.768 file) **ogni giorno** per
+      # 8 KB di stato, e il checkout pesava 43 s su 68 s di job. In cone mode
+      # i file di root (pyproject.toml) sono inclusi automaticamente.
       - uses: actions/checkout@v7
+        with:
+          sparse-checkout: |
+            lab_tools/
+            config/
+            data/derived/
+          filter: blob:none
 
       - uses: dataciviclab/.github/actions/python-setup@main
         with:
           install-extras: "dev"
 
       - name: Probe collezioni
-        run: python -m lab_tools.collezioni_probe
+        run: python -m lab_tools.collezioni_probe --salva-precedente /tmp/probe_old.json
 
       # Committa solo se lo stato *sostanziale* è cambiato: `probed_at` cambia
       # a ogni run e produrrebbe 365 commit/anno di rumore.
       - name: Commit snapshot (solo se cambia lo stato)
         run: |
-          CHANGED=$(python - <<'PY'
-          import json, pathlib, subprocess
-          p = pathlib.Path("data/derived/collezioni_probe.json")
-          new = json.loads(p.read_text()); new.pop("probed_at", None)
-          try:
-              old = json.loads(subprocess.check_output(
-                  ["git", "show", "HEAD:data/derived/collezioni_probe.json"], text=True
-              ))
-              old.pop("probed_at", None)
-          except subprocess.CalledProcessError:
-              old = None
-          print("yes" if new != old else "no")
-          PY
-          )
+          # Confronto sul **segnale** (formati, pin, stato), non sullo stato
+          # completo: `data_creazione`/`numero_atti` cambiano ogni giorno e
+          # facevano committare il probe per rumore. Logica e test:
+          # `collezioni_probe.segnale` / `cambiato`.
+          #
+          # La base del confronto la salva il probe stesso
+          # (`--salva-precedente`) prima di sovrascrivere: `git show` con
+          # `filter: blob:none` + sparse-checkout può non recuperare il blob, e
+          # l'errore silenzioso farebbe credere a un primo giro (commit
+          # spurious, visto nel run 43910422970).
+          CHANGED=$(python -m lab_tools.collezioni_probe --confronta /tmp/probe_old.json)
           if [ "$CHANGED" = "no" ]; then
             echo "stato formati invariato — nessun commit"
             exit 0
