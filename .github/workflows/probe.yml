@@ -43,20 +43,13 @@ jobs:
       # a ogni run e produrrebbe 365 commit/anno di rumore.
       - name: Commit snapshot (solo se cambia lo stato)
         run: |
-          CHANGED=$(python - <<'PY'
-          import json, pathlib, subprocess
-          p = pathlib.Path("data/derived/collezioni_probe.json")
-          new = json.loads(p.read_text()); new.pop("probed_at", None)
-          try:
-              old = json.loads(subprocess.check_output(
-                  ["git", "show", "HEAD:data/derived/collezioni_probe.json"], text=True
-              ))
-              old.pop("probed_at", None)
-          except subprocess.CalledProcessError:
-              old = None
-          print("yes" if new != old else "no")
-          PY
-          )
+          # Confronto sul **segnale** (formati, pin, stato), non sullo stato
+          # completo: `data_creazione`/`numero_atti` cambiano ogni giorno e
+          # facevano committare il probe per rumore. Logica e test:
+          # `collezioni_probe.segnale` / `cambiato`.
+          git show HEAD:data/derived/collezioni_probe.json > /tmp/probe_old.json 2>/dev/null \
+            || rm -f /tmp/probe_old.json
+          CHANGED=$(python -m lab_tools.collezioni_probe --confronta /tmp/probe_old.json)
           if [ "$CHANGED" = "no" ]; then
             echo "stato formati invariato — nessun commit"
             exit 0

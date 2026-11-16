@@ -30,6 +30,7 @@ import argparse
 import json
 import logging
 from datetime import datetime
+from pathlib import Path
 
 from lab_tools._paths import OUTDIR, load_collezioni, load_pin
 from lab_tools.normattiva_client import fetch_predefined_collections
@@ -160,6 +161,40 @@ def costruisci_report(
     return {"sintesi": sintesi, "collezioni": righe, "cambiamenti": cambiamenti}
 
 
+# Campi che contano come **segnale**. `data_creazione` e `numero_atti` si
+# muovono ogni giorno (Normattiva ripubblica gli snapshot) e facevano
+# committare il probe per rumore: 25 commit in 17 giorni con `cambiamenti`
+# sempre vuoto. `senza_pin_da` è un contatore derivato dallo stato.
+SIGNAL_COLLEZIONE = ("nome", "in_config", "pin", "formati", "stato")
+SIGNAL_SINTESI = (
+    "collezioni_api", "in_config", "pin_ok", "congelate", "non_pinnate", "fuori_config",
+)
+
+
+def segnale(report: dict) -> dict:
+    """Vista del report che conta come cambiamento. Pura.
+
+    Un watchdog deve committare quando **sparisce (o torna) un formato**, non
+    quando si aggiorna una data: il resto del file resta aggiornato al momento
+    dell'ultimo segnale.
+    """
+    return {
+        "sintesi": {k: (report.get("sintesi") or {}).get(k) for k in SIGNAL_SINTESI},
+        "collezioni": [
+            {k: c.get(k) for k in SIGNAL_COLLEZIONE}
+            for c in report.get("collezioni") or []
+        ],
+        "cambiamenti": report.get("cambiamenti") or [],
+    }
+
+
+def cambiato(nuovo: dict, vecchio: dict | None) -> bool:
+    """True se va committato: primo giro (nessun precedente) o segnale diverso."""
+    if vecchio is None:
+        return True
+    return segnale(nuovo) != segnale(vecchio)
+
+
 def stampa(report: dict, precedente: dict | None) -> None:
     """Output umano: sintesi, congelate con da-quanti-probe, cambiamenti."""
     s = report["sintesi"]
@@ -203,7 +238,33 @@ def main() -> int:
         action="store_true",
         help="Exit 1 se una collezione pinnata ha perso il formato (gate CI).",
     )
+    parser.add_argument(
+        "--confronta",
+        metavar="PATH",
+        default=None,
+        help=(
+            "Solo confronto: legge il report su disco e stampa 'yes' se il "
+            "segnale differisce da PATH (nessuna richiesta di rete)."
+        ),
+    )
     args = parser.parse_args()
+
+    if args.confronta:
+        try:
+            nuovo = json.loads(PROBE_JSON.read_text())
+        except (OSError, json.JSONDecodeError):
+            print("yes")
+            return 0
+        vecchio = None
+        vecchio_path = Path(args.confronta)
+        if vecchio_path.exists():
+            try:
+                vecchio = json.loads(vecchio_path.read_text())
+            except json.JSONDecodeError:
+                vecchio = None
+        print("yes" if cambiato(nuovo, vecchio) else "no")
+        return 0
+
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 
     precedente = None
