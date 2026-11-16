@@ -37,7 +37,7 @@ jobs:
           install-extras: "dev"
 
       - name: Probe collezioni
-        run: python -m lab_tools.collezioni_probe
+        run: python -m lab_tools.collezioni_probe --salva-precedente /tmp/probe_old.json
 
       # Committa solo se lo stato *sostanziale* è cambiato: `probed_at` cambia
       # a ogni run e produrrebbe 365 commit/anno di rumore.
@@ -47,8 +47,12 @@ jobs:
           # completo: `data_creazione`/`numero_atti` cambiano ogni giorno e
           # facevano committare il probe per rumore. Logica e test:
           # `collezioni_probe.segnale` / `cambiato`.
-          git show HEAD:data/derived/collezioni_probe.json > /tmp/probe_old.json 2>/dev/null \
-            || rm -f /tmp/probe_old.json
+          #
+          # La base del confronto la salva il probe stesso
+          # (`--salva-precedente`) prima di sovrascrivere: `git show` con
+          # `filter: blob:none` + sparse-checkout può non recuperare il blob, e
+          # l'errore silenzioso farebbe credere a un primo giro (commit
+          # spurious, visto nel run 43910422970).
           CHANGED=$(python -m lab_tools.collezioni_probe --confronta /tmp/probe_old.json)
           if [ "$CHANGED" = "no" ]; then
             echo "stato formati invariato — nessun commit"

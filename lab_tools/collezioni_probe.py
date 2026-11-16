@@ -239,6 +239,12 @@ def main() -> int:
         help="Exit 1 se una collezione pinnata ha perso il formato (gate CI).",
     )
     parser.add_argument(
+        "--salva-precedente",
+        metavar="PATH",
+        default=None,
+        help="Salva il report precedente in PATH prima di sovrascriverlo.",
+    )
+    parser.add_argument(
         "--confronta",
         metavar="PATH",
         default=None,
@@ -266,6 +272,16 @@ def main() -> int:
         return 0
 
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
+
+    if args.salva_precedente:
+        # Copia la versione precedente **prima** di sovrascrivere: è la base del
+        # confronto per il commit (`--confronta`). Non usare `git show` in CI:
+        # con `filter: blob:none` + sparse-checkout il blob può non esserci, e
+        # un errore silenzioso farebbe credere a un primo giro (commit spurious).
+        try:
+            Path(args.salva_precedente).write_text(PROBE_JSON.read_text())
+        except OSError:
+            pass
 
     precedente = None
     if PROBE_JSON.exists():
