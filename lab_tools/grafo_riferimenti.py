@@ -118,6 +118,9 @@ def _load_normativa_lookup() -> dict[str, dict]:
                 "snapshot_data": row.get("snapshot_data"),
                 "numero": row.get("numero", ""),
                 "tipo": row.get("tipo", ""),
+                # Titolo dell'atto: serve a riconoscere la legge di delega
+                # («Delega al Governo ...») dal preambolo del D.Lgs.
+                "oggetto": row.get("oggetto", "") or "",
                 "materia": row.get("materia", ""),
                 "stato": row.get("stato", ""),
                 # identità (#88): serve a scegliere l'espressione corrente quando
@@ -125,6 +128,62 @@ def _load_normativa_lookup() -> dict[str, dict]:
                 "is_current": bool(row.get("is_current", False)),
             }
     return lookup
+
+
+# --- Delega dal preambolo -------------------------------------------------
+# La base della delega è dichiarata nel preambolo, non nel titolo:
+# «Visto l'articolo 1, comma 1, della legge 15 marzo 1997, n. 59» oppure
+# «Vista la legge 14 marzo 2025, n. 26, recante «Delega al Governo ...» e,
+# in particolare, l'articolo 2, comma 2». Il preambolo finisce al primo
+# articolo: dopo, i link sono citazioni di merito, non basi di delega.
+RE_PREAMBOLO_FINE = re.compile(r"(?m)^#{1,4}\s*Art\.")
+RE_ARTICOLO_PREAMBOLO = re.compile(r"articolo\s+(\d+[a-z]?)(?:\s*,\s*comma\s+(\d+))?", re.I)
+RE_URN_LEGGE = re.compile(r"urn:nir:stato:legge:(\d{4}-\d{2}-\d{2});(\d+)")
+# Nel preambolo il link può essere relativo (`../Leggi delega/x.md`) **o**
+# assoluto su Normattiva (`uri-res/N2Ls?urn:nir:stato:legge:...`): il secondo
+# non è un file del corpus, ma porta l'URN e va usato così com'è.
+RE_LINK_QUALSIASI = re.compile(r"\[[^\]]*\]\(([^)]+)\)")
+RE_FORMULA_DELEGA = re.compile(
+    r"delega al governo|attuazione della delega|esercizio della delega|in attuazione dell",
+    re.I,
+)
+
+
+def preambolo(raw: str, limite: int = 6000) -> str:
+    """Testo del preambolo: dall'inizio al primo articolo."""
+    m = RE_PREAMBOLO_FINE.search(raw)
+    return raw[: m.start()] if m else raw[:limite]
+
+
+def estrai_deleghe_preambolo(pre: str) -> list[dict]:
+    """Righe del preambolo con un link e un articolo: candidati alla delega.
+
+    Non decide se la legge sia quella delegante — quello lo fa il chiamante
+    guardando `oggetto` («Delega al Governo ...») e la formula nel contesto.
+    Restituisce una riga per link, con l'articolo/comma della stessa frase.
+    """
+    righe: list[dict] = []
+    for riga in re.split(r";\s*\n|\n", pre):
+        m = RE_ARTICOLO_PREAMBOLO.search(riga)
+        if not m:
+            continue
+        articolo = f"art_{m.group(1)}"
+        if m.group(2):
+            articolo += f"-com{m.group(2)}"
+        contesto = re.sub(r"\s+", " ", riga).strip()[:300]
+        for link in RE_LINK_QUALSIASI.finditer(riga):
+            href = urllib.parse.unquote(link.group(1))
+            m_urn = RE_URN_LEGGE.search(href)
+            if m_urn:
+                urn = f"urn:nir:stato:legge:{m_urn.group(1)};{m_urn.group(2)}"
+                righe.append(
+                    {"urn": urn, "href": href, "articolo": articolo, "contesto": contesto}
+                )
+            elif href.startswith("../") and href.endswith(".md"):
+                righe.append(
+                    {"urn": "", "href": href, "articolo": articolo, "contesto": contesto}
+                )
+    return righe
 
 
 def estrai_link(body: str) -> list[str]:
@@ -1220,6 +1279,12 @@ def main():
     indice_identita = build_indice_identita(file_set, correnti)
     print(f"  indice identità: {len(indice_identita)} atti (data_codice)")
 
+    # urn -> (filename, meta): serve al preambolo, dove il link può essere
+    # assoluto (urn:nir:...) e non un path del corpus.
+    urn_meta: dict[str, tuple[str, dict]] = {
+        meta["urn"]: (fn, meta) for fn, meta in normativa.items() if meta.get("urn")
+    }
+
     print("Estrazione link dai body...")
     archi: list[dict] = []
     n_fallback_identita = 0
@@ -1289,6 +1354,66 @@ def main():
                     ),
                 }
                 archi.append(arco)
+
+            # --- Delega dal preambolo -----------------------------------
+            # Solo i D.Lgs: la base della delega è nel preambolo, e il link
+            # porta l'URN (o il path del corpus). Il filtro sulla legge
+            # delegante usa l'oggetto dell'atto, non il titolo del decreto.
+            if (fonte_meta.get("tipo") or "").upper() == "DECRETO LEGISLATIVO":
+                for cand in estrai_deleghe_preambolo(preambolo(raw)):
+                    href = cand["href"]
+                    if cand["urn"]:
+                        bersaglio_urn = cand["urn"]
+                        fn_meta = urn_meta.get(bersaglio_urn)
+                        # Legge fuori corpus: l'arco è dichiarato ma non
+                        # risolto a un file: non lo emettiamo (il consumer
+                        # ricostruisce il nodo dall'URN, ma qui serve il testo).
+                        if not fn_meta:
+                            continue
+                        bersaglio_fn, bersaglio_meta = fn_meta
+                        bersaglio_path = bersaglio_fn
+                        risolto = True
+                    else:
+                        bersaglio_path, bersaglio_fn, risolto, _ = _risolvi_bersaglio(
+                            href, relpath, file_set, indice_identita
+                        )
+                        if not risolto:
+                            continue
+                        bersaglio_meta = normativa.get(bersaglio_fn, {})
+                        bersaglio_urn = (bersaglio_meta.get("urn") or "").strip()
+                    if (bersaglio_meta.get("tipo") or "").upper() != "LEGGE":
+                        continue
+                    oggetto = (bersaglio_meta.get("oggetto") or "").lower()
+                    if "delega al governo" not in oggetto and not RE_FORMULA_DELEGA.search(
+                        cand["contesto"]
+                    ):
+                        continue
+                    archi.append(
+                        {
+                            "fonte_filename": str(relpath),
+                            "fonte_collezione": nome_collezione,
+                            "fonte_anno": fonte_meta.get("anno_atto", 0),
+                            "fonte_anno_espressione": anno_espressione(fonte_meta),
+                            "fonte_tipo": fonte_meta.get("tipo", ""),
+                            "fonte_materia": fonte_meta.get("materia", ""),
+                            "fonte_stato": fonte_meta.get("stato", ""),
+                            "bersaglio_filename": bersaglio_fn,
+                            "bersaglio_path": bersaglio_path or bersaglio_fn,
+                            "fonte_urn": fonte_meta.get("urn", "") or "",
+                            "bersaglio_urn": bersaglio_urn,
+                            "bersaglio_collezione": bersaglio_meta.get("collezione", ""),
+                            "bersaglio_anno": bersaglio_meta.get("anno_atto", 0),
+                            "bersaglio_tipo": bersaglio_meta.get("tipo", ""),
+                            "bersaglio_materia": bersaglio_meta.get("materia", ""),
+                            "bersaglio_stato": bersaglio_meta.get("stato", ""),
+                            "peso": 1,
+                            "risolto": True,
+                            "origine": "preambolo",
+                            "rel_type": "delega",
+                            "contesto": cand["contesto"],
+                            "clausola_lettura": clausola_di_lettura(cand["contesto"]),
+                        }
+                    )
 
     print("Union AKN (citation strutturate)...")
     urn_to_fn = _load_urn_to_relpath()

@@ -19,8 +19,10 @@ from lab_tools.grafo_riferimenti import (
     _verifica_pk_unica,
     dominio_urn,
     esito_bersaglio,
+    estrai_deleghe_preambolo,
     estrai_link,
     estrai_link_con_contesto,
+    preambolo,
     risolvi_celex,
     risolvi_path,
 )
@@ -950,3 +952,41 @@ class TestRepealNelMart:
         monkeypatch.setattr(g, "OUTDIR", tmp_path)
         archi = g._archi_da_akn_relations({}, {"urn:nir:stato:legge:2020-01-01;1": "Leggi/2020.md"})
         assert [a["rel_type"] for a in archi] == ["citation"]
+
+
+class TestDelegaPreambolo:
+    """Delega dal preambolo: link + articolo, prima delle citazioni di merito.
+
+    La base della delega sta nel preambolo, in due forme:
+    «Visto l'articolo 1, comma 1, della legge …» e «Vista la legge …, recante
+    «Delega al Governo …» e, in particolare, l'articolo 2, comma 2».
+    """
+
+    def test_preambolo_si_ferma_al_primo_articolo(self):
+        raw = "IL PRESIDENTE\nVisto l'articolo 1 della legge;\n## Art. 1.\nTesto"
+        assert "Art. 1" not in preambolo(raw)
+        assert "Visto l'articolo 1" in preambolo(raw)
+
+    def test_articolo_prima_della_legge(self):
+        righe = estrai_deleghe_preambolo(
+            "Visto l'articolo 1, comma 1, della [legge 15 marzo 1997, n. 59](../x.md);"
+        )
+        assert len(righe) == 1
+        assert righe[0]["articolo"] == "art_1-com1"
+        assert righe[0]["urn"] == ""
+        assert righe[0]["href"] == "../x.md"
+
+    def test_articolo_dopo_la_legge_con_urn_assoluto(self):
+        righe = estrai_deleghe_preambolo(
+            "Vista la [legge 14 marzo 2025, n. 26]"
+            "(https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-03-14;26), "
+            "recante «Delega al Governo», e in particolare l'articolo 2, comma 2;"
+        )
+        assert righe[0]["articolo"] == "art_2-com2"
+        assert righe[0]["urn"] == "urn:nir:stato:legge:2025-03-14;26"
+
+    def test_riga_senza_articolo_non_produce_candidati(self):
+        righe = estrai_deleghe_preambolo(
+            "Vista la [legge 23 agosto 1988, n. 400](../x.md), recante «Disciplina»;"
+        )
+        assert righe == []
