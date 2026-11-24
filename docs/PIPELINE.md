@@ -58,7 +58,7 @@ Ordine **critico** (uguale a CI e `make pipeline`):
 - `make fetch-status` = stage 1b (network, WAF IPZS → pacing)
 
 **CI**: due cadenze separate.
-- **Pipeline settimanale** (`pipeline.yml`, lunedì 03:30 UTC): job `build` (raw precedenti da GCS → fetch → **gate d'identità URN** → commit `collezioni/` → fetch-status → derive → `atti-index` + `direttive_ue` → **raw layer** + allegati su GCS) e job `publish` (toolkit + clean/mart su GCS + registry PR). ~26 min: `atti-index` e `direttive_ue` stanno nel build (dove il raw è fresco) e il publish li riusa via cache.
+- **Pipeline settimanale** (`pipeline.yml`, lunedì 03:30 UTC): job `build` (raw precedenti da GCS → fetch → **gate d'identità URN** → commit `collezioni/` → fetch-status → derive → `atti-index` + `direttive_ue` → **raw layer** + allegati su GCS) e job `publish` (toolkit + clean/mart su GCS + registry PR). **~36 min il build + ~5 il publish** (misurato sul weekly 45185013516 del 23/11: 2.179s + 301s; il publish scende con il checkout shallow, #178). `atti-index` e `direttive_ue` stanno nel build (dove il raw è fresco) e il publish li riusa via cache.
 - **Contract change** (merge su `datasets/**`): gira solo `publish`, in **batch** sui dataset toccati (`detect-paths: datasets` + `make run-batch`), dal raw layer GCS — niente fetch, niente `atti-index`/CELLAR (~3 min). Limite noto: se il merge tocca `datasets/atti-index`, il catalogo pubblicato è quello dell'**ultimo build** (fino a una settimana); la freschezza la paga la weekly.
 - **Ordine del commit**: il corpus si committa **dopo** il gate d'identità, mai prima. `main` non riceve un corpus con URN spariti (classe 29/10) e, se un derive fallisce dopo, il fetch è già salvo: la run dopo non lo ripaga.
 - **Probe formati quotidiano** (`probe.yml`, 05:30 UTC): una richiesta a `collection-predefinite`, scrive `collezioni_probe.json` e committa **solo se lo stato cambia**. È il watchdog dei formati (freeze V del 30/10).
@@ -415,7 +415,7 @@ Il mart URN-based consumato da legal-graph è `mart_riferimenti_urn` (vedi sopra
 
 - Makefile: `make toolkit-check` · `make toolkit-run` · `make verify-smoke`
 - Output: `out/data/{clean,mart}/<dataset>/2026/` (gitignored)
-- **CI settimanale** (`pipeline.yml`, lunedì 03:30 UTC, due job):
+- **CI settimanale** (`pipeline.yml`, lunedì 03:30 UTC, due job): l'orario di partenza **non è affidabile** — GitHub accoda gli schedule (osservati 11:36–16:32 UTC su sei run), quindi non va usato come garanzia d'ordine rispetto agli altri repo.
   - `build`: fetch + gate URN + commit `collezioni/` + derive + `atti-index`/`direttive_ue` (cache) + commit dati + `allegati/` su GCS
   - `publish`: `extract --testi-only` pre-run + `toolkit-run` (raw dal layer, selettivo nel batch) + rsync
     `gs://dataciviclab-clean|mart/italia-corpus/` + registry draft PR

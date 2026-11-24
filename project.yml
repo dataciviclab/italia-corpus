@@ -15,7 +15,7 @@ data_source:
   format: akn_xml
   filter: collezioni da config/collezioni.txt (formati O/V/M secondo fetch)
 pipeline:
-  # ordine canonico — vedi docs/PIPELINE.md e build-dataset.yml
+  # ordine canonico — vedi docs/PIPELINE.md e pipeline.yml
   stages:
     - fetch            # MD + akn_* (staging + merge)
     - fetch-status     # status.parquet: status atto-level autorevole (no testo)

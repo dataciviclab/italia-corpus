@@ -2,7 +2,7 @@
  toolkit-check toolkit-run toolkit-all run-batch fetch-raws check verify-smoke
 
 # Pipeline completa (senza fetch — fetch è CI/manuale)
-# Ordine onesto, coerente con build-dataset.yml:
+# Ordine onesto, coerente con pipeline.yml:
 #   classifica → side product → integra (legge da disco) → grafo → …
 pipeline: extract classifica citazioni abrogations integra integra-vigenza grafo arricchisci integra-akn sunsetting
 
