@@ -331,6 +331,15 @@ jobs:
       cache-key: "fetch-cache"
       pre-run-command: "python -m lab_tools.extract --testi-only"
       run-command: "make toolkit-run"
+      # Checkout shallow: il publish non legge la storia.
+      #   - detect: `gh pr view --json files` (API)
+      #   - registry: ricrea e pusha un branch proprio, con lease esplicita
+      #     (dataciviclab/.github#49), quindi non gli serve il ref remoto
+      # Misurato sul weekly 45185013516: checkout 169s con `fetch-depth: 0` su
+      # un `.git` da 1,68 GiB, contro 56s del build che usa sparse-checkout.
+      # Se il registry tornasse alla lease implicita, `1` romperebbe dal
+      # secondo run (`(stale info)`): il vincolo è scritto qui di proposito.
+      checkout-fetch-depth: "1"
     permissions:
       contents: write
       pull-requests: write
