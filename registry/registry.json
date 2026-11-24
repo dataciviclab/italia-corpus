@@ -2,7 +2,7 @@
   "schema_version": 1,
   "repo": "italia-corpus",
   "source_repo": "dataciviclab/italia-corpus",
-  "updated_at": "2026-11-23",
+  "updated_at": "2026-11-24",
   "datasets": [
     {
       "slug": "akn_act_meta",
@@ -1117,6 +1117,12 @@
           "description": ""
         },
         {
+          "name": "articolo",
+          "type": "VARCHAR",
+          "role": "dimension",
+          "description": ""
+        },
+        {
           "name": "clausola_lettura",
           "type": "BOOLEAN",
           "role": "dimension",
@@ -1558,7 +1564,7 @@
       "detail": "anno 2026 — mart: si",
       "action": "",
       "run": {
-        "run_id": "20261123T141341Z_7e4e521f",
+        "run_id": "20261124T112710Z_908969f1",
         "year": 2026,
         "status": "SUCCESS",
         "quality_score": {
@@ -1567,17 +1573,17 @@
           "mart": 100
         },
         "output_rows": {
-          "clean": 398693,
-          "mart": 298150
+          "clean": 401172,
+          "mart": 299469
         },
         "output_bytes": {
-          "raw": 31496636,
-          "clean": 18424706,
-          "mart": 13063640
+          "raw": 31670079,
+          "clean": 18506706,
+          "mart": 14473314
         },
-        "started_at": "2026-11-23T14:13:41.878089+00:00",
-        "finished_at": "2026-11-23T14:13:43.567437+00:00",
-        "duration_seconds": 1.689
+        "started_at": "2026-11-24T11:27:10.892001+00:00",
+        "finished_at": "2026-11-24T11:27:12.601240+00:00",
+        "duration_seconds": 1.709
       }
     },
     {
