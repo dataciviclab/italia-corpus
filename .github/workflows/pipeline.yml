@@ -43,6 +43,10 @@ on:
         description: "Collezioni per il backfill allegati (nomi esatti, virgola; vuoto = tutte)"
         type: string
         default: ""
+      allow_raw_sync:
+        description: "Consente il sync del raw layer da un branch (solo per validare una derive prima del merge)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -278,7 +282,13 @@ jobs:
       # `testi` (98 MB) resta generato dal publish; `status`/manifest sono
       # solo del build.
       - name: Sync raw derivati to GCS
-        if: env.GCP_WORKLOAD_IDENTITY_PROVIDER != '' && env.GCP_SERVICE_ACCOUNT != '' && github.ref == 'refs/heads/main'
+        # Il raw è condiviso: per default si scrive solo da `main`. Un dispatch
+        # può forzarlo (`allow_raw_sync`) per validare una modifica alla derive
+        # prima del merge — è opt-in ed esplicito, non un default.
+        if: |
+          env.GCP_WORKLOAD_IDENTITY_PROVIDER != '' && env.GCP_SERVICE_ACCOUNT != '' &&
+          (github.ref == 'refs/heads/main' ||
+           (github.event_name == 'workflow_dispatch' && inputs.allow_raw_sync))
         run: |
           # Non si cancella mai dal layer: è l'unica copia. Un raw assente in
           # questa run (skip_fetch, WAF, Cellar) lascia la copia buona

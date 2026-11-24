@@ -13,14 +13,18 @@ from lab_tools.grafo_riferimenti import (
     _chiave_ue,
     _dedup_archi,
     _risolvi_bersaglio,
+    _tronca,
     _verifica_celex,
     _verifica_esiti,
     _verifica_invarianti,
+    _verifica_origine_delega,
     _verifica_pk_unica,
     dominio_urn,
     esito_bersaglio,
+    estrai_deleghe_preambolo,
     estrai_link,
     estrai_link_con_contesto,
+    preambolo,
     risolvi_celex,
     risolvi_path,
 )
@@ -950,3 +954,81 @@ class TestRepealNelMart:
         monkeypatch.setattr(g, "OUTDIR", tmp_path)
         archi = g._archi_da_akn_relations({}, {"urn:nir:stato:legge:2020-01-01;1": "Leggi/2020.md"})
         assert [a["rel_type"] for a in archi] == ["citation"]
+
+
+class TestDelegaPreambolo:
+    """Delega dal preambolo: link + articolo, prima delle citazioni di merito.
+
+    La base della delega sta nel preambolo, in due forme:
+    «Visto l'articolo 1, comma 1, della legge …» e «Vista la legge …, recante
+    «Delega al Governo …» e, in particolare, l'articolo 2, comma 2».
+    """
+
+    def test_preambolo_si_ferma_al_primo_articolo(self):
+        raw = "IL PRESIDENTE\nVisto l'articolo 1 della legge;\n## Art. 1.\nTesto"
+        assert "Art. 1" not in preambolo(raw)
+        assert "Visto l'articolo 1" in preambolo(raw)
+
+    def test_articolo_prima_della_legge(self):
+        righe = estrai_deleghe_preambolo(
+            "Visto l'articolo 1, comma 1, della [legge 15 marzo 1997, n. 59](../x.md);"
+        )
+        assert len(righe) == 1
+        assert righe[0]["articolo"] == "art_1-com1"
+        assert righe[0]["urn"] == ""
+        assert righe[0]["href"] == "../x.md"
+
+    def test_articolo_dopo_la_legge_con_urn_assoluto(self):
+        righe = estrai_deleghe_preambolo(
+            "Vista la [legge 14 marzo 2025, n. 26]"
+            "(https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-03-14;26), "
+            "recante «Delega al Governo», e in particolare l'articolo 2, comma 2;"
+        )
+        assert righe[0]["articolo"] == "art_2-com2"
+        assert righe[0]["urn"] == "urn:nir:stato:legge:2025-03-14;26"
+
+    def test_legge_senza_articolo_resta_un_candidato(self):
+        """Negli atti vecchi il preambolo nomina la legge senza articolo.
+
+        Misurato 2026-11-24: 360 deleghe vere erano perse perché la riga non
+        conteneva «articolo N». L'articolo è un locator, non una condizione.
+        """
+        righe = estrai_deleghe_preambolo(
+            "Vista la [legge 9 novembre 1988, n. 417](../x.md), recante «Delega al Governo»;"
+        )
+        assert len(righe) == 1
+        assert righe[0]["articolo"] is None
+        assert righe[0]["href"] == "../x.md"
+
+    def test_contesto_troncato_a_confine_di_parola(self):
+        """Il contesto non deve finire a metà parola: sembra un refuso."""
+        lungo = "Vista la legge " + "parola " * 80
+        corto = _tronca(lungo, 40)
+        assert len(corto) <= 40
+        assert not corto.endswith("paro")
+        assert _tronca("breve", 40) == "breve"
+
+    def test_art_abbreviato(self):
+        """Il corpus scrive anche «art. 12»: la regex deve coprirlo.
+
+        Misurato 2026-11-24: 54 delle 121 coppie nuove e 27 delle 1.209
+        confermate avevano l'articolo nel contesto ma non nella colonna.
+        """
+        righe = estrai_deleghe_preambolo(
+            "Visto l'[art. 12, comma 11, della legge 24 dicembre 1993, n. 537](../x.md);"
+        )
+        assert righe[0]["articolo"] == "art_12-com11"
+
+    def test_articolo_al_link_piu_vicino(self):
+        """Con più link nella frase l'articolo non va attribuito a tutti."""
+        righe = estrai_deleghe_preambolo(
+            "Visto l'[art. 5 della legge A](../a.md) e il [d.lgs 545/1992](../b.md);"
+        )
+        assert righe[0]["articolo"] == "art_5"
+        assert righe[1]["articolo"] is None
+
+    def test_origine_delega_solo_dal_preambolo(self):
+        """Un arco `delega` da un'altra origine va bloccato alla fonte."""
+        _verifica_origine_delega([{"rel_type": "delega", "origine": "preambolo"}])
+        with pytest.raises(ValueError):
+            _verifica_origine_delega([{"rel_type": "delega", "origine": "akn"}])

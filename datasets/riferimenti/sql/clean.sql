@@ -97,6 +97,9 @@ WITH base AS (
         -- Contesto del link (evidence per legal-graph): snippet ±120 char attorno al link.
         -- Aggiunto 2026-10 (cross-check LcnT): backward-compatible, nullable.
         COALESCE(contesto, '') AS contesto,
+        -- Locator della base di delega (`art_N[-comM]`), solo righe `delega`.
+        -- Colonna additiva: il contesto è troncato e non basta a ricavarlo.
+        NULLIF(normalize_string(raw_input.articolo), '') AS articolo,
         -- Clausola di lettura ("al solo fine di facilitare la lettura"): rinvio
         -- di consultazione, non citazione normativa. NULL = contesto assente
         -- (archi AKN, oggi segnaposto akn:ref) → non classificabile.
@@ -140,5 +143,6 @@ SELECT
     normalize_string(origine)         AS origine,
     normalize_string(rel_type)        AS rel_type,
     LEFT(contesto, 240)               AS contesto,
+    articolo,
     CAST(clausola_lettura AS BOOLEAN) AS clausola_lettura
 FROM base
