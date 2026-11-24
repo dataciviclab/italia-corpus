@@ -504,6 +504,18 @@ def _load_urn_to_relpath() -> dict[str, str]:
     return expand_index(pairs)
 
 
+def _verifica_origine_delega(archi: list[dict]) -> None:
+    """`rel_type='delega'` può nascere solo dal preambolo.
+
+    Il consumer (legal-graph) filtra per `rel_type` perché il mart non porta
+    `origine`; l'invariante va quindi garantita qui, dove il dato esiste.
+    """
+    origini = {a.get("origine") for a in archi if a.get("rel_type") == "delega"}
+    inattese = origini - {"preambolo"}
+    if inattese:
+        raise ValueError(f"archi `delega` da origini inattese: {sorted(inattese)}")
+
+
 def _chiave_arco(a: dict) -> tuple[str, str, str]:
     """Chiave dell'arco = PK del clean (fonte_source_path, bersaglio_source_path,
     origine), derivata **esattamente** come in
@@ -1491,6 +1503,7 @@ def main():
         arco["esito"] = esito_bersaglio(arco, catalogo_urns)
     _verifica_esiti(archi, catalogo_disponibile=bool(catalogo_urns))
     _verifica_celex(archi)
+    _verifica_origine_delega(archi)
 
     if n_fallback_identita:
         print(f"  risolti per identità (data_codice): {n_fallback_identita}")

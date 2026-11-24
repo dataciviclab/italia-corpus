@@ -17,6 +17,7 @@ from lab_tools.grafo_riferimenti import (
     _verifica_celex,
     _verifica_esiti,
     _verifica_invarianti,
+    _verifica_origine_delega,
     _verifica_pk_unica,
     dominio_urn,
     esito_bersaglio,
@@ -1025,3 +1026,9 @@ class TestDelegaPreambolo:
         )
         assert righe[0]["articolo"] == "art_5"
         assert righe[1]["articolo"] is None
+
+    def test_origine_delega_solo_dal_preambolo(self):
+        """Un arco `delega` da un'altra origine va bloccato alla fonte."""
+        _verifica_origine_delega([{"rel_type": "delega", "origine": "preambolo"}])
+        with pytest.raises(ValueError):
+            _verifica_origine_delega([{"rel_type": "delega", "origine": "akn"}])
