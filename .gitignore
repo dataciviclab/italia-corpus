@@ -39,3 +39,8 @@ data/derived/*.parquet
 data/derived/atti_index.parquet
 # Testi (dataset testi, ~98MB): rigenerato dal publish con `make extract`
 data/derived/testi.parquet
+
+# Export locali di analisi (testi per articolo, ~134MB): fuori da git, non
+# rigenerati dalla pipeline — `datasets/testi` legge data/derived/testi.parquet
+data/testi_parquet/
+data/derived/testi_articoli.manifest.json
