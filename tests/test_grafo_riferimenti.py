@@ -985,8 +985,15 @@ class TestDelegaPreambolo:
         assert righe[0]["articolo"] == "art_2-com2"
         assert righe[0]["urn"] == "urn:nir:stato:legge:2025-03-14;26"
 
-    def test_riga_senza_articolo_non_produce_candidati(self):
+    def test_legge_senza_articolo_resta_un_candidato(self):
+        """Negli atti vecchi il preambolo nomina la legge senza articolo.
+
+        Misurato 2026-11-24: 360 deleghe vere erano perse perché la riga non
+        conteneva «articolo N». L'articolo è un locator, non una condizione.
+        """
         righe = estrai_deleghe_preambolo(
-            "Vista la [legge 23 agosto 1988, n. 400](../x.md), recante «Disciplina»;"
+            "Vista la [legge 9 novembre 1988, n. 417](../x.md), recante «Delega al Governo»;"
         )
-        assert righe == []
+        assert len(righe) == 1
+        assert righe[0]["articolo"] is None
+        assert righe[0]["href"] == "../x.md"

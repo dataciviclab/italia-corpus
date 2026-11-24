@@ -164,12 +164,15 @@ def estrai_deleghe_preambolo(pre: str) -> list[dict]:
     """
     righe: list[dict] = []
     for riga in re.split(r";\s*\n|\n", pre):
+        # L'articolo è **opzionale**: negli atti più vecchi il preambolo nomina
+        # la legge senza «articolo N» («Vista la legge 9 novembre 1988, n. 417»).
+        # Scartare quelle righe perdeva 360 deleghe vere (misurato 2026-11-24).
         m = RE_ARTICOLO_PREAMBOLO.search(riga)
-        if not m:
-            continue
-        articolo = f"art_{m.group(1)}"
-        if m.group(2):
-            articolo += f"-com{m.group(2)}"
+        articolo = None
+        if m:
+            articolo = f"art_{m.group(1)}"
+            if m.group(2):
+                articolo += f"-com{m.group(2)}"
         contesto = re.sub(r"\s+", " ", riga).strip()[:300]
         for link in RE_LINK_QUALSIASI.finditer(riga):
             href = urllib.parse.unquote(link.group(1))
