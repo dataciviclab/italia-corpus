@@ -13,6 +13,7 @@ from lab_tools.grafo_riferimenti import (
     _chiave_ue,
     _dedup_archi,
     _risolvi_bersaglio,
+    _tronca,
     _verifica_celex,
     _verifica_esiti,
     _verifica_invarianti,
@@ -997,3 +998,11 @@ class TestDelegaPreambolo:
         assert len(righe) == 1
         assert righe[0]["articolo"] is None
         assert righe[0]["href"] == "../x.md"
+
+    def test_contesto_troncato_a_confine_di_parola(self):
+        """Il contesto non deve finire a metà parola: sembra un refuso."""
+        lungo = "Vista la legge " + "parola " * 80
+        corto = _tronca(lungo, 40)
+        assert len(corto) <= 40
+        assert not corto.endswith("paro")
+        assert _tronca("breve", 40) == "breve"

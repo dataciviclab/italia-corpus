@@ -149,6 +149,15 @@ RE_FORMULA_DELEGA = re.compile(
 )
 
 
+def _tronca(testo: str, limite: int = 300) -> str:
+    """Tronca a un confine di parola: un taglio a metà parola sembra un refuso."""
+    if len(testo) <= limite:
+        return testo
+    tagliato = testo[:limite]
+    spazio = tagliato.rfind(" ")
+    return tagliato[:spazio].rstrip() if spazio > 0 else tagliato
+
+
 def preambolo(raw: str, limite: int = 6000) -> str:
     """Testo del preambolo: dall'inizio al primo articolo."""
     m = RE_PREAMBOLO_FINE.search(raw)
@@ -173,7 +182,7 @@ def estrai_deleghe_preambolo(pre: str) -> list[dict]:
             articolo = f"art_{m.group(1)}"
             if m.group(2):
                 articolo += f"-com{m.group(2)}"
-        contesto = re.sub(r"\s+", " ", riga).strip()[:300]
+        contesto = _tronca(re.sub(r"\s+", " ", riga).strip())
         for link in RE_LINK_QUALSIASI.finditer(riga):
             href = urllib.parse.unquote(link.group(1))
             m_urn = RE_URN_LEGGE.search(href)
@@ -1415,6 +1424,9 @@ def main():
                             "rel_type": "delega",
                             "contesto": cand["contesto"],
                             "clausola_lettura": clausola_di_lettura(cand["contesto"]),
+                            # Locator della base di delega («art_2-com2»): colonna
+                            # additiva, non ricavabile dal contesto troncato.
+                            "articolo": cand["articolo"],
                         }
                     )
 
@@ -1475,9 +1487,12 @@ def main():
     try:
         import pandas as pd
         df = pd.DataFrame(archi)
-        # colonna origine sempre presente
+        # colonne sempre presenti: il clean le legge anche quando nessun arco
+        # le valorizza (derive senza deleghe).
         if "origine" not in df.columns:
             df["origine"] = "regex"
+        if "articolo" not in df.columns:
+            df["articolo"] = None
         pqt = OUTDIR / "riferimenti.parquet"
         df.to_parquet(pqt, index=False)
         print(f"Parquet: {pqt} ({len(df)} righe, {len(df.columns)} colonne)")

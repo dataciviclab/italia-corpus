@@ -25,6 +25,10 @@ SELECT
     -- nodi UE di legal-graph (join su `celex`, non sull'URN NIR).
     MIN(bersaglio_celex) AS bersaglio_celex,
     MIN(contesto) AS contesto,
+    -- Locator della base di delega: NULL per le altre relazioni. Con più
+    -- articoli sulla stessa coppia si tiene il primo in ordine, come per
+    -- `contesto`: è un locator, non un elenco.
+    MIN(articolo) AS articolo,
     BOOL_OR(clausola_lettura) AS clausola_lettura,
     -- serve alla guardia temporale del compose: l'eccezione per gli edge
     -- regex deboli (peso < 5) non vale per le citation AKN
