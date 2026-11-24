@@ -232,7 +232,14 @@ jobs:
         run: python -m lab_tools.monitor_sunsetting
       - name: Fetch atti API (leggi ordinarie)
         if: github.event_name != 'workflow_dispatch' || !inputs.skip_fetch
-        run: python -m lab_tools.fetch_urn_acts
+        # Non fatale, come `direttive_ue` e `atti_index`: il raw del layer è già
+        # stato ripristinato da `make fetch-raws` a inizio job, quindi se questo
+        # fetch fallisce il dataset `atti-api` pubblica la copia precedente.
+        # Senza fallback un timeout qui (~10 min, ~2.5s/atto) rende rosso il
+        # build: `publish` gira solo su `success` e gli step successivi (upload
+        # raw compreso) vengono saltati — si perderebbe la pubblicazione della
+        # settimana per un feed che non alimenta il corpus.
+        run: python -m lab_tools.fetch_urn_acts || echo "::warning::atti_api non rigenerato (WAF/rate limit?) — resta il raw del layer"
         # Rate limit: ~2.5s/atto × ~102 atti = ~4 min.
         # Fetch on-demand: python -m lab_tools.fetch_urn_acts --urn "urn:..."
       # Questi due li paga il build (normativa/atti_api freschi) e finiscono
