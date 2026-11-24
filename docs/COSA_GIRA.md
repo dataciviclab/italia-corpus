@@ -15,6 +15,10 @@ Tre cose, nient'altro:
 
 ## Il giro settimanale (un workflow, lunedì 03:30 UTC)
 
+> Il cron è 03:30 UTC, ma GitHub **accoda** gli schedule: i run osservati sono
+> partiti tra le 11:36 e le 16:32 UTC. Non contare sull'ora per l'ordine con
+> gli altri repo.
+
 ```text
 job build
 1. probe      → guarda quali formati offre Normattiva (1 richiesta)
@@ -36,7 +40,7 @@ la run dopo non ripaga la rete.
 Se un passo di rete fallisce (WAF), il resto prosegue con i dati del giorno
 prima: `make stato` mostra l'età di ogni file.
 
-Ogni **giorno** gira solo il probe dei formati (`probe.yml`, 4 secondi): è
+Ogni **giorno** gira solo il probe dei formati (`probe.yml`, ~30 secondi): è
 l'unico che deve accorgersi subito di un cambio di formato della fonte.
 
 ## Cosa toccare per cambiare cosa
@@ -56,7 +60,7 @@ l'unico che deve accorgersi subito di un cambio di formato della fonte.
 ```bash
 make stato             # una schermata: freschezza, copertura, freeze
 make probe-collezioni  # formati disponibili oggi (1 richiesta)
-make test              # 475 test
+make test              # 578 test
 ```
 
 ## Fragilità note (e perché esistono)
