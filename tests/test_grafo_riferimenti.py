@@ -1006,3 +1006,22 @@ class TestDelegaPreambolo:
         assert len(corto) <= 40
         assert not corto.endswith("paro")
         assert _tronca("breve", 40) == "breve"
+
+    def test_art_abbreviato(self):
+        """Il corpus scrive anche «art. 12»: la regex deve coprirlo.
+
+        Misurato 2026-11-24: 54 delle 121 coppie nuove e 27 delle 1.209
+        confermate avevano l'articolo nel contesto ma non nella colonna.
+        """
+        righe = estrai_deleghe_preambolo(
+            "Visto l'[art. 12, comma 11, della legge 24 dicembre 1993, n. 537](../x.md);"
+        )
+        assert righe[0]["articolo"] == "art_12-com11"
+
+    def test_articolo_al_link_piu_vicino(self):
+        """Con più link nella frase l'articolo non va attribuito a tutti."""
+        righe = estrai_deleghe_preambolo(
+            "Visto l'[art. 5 della legge A](../a.md) e il [d.lgs 545/1992](../b.md);"
+        )
+        assert righe[0]["articolo"] == "art_5"
+        assert righe[1]["articolo"] is None

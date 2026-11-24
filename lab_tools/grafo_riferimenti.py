@@ -137,7 +137,9 @@ def _load_normativa_lookup() -> dict[str, dict]:
 # in particolare, l'articolo 2, comma 2». Il preambolo finisce al primo
 # articolo: dopo, i link sono citazioni di merito, non basi di delega.
 RE_PREAMBOLO_FINE = re.compile(r"(?m)^#{1,4}\s*Art\.")
-RE_ARTICOLO_PREAMBOLO = re.compile(r"articolo\s+(\d+[a-z]?)(?:\s*,\s*comma\s+(\d+))?", re.I)
+RE_ARTICOLO_PREAMBOLO = re.compile(
+    r"\bart(?:icolo)?\.?\s*(\d+[a-z]?)(?:\s*,\s*comma\s+(\d+))?", re.I
+)
 RE_URN_LEGGE = re.compile(r"urn:nir:stato:legge:(\d{4}-\d{2}-\d{2});(\d+)")
 # Nel preambolo il link può essere relativo (`../Leggi delega/x.md`) **o**
 # assoluto su Normattiva (`uri-res/N2Ls?urn:nir:stato:legge:...`): il secondo
@@ -173,17 +175,30 @@ def estrai_deleghe_preambolo(pre: str) -> list[dict]:
     """
     righe: list[dict] = []
     for riga in re.split(r";\s*\n|\n", pre):
+        links = list(RE_LINK_QUALSIASI.finditer(riga))
+        if not links:
+            continue
         # L'articolo è **opzionale**: negli atti più vecchi il preambolo nomina
-        # la legge senza «articolo N» («Vista la legge 9 novembre 1988, n. 417»).
+        # la legge senza articolo («Vista la legge 9 novembre 1988, n. 417»).
         # Scartare quelle righe perdeva 360 deleghe vere (misurato 2026-11-24).
-        m = RE_ARTICOLO_PREAMBOLO.search(riga)
-        articolo = None
-        if m:
-            articolo = f"art_{m.group(1)}"
-            if m.group(2):
-                articolo += f"-com{m.group(2)}"
-        contesto = _tronca(re.sub(r"\s+", " ", riga).strip())
-        for link in RE_LINK_QUALSIASI.finditer(riga):
+        articoli = list(RE_ARTICOLO_PREAMBOLO.finditer(riga))
+        # Il contesto è tagliato a 240 come il clean (`LEFT(contesto, 240)`):
+        # tagliare a 300 qui e a 240 là spostava il taglio a metà parola.
+        contesto = _tronca(re.sub(r"\s+", " ", riga).strip(), 240)
+        for i, link in enumerate(links):
+            articolo = None
+            if articoli:
+                # Assegnazione **mutua**: un articolo appartiene al link a cui è
+                # più vicino. In una frase con più link (es. «visto l'art. 12
+                # della legge X e il d.lgs Y») non va attribuito a tutti.
+                near = min(articoli, key=lambda a: abs(a.start() - link.start()))
+                piu_vicino = min(
+                    range(len(links)), key=lambda k: abs(links[k].start() - near.start())
+                )
+                if piu_vicino == i:
+                    articolo = f"art_{near.group(1)}"
+                    if near.group(2):
+                        articolo += f"-com{near.group(2)}"
             href = urllib.parse.unquote(link.group(1))
             m_urn = RE_URN_LEGGE.search(href)
             if m_urn:
