@@ -1,6 +1,6 @@
 # URN ammessi a sparire rispetto al build precedente (main).
 #
-# Il contract check (`build-dataset.yml`) confronta l'insieme degli URN del
+# Il contract check (`pipeline.yml`) confronta l'insieme degli URN del
 # build con quello di main: `set(build) ⊇ set(main)`. Una voce qui è una
 # **deroga esplicita**: va motivata (atto ritirato dalla fonte, con data).
 #
