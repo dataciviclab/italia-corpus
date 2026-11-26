@@ -1,19 +1,18 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "repo": "italia-corpus",
   "source_repo": "dataciviclab/italia-corpus",
-  "updated_at": "2026-11-24",
+  "updated_at": "2026-11-26",
+  "gcs": {
+    "clean": "year",
+    "prefix": "italia-corpus/"
+  },
   "datasets": [
     {
       "slug": "akn_act_meta",
       "name": "Akn Act Meta",
       "description": "Metadati AKN per atto (EIV, ELI, mod counts, workflow). Una riga per atto con XML AKN processato. PK = fonte_file.",
-      "source": "",
       "source_id": "italia_corpus",
-      "period": {
-        "start": 1874,
-        "end": 2026
-      },
       "tags": [
         "normativa",
         "akn",
@@ -21,125 +20,110 @@
         "eiv"
       ],
       "category": "normativa",
+      "period": {
+        "start": 1874,
+        "end": 2026
+      },
+      "partitions": {
+        "2026": 20812
+      },
       "columns": [
         {
           "name": "fonte_file",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "fonte_urn",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "fonte_codice",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "eiv_raw",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "eiv",
           "type": "DATE",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "eli_version",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "eli_type_document",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "eli_date_document",
           "type": "DATE",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "n_refs",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "n_event_ref",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "n_repeal_events",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "n_active_mods",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "mod_types_json",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "has_workflow",
           "type": "BOOLEAN",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "n_passive_ref",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "event_types_json",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         }
       ],
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-clean/italia-corpus/akn_act_meta/2026/akn_act_meta_2026_clean.parquet",
-        "multi_file": false
-      },
-      "stage": "incubating",
       "mart_refs": [
         "akn_act_meta__mart_eiv_per_decennio",
         "akn_act_meta__mart_modifiche_anno"
-      ]
+      ],
+      "last_run": {
+        "at": "2026-11-26T13:55:49.221003+00:00",
+        "year": 2026,
+        "status": "SUCCESS"
+      }
     },
     {
       "slug": "akn_relations",
       "name": "Akn Relations",
       "description": "Relazioni AKN tipizzate dal corpus Normattiva (citation, insertion, repeal, substitution, eventRef, passiveRef). Una riga per relazione estratta dall'XML.",
-      "source": "",
       "source_id": "italia_corpus",
-      "period": {
-        "start": 1874,
-        "end": 2026
-      },
       "tags": [
         "normativa",
         "akn",
@@ -147,89 +131,80 @@
         "relazioni"
       ],
       "category": "normativa",
+      "period": {
+        "start": 1874,
+        "end": 2026
+      },
+      "partitions": {
+        "2026": 384951
+      },
       "columns": [
         {
           "name": "edge_id",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "fonte_urn",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "fonte_codice",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "target_urn",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "rel_type",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "origin",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "detail",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "locator",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "articolo",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "contesto",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         }
       ],
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-clean/italia-corpus/akn_relations/2026/akn_relations_2026_clean.parquet",
-        "multi_file": false
-      },
-      "stage": "incubating",
       "mart_refs": [
         "akn_relations__mart_relazioni_per_tipo",
         "akn_relations__mart_modifiche_tipizzate"
-      ]
+      ],
+      "last_run": {
+        "at": "2026-11-26T13:55:49.909082+00:00",
+        "year": 2026,
+        "status": "SUCCESS"
+      }
     },
     {
       "slug": "atti_api",
       "name": "Atti Api",
       "description": "Atti fetchati singolarmente via Normattiva API (`dettaglio-atto-urn`): leggi ordinarie fuori dalle collezioni ZIP, con vigenza reale. Contratto atto-level: metadati + vigenza + materia. Il testo NON fa parte del contratto (l'endpoint restituisce un solo articolo e resta nel raw): il dataset testi sarà `articoli`. Alimenta i nodi `atti_api` di legal-graph.\n",
-      "source": "",
       "source_id": "italia_corpus",
-      "period": {
-        "start": 1865,
-        "end": 2026
-      },
       "tags": [
         "normativa",
         "atti",
@@ -238,126 +213,111 @@
         "fuori-collezione"
       ],
       "category": "normativa",
+      "period": {
+        "start": 1865,
+        "end": 2026
+      },
+      "partitions": {
+        "2026": 171
+      },
       "columns": [
         {
           "name": "urn",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "titolo",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "sotto_titolo",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "tipo_codice",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "tipo_descrizione",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "numero",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "anno",
           "type": "INTEGER",
           "role": "dimension",
-          "description": "",
           "semantic_type": "year"
         },
         {
           "name": "anno_gu",
           "type": "INTEGER",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "numero_gu",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "vigenza_inizio",
           "type": "DATE",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "vigenza_fine",
           "type": "DATE",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "stato",
           "type": "VARCHAR",
           "role": "dimension",
-          "description": "",
           "semantic_type": "country_code"
         },
         {
           "name": "materia",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "n_articoli",
           "type": "INTEGER",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "source",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "fetched_at",
           "type": "TIMESTAMP",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         }
       ],
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-clean/italia-corpus/atti_api/2026/atti_api_2026_clean.parquet",
-        "multi_file": false
-      },
-      "stage": "incubating",
       "mart_refs": [
         "atti_api__mart_atti_api_materia"
-      ]
+      ],
+      "last_run": {
+        "at": "2026-11-26T13:55:52.024760+00:00",
+        "year": 2026,
+        "status": "SUCCESS"
+      }
     },
     {
       "slug": "atti_index",
       "name": "Atti Index",
       "description": "Catalogo ufficiale Normattiva (una riga per atto, ~205k): identità (codice_redazionale + data GU), stato dalla classe ufficiale (3 = lista abrogati), appartenenza al corpus (in_corpus) e URN quando determinabile. Serve a dire quanto manca e ad agganciare le citazioni a un'identità. Metadati, nessun testo.\n",
-      "source": "",
       "source_id": "italia_corpus",
-      "period": {
-        "start": 1861,
-        "end": 2026
-      },
       "tags": [
         "normativa",
         "catalogo",
@@ -366,150 +326,131 @@
         "normattiva"
       ],
       "category": "normativa",
+      "period": {
+        "start": 1861,
+        "end": 2026
+      },
+      "partitions": {
+        "2026": 205133
+      },
       "columns": [
         {
           "name": "codice_redazionale",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "data_gu",
           "type": "DATE",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "classe",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "stato",
           "type": "VARCHAR",
           "role": "dimension",
-          "description": "",
           "semantic_type": "country_code"
         },
         {
           "name": "denominazione",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "anno",
           "type": "INTEGER",
           "role": "dimension",
-          "description": "",
           "semantic_type": "year"
         },
         {
           "name": "numero",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "data_emanazione",
           "type": "DATE",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "numero_gu",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "titolo",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "descrizione",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "in_corpus",
           "type": "BOOLEAN",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "corpus_urn",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "corpus_filename",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "tipo_slug",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "emittente",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "urn",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "urn_fonte",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "materia",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "fetched_at",
           "type": "TIMESTAMP",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         }
       ],
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-clean/italia-corpus/atti_index/2026/atti_index_2026_clean.parquet",
-        "multi_file": false
-      },
-      "stage": "incubating",
       "mart_refs": [
         "atti_index__mart_catalogo_copertura"
-      ]
+      ],
+      "last_run": {
+        "at": "2026-11-26T13:55:52.592861+00:00",
+        "year": 2026,
+        "status": "SUCCESS"
+      }
     },
     {
       "slug": "direttive_ue",
       "name": "Direttive Ue",
       "description": "Direttive UE citate dalle leggi italiane, con identità CELEX e metadati minimi da CELLAR (titolo, data, scadenza di recepimento) e misure nazionali italiane per il ritardo di recepimento. Una riga per direttiva (CELEX); le due grafie URN di Normattiva collassano su `urn_varianti`. Nessun testo: il link resta su EUR-Lex.\n",
-      "source": "",
       "source_id": "italia_corpus",
-      "period": {
-        "start": 1958,
-        "end": 2026
-      },
       "tags": [
         "ue",
         "direttive",
@@ -519,161 +460,140 @@
         "celex"
       ],
       "category": "normativa",
+      "period": {
+        "start": 1958,
+        "end": 2026
+      },
+      "partitions": {
+        "2026": 2672
+      },
       "columns": [
         {
           "name": "celex",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "urn_varianti",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "n_citazioni",
           "type": "INTEGER",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "stato",
           "type": "VARCHAR",
           "role": "dimension",
-          "description": "",
           "semantic_type": "country_code"
         },
         {
           "name": "motivo",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "work_uri",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "titolo_ita",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "titolo_eng",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "titolo",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "data",
           "type": "DATE",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "scadenze",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "scadenza_recepimento",
           "type": "DATE",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "n_scadenze",
           "type": "INTEGER",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "in_vigore",
           "type": "BOOLEAN",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "n_misure_ita",
           "type": "INTEGER",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "prima_notifica_ita",
           "type": "DATE",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "prima_misura_ita_data",
           "type": "DATE",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "ritardo_recepimento_giorni",
           "type": "INTEGER",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "ritardo_plausibile",
           "type": "BOOLEAN",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "misura_ita_titolo",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "eurlex_url",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "eli_url",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         }
       ],
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-clean/italia-corpus/direttive_ue/2026/direttive_ue_2026_clean.parquet",
-        "multi_file": false
-      },
-      "stage": "incubating",
       "mart_refs": [
         "direttive_ue__mart_direttive_per_anno"
-      ]
+      ],
+      "last_run": {
+        "at": "2026-11-26T13:55:54.154153+00:00",
+        "year": 2026,
+        "status": "SUCCESS"
+      }
     },
     {
       "slug": "normativa",
       "name": "Normativa",
       "description": "Corpus normativa Italia (Normattiva → AKN/MD): una riga per file atto del corpus. PK tecnico = filename (univoco). urn può ripetersi (ORIGINALE + VIGENZA). Include qualità grafo, materia tematica, sunsetting e metadati AKN (EIV).",
-      "source": "",
       "source_id": "italia_corpus",
-      "period": {
-        "start": 1874,
-        "end": 2026
-      },
       "tags": [
         "normativa",
         "corpus",
@@ -681,283 +601,242 @@
         "italia"
       ],
       "category": "normativa",
+      "period": {
+        "start": 1874,
+        "end": 2026
+      },
+      "partitions": {
+        "2026": 22412
+      },
       "columns": [
         {
           "name": "filename",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "collezione",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "tipo",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "data",
           "type": "DATE",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "numero",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "oggetto",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "celex",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "anno_atto",
           "type": "INTEGER",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "anno_dir",
           "type": "INTEGER",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "ritardo",
           "type": "DOUBLE",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "urn",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "codice_redazionale",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "versione",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "snapshot_data",
           "type": "DATE",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "is_current",
           "type": "BOOLEAN",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "stato",
           "type": "VARCHAR",
           "role": "dimension",
-          "description": "",
           "semantic_type": "country_code"
         },
         {
           "name": "vigente",
           "type": "BOOLEAN",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "vigenza_fonte",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "lunghezza_caratteri",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "lunghezza_parole",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "riferimenti_interni",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "duplicato",
           "type": "BOOLEAN",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "n_citazioni",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "orfano",
           "type": "BOOLEAN",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "qualita_score",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "materia",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "sunsetting_score",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "eta_anni",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "anni_senza_citazioni",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "ingresso_in_vigore",
           "type": "DATE",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "akn_n_refs",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "akn_n_active_mods",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "akn_n_passive_ref",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "akn_n_repeal_events",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "akn_mod_types",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "akn_has_workflow",
           "type": "BOOLEAN",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "akn_meta_source",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "n_articoli_cost",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "articoli_cost",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "abrogato_da",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "n_abrogazioni",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "atto_id",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         }
       ],
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-clean/italia-corpus/normativa/2026/normativa_2026_clean.parquet",
-        "multi_file": false
-      },
-      "stage": "incubating",
       "mart_refs": [
         "normativa__mart_atti_per_tipo",
         "normativa__mart_materia_stato",
         "normativa__mart_candidati_sunsetting"
-      ]
+      ],
+      "last_run": {
+        "at": "2026-11-26T13:55:54.780261+00:00",
+        "year": 2026,
+        "status": "SUCCESS"
+      }
     },
     {
       "slug": "riferimenti",
       "name": "Riferimenti",
       "description": "Grafo riferimenti del corpus normativa: archi fonte→bersaglio da regex markdown e citazioni AKN. PK = fonte_source_path + bersaglio_source_path + origine. Le colonne *_filename restano nel formato engine per legal-graph.",
-      "source": "",
       "source_id": "italia_corpus",
-      "period": {
-        "start": 1874,
-        "end": 2026
-      },
       "tags": [
         "normativa",
         "grafo",
@@ -965,176 +844,150 @@
         "riferimenti"
       ],
       "category": "normativa",
+      "period": {
+        "start": 1874,
+        "end": 2026
+      },
+      "partitions": {
+        "2026": 400822
+      },
       "columns": [
         {
           "name": "fonte_source_path",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "bersaglio_source_path",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "fonte_source_file",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "bersaglio_source_file",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "fonte_filename",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "fonte_urn",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "fonte_tipo",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "bersaglio_filename",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "bersaglio_urn",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "bersaglio_celex",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "bersaglio_id",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "fonte_anno",
           "type": "INTEGER",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "fonte_anno_espressione",
           "type": "INTEGER",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "bersaglio_anno",
           "type": "INTEGER",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "fonte_stato",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "bersaglio_stato",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "fonte_materia",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "bersaglio_materia",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "peso",
           "type": "BIGINT",
-          "role": "metric",
-          "description": ""
+          "role": "metric"
         },
         {
           "name": "risolto",
           "type": "BOOLEAN",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "dominio_bersaglio",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "esito",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "origine",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "rel_type",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "contesto",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "articolo",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "clausola_lettura",
           "type": "BOOLEAN",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         }
       ],
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-clean/italia-corpus/riferimenti/2026/riferimenti_2026_clean.parquet",
-        "multi_file": false
-      },
-      "stage": "incubating",
       "mart_refs": [
         "riferimenti__mart_riferimenti_urn",
         "riferimenti__mart_debt_legale",
@@ -1143,18 +996,18 @@
         "riferimenti__mart_citazioni_costituzionali",
         "riferimenti__mart_frontiera",
         "riferimenti__mart_frontiera_epoca"
-      ]
+      ],
+      "last_run": {
+        "at": "2026-11-26T13:55:55.596724+00:00",
+        "year": 2026,
+        "status": "SUCCESS"
+      }
     },
     {
       "slug": "testi",
       "name": "Testi",
       "description": "Testo del corpus normativa, una riga per espressione (`filename`). Document-level: è il body dei markdown già in `collezioni/` (zero fetch), non il testo strutturato per articolo/comma (quello sarà `articoli`, dal XML AKN). Serve alla ricerca full-text dei consumer (`legal_search` cerca oggi solo nei titoli) e a `legal_text` senza GitHub raw.\n",
-      "source": "",
       "source_id": "italia_corpus",
-      "period": {
-        "start": 1874,
-        "end": 2026
-      },
       "tags": [
         "normativa",
         "testi",
@@ -1162,35 +1015,38 @@
         "corpus"
       ],
       "category": "normativa",
+      "period": {
+        "start": 1874,
+        "end": 2026
+      },
+      "partitions": {
+        "2026": 22412
+      },
       "columns": [
         {
           "name": "filename",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "urn",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         },
         {
           "name": "testo",
           "type": "VARCHAR",
-          "role": "dimension",
-          "description": ""
+          "role": "dimension"
         }
       ],
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-clean/italia-corpus/testi/2026/testi_2026_clean.parquet",
-        "multi_file": false
-      },
-      "stage": "incubating",
       "mart_refs": [
         "testi__mart_testi_per_anno"
-      ]
+      ],
+      "last_run": {
+        "at": "2026-11-26T13:55:58.310821+00:00",
+        "year": 2026,
+        "status": "SUCCESS"
+      }
     }
   ],
   "marts": [
@@ -1198,483 +1054,192 @@
       "slug": "akn_act_meta__mart_eiv_per_decennio",
       "dataset": "akn_act_meta",
       "table": "mart_eiv_per_decennio",
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-mart/italia-corpus/akn_act_meta/2026/mart_eiv_per_decennio.parquet",
-        "multi_file": false
-      }
+      "layout": "year",
+      "year": 2026,
+      "primary_key": [
+        "decennio"
+      ]
     },
     {
       "slug": "akn_act_meta__mart_modifiche_anno",
       "dataset": "akn_act_meta",
       "table": "mart_modifiche_anno",
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-mart/italia-corpus/akn_act_meta/2026/mart_modifiche_anno.parquet",
-        "multi_file": false
-      }
+      "layout": "year",
+      "year": 2026,
+      "primary_key": [
+        "anno_atto"
+      ]
     },
     {
       "slug": "akn_relations__mart_modifiche_tipizzate",
       "dataset": "akn_relations",
       "table": "mart_modifiche_tipizzate",
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-mart/italia-corpus/akn_relations/2026/mart_modifiche_tipizzate.parquet",
-        "multi_file": false
-      }
+      "layout": "year",
+      "year": 2026,
+      "primary_key": [
+        "rel_type"
+      ]
     },
     {
       "slug": "akn_relations__mart_relazioni_per_tipo",
       "dataset": "akn_relations",
       "table": "mart_relazioni_per_tipo",
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-mart/italia-corpus/akn_relations/2026/mart_relazioni_per_tipo.parquet",
-        "multi_file": false
-      }
+      "layout": "year",
+      "year": 2026,
+      "primary_key": [
+        "rel_type",
+        "origin"
+      ]
     },
     {
       "slug": "atti_api__mart_atti_api_materia",
       "dataset": "atti_api",
       "table": "mart_atti_api_materia",
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-mart/italia-corpus/atti_api/2026/mart_atti_api_materia.parquet",
-        "multi_file": false
-      }
+      "layout": "year",
+      "year": 2026,
+      "primary_key": [
+        "materia",
+        "stato"
+      ]
     },
     {
       "slug": "atti_index__mart_catalogo_copertura",
       "dataset": "atti_index",
       "table": "mart_catalogo_copertura",
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-mart/italia-corpus/atti_index/2026/mart_catalogo_copertura.parquet",
-        "multi_file": false
-      }
+      "layout": "year",
+      "year": 2026
     },
     {
       "slug": "direttive_ue__mart_direttive_per_anno",
       "dataset": "direttive_ue",
       "table": "mart_direttive_per_anno",
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-mart/italia-corpus/direttive_ue/2026/mart_direttive_per_anno.parquet",
-        "multi_file": false
-      }
+      "layout": "year",
+      "year": 2026,
+      "primary_key": [
+        "anno",
+        "stato"
+      ]
     },
     {
       "slug": "normativa__mart_atti_per_tipo",
       "dataset": "normativa",
       "table": "mart_atti_per_tipo",
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-mart/italia-corpus/normativa/2026/mart_atti_per_tipo.parquet",
-        "multi_file": false
-      }
+      "layout": "year",
+      "year": 2026,
+      "primary_key": [
+        "tipo",
+        "stato"
+      ]
     },
     {
       "slug": "normativa__mart_candidati_sunsetting",
       "dataset": "normativa",
       "table": "mart_candidati_sunsetting",
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-mart/italia-corpus/normativa/2026/mart_candidati_sunsetting.parquet",
-        "multi_file": false
-      }
+      "layout": "year",
+      "year": 2026,
+      "primary_key": [
+        "materia"
+      ]
     },
     {
       "slug": "normativa__mart_materia_stato",
       "dataset": "normativa",
       "table": "mart_materia_stato",
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-mart/italia-corpus/normativa/2026/mart_materia_stato.parquet",
-        "multi_file": false
-      }
+      "layout": "year",
+      "year": 2026,
+      "primary_key": [
+        "materia",
+        "stato"
+      ]
     },
     {
       "slug": "riferimenti__mart_citazioni_costituzionali",
       "dataset": "riferimenti",
       "table": "mart_citazioni_costituzionali",
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-mart/italia-corpus/riferimenti/2026/mart_citazioni_costituzionali.parquet",
-        "multi_file": false
-      }
+      "layout": "year",
+      "year": 2026,
+      "primary_key": [
+        "fonte_filename",
+        "articolo"
+      ]
     },
     {
       "slug": "riferimenti__mart_citazioni_per_origine",
       "dataset": "riferimenti",
       "table": "mart_citazioni_per_origine",
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-mart/italia-corpus/riferimenti/2026/mart_citazioni_per_origine.parquet",
-        "multi_file": false
-      }
+      "layout": "year",
+      "year": 2026,
+      "primary_key": [
+        "origine"
+      ]
     },
     {
       "slug": "riferimenti__mart_debt_legale",
       "dataset": "riferimenti",
       "table": "mart_debt_legale",
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-mart/italia-corpus/riferimenti/2026/mart_debt_legale.parquet",
-        "multi_file": false
-      }
+      "layout": "year",
+      "year": 2026,
+      "primary_key": [
+        "fonte_stato",
+        "bersaglio_stato",
+        "origine"
+      ]
     },
     {
       "slug": "riferimenti__mart_frontiera",
       "dataset": "riferimenti",
       "table": "mart_frontiera",
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-mart/italia-corpus/riferimenti/2026/mart_frontiera.parquet",
-        "multi_file": false
-      }
+      "layout": "year",
+      "year": 2026,
+      "primary_key": [
+        "dominio_bersaglio",
+        "esito"
+      ]
     },
     {
       "slug": "riferimenti__mart_frontiera_epoca",
       "dataset": "riferimenti",
       "table": "mart_frontiera_epoca",
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-mart/italia-corpus/riferimenti/2026/mart_frontiera_epoca.parquet",
-        "multi_file": false
-      }
+      "layout": "year",
+      "year": 2026,
+      "primary_key": [
+        "decennio_bersaglio",
+        "esito"
+      ]
     },
     {
       "slug": "riferimenti__mart_riferimenti_urn",
       "dataset": "riferimenti",
       "table": "mart_riferimenti_urn",
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-mart/italia-corpus/riferimenti/2026/mart_riferimenti_urn.parquet",
-        "multi_file": false
-      }
+      "layout": "year",
+      "year": 2026,
+      "primary_key": [
+        "fonte_urn",
+        "bersaglio_urn",
+        "rel_type"
+      ]
     },
     {
       "slug": "riferimenti__mart_top_bersagli",
       "dataset": "riferimenti",
       "table": "mart_top_bersagli",
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-mart/italia-corpus/riferimenti/2026/mart_top_bersagli.parquet",
-        "multi_file": false
-      }
+      "layout": "year",
+      "year": 2026,
+      "primary_key": [
+        "bersaglio_source_path"
+      ]
     },
     {
       "slug": "testi__mart_testi_per_anno",
       "dataset": "testi",
       "table": "mart_testi_per_anno",
-      "location": {
-        "type": "gcs",
-        "path": "gs://dataciviclab-mart/italia-corpus/testi/2026/mart_testi_per_anno.parquet",
-        "multi_file": false
-      }
+      "layout": "year",
+      "year": 2026,
+      "primary_key": [
+        "anno"
+      ]
     }
   ],
-  "signals": [
-    {
-      "id": "akn_act_meta",
-      "source_id": "italia_corpus",
-      "status": "ok",
-      "label": "akn_act_meta",
-      "detail": "anno 2026 — mart: si",
-      "action": "",
-      "run": {
-        "run_id": "20261123T141336Z_f4927ed1",
-        "year": 2026,
-        "status": "SUCCESS",
-        "quality_score": {
-          "raw": 100,
-          "clean": 100,
-          "mart": 100
-        },
-        "output_rows": {
-          "clean": 20811,
-          "mart": 242
-        },
-        "output_bytes": {
-          "raw": 762019,
-          "clean": 418148,
-          "mart": 4266
-        },
-        "started_at": "2026-11-23T14:13:36.164705+00:00",
-        "finished_at": "2026-11-23T14:13:36.368068+00:00",
-        "duration_seconds": 0.203
-      }
-    },
-    {
-      "id": "akn_relations",
-      "source_id": "italia_corpus",
-      "status": "ok",
-      "label": "akn_relations",
-      "detail": "anno 2026 — mart: si",
-      "action": "",
-      "run": {
-        "run_id": "20261123T141336Z_6c148374",
-        "year": 2026,
-        "status": "SUCCESS",
-        "quality_score": {
-          "raw": 100,
-          "clean": 100,
-          "mart": 100
-        },
-        "output_rows": {
-          "clean": 384935,
-          "mart": 15
-        },
-        "output_bytes": {
-          "raw": 31326192,
-          "clean": 23213781,
-          "mart": 2134
-        },
-        "started_at": "2026-11-23T14:13:36.834003+00:00",
-        "finished_at": "2026-11-23T14:13:38.147248+00:00",
-        "duration_seconds": 1.313
-      }
-    },
-    {
-      "id": "atti_api",
-      "source_id": "italia_corpus",
-      "status": "ok",
-      "label": "atti_api",
-      "detail": "anno 2026 — mart: si",
-      "action": "",
-      "run": {
-        "run_id": "20261123T141338Z_513de362",
-        "year": 2026,
-        "status": "SUCCESS",
-        "quality_score": {
-          "raw": 100,
-          "clean": 95,
-          "mart": 100
-        },
-        "output_rows": {
-          "clean": 171,
-          "mart": 33
-        },
-        "output_bytes": {
-          "raw": 883672,
-          "clean": 18071,
-          "mart": 1508
-        },
-        "started_at": "2026-11-23T14:13:38.612317+00:00",
-        "finished_at": "2026-11-23T14:13:38.742118+00:00",
-        "duration_seconds": 0.13
-      }
-    },
-    {
-      "id": "atti_index",
-      "source_id": "italia_corpus",
-      "status": "ok",
-      "label": "atti_index",
-      "detail": "anno 2026 — mart: si",
-      "action": "",
-      "run": {
-        "run_id": "20261123T141339Z_2b3ee160",
-        "year": 2026,
-        "status": "SUCCESS",
-        "quality_score": {
-          "raw": 100,
-          "clean": 100,
-          "mart": 100
-        },
-        "output_rows": {
-          "clean": 205128,
-          "mart": 1678
-        },
-        "output_bytes": {
-          "raw": 19455207,
-          "clean": 11029528,
-          "mart": 10538
-        },
-        "started_at": "2026-11-23T14:13:39.195042+00:00",
-        "finished_at": "2026-11-23T14:13:40.024349+00:00",
-        "duration_seconds": 0.829
-      }
-    },
-    {
-      "id": "direttive_ue",
-      "source_id": "italia_corpus",
-      "status": "ok",
-      "label": "direttive_ue",
-      "detail": "anno 2026 — mart: si",
-      "action": "",
-      "run": {
-        "run_id": "20261123T141340Z_e7dfd60b",
-        "year": 2026,
-        "status": "SUCCESS",
-        "quality_score": {
-          "raw": 100,
-          "clean": 100,
-          "mart": 100
-        },
-        "output_rows": {
-          "clean": 2672,
-          "mart": 64
-        },
-        "output_bytes": {
-          "raw": 1019548,
-          "clean": 535921,
-          "mart": 1777
-        },
-        "started_at": "2026-11-23T14:13:40.478390+00:00",
-        "finished_at": "2026-11-23T14:13:40.636457+00:00",
-        "duration_seconds": 0.158
-      }
-    },
-    {
-      "id": "normativa",
-      "source_id": "italia_corpus",
-      "status": "ok",
-      "label": "normativa",
-      "detail": "anno 2026 — mart: si",
-      "action": "",
-      "run": {
-        "run_id": "20261123T141341Z_3e9663b4",
-        "year": 2026,
-        "status": "SUCCESS",
-        "quality_score": {
-          "raw": 100,
-          "clean": 100,
-          "mart": 100
-        },
-        "output_rows": {
-          "clean": 22412,
-          "mart": 123
-        },
-        "output_bytes": {
-          "raw": 2877285,
-          "clean": 1671320,
-          "mart": 6201
-        },
-        "started_at": "2026-11-23T14:13:41.094391+00:00",
-        "finished_at": "2026-11-23T14:13:41.382401+00:00",
-        "duration_seconds": 0.288
-      }
-    },
-    {
-      "id": "riferimenti",
-      "source_id": "italia_corpus",
-      "status": "ok",
-      "label": "riferimenti",
-      "detail": "anno 2026 — mart: si",
-      "action": "",
-      "run": {
-        "run_id": "20261124T112710Z_908969f1",
-        "year": 2026,
-        "status": "SUCCESS",
-        "quality_score": {
-          "raw": 100,
-          "clean": 100,
-          "mart": 100
-        },
-        "output_rows": {
-          "clean": 401172,
-          "mart": 299469
-        },
-        "output_bytes": {
-          "raw": 31670079,
-          "clean": 18506706,
-          "mart": 14473314
-        },
-        "started_at": "2026-11-24T11:27:10.892001+00:00",
-        "finished_at": "2026-11-24T11:27:12.601240+00:00",
-        "duration_seconds": 1.709
-      }
-    },
-    {
-      "id": "testi",
-      "source_id": "italia_corpus",
-      "status": "ok",
-      "label": "testi",
-      "detail": "anno 2026 — mart: si",
-      "action": "",
-      "run": {
-        "run_id": "20261123T141344Z_989ee926",
-        "year": 2026,
-        "status": "SUCCESS",
-        "quality_score": {
-          "raw": 100,
-          "clean": 100,
-          "mart": 100
-        },
-        "output_rows": {
-          "clean": 22412,
-          "mart": 143
-        },
-        "output_bytes": {
-          "raw": 100620937,
-          "clean": 86983287,
-          "mart": 2058
-        },
-        "started_at": "2026-11-23T14:13:44.093812+00:00",
-        "finished_at": "2026-11-23T14:13:47.979341+00:00",
-        "duration_seconds": 3.886
-      }
-    }
-  ],
-  "codelists": [],
-  "entities": {
-    "entities": {
-      "Nazione": {
-        "entity": "Nazione",
-        "label": "Nazione",
-        "datasets": [
-          {
-            "slug": "atti_api",
-            "name": "Atti Api",
-            "column": "stato",
-            "semantic_type": "country_code"
-          },
-          {
-            "slug": "atti_index",
-            "name": "Atti Index",
-            "column": "stato",
-            "semantic_type": "country_code"
-          },
-          {
-            "slug": "direttive_ue",
-            "name": "Direttive Ue",
-            "column": "stato",
-            "semantic_type": "country_code"
-          },
-          {
-            "slug": "normativa",
-            "name": "Normativa",
-            "column": "stato",
-            "semantic_type": "country_code"
-          }
-        ],
-        "types": {
-          "country_code": 4
-        }
-      },
-      "Tempo": {
-        "entity": "Tempo",
-        "label": "Tempo / data",
-        "datasets": [
-          {
-            "slug": "atti_api",
-            "name": "Atti Api",
-            "column": "anno",
-            "semantic_type": "year"
-          },
-          {
-            "slug": "atti_index",
-            "name": "Atti Index",
-            "column": "anno",
-            "semantic_type": "year"
-          }
-        ],
-        "types": {
-          "year": 2
-        }
-      }
-    },
-    "bridges": []
-  }
+  "checks": [],
+  "codelists": []
 }
